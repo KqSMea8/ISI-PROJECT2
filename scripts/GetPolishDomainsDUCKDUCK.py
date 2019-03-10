@@ -10,6 +10,7 @@ import requests
 from lxml import html
 import time
 import re
+import sys
 
 print("******************************************")
 print("START: GetPolishDomainsDUCKDUCK ", datetime.datetime.now())
@@ -44,7 +45,7 @@ def search(keywords, max_results=None):
         params = dict(form.fields)
 
 try:
-    for link in search('sites:.pl', max_results=100000):
+    for link in search(sys.argv[1], max_results=100000):
         l = re.search('//(.+)/', link).group(1)
         fileDomain.write(l + '\n')
 except KeyboardInterrupt:

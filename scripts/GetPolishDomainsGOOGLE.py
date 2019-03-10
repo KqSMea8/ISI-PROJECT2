@@ -7,6 +7,7 @@
 
 import datetime
 import re
+import sys
 
 import bs4
 from googlesearch import search
@@ -28,7 +29,7 @@ fileDomain = open("../isidb/pldbgs.data", 'a')
 # pause : Lapse to wait between HTTP requests. Lapse too short may cause Google to block your IP. Keeping significant lapse will make your program slow but its safe and better option.
 # Return : Generator (iterator) that yields found URLs. If the stop parameter is None the iterator will loop forever.
 try:
-    for urlsFromG in search("site:pl", tld="com", lang="pl", num=10, start=0, stop=None, pause=10):
+    for urlsFromG in search(sys.argv[1], tld="com", lang="pl", num=10, start=0, stop=None, pause=10):
         print(' >', urlsFromG) # j is just a string
         temp1 = ''
         try:
