@@ -20,6 +20,6 @@ elif getRoboTXTfromURL[0:5] == "https":
 else:
     file_name = getRoboTXTfromURL[0:getRoboTXTfromURL[0:4].find(".pl")-2]
 
-f = open('robot/'+file_name+'.robot', 'w')
+f = open('RobotsFiles/'+file_name+'.robot', 'w')
 f.write(response.text)
 f.close
