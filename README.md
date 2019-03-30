@@ -1,5 +1,5 @@
 # ISI-PROJECT2
-This project maintained by Jola Z., Wojciech S. and Krzysztof J. is a crawler / search engine for robots.txt files.
+This project maintained by students is a crawler / search engine for robots.txt files.
 
 Basic functionality of the project:
 	1. Download robots.tct from (almost) all polish websites
