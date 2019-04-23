@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /images/thumbnails/
+Disallow: /skins/
+Disallow: /payments/
+Disallow: /store_closed.html
+Disallow: /core/
+Disallow: /lib/
+Disallow: /install/
+Disallow: /js/
+Disallow: /schemas/
+Disallow: /about-our-company.html
+Disallow: /regulamin.html
+Disallow: /regulamin.htm
+Disallow: /regulamin-wysylka-i-czas-realizacji.html
+Disallow: /contact-us.html
+Disallow: /pictograms/
+Disallow: /images/

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /site/administrator/
+Disallow: /site/cache/
+Disallow: /site/components/
+Disallow: /site/images/
+Disallow: /site/includes/
+Disallow: /site/installation/
+Disallow: /site/language/
+Disallow: /site/libraries/
+Disallow: /site/media/
+Disallow: /site/modules/
+Disallow: /site/plugins/
+Disallow: /site/templates/
+Disallow: /site/tmp/
+Disallow: /site/xmlrpc/
+Disallow: /scripts/

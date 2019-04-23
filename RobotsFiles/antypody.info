@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: http://antypody.info/blog/sitemap.xml.gz
+

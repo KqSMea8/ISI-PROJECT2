@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /_console/
+Disallow: /_ADMIN/
+Disallow: /error.html
+Disallow: /error-send.html
+Disallow: /02970_Futura_black_sluchawka_prysznicowa-1578.html
+Disallow: /wyszukiwarka_zaawansowana.html
+Disallow: /links.html
+Disallow: /BISK_SA-p2-0-3-default.html
+Disallow: /_var/gfx/
+Disallow: /write_excel.php?write_html=true&lang=pl&curr_id=6
+Disallow: /_backup/
+Disallow: /newsletter/

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /app/views/wydruk/
+Disallow: /app/views/temp/
+Disallow: /app/views/home/
+Disallow: /app/views/nieruchomosc/
+Disallow: /app/views/polityka-cookies/
+Disallow: */nieruchomosc/*
+Disallow: *?wydruk
+Disallow: /tools/

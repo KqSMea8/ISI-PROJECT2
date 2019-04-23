@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: */ajax.php
+Disallow: */pay/
+Disallow: */feedback/
+Disallow: */search
+Disallow: */tius/
+Disallow: */top-list/
+Disallow: */register/
+Disallow: */user/
+Disallow: */selected-ads
+Disallow: */torg/add/
+Disallow: */my/
+Disallow: */companies/search/
+Disallow: */mail_files/
+Disallow: */my_company/
+Disallow: */mail/
+Host: agronovator.pl
+Sitemap: http://agronovator.pl/sitemap.xml
+

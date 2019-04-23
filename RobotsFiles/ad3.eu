@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /files/
+Disallow: /pix/
+Disallow: /plugins/
+Disallow: /temp/
+Sitemap: sitemap.xml

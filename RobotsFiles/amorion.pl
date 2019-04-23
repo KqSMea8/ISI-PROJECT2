@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /ad/
+Disallow: /avatars/
+Disallow: /class/
+Disallow: /compiled/
+Disallow: /configs/
+Disallow: /files/
+Disallow: /gui/
+Disallow: /gui2/
+Disallow: /gui3/
+Disallow: /gui4/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /libs/
+Disallow: /logs/
+Disallow: /mailer/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /quests/
+Disallow: /screens/
+Disallow: /signatures/
+Disallow: /templates/
+

@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /*action=ajax*
+Disallow: /*tourism-ajax_get_map_markers_list*
+Disallow: /*tourism&action=ajax_get_map_markers_list*
+Disallow: /events-list_only/
+Disallow: /index.php?module=events&action=list_only
+Disallow: /katalogas/
+Disallow: /katalogas/keltas-dreverna-juodkrante/
+Disallow: /members-register_google/
+Disallow: /index.php?module=elements&action=map&ajax=*
+Disallow: /*/atsiliepimai
+Disallow: /data/tourism_objects/list/*
+Disallow: /templates/images/map_icon/cluster/*
