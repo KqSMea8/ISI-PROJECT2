@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /szukaj/
+Disallow: /test/
+Disallow: /cmspages/
+Disallow: /Archiwum/
+Disallow: /img/
+Disallow: /drobne/
+Disallow: /Gazeta/
+Disallow: /imagegen.ashx
+Disallow: /Umbraco
+Sitemap: http://24kurier.pl/sitemap

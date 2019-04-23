@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /profil/
+Disallow: /haslo/resetowanie/
+Disallow: /ksiazka-adresowa/
+Disallow: /przypominajka/
+Disallow: /sendnotifications/
+Disallow: /kartka-elektroniczna/
+Disallow: /kartka/*/ocena/
+Disallow: /PoprawiaczNastroju/
+Disallow: /thumbs/
