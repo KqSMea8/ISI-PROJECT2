@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+Disallow: /fabertec_updated
+Disallow: /*/fav/
+Disallow: /*/basket
+Disallow: /*/p/comment
+Disallow: /pl/basket
+Disallow: /test/
+Disallow: /basket/
+Disallow: /admin/
+Disallow: /panel/
+Disallow: /produkt-testowy
+Disallow: /pl/reg
+Disallow: /fabertec_test_version
+Disallow: /fabertec_test_version1
+Disallow: /kopie_subiekt
+

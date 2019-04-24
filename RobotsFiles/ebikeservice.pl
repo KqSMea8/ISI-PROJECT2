@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author/
+Disallow: /moje-konto/
+Disallow: *?attachment_id=
+Disallow: */trackback
+Disallow: */feed
+Disallow: */embed
+Disallow: */page/
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+#Disallow: /wp/
+
+Host: overflybike.pl
+
+Sitemap: http://overflybike.pl/sitemap.xml
+
+

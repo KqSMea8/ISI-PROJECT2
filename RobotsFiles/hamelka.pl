@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /actions_admin/
+Disallow: /actions_client/
+Disallow: /admin/
+Disallow: /actions_admin/
+Disallow: /config/
+Disallow: /core/
+Disallow: /files/

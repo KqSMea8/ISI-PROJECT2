@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://www.bankmillennium.pl/sitemap.xml

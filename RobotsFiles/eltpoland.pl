@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /cache/
+Disallow: /controllers/
+Disallow: /dictionaries/
+Disallow: /helpers/
+Disallow: /models/
+Disallow: /plugins/
+Disallow: /temp/
+Disallow: /templates/
+Disallow: /.htaccess
+Disallow: /autoloader.php
+Disallow: /channel.html
+Disallow: /config.php
+Disallow: /favicon.ico
+Disallow: /google2677678ed8ca8091.html

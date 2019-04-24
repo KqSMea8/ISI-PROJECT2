@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Admin/
+Disallow: /PDFTool/
+Disallow: /JobOffers/
+Allow: /

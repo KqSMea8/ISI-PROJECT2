@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /Global.asax
+Disallow: /packages.config
+Disallow: /Web.config
+Disallow: /ip.php

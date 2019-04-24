@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+Disallow: /jexr/
+Disallow: /cgi-bin
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /feed/
+Disallow: */feed
+Disallow: /trackback
+Disallow: */trackback
+Disallow: /category/*/*
+Disallow: */comments
+Disallow: /*?*
+
+User-agent: Yandex
+Disallow: /cgi-bin
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /feed/
+Disallow: */feed
+Disallow: /trackback
+Disallow: */trackback
+Disallow: /category/*/*
+Disallow: */comments
+Disallow: /*?*
+Host: http://optitaxi.pl/
+

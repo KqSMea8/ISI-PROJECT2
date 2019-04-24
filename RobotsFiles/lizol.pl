@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: /cache
+Disallow: /cms
+Disallow: /controller
+Disallow: /libs
+Disallow: /php
+Disallow: /tmp
+

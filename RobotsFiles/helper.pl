@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /build/
+Disallow: /Cart/
+Disallow: /Cart/admin/
+Disallow: /Cart/images/
+Disallow: /Cart/java/
+Disallow: /fiskalne/
+Disallow: /images/
+Disallow: /include/
+Disallow: /informatyka/
+Disallow: /ip/
+Disallow: /java/
+Disallow: /rtfs/
+Disallow: /safety/images/
+Disallow: /safety/template/
+Disallow: /stat/
+Disallow: /wapro/waprostyle/
+

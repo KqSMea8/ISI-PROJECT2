@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /user/
+Disallow: /profile/
+Disallow: /faktura/
+Disallow: /coming_soon/
+Disallow: */?*
+Allow: /*?v=
+Allow: /*.js
+Allow: /*.css
+Allow: /css/*
+Host: https://businesbox.com
+Sitemap: https://businesbox.com/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /app/
+Disallow: /assets/
+Disallow: /controller/
+Disallow: /log/
+Disallow: /model/
+Disallow: /templates/
+Disallow: /view/

@@ -1,0 +1,10 @@
+Sitemap: http://www.cloustudio.pl/sitemap.xml
+User-agent: *
+Disallow: /realizacje/
+Disallow: /makieta/
+Disallow: /prv/
+Disallow: /responsive/
+Disallow: /scripts/
+Disallow: /wieliczka/
+Disallow: /admin/
+Disallow: /cms/

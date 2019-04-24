@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /login/
+Disallow: /sklep/login/
+Disallow: /login/
+Disallow: /hilding/login/
+Disallow: /login/
+Disallow: /rewolucjasnu/login/
+Sitemap: https://www.materace.sklep.pl/sitemap.xml

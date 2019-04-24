@@ -142,7 +142,7 @@ removeEvent(evts[i], logHuman);
 for (var i = 0; i < evts.length; i++) {
 addEvent(evts[i], logHuman);
 }
-})('//www.29colors.pl/?wordfence_lh=1&hid=3490691A28A3AC212786E6E4B7FC6013');
+})('//www.29colors.pl/?wordfence_lh=1&hid=A5913C154316190EF9CBC881C4E80B7D');
 </script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

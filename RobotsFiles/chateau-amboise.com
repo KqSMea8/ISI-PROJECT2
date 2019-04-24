@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administration/
+Disallow: /stats/
+Disallow: /ajoutpanier.php
+Disallow: /ajout_panier.php
+Disallow: /cgdv.php
+Disallow: /compte.php
+Disallow: /contact.php
+Disallow: /condition.php
+Disallow: /conditions.html
+Disallow: /conditions.php
+Disallow: /conditions2.html
+Disallow: /inscription.php
+Disallow: /login.php
+Disallow: /panier.php
+Disallow: /passoublie.php
+Disallow: /passeoublie.php
+Disallow: /mentions-legales.php
+

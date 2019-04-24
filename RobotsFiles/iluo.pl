@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /forum/
+Disallow: /partnerzy-dane-aktualnosci/
+Disallow: /forums/
+Disallow: /partnerzy-logowanie
+Disallow: /partnerzy-dane-zmien
+Disallow: /partnerzy-dane-zmien-formularz

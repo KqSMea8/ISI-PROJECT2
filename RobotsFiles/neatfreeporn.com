@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /gleb/
+Disallow: /?a=ajax
+Disallow: /?a=abuse
+Disallow: /counter
+
+User-agent: bingbot
+Disallow: /gleb/
+Disallow: /?a=ajax
+Disallow: /?a=abuse
+Disallow: /counter
+Crawl-delay: 10
+

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://mojeauto.pl/sitemap.xml
+

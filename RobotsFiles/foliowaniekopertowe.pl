@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /phpmyadmin/
+Disallow: /szablon1cz.php
+Disallow: /szablon1czindex.php
+Disallow: /access.log
+Disallow: /err.log
+Disallow: /style.css
+Disallow: /style2.css
+Disallow: /szablon2cz.php
+Disallow: /szablon2czindex.php
+Disallow: /transfer.log

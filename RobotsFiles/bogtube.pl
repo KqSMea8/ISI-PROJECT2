@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /relatedclips.php
+Disallow: /fpembed.php
+Disallow: /embed.php
+Disallow: /embed/
+Disallow: /mobile/
+

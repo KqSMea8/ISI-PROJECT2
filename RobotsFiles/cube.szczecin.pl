@@ -1,0 +1,50 @@
+Disallow: /Logowanie.aspx
+User-agent: *
+Disallow: /PobierzPlik.aspx
+User-agent: *
+Disallow: /porady_kopiadanych.aspx
+User-agent: *
+Disallow: /odwiedziny.aspx
+User-agent: *
+Disallow: /kontaktodpo.aspx
+User-agent: *
+Disallow: /pobieraniepliku.aspx
+User-agent: *
+Disallow: /zamowienie.aspx
+User-agent: *
+Disallow: /podzinfo.aspx
+User-agent: *
+Disallow: /Wzorcowa.master
+User-agent: *
+Disallow: /KoniecSesji.aspx
+User-agent: *
+Disallow: /bl_404.aspx
+User-agent: *
+Disallow: /Kasa_test.aspx
+User-agent: *
+Disallow: /Zam_lista.aspx
+User-agent: *
+Disallow: /aktualizacje.aspx
+User-agent: *
+Disallow: /aktualizacje_Nowe.aspx
+User-agent: *
+Disallow: /cennikedit.aspx
+User-agent: *
+Disallow: /cennikobsl.aspx
+User-agent: *
+Disallow: /dostepnosc.aspx
+User-agent: *
+Disallow: /zamowienie.aspx
+User-agent: *
+Disallow: /rozszerzenia.aspx
+User-agent: *
+Disallow: /naprobe.aspx
+User-agent: *
+Disallow: /test.aspx
+User-agent: *
+Disallow: /test1.aspx
+User-agent: *
+Sitemap://www.cube.szczecin.pl/sitemap.xml
+
+
+

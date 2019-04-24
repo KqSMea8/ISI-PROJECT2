@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: admin.php
+Disallow: config
+Disallow: header
+Disallow: footer
+Disallow: pntables
+Disallow: /images
+Disallow: /includes
+Disallow: /themes
+Disallow: /pnTemp
+Disallow: /docs
+Disallow: /javascript
+Disallow: /temp
+Disallow: /pics
+Disallow: /images
+

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /pear/
+Disallow: /includes/
+Disallow: /libs/
+Disallow: /templates/
+Disallow: /zasoby/File/
+Disallow: /zasoby/Flash/
+Disallow: /zasoby/Media/

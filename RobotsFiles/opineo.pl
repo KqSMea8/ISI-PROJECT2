@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /redirect.php
+Disallow: /box_redirect.php
+Disallow: /openx
+Disallow: /?szukaj=
+Disallow: /?s=
+Disallow: /certyfikat_q/
+Disallow: /opinia/
+Disallow: /produkt/

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: */cgi-bin/
+Disallow: */core/
+Disallow: */database/
+Disallow: */files/
+Disallow: */komunikaty_bledow/
+Disallow: */plugins/
+Disallow: */statystyka/
+Disallow: */templates/
+Disallow: */admin.html

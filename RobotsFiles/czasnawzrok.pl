@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /polityka-prywatnosci/
+Disallow: /app/
+Disallow: /stale/
+Disallow: /czym_jest/
+Disallow: /solutions/
+Disallow: /places/
+Disallow: /rozwiazania_dla/
+Disallow: /znajdz-optyka/
+Disallow: /regulamin-wyzwania/
+Disallow: /test/add1.php
+Disallow: /test/add2.php
+Disallow: /test/step2.php
+Disallow: /test/step3.php
+Disallow: /test/step4.php
+Disallow: /test/step5_left.php
+Disallow: /test/step6.php?eye=right
+Disallow: /hello-world/
+
+Sitemap: https://czasnawzrok.pl/sitemap.xml

@@ -1,0 +1,43 @@
+User-agent: *
+
+Disallow: /news/drukuj_news.php
+Disallow: /boot/
+Disallow: /_rdzen/
+Disallow: /office/
+Disallow: /office_new/
+Disallow: /miss/
+Disallow: /luzak/
+Disallow: /galeria/
+Disallow: /_lib/
+Disallow: /_img/
+Disallow: /_demon_new/
+Disallow: /_css/
+Disallow: /dokumenty/
+Disallow: /_index_widgets/_zakladki_html/
+Disallow: /img/
+Disallow: /jquery/
+Disallow: /js/
+Disallow: /mailing/
+Disallow: /pliki/
+Disallow: /info/
+Disallow: /zkm/
+Disallow: /wosp/
+Disallow: /airsochaczew/
+Disallow: /sochaczew/
+Disallow: /_backoffice/
+
+Disallow: /komendatek/buttons/
+Disallow: /komendatek/cms/
+Disallow: /komendatek/download/
+Disallow: /komendatek/galerie/
+Disallow: /komendatek/hit/
+Disallow: /komendatek/i_gora_files/
+Disallow: /komendatek/images/
+Disallow: /komendatek/koncerty/
+Disallow: /komendatek/obrazy/
+Disallow: /komendatek/okladki/
+
+User-agent: Buck/2.2
+Disallow: /
+User-agent: grapeshot
+Disallow: /

@@ -1,0 +1,14 @@
+# http://www.mpblab.vizja.pl/
+User-Agent: *
+Disallow: /seminarium.html
+Disallow: /documents/seminarium/
+Disallow: /documents/seminarium/Basic_Readings.zip
+Disallow: /documents/seminarium/Info_students_1meeting.doc
+Disallow: /seminarium2006_2008.html
+Disallow: /seminarium2007_2009.html
+Disallow: /seminarium2008_2010.html
+Disallow: /documents/wprowadzenie/
+Disallow: /documents/psymuzyki/
+Disallow: /metodologia.html
+Disallow: /psymuzyki.html
+Disallow: /wprowadzenie.html

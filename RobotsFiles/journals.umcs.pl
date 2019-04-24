@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: cache/
+Disallow: classes/
+Disallow: controllers/
+Disallow: dbscripts/
+Disallow: docs/
+Disallow: help/
+Disallow: js/
+Disallow: lib/
+Disallow: locale/
+Disallow: pages/
+Disallow: plugins/
+Disallow: registry/
+Disallow: rt/
+Disallow: styles/
+Disallow: templates/
+Disallow: tools/
+Disallow: articles/
+

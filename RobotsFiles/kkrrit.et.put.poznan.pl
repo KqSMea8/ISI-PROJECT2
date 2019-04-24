@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /grafika
+Disallow: /js
+Disallow: wstep.html
+Disallow: komitet.html
+Disallow: kontakt.html
+Disallow: naglowek.html
+Disallow: nawigacja.html
+Disallow: tematyka.html
+Disallow: terminy.html

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /alle/
+Disallow: /allegro/
+Disallow: /banner-2013/
+Disallow: /bannery-geberit/
+Disallow: /cennik/
+Disallow: /CRH/
+Disallow: /css/
+Disallow: /ekspozycja/
+Disallow: /fancybox/
+Disallow: /grohe/
+Disallow: /i/
+Disallow: /images/
+Disallow: /js/
+Disallow: /marki/
+Disallow: /obrazeczek/
+Disallow: /on-off/
+Disallow: /plusk.pl.allegro.backup/
+Disallow: /projektowanie/
+Disallow: /slider/
+

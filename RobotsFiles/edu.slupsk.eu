@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<base href="https://edu.slupsk.eu/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="pl" />
+<meta name="language" content="polski" />
+<meta name="author" content="INVENTOR Multimedia" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>Slupsk</title>
+<link href="res/css/index.css?v=BEC2Tw" type="text/css" rel="stylesheet" />
+<link href="res/moo/css/slimbox.css?v=Xb6LTQ" type="text/css" rel="stylesheet" />
+<link href="favicon.ico?v=ygmpSA" type="image/x-icon" rel="shortcut icon" />
+<script src="_res/utils.js?v=HSedSQ" type="text/javascript" charset="iso-8859-2"></script>
+<script src="res/moo/mootools.js?v=s566TQ" type="text/javascript" charset="iso-8859-2"></script>
+<script src="res/moo/slimbox.js?v=h72LTQ" type="text/javascript" charset="iso-8859-2"></script>
+<script src="script.js?v=uNSIUQ" type="text/javascript" charset="iso-8859-2"></script>
+<script src="res/js/no-glass.js?v=SOoWTg" type="text/javascript" charset="iso-8859-2"></script>
+<script src="res/js/main-box.js?v=MOoWTg" type="text/javascript" charset="iso-8859-2"></script>
+</head>
+<body class="">
+<div id="root">
+<div id="top-logo"><a href="."></a></div>
+<div id="top">
+<div class="top-linki"></div>
+</div>
+<div id="root-t">
+<div class="top-szukaj">
+<div class="top-kontrast">
+<a href=".?_kontrast=1">Wersja <img src="res/gfx/kontrast.png" alt="" border="0" /></a>
+</div>
+<div class="top-szukaj-in"><form class="szukaj" method="get" action="szukaj/">
+<div class="in-a"><div class="in-b"><div class="in-c"><input type="text" name="q" value=" " class="q" /></div></div></div>
+<input type="submit" value="" class="submit" />
+</form></div>
+</div>
+<div class="main-menu">
+<ul  class="ivmenu horz"><li class="first click"><a href="aktualnosci/">Aktualnosci</a></li><li><a href="placowki/">Placowki</a></li><li><a href="niepelnosprawnosc/">Niepelnosprawni</a></li><li><a href="programy_ue/">Programy UE</a></li><li><a href="multimedia/">Multimedia</a></li><li><a href="sport/">Sport</a></li><li><a href="dokumenty/">Do pobrania</a></li><li><a href="kalendarium/">Kalendarium</a></li><li class="last"><a href="kontakt/">Kontakt</a></li></ul><div style="clear:both;height:0px;overflow:hidden"></div>
+</div>
+</div>
+<div id="root-m">
+
+<div id="root-left">
+?
+</div>
+
+<div id="root-right">
+<div id="ml"><div id="mlll"></div></div>
+</div>
+
+<div class="clear"></div>
+<div id="bottom">
+<div id="bottom2">
+
+
+<div class="left">
+Copyright &copy; 2011 Urzad Miejski w Slupsku <b>Wydzial Informatyczny</b>, tel.: (59) 848 83 13, <a href="mailto:wi@um.slupsk.pl">wi@um.slupsk.pl</a>
+<div class="hrr"></div>
+</div>
+
+<div class="right">
+<br />
+Projekt i wykonanie: <a href="http://www.inventor.com.pl/" target="_blank">INVENTOR Multimedia</a>
+</div>
+
+<div class="left">
+Nadzor merytoryczny:<br />
+
+<b>Urzad Miejski w Slupsku Wydzial Edukacji</b>, Plac Zwyciestwa 3, 76-200 Slupsk<br />
+tel.: (59) 848 83 22, fax: (59) 842 47 60, e-mail: <a href="mailto:we@um.slupsk.pl">we@um.slupsk.pl</a><br />
+pokoje: 200, 201, 202, 203, 204, 205<br />
+</div>
+
+<div class="clear"></div>
+
+<div style="text-align:center; margin-top:16px">
+<img src="res/gfx/ue.png" width="650" height="66" alt="" border="0" /><br />
+<div style="margin-top:12px">Projekt finansowany w ramach Regionalnego Programu Operacyjnego dla Wojewodztwa Pomorskiego na lata 2007-2013</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+</div>
+<div id="root-b"></div>
+
+<div class="btm-menu">
+<div class="btm-menu-l"></div>
+<div class="btm-menu-r"></div>
+<div class="btm-menu-m">
+<div class="bottom-menu"><ul  class="ivmenu horz"><li class="first click"><a href="aktualnosci/">Aktualnosci</a></li><li><a href="placowki/">Placowki</a></li><li><a href="niepelnosprawnosc/">Niepelnosprawni</a></li><li><a href="programy_ue/">Programy UE</a></li><li><a href="multimedia/">Multimedia</a></li><li><a href="sport/">Sport</a></li><li><a href="dokumenty/">Do pobrania</a></li><li><a href="kalendarium/">Kalendarium</a></li><li class="last"><a href="kontakt/">Kontakt</a></li></ul><div style="clear:both;height:0px;overflow:hidden"></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-3531771-5']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+</body>
+</html>

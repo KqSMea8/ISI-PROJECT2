@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /facebook
+Disallow: /facebook/
+Disallow: /mobile
+Disallow: /mobile/
+Disallow: /session
+Disallow: /session/
+Disallow: /questions/new
+Sitemap: http://forum.somfy.pl/sitemap.xml

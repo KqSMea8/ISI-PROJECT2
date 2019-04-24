@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /bez_cms/
+Disallow: /emodul/
+Disallow: /galeria/
+Disallow: /glassmix/
+Disallow: /images/
+Disallow: /inc/
+Disallow: /obrazki/
+Disallow: /ows/
+Disallow: /stare/
+Disallow: /szyby/
+Disallow: /userfiles/
+Disallow: /do_pobrania/
+Disallow: /js/
+Disallow: /key/
+
+Sitemap: http://www.bojar.com.pl/sitemap.xml

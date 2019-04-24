@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+User-agent: Googlebot
+Allow: /
+Disallow: /wp-admin/
+User-agent: Slurp
+Allow: /
+Disallow: /wp-admin/
+User-Agent: msnbot
+Allow: /
+Disallow: /wp-admin/

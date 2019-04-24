@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://bezviz.by/sitemap.xml
+Sitemap: https://bezviz.by/sitemap_events.xml
+Sitemap: https://bezviz.by/sitemap_objects.xml
+Disallow: /lt/border/rules
+Disallow: /pl/border/rules
+Disallow: /en/border/rules
+Disallow: /ru/border/rules
+Host: bezviz.by

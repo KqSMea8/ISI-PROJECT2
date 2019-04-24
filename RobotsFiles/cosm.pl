@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /!photo/
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+Disallow: /_zawirusowane/
+Disallow: /cgi-bin/
+Disallow: /esta/
+Disallow: /estaszczecin/
+Disallow: /estaszczecin_old/
+Disallow: /iurista/
+Disallow: /mediekspert/
+Disallow: /private/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /_esta_old/

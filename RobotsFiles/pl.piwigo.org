@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pl"  dir="ltr">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta name="google-site-verification" content="ZtCOdnWB4uApRb14TLrXoJHIbzGpowhoCEoN4xYWTB4" />
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" type="text/css" href="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/vendor/fontello/css/fontello.css">
+<link rel="stylesheet" type="text/css" href="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/fonts/open-sans/open-sans.css">
+<link rel="stylesheet" type="text/css" href="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/css/piwigodotorg.css?201904041641">
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/js/jquery-3.2.1.min.js"></script>
+<script src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/vendor/masonry-layout/dist/masonry.pkgd.min.js"></script>
+<script src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/vendor/clipboard/clipboard.min.js"></script>
+<script src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/js/validator.min.js"></script>
+<script src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/js/piwigodotorg.js"></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="themes/default/icon/favicon.ico">
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.piwigo.org","*.fr.piwigo.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//piwigo.us/piwik/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '1']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript><p><img src="//piwigo.us/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</head>
+<body>
+<nav class="navbar navbar-default">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/piwigo.org.svg" alt="Piwigo.org" title="go to Piwigo.org home page"></a>
+</div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="/"><span class="glyphicon glyphicon-home"></span>Dom</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-globe"></span>  Odkrywaj <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+<ul class="dropdown-menu dropdown-menu-left">
+<li><a href="https://pl.piwigo.org/czym-jest-piwigo">Czym jest Piwigo?</a></li>
+<li><a href="https://pl.piwigo.org/wlasciwosci">Wlasciwosci</a></li>
+<li><a href="https://pl.piwigo.org/dziennik-zmian">Dziennik zmian</a></li>
+<li><a href="https://pl.piwigo.org/referencje">Testimonials</a></li>
+</ul>
+</li>
+<li class=""><a href="//pl.piwigo.org/ext"><i class="icon-puzzle"></i>Rozszerzenia</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-wrench"></span>Wsparcie <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+<ul class="dropdown-menu dropdown-menu-left">
+<li><a href="https://pl.piwigo.org/rozpocznij">Rozpocznij prace</a></li>
+<li><a href="//pl.piwigo.org/forum/">Forum</a></li>
+<li><a href="//pl.piwigo.org/doc/">Dokumentacja</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-info-sign"></span> O Piwigo <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+<ul class="dropdown-menu dropdown-menu-left">
+<li><a href="https://pl.piwigo.org/o-nas">O nas</a></li>
+
+<li><a href="https://pl.piwigo.org/zaangazuj-sie">Zaangazuj sie</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-comment"></span> Nowosci <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+<ul class="dropdown-menu dropdown-menu-left">
+<li><a href="https://pl.piwigo.org/nowosci">Ostatnie nowosci</a></li>
+<li><a href="https://pl.piwigo.org/newsletter">Newsletters</a></li>
+</ul>
+</li>
+<li class="pwg-navbar-button">
+<a href="//piwigo.org/demo/" class="pwg-navbar-button-demo"><span>Demo</span></a>
+<a href="https://pl.piwigo.org/pobierz-piwigo" class="pwg-navbar-button-get-piwigo"><span>Pobierz Piwigo</span></a>
+</li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<section class="container-fluide container-error404">
+<div class="container equal">
+<div class="col-md-6 col-xs-12">
+<h1>Whoops</h1>
+<p>Sorry, but the page you were looking for could not be found...</p>
+<a class="btn" href="https://pl.piwigo.org//">Home</a>
+</div>
+<div class="col-md-6 col-xs-12">
+<div class="error404-logo"></div>
+</div>
+</div>
+</section>
+<footer>
+<div class="container-fluide footer">
+<div class="container">
+<div class="row">
+<div class="col-md-2">
+<div class="text-center icon-social-media">
+<a href="https://www.facebook.com/Piwigo"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/footer/facebook.svg" class="icon-facebook" alt="Facebook icon"></a>
+<a href="https://twitter.com/piwigo"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/footer/twitter.svg" class="icon-twitter" alt="Twitter icon"></a>
+<a href="https://github.com/Piwigo"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/footer/github.svg" class="icon-github" alt="Github icon"></a>
+</div>
+<div class="row">
+<div class="col-md-12 col-xs-6">
+<div class="footer-donate-content">
+<a type="button" class="btn" href="https://pl.piwigo.org/zaangazuj-sie#donate"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/footer/donate.svg" alt="Donate to Piwigo"/>Wesprzyj</a>
+</div>
+</div>
+<div class="col-md-12 col-xs-6">
+<div class=" footer-newspaper-content">
+<a type="button" class="btn" href="https://pl.piwigo.org/newsletter"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/footer/newsletters.svg" alt="Newsletter from Piwigo"/>Newsletters</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-8 equal footer-list">
+<div class="col-md-15 col-xs-6">
+<h5>Odkrywaj</h5>
+<ul>
+<li><a href="//piwigo.org/demo/">Demo</a></li>
+<li><a href="https://pl.piwigo.org/czym-jest-piwigo">Czym jest Piwigo?</a> </li>
+<li><a href="https://pl.piwigo.org/wlasciwosci">Wlasciwosci</a> </li>
+<li><a href="//pl.piwigo.org/showcase/">Przyklady uzycia</a></li>
+<li><a href="https://pl.piwigo.org/dziennik-zmian">Dziennik zmian</a></li>
+<li><a href="https://pl.piwigo.org/referencje">Testimonials</a></li>
+</ul>
+</div>
+<div class="col-md-15 col-xs-6">
+<h5>Rozszerzenia</h5>
+<ul>
+<li><a href="//pl.piwigo.org/ext/">Tematy</a></li>
+<li><a href="//pl.piwigo.org/ext/">Wtyczki</a> </li>
+<li><a href="//pl.piwigo.org/ext/">Jezyki</a></li>
+</ul>
+</div>
+<div class="col-md-15 col-xs-6">
+<h5>Wsparcie</h5>
+<ul>
+<li><a href="//pl.piwigo.org/forum/">Forum</a></li>
+<li><a href="//pl.piwigo.org/doc/">Dokumentacja</a> </li>
+<li><a href="https://pl.piwigo.org/rozpocznij">Rozpocznij prace</a></li>
+</ul>
+</div>
+<div class="col-md-15 col-xs-6">
+<h5>O Piwigo</h5>
+<ul>
+<li><a href="https://pl.piwigo.org/o-nas">O nas</a></li>
+
+<li><a href="https://pl.piwigo.org/zaangazuj-sie">Zaangazuj sie</a></li>
+</ul>
+</div>
+<div class="col-md-15 col-xs-6">
+<h5>Nowosci</h5>
+<ul>
+<li><a href="https://pl.piwigo.org/nowosci">Co nowego?</a></li>
+<li><a href="https://pl.piwigo.org/newsletter">Newsletters</a> </li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 text-center">
+<div class="row">
+<div class="col-xs-12 footer-piwigo-logo">
+<a href="/"><img src="http://pl.piwigo.org/./plugins/piwigo-piwigodotorg/images/piwigo.org.svg" alt="Piwigo.org" title="go to Piwigo.org home page"></a>
+</div>
+<div class="col-xs-12 footer-language">
+<li class="dropdown active">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-globe"></span>Languages</a>
+<ul class="dropdown-menu">
+<li><a href="https://da.piwigo.org">Dansk</a></li>
+<li><a href="https://de.piwigo.org">Deutsch</a></li>
+<li><a href="https://piwigo.org">English</a></li>
+<li><a href="https://es.piwigo.org">Espanol</a></li>
+<li><a href="https://fr.piwigo.org">Francais</a></li>
+<li><a href="https://it.piwigo.org">Italiano</a></li>
+<li><a href="https://nl.piwigo.org">Nederlands</a></li>
+<li><a href="https://pl.piwigo.org">Polski</a></li>
+<li><a href="https://br.piwigo.org">Portugues Brasil</a></li>
+<li><a href="https://tr.piwigo.org">Turkce</a></li>
+<li><a href="https://ru.piwigo.org">Russkii</a></li>
+<li><a href="https://cn.piwigo.org">Jian Ti Zhong Wen </a></li>
+</ul>
+</li>
+</div>
+<div class="footer-contact col-md-12 col-xs-6">
+<a href="https://pl.piwigo.org/kontakt"><span class="glyphicon glyphicon-envelope"></span>Kontakt</a>
+</div>
+<div class="footer-copyright col-md-12 col-xs-6">
+<p>Piwigo.org <span title="0.023 s">(c)</span><br>2002-2019</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>
+

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /xmlrpc.php
+Disallow: /wp-admin/
+Disallow: /wp-load.php
+Disallow: /?themeoption=ustawienia
+Sitemap: http://autokary-katowice.com.pl/sitemap_index.xml
+

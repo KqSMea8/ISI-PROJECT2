@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /gdvpl/albums/
+Disallow: /gdvpl/cache/
+Disallow: /gdvpl/themes/
+Disallow: /gdvpl/zp-core/
+Disallow: /gdvpl/zp-data/
+Disallow: /gdvpl/page/search/
+Disallow: /gdvpl/uploaded/
+Disallow: /gdvpl/rss.php
+Disallow: /gdvpl/rss-comments.php
+Disallow: /gdvpl/README.html
+Disallow: /gdvpl/rss-news-comments.php
+Disallow: /gdvpl/rss-news.php

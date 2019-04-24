@@ -1,0 +1,37 @@
+Sitemap: http://www.kompsystem.pl/sitemap.xml
+
+User-agent: *
+
+Disallow: /allegro/
+Disallow: /css/
+Disallow: /demo/
+Disallow: /docs/
+Disallow: /download/
+Disallow: /foto_skalpel/
+Disallow: /foto_uam/
+Disallow: /hosting/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /kontakt_zbedny/
+Disallow: /kopiamazbitok3/
+Disallow: /kopiamazbitok4/
+Disallow: /lib/
+Disallow: /mazbit/
+Disallow: /menu/
+Disallow: /netbooki/
+Disallow: /new/
+Disallow: /new2/
+Disallow: /old/
+Disallow: /pizza/
+Disallow: /pizza_old/
+Disallow: /pizza3/
+Disallow: /pobieranie/
+Disallow: /projekty/
+Disallow: /rolkas/
+Disallow: /scripts/
+Disallow: /slider/
+Disallow: /SR/
+Disallow: /SR2/
+Disallow: /themes/
+Disallow: /unofani_foto/

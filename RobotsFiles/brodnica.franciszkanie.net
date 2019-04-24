@@ -1,0 +1,6 @@
+Sitemap: http://brodnica.franciszkanie.net/sitemap.xml
+Sitemap: http://brodnica.franciszkanie.net/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

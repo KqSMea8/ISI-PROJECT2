@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /ms
+Disallow: /miniaturyb
+Disallow: /an
+Disallow: /st
+Disallow: /pub
+Disallow: /staty
+Disallow: /testownia
+Disallow: /astaty
+Disallow: /old
+Disallow: /greybox
+Disallow: /fotyf
+Disallow: /fotyb
+Disallow: /miniaturyf
+Disallow: /foty_fora
+Disallow: /forum
+Allow: /strem
+Allow: /
+

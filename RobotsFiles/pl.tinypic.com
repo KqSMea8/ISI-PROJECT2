@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /language.php
+Disallow: /track.php
+Disallow: /ad.php
+

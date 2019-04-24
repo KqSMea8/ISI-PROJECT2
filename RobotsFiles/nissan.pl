@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User-agent: *
+Disallow: /tel*
+Disallow: *_jcr_content.logout.html
+Disallow: *jcr_content.logout.html
+Disallow: *jcr:content.proxy.json
+Disallow: *_jcr_content*
+Disallow: *jcr:content*
+Disallow: /*?*page*
+Disallow: /*?*size*
+Disallow: /*?*location*
+Disallow: *?modelSpecCode=*
+Disallow: /*?query=*
+
+Sitemap: https://www.nissan.pl/index.pages-sitemap.xml

@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /panel/
+Allow: /
+
+

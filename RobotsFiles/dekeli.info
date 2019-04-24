@@ -1,0 +1,11 @@
+Sitemap: http://www.dekeli.info/sitemap.xml
+
+User-agent: *
+Disallow: /classes/
+Disallow: /Collect/full
+Disallow: /mailer/
+Disallow: /share42/
+Disallow: /SQL/
+Disallow: /system/
+Disallow: /temp/
+Disallow: /test/

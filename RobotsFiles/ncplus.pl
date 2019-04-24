@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wyszukaj?search=*
+Disallow: /sklep/oferta/comfortplus-hbo/
+Disallow: /sklep/oferta/universeplus-hbo/
+Disallow: /sklep/promocje/call-back-ironman/
+Disallow: /sklep/call-back-ironman/
+Disallow: /pomoc-nowa-nieaktywowana
+Sitemap: http://ncplus.pl/sitemap

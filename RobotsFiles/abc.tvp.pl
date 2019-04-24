@@ -113,6 +113,22 @@ Dla Rodzicow</a>
 <img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
+<div class="head">Peppa<BR>w ksiazeczkach</div>
+<div class="sep"></div>
+<p>O przygodach swinki Peppy mozna czytac w kolorowych ksiazeczkach, wydawanych przez MEDIA SERVICE ZAWADA. Wlasnie ukazala sie opowiesc <b>,,Blotniste kaluze"</b>,<BR>pelna zadan i labiryntow.</p>
+<a href="http://abc.tvp.pl/42319731/swinka-peppa-blotniste-kaluze" class="ubtn">zobacz</a>
+
+</div>
+<div class="infoimage">
+<img src="http://s.tvp.pl/images2/9/a/c/uid_9ac97c5f4f33fad72ffb890f0845e24f1556024277787_width_400_play_0_pos_0_gs_0_height_259.jpg" alt="">
+
+</div>
+</li>
+<li>
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
+
+<div class="txt banner-hp">
 <div class="head">Alleluja!</div>
 <div class="sep"></div>
 <p>Rekomendujemy nowa plyte ARKI NOEGO <b>,,Hip, hip, hura, Alleluja 2019"</b><BR>z wielkanocnymi piesniami i piosenkami. To pomoc dla rodzicow i nauczycieli, ktorzy chca zachecic dzieci do poznania historii i glebszego przezycia Swiat Wielkanocnych.</p>
@@ -125,8 +141,9 @@ Dla Rodzicow</a>
 </div>
 </li>
 <li>
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
+
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">juz<BR>jest!</div>
@@ -143,9 +160,8 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">???</div>
@@ -160,8 +176,9 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
+
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Wspieraj!</div>
@@ -176,9 +193,8 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Lubicie<BR>smoki?</div>
@@ -193,8 +209,9 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
+
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Wyprawy<BR>z Pompikiem</div>
@@ -209,9 +226,8 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Zabawa<BR>z Super Wings</div>
@@ -226,8 +242,9 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
+
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Premiera</div>
@@ -242,9 +259,8 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Co<BR>wybrac?</div>
@@ -259,8 +275,9 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
+
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Nowosci<BR>w serii...</div>
@@ -275,9 +292,8 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 </div>
 </li>
 <li>
-
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1.jpg" alt="" class="desctop tablet">
-<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i1-cell.jpg" alt="" class="cell">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2.jpg" alt="" class="desctop tablet">
+<img draggable="false" src="//s.tvp.pl/files/portale-v4/tvp-abc/gfx/banner-i2-cell.jpg" alt="" class="cell">
 
 <div class="txt banner-hp">
 <div class="head">Na 5!</div>
@@ -300,23 +316,23 @@ Magazynu TVP ABC - pelne zagadek i lamiglowek<BR> z ulubiencami dzieci. <BR>Pole
 <h2>program na dzis</h2>
 
 <a href="/program-abc" class="elem">
-<span class="time">Teraz<span>12:20</span></span>
-<span class="title">Mis Uszatek</span>
-<span class="desc">Nakretka, odc. 58</span>
+<span class="time">Teraz<span>18:05</span></span>
+<span class="title">My Little Pony, seria V</span>
+<span class="desc">Detektyw Rarity, odc. 15</span>
 <span class="sep"></span>
 </a>
 
 <a href="/program-abc" class="elem red">
-<span class="time dr">Za Chwile<span>12:25</span></span>
-<span class="title">Mis Uszatek</span>
-<span class="desc">Kto potrafi, odc. 60</span>
+<span class="time dr">Za Chwile<span>18:30</span></span>
+<span class="title">Shimmer i Shine</span>
+<span class="desc">Maskowa zagadka/Utrata glosu, odc. 35</span>
 <span class="sep"></span>
 </a>
 
 <a href="/program-abc" class="elem yellow">
-<span class="time">Pozniej<span>12:35</span></span>
-<span class="title">Mis Uszatek</span>
-<span class="desc">Spoznione sniadanie, odc. 61</span>
+<span class="time">Pozniej<span>19:00</span></span>
+<span class="title">Wieczorynka</span>
+<span class="desc">Rodzina Rabatkow</span>
 <span class="sep"></span>
 </a>
 <div class="clear"></div>
@@ -994,6 +1010,11 @@ i dla rodzicow
 <li>
 <a href="/42141206/arka-noego-hip-hip-hura-alleluja-2019"><span class="bordercover"></span><span class="img"><img src="http://s.tvp.pl/images2/f/3/f/uid_f3f3676df81f6d854c1ff0135aa5e7551554889077859_width_160_play_0_pos_0_gs_0_height_160.jpeg" alt="" /></span>
 <span>ARKA NOEGO ,,Hip, hip, hura, Alleluja 2019"</span>
+</a>
+</li>
+<li>
+<a href="/42319731/swinka-peppa-blotniste-kaluze"><span class="bordercover"></span><span class="img"><img src="http://s.tvp.pl/images2/1/4/b/uid_14b373b37dfbe11ab9cb069fc49574c11556023135539_width_160_play_0_pos_0_gs_0_height_160.jpg" alt="" /></span>
+<span>Swinka Peppa  ,,Blotniste kaluze"</span>
 </a>
 </li>
 <li>

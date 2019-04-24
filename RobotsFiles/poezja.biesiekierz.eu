@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+Disallow: *&
+Disallow: /files/
+Disallow: /galeria/
+Disallow: /media/
+Disallow: /tmp/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/

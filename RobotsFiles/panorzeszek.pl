@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /uploads/
+Disallow: /js/
+Disallow: /koszyk/
+Disallow: /skins/
+Disallow: /logowanie/
+Disallow: /odzyskaj_haslo/
+Disallow: /szukanie_zaawansowane/
+Disallow: /strona/regulamin-sklepu

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /cron/?
+Disallow: /front/
+Disallow: /includes/
+Disallow: /install/
+Disallow: /packages/
+Disallow: /updates/

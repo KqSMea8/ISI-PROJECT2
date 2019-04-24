@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /ocena/
+Disallow: /filmy/komentarz/
+Disallow: /login_links_gallery/
+Disallow: /komentarze/dodaj/
+Disallow: /murator_voting/form/
+
+Disallow: /sitemap-articles.xml
+Disallow: /sitemap-videos.xml
+Disallow: /sitemap-flatpages.xml
+Disallow: /sitemap-categories.xml
+Disallow: /sitemap-images.xml
+Disallow: /sitemap-profiles.xml
+Disallow: /sitemap-profiles.xml?p=2
+Disallow: /sitemap-profiles.xml?p=3
+Disallow: /sitemap-profiles.xml?p=4
+Disallow: /sitemap-usergallery.xml
+Disallow: /sitemap-usergallery.xml?p=2
+Disallow: /sitemap-usergallery.xml?p=3
+Disallow: /sitemap-kaltura.xml

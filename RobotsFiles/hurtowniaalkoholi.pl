@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /bootstrap.3.0/
+Disallow: /bootstrap.3.0.18px/
+Disallow: /bootstrap.3.0.20px/
+Disallow: /css/
+Disallow: /favicon/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /pliki/
+Sitemap: https://hurtowniaalkoholi.pl/sitemap.xml

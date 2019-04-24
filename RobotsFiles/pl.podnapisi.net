@@ -1,0 +1,64 @@
+User-agent: Googlebot
+User-agent: bingbot
+User-agent: YandexBot
+Host: https://www.podnapisi.net
+
+
+Disallow: /forum/
+Disallow: /*/download$
+Disallow: /*/download?*$
+Disallow: /*/subtitles/*/vote
+Disallow: /*/upload/
+Disallow: /*/covers
+Disallow: /weblate/
+Allow: /forum/styles/
+Allow: /forum/app.php/track?
+
+Sitemap: https://www.podnapisi.net/en/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/sr/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/sr_Latn/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/hr/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/sl/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/fi/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/sv/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/nl/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/pt/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/pl/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/ar/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/bg/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/bs/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/cs/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/da/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/de/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/el/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/es/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/fa/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/fr/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/he/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/hi/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/hu/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/it/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/mk/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/ml/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/ms/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/nb/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/nn/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/pt_BR/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/ro/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/ru/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/sk/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/sq/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/zh/sitemap.xml.gz
+Sitemap: https://www.podnapisi.net/vi/sitemap.xml.gz
+
+User-agent: *
+
+Disallow: /*/download$
+Disallow: /*/download?*$
+Disallow: /*/subtitles/*/vote
+Disallow: /*/upload/
+Disallow: /*/covers
+Disallow: /weblate/
+Allow: /forum/styles/
+Allow: /forum/app.php/track?
+

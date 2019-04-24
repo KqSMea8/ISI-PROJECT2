@@ -1,0 +1,11 @@
+# 80legs
+User-agent: 008
+Disallow: /
+
+# MSNBot
+User-Agent: msnbot
+Crawl-Delay: 20
+
+User-Agent: *
+Allow: /
+

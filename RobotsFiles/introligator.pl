@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /liniewieccy/Ignacy/
+Disallow: /liniewieccy/Jozef/
+Disallow: /liniewieccy/Linowieccy/
+Disallow: /liniewieccy/Waclaw/
+Disallow: /liniewieccy/Winieccy/
+Disallow: /liniewieccy/drzewooo.htm
+Disallow: /liniewieccy/drzewko.htm
+Disallow: /liniewieccy/pradrze.htm
+Allow: /

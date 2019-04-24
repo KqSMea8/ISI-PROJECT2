@@ -61,7 +61,7 @@ window.open(url, "Share Dialog", "menubar=no,toolbar=no,resizable=yes,scrollbars
 
 
 }
-</script><script>var menuCaption = "Wybierz Strone";</script><script type="text/javascript" src="inc/js/menu.js?1556014295"></script>
+</script><script>var menuCaption = "Wybierz Strone";</script><script type="text/javascript" src="inc/js/menu.js?1556036631"></script>
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">

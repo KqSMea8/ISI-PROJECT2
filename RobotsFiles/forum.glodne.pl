@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /db
+Disallow: /admin
+Disallow: /posting.php
+Disallow: /memberlist.php
+Disallow: /search.php
+Disallow: /groupcp.php
+Disallow: /faq.php
+Disallow: /profile.php
+Disallow: /privmsg.php
+Disallow: /viewonline.php

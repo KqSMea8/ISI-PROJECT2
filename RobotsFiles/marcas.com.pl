@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /threads/*/poll
+Disallow: /pnvovbgc/
+Disallow: /spwvaubk/
+Disallow: /yynkwjzn.js
+Disallow: /?q=user/logout/
+Disallow: /rqodyezk/
+Disallow: /*backurl=
+Disallow: /xmlrpc.php
+Disallow: /tzlqlcpu/
+Host: marcas.com.pl
+Sitemap: http://marcas.com.pl/fzjusvsm.xml

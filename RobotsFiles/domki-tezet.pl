@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 1
+User-agent: AhrefsBot
+User-agent: Baiduspider
+User-agent: Ezooms
+User-agent: MJ12bot
+User-agent: YandexBot
+User-agent: scanner
+User-agent: ia_archiver
+User-agent: bingbot
+Disallow: /

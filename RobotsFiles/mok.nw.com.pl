@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /archiwum/kalendarz/action~posterboard/
+Disallow: /archiwum/kalendarz/action~agenda/
+Disallow: /archiwum/kalendarz/action~oneday/
+Disallow: /archiwum/kalendarz/action~month/
+Disallow: /archiwum/kalendarz/action~week/
+Disallow: /archiwum/kalendarz/action~stream/
+Disallow: /archiwum/kalendarz/action~undefined/
+Disallow: /archiwum/kalendarz/action~http:/
+Disallow: /archiwum/kalendarz/action~default/
+Disallow: /archiwum/kalendarz/action~poster/
+Disallow: /archiwum/kalendarz/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

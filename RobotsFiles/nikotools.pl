@@ -1,0 +1,19 @@
+#User-agent: *
+Disallow: /invoice
+Disallow: /order
+Disallow: /invoicePdf/*
+Disallow: /orderPdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /*.php$
+Disallow: /paypal
+Disallow: /webpage/platnosc.html
+Disallow: /webpage/wysylka.html
+Disallow: /webpage/regulamin.html
+Disallow: /webpage/polityka-prywatnosci.html
+Disallow: /webpage/platforma-odr-serwis-ulatwiajacy-rozstrzyganie-sporu.html
+Disallow: /webpage/wspolpraca-b2b.html
+
+Sitemap: https://nikotools.pl/sitemap.xml

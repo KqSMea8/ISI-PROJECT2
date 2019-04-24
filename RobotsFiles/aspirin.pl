@@ -1,0 +1,9 @@
+# WebCM robots.txt v1.01
+# file to detect detect robots/spiders AND allow or deny robots/spiders to scan this website
+# fore more information please read the WebCM WebTrends user manual https://webtrends.bayer-ag.com/html/docs/wt7manager/WebCM_WebTrends_UserManual.pdf or visit http://de.selfhtml.org/diverses/robots.htm
+
+# default setting: allow all robots/spiders to scan everything:
+User-agent: *
+Disallow: /*.swf$
+
+Sitemap: http://aspirin.pl/sitemap.xml

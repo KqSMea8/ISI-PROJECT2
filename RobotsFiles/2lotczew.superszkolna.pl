@@ -121,7 +121,7 @@ document.write('<div class="fb-like-box" style="widht: 300px; float: left; backg
 <div class="ReklamaMenu"><div class="R_img"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/509pxherb_polski_svg_102x120.jpg" alt="Godlo RP small" /></div></div><div class="ReklamaMenu"><div class="R_img"><a href="https://login.gov.pl/login/login?ssot=6lqn0uet43e2lmwbf8is"  target="_blank"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/esp_epuap_logo_w189.jpg" alt="ESP ePUAP logo" /></a></div></div><div class="ReklamaMenu"><div class="R_img"><a href="http://publicznie-przejrzysci.pl/uczestnicy/YToyOntpOjA7aTo0NzQyMDtpOjE7aTo4O30="  target="_blank"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/certyfikat_bip_190px.png" alt="Certyfikat Przejrzystosci Publicznej" /></a></div></div>
 <h1>Z naszej galerii</h1>
 <div class="Box1 Img">
-<a href="http://2lotczew.superszkolna.pl/galeria/zdjecia/59795/"><img src="https://cms-files.superszkolna.pl/sites/1252/galeria/59795/w120x90/ppb_foto_06.jpg" alt="" border="0" /></a>
+<a href="http://2lotczew.superszkolna.pl/galeria/zdjecia/65691/"><img src="https://cms-files.superszkolna.pl/sites/1252/galeria/65691/w120x90/comenius_200911_image_21.jpg" alt="" border="0" /></a>
 </div>
 
 <h1>Kontakt</h1>
@@ -148,7 +148,7 @@ Jestes: <a href="http://2lotczew.superszkolna.pl">Strona glowna</a>
 </div>
 
 <div id="Content">
-<div class="ReklamaHomepage"><div class="ReklamaDynamic" id="Rekuz3Fm8DZ"><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/galeria/zdjecia/63845/ii_liceum_ogolnoksztalcace__nasza_szkola"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/2lo_naglowek4b.jpg" alt="2LO Naglowek_lato1" /></a></div><div class="R_img hidden"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/2lo_naglowek3.jpg" alt="2LO Naglowek_medale" /></div><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/galeria/zdjecia/63845/ii_liceum_ogolnoksztalcace__nasza_szkola"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/2lo_naglowek5.jpg" alt="2LO Naglowek_zima1" /></a></div></div></div>
+<div class="ReklamaHomepage"><div class="ReklamaDynamic" id="RekBbfnhLOR"><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/galeria/zdjecia/63845/ii_liceum_ogolnoksztalcace__nasza_szkola"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/2lo_naglowek4b.jpg" alt="2LO Naglowek_lato1" /></a></div><div class="R_img hidden"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/2lo_naglowek3.jpg" alt="2LO Naglowek_medale" /></div><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/galeria/zdjecia/63845/ii_liceum_ogolnoksztalcace__nasza_szkola"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/2lo_naglowek5.jpg" alt="2LO Naglowek_zima1" /></a></div></div></div>
 <div class="LayoutRamka">
 <h1>Najnowsze wiadomosci</h1>
 
@@ -271,7 +271,7 @@ wicestarosta - Pan Zbigniew Zgoda. Z tej okazji mlodziez z klas Ib i IIa przygot
 </fieldset>
 </form>
 </div>
-<div class="ReklamaMenu"><div class="ReklamaDynamic" id="Rek3I4PBki7"><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/cms/37903/projekty"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/logo_fe_program_regionalny_rgb1190x200.jpg" alt="Fundusze Europejskie Program Regionalny" /></a></div><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/cms/37903/projekty"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/ue_efrr_rgb1_pion_190x200.jpg" alt="Unia Europejska Europejski Fundusz Rozwoju Regionalnego" /></a></div></div></div><div class="ReklamaMenu"><div class="R_img"><a href="http://2lotczew.superszkolna.pl/wiadomosci/2004/lista/b_stylecolorbluewspolpraca_z_ugb"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/ug_wspolpraca2.jpg" alt="Uniwersytet Gdanski - wspolpraca" /></a></div></div><div class="ReklamaMenu"><div class="R_img"><a href="https://synergia.librus.pl/loguj"  target="_blank"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/edziennik_librussynergia_logo2.png" alt="e-Dziennik Librus Synergia" /></a></div></div>
+<div class="ReklamaMenu"><div class="ReklamaDynamic" id="RekswOSUNCQ"><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/cms/37903/projekty"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/logo_fe_program_regionalny_rgb1190x200.jpg" alt="Fundusze Europejskie Program Regionalny" /></a></div><div class="R_img hidden"><a href="http://2lotczew.superszkolna.pl/cms/37903/projekty"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/ue_efrr_rgb1_pion_190x200.jpg" alt="Unia Europejska Europejski Fundusz Rozwoju Regionalnego" /></a></div></div></div><div class="ReklamaMenu"><div class="R_img"><a href="http://2lotczew.superszkolna.pl/wiadomosci/2004/lista/b_stylecolorbluewspolpraca_z_ugb"  ><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/ug_wspolpraca2.jpg" alt="Uniwersytet Gdanski - wspolpraca" /></a></div></div><div class="ReklamaMenu"><div class="R_img"><a href="https://synergia.librus.pl/loguj"  target="_blank"><img src="https://cms-files.superszkolna.pl/sites/1252/bannery/edziennik_librussynergia_logo2.png" alt="e-Dziennik Librus Synergia" /></a></div></div>
 <h1>Nasza szkola</h1>
 <ul class="MenuGlowne">
 <li><a href="http://2lotczew.superszkolna.pl/szkola/kadra" >Kadra</a></li>
@@ -333,13 +333,13 @@ document.write('<div class="fb-like-box" data-href="https://www.facebook.com/IIO
 <h1>Dzwonki</h1>
 <div class="Box1">
 <fieldset class="center">
-<p  class="center"><span class="right">07 <sup>10</sup></span><em>-</em><span class="left">07 <sup>55</sup></span></p><p  class="center"><span class="right">08 <sup>00</sup></span><em>-</em><span class="left">08 <sup>45</sup></span></p><p  class="center"><span class="right">08 <sup>50</sup></span><em>-</em><span class="left">09 <sup>35</sup></span></p><p  class="center"><span class="right">09 <sup>45</sup></span><em>-</em><span class="left">10 <sup>30</sup></span></p><p  class="center"><span class="right">10 <sup>40</sup></span><em>-</em><span class="left">11 <sup>25</sup></span></p><p style="font-weight: bold;" class="center"><span class="right">11 <sup>40</sup></span><em>-</em><span class="left">12 <sup>25</sup></span></p><p  class="center"><span class="right">12 <sup>35</sup></span><em>-</em><span class="left">13 <sup>20</sup></span></p><p  class="center"><span class="right">13 <sup>30</sup></span><em>-</em><span class="left">14 <sup>15</sup></span></p><p  class="center"><span class="right">14 <sup>20</sup></span><em>-</em><span class="left">15 <sup>05</sup></span></p>
+<p  class="center"><span class="right">07 <sup>10</sup></span><em>-</em><span class="left">07 <sup>55</sup></span></p><p  class="center"><span class="right">08 <sup>00</sup></span><em>-</em><span class="left">08 <sup>45</sup></span></p><p  class="center"><span class="right">08 <sup>50</sup></span><em>-</em><span class="left">09 <sup>35</sup></span></p><p  class="center"><span class="right">09 <sup>45</sup></span><em>-</em><span class="left">10 <sup>30</sup></span></p><p  class="center"><span class="right">10 <sup>40</sup></span><em>-</em><span class="left">11 <sup>25</sup></span></p><p  class="center"><span class="right">11 <sup>40</sup></span><em>-</em><span class="left">12 <sup>25</sup></span></p><p  class="center"><span class="right">12 <sup>35</sup></span><em>-</em><span class="left">13 <sup>20</sup></span></p><p  class="center"><span class="right">13 <sup>30</sup></span><em>-</em><span class="left">14 <sup>15</sup></span></p><p  class="center"><span class="right">14 <sup>20</sup></span><em>-</em><span class="left">15 <sup>05</sup></span></p>
 </fieldset>
 </div>
 
 </div>
 <div class="clear"></div></div><div class="clear"></div></div>
-<div id="Footer"><div class="Stat"><img src="http://2lotczew.superszkolna.pl/licznik/178139/licznik1" alt="Statystka odwiedzin: 178139" /></div>2014-2018 (c) II LO w Tczewie / Wszelkie prawa zastrzezone<div class="MadeIn">Realizacja: <a href='http://www.superszkolna.pl' target='_blank'>Superszkolna.pl</a></div></div>
+<div id="Footer"><div class="Stat"><img src="http://2lotczew.superszkolna.pl/licznik/178247/licznik1" alt="Statystka odwiedzin: 178247" /></div>2014-2018 (c) II LO w Tczewie / Wszelkie prawa zastrzezone<div class="MadeIn">Realizacja: <a href='http://www.superszkolna.pl' target='_blank'>Superszkolna.pl</a></div></div>
 
 </div>
 </body>

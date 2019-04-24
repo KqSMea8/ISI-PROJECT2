@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /lib/
+Disallow: /cfg/
+Sitemap: http://www.krkonose.eu/sitemap.xml
+

@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<title>Hotelklik.cz - Vase hotely ve Spindlu   </title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Vase hotely ve Spindlu">
+<meta name="keywords" content="">
+<meta name="author" content="finalbrand.cz">
+<base href="http://hotelklik.cz/">
+
+<link rel="shortcut icon" href="images/favicon.png">
+
+
+<link href="css/main.css?a=2" rel="stylesheet">
+<link href="css/prettyPhoto.css" rel="stylesheet">
+<script src="js/jquery.min.js"></script>
+<script src="js/script.js?a=1"></script>
+<script src="js/jquery.prettyPhoto.js"></script>
+
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Armata&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+
+
+</head>
+<body data-prekladvyberhotely="Vyberte si hotel pro Vasi rezervaci:">
+
+<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=14753465"></script>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.5";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="main_container">
+
+<div id="header">
+<a href="/" id="logo"><img class="resize" src="images/logo.png" alt="HotelKlik" /></a>
+<i id="claim" class="size26">Vase hotely ve Spindlu</i>
+
+<a href="#" id="menu_button" data-img="images/menu_button"><img class="resize" src="images/menu_button.png" alt="menu" /></a>
+<div id="search_form">
+<form action="cz/search/" method="post">
+<div id="search_text_container">
+<img src="images/search_input.png" alt="-" class="resize" />
+<input id="search_text" name="string" type="text" value="" placeholder="Hledat..." required="required">
+</div>
+<input id="search_submit" type="image" src="images/search_submit.png" alt="Hledat" />
+</form>
+</div>
+
+<div id="lang_switch">
+<a href="/de/" >DE</a> |
+<a href="/en/" >EN</a> |
+<a href="/cz/" class="selected">CZ</a>
+</div>
+
+
+<div id="main_menu">
+<ul>
+<li><a href="/" class="size26">Domu</a></li>
+<li><a href="cz/homepage/Kontakt/24" class="size26">Kontakt</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="cz/hotel/114/Hotel_Tri_ruze***+/" class="size26">Hotel Tri ruze***+</a></li>
+<li><a href="cz/hotel/16/Hotel_Vysluni***/" class="size26">Hotel Vysluni***</a></li>
+<li><a href="cz/hotel/15/Alpsky_hotel***+/" class="size26">Alpsky hotel***+</a></li>
+<li><a href="cz/hotel/17/Hotel_Venuse***/" class="size26">Hotel Venuse***</a></li>
+<li><a href="cz/hotel/115/Pension_Barytka_Nr54/" class="size26">Pension Barytka Nr.54</a></li>
+<li><a href="cz/hotel/10/Hostel_Central/" class="size26">Hostel Central</a></li>
+</ul>
+</div>
+
+</div>
+<div id="padding">
+<a href="/" class="logo"><img class="resize" src="images/logo.png" alt="HotelKlik" /></a>
+</div>
+
+<div id="slider" data-actual="0" data-row="4" data-count="6">
+
+<div class="first slider_item slider_item1">
+<div class="slider_item_name">
+<img class="img_hotel resize" src="images/hotel/hotel4.png" alt="Hotel Tri ruze***+" />
+<img class="img_hotel_over resize" src="images/slider_item_cover.png" alt="-" />
+<div class="img_hotel_name font2 size24 white">Hotel Tri ruze***+</div>
+</div>
+
+<div class="slider_item_text">
+<img class="slide_item_text_bg resize" src="images/slider_item_text_bg.png" alt="-" />
+<p class="size17 white">
+Hotel Tri ruze***+ je diky sve osobite a neopakovatelne atmosfere idealnim mistem pro milovniky zimnich sportu i vecerni zabavy. Nachazi se primo v centru mesta a v blizkosti skiarealu Hromovka, ktery je vzdalen pouhych 200m pesky.
+</p>
+<a href="cz/hotel/114/Hotel_Tri_ruze***+/" class="size20">Detail</a>
+</div>
+</div>
+<div class=" slider_item slider_item2">
+<div class="slider_item_name">
+<img class="img_hotel resize" src="images/hotel/hotel5.png" alt="Hotel Vysluni***" />
+<img class="img_hotel_over resize" src="images/slider_item_cover.png" alt="-" />
+<div class="img_hotel_name font2 size24 white">Hotel Vysluni***</div>
+</div>
+
+<div class="slider_item_text">
+<img class="slide_item_text_bg resize" src="images/slider_item_text_bg.png" alt="-" />
+<p class="size17 white">
+Malebny Hotel Vysluni*** bude vyhovovat vsem, kteri davaji prednost utulnejsim prostorum. U hotelu je vlek s malou sjezdovkou. Skiareal Svaty Petr je vzdalen pouhych 5 min pesky z kopce od hotelu.
+</p>
+<a href="cz/hotel/16/Hotel_Vysluni***/" class="size20">Detail</a>
+</div>
+</div>
+<div class=" slider_item slider_item3">
+<div class="slider_item_name">
+<img class="img_hotel resize" src="images/hotel/hotel6.png" alt="Alpsky hotel***+" />
+<img class="img_hotel_over resize" src="images/slider_item_cover.png" alt="-" />
+<div class="img_hotel_name font2 size24 white">Alpsky hotel***+</div>
+</div>
+
+<div class="slider_item_text">
+<img class="slide_item_text_bg resize" src="images/slider_item_text_bg.png" alt="-" />
+<p class="size17 white">
+Alpsky hotel***+ okouzli jedinecnou atmosferou a stylem pripominajicim typicke horske hotely v Rakousku. Jeho velkou vyhodou je snadna dostupnost sportovniho skiarealu Svaty Petr, ktery je vzdalen jen 5 min pesky od hotelu.
+</p>
+<a href="cz/hotel/15/Alpsky_hotel***+/" class="size20">Detail</a>
+</div>
+</div>
+<div class=" slider_item slider_item4">
+<div class="slider_item_name">
+<img class="img_hotel resize" src="images/hotel/hotel3.png" alt="Hotel Venuse***" />
+<img class="img_hotel_over resize" src="images/slider_item_cover.png" alt="-" />
+<div class="img_hotel_name font2 size24 white">Hotel Venuse***</div>
+</div>
+
+<div class="slider_item_text">
+<img class="slide_item_text_bg resize" src="images/slider_item_text_bg.png" alt="-" />
+<p class="size17 white">
+Horsky hotel Venuse*** je idealnim mistem pro rodiny s detmi i pro individualni klienty. Nachazi se v klidnem prostredi nad centrem Spindlerova Mlyna, ktere je vzdaleno 10 minut chuze.
+</p>
+<a href="cz/hotel/17/Hotel_Venuse***/" class="size20">Detail</a>
+</div>
+</div>
+<div class=" slider_item slider_item5">
+<div class="slider_item_name">
+<img class="img_hotel resize" src="images/hotel/hotel7.png" alt="Pension Barytka Nr.54" />
+<img class="img_hotel_over resize" src="images/slider_item_cover.png" alt="-" />
+<div class="img_hotel_name font2 size24 white">Pension Barytka Nr.54</div>
+</div>
+
+<div class="slider_item_text">
+<img class="slide_item_text_bg resize" src="images/slider_item_text_bg.png" alt="-" />
+<p class="size17 white">
+Rodinny pension Barytka se nachazi v malebnem koute udoli Svateho Petra. Nabizi romantickou dovolenou pro vsechny, kteri hledaji spise soukromi a klidne prostredi.
+</p>
+<a href="cz/hotel/115/Pension_Barytka_Nr54/" class="size20">Detail</a>
+</div>
+</div>
+<div class=" slider_item slider_item6">
+<div class="slider_item_name">
+<img class="img_hotel resize" src="images/hotel/hotel2.png" alt="Hostel Central" />
+<img class="img_hotel_over resize" src="images/slider_item_cover.png" alt="-" />
+<div class="img_hotel_name font2 size24 white">Hostel Central</div>
+</div>
+
+<div class="slider_item_text">
+<img class="slide_item_text_bg resize" src="images/slider_item_text_bg.png" alt="-" />
+<p class="size17 white">
+Hostel Central se nachazi primo v centru mesta Spindleruv Mlyn. Nabizi ubytovani pro nenarocne hosty za velmi zajimavou cenu. V bezprostredni blizkosti najdete radu restauraci, baru i obchodu.
+</p>
+<a href="cz/hotel/10/Hostel_Central/" class="size20">Detail</a>
+</div>
+</div>
+
+
+</div>
+
+<div id="slide_nav">
+<a href="#" class="arrow leftarrow end" data-img="images/arrow_left" data-direction="0"><img src="images/arrow_left.png" alt="<" class="resize" /></a>
+<a href="#" class="arrow rightarrow" data-img="images/arrow_right" data-direction="1"><img src="images/arrow_right.png" alt="<" class="resize" /></a>
+<a href="#content" class="anchor anchordown"><img src="images/anchor_down.png" alt="dolu" class="resize" /></a>
+<strong class="size20" id="nextHotelsLink">
+Dalsi <span class="orange">hotely</span>
+</strong>
+</div>
+
+<div id="slider_nav_mobil">
+<a href="#" data-id="1" id="slider_nav_mobil1"><img src="images/mobil_nav_on.png" alt=">" /></a>
+<a href="#" data-id="2" id="slider_nav_mobil2"><img src="images/mobil_nav.png" alt=">" /></a>
+<a href="#" data-id="3" id="slider_nav_mobil3"><img src="images/mobil_nav.png" alt=">" /></a>
+<a href="#" data-id="4" id="slider_nav_mobil4"><img src="images/mobil_nav.png" alt=">" /></a>
+<a href="#" data-id="5" id="slider_nav_mobil5"><img src="images/mobil_nav.png" alt=">" /></a>
+<a href="#" data-id="6" id="slider_nav_mobil6"><img src="images/mobil_nav.png" alt=">" /></a>
+</div>
+
+<div id="content_mobil_text" class="size18">
+
+</div>
+
+<div id="content">
+
+<div id="content_left">
+
+<div id="newsletter">
+<div  class="panel_head">
+<img src="images/nwl_img.png" alt="XXXX" id="nwl_img" />
+<strong class="size30">
+Informace <br ><span class="orange">e-mailem</span>
+</strong>
+</div>
+<p class="size18">
+Pokud si prejete dostavat  nas newsletter, zadejte svuj e-mail.
+</p>
+
+<form action="exe.email.php" method="post" id="nwlForm">
+<div id="nwl_text_container">
+<img src="images/nwl_text.png" alt="-" class="resize" />
+<input name="email" id="nwl_text" type="text" value="" placeholder="Vas email" required="required" data-alert="Zadejte validni e-mail" />
+</div>
+<input id="nwl_submit" type="image" src="images/nwl_submit.png" alt="Hledat" />
+</form>
+
+</div>
+
+<div id="social">
+
+<a href="https://www.facebook.com/SpindlHotelKlik" target="_blank"  class="panel_head">
+<img src="images/social_img.png" alt="XXXX" />
+<strong class="size30">
+Sledujte nas <br ><span class="orange">facebook</span>
+</strong>
+</a>
+<p class="size18">
+Stante se nasimi fanousky   na facebooku a nic vam neunikne.
+</p>
+<div class="fb-like" data-href="https://www.facebook.com/SpindlHotelKlik" data-width="100" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
+
+</div>
+</div>
+
+<div id="content_text" class="size18">
+
+<h1 style="text-align: center;">&nbsp;</h1>
+<h1 style="text-align: center;">Hotelklik a.s.</h1>
+<p style="text-align: justify;">V&iacute;tejte na str&aacute;nk&aacute;ch spolecnosti <strong>Hotelklik a.s.</strong>, jednoho z nejvet&scaron;&iacute;ch provozovatelu hotelu a penzionu ve &Scaron;pindlerove Ml&yacute;ne. U n&aacute;s se najde opravdu kazd&yacute; - rodiny s detmi, party snowboard&aacute;ku i p&aacute;ry hledaj&iacute;c&iacute; soukrom&iacute; a relax v tomto kr&aacute;sn&eacute;m horsk&eacute;m stredisku.</p>
+<p style="text-align: justify;">V soucasn&eacute; dobe si dle sv&eacute;ho vkusu a preferenc&iacute; muzete vyb&iacute;rat z na&scaron;ich <strong>6</strong><strong>&nbsp;ubytovac&iacute;ch zar&iacute;zen&iacute;</strong> nach&aacute;zej&iacute;c&iacute;ch se na ruzn&yacute;ch m&iacute;stech &Scaron;pindlerova Ml&yacute;na.</p>
+<p style="text-align: justify;"><a href="http://www.hotelklik.pano3d.cz/" target="_blank">Virtu&aacute;ln&iacute; prohl&iacute;dka na&scaron;ich hotelu</a></p>
+<p style="text-align: justify;">Ver&iacute;me, ze d&iacute;ky 15 letem zku&scaron;enost&iacute; v t&eacute;to oblasti se i Vy zarad&iacute;te mezi na&scaron;e spokojen&eacute; hosty, kter&iacute; se rok co rok vracej&iacute; uz&iacute;vat si kr&aacute;s Krkono&scaron; v zime i v l&eacute;te.</p>
+<p style="text-align: justify;">T&yacute;m spolecnosti Hotelklik a.s.</p>
+</div>
+
+<div id="content_right">
+
+
+<div id="news">
+<div  class="panel_head">
+<strong class="size30">
+Dalsi <span class="orange">clanky</span>
+</strong>
+</div><br />
+<ul>
+<li class=""><a href="cz/clanek/183/homepage/VELIKONOCNI_VESELI/" class="news_link size20">VELIKONOCNI VESELI</a></li>
+<li class=""><a href="cz/clanek/151/homepage/Bobova_draha_HappyWorld_/" class="news_link size20">Bobova draha HappyWorld </a></li>
+<li class=""><a href="cz/clanek/146/homepage/Slevy_pro_drzitele_Sphere_card_v_siti_Hotelklik_as/" class="news_link size20">Slevy pro drzitele Sphere card v siti Hotelklik a.s.</a></li>
+<li class="clanky_more"><a href="cz/clanek/134/homepage/Volna_pracovni_mista/" class="news_link size20">Volna pracovni mista</a></li>
+<li>
+<a href="#" id="clanky_more_button" class="size16">vice</a>
+</li>
+</ul>
+</div>
+
+</div>
+
+<div id="anchor_up_container">
+<a href="#padding" class="anchor"><img src="images/anchor_up.png" alt="UP!" class="resize" /></a>
+</div>
+</div>
+
+
+
+<div id="footer">
+<div id="copyright" class="size16">
+<img src="images/footer_logo.png" alt="HotelKlik" class="resize" />
+Hotelklik a.s. (c) 2015
+</div>
+<div id="footer_center">
+<div id="footer_menu">
+
+<a href="cz/homepage/Kontakt/24" class="size18">Kontakt</a>
+
+</div>
+<p class="size14">
+Hotelklik.cz - Vase hotely ve Spindlerove Mlyne!  Ubytovani, lyzovani, relaxace, Wellness, rodinna dovolena, dovolena se psem, turistika, romantika, odpocinek, adrenalin, poznavani, dobre jidlo, dovolena s detmi, svatba, priznive ceny a vstricnost to jsou atributy, ktere nas charakterizuji.
+</p>
+
+</div>
+
+<a id="brand_logo" href="http://finalbrand.cz/" target="_blank"><img src="images/logo_brand.png" alt="FinalBrand" class="resize" /></a>
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+<div id="over"  >
+<div id="over_text">
+
+</div>
+</div>
+
+<div id="bottom_links" class="size13">
+<a href="/cz/homepage/Kontakt/24">Volejte +420 499 433 242</a>
+<a href="#" onclick="return openBooking(0, '');">Rezervace online</a>
+</div>
+
+<div id="translations_chat" class="hidden" data-head="  Chcete se zeptat?" data-text=" Prosim, zanechte vzkaz a my se Vam ozveme brzy." ></div>
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-71101758-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+
+</body>
+
+</html>

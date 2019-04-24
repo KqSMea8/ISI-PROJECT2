@@ -1,1 +1,100 @@
-Nieprawidlowy adres www!
+<!DOCTYPE html><html lang="pl">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<meta http-equiv="Content-Style-Type" content="text/css" >        <title>Mailingowy Dom Mediowy</title>
+<link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/adds.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/js/flexslider/flexslider.css" media="screen" rel="stylesheet" type="text/css" >        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.js"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.3/jquery-ui.js"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.js"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/localization/messages_pl.js"></script>
+<script type="text/javascript" src="/js/flexslider/jquery.flexslider-min.js"></script>
+<!--[if lt IE 9]> <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->    </head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id))
+return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1&appId=393818027403007";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+$(document).ready(function() {
+$(window).scroll(function() {
+if ($(window).scrollTop() != 0) {
+$('#fb-fixed').css('top', $(window).scrollTop());
+} else {
+
+var y = (document.documentElement && document.documentElement.scrollTop) ||
+document.body.scrollTop;
+
+$('#fb-fixed').css('top', y);
+}
+
+});
+
+$('#fb-fixed').hover(
+function() {
+$(this).stop().animate({width: '330'}, 1000);
+},
+function() {
+$(this).stop().animate({width: '30'}, 1000);
+});
+});
+</script>
+<div id="fb-fixed">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/css/FB_logo_widget.png" alt="fejs"/></td>
+<td style="background-color: #FFFFFF; vertical-align: top; border: 1px solid #3A5897;"><div class="fb-like-box" data-href="https://www.facebook.com/MailingowyDomMediowy" data-width="300" data-height="370px" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false" data-connections="12"></div></td>
+</tr>
+</table>
+</div>
+<nav id="TopNavigation">
+<div class="elem-wrap">
+<div class="elem ">
+<a class="block" href="/">Start</a>
+</div>
+<div class="elem ">
+<a class="block" href="/bazy">Bazy e-maili</a>
+</div>
+<div class="elem ">
+<a class="block" href="/targety">Targety</a>
+</div>
+<div class="elem ">
+<a class="block" href="/wyslij-kampanie">Wyslij kampanie</a>
+</div>
+<div class="elem ">
+<a class="block" href="/zglos-swoja-baze">Zglos swoja baze</a>
+</div>
+<div class="elem ">
+<a class="block" href="/system">System do wysylek</a>
+</div>
+<div class="elem ">
+<a class="block" href="/kontakt">Kontakt</a>
+</div>
+</div>
+</nav>
+<div id="BodyWrapper">
+<div id="Logo"><a href="/" class="block"></a></div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Zend Framework Default Application</title>
+</head>
+<body>
+<h1>An error occurred</h1>
+<h2>You have reached the error page</h2>
+
+
+</body>
+</html>
+</div>
+</body>
+</html>
+

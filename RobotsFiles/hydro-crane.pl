@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /en/cart?qty=
+Disallow: /en/order?ipa=
+Disallow: /en/order?step=
+Disallow: /en/search?tag=
+Disallow: /pl/cart?qty=
+Disallow: /pl/best-sales
+Disallow: /pl/order?ipa=
+Disallow: /pl/order?step=
+Disallow: /pl/search?tag=

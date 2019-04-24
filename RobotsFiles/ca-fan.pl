@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /gra/sort/
+Disallow: /game/sort/
+Disallow: /gra/szukaj/
+Disallow: /game/search/
+Disallow: /forum/
+Disallow: /boze/
+Disallow: /piotr/
+Allow: /forum/download/

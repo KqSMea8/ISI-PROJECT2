@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /images/
+Disallow: /amimedica.pl/
+Disallow: /komitech.pl/
+Disallow: /chwalmynasze.pl/
+Disallow: /wp-admin/
+Disallow: /wp-include/
+Disallow: /wp-content/
+Disallow: /index.php
+Disallow: /logowanie/
+DIsallow: /index.php/
+Disallow: /katalog-branzowy.html

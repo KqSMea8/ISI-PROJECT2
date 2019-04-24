@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /doc/
+Disallow: /email/
+Disallow: /images/
+Disallow: /manager/
+Disallow: /project/
+Disallow: /szkic/
+Disallow: /TJ/
+Disallow: /wc-logs/
+Disallow: /workflow/
+Disallow: /wp-includes/
+Disallow: /test/

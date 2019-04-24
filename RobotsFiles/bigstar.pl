@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /koszyk
+Disallow: /podsumowanie
+Disallow: /konto
+Disallow: /szukaj
+Disallow: /dziekujemy
+Disallow: /nocache*
+Disallow: /debug*
+Sitemap: https://www.bigstar.pl/sitemap.xml
+Allow: /

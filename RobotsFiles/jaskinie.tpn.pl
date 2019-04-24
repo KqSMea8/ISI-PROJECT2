@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /public/js
+Disallow: /public/css
+Disallow: /public/files
+Disallow: /application
+Disallow: /library
+Disallow: /cache
+Disallow: /log
+Disallow: /private

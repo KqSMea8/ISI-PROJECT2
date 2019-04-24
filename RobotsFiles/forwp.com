@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+Disallow: /images/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /*href
+Allow: /wp-content/themes/*.png
+Allow: /wp-content/uploads/*.png
+Allow: /wp-content/themes/*.jpg
+Allow: /wp-content/uploads/*.jpg
+Allow: /wp-content/themes/*.css*
+Allow: /wp-content/plugins/*.css*
+Allow: /wp-content/uploads/*.css*
+Allow: /wp-content/themes/*.js*
+Allow: /wp-content/plugins/*.js*
+Allow: /wp-content/uploads/*.js*
+Allow: /wp-includes/css/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+
+Sitemap: http://forwp.com/sitemap.xml

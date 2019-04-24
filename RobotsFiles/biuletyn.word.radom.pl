@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /admin/
+Disallow: /inc/
+Disallow: /conf/
+Disallow: /lib/
+Disallow: /tmp/
+Disallow: /admin.php
+Disallow: /adminlogin.php
+Disallow: /search.php
+Disallow: /szukaj.html
+Disallow: /register.php
+Disallow: /rejestr-zmian.html
+Sitemap: http://www.bip.7lo.radom.pl/sitemap.xml

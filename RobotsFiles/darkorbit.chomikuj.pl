@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Disallow: /*sid
+Disallow: /*aid
+Disallow: /*indexInternal
+Allow: /*indexInternal?action=externalLogout
+

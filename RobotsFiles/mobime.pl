@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /aukcje/
+Disallow: /css/
+Disallow: /download/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /ipt/
+Disallow: /js/
+Disallow: /klient/
+Disallow: /manewry/
+Disallow: /movie/
+Disallow: /seo/

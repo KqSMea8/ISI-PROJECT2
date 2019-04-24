@@ -1,0 +1,43 @@
+User-agent: *
+Disallow: /ts/
+Disallow: /cgi-bin/
+Disallow: /cgi-bin/at3/out.cgi
+Disallow: /cgi-bin/at3/
+Disallow: /popular/
+Disallow: /ts/abuse.php
+Disallow: */content.php
+Disallow: *999999*
+
+
+
+User-agent: bingbot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: 008
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: sistrix
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: proximic
+Disallow: /
+User-agent: SiteExplorer
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Baiduspider
+Crawl-delay: 30
+User-agent: MSNBot
+Crawl-delay: 7
+User-agent: Bingbot
+Crawl-delay: 7
+User-agent: coccoc
+Crawl-delay: 7
+User-agent: YisouSpider
+Crawl-delay: 7

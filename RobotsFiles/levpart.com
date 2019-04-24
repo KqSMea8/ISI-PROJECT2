@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */*/trackback
+Disallow: /feed/
+Disallow: */*/feed/*/
+Disallow: */feed
+Disallow: /?s=
+Disallow: */comments
+Disallow: */pdf
+Disallow: *attachment*
+Disallow: *?replytocom*
+
+Host: levpart.com
+Sitemap: http://levpart.com/sitemap.xml

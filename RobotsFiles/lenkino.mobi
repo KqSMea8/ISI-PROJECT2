@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /video/
+Disallow: /*/rand/
+Disallow: /*/download/
+Host: lenkino.mobi
+Sitemap: http://lenkino.mobi/sitemap.xml

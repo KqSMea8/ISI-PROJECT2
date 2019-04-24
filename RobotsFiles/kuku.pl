@@ -1,0 +1,1 @@
+<h3>Wystapil nieoczekiwany blad</h3>Jezeli problem bedzie sie powtarzal, prosimy o kontakt z <a href='/site/view/page/kontakt'>administracja serwisu</a>.<br><br><div align='center'><a href='/'>Powrot do strony glownej</a></div>

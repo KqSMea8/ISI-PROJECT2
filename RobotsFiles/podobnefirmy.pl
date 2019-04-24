@@ -1,0 +1,32 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+
+Sitemap: http://podobnestrony.pl/xml/sitemap.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap2.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap3.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap4.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap5.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap6.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap7.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap8.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap9.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap10.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap11.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap12.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap13.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap14.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap15.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap16.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap17.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap18.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap19.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap20.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap21.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap22.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap23.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap24.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap25.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap26.xml
+Sitemap: http://podobnestrony.pl/xml/sitemap27.xml

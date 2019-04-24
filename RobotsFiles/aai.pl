@@ -5,7 +5,7 @@
 function redirect()
 {
 var url = "http://www.creativevision.pl/projekty/w_przygotowaniu/";
-window.location.replace("https://track.aftermarket.pl/track.php?track=d7121b5b7af286c7c50a7ddbf00ec571&ref=" + document.referrer + "&url=" + encodeURIComponent(url));
+window.location.replace("https://track.aftermarket.pl/track.php?track=709af86dd43b372824f823103713ca8a&ref=" + document.referrer + "&url=" + encodeURIComponent(url));
 }
 redirect();
 </script>

@@ -1,0 +1,6 @@
+Sitemap: http://www.grono.net/sitemap.xml
+Sitemap: http://www.grono.net/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

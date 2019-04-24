@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /kalendarz-wydarzen/action~posterboard/
+Disallow: /kalendarz-wydarzen/action~agenda/
+Disallow: /kalendarz-wydarzen/action~oneday/
+Disallow: /kalendarz-wydarzen/action~month/
+Disallow: /kalendarz-wydarzen/action~week/
+Disallow: /kalendarz-wydarzen/action~stream/

@@ -1,0 +1,27 @@
+User-agent: *
+
+Disallow: /search/
+Disallow: /tag/
+Disallow: /*/?feedsort=rand
+Disallow: /*/?feedsort=comment_count
+Disallow: /*/?feedsort=date#feed
+Disallow: /*/?feedsort=date
+Disallow: /?feedsort=rand
+Disallow: /?feedsort=comment_count
+Disallow: /?feedsort=date#feed
+Disallow: /?feedsort=date
+Disallow: /category/page/*
+Disallow: /category/*/*
+Disallow: /page/*
+Disallow: /page*/*
+Disallow: /tag/page/*
+Disallow: /tag/*/*
+Disallow: /author/admin
+Disallow: /autor/
+Disallow: /author/admin/page/*
+Disallow: /feed
+Disallow: */feed
+Disallow: /xmlrpc.php
+Disallow: /includes/
+Disallow: /showthread.php
+Allow: /wp-content

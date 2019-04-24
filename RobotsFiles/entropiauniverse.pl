@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: admin/
+Disallow: cache/
+Disallow: images/
+Disallow: includes/
+Disallow: language/
+Disallow: templates/
+Disallow: common.php
+Disallow: cron.php
+Disallow: config.php
+Disallow: groupcp.php
+Disallow: memberlist.php
+Disallow: modcp.php
+Disallow: posting.php
+Disallow: privmsg.php
+Disallow: ucp.php
+Disallow: report.php
+Disallow: viewonline.php
+Disallow: /*view=print*
+Disallow: /*?sid=*
+

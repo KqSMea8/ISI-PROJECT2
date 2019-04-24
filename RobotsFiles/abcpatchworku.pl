@@ -16,7 +16,7 @@
 
 
 
-<script>var menuCaption = "Wybierz Strone";</script><script type="text/javascript" src="inc/js/menu.js?1556015090"></script>
+<script>var menuCaption = "Wybierz Strone";</script><script type="text/javascript" src="inc/js/menu.js?1556036698"></script>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="description" content="ABCpatchworku.pl - Internetowy kurs patchworku uczy krok po kroku jak uszyc patchwork. Wszechstronna baza wiedzy o patchworku: podstawy, techniki, porady, wzory, projekty i wiele wiecej." />

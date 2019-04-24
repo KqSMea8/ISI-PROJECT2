@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /koszyk
+Disallow: /logowanie
+Disallow: /przypominacz
+Disallow: /szukaj/
+Disallow: /zdjecie/
+Disallow: /regulamin
+Disallow: /pp
+Disallow: /montaz
+Disallow: /montaz/
+Disallow: /private_photos/new/
+Disallow: /pytania_i_odpowiedzi
+Disallow: /ulubione
+Disallow: /add_to_favorite/
+Disallow: /oferta
+Disallow: /effects/
+Disallow: /mirror
+Disallow: /blog-old
+
+Sitemap: https://fixar.pl/site_map.xml

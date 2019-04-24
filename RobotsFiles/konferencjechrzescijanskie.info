@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.konferencjechrzescijanskie.info/xmlrpc.php" />
+
+<title>Konferencje Chrzescijanskie &#8211; STRONA W BUDOWIE &#8211; Serwis informacyjny najnowszych Konferencje i wydarzen chrzescijanskie</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Konferencje Chrzescijanskie - STRONA W BUDOWIE &raquo; Kanal z wpisami" href="http://www.konferencjechrzescijanskie.info/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Konferencje Chrzescijanskie - STRONA W BUDOWIE &raquo; Kanal z komentarzami" href="http://www.konferencjechrzescijanskie.info/?feed=comments-rss2" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.konferencjechrzescijanskie.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<style type="text/css" media="all">
+a{ color: #8224e3; }
+#menu-main-menu,
+#top-area .menu > ul{
+width: 200px;
+}
+</style>
+<link rel='stylesheet' id='elementary-frontend-ui-css'  href='http://www.konferencjechrzescijanskie.info/wp-content/plugins/elementary/assets/stylesheet/elementary-frontend.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='usp_style-css'  href='http://www.konferencjechrzescijanskie.info/wp-content/plugins/user-submitted-posts/resources/usp.css?ver=20190312' type='text/css' media='all' />
+<link rel='stylesheet' id='snapshot-css'  href='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/style.css?ver=1.4.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script src="http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/html5shiv.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/selectivizr.js"></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/plugins/user-submitted-posts/resources/jquery.cookie.js?ver=20190312'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/plugins/user-submitted-posts/resources/jquery.parsley.min.js?ver=20190312'></script>
+<script type='text/javascript'>
+var usp_custom_field = "usp_custom_field"; var usp_custom_checkbox = "usp_custom_checkbox"; var usp_case_sensitivity = "false"; var usp_challenge_response = "2"; var usp_min_images = 0; var usp_max_images = 1; var usp_parsley_error = "Nieprawid\u0142owa odpowied\u017a.";
+</script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/plugins/user-submitted-posts/resources/jquery.usp.core.js?ver=20190312'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/jquery.imgpreload.min.js?ver=1.4'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/jquery.fitvids.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var snapshot = {"sliderLoaderUrl":"http:\/\/www.konferencjechrzescijanskie.info\/wp-content\/themes\/snapshot\/images\/slider-loader.gif","imageLoaderUrl":"http:\/\/www.konferencjechrzescijanskie.info\/wp-content\/themes\/snapshot\/images\/photo-loader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/snapshot.min.js?ver=1.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var snapshotHome = {"sliderSpeed":"7500","transitionSpeed":"500","loaderUrl":"http:\/\/www.konferencjechrzescijanskie.info\/wp-content\/themes\/snapshot\/images\/slider-loader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/snapshot-home.min.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/plusone.min.js?ver=1.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var snapshotSearch = {"menuText":"Search"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/themes/snapshot/js/search.min.js?ver=1.4.2'></script>
+<link rel='https://api.w.org/' href='http://www.konferencjechrzescijanskie.info/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.konferencjechrzescijanskie.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.konferencjechrzescijanskie.info/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel="canonical" href="http://www.konferencjechrzescijanskie.info/" />
+<link rel='shortlink' href='http://www.konferencjechrzescijanskie.info/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.konferencjechrzescijanskie.info/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.konferencjechrzescijanskie.info%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.konferencjechrzescijanskie.info/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.konferencjechrzescijanskie.info%2F&#038;format=xml" />
+<script type="text/javascript">
+var wpPath = {
+pluginurl: 'http://www.konferencjechrzescijanskie.info/wp-content/plugins/elementary',
+ajaxurl: 'http://www.konferencjechrzescijanskie.info/wp-admin/admin-ajax.php',
+version: '1.2'
+};
+
+var AppPayload = 'dummy';
+</script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2f2f2; }
+</style>
+<link rel="icon" href="http://www.konferencjechrzescijanskie.info/wp-content/uploads/2018/12/cropped-sonja-langford-357-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.konferencjechrzescijanskie.info/wp-content/uploads/2018/12/cropped-sonja-langford-357-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.konferencjechrzescijanskie.info/wp-content/uploads/2018/12/cropped-sonja-langford-357-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.konferencjechrzescijanskie.info/wp-content/uploads/2018/12/cropped-sonja-langford-357-270x270.png" />
+</head>
+
+<body class="home page-template-default page page-id-116 custom-background elementor-default">
+
+<div id="top-area">
+<div class="container">
+<div id="top-area-wrapper">
+<div id="logo">
+<a href="http://www.konferencjechrzescijanskie.info" title="Konferencje Chrzescijanskie &#8211; STRONA W BUDOWIE - Serwis informacyjny najnowszych Konferencje i wydarzen chrzescijanskie">
+<img src="http://www.konferencjechrzescijanskie.info/wp-content/uploads/2018/08/cropped-g3375-1.png" width="828" height="0" alt="" />
+</a>
+</div>
+
+<div id="menu-main-menu-container"><div id="menu-main-menu" class="menu"><li class="menu-item"><a href="http://www.konferencjechrzescijanskie.info/?page_id=2">About</a></li>
+<li class="menu-item"><a href="http://www.konferencjechrzescijanskie.info/?page_id=112">Strona w Budowie</a></li>
+<li class="menu-item"><a href="http://www.konferencjechrzescijanskie.info/">Strona w budowie zapraszamy do grupy &#8222;Konferencje Chrzescijanskie&#8221; na FaceBook</a></li>
+</div>
+</div>		</div>
+</div>
+</div>
+
+<div id="hidden-search">
+<div class="container">
+<form role="search" method="get" id="searchform" class="searchform" action="http://www.konferencjechrzescijanskie.info/">
+<div>
+<label class="screen-reader-text" for="s">Szukaj:</label>
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Szukaj" />
+</div>
+</form>		<div class="clear"></div>
+</div>
+</div>
+<div id="page-title" class="archive-title">
+<div class="container">
+<h1>Strona w budowie zapraszamy do grupy &#8222;Konferencje Chrzescijanskie&#8221; na FaceBook</h1>
+</div>
+</div>
+<div id="home-slider-below"></div>
+
+<div id="post-116" class="post-116 page type-page status-publish hentry">
+<div class="container">
+<div id="post-main">
+<div class="entry-content">
+
+</div>
+
+
+
+</div>
+
+</div>
+<div class="clear"></div>
+</div>
+
+<div id="footer">
+<div class="container">
+<ul class="widgets">
+<li id="calendar-3" class="widget widget_calendar" style="width:100%" ><h2 class="widgettitle">wydarzenia</h2>
+<div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+<caption>Kwiecien 2019</caption>
+<thead>
+<tr>
+<th scope="col" title="poniedzialek">P</th>
+<th scope="col" title="wtorek">W</th>
+<th scope="col" title="sroda">S</th>
+<th scope="col" title="czwartek">C</th>
+<th scope="col" title="piatek">P</th>
+<th scope="col" title="sobota">S</th>
+<th scope="col" title="niedziela">N</th>
+</tr>
+</thead>
+
+<tfoot>
+<tr>
+<td colspan="3" id="prev"><a href="http://www.konferencjechrzescijanskie.info/?m=201808">&laquo; Sie</a></td>
+<td class="pad">&nbsp;</td>
+<td colspan="3" id="next" class="pad">&nbsp;</td>
+</tr>
+</tfoot>
+
+<tbody>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td>
+</tr>
+<tr>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+</tr>
+<tr>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+</tr>
+<tr>
+<td>22</td><td>23</td><td id="today">24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+</tr>
+<tr>
+<td>29</td><td>30</td>
+<td class="pad" colspan="5">&nbsp;</td>
+</tr>
+</tbody>
+</table></div></li>
+</ul>
+<div class="clear"></div>
+
+<div id="footer-copyright">
+<div class="designer">Theme by <a href="https://siteorigin.com">SiteOrigin</a></div>
+<div class="owner">
+Copyright &copy; Konferencje Chrzescijanskie - STRONA W BUDOWIE 2019			</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-content/plugins/elementary/vendor/masonry.pkgd.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-includes/js/comment-reply.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='http://www.konferencjechrzescijanskie.info/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+</body>
+</html>

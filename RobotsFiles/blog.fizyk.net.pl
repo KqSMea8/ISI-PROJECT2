@@ -1,0 +1,5 @@
+Sitemap: http://blog.fizyk.net.pl/sitemapindex.xml
+
+User-Agent: *
+Host: blog.fizyk.net.pl
+

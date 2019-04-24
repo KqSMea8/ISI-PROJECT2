@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /do/
+Disallow: /demo/
+Disallow: /mail/
+Disallow: /allegro/
+Disallow: /data/backups/
+Disallow: /data/database/
+Disallow: /data/logs/

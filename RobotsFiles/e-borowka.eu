@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /system/
+Noindex: /cz/ochrana-dat
+Noindex: /de/datenschutzrichtlinie
+Noindex: /pl/polityka-prywatnosci
+Noindex: /fr/politique-de-confidentialite
+Noindex: /en/privacy-policy
+
+Sitemap: http://e-borowka.eu/sitemap.xml
+

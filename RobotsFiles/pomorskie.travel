@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Allow: /
+User-Agent: Facebot
+Allow: /
+User-Agent: *
+Disallow:
+Sitemap: https://pomorskie.travel/sitemap.xml

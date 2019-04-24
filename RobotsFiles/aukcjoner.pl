@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /agreement
+Disallow: /captcha
+Disallow: /cookies
+Disallow: /login
+Disallow: /register
+Disallow: /contact
+Disallow: /panele/click/
+
+User-agent: ia_archiver
+Disallow: /
+

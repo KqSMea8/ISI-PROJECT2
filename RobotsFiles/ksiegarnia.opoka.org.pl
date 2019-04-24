@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /do_koszyka/
+Disallow: /koszyk/
+Disallow: /klient/
+Disallow: /realizacja/
+Disallow: /dodana/
+Disallow: /juzdodana/
+Disallow: /regulamin
+Disallow: /search
+
+User-agent: SemrushBot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Exabot
+Disallow: /

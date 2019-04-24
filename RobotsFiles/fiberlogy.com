@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*?
+Disallow: /category/*
+Disallow: /category/products/*/*
+Disallow: /category/produkty/*
+Disallow: /reseller/
+Disallow: /dla-dystrybutorow/
+Disallow: /for-resellers/

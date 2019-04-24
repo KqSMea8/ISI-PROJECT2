@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-content/plugins/tubepress/
+Disallow: /creatives/
+Disallow: /zoomto/
+Disallow: /test/
+
+
+User-agent: *
+Disallow:

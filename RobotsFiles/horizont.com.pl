@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /language/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /oldpage/
+Sitemap: http://www.horizont.com.pl/sitemap.xml

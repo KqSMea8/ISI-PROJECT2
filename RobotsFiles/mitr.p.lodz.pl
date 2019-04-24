@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /images
+Disallow: /admin
+Disallow: /biblioteka
+Disallow: /dydaktyka
+Disallow: /aparatura
+Disallow: /grupy
+Disallow: /opisy
+Disallow: /pliki
+Disallow: /pracownicy
+Disallow: /uslugi
+Disallow: /wydarzenia

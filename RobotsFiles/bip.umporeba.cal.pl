@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /js/
+Disallow: /images/
+Disallow: /katalog/
+Disallow: /addons/
+Disallow: /css/
+Disallow: /danep/
+Disallow: /kontakt.php

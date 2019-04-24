@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Noindex: /szkolenia/35-zapytanie-ofertowe/
+Noindex: /nasze-projekty/33-plan-szkolen/
+Noindex: /nasze-projekty/31-formularz-rekrutacyjny/
+Noindex: /dotacje/28-regionalny-program-operacyjny-wojewodztwa-mazowieckiego/
+Noindex: /szkolenia/26-inicjatywy-edukacyjne-na-obszarach-wiejskich/
+Noindex: /wp-content/themes/Impreza/
+Noindex: /witaj-swiecie/
+Noindex: /szkolenia/25-wspieranie-rozwoju-kwalifikacji-zawodowych-i-doradztwo-dla-przedsiebiorstw/
+Noindex: /nasze-projekty/
+Noindex: /unia/

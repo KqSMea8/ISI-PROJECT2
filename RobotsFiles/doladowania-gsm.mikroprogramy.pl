@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+This is not a feed or the data is no good, sorry! <br />*** bad url ***  http://allegro.pl/rss.php?feed=search&string=mbank&category=14408&description=1 *** bad url *** <br /> This is not a feed or the data is no good, sorry! <br />*** bad url ***  http://allegro.pl/rss.php?feed=search&string=inteligo&category=4933&description=1 *** bad url *** <br /> This is not a feed or the data is no good, sorry! <br />*** bad url ***  http://allegro.pl/rss.php?feed=search&string=inteligo&category=4935&description=1 *** bad url *** <br /> This is not a feed or the data is no good, sorry! <br />*** bad url ***  http://allegro.pl/rss.php?feed=search&string=mbank&category=46220&description=1 *** bad url *** <br /> This is not a feed or the data is no good, sorry! <br />*** bad url ***  http://allegro.pl/rss.php?feed=search&string=mbank&category=10558&description=1 *** bad url *** <br />

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /www2/administrator/
+Disallow: /www2/cache/
+Disallow: /www2/components/
+Disallow: /www2/images/
+Disallow: /www2/includes/
+Disallow: /www2/installation/
+Disallow: /www2/language/
+Disallow: /www2/libraries/
+Disallow: /www2/media/
+Disallow: /www2/modules/
+Disallow: /www2/plugins/
+Disallow: /www2/templates/
+Disallow: /www2/tmp/
+Disallow: /www2/xmlrpc/
+Sitemap: http://www.kruzlowa.diecezja.tarnow.pl/www2/index.php?option=com_xmap&sitemap=1&view=xml

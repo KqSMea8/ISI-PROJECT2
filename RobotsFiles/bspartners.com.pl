@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: /modules/mod_djimageslider/assets/js/*.js
+Allow: /modules/mod_djimageslider/themes/default/css/*.css
+Allow: /modules/mod_djimageslider/themes/default/images/
+

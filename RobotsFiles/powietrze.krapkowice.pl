@@ -1,0 +1,2 @@
+<html> <head> <meta charset=UTF-8> <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" name=viewport /> <title>Krapkowice: System monitoringu jakosci powietrza</title> <link href="/eusluga/styles.css" rel="stylesheet"></head> <body> <div id=react-content> <div id=react-params style=display:none;visiblity:hidden> {"type": "default"} </div> </div> <script type="text/javascript" src="/eusluga/bundle.js?Ver=20190324"></script></body> </html>
+

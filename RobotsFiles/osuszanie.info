@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: GoogleBot
+Disallow: /de/
+
+Sitemap: http://www.osuszanie.info/sitemap.xml

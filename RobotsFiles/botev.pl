@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /gfdl.zip
+Disallow: /godla/
+Disallow: /gf/
+Disallow: /civ_pliki/
+Disallow: /kalliope/
+Disallow: /przysiegle/
+Disallow: /.webmajster/
+Disallow: /echo/
+Disallow: /private/
+Disallow: /SK/
+Sitemap: http://www.botev.pl/sitemap.xml

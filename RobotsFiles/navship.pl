@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /PowerPoint/
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /fdc/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /komunikaty/
+Disallow: /konkurs/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /manual/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /pdf/
+Disallow: /plugins/
+Disallow: /stocznia/
+Disallow: /telefony/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /ustawienia/
+Disallow: /xmlrpc/
+

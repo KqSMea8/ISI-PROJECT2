@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/uploads/
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: moget
+User-agent: ichiro
+Disallow: /
+
+User-agent: NaverBot
+User-agent: Yeti
+Disallow: /
+
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: sogou spider
+Disallow: /
+
+User-agent: YoudaoBot
+Disallow: /
+
+

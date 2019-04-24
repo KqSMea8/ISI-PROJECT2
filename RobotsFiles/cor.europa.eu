@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Disallow: /Forms/DispForm.aspx
+
+
+
+Sitemap: https://cor.europa.eu:443/sitemap.xml
+

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Disallow: /*sid
+Disallow: /*aid
+

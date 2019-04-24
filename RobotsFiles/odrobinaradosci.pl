@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /components
+Disallow: /css
+Disallow: /doc
+Disallow: /editors
+Disallow: /gfx
+Disallow: /img
+Disallow: /js
+Disallow: /js_lib
+Disallow: /log
+Disallow: /share
+Disallow: /skins

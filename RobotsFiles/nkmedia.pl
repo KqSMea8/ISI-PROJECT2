@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /cz/
+Disallow: /ki/
+Disallow: /kr/
+Disallow: /lo/
+Disallow: /lu/
+Disallow: /rd/
+Disallow: /rz/
+Disallow: /sa/
+Disallow: /sk/
+Disallow: /st/
+Disallow: /ta/
+Disallow: /tb/

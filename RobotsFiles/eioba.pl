@@ -1,0 +1,11 @@
+Sitemap: http://www.eioba.pl/sitemap_index.xml
+# Blocking
+User-agent: *
+Disallow: /print/
+Disallow: /index.php/page,Articles.Copyright.Report/
+Disallow: /ads/go/
+Disallow: /adgo/go/
+Disallow: /index.php/page,Articles.GoToRelated/
+Disallow: /index.php/page,dtree/
+Disallow: /index.php/page,Articles.Copyright.Report/
+Disallow: /index.php/page,User.LostPassword/

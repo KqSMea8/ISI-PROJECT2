@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /doc/
+Disallow: /images/
+Disallow: /lib/
+Disallow: /modules/
+Disallow: /panel/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /uploads/

@@ -1,0 +1,205 @@
+User-agent: msnbot
+Crawl-delay: 30
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: bingbot
+Crawl-delay: 30
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: Yandex
+Crawl-delay: 18
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: sogou spider
+Crawl-delay: 50
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: naver
+Crawl-delay: 40
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: yeti
+Crawl-delay: 50
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: MJ12bot
+Crawl-delay: 50
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: Aport
+Crawl-delay: 60
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: Yahoo! Slurp
+Crawl-delay: 40
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: twiceler
+Crawl-delay: 40
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: Sosospider
+Crawl-delay: 50
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: StackRambler
+Crawl-delay: 30
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: METASpider
+Crawl-delay: 30
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: Googlebot
+Crawl-delay: 30
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: Baiduspider
+Crawl-delay: 40
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+
+User-agent: *
+Crawl-delay: 40
+Allow: /ru/
+Allow: /be/
+Allow: /pl/
+Allow: /uk/
+Disallow: /ajax/
+
+Disallow: /wap/
+Disallow: /ta/
+Disallow: /ps/
+Disallow: /ur/
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+
+Sitemap: http://pogoda.mirbig.net/sitemap?host=pogoda.mirbig.net
+
+#   _    _   ______  ____    _____    ______   _____
+#  | \  / | /_   _/ |  _ \  |      \ /_   _/  /  ___|
+#  |  \/  |   | |   | |_| | |  --  /   | |   / /  __
+#  | .  . |  _| |_  | .  /  |  --  \  _| |_  | \ _\ |
+#  |_|\/|_| /_____/ |_|\_\  |______/ /_____/  \____/
+#

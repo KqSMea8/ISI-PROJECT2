@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /bledy/
+Disallow: /img/
+Disallow: /odelay/
+Disallow: /tmp/
+Disallow: /styl.css

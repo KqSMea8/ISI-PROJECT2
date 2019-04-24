@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /udzielenie-pozwolenia-na-uzytkownie-centrum-wystawienniczo-kongresowego/action~posterboard/
+Disallow: /udzielenie-pozwolenia-na-uzytkownie-centrum-wystawienniczo-kongresowego/action~agenda/
+Disallow: /udzielenie-pozwolenia-na-uzytkownie-centrum-wystawienniczo-kongresowego/action~oneday/
+Disallow: /udzielenie-pozwolenia-na-uzytkownie-centrum-wystawienniczo-kongresowego/action~month/
+Disallow: /udzielenie-pozwolenia-na-uzytkownie-centrum-wystawienniczo-kongresowego/action~week/
+Disallow: /udzielenie-pozwolenia-na-uzytkownie-centrum-wystawienniczo-kongresowego/action~stream/

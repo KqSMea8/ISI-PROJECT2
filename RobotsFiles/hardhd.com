@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /ts/
+Disallow: */see/*
+Disallow: *999999*
+
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: 008
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: sistrix
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: proximic
+Disallow: /
+User-agent: SiteExplorer
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+
+
+User-agent: Yandex
+Crawl-delay: 7
+User-agent: YandexBot
+Crawl-delay: 7
+User-agent: Baiduspider
+Crawl-delay: 30
+User-agent: MSNBot
+Crawl-delay: 7
+User-agent: Bingbot
+Crawl-delay: 15
+User-agent: coccoc
+Crawl-delay: 7
+User-agent: YisouSpider
+Crawl-delay: 7
+User-agent: SeznamBot
+Crawl-delay: 7

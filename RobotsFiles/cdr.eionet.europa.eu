@@ -1,0 +1,5 @@
+# We do our own indexing - thank you.
+User-agent: *
+Allow: /help/
+Disallow: /
+

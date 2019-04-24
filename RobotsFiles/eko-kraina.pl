@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/fav/add/
+Disallow: /*/p/comment/add/
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/
+Disallow: /*/searchquery/
+Disallow: /pl/index/3
+Disallow: /pl/index/2
+Disallow: /pl/index/1/full
+Disallow: /pl/index/1/phot
+Disallow: /pl/s
+Disallow: /pl/passremind
+Disallow: /pl/contact

@@ -1,0 +1,41 @@
+User-agent: *
+#Exclude all orders pages PL LT BG HR
+Disallow: /*?order-express
+Disallow: /*?appointment
+#Exclude all reviews pages from listings PL LT BG HR
+Disallow: /*?reviews
+#Exclude maps from big car workshop page PL LT BG HR EN
+Disallow: /*mapa$
+Disallow: /*zemelapis-bendras$
+Disallow: /*shiroka-karta$
+Disallow: /*siroka-karta$
+Disallow: /*map$
+Disallow: /*wide-map$
+#Exclude reviews from big car workshop page
+Disallow: /*opinie$
+Disallow: /*reviews$
+Disallow: /*recenzije$
+Disallow: /*atsiliepimai$
+#Reviews excluding on markets LT BG
+Disallow: /bg/bg/dobaviane-mnenie
+Disallow: /bg/en/add-review
+#Excluding nonexisting lang versions PL LT BG
+Disallow: /pl/lt/
+Disallow: /pl/bg/
+Disallow: /pl/hr/
+Disallow: /bg/de/
+Disallow: /bg/lt/
+Disallow: /bg/pl/
+Disallow: /bg/hr/
+Disallow: /lt/de/
+Disallow: /lt/pl/
+Disallow: /lt/bg/
+Disallow: /lt/hr/
+Disallow: /hr/pl/
+Disallow: /hr/bg/
+Disallow: /hr/lt/
+Disallow: /hr/de/
+Sitemap: https://motointegrator.com/sitemaps/PL-sitemap-index.xml
+Sitemap: https://motointegrator.com/sitemaps/BG-sitemap-index.xml
+Sitemap: https://motointegrator.com/sitemaps/LT-sitemap-index.xml
+Sitemap: https://motointegrator.com/sitemaps/HR-sitemap-index.xml

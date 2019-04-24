@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /engine/
+Disallow: /module/
+Disallow: /parsers/
+Disallow: /template/
+Disallow: /xml/
+Disallow: /aloha/
+Disallow: /privacy
+Disallow: /js/
+Disallow: /work.php
+Host: laty.biz
+
+

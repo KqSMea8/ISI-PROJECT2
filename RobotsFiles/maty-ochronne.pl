@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /platnosc.html
+Disallow: /gwarancja.html
+Disallow: /zwroty.html
+Disallow: /regulamin.html
+Disallow: /polityka-prywatnosci.html
+Disallow: /cookies.html
+Disallow: /koszyk.html

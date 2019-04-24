@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /chat
+Disallow: /chat.php
+Disallow: /chat.js
+Disallow: /adm
+Disallow: /cache
+Disallow: /docs
+Disallow: /download
+Disallow: /files
+Disallow: /includes
+Disallow: /language
+Disallow: /reimg
+Disallow: /store
+Disallow: /login.php

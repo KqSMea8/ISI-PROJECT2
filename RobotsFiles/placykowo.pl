@@ -1,0 +1,21 @@
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /warszawa/2-ogolna.html
+Disallow: /index.php/
+Disallow: /index.php?
+Allow: /index.php?option=com_xmap&view=xml&id=1
+Allow: /images/place_zabaw/

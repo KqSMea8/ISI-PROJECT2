@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /player
+Disallow: /premium
+Disallow: /transfer
+Disallow: /logowanie
+Disallow: /rejestracja
+Disallow: /regulamin
+Disallow: /regulamin-sms
+Disallow: /regulamin-gra
+Disallow: /swieta_na_calosc/
+Disallow: /swieta_na__calosc/
+Disallow: /graj_o__calosc/

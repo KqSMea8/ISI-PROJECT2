@@ -1,0 +1,29 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /admin/
+Disallow: /admin
+Disallow: /opinia/
+Disallow: /logowanie
+Disallow: /login
+Disallow: /login_check
+Disallow: /logout
+Disallow: /register/
+Disallow: /resetting/
+Disallow: /profile/
+Disallow: /block/
+Disallow: /blog/
+Disallow: /page/
+Disallow: /managing/
+Disallow: /image/
+Disallow: /address/
+Disallow: /contactinformation/
+Disallow: /newsletter/
+Disallow: /errata/
+Disallow: /pytanie/
+Disallow: /wydarzenia/wyszukane
+Disallow: /kontakt_a29
+Disallow: /pomoc_a2
+Disallow: /polityka-prywatnosci_a1
+

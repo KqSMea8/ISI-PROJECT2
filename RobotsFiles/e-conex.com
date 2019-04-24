@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /wtrakciepracy/
+Disallow: /akademiatanca/
+Disallow: /app/
+Disallow: /dobrachemia/
+Disallow: /enso/
+Disallow: /europaalt/
+Disallow: /files/
+Disallow: /gayparty/
+Disallow: /kodemii/
+Disallow: /vendor/
+Disallow: /wp-admin/
+Disallow: /wp-includes/

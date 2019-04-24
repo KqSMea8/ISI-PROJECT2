@@ -5,7 +5,7 @@
 function redirect()
 {
 var url = "http://www.exitdoor.pl";
-window.location.replace("https://track.aftermarket.pl/track.php?track=5e822633e59e28a52f52709145878109&ref=" + document.referrer + "&url=" + encodeURIComponent(url));
+window.location.replace("https://track.aftermarket.pl/track.php?track=f7114c10421091bf71f23d4918ea15a4&ref=" + document.referrer + "&url=" + encodeURIComponent(url));
 }
 redirect();
 </script>

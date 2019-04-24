@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><base href="/"><title>Happysad</title><link rel="shortcut icon" type="image/jpg" href="/assets/happysad-favicon.png"><meta name="description" content="Happysad - strona oficjalna"><meta property="fb:app_id" content="149121349055242"/><meta property="og:url" content="https://happysad.art.pl/"/><meta property="og:type" content="website"/><meta property="og:title" content="Happysad"/><meta property="og:description" content="Happysad to: Jakub Kawalec, Lukasz Ceglinski, Artur Telka, Jaroslaw Dubinski, Maciej Ramisz, Michal Bak. Kontakt: Pawel Hordejuk, +48 601 050 848, hares@happysad.art.pl"/><meta property="og:image" content="https://happysad.art.pl/assets/Happysad2.jpg"/><meta name="viewport" content="width=device-width,initial-scale=1"><link href="https://cdn.quilljs.com/1.3.2/quill.snow.css" rel="stylesheet"><script src="https://www.google.com/recaptcha/api.js"></script><!-- Piwik --><script type="text/javascript">var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//stats21.mydevil.net/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '18']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();</script><noscript><p><img src="//stats21.mydevil.net/piwik.php?idsite=18" style="border:0" alt=""/></p></noscript><!-- End Piwik Code --><script src="https://gooutcdn.com/external/poland/happysadartpl.js"></script><link href="styles.f57d2c745977af1a342c.bundle.css" rel="stylesheet"/></head><body><app-root></app-root><script type="text/javascript" src="inline.8a65908c3e35520ee83c.bundle.js"></script><script type="text/javascript" src="polyfills.65fb6410f4e73c7ec196.bundle.js"></script><script type="text/javascript" src="scripts.09dd64a64ba840c31a81.bundle.js"></script><script type="text/javascript" src="vendor.4142b4cd7043f0ad3d8c.bundle.js"></script><script type="text/javascript" src="main.bcec5d8bfd03e358a93a.bundle.js"></script></body></html>

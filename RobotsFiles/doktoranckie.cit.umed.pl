@@ -1,0 +1,12 @@
+<br />
+<font size='1'><table class='xdebug-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Uncaught exception 'Zend_Controller_Dispatcher_Exception' with message 'Invalid controller specified (robots.txt)' in /var/www/doktoranckie.cit.umed.pl/library/Zend/Controller/Dispatcher/Standard.php on line <i>248</i></th></tr>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Zend_Controller_Dispatcher_Exception: Invalid controller specified (robots.txt) in /var/www/doktoranckie.cit.umed.pl/library/Zend/Controller/Dispatcher/Standard.php on line <i>248</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>651272</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/var/www/doktoranckie.cit.umed.pl/public/index.php' bgcolor='#eeeeec'>../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0617</td><td bgcolor='#eeeeec' align='right'>9080152</td><td bgcolor='#eeeeec'>Zend_Application->run(  )</td><td title='/var/www/doktoranckie.cit.umed.pl/public/index.php' bgcolor='#eeeeec'>../index.php<b>:</b>51</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0617</td><td bgcolor='#eeeeec' align='right'>9080152</td><td bgcolor='#eeeeec'>Zend_Application_Bootstrap_Bootstrap->run(  )</td><td title='/var/www/doktoranckie.cit.umed.pl/library/Zend/Application.php' bgcolor='#eeeeec'>../Application.php<b>:</b>366</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.0617</td><td bgcolor='#eeeeec' align='right'>9080600</td><td bgcolor='#eeeeec'>Zend_Controller_Front->dispatch(  )</td><td title='/var/www/doktoranckie.cit.umed.pl/library/Zend/Application/Bootstrap/Bootstrap.php' bgcolor='#eeeeec'>../Bootstrap.php<b>:</b>97</td></tr>
+</table></font>
+

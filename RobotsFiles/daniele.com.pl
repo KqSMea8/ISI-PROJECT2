@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cms_admin
+Disallow: /cms_config
+Disallow: /cms_css
+Disallow: /cms_foto
+Disallow: /cms_foto_mini
+Disallow: /cms_help
+Disallow: /cms_img
+Disallow: /cms_img
+Disallow: /cms_inc
+Disallow: /cms_js
+Disallow: /cms_lang
+Disallow: /cms_menu
+Disallow: /cms_tmp
+Disallow: /site_img
+Disallow: /site_inc

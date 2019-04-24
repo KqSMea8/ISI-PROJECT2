@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /Reklama-*
+Disallow: /cron*
+Disallow: /bhp-*
+Disallow: /ergon/
+Disallow: /ergon.*
+Disallow: /ergoni*
+Disallow: /odk_er*
+Disallow: /odker*
+Disallow: /pub*
+Disallow: /tmp*
+Disallow: /waw*
+Disallow: /?s=*

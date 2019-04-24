@@ -1,0 +1,57 @@
+User-agent: *
+
+Disallow: /zwiotczala-skora-twarzy-szyi-dekoltu-dloni.html
+Disallow: /male-usta-suche-usta-opadajace-kaciki-asymetria.html
+Disallow: /zaglebienia-doly-pod-oczami.html
+Disallow: /przebarwienia-rozstepy-blizny-potradzikowe.html
+Disallow: /niedoczynnosc-tarczycy.html
+Disallow: /opadajace-policzki-utrata-owalu-twarzy.html
+Disallow: /opadajace-powieki-brwi-2.html
+Disallow: /bruzdy-nosowo-wargowe.html
+Disallow: /stylistka.html
+Disallow: /leczenie-zylakow-skleroterapia.html
+Disallow: /bruzdy-nosowo-wargowe-57.html
+Disallow: /male-usta-suche-usta-opadajace-kaciki-asymetria-69.html
+Disallow: /przeszczep-tkanki-tluszczowej.html
+Disallow: /wypadanie-wlosow-lysienie.html
+Disallow: /nadpotliwosc-pach-dloni-stop.html
+Disallow: /cellulit-rozstepy-blizny-potradzikowe-2.html
+Disallow: /choroba-hashimoto.html
+Disallow: /plastyka-brzucha.html
+Disallow: /images/happpy-days/
+Disallow: /usuwanie-tkanki-tluszczowej-lipoliza.html
+Disallow: /opadajace-policzki-utrata-owalu-twarzy-59.html
+Disallow: /metamorfoza-wizerunku-analiza-kolorystyczna.html
+Disallow: /kreowanie-wizerunku-dobor-ubioru-do-kazdej-sylwetki.html
+Disallow: /choroby-przysadki-mozgowej.html
+Disallow: /piekne-dlonie-nawilzanie-wypelnianie-skory-dloni.html
+Disallow: /zwiotczala-skora-twarzy-szyi-dekoltu-dloni-71.html
+Disallow: /wypadanie-wlosow.html
+Disallow: /mobile/
+Disallow: /m/
+Disallow: /mobile/worki-pod-oczami.html
+Disallow: /m/lifting-twarzy-szyi.html
+Disallow: /mobile/zespol-rowka-nerwu-lokciowego.html
+Disallow: /mobile/usuwanie-znamion-pieprzykow-brodawek-tluszczakow-kaszakow.html
+Disallow: /mobile/kosmeceutyki-teosyal.html
+Disallow: /Sm/medycyna-kosmetologia-estetyczna.html
+
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+
+Allow: /modules/mod_reslider/
+Allow: /modules/mod_bt_contentslider/
+Allow: /modules/mod_reslider/
+
+Sitemap: http://derm-estetyka.pl/sitemap.xml

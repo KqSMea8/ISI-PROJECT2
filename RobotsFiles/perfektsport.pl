@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /koszyk
+Disallow: /ulubione
+Disallow: /moje-konto
+Disallow: /polityka-cookies
+Disallow: /regulamin-i-prywatnosc
+Disallow: /*?pageSize=*
+Disallow: /*?search=*
+Disallow: /app/specs
+Disallow: /test-home-page
+Sitemap: http://perfektsport.pl/sitemap.xml

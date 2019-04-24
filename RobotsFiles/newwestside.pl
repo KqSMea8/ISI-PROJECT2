@@ -1,0 +1,28 @@
+User-Agent: *
+
+# **********************************************************************
+# Allow
+
+Allow: /
+Allow: /sitemap.xml
+Allow: /typo3temp/compressor/
+
+# **********************************************************************
+# Disallow
+
+Disallow: /files/assets/
+Disallow: /files/_temp_/
+
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /uploads/
+
+Disallow: /cgi-bin/
+Disallow: /xhprof/
+Disallow: /xview/
+
+Disallow: *no_cache*
+Disallow: *debug*
+Disallow: /*?id=*

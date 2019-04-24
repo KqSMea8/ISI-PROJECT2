@@ -1,0 +1,24 @@
+sitemap: http://www.motogp.pl/sitemap.xml
+
+User-agent:  *
+# disallow all files in these directories
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /archives/
+disallow: /*?*
+Disallow: *?replytocom
+Disallow: /wp-*
+Disallow: /comments/feed/
+Disallow: */nowa/
+Disallow: */blog/
+Disallow: */MotoGPpol/lists/zawodnicy-na-twitterze
+User-agent: Mediapartners-Google*
+Allow: /
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pl-pl/Profil
+Disallow: /pl-pl/Search
+Sitemap: http://kruszywa.net/pl-pl/SiteMap

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /seo/
+Disallow: /lingo-lizard-cafe/
+Disallow: /lingo-lizard-cafe-2/
+Disallow: /slider/
+Disallow: /lm/
+Disallow: /comments/feed/
+Sitemap: http://lingolizardcafe.pl/sitemap.xml

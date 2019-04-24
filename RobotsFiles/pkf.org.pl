@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /cms
+Disallow: /themes
+Disallow: /mysite
+Disallow: /extensions
+Disallow: /silverstripe-cache
+Disallow: /tmp
+Disallow: /adv
+Disallow: /Dokumenty

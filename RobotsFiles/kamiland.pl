@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: *index.php?route=*
+Disallow: *manufacturer_id=*
+Disallow: *page=*
+Disallow: *page%*
+Disallow: *page%7D*
+Disallow: *?page=*
+Disallow: *p.sort*
+Disallow: */order*
+Disallow: */limit*
+Disallow: *manufacturer*
+Disallow: *limit=*

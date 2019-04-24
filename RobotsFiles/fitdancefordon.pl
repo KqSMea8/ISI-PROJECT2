@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /terminy-kursow-i-szkolen/action~posterboard/
+Disallow: /terminy-kursow-i-szkolen/action~agenda/
+Disallow: /terminy-kursow-i-szkolen/action~oneday/
+Disallow: /terminy-kursow-i-szkolen/action~month/
+Disallow: /terminy-kursow-i-szkolen/action~week/
+Disallow: /terminy-kursow-i-szkolen/action~stream/
+Disallow: /terminy-kursow-i-szkolen/action~undefined/
+Disallow: /terminy-kursow-i-szkolen/action~http:/
+Disallow: /terminy-kursow-i-szkolen/action~default/
+Disallow: /terminy-kursow-i-szkolen/action~poster/
+Disallow: /terminy-kursow-i-szkolen/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

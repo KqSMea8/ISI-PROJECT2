@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /classes/
+Disallow: /system/
+Disallow: /modules/
+Disallow: /js/
+Disallow: /forms/
+Disallow: /db/
+Disallow: /includes/
+Disallow: /install/
+Disallow: /layouts/

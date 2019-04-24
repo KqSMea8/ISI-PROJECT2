@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /witaj-swiecie/
+Disallow: /author/development/
+Disallow: /author/
+Disallow: /mieszkanie/page/
+Disallow: /startery/
+Disallow: /category/
+Disallow: /kondygnacje/
+Disallow: /budynek/
+Disallow: /mieszkanie/

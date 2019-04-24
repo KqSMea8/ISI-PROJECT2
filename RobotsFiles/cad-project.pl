@@ -1,0 +1,29 @@
+User-agent: Googlebot
+Allow: /media/plg_system_info_ciacho/css/
+Allow: /modules/mod_slidefb/fb_bg.png
+Allow: /components/com_imageshow/assets/css/
+Allow: /components/com_imageshow/assets/js/
+Allow: /media/system/css/
+Allow: /media/system/js/
+Allow: /plugins/system/cdscriptegrator/libraries/jquery/js/
+Allow: /plugins/system/mtupgrade/mootools.js
+Allow: /plugins/system/cdscriptegrator/libraries/highslide/css/
+Allow: /templates/cad_project/js/
+Allow: /templates/cad_project/css/
+Allow: /plugins/system/cdscriptegrator/libraries/highslide/css/
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Sitemap: https://cad-project.pl/index.php?option=com_sefservicemap&amp;task=xmlmapindex&amp;no_html=1
+

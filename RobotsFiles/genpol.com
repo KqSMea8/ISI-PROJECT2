@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /admin
+Disallow: /ajax
+Disallow: /banners
+Disallow: /error
+Disallow: /footer
+Disallow: /header
+Disallow: /install
+Disallow: /print
+Disallow: /pntables
+Disallow: /config
+Disallow: /docs
+Disallow: /images
+Disallow: /includes
+Disallow: /install
+Disallow: /javascript
+Disallow: /language
+Disallow: /modules
+Disallow: /pnTemp
+Disallow: /system
+Disallow: /themes
+noindex: /module-Profil-view-uname-*.html$
+noarchive: /module-Profil-view-uname-*.html$
+Disallow: /module-Profil-view-uname-*.html$
+

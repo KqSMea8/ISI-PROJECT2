@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /statics/
+Disallow: /catalogmedia/
+Disallow: /static-content/
+Disallow: /*.xsl$
+Disallow: /*.xml$
+
+User-agent: Googlebot-Image
+Disallow: /
+

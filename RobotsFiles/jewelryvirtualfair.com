@@ -1,0 +1,16 @@
+User-agent: *
+disallow: /_
+disallow: /*/_
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_it.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_en.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_de.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_es.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_fr.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_ja.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_ko.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_pl.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_pt.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_ru.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_th.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_tr.xml
+Sitemap: https://www.jewelryvirtualfair.com/public/sitemap_zh.xml

@@ -1,0 +1,15 @@
+Sitemap: http://www.computerplus.com.pl/home/sitemap.xml
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /junk/
+Disallow: /files/
+Disallow: /download/
+Disallow: /web/
+Disallow: /ckeditor/
+Disallow: /help/
+Disallow: /img/
+Disallow: /lotus/
+Disallow: /oneuiv2/
+Disallow: /oneuiv2.1/
+Disallow: /script/

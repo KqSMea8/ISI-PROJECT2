@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /*
+Allow: /images/*
+Allow: /css/*
+Allow: /js/*
+Allow: /$
+Allow: /kariera
+Allow: /be-machinelearningleader
+Allow: /be-seniormachinelearningdev
+Allow: /be-akustyk
+Allow: /be-programistamobilny
+Allow: /be-administratorit
+Allow: /be-dyrektor

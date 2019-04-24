@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /forum/
+Disallow: /pl/forum/
+Disallow: /ajax/
+Disallow: /pl/ajax/
+Disallow: /ajax/login/
+Disallow: /pl/ajax/login/
+Disallow: /ajax/forum/
+Disallow: /pl/ajax/forum/
+Disallow: /ajax/cats2multicat/
+Disallow: /pl/ajax/cats2multicat/
+Disallow: /ajax/newsletter/
+Disallow: /pl/ajax/newsletter/
+Sitemap: http://beta.pik.kielce.pl/sitemap.xml

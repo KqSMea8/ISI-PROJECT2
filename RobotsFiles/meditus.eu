@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meditus.eu/sitemap.xml

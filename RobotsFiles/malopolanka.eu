@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /author/*
+Disallow: /galeria/lux_32_1/
+Disallow: /galeria/kawiarnia2/
+Disallow: /galeria/2-3/

@@ -1,0 +1,5 @@
+
+User-agent: *
+Sitemap: http://london.ticketbar.eu/sitemap.xml
+Disallow: /en/criteo-feed/
+

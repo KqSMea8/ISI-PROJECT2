@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /act/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /classes/
+Disallow: /config/
+Disallow: /fckeditor/
+Disallow: /files/
+Disallow: /images/
+Disallow: /img/
+Disallow: /lib/
+Disallow: /office/
+Disallow: /pre/
+Disallow: /smarty/
+Disallow: /swf/
+Disallow: /xml/

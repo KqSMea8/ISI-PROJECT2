@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /konto/
+Disallow: /pl/konto/
+Disallow: /konto/twoje-dane/
+Disallow: /pl/konto/twoje-dane/
+Disallow: /konto/twoje-dane/avatars/
+Disallow: /pl/konto/twoje-dane/avatars/
+Sitemap: http://www.plwat.pl/sitemap.xml

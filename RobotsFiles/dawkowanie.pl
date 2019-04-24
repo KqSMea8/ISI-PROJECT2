@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /_admin/
+Disallow: /rejestracja/
+Disallow: /register/
+Disallow: /logowanie/
+Disallow: /auth/
+Disallow: /password_recovery/
+Disallow: /odzyskiwanie-hasla/
+Disallow: /siec-aptek/
+Disallow: /_pharmacies_network/
+Disallow: /producent-lekow/
+Disallow: /_producer/
+Disallow: /schowek/
+Disallow: /clipboard/
+Disallow: /osrodek-zdrowia/
+Disallow: /_health_center/
+Disallow: /pacjent/
+Disallow: /_patient/
+Disallow: /page_error/
+Disallow: /static/
+Disallow: /images/
+Disallow: /uploads/
+

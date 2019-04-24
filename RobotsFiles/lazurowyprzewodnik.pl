@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /imprezy-wydarzenia-lazurowe-wybrzeze/action~posterboard/
+Disallow: /imprezy-wydarzenia-lazurowe-wybrzeze/action~agenda/
+Disallow: /imprezy-wydarzenia-lazurowe-wybrzeze/action~oneday/
+Disallow: /imprezy-wydarzenia-lazurowe-wybrzeze/action~month/
+Disallow: /imprezy-wydarzenia-lazurowe-wybrzeze/action~week/
+Disallow: /imprezy-wydarzenia-lazurowe-wybrzeze/action~stream/

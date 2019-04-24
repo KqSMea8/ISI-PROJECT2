@@ -1,0 +1,21 @@
+User-agent:
+Disallow: /*.msg*
+Disallow: /*sa=showPosts*
+Disallow: /*prev_next*
+Disallow: /*action=
+Disallow: /*action=printpage*
+Disallow: /*action=recent*
+Disallow: /*action=help*
+Disallow: /*action=login*
+Disallow: /*action=register*
+Disallow: /*action=search*
+Disallow: /*action=who*
+Disallow: /*action=post*
+Disallow: /*wap2*
+Disallow: /*imode*
+Disallow: /index.php/*
+Disallow: /help/
+Disallow: /login/
+Disallow: /register/
+Disallow: /recent/
+Disallow: /?PHPSESSID

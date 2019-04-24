@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*.rtf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /*.xlt$
+Disallow: /*.pdf$
+Disallow: /*.zip$
+Disallow: /*.7z$

@@ -1,0 +1,63 @@
+
+
+# BEGIN PAY-TO-VIEW
+User-agent: *
+
+Disallow: /api/v1/site
+Disallow: /api/v1/site/impression
+Disallow: /script/
+Disallow: /api/v1/user/token
+Disallow: /zip/iframe.html
+Disallow: /handlebars/compiler/base
+Disallow: /helpers/log
+Disallow: /helpers/with
+Disallow: /helpers
+Disallow: /helpers/if
+Disallow: /helpers/each
+Disallow: /html/powered-by.hbs
+Disallow: /handlebars/safe-string
+Disallow: /logger
+Disallow: /handlebars/compiler/javascript-compiler
+Disallow: /handlebars/compiler/compiler
+Disallow: /quick-sort
+Disallow: /source-map/source-map-consumer
+Disallow: /source-map/source-map-generator
+Disallow: /handlebars/compiler/ast
+Disallow: /handlebars.runtime
+Disallow: /binary-search
+Disallow: /array-set
+Disallow: /helpers/block-helper-missing
+Disallow: /base64-vlq
+Disallow: /html/popup-block.hbs
+Disallow: /whitespace-control
+Disallow: /visitor
+Disallow: /base64
+Disallow: /code-gen
+Disallow: /decorators/inline
+Disallow: /decorators
+Disallow: /util
+Disallow: /handlebars/base
+Disallow: /source-map/source-node
+Disallow: /source-map-generator
+Disallow: /parser
+Disallow: /helpers/helper-missing
+Disallow: /handlebars/no-conflict
+Disallow: /handlebars/runtime
+Disallow: /js/easyXDM
+Disallow: /mapping-list
+Disallow: /utils
+Disallow: /dist/cjs/handlebars
+Disallow: /dist/cjs/handlebars/compiler/printer
+Disallow: /handlebars/compiler/visitor
+Disallow: /helpers/lookup
+Disallow: /ast
+Disallow: /handlebars/exception
+Disallow: /html/popup-support.hbs
+Disallow: /exception
+Disallow: /dist/cjs/handlebars.runtime
+Disallow: /base
+Disallow: /handlebars/utils
+Disallow: /dist/cjs/handlebars.runtime
+Disallow: /base
+Disallow: /handlebars/utils
+# END PAY-TO-VIEW

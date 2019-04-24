@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /en/
+Disallow: /m/en/
+Disallow: blad.html
+Disallow: blog.html
+Disallow: book.html
+Disallow: extranet.html
+Disallow: receipt.html
+Disallow: receiptTest.html
+Disallow: MailTest.html
+Disallow: googleaa40b94890b9fc2b.html
+Disallow: /grafika/regulamin_Laiko_Apartments.pdf
+Disallow: yp.html
+Disallow: ogloszenie_o_prace_laiko_apartments.pdf
+Disallow: ogloszenie_o_prace_LAIKO_gospodarz_weekendowy.pdf
+Disallow: extranet.html

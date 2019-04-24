@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wydarzenia/action~posterboard/
+Disallow: /wydarzenia/action~agenda/
+Disallow: /wydarzenia/action~oneday/
+Disallow: /wydarzenia/action~month/
+Disallow: /wydarzenia/action~week/
+Disallow: /wydarzenia/action~stream/
+Disallow: /wydarzenia/action~undefined/
+Disallow: /wydarzenia/action~http:/
+Disallow: /wydarzenia/action~default/
+Disallow: /wydarzenia/action~poster/
+Disallow: /wydarzenia/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

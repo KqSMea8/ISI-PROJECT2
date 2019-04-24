@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://blog.jaceklaskowski.pl/sitemap.xml
+

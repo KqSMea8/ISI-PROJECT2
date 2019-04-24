@@ -1,0 +1,66 @@
+#
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: /*/feed/rss/$
+Disallow: /category/*
+Disallow: /Jerseys/*
+Disallow: /ebay/*
+Disallow: /pagesebay/*
+Disallow: /time/*
+Disallow: /sfchronicle/*
+Disallow: /dailymailco/*
+Disallow: /selfishmom/*
+Disallow: /dailykos/*
+Disallow: /a75_aiko-wanzu/*
+Disallow: /a75_naim2/*
+Disallow: /gumtreeco/*
+Disallow: /storesebay/*
+Disallow: /goslugs/*
+Disallow: /tracwebkit/*
+Disallow: /inc-asean/*
+Disallow: /inc-asean/*
+Disallow: /newswalesco/*
+Disallow: /feature/*
+Disallow: /a75_methodshop/*
+Disallow: /a75_birays/*
+Disallow: /a75_yasukukaeru/*
+Disallow: /studenthealthsa/*
+Disallow: /apoucsc/*
+Disallow: /a75_kaden-sakura/*
+Disallow: /apoucsc/*
+Disallow: /a75_nttxstore/*
+Disallow: /nydailynews/*
+Disallow: /sdc/*
+Disallow: /enwikipedia/*
+Disallow: /a75_esportskenko/*
+Disallow: /itunesapple/*
+Disallow: /a75_sports-diary/*
+Disallow: /a75_kaden-sakura/*
+Disallow: /a75_wildfit/*
+Disallow: /a75_treasuretown/*
+Disallow: /qnhkt2068/*
+Disallow: /qnhkt2068*
+Disallow: /signinebay/*
+Disallow: /contactebay/*
+Disallow: /Mu /*
+Disallow: /qnhkt2081/*
+Disallow: /qnhkt2079/*
+Disallow: /qnhkt2075/*
+Disallow: /qnhkt2077/*
+Disallow: /qnhkt2078/*
+Disallow: /qnhkt2076/*
+Disallow: /qnhkt2085/*
+Disallow: /offerebay/*
+Disallow: /qnhkt2068/*
+Disallow: /offerebay/*
+Disallow: /offerebay/*
+
+
+

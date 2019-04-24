@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /$
+Allow: /index.php
+Allow: /index.php?*
+Allow: /mobile*
+Allow: /?object*
+Allow: /?userview*
+Allow: /?zoom*
+Allow: /?x*
+Allow: /e-mapa.png
+Allow: /*/images/*
+Allow: /application/system/*.css
+Allow: /application/system/*.php
+Allow: /application/*.js
+Allow: /application/*.png
+Disallow: /*

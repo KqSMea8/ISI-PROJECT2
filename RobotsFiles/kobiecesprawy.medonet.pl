@@ -1,0 +1,1 @@
+<div id="fatal-error" style="font-family: arian, helvetica, sans-serif; font-size : 18px; display: block; position: static; top : 0; left : 0; background-color: #ff0000; color: #fff; font-weight: bold; width: 100%; padding: 10px;">Unknown page type. Cannot assign layout to this page</div>

@@ -1,0 +1,4 @@
+Sitemap: http://www.pension-pavla.cz/sitemap.xml
+User-agent: *
+Disallow: /pagelet/
+

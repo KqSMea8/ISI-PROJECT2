@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /odwiedziny.php
+Disallow: /odwiedziny-pokaz.php
+Disallow: /odwiedziny-licznik.php
+Disallow: /notfound.htm
+Disallow: /notfound404.htm
+Disallow: /notfound404.php
+Disallow: /DANE/
+Disallow: /php/
+Disallow: /grafika/
+Disallow: /validate/
+Disallow: /grafika-zapowiedzi/
+Sitemap: http://biegnijmy.pl/mapawitryny.xml

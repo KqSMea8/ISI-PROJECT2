@@ -1,0 +1,24 @@
+Sitemap: https://e-turysta.pl/sitemaps/pl_PL/sitemap.xml
+Sitemap: https://e-turysta.pl/sitemaps/pl_PL/sitemap_new_URLs.xml
+
+#http://www.majestic12.co.uk/projects/dsearch/mj12bot.php
+User-agent: MJ12bot
+Disallow: /
+#http://www.linguee.com/bot
+User-agent: Linguee
+Disallow: /
+#http://www.shopwiki.com/w/Help%3ABot
+User-agent: ShopWiki
+Disallow: /
+#http://www.wotbox.com/bot/
+User-agent: wotbox
+Disallow: /
+#http://ahrefs.com/robot/
+user-agent: AhrefsBot
+Disallow: /
+#Ezooms [+ blokada htaccess]
+user-agent: Ezooms
+Disallow: /
+#http://napoveda.seznam.cz/cz/robots.txt.html
+User-agent: Seznambot
+Disallow: /

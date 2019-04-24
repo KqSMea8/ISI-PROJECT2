@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /sitecore/
+Disallow: /sitecore modules/
+Disallow: /sitecore_files/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: *Layouts
+Disallow: *loginpage
+Disallow: *createprofilepage
+Disallow: *resetpasswordpage
+Disallow: *writereview
+Disallow: *search
+Disallow: *rating-and-review-legacy
+Disallow: *review-guidelines
+Noindex: *Layouts
+Noindex: *loginpage
+Noindex: *createprofilepage
+Noindex: *resetpasswordpage
+Noindex: *writereview
+Noindex: *search
+Noindex: *rating-and-review-legacy
+Noindex: *review-guidelines
+Sitemap: https://www.gillette.pl/pl-pl/sitemap.xml

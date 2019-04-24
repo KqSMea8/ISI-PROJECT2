@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /phpMyAdmin
+Disallow: /sklep/image
+Disallow: /sklep/images
+Disallow: /sklep/download
+Disallow: /sklep/index.php?route=information/information&information_id=3
+Disallow: /sklep/index.php?route=information/information&information_id=5
+Disallow: /Cv
+Disallow: /webalizer
+Disallow: /forum
+Disallow: *.css
+Disallow: *.js
+Disallow: *.ini
+Disallow: *.ico
+Disallow: *.txt

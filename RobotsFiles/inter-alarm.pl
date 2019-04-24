@@ -1,0 +1,7 @@
+
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+
+

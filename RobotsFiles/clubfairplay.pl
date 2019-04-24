@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /class/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /panel_administratora/
+Disallow: /pliki/

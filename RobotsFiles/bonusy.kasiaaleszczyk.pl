@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /*
+Disallow: /images/*
+Disallow: /stylesheets/*
+Disallow: /javascripts/*
+Disallow: /auth/*
+Disallow: /central/*
+Disallow: /password_recoveries/*
+Disallow: /admin/*
+Disallow: */update
+Disallow: */refresh
+Disallow: */related
+Disallow: */redirect
+Disallow: *subscribe*
+Disallow: *count_me_in*
+Allow: *vote-contest*
+Disallow: *vote*
+Disallow: */comments/*
+Disallow: /wp-admin/
+

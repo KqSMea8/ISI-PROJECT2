@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /index.php
+Disallow: /xmlrcp.php
+Disallow: /polityka-prywatnosci/
+Disallow: /regulamin-serwisu/
+Disallow: /kontakt-z-nami/
+Disallow: /profile/
+Disallow: /?attachment_id=8632
+Disallow: /?attachment_id=8588
+Disallow: /?attachment_id=5933
+Disallow: /?attachment_id=8603
+Disallow: /?attachment_id=8608
+Disallow: /?attachment_id=5929
+Disallow: /?attachment_id=8612
+Disallow: /?attachment_id=8614
+Disallow: /?attachment_id=774
+Disallow: /?attachment_id=5863
+Disallow: /?attachment_id=8606
+Disallow: /?attachment_id=8616
+Disallow: /?attachment_id=8613
+Disallow: /?attachment_id=3130
+Disallow: /?attachment_id=10821
+Disallow: /?attachment_id=859
+Disallow: /?attachment_id=5862
+
+Allow: /*.js$
+Allow: /*.css$
+Sitemap: https://kuponiarnia.pl/sitemap_index.xml
+

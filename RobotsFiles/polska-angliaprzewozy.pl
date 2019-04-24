@@ -1,0 +1,9 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Allow: /*.css
+Allow: /*.js
+Disallow: /_app/
+Disallow: /cgi-bin/
+

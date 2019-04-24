@@ -1,0 +1,16 @@
+User-agent: *
+User-agent: Googlebot-Image
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /licznik/
+Disallow: /menugora/
+Disallow: /stopka/
+Disallow: /daily/
+Disallow: /ip/
+Disallow: /total_visits/
+Disallow: /podziekowanie.php/
+Disallow: /video/
+allow: /podziekowaniepit.php/
+Sitemap: http://jedenprocent.marfan.pl/sitemap.xml

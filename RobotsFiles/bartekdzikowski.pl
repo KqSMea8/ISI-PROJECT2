@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /dla-radiowcow/
+Disallow: /for-radio-presenters/
+Disallow: /a-koncert-en/
+Disallow: /a-koncert-pl/
+Disallow: /a-news-en/
+Disallow: /a-news-pl/
+Disallow: /muzyka-traveling-soul/
+Disallow: /mp3/
+Allow: /

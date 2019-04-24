@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /newsletter/
+Disallow: /review/
+Disallow: /sales/
+Disallow: /search/
+Disallow: /sendfriend/
+Disallow: /updateqty/
+Disallow: /wishlist/
+
+Sitemap: http://livro.pl/sitemap.xml
+

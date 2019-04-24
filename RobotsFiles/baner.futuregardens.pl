@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /recommend_shop
+Disallow: /newsletter
+Disallow: /currency
+Disallow: /productsCompare
+Disallow: /product_options
+Disallow: /stNavigationFrontend
+Disallow: /producer
+Disallow: /navigation
+Disallow: /en/
+Disallow: /category/en/
+Disallow: /pl/
+Disallow: /category/pl/
+Disallow: /*/basket/addReferer/
+Allow: /
+Disallow: /*.php$
+Disallow: /paypal

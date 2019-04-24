@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /*buy_now
+Disallow: /*add_product
+Disallow: /shopping_cart.php
+Disallow: /advanced_search_result.php
+Disallow: /koszyk/
+Disallow: /includes/
+Disallow: /var/
+Disallow: /konto/
+Disallow: /files/
+Disallow: /adminkurt/
+Disallow: /dane/
+Disallow: /kontakt/
+Disallow: /zamowienie/
+Disallow: /adder/
+Disallow: /ext/
+Disallow: /Excel/
+Disallow: /admailer/
+Disallow: /_*/
+Disallow: /lightbox/
+Disallow: /media/
+Disallow: /sms/
+Disallow: /regulamin.php
+

@@ -1,0 +1,26 @@
+# Default Aimy Sitemap robots.txt for Joomla!
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /component/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /images/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: AimySitemapCrawler
+Disallow: /images/sampledata/
+Disallow: *?tmpl=component&print=1*
+

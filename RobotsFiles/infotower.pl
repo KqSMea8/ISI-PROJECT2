@@ -1,0 +1,7 @@
+Sitemap: http://infotower.pl/sitemap.xml
+Sitemap: http://infotower.pl/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

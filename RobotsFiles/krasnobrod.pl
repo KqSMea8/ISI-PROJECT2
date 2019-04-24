@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /admin/
+Disallow: /administration/
+Disallow: /root/
+Disallow: /private/
+Disallow: /install/
+Sitemap: http://www.krasnobrod.pl/dat/sitemap.xml.gz

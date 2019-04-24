@@ -1,0 +1,1 @@
+sitemap: http://geotyda.org/sitemap.xml

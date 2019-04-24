@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-content/themes/fabrykakreatywnosci
+Disallow: /wp-content/themes/fabrykakreatywnosci/framework
+Disallow: /wp-content/themes/fabrykakreatywnosci/framework/images
+/wp-content/themes/fabrykakreatywnosci/framework/images/layout
+/wp-content/themes/fabrykakreatywnosci/framework/images/colorpicker
+/wp-content/themes/fabrykakreatywnosci/framework/php
+/wp-content/themes/fabrykakreatywnosci/framework/php/avia_shortcodes/tinymce
+/wp-content/themes/fabrykakreatywnosci/framework/js
+/wp-content/themes/fabrykakreatywnosci/framework/css
+Disallow: */trackback
+Disallow: */feed
+Disallow: /*?
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.swf$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+

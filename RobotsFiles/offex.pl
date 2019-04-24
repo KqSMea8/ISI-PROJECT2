@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /skins/
+Disallow: /payments/
+Disallow: /store_closed.html
+Disallow: /core/
+Disallow: /lib/
+Disallow: /install/
+Disallow: /js/
+Disallow: /schemas/
+Disallow: /design/themes/responsive/media/images/
+

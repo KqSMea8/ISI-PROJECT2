@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /?s=
+Allow: /*.css
+Allow: /*.js
+Host: nogen.pl
+Sitemap: http://nogen.pl/sitemap.xml

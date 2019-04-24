@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /dokumenty/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /Scripts/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: /media/system/js/mootools.js
+Allow: /media/system/js/caption.js
+Allow: /templates/system/css/system.css
+Allow: /templates/system/css/general.css
+Allow: /templates/chemflon/css/template.css
+Allow: /templates/chemflon/script.js
+Allow: /js/jquery.js
+Allow: /js/s3Slider.js
+

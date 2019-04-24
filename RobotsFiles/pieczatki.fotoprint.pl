@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /modules/
+Disallow: /private/
+Disallow: /pub/
+Disallow: /rejestr#!
+Disallow: /pytania#!
+Disallow: /pieczatki_aktywuj#!
+Disallow: /pieczatki_aktywuj
+Disallow: /aktywuj#!
+Disallow: /aktywuj
+Disallow: /link_aktywacyjny
+Disallow: /loguj#!
+Disallow: /loguj
+Disallow: /xajax

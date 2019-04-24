@@ -1,0 +1,48 @@
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /sys/
+Disallow: /uses/
+Disallow: /scripts/
+
+Disallow: /l10n/
+Disallow: /lqs/
+Disallow: /php_uploads/data/
+Disallow: /php_uploads/images/
+Disallow: /php_uploads/portlet/
+Disallow: /php_uploads/
+Disallow: /content/
+
+Sitemap: http://lviv.travel/sitemap_page.php?lang=UA
+Sitemap: http://lviv.travel/sitemap_page.php?lang=EN
+Sitemap: http://lviv.travel/sitemap_page.php?lang=RU
+Sitemap: http://lviv.travel/sitemap_page.php?lang=PL
+Sitemap: http://lviv.travel/sitemap_page.php?lang=DE
+
+Sitemap: http://lviv.travel/google_sitemap_last3days.php?lang=UA
+Sitemap: http://lviv.travel/google_sitemap_last3days.php?lang=EN
+Sitemap: http://lviv.travel/google_sitemap_last3days.php?lang=RU
+Sitemap: http://lviv.travel/google_sitemap_last3days.php?lang=PL
+Sitemap: http://lviv.travel/google_sitemap_last3days.php?lang=DE
+
+Sitemap: http://lviv.travel/google_sitemap_index.php?lang=UA
+Sitemap: http://lviv.travel/google_sitemap_index.php?lang=EN
+Sitemap: http://lviv.travel/google_sitemap_index.php?lang=RU
+Sitemap: http://lviv.travel/google_sitemap_index.php?lang=PL
+Sitemap: http://lviv.travel/google_sitemap_index.php?lang=DE
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /sys/
+Disallow: /uses/
+Disallow: /scripts/
+Disallow: /l10n/
+Disallow: /lqs/
+Disallow: /php_uploads/data/
+Disallow: /php_uploads/images/
+Disallow: /php_uploads/portlet/
+Disallow: /php_uploads/
+Disallow: /content/
+Host: www.lviv.travel
+

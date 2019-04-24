@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /content
+Disallow: /konto/
+Disallow: /e/
+Disallow: /forum/zgloszenie
+Disallow: /forum/wyslij-znajomemu
+Disallow: /forum/twoje-posty
+Disallow: /forum/obserwowane
+Disallow: /forum/obserwuj
+Disallow: /cf/viasms.html
+Disallow: /gielda/notowania/akcje/last_intraday?symbol=
+Disallow: /partnerzy
+Disallow: /forum/nowa-wiadomosc
+Disallow: /nieruchomosci/ceny-mieszkan
+Disallow: /nieruchomosci/ceny-gruntow
+Disallow: /kredyty-hipoteczne/cenatorium
+Disallow: /gielda/notowania/akcje/charts
+Disallow: /wiadomosc/Australia-zdecyduje-o-przyszlosci-JSW-7539353.html
+Disallow: /forum/temat_wojciech-sobieraj-nowym-prezesem-idea-bank,24967583.html
+Disallow: /forum/temat_re-wojciech-sobieraj-nowym-prezesem-idea-bank,27082265.html
+Disallow: /forum/temat_uwaga-ewelina-sokolowska-oszustka-mieszkaniowa,26040125.html
+Disallow: /wiadomosc/Feerum-ocenia-pozew-Krot-Plon-o-zaplate-44-84-mln-zl-za-bezzasadny-7646880.html
+

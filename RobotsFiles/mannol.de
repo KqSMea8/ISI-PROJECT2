@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /?action=user_login&error_login=1
+Disallow: /?action=user_login
+Disallow: /?action=user_new_account
+Disallow: /?action=user_restore_password
+Sitemap: http://sct-catalogue.de/imgbank/Image/public/sitemap/sitemap.xml

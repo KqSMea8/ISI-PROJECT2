@@ -1,0 +1,43 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /search/
+Disallow: /cart/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Disallow: *utm=
+Crawl-Delay: 5
+
+User-agent: GoogleBot
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /search/
+Disallow: /cart/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Disallow: *utm=
+Allow: /plugins/*.css
+Allow: /plugins/*.js
+Allow: /plugins/*.png
+Allow: /plugins/*.jpg
+Allow: /plugins/*.gif
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /search/
+Disallow: /cart/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Allow: /plugins/*.css
+Allow: /plugins/*.js
+Allow: /plugins/*.png
+Allow: /plugins/*.jpg
+Allow: /plugins/*.gif
+Crawl-Delay: 0.5
+
+Sitemap: http://site.com/sitemap.xml
+

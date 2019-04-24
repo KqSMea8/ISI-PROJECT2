@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /global/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /favicon.ico
+Disallow: /_bot.txt
+Disallow: /_dzienny.txt
+Disallow: /_licznik.txt
+Allow: /index.php
+
+User-Agent: AdsBot-Google
+Disallow: /css/
+Disallow: /global/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /favicon.ico
+Disallow: /_bot.txt
+Disallow: /_dzienny.txt
+Disallow: /_licznik.txt
+Allow: /index.php

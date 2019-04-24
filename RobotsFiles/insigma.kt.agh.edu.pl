@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /docs
+Disallow: /pingback.php
+Disallow: /search.php
+Disallow: /submit.php
+Disallow: /trackback.php
+Disallow: /usersettings.php
+

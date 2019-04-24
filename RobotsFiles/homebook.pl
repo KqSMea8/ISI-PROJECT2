@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /Content/css/
+Disallow: /Account/
+Disallow: /Scripts/
+Disallow: /Clicks/
+Disallow: /Clicks
+

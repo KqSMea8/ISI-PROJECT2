@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /index.php
+Allow: /o_nas.php
+Allow: /lampy.php
+Allow: /kontakt.php
+Allow: /nasze_realizacje.php
+Allow: /faq.php
+Disallow: /mth.php
+Disallow: /enmth.php

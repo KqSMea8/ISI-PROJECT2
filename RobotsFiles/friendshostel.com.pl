@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache/cache-enabler
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /*?
+Disallow: /?s=
+Allow: /*.css
+Allow: /*.js
+Host: friendshostel.com.pl
+Sitemap: http://friendshostel.com.pl/sitemap.xml
+Sitemap: http://friendshostel.com.pl/sitemap.xml

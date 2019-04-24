@@ -1,0 +1,7 @@
+
+
+User-agent: *
+Disallow: /tmp/
+Disallow: /files/backup/
+Disallow: /orto1305.php/
+

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /galerie/
+Disallow: /img/
+Disallow: /img_lang/
+Disallow: /*?produkt_do_koszyka
+Disallow: /*?option=com_content
+Disallow: /*?format=feed
+Disallow: /*?pod_menu
+Disallow: /aktualnosci,51,cykliczne_konsultacje_dla_przedsiebiorcow
+Disallow: /aktualnosci,43,powiatowe_centrum_informacyjne_w_bytowie_juz_w_nowej_siedzibie
+Disallow: /bytow/partnerzy/

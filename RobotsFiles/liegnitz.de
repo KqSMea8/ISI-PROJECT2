@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /fileadmin/template/
+Disallow: /typo3conf/
+Disallow: /typo3/
+Disallow: /t3lib/
+

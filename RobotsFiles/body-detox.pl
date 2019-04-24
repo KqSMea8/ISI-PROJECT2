@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: *.pdf
+Disallow: /produkty/
+Disallow: /urzadzenia/
+Disallow: /component/
+Disallow: /kontakt/
+Disallow: /detox-system-professional/wstp.html
+

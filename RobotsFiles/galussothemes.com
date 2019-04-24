@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ipn
+Disallow: /registro
+Disallow: /compra-completada
+Disallow: /compra-cancelada
+Disallow: /descargar
+Disallow: /dload/*
+Disallow: /wp-admin/
+Disallow: /wp-content/dload/*

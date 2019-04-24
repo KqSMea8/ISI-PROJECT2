@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /webdav/
+Disallow: /oferty-images/
+Disallow: /captcha/
+Disallow: /?action=calculator
+Disallow: /?action=sendLink
+Disallow: /?action=sendQuestion
+Disallow: /?action=printOffer
+Disallow: /index.php?action=calculator
+Disallow: /index.php?action=sendLink
+Disallow: /index.php?action=sendQuestion
+Disallow: /index.php?action=printOffer

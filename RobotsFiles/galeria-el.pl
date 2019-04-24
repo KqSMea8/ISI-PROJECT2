@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /contao/
+Disallow: /plugins/
+Disallow: /tl_files/galeria/formularze/
+Disallow: /system/
+Disallow: /templates/
+Disallow: /typolight/
+Disallow: /cron.php
+Disallow: /flash.php
+Disallow: /share.php

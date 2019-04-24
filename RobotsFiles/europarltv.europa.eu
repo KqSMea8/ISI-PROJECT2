@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /group/ingest/home
+Disallow: /group/control_panel
+Disallow: /group/guest/cms
+Disallow: /search
+Sitemap:https://www.europarltv.europa.eu/sitemaps/sitemap.xml

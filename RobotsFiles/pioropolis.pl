@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /usercp/
+Disallow: /_cache/
+Disallow: /admin/
+Disallow: /install/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /skins/
+Disallow: /code/
+Disallow: /fonts/
+Disallow: /pdf/
+Disallow: /zobacz/

@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /templates/
+Disallow: /common.php
+Disallow: /config.php
+Disallow: /groupcp.php
+Disallow: /memberlist.php
+Disallow: /modcp.php
+Disallow: /posting.php
+Disallow: /profile.php
+Disallow: /privmsg.php
+Disallow: /viewonline.php
+Disallow: /search.php
+Disallow: /ucp.php
+
+Sitemap: https://forumdieta.pl/sitemap.xml

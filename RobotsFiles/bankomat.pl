@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /rejestracja/
+Disallow: /przypomnienie-hasla/
+Disallow: /zapytanie-ofertowe/
+Disallow: /koszyk/
+Disallow: /karty-produktowe/
+Disallow: /ankieta/
+Sitemap: http://bankomat.pl/sitemap.xml

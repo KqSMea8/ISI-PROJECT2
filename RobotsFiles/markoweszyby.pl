@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /*dystrybutorzy.php
+Disallow: /*index2.php
+Disallow: /*index.php
+Allow: /plugins/system/mtupgrade/mootools.js
+Allow: /plugins/content/easyopengraph/assets/img/social_media_marketing.png
+Allow: /

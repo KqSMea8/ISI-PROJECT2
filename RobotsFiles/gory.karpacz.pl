@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: */apartamenty-luxusowe/
+Disallow: */category
+Disallow: */feed*
+Disallow: */zapytania-ofertowe/
+Disallow: *2010
+Disallow: *2011
+Disallow: *2012
+Disallow: *2013
+Disallow: *2014
+Disallow: *?p=*
+Disallow: *?s=*
+Disallow: *cookie-policy
+Disallow: *ksiega-gosci
+Disallow: *replytocom=
+Disallow: *xmlrpc*
+Disallow: /author
+Disallow: /de
+Disallow: /search
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /atrakcyjna-okolica/
+Sitemap: http://gory.karpacz.pl/sitemap.xml
+Sitemap: http://gory.karpacz.pl/sitemap_images.xml
+

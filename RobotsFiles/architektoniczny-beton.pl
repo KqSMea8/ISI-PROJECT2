@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /*?
+Disallow: *.swf$
+Disallow: /admin/
+Disallow: /fonts/
+Disallow: /images/previews/
+Disallow: /images/sections/
+Disallow: /images/modules/
+Disallow: /modules/
+Disallow: /slots/
+Disallow: /xml/
+Disallow: /m/
+Allow: /assets/*
+Allow: /images/
+Allow: /assets/css/
+Allow: /assets/js/

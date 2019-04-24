@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /o_nas.html
+Allow: /oferta.html
+Allow: /portfolio.html
+Allow: /kontakt.html
+Allow: /projektowanie_stron_internetowych.html
+Allow: /pozycjonowanie_stron_internetowych.html
+Allow: /serwis_komputerow_i_drukarek.html
+Allow: /index.php
+Disallow: /projekty/
+Disallow: /katalogstron/
+

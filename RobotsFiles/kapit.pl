@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /config/
+Disallow: /data/
+Disallow: /gadgets/
+Disallow: /images/
+Disallow: /include/
+Disallow: /languages/
+Disallow: /libraries/
+Disallow: /plugins/
+

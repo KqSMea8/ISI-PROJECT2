@@ -1,0 +1,24 @@
+User-agent: twiceler.
+Disallow: /
+User-agent: magpie-crawler/1.1
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: Sogou web spider/4.0
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: ADmantX
+Disallow: /
+User-agent: SemrushBot
+Disallow: /

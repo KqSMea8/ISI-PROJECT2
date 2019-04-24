@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /banerf/
+Disallow: /grafika/
+Disallow: /ph/
+Disallow: /pli/
+Disallow: /sjs/
+Disallow: /edytorkm1/
+Allow: /index.php/
+Allow: /index1.php/
+Allow: /index.html/
