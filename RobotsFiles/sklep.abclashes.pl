@@ -1,0 +1,25 @@
+User-agent: * Disallow: /
+Disallow: *customer
+Disallow: *checkout
+Disallow: *catalogsearch
+Disallow: *product_compare
+Disallow: *?price
+Disallow: *review
+Disallow: *?q=
+Disallow: *?p=
+Disallow: *?cat=
+Disallow: *?dir=
+Disallow: *?price
+Disallow: *?limit=
+Disallow: *?mode=
+Disallow: *order
+Disallow: *?dir=
+Disallow: *?dlugosc=
+Disallow: *?profil=
+Disallow: *?rodzaj=
+Disallow: *?grubosc=
+Disallow: *?umiejentnosci=
+Disallow: *?pojemnosc=
+Disallow: *]
+Disallow: *rzesy/
+Disallow: *?___SID=

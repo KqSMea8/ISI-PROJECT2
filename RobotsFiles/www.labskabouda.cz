@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+<title>404 - Stranka nenalezena | Hotel Labska bouda</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="content-language" content="cs"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<meta name="robots" content="all"/>
+<meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0"/>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css?v=2.51"/>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/lightbox.css?v=2.355346" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/llv/css/llv.css?v=1.2"/>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/js/alert/jquery.alerts.css"/>
+
+<link rel="stylesheet" type="text/css" media="print" href="/css/print.css"/>
+
+<script   src="http://code.jquery.com/jquery-2.2.2.min.js"   integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI="   crossorigin="anonymous"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.3.0.js"></script>
+
+<script type="text/javascript" src="/js/modalbox.js?v=1.1"></script>
+<script src="https://use.fontawesome.com/546d205676.js"></script>
+<script type="text/javascript" src="/js/alert/jquery.alerts.js"></script>
+<script type="text/javascript">
+var lng_code = 'cz';
+</script>
+<script type="text/javascript" src="/js/basic.js?v=1.3"></script>
+<script type="text/javascript" src="/js/datepicker.js?v=1.3"></script>
+
+<link rel="previewimage" href="http://www.labskabouda.cz/img/logo.png"/>
+
+
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/js/selectivizr-min.js"></script>
+<script type="text/javascript" src="/js/respond-min.js"></script>
+<![endif]-->
+
+<link rel="shortcut icon" href="/img/ico/rlfavicon.ico"/>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript">
+
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-34410914-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+
+
+</script>
+
+
+
+
+</head>
+<body>
+
+<div id="header" class="cz">
+<div class="main-row">
+<div class="container top-container">
+<p id="nav-skip">
+<a href="http://www.ippi.cz/klavesove-zkratky/neni-mapa-stranek.html" accesskey="1">Klavesove zkratky na
+tomto webu - rozsirene</a>
+&nbsp;|&nbsp;
+<a href="#content" title="Prejit k obsahu" accesskey="0">Prejit k obsahu</a>
+&nbsp;|&nbsp;
+<a href="#nav" title="Prejit k navigaci">Prejit k navigaci</a>
+</p><!-- /nav-skip -->
+
+<a href="/" id="logo"><img src="/img/logo.png" alt="Horska chata Lucni bouda"/></a>
+
+
+<form id="search-site" action="/" method="post">
+<fieldset>
+<label for="search" class="out">Vyhledavani</label>
+<input id="search" type="text" name="search" accesskey="4" value="Vyhledavani ..."
+title="Vyhledavani ..."/>
+<button type="submit" value="Hledat" class="submit" title="Hledat"><i class="fa fa-search"></i> </button>
+</fieldset>
+</form>
+</div>
+<ul id="lang">
+
+<li class="cz"><strong title="Cestina" >cz<span></span></strong></li>
+
+
+
+
+
+<li class="de"><a href="/de/" title="Deutsch" >de<span></span></a></li>
+
+
+
+
+<li class="en"><a href="/en/" title="English" >en<span></span></a></li>
+
+
+
+
+<li class="pl"><a href="/pl/" title="Polski" >pl<span></span></a></li>
+
+
+
+</ul>
+
+
+<div id="nav">
+<div class="container">
+<ul class="left">
+
+<li><a href="/ubytovani.html" ><span>Ubytovani od 18.4.2019</span></a></li>
+<li><a href="/restaurace.html" ><span>Horsky bufet</span></a></li>
+<li><a href="/historie.html" ><span>Historie</span></a></li>
+
+</ul>
+<ul class="right">
+<li><a href="/outdoor.html" ><span>Vylety a zazitky</span></a></li>
+<li><a href="/trasy-a-doprava.html" ><span>Trasy k hotelu</span></a></li>
+<li><a href="/kontakt.html" ><span>Kontakt</span></a></li>
+</ul>
+</div>
+</div>
+
+<select id="mobile-nav" name="mobile-nav">
+
+<option value="/ubytovani.html" >Ubytovani od 18.4.2019</option>
+
+<option value="/restaurace.html" >Horsky bufet</option>
+
+<option value="/historie.html" >Historie</option>
+
+<option value="/outdoor.html" >Vylety a zazitky</option>
+
+<option value="/trasy-a-doprava.html" >Trasy k hotelu</option>
+
+<option value="/kontakt.html" >Kontakt</option>
+</select>
+
+
+</div>
+</div>
+<!-- /header -->
+
+<div id="main-section">
+<div id="bg">
+<div class="container main-row">
+
+<div id="breadcrumb">
+<p>
+<a href="/" class="home">Labska bouda<span></span></a>
+
+404 - Stranka nenalezena
+</p>
+</div>
+
+<div id="content" class="main-row">
+<div id="holder">
+<div id="col-content">
+
+<div id="detail" class="article">
+<div class="content-container ">
+
+
+<h1>Stranka nenalezena</h1>
+
+
+
+<div class="content">
+<div id="col-content">
+<div class="article" id="detail">
+<p>
+<strong>Pozadovana stranka neni na serveru k dispozici. Omlouvame se za zpusobene potize.</strong></p>
+<p>
+Stranka, na kterou smeroval Vas pozadavek, se nepodarilo najit. Je mozne, ze stranka byla odstranena, prejmenovana nebo neni docasne dostupna.</p>
+<p>
+Muzete prejit na <a href="http://www.labskabouda.cz">uvodni stranku</a>.</p>
+<h2>
+Mozne priciny</h2>
+<ul>
+<li>
+Stranka neexistuje</li>
+<li>
+Mozna chyba serveru, nebo pretizeni, zkuste akci zopakovat</li>
+<li>
+Zkontrolujte zda-li vase adresa neobsahuje preklep</li>
+</ul>
+</div>
+</div>
+<p>
+&nbsp;</p>
+
+</div>
+</div>
+
+
+
+
+
+
+</div>
+
+<div class="article ac-1">
+<h1>Hotel Labska bouda</h1>
+
+
+<div class="perex"><p a="" class="lightbox" href="/public/LB2019_1_50bodu_sirka.jpg" title="">
+<img alt="" class="img" height="411px" src="/public/LB2019_1_50bodu_sirka.jpg" width="617px" /></p>
+<h2>
+<strong>Labska bouda</strong></h2>
+<p>
+&nbsp;</p>
+<p>
+Labska bouda je oblibenou zastavkou turistu miricich k <strong>prameni Labe</strong>.</p>
+</div>    <div class="content">
+<p style="text-align: justify;">
+Hotel Labska bouda se nachazi v prvni zone Krkonosskeho narodniho parku. Lezi v&nbsp;nadmorske vysce 1340&nbsp;m na Labske louce severozapadne od Spindlerova Mlyna, necely 1&nbsp;km od pramene Labe.</p>
+<p style="text-align: justify;">
+Moderni stavba z roku 1975 nese stejny nazev jako hostinec, ktery vyhorel roku 1965. Historie tohoto mista vsak saha az do roku 1830, kdy zde udajne podnikava zena prodavala kolemjdoucim kozi vyrobky a&nbsp;koralku a&nbsp;mela zde malou budku z kameni, kury a rosti.</p>
+<p style="text-align: justify;">
+Na Labske boude je umistena trvala meteorologicka stanice a solarni a ozonova observator Ceskeho hydrometeorologickeho ustavu v Hradci Kralove.</p>
+
+</div>
+
+</div>
+</div>
+<!-- /col-content -->
+</div>
+<!-- /holder -->
+<div id="aside">
+<hr class="hidden"/>
+
+
+
+<!-- /cols -->
+<div class="col right border-top partners">
+<h2></h2>
+
+
+<ul>
+
+</ul>
+</div><div class="col left border-top wifi">
+<p>V celem arealu Labske boudy je <br><strong>WIFI FREE ZONA</strong></p>
+<img alt="Wifi free zona" src="/data/wifi-zona.png" />
+</div>
+<div class="col" style="font-size: 8pt;text-align: center;line-height: 15px; color: #555;"><hr style="margin-bottom: 4px;">Podle zakona o evidenci trzeb je prodavajici povinen vystavit kupujicimu uctenku. Zaroven je povinen zaevidovat prijatou trzbu u&nbsp;spravce dane online; v&nbsp;pripade technickeho vypadku pak nejpozdeji do 48 hodin.<hr></div>
+
+</div>
+<!-- /aside -->
+
+</div>
+<!-- /content -->
+</div>
+</div>
+</div>
+<!-- /main-section -->
+
+<div id="footer">
+<div class="container main-row">
+<hr class="hidden"/>
+
+<div class="right">
+<div class="top">
+
+<ul class="socials">
+<li class="fb"><a href="https://www.facebook.com/LabskaBoudaKrkonose"
+title="Facebok">Facebook<span></span></a></li>
+</ul>
+</div>
+
+<div class="clear"></div>
+
+
+<ul class="nav">
+<li><a href="/ubytovani.html" >Ubytovani od 18.4.2019</a></li>
+
+<li><a href="/restaurace.html" >Horsky bufet</a></li>
+
+<li><a href="/historie.html" >Historie</a></li>
+
+<li><a href="/outdoor.html" >Vylety a zazitky</a></li>
+
+<li><a href="/trasy-a-doprava.html" >Trasy k hotelu</a></li>
+
+<li><a href="/kontakt.html" >Kontakt</a></li>
+
+</ul>
+
+
+</div>
+
+<div class="left">
+<div class="rights">
+<p><strong>Labska bouda</strong> Vsechna prava vyhrazena <br/>2012</p>
+</div>
+<div class="quick-contacts">
+<p><strong>Rychly kontakt</strong> Telefon: +420 733 740 885 <br/>Email: <a
+href="mailto:info@labskabouda.cz">info@labskabouda.cz</a></p>
+</div>
+</div>
+
+</div>
+</div>
+<!-- /footer -->
+
+</body>
+</html>

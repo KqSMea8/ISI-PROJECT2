@@ -1,0 +1,45 @@
+
+User-agent: *
+Disallow: /1_GIS/
+Disallow: /4_GP/
+Disallow: /6_DATA/
+Disallow: /6_DATA
+Disallow: /7_APM/
+Disallow: /_rotator/
+Disallow: /DOCS-Presentations/
+Disallow: /frametest/
+Disallow: /gf/dc/
+Disallow: /gf/local/
+Disallow: /GGF8 Chairs Deadlines_files/
+Disallow: /gmac/
+Disallow: /L_About/
+Disallow: /L_Contact/
+Disallow: /L_Involved_Mktg/
+Disallow: /L_Involved_Sponsors/
+Disallow: /L_News/
+Disallow: /L_News
+Disallow: /L_WG/
+Disallow: /layout/
+Disallow: /Meetings
+Disallow: /Meetings/
+Disallow: /NEW/
+Disallow: /Survey/
+Disallow: /facade/
+Disallow: /ipr/
+Disallow: /layout/
+Disallow: /namespaces/
+Disallow: /ogsi-wg/
+Disallow: /people/
+Disallow: /publicevents/
+Disallow: /security/
+Disallow: /style/
+Disallow: /testsite/
+Disallow: /webanalyse/
+Disallow: /webevents/
+Disallow: /XXX_OLD_GGF_WEB_JULY2003/
+Disallow: default*.htm
+Disallow: *.kdrew
+Disallow: *-bak.htm
+Disallow: *.txt
+
+

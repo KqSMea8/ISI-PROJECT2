@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /banners/
+Disallow: /functions/
+Disallow: /includes/
+Disallow: /polcard/
+Disallow: /adyen/
+Disallow: /transferuj.pl/
+Disallow: /private/
+Disallow: /templates/
+Disallow: /tmp/
+User-agent: Googlebot-Image
+Disallow: /images/
+Disallow: /photos/
+Disallow: /promo.php
+Disallow: /promo2.php

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: *
+Disallow: /_essentials
+Disallow: /_modules
+Disallow: /_settings
+Disallow: /_templates
+Disallow: /demo
+Sitemap: https://english-romance.de/sitemap.xml
+

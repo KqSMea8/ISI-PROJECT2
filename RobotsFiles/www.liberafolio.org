@@ -1,0 +1,8 @@
+Sitemap: https://www.liberafolio.org/sitemap.xml
+Sitemap: https://www.liberafolio.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.liberafolio.org/sitemap.xml
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /backup_ftp/
+Disallow: /cgi-bin/
+Disallow: /container/
+Disallow: /download/
+Disallow: /includes/
+Disallow: /layout/
+Disallow: /panel/
+Disallow: /przyklady/
+Disallow: /temp/
+Disallow: /wokanda_dir/

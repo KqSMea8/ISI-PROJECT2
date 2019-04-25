@@ -1,0 +1,6 @@
+Sitemap: http://polonia.fm/sitemap.xml
+Sitemap: http://polonia.fm/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

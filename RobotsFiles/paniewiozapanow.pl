@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /presta/
+Disallow: /backups/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /hotele/
+Disallow: /testerino/
+Disallow: /workers/
+Disallow: /winemates/

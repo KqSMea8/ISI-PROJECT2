@@ -1,0 +1,1 @@
+User-agent: *Crawl-delay: 7Sitemap: http://www.astro-tarot.pl/sitemap.xmlAllow: /Disallow: /images/Disallow: /navi_pliki/Disallow: /new/Disallow: /nowa/Disallow: /old-version/Disallow: /tarot/

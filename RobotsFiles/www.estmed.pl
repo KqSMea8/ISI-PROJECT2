@@ -1,0 +1,40 @@
+User-agent: *
+
+Noindex: /2.html
+Noindex: /3.html
+Noindex: /4.html
+Noindex: /7.html
+Noindex: /8.html
+Noindex: /9.html
+Noindex: /11.html
+Noindex: /12.html
+
+Noindex: /Restylane-SKINLIFT-wiecej-44.html
+Noindex: /m/Zdjecia-kliniki-75.html
+Noindex: /NOWY-LASER-W-KLINICE-ESTMED-99.html
+Noindex: /GALA-107.html
+Noindex: /Pielegnacja-podstawowa-34.html
+Noindex: /Wybor-kwasu-hialuronwego-78.html
+Noindex: /news.html?page=0
+Noindex: /Video-76.html
+Noindex: /Media-73.html
+Noindex: /Warsztaty-Vivacy-Master-Class-w-Paryzu-157.html
+Noindex: /certyfikaty.html
+Noindex: /Spotkanie-Grupy-Ekspertow-96.html
+Noindex: /Cosmopolitan-poleca-Klinike-EstMed-85.html
+Noindex: /Konferencja-BioBridge-151.html
+Noindex: /Wesolych-Swiat-77.html
+Noindex: /PLASMA-IQ-bezoperacyjny-lifting-powiek-NOWOSC-114.html
+Noindex: /Powakacyjne-NOWOSCI-czytaj-wiecej-21.html
+Noindex: /Kongres-Medycyny-Estetycznej-w-Lizbonie-175.html
+Noindex: /Pokaz-mody-Dawida-Wolinskiego-2018-176.html
+Noindex: /Zdjecia-kliniki-75.html
+Noindex: /Beauty-Inspiration-wydanie-lipiec-sierpien-160.html
+Noindex: /Letnia-Akademia-Dermatologii-159.html
+Noindex: /galeria.html
+Noindex: /blog.html?page=0
+Noindex: /blog.html?page=6
+Noindex: /mobile/Szara-wiotka-skora-twarzy-szyi-i-dekoltu-52.html
+
+Noindex: *m/*
+Noindex: *mobile/*

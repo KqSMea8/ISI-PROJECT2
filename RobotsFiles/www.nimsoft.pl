@@ -1,0 +1,8 @@
+User-agent: *
+
+#
+# Composite C1 will generate a SEO sitemap for /sitemap.xml requests
+# Make the Sitemap URL below absolute (add http://[your hostname]) for this to be correct:
+#
+Sitemap: http://www.nimsoft.pl/sitemap.xml
+

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /o-nas/kalendarz-wydarzen/action~posterboard/
+Disallow: /o-nas/kalendarz-wydarzen/action~agenda/
+Disallow: /o-nas/kalendarz-wydarzen/action~oneday/
+Disallow: /o-nas/kalendarz-wydarzen/action~month/
+Disallow: /o-nas/kalendarz-wydarzen/action~week/
+Disallow: /o-nas/kalendarz-wydarzen/action~stream/
+Disallow: /o-nas/kalendarz-wydarzen/action~undefined/
+Disallow: /o-nas/kalendarz-wydarzen/action~http:/
+Disallow: /o-nas/kalendarz-wydarzen/action~default/
+Disallow: /o-nas/kalendarz-wydarzen/action~poster/
+Disallow: /o-nas/kalendarz-wydarzen/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /reviews/
+Disallow: /requests/
+Disallow: /newsletter/
+Disallow: /attractions/
+Disallow: /hotels/
+Disallow: /faq/
+Disallow: /team/
+Disallow: /why_poland/
+Disallow: /slider/
+Disallow: /tour//day-
+Disallow: /home2/
+Disallow: /home3/
+Disallow: /home4/
+Disallow: /home5/

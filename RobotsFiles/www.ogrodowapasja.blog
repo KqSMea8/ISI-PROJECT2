@@ -1,0 +1,6 @@
+Sitemap: https://ogrodowapasja.blog/sitemap.xml
+Sitemap: https://ogrodowapasja.blog/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

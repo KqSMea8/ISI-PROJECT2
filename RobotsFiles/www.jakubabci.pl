@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /stat/
+Disallow: /fx/
+Disallow: /test/
+Disallow: /logowanie/
+Disallow: /istats5/
+Disallow: /mapa.html
+Disallow: /zegar.php
+Disallow: /fxadmin.php
+Disallow: /zegar.php
+Disallow: /data.php
+Disallow: /email.php
+Disallow: /*&PHPSESSID=*
+Disallow: /files/KARTA_DZIECKA.doc
+Disallow: /?tagi,17
+Disallow: /?sLang=*
+Disallow: /?regulamin,4
+Allow: /
+sitemap: http://www.jakubabci.pl/sitemap.xml
+

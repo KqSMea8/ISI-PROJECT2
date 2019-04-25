@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /img/
+Disallow: /photos/
+Disallow: /css/
+Disallow: /admin/
+Disallow: /flash/
+Disallow: /models/
+Disallow: /scripts/
+Sitemap: http://www.medeor.pl/sitemap.xml

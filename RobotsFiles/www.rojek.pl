@@ -1,0 +1,9 @@
+User-Agent: *
+#Disallow: /cz/
+#Disallow: /sk/
+#Disallow: /de/
+#Disallow: /en/
+#Disallow: /ru/
+#Disallow: /*.jpg
+Disallow: /js/mb_script.js
+Allow: /

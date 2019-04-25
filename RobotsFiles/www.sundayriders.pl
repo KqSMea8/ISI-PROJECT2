@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /tag
+Disallow: /category
+Disallow: /kategoria
+

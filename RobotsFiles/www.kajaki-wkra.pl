@@ -1,0 +1,9 @@
+
+# XML Sitemap & Google News Feeds version 4.7.1 - http://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: http://www.kajaki-wkra.pl/sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+
+
+

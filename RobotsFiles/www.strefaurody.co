@@ -1,0 +1,6 @@
+Sitemap: http://www.strefaurody.co/sitemap.xml
+Sitemap: http://www.strefaurody.co/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

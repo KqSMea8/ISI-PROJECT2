@@ -1,0 +1,34 @@
+user-agent: *
+disallow: /Administrator/
+disallow: /pl-PL/Administrator/
+disallow: /en-US/Administrator/
+disallow: /cs-CZ/Administrator/
+disallow: /de-DE/Administrator/
+disallow: /es-ES/Administrator/
+disallow: /hr-HR/Administrator/
+disallow: /ru-RU/Administrator/
+disallow: /ro-RO/Administrator/
+disallow: /uk-UA/Administrator/
+disallow: /pl-PL/Serwisant/
+disallow: /en-US/Serwisant/
+disallow: /cs-CZ/Serwisant/
+disallow: /de-DE/Serwisant/
+disallow: /es-ES/Serwisant/
+disallow: /hr-HR/Serwisant/
+disallow: /ru-RU/Serwisant/
+disallow: /ro-RO/Serwisant/
+disallow: /uk-UA/Serwisant/
+disallow: /fileman/
+disallow: /Models/
+disallow: /Views/
+disallow: /Migrations/
+disallow: /Controllers/
+disallow: /App_Data/
+disallow: /App_GlobalResources/
+disallow: /Complaint/
+disallow: /serwis/
+disallow: /Files/
+disallow: /Areas/
+
+sitemap: http://www.grupa-armatura.com/pl-PL/home/sitemap
+

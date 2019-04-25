@@ -1,0 +1,8 @@
+User-agent: *
+Crawl-Delay: 5
+Allow: /wcs/templates/design/js/
+Allow: /wcs/templates/design/css/
+Disallow: /cms/
+Disallow: /wcs/
+Disallow: /wcd/noindex/
+

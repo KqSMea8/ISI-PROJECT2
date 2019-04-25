@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /szukaj/
+Disallow: /index/logowanie/
+Disallow: /captcha/generuj/
+Disallow: /szukaj/oferty/*
+Disallow: *.js
+Disallow: /*?t=
+Disallow: /*?href=
+Disallow: /*/*,,,*/
+Disallow: /*/*,,,/
+Disallow: /*/,,,*/

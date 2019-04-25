@@ -1,0 +1,19 @@
+
+# Squirrly SEO Robots
+Sitemap: http://mediagrafik.pl/sitemap.xml
+Sitemap: http://mediagrafik.pl/sitemap-posts.xml
+Sitemap: http://mediagrafik.pl/sitemap-pages.xml
+Sitemap: http://mediagrafik.pl/sitemap-categories.xml
+Sitemap: http://mediagrafik.pl/sitemap-tags.xml
+Sitemap: http://mediagrafik.pl/sitemap-archives.xml
+
+User-agent: *
+Disallow: */trackback/
+Disallow: */xmlrpc.php
+Disallow: /wp-*.php
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Allow: */wp-content/uploads/
+
+
+

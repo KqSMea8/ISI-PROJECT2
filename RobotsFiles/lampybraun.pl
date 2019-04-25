@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /files
+Disallow: /cache
+Disallow: /admin
+Disallow: /old
+Disallow: /tmp
+Disallow: /tpl
+Disallow: /_ftp
+Disallow: /data
+Disallow: /*,p
+Disallow: /en/products

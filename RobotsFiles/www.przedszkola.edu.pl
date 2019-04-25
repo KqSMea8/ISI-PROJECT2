@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /files/ajax/ajax_loader.js
+
+User-agent: Slurp
+Crawl-delay: 120
+
+User-agent: Twiceler
+Crawl-delay: 120
+
+User-agent: MJ12bot
+Crawl-delay: 120
+
+User-agent: gigabot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+

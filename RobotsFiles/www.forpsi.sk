@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.forpsi.sk/sitemap.xml
+
+
+User-agent: Yandex
+Disallow: /

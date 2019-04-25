@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /wp-content/uploads/
+Disallow: /.well-known/
+Disallow: /demo/
+Disallow: /revdns/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Sitemap: https://www.linuxbox.pl/sitemap_index.xml

@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /assets/javascript/ckeditor/plugins/flashvideo/player/player.swf
+Disallow: /files/realizacje_3d/wiz_interaktywna/main_2012.swf
+Disallow: /files/realizacje_gry/ludki_intro.swf
+Disallow: /files/realizacje_kompleksowe/archeo/flash_4stadia2.swf
+Disallow: /files/realizacje_kompleksowe/tribag/flash_kartka.swf
+Disallow: /files/referencje/ref_adacelus.pdf
+Disallow: /files/referencje/ref_Archeo_szlak.pdf
+Disallow: /files/referencje/ref_astengroup.pdf
+Disallow: /files/referencje/ref_energoinstal.pdf
+Disallow: /files/referencje/ref_eurofenster.pdf
+Disallow: /files/referencje/ref_fso.pdf
+Disallow: /files/referencje/ref_plejada.pdf
+Disallow: /files/referencje/ref_swr.pdf
+Disallow: /files/referencje/ref_tribag.pdf
+Disallow: /files/vcard/mapa.kml
+Disallow: /en-GB/contact.html
+Disallow: /en-GB/test.html
+Disallow: /pl-PL/eurobus.html
+Disallow: /pl-PL/panorama.html
+Disallow: /pl-PL/screamers1.html
+Disallow: /pl-PL/test1.html
+Disallow: /pl-PL/vec.html
+Disallow: /pl-PL/witamy_w_wersji_demonstracyjnej_systemu_webidea_cms.html
+

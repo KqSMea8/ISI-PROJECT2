@@ -1,0 +1,6 @@
+# This space intentionally left blank
+# If you want to learn about why our robots.txt looks like this, read this post: https://yoa.st/robots-txt
+User-Agent: *
+Host: http://rost.net.pl
+Sitemap: http://rost.net.pl/sitemap.xml.gz
+

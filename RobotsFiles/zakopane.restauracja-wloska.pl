@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /backup/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /grav/
+Disallow: /logs/
+Disallow: /system/
+Disallow: /vendor/
+Disallow: /user/
+

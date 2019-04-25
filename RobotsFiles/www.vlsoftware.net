@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /thanks.html
+Disallow: /mailerr.html
+Disallow: /instruction.html
+Disallow: /pl/thanks.html
+Disallow: /pl/mailerr.html
+Disallow: /pl/instruction.html
+Disallow: /ua/thanks.html
+Disallow: /ua/mailerr.html
+Sitemap: http://www.vlsoftware.net/sitemap.xml
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:

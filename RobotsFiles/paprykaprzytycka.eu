@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /paprykowy_przewodnik/
+
+# This robots.txt file was created by Better Robots.txt (Index & Rank Booster by Pagup) Plugin. https://www.better-robots.com/

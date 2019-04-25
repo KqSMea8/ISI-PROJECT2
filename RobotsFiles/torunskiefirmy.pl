@@ -1,0 +1,29 @@
+Sitemap: http://torunskiefirmy.pl/sitemap.xml
+
+User-agent: *
+Disallow: /*index.php*
+Disallow: /*print.php*
+Disallow: /*katalog;0;*
+Disallow: /*szukaj;0;*
+Disallow: /*schowek;*
+Disallow: /adm/
+Disallow: /banners/
+Disallow: /benchmark/
+Disallow: /classes/
+Disallow: /dialogs/
+Disallow: /do/
+Disallow: /events/
+Disallow: /fckeditor/
+Disallow: /files/
+Disallow: /js/
+Disallow: /mapka/
+Disallow: /myadmin_bla/
+Disallow: /phpmailer/
+Disallow: /PHPUnit/
+Disallow: /Sajax/
+Disallow: /sajax-0.10/
+Disallow: /sending/
+Disallow: /tmp/
+Disallow: /visual/
+Disallow: /dane;1070;ALGO,Eurofirany,Lipecki,Tomasz,Torun.html
+

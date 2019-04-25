@@ -1,0 +1,6 @@
+Sitemap: https://musethica.org/sitemap.xml
+Sitemap: https://musethica.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

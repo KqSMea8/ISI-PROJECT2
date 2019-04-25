@@ -1,0 +1,19 @@
+User-agent: sitebot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: Java
+Disallow: /
+User-agent: Trident
+Disallow: /
+User-agent: Twiceler
+Disallow: /
+User-agent: webcrawl.net
+Disallow: /
+

@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>www.tousek.pl</title><style>body,html{margin:0;padding:0;height:100%;overflow:hidden}iframe{position:absolute;left:0;right:0;bottom:0;top:0}</style></head><body><iframe width="100%" height="100%" frameborder="0" src="http://www.tousek.pl/robots.txt"></iframe></body></html>

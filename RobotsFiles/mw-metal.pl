@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-Agent: Googlebot
+Allow: .js
+Allow: .css
+Sitemap: http://mw-metal.pl/sitemap.xml
+

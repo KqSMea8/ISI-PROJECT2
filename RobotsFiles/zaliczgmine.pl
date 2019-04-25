@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /communes/add
+Disallow: /communes/edit
+Disallow: /communes/delete
+Disallow: /users_communes/add
+Disallow: /users_communes/addmulti
+Disallow: /users_communes/edit
+Disallow: /users_communes/delete
+Disallow: /users/login
+Disallow: /users/logout
+Disallow: /users/add
+Disallow: /users/edit
+Disallow: /users/delete
+Disallow: /contact/add

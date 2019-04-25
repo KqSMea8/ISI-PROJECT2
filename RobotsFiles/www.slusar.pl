@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /?p=
+Disallow: /comments/
+Disallow: /feed/
+Disallow: /naprawa-zamkow/
+Disallow: /strona-glowna/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /xmlrpc.php?rsd
+Disallow: /pogotowie-zamkowe-warszawa/feed/
+Disallow: /dorabianie-kluczy/feed/
+Disallow: /kontakt/feed/
+Disallow: /uslugi-slusarskie/feed/
+Disallow: /pogotowie-zamkowe-warszawa/awaryjne-otwieranie-drzwi/feed/
+Disallow: /pogotowie-zamkowe-warszawa/naprawa-zamkow/feed/
+Disallow: /pogotowie-zamkowe-warszawa/serwis-zamkow/feed/
+Disallow: /polityka-cookies/

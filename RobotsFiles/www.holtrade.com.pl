@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login
+Disallow: /polityka_prywatnosci
+Disallow: /regulamin
+Disallow: /rejestracja
+Disallow: /szukaj
+Disallow: /koszyk
+Disallow: /konto
+Disallow: /zamowienie
+Disallow: /odzyskaj-haslo
+Disallow: /zaloguj_i_wroc

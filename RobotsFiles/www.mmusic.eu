@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp2010/wp-admin/
+Allow: /wp2010/wp-admin/admin-ajax.php
+

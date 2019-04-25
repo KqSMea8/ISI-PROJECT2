@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: *best-online-casino*
+Disallow: *no-deposit-casino*
+Disallow: *online-casino-reviews*
+Disallow: *best-online-casino*
+Disallow: *bingo-online*
+Disallow: *craps-online*

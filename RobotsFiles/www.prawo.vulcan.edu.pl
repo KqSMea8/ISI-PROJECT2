@@ -1,0 +1,20 @@
+User-agent: *Google*
+User-agent: googlebot
+User-agent: *bing*
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: YandexBot
+User-agent: facebot
+User-agent: AhrefsBot
+User-agent: DotBot
+User-agent: linkdexbot
+User-agent: MJ12Bot
+User-agent: Mediapartners-Google
+Disallow: /private/
+Sitemap: https://www.prawo.vulcan.edu.pl/data/sitemap.xml
+Crawl-delay: 20
+
+User-agent: *
+Disallow: /

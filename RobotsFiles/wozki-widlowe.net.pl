@@ -1,0 +1,1 @@
+User-agent: *Disallow: /wp-admin/Allow: /wp-admin/admin-ajax.phpSitemap: https://www.wozki-widlowe.net.pl/xmlsitemap.xmlAllow: /rsssitemap.xmlAllow: /htmlsitemap.htmUser-agent: *Allow: /Allow: /sitemap.htmSitemap: https://www.wozki-widlowe.net.pl/sitemap.xml

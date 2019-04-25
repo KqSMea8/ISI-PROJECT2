@@ -1,0 +1,32 @@
+User-agent: *
+Allow: *
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /adult/
+Disallow: /profile/
+Disallow: /ask/
+Disallow: /notify/
+Disallow: /basket/
+Disallow: /compare/
+Disallow: /newsletter/
+Disallow: /recommend/
+Disallow: /autosuggest/
+Disallow: /customize/
+Disallow: /comments/
+Disallow: /captcha/
+Disallow: /polls/
+# Disallow: /gfx/
+# Disallow: /images/delivery/
+# Disallow: /images/shippings/
+# Disallow: /images/payments/
+# Disallow: /images/i18n/
+Disallow: /product/print/*
+Disallow: /product/reload-price/
+Disallow: /*filters=
+Disallow: /*serie=
+Disallow: /products/*
+Disallow: /cookie/
+Disallow: /*?page=
+
+
+Sitemap: http://www.szkielko.com.pl/sitemap.xml

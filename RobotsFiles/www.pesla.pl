@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+Disallow: /img/
+Disallow: /private/
+Disallow: /pub/
+Disallow: /tmp/
+Disallow: /_BCKP/
+Disallow: /testowy
+Sitemap: http://pesla.pl/sitemap.xml

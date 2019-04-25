@@ -1,0 +1,1 @@
+<body style="font-family:arial;color:#808080;font-size:11px;"><h2>Houston we have a problem...</strong></h2><a href="/" title="strona glowna">click here</a> to back to main page<ul style="color:#909090;"><li>info : Invalid controller specified (robots.txt)<li>plik : /var/www/vhosts/panel.hotres.pl/httpdocs/library/Zend/Controller/Dispatcher/Standard.php<li>linia : 249</ul>

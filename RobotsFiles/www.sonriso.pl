@@ -1,0 +1,10 @@
+Sitemap: http://www.sonriso.pl/sitemap.xml
+User-agent: *
+Disallow: /error
+Disallow: /font
+Disallow: /modules
+Disallow: /panel
+Disallow: /stats
+Disallow: /structure
+Disallow: /templates
+Disallow: /test

@@ -1,0 +1,7 @@
+Sitemap: http://nomadiclife.eu/sitemap.xml
+Sitemap: http://nomadiclife.eu/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

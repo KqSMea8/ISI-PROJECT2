@@ -1,0 +1,6 @@
+Sitemap: https://niniwa.org/sitemap.xml
+Sitemap: https://niniwa.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /i/
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: bingbot
+Disallow: /i/
+#Crawl-delay: 1
+
+User-agent: SeznamBot
+Disallow: /i/
+#Request-rate: 10/10s
+
+Sitemap: https://goout.net/services/feeder/sitemaps/sitemapindex.xml
+
+

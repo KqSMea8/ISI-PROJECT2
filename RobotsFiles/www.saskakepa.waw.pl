@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /kontakt
+Disallow: /zglos-blad/*
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /files/
+Disallow: *.pdf
+Sitemap: http://www.saskakepa.waw.pl/sitemap.xml

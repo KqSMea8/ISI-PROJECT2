@@ -1,0 +1,6 @@
+# robots.txt for https://www.truck.man.eu
+# 16.07.2017
+User-agent: *
+Disallow:
+Sitemap: https://www.truck.man.eu/sitemap_domain.xml
+

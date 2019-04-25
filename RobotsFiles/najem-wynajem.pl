@@ -1,0 +1,20 @@
+User-Agent: *
+Disallow: /locker
+Disallow: /offer
+Disallow: /report
+Disallow: /pl
+Disallow: /en
+Disallow: /de
+Disallow: /login
+Disallow: /register
+Disallow: /media
+Disallow: /register
+Disallow: /panel
+Disallow: /offers/add
+Disallow: /enquiries/add
+Disallow: /wynajmujacy/dodaj
+Disallow: /users/recover
+Disallow: /contact
+Allow: /
+Crawl-delay: 20
+

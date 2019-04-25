@@ -1,0 +1,6 @@
+User-agent: *
+# No exclusions found, disallow nothing.
+Disallow:
+
+# end of file
+

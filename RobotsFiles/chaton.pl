@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /236-kolczyki-srebrne?soteshop=44fed46bcfc97a253f51725286c5774f
+Disallow: /17-pierscionki-zlote?soteshop=4b1d4c6bb7abe2f442c9d828240114c3
+Disallow: /?soteshop=5761d48d55bfbcd9fd0543085c422331
+Disallow: /?soteshop=0637c04c452be8d5ab09c45bb0a47224
+Disallow: /question/ask/type/depository/product_id/363
+Disallow: /nowosci?n=153&p=7
+Disallow: /220-kolczyki-zlote?soteshop=e181d5b38172e558d031cd710bf018bf%3Fsoteshop%3De181d5b38172e558d031cd710bf018bf
+Disallow: /220-kolczyki-zlote?p=5
+Disallow: /220-kolczyki-zlote?p=3
+Disallow: /220-kolczyki-zlote?p=4
+Disallow: /220-kolczyki-zlote?p=2
+Disallow: /*szukaj*
+Disallow: /*?orderby*

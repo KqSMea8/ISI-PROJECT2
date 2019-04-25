@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /piwik/
+Disallow: /tmp/
+Disallow: /js/
+Disallow: /cache/
+Disallow: /css/
+Disallow: /cursors/
+Disallow: /flash/
+Disallow: /grid/
+Disallow: /templates/
+Disallow: /tiny_files/
+Disallow: /tiny_images_thumbs/
+

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /ajax*
+
+Crawl-delay: 5
+

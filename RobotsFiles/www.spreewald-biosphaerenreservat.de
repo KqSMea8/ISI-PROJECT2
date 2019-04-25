@@ -1,0 +1,44 @@
+User-Agent: *
+
+Allow: /
+
+Disallow: /fileadmin/
+Allow: /fileadmin/_processed_/
+Allow: /fileadmin/user_upload/
+Allow: /fileadmin/templates/css/
+Allow: /fileadmin/templates/fonts/
+Allow: /fileadmin/templates/img/
+Allow: /fileadmin/templates/js/
+
+Disallow: /typo3/*
+Disallow: /typo3_src/*
+Disallow: /typo3_src-*/*
+
+Disallow: /typo3conf/*
+Allow: /typo3conf/ext/snm_lugv/Resources/Public/
+Allow: /typo3conf/ext/snm_lugvdates/Resources/Public/
+
+Disallow: /typo3temp/*
+Allow: /typo3temp/*.css
+Allow: /typo3temp/*.css.*.gzip
+Allow: /typo3temp/*.js
+Allow: /typo3temp/*.js.*.gzip
+Allow: /typo3temp/*.jpg
+Allow: /typo3temp/*.gif
+Allow: /typo3temp/*.png
+
+Disallow: *.sql
+Disallow: *.sql.gz
+
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+
+Disallow: /uploads/
+
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+Sitemap: https://www.spreewald-biosphaerenreservat.de/sitemap.xml

@@ -1,0 +1,1 @@
+User-agent: *http://muzeumdukla.pl/Disallow: /menu.htmDisallow: /onas.htmDisallow: /aktualnosci.htmDisallow: /sokolstwo.htmDisallow: /historia.htmDisallow: /palac.htmDisallow: /militarne.htmDisallow: /skansen.htmDisallow: /olchowaty.htmDisallow: /niziurski.htmDisallow: /biblioteka.htmDisallow: /wydawnictwa.htmDisallow: /linki.htmhttp://muzeumdukla.pl

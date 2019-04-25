@@ -1,0 +1,6 @@
+Sitemap: https://szach-mat.eu/sitemap.xml
+Sitemap: https://szach-mat.eu/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

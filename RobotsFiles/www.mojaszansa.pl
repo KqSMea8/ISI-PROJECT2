@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /images/spacer.gif
+Disallow: /ct.html
+Disallow: /ct.aspx
+Disallow: /sd/
+Disallow: /st.aspx
+Disallow: /ct/ct.aspx
+Disallow: /e086ec.aspx
+

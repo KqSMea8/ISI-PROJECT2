@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /?attachment_id
+Allow: /*.swf$
+Allow: /
