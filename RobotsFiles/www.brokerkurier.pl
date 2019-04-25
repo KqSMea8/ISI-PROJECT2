@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /zamowienie/szczegoly/
+Disallow: /zamowienie/pobierz-list-przewozowy/
+Disallow: /faktury/szczegoly/
+Disallow: /faktury/pobierz-pdf/
+Disallow: /koszyk
+Disallow: /login
+Disallow: /rejestracja
+Disallow: /wynik-porownania/
+Disallow: /faktury-szczegoly/
+Disallow: /zamow-kuriera/

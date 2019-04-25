@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<title>Strona WWW - Error Page</title>
+
+<base href="http://przychodniapieszyce.eu/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="stylesheet" type="text/css" href="/tmp/cache/stylesheet_combined_2464b7866411a0d925a60871823342ac.css" />
+
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/tmp/cache/stylesheet_combined_8da77e185c9ad5a17e13e25bec4b6643.css" />
+<![endif]-->
+<script src="uploads/js/Spry/widgets/textareavalidation/SpryValidationTextarea.js" type="text/javascript"></script>
+<script src="uploads/js/Spry/widgets/textfieldvalidation/SpryValidationTextField.js" type="text/javascript"></script>
+<script type="text/javascript" src="uploads/js/blank.js"></script>
+</head> <body id="404 Error">
+<div id="container">
+<!-- content -->
+<div id="content">
+<p>Nie ma takiej strony.</p></div>
+<!-- end content -->
+
+<!-- footer -->
+<div id="footer">
+<div id="copyrights">Copyright &copy; 2019 <a href="http://nazwa.pl" title="Domeny, Serwery, Hosting, Serwisy WWW">NetArt</a></div>
+</div>
+<!-- end footer -->
+</div>
+<script type="text/javascript">
+var aCMSCounter = document.getElementById("aCMSCounter");
+
+if (aCMSCounter != undefined) {
+aCMSCounter.innerHTML = "884015";
+}
+</script></body>
+</html>

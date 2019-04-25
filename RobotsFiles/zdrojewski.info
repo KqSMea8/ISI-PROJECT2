@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /pl/forum/detail/
+Disallow: /pl/forum/replies/
+Disallow: /pl/forum/more/
+Disallow: /pl/forum/reply/
+Disallow: /forum/detail/
+Disallow: /forum/replies/
+Disallow: /forum/more/
+Disallow: /forum/reply/
+Disallow: /drukuj.php
+Disallow: /www.tim.net.pl
+Allow: /
+
+Sitemap: http://zdrojewski.info/sitemap.xml

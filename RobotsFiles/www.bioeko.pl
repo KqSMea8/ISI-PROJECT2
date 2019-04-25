@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /cked/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /tmp/
+Disallow: /NOWA_WWW/
+Disallow: /STARA_WWW/

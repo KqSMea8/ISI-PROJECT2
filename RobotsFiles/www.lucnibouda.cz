@@ -1,0 +1,303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+<title>404 - Stranka nenalezena | Hotel Lucni bouda</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="cs" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="robots" content="all" />
+<meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0" />
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/lightbox.css?v=2.355346" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css?v=2.6131" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/llv/css/llv.css?v=1.2"/>
+<link rel="stylesheet" type="text/css" media="screen" href="/js/alert/jquery.alerts.css" />
+
+<link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+
+<script   src="http://code.jquery.com/jquery-2.2.2.min.js"   integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI="   crossorigin="anonymous"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.3.0.js"></script>
+
+<script type="text/javascript" src="/js/modalbox.js?v=1.1"></script>
+
+<script type="text/javascript" src="/js/alert/jquery.alerts.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://use.fontawesome.com/546d205676.js"></script>
+<script type="text/javascript" src="/js/basic.js?v=1.42"></script>
+<script type="text/javascript" src="/js/datepicker.js?v=1.2"></script>
+<script type="text/javascript">
+var lng_code = 'cz';
+</script>
+<link rel="previewimage" href="http://www.lucnibouda.cz/img/logo.png"/>
+
+
+
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/js/selectivizr-min.js"></script>
+<script type="text/javascript" src="/js/respond-min.js"></script>
+<![endif]-->
+
+<link rel="shortcut icon" href="/img/ico/favicon.ico" />
+
+<link rel="apple-touch-icon-precomposed" href="/img/ico/apple-touch-icon-57.png" />
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(['_setAccount', 'UA-33541489-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+//ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+
+</head>
+<body>
+
+<div id="header" class="cz">
+<div class="container main-row">
+<p id="nav-skip">
+<a href="http://www.ippi.cz/klavesove-zkratky/neni-mapa-stranek.html" accesskey="1">Klavesove zkratky na tomto webu - rozsirene</a>
+&nbsp;|&nbsp;
+<a href="#content" title="Prejit k obsahu" accesskey="0">Prejit k obsahu</a>
+&nbsp;|&nbsp;
+<a href="#nav" title="Prejit k navigaci">Prejit k navigaci</a>
+</p><!-- /nav-skip -->
+
+<a href="/" id="logo"><img src="/img/logo.png" alt="Horska chata Lucni bouda" /></a>
+
+<p id="prologue">Lucni bouda (1 410 m n. m.) je nejvyse polozeny hotel a pivovar ve stredni Evrope.</p>
+
+<form id="search-site" action="/" method="post">
+<fieldset>
+<label for="search" class="out">Vyhledavani</label>
+<input id="search" type="text" name="search" accesskey="4" value="Vyhledavani ..." title="Vyhledavani ..." />
+<input type="submit" value="Hledat" class="submit" title="Hledat" />
+</fieldset>
+</form>
+
+<ul id="lang">
+
+<li class="cz"><strong title="Cestina" >cz<span></span></strong></li>
+
+
+
+
+
+<li class="de"><a href="/de/" title="Deutsch" >de<span></span></a></li>
+
+
+
+
+<li class="en"><a href="/en/" title="English" >en<span></span></a></li>
+
+
+
+
+<li class="pl"><a href="/pl/" title="Polski" >pl<span></span></a></li>
+
+
+
+</ul>
+
+<!-- cz -->
+
+
+
+<div id="nav">
+<ul class="left">
+<li><a href="/historie.html" ><span>Historie</span></a></li>
+<li><a href="/ubytovani.html" ><span>Ubytovani</span></a></li>
+<li><a href="/gastronomie.html" ><span>Gastronomie</span></a></li>
+<li><a href="/pivovar.html" ><span>Pivovar</span></a></li>
+
+</ul>
+
+<ul class="right">
+<li><a href="/wellness.html" ><span>Wellness</span></a></li>
+<li><a href="/zazitky.html" ><span>Zazitky</span></a></li>
+<li><a href="/pro-skupiny.html" ><span>Pro skupiny...</span></a></li>
+<li><a href="/kontakt.html" ><span>Kontakt</span></a></li>
+
+</ul>
+
+<span class="cor-l"></span>
+<span class="cor-r"></span>
+</div>
+
+<select id="mobile-nav" name="mobile-nav">
+
+<option value="/historie.html" >Historie</option>
+
+<option value="/ubytovani.html" >Ubytovani</option>
+
+<option value="/gastronomie.html" >Gastronomie</option>
+
+<option value="/pivovar.html" >Pivovar</option>
+
+<option value="/wellness.html" >Wellness</option>
+
+<option value="/zazitky.html" >Zazitky</option>
+
+<option value="/pro-skupiny.html" >Pro skupiny...</option>
+
+<option value="/kontakt.html" >Kontakt</option>
+</select>
+
+
+</div>
+</div><!-- /header -->
+
+<div id="main-section">
+<div id="bg">
+<div class="container main-row">
+
+
+
+
+
+<div id="content" class="main-row">
+<div id="holder">
+<div id="col-content">
+
+
+
+<div id="detail" class="article ">
+<h1>Stranka nenalezena</h1>
+
+<div id="col-content">
+<div class="article" id="detail">
+<p>
+<strong>Pozadovana stranka neni na serveru k dispozici. Omlouvame se za zpusobene potize.</strong></p>
+<p>
+Stranka, na kterou smeroval Vas pozadavek, se nepodarilo najit. Je mozne, ze stranka byla odstranena, prejmenovana nebo neni docasne dostupna.</p>
+<p>
+Muzete prejit na <a href="http://www.lucnibouda.cz">uvodni stranku</a>.</p>
+<h2>
+Mozne priciny</h2>
+<ul>
+<li>
+Stranka neexistuje</li>
+<li>
+Mozna chyba serveru, nebo pretizeni, zkuste akci zopakovat</li>
+<li>
+Zkontrolujte zda-li vase adresa neobsahuje preklep</li>
+</ul>
+</div>
+</div>
+<p>
+&nbsp;</p>
+
+
+
+</div>
+
+
+
+
+</div><!-- /col-content -->
+</div><!-- /holder -->
+
+<div id="aside">
+<hr class="hidden" />
+
+
+
+
+
+
+</div><!-- /aside -->
+
+
+</div><!-- /content -->
+</div>
+</div>
+</div><!-- /main-section -->
+
+<div id="footer">
+<div class="container main-row">
+<hr class="hidden" />
+
+<div class="right">
+<div class="top">
+
+<ul class="socials">
+<li class="fb"><a href="http://www.facebook.com/LucniboudaCZ" title="Facebok">Facebook<span></span></a></li>
+
+
+</ul>
+</div>
+
+<div class="clear"></div>
+
+
+<ul class="nav">
+<li><a href="/historie.html" >Historie</a></li>
+
+<li><a href="/ubytovani.html" >Ubytovani</a></li>
+
+<li><a href="/gastronomie.html" >Gastronomie</a></li>
+
+<li><a href="/pivovar.html" >Pivovar</a></li>
+
+<li><a href="/wellness.html" >Wellness</a></li>
+
+<li><a href="/zazitky.html" >Zazitky</a></li>
+
+
+<li><a href="/kontakt.html" >Kontakt</a></li>
+
+</ul>
+
+
+</div>
+
+<div class="left">
+<div class="rights">
+<p><strong>Lucni bouda</strong> Vsechna prava vyhrazena <br />2012</p>
+</div>
+<div class="quick-contacts">
+<p><strong>Rychly kontakt</strong> Telefon: +420 733 740 888 <br />Email: <a href="mailto:info@lucnibouda.cz">info@lucnibouda.cz</a></p>
+</div>
+</div>
+
+</div>
+</div><!-- /footer -->
+
+
+<script type="text/javascript">
+var LHCChatOptions = {};
+LHCChatOptions.opt = {widget_height:340,widget_width:300,popup_height:520,popup_width:500};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+var refferer = (document.referrer) ? encodeURIComponent(document.referrer.substr(document.referrer.indexOf('://')+1)) : '';
+var location  = (document.location) ? encodeURIComponent(window.location.href.substring(window.location.protocol.length)) : '';
+po.src = '//livechat.vrcholkyhor.cz/index.php/cse/chat/getstatus/(click)/internal/(position)/bottom_right/(top)/350/(units)/pixels/(leaveamessage)/true?r='+refferer+'&l='+location;
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+</body>
+</html>

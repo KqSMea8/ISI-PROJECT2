@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /
+User-Agent: Mozilla
+Allow: /
+User-Agent: Opera
+Allow: /
+User-Agent: Googlebot
+Allow: /
+User-Agent: Slurp
+Allow: /

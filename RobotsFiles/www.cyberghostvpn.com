@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /feedback
+Disallow: /*/trialstarted
+Disallow: /is-using-cyberghost
+Disallow: /getservers
+Disallow: /getprivateservers
+Disallow: /sendtomailinglist
+Disallow: /buy/login
+Disallow: /shop/login
+Disallow: /*/vpn-free-trial-1day
+Allow: /

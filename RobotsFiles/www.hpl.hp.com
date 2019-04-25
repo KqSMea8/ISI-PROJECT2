@@ -1,0 +1,21 @@
+# allow no robots for the intial startup phase
+User-agent: *
+Disallow: /search
+Disallow: /snf
+Disallow: /dev
+Disallow: /about/media
+Disallow: /botany
+Disallow: /israel/staff
+Disallow: /bot
+Disallow: /hpsymphony
+Disallow: /jobs/reqview.cgi
+Disallow: /reqview.cgi
+Disallow: /imaging
+Disallow: /acm97
+Disallow: /reuse
+Disallow: /snf2
+Disallow: /ultravis/downloads
+Disallow: /ptm/downloads
+Disallow: /research/cbsr
+Disallow: /research/mmsl
+

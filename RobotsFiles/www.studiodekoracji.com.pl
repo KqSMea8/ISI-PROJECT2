@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /index.html?*
+Disallow: /index.php?main_page=*
+Disallow: *?main_page=*
+Disallow: /page.html?*
+Disallow: /faq.html
+Disallow: /payment.html
+Disallow: /shippinginfo.html
+Disallow: /privacy.html
+Disallow: /contact_us.html

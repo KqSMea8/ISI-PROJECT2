@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin
+Disallow: /catalogsearch/result/
+Disallow: /checkout/cart/
+Disallow: /checkout/
+Disallow: /checkout/onepage/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /customer/account/create/
+Disallow: /wishlist/
+Disallow: /sales/guest/form
+Disallow: /polityka-prywatnosci
+Sitemap: http://ware-house.pl/sitemap/sitemap.xml

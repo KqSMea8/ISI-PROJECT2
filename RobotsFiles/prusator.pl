@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /porady/action~posterboard/
+Disallow: /porady/action~agenda/
+Disallow: /porady/action~oneday/
+Disallow: /porady/action~month/
+Disallow: /porady/action~week/
+Disallow: /porady/action~stream/
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/

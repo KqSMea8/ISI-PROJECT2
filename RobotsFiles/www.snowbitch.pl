@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: https://www.snowbitch.cz/sitemap.xml.gz
+Disallow: /administration/
+Disallow: /_documentation/
+Disallow: /mod_EmailNews/
+Disallow: /exec/order.asp*
+Disallow: /exec/orderFrame.asp*
+Disallow: /exec/detailsend.asp*
+Disallow: /exec/emailnews.asp*
+Disallow: /exec/recommendus.asp*
+Disallow: /exec/mailus.asp*
+Disallow: /exec/userdata.asp*

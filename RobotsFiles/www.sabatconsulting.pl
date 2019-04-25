@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: */comments
+Disallow: */feed
+Disallow: */trackback
+Disallow: /archives/
+Disallow: /blog-/
+Disallow: /category/
+Disallow: /category/*/*
+Disallow: /cdn-/
+Disallow: /comment/
+Disallow: /comment/reply/
+Disallow: /comments
+Disallow: /go/
+Disallow: /page/
+Disallow: /redirect.php*
+Disallow: /tag/
+Disallow: /trackback/
+Disallow: /useronline/
+Disallow: /wp-/
+Disallow: /wp-admin/
+Disallow: /wp-content/cache
+Disallow: /xmlrpc.php
+

@@ -1,0 +1,18 @@
+# robots.txt
+# @url: http://www.libella.fr
+# @generator: SPIP 3.0.2
+# @template: squelettes-dist/robots.txt.html
+
+User-agent: *
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /extensions/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+
+
+Sitemap: http://www.libella.fr/sitemap.xml
+

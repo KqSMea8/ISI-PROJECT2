@@ -1,0 +1,57 @@
+User-agent: Googlebot
+Disallow: /*.axd
+Disallow: /fbFix.htm
+Disallow: *search
+Disallow: *seaProdId
+Noindex: /de/
+Noindex: /en/
+Disallow: /rejestracja,5
+Disallow: /*topworld,2,7126
+Disallow: /*porownywarka,9
+Noindex: /przypomnienie-hasla,10
+Noindex: /logowanie,17
+Noindex: /profil-klienta,6
+Noindex: /wyszukiwanie-zaawansowane,13
+Noindex: /*koszyk,4
+Noindex: *seaAdv=
+Noindex: /*pageId=
+
+User-Agent: Googlebot-Mobile
+Disallow: /*.axd
+Disallow: /fbFix.htm
+Noindex: /de/
+Noindex: /en/
+Disallow: /rejestracja,5
+Disallow: /*topworld,2,7126
+Disallow: /*porownywarka,9
+Noindex: /przypomnienie-hasla,10
+Noindex: /logowanie,17
+Noindex: /profil-klienta,6
+Noindex: /wyszukiwanie-zaawansowane,13
+Noindex: /*koszyk,4
+Noindex: *seaAdv=
+Noindex: /*pageId=
+
+User-Agent: Googlebot-Image
+Disallow: /*.axd
+Disallow: /fbFix.htm
+Noindex: /de/
+Noindex: /en/
+
+User-agent: *
+Allow: /
+
+Disallow: *search
+Disallow: *seaProdId
+Noindex: /de/
+Noindex: /en/
+Disallow: /rejestracja,5
+Disallow: /*topworld,2,7126
+Disallow: /*porownywarka,9
+Noindex: /przypomnienie-hasla,10
+Noindex: /logowanie,17
+Noindex: /profil-klienta,6
+Noindex: /wyszukiwanie-zaawansowane,13
+Noindex: /*koszyk,4
+Noindex: *seaAdv=
+Noindex: /*pageId=

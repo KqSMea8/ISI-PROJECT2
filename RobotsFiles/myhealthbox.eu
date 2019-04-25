@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /*/view/*
+Disallow: /*/download/*
+Disallow: /webmail
+Disallow: /cpanel
+Disallow: */search.php?q=*
+# Disallow: /web
+
+Sitemap: https://www.myhealthbox.eu/sitemaps/sitemap.xml
+

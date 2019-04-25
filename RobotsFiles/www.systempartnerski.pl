@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /rejestracja
+Disallow: /statystyki
+Disallow: /wynagrodzenie
+Disallow: /logout
+Disallow: /login
+

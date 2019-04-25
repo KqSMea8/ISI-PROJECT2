@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /baza
+Disallow: /sylwester/baza
+Disallow: /sylwester/2007
+Disallow: /sylwester/2008
+Disallow: /sylwester/2009
+Disallow: /sylwester/2010
+Disallow: /sylwester/2011
+Disallow: /sylwester/2012
+Disallow: /kolonie/2007
+Disallow: /kolonie/2008
+Disallow: /kolonie/2009
+Disallow: /kolonie/2010
+Disallow: /kolonie/2011
+Disallow: /kolonie/2012

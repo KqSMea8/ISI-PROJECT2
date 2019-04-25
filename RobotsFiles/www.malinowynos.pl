@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow: /register
+Disallow: /koszyk
+Disallow: /page/polityka-prywatnosci
+Disallow: /szukaj?search=*
+Disallow:  ?sort=dateAsc
+Disallow:  ?sort=priceAsc
+Disallow:  ?sort=priceDesc
+Disallow:  ?sort=nameAsc
+Disallow:  ?sort=nameDesc
+Disallow:  ?sort=date
+Disallow:  ?set=order_position_asc
+Disallow:  _=&_=

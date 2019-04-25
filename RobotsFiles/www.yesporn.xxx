@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /reportypx/
+Disallow: /reportbadypx/
+Disallow: /jstopypxvtr/
+Disallow: /jstopypxpctr/
+Disallow: /jstopypxnctr/
+Disallow: /jstopypxvctr/
+Disallow: /jstagypxctr/
+Disallow: /jstagypxpctr/
+Disallow: /jstagypxvctr/
+Disallow: /*/*/adv/
+Disallow: /stats/
+Disallow: /prTest/
+Disallow: /statsShow/
+Disallow: /*/*/a/
+Disallow: /4APvYBc5BmGssBvVzgMQKRd6.php
+Disallow: /de4444b3fa9a317d00c055cdd0b3b9a3/
+Disallow: /de4444b3fa9a317d00c055cdd0b3b9a3.php
+
+User-agent: Yandex
+Crawl-delay: 60
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10

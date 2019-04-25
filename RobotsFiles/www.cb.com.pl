@@ -1,0 +1,17 @@
+Sitemap: http://www.cb.com.pl/sitemap.xml
+Sitemap: http://www.cb.com.pl/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-Agent: *
+Disallow: /zespol/
+Disallow: /the-team/
+Disallow: /zespol-en/
+Disallow: /zespol-de/
+Disallow: /en/category/zespol-en/
+Disallow: /de/category/zespol-de/
+Disallow: /ru/category/zespol-ru/
+Disallow: /category/zespol/
+Disallow: /de/zespol/
+Disallow: /en/the-team/
+Disallow: /ru/zespol/

@@ -1,0 +1,12 @@
+User-agent: *
+
+# block LP for SEO
+Disallow: /ForexTradingTL/
+Disallow: /MMForexTradingTL/
+Disallow: /cms/
+Disallow: /lp/
+Disallow: /landing/
+Disallow: /lead/
+Disallow: /mob-track/
+Disallow: /de/
+Disallow: /pl/

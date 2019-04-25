@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*cat=
+Disallow: /*subcat=
+Disallow: /*szukaj
+Disallow: /*orderby=
+Disallow: /*query=
+Disallow: /*perpage=
+Disallow: /*produkt/gwarancja
+Disallow: /*produkt/trace
+Disallow: /pl/brodziki-prostokatne,6,202,c/producent:*,*
+Disallow: /pl/_niebieskalazienka_

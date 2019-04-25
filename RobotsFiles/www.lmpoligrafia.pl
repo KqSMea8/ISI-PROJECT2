@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /handlers/
+Disallow: /files/cache/
+Disallow: /files/public/avatars/
+Disallow: /user.php
+Disallow: /search.php
+Disallow: /plugins/cl_widgets/
+Disallow: /lmprint/plugins/cl_widgets/

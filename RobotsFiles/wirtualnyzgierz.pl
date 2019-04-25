@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /_stats/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /flash/
+Disallow: /images/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /modules/
+Disallow: /tmp/
+Disallow: /drukuj/
+Disallow: /mini/
+Disallow: /uploadify/
+Disallow: /test1.php
+Disallow: /test.php
+Disallow: /phpinfo.php

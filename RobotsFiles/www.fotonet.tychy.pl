@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /~proto3/
+Disallow: /~proto2/
+Disallow: /~mysql/
+Disallow: /adm/
+Disallow: /admin/
+Disallow: /CVS/
+Disallow: /get_list/
+Disallow: /include/
+Disallow: /polling/
+Disallow: /adm/

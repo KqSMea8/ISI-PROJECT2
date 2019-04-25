@@ -1,0 +1,13 @@
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Disallow: /img/
+Disallow: /media/
+Disallow: /zbiorcza/
+Disallow: /tmp/
+
+

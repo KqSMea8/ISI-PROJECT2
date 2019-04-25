@@ -1,0 +1,9 @@
+User-agent: GoobleBoot
+Disallow: /admin/play.google.com/store/apps/details?id=androidNin1.Start
+Disallow: /user/images/782be0f13f0e9fa19f1fc9e8ef646b78.jpg]http://ishop.pl/user/images/782be0f13f0%20...%20646b78.jpg%3C/a%3E%3C!--%20m%20--%3E%3Cbr%20/%3E%3Cbr%20/%3EK%C5%82opot%20polega%20na%20tym%20%C5%BCe%20gdy%20je%20zak%C5%82adam,%20telefon%20nie%20reaguje%20na%20dotyk.%20z%20czego%20to%20mo%C5%BCe%20wynika%C4%87?%20%20pr%C3%B3bowa%C5%82em%20zak%C5%82ada%C4%87%20dwie%20takie%20klapki%20i%20efekt%20by%C5%82%20ten%20sam,%20dla%20por%C3%B3wnania%20zdj%C4%85%C5%82em%20jeszcze%20oryginaln%C4%85%20klap%C4%99%20i%20dopiero%20potem%20na%C5%82o%C5%BCy%C5%82em%20etui,%20wtedy%20k%C5%82opot%20znikn%C4%85%C5%82%20i%20xperia%20dzia%C5%82a%C5%82a%20jak%20powinna%3Cbr%20/%3E%3Cbr%20/%3EProsz%C4%99%20o%20pomoc,%20mo%C5%BCe%20kto%C5%9B%20mia%C5%82%20podobny%20problem?%20%3Cimg%20src=
+Disallow: /ref.php?ref=
+Disallow: /12
+Disallow: /12,9
+Disallow: /admin/TORBY
+Disallow: /_MARIO/index.php
+Disallow: /admin/itunes.apple.com/us/app/ihealth-myvitals/id566815525?mt=8

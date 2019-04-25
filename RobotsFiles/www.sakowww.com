@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /baner/
+Disallow: /cl/
+Disallow: /cms/
+Disallow: /errordoc/
+Disallow: /funkcje/
+Disallow: /grafika/
+Disallow: /blog2/
+Disallow: /.private/

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /aspnet_client/
+User-agent: *
+Disallow: /secure/
+User-agent: *
+Disallow: /kdalekobiezna/
+User-agent: *
+Disallow: /kmiejska/
+User-agent: *
+Disallow: /*.pdf$
+User-agent: *
+Allow: /
+Sitemap: http://pks-chelm.pl/sitemap.xml

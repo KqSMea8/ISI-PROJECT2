@@ -1,0 +1,67 @@
+User-agent: *
+
+Disallow: */browse?*,*
+Disallow: */browse?*%2C*
+Disallow: */browse?*availability*
+Disallow: */browse?*rating*
+Disallow: */browse?*language*
+Disallow: */browse?*subscriptionGroup*
+Disallow: */browse?*franchise*
+Disallow: */browse?*publisher*
+Disallow: */browse?*developer*
+Disallow: */browse?*price*
+Disallow: *?*sort=*
+Disallow: *?*oigcontext=*
+Disallow: *?*cmsstage=*
+Disallow: *?*invoiceSource=*
+Disallow: */store/browseundefined$
+
+
+Disallow: */free/web/getEntitlement$
+Disallow: */free/client/getEntitlement$
+Disallow: */free/web/getEntitlementAsync$
+Disallow: */free/client/getEntitlementAsync$
+Disallow: */free/getWebProxy$
+Disallow: */free/battlefield$
+Disallow: /applyentitlement.do
+Disallow: /gameactivation.do
+Disallow: */minicart*
+Disallow: */dealcart$
+Disallow: */dealviewer$
+Disallow: */bundle$
+Disallow: */interstitial$
+Disallow: */oauth/*
+Disallow: */shop/interstitial$
+Disallow: *?searchString=*
+Disallow: *quickview*
+
+Sitemap: https://www.origin.com/sitemap_index.xml
+Sitemap: https://www.origin.com/sitemap_aus.xml
+Sitemap: https://www.origin.com/sitemap_bel.xml
+Sitemap: https://www.origin.com/sitemap_bra.xml
+Sitemap: https://www.origin.com/sitemap_can.xml
+Sitemap: https://www.origin.com/sitemap_deu.xml
+Sitemap: https://www.origin.com/sitemap_dnk.xml
+Sitemap: https://www.origin.com/sitemap_esp.xml
+Sitemap: https://www.origin.com/sitemap_fin.xml
+Sitemap: https://www.origin.com/sitemap_fra.xml
+Sitemap: https://www.origin.com/sitemap_gbr.xml
+Sitemap: https://www.origin.com/sitemap_hkg.xml
+Sitemap: https://www.origin.com/sitemap_ind.xml
+Sitemap: https://www.origin.com/sitemap_irl.xml
+Sitemap: https://www.origin.com/sitemap_ita.xml
+Sitemap: https://www.origin.com/sitemap_jpn.xml
+Sitemap: https://www.origin.com/sitemap_kor.xml
+Sitemap: https://www.origin.com/sitemap_mex.xml
+Sitemap: https://www.origin.com/sitemap_nld.xml
+Sitemap: https://www.origin.com/sitemap_nor.xml
+Sitemap: https://www.origin.com/sitemap_nzl.xml
+Sitemap: https://www.origin.com/sitemap_pol.xml
+Sitemap: https://www.origin.com/sitemap_rus.xml
+Sitemap: https://www.origin.com/sitemap_sgp.xml
+Sitemap: https://www.origin.com/sitemap_swe.xml
+Sitemap: https://www.origin.com/sitemap_tha.xml
+Sitemap: https://www.origin.com/sitemap_twn.xml
+Sitemap: https://www.origin.com/sitemap_usa.xml
+Sitemap: https://www.origin.com/sitemap_zaf.xml
+

@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: /sitemap/swe-SE-sitemap.xml
+Disallow: /sslgate.coface.com
+Disallow: /index.php
+Disallow: /switchlanguage
+Disallow: /(fromM)
+Disallow: /(page)
+Disallow: /(type)
+Disallow: /cofaweb/search/
+Disallow: /content/view/full/
+Disallow: /fr/content/view/full/
+Disallow: /layout/set/print/

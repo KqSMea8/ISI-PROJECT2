@@ -1,0 +1,11 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /obcan/mestsky-urad/pavouk-k-tisku/
+Disallow: /obcan/uredni-deska/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /obcan/mestsky-urad/pavouk-k-tisku/
+Disallow: /obcan/uredni-deska/
+Sitemap: http://www.novemestonm.cz/sitemap.xml
+

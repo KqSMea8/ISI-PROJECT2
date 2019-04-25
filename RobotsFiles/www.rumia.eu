@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://192.168.1.122/um_rumia/sitemap.xml.gz
+Sitemap: http://192.168.1.122/um_rumia/sitemap.xml.gz.gz

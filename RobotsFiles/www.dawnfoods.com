@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /about-us/distribution/los-angeles
+Disallow: /about-us/leadership/carrie-jones-barber
+Disallow: /about-us/leadership/unsal
+Disallow: /about-us/leadership/karl-brown
+Disallow: /about-us/leadership/emilio-castillo
+Disallow: /about-us/leadership/angie-goldberg
+Disallow: /about-us/leadership/gabrielle-kalkwijk
+Disallow: /about-us/leadership/metzendorf
+Disallow: /about-us/leadership/Stevens-Sainte-Rose
+Disallow: /about-us/leadership/Thayer
+Disallow: /about-us/leadership/Steven-Verweij

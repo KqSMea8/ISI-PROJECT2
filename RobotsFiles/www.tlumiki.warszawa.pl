@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /doc/
+Disallow: /ndesityinstall4562/
+Disallow: /lib/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /uploads/

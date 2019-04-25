@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*/tag/*
+Disallow: /*/sklepy/*
+Disallow: /*/kraje/*
+Disallow: /*/author/*
+Disallow: /*/category/*

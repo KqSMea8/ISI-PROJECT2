@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /apanel/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /counter/
+Disallow: /fonts/
+Disallow: /geo/
+Disallow: /modcmt/
+Disallow: /nea/
+Disallow: /newsletter/
+Disallow: /php/
+Disallow: /swf/
+Disallow: /tags/
+Disallow: /tpl/
+Disallow: /tpl2/
+Disallow: /xml/
+Sitemap: http://www.yafud.pl/sitemap.xml
+

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /umbraco/
+Disallow: /500.html
+Disallow: /usercontrols/document/FileDownloader.ashx
+Disallow: /usercontrols/

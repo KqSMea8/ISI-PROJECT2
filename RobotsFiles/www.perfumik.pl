@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /koszyk.html
+Disallow: /?s=szukaj&fraza=
+Disallow: /nowe-konto.html
+Disallow: /twoje-konto
+Disallow: /email-nowe-haslo.html
+Disallow: /polityka-prywatnosci.html
+Disallow: /zwroty-i-wymiany.html

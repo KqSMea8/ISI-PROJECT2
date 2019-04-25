@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /gfx/pwszkrosno/_thumbs/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+User-agent: Fasterfox
+Disallow: /

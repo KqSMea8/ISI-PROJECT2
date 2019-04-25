@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /konto/
+Disallow: /pl/konto/
+Disallow: /wyniki-wyszukiwania/
+Disallow: /pl/wyniki-wyszukiwania/
+Disallow: /czytelnia/
+Disallow: /pl/czytelnia/
+Disallow: /blad/
+Disallow: /pl/blad/
+Sitemap: http://parafiapawlowice.waw.pl/sitemap.xml

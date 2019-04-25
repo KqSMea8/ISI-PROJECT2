@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/
+Disallow: /addon/
+Disallow: /plugin/
+Disallow: /tools/
+Allow: /
+Sitemap: http://www.nowiro.pl/sitemap.xml
+Sitemap: http://www.nowiro.pl/sitemap-product.xml
+Sitemap: http://www.nowiro.pl/sitemap-pattern.xml
+Sitemap: http://www.nowiro.pl/sitemap-place.xml
+Sitemap: http://www.nowiro.pl/sitemap-news.xml
+Sitemap: http://www.nowiro.pl/sitemap-news-type.xml
+Sitemap: http://www.nowiro.pl/sitemap-example.xml
+Sitemap: http://www.nowiro.pl/sitemap-example-type.xml
+Sitemap: http://www.nowiro.pl/sitemap-category.xml

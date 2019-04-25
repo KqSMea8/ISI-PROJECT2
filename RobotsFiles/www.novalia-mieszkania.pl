@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /css/
+Disallow: /i/
+Disallow: /js/
+Disallow: /assets/
+Disallow: /pdf/
+Disallow: /rzuty/
+Disallow: /tmp/
+Disallow: /wirtualny-spacer/
+Disallow: /cookies
+Sitemap: http://www.novalia-mieszkania.pl/sitemap.xml

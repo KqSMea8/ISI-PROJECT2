@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /manager/
+Disallow: /branze/spozywczo-rolnicza.html
+Disallow: /aktualnosci/delegowanie-do-pracy-i-praca-w-bulgarii.html
+Disallow: /aktualnosci/rejestracja-spolki-w-bulgarii-(spolka-z.-o.o.-oraz-spolka-akcyjna-w-bulgarii).html
+Disallow: /kariera/aplikant-adwokacki.html
+Disallow: /kariera/adwokat.html
+Disallow: /kariera/
+Sitemap: http://www.dudkowiak.pl/sitemap.xml

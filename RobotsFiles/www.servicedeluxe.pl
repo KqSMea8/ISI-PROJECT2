@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /?p=
+Disallow: /%22http:/
+Disallow: /comments/
+Disallow: /feed/
+Disallow: /home.html/
+Disallow: /kontakt.html/
+Disallow: /obsluga-firm.html/
+Disallow: /osobisty-asystent.html/
+Disallow: /twoj-osobisty-asystent-24h-wroclaw.html/
+Disallow: /vip-concierge.html/
+Disallow: /xmlrpc.php

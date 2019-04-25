@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /ru
+Disallow: /en
+Disallow: /de
+Disallow: /pl
+Disallow: /fr
+Disallow: /logowanie.html
+Disallow: /autoryzacja.html
+Disallow: /edycja-danych.html
+Disallow: /przypominanie-hasa.html
+Disallow: /wyszukaj.html
+Disallow: /dokumenty-firmowe.html
+Disallow: /dla-prasy.html
+Disallow: /kariera.html
+Disallow: /praktyki.html

@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /download/files/
+Disallow: /storage/
+Disallow: /ajax/
+Disallow: /ajax_instruction/
+
+

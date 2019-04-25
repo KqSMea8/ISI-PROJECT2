@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /test/
+Disallow: /media/
+Disallow: /core/
+Disallow: /ftp/
+Disallow: /media/
+Disallow: /obrazki/
+Disallow: /wp-*
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /aces/
+Disallow: /ac/

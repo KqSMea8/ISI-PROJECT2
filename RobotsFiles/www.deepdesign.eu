@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ekantor/
+Disallow: /ekantor.pl/
+Disallow: /stargate.com/
+Disallow: /ekantor-mobile/
+Disallow: /test/
+Disallow: /_temp/

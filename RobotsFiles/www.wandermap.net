@@ -1,0 +1,99 @@
+# 2019-04-24T15:10:29.973113+02:00
+User-agent: *
+
+Disallow: /ckeditor/upload/
+Disallow: /widget-gallery.html
+Disallow: /*is_processing_in_mtk/
+Disallow: /*embed_popup/
+Disallow: /login/*/
+Disallow: /complete/*/
+Disallow: /associate/*
+Disallow: /disconnect/*
+Disallow: /*/login/
+Disallow: /*/register/
+Disallow: /*/logout/
+Disallow: /*/password-reset/*
+Disallow: /*/username-password-reset/*
+Disallow: /*/channel*
+
+
+Disallow: /*route/search-results/
+
+
+
+
+
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-de.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-en.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-es.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-fr.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-it.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-pl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-cs.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-nl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-hu.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-ro.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-sk.xml
+
+Sitemap: http://www.wandermap.net/sitemap-regions-index-sl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-de.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-en.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-es.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-fr.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-it.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-pl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-cs.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-nl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-hu.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-ro.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-sk.xml
+
+Sitemap: http://www.wandermap.net/sitemap-routes-index-sl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-de.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-en.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-es.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-fr.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-it.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-pl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-cs.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-nl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-hu.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-ro.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-sk.xml
+
+Sitemap: http://www.wandermap.net/sitemap-ways-index-sl.xml
+
+Sitemap: http://www.wandermap.net/sitemap-general.xml

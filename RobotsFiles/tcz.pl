@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /index.php?p=0,0,0*
+Disallow: /click.php*
+Disallow: /files
+Allow: /index.php?p=0,0,0,start
+Allow: /index.php?p=0,0,0,temat*
+Allow: /index.php?p=0,0,0,pogoda*
+Allow: /index.php?p=0,0,0,ranking*
+Allow: /index.php?p=0,0,0,poczta*
+Allow: /index.php?p=0,0,0,dodaj*
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-1.xml
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-2.xml
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-3.xml
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-4.xml
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-5.xml
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-6.xml
+Sitemap: https://www.tcz.pl/_sitemaps/sitemap-7.xml

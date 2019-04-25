@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /dla_domu,szczegoly,707.html?id=gdn_home
+Disallow: /dla_domu,oferty,12166.html?id=gdn_home
+Disallow: /dla_domu,oferty,12167.html?id=gdn_home
+Disallow: /dla_domu,oferty,12166.html?id=search_home
+Disallow: /dla_domu,oferty,12168.html?id=search_home
+Disallow: /dla_domu,szczegoly,144.html?id=search_home
+Disallow: /dla_domu,szczegoly,194.html?id=search_home
+Disallow: /dla_domu,szczegoly,707.html?id=search_home
+Disallow: /dla_firmy,oferta_dodatkowa,12228.html?id=search_sme
+Disallow: /dla_firmy,oferty,12206.html?id=search_sme
+Disallow: /dla_firmy,oferty,12208.html?id=search_sme
+Disallow: /dla_firmy,szczegoly,424.html?id=search_sme
+Disallow: /dla_firmy,szczegoly,454.html?id=search_sme

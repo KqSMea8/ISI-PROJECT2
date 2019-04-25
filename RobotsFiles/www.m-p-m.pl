@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Noindex: /formularz-zgloszeniowy/
+Noindex: /zapytaj-o-szkolenie/
+Noindex: *klienci/?company=*
+Noindex: *our-clients/?company=*
+Noindex: *wydruk/*
+Noindex: /wyniki-wyszukiwania/
+Noindex: /aktualnosci/
+Noindex: /cms/att/szkolenia/
+Noindex: *our-clients/*

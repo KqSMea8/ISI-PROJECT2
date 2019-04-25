@@ -1,0 +1,4 @@
+Sitemap: https://www.bmwi.de/Navigation/WS/XMLSitemap/sitemap.xml
+
+User-agent: * Allow: / Disallow: /*?view=renderPrint
+

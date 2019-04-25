@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /mailer/
+Disallow: /uploads/
+Disallow: /uploads/reklamy/
+Disallow: /uploads/ogloszenia/
+Disallow: /uploads/firmy/
+Disallow: /uploads/kalendarium/
+Allow: /uploads/news/
+Allow: /uploads/galeria/
+Sitemap: http://www.e-kolo.pl/sitemap.xml

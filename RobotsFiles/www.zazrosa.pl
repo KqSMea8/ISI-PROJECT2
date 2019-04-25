@@ -1,0 +1,1 @@
+User-agent: *Allow: /Disallow: /admin*Disallow: /public/Allow: /public/styles/Allow: /public/scripts/Allow: /public/styles/Allow: /public/images/Allow: /public/files/

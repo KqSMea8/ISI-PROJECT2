@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /subscribe-newsletter
+Disallow: /backoffice
+Disallow: /shop
+Disallow: /profile
+Disallow: /subscribe
+Disallow: *.pdf
+Noindex: *.pdf
+Crawl-delay: 5
+Sitemap: https://royalbrinkman.pl/SiteMap/SanaStore_pl_siteindex.xml

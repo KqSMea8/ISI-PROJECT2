@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /*/checkout
+Sitemap: https://www.carrera-toys.com/product-sitemap.xml
+Sitemap: https://www.carrera-toys.com/nl/sitemap
+Sitemap: https://www.carrera-toys.com/en/sitemap
+Sitemap: https://www.carrera-toys.com/fr/sitemap
+Sitemap: https://www.carrera-toys.com/de/sitemap
+Sitemap: https://www.carrera-toys.com/hu/sitemap
+Sitemap: https://www.carrera-toys.com/it/sitemap
+Sitemap: https://www.carrera-toys.com/pl/sitemap
+Sitemap: https://www.carrera-toys.com/es/sitemap

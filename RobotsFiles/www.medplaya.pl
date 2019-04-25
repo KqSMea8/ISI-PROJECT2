@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: https://www.medplaya.com/sitemaps_en.xml
+Sitemap: https://www.medplaya.es/sitemaps_es.xml
+Sitemap: https://www.medplaya.ca/sitemaps_ca.xml
+Sitemap: https://www.medplaya.eus/sitemaps_eu.xml
+Sitemap: https://www.medplaya.fr/sitemaps_fr.xml
+Sitemap: https://www.medplaya.de/sitemaps_de.xml
+Sitemap: https://www.medplaya.nl/sitemaps_nl.xml
+Sitemap: https://www.medplaya.cn/sitemaps_cn.xml
+Sitemap: https://www.medplaya.ru/sitemaps_ru.xml
+Sitemap: https://www.medplaya.pl/sitemaps_pl.xml
+Sitemap: https://www.medplaya.it/sitemaps_it.xml

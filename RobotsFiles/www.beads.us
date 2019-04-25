@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /tmp
+Disallow: /class
+Disallow: /confings
+Disallow: /css
+Disallow: /images
+Disallow: /inc
+Disallow: /js
+Disallow: /order
+Disallow: /templates
+

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Allow: /images/*.jpg
+Allow: /images/*.png
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /lss/
+Sitemap: http://www.erpe.pl/index.php?option=com_sefservicemap&amp;task=xmlmapindex&amp;no_html=1
+

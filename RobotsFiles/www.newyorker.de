@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow:
+
+# Do not allow ia_archiver to access any part of the server
+# ia_archiver is the User Agent from archive.org
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow:
+
+# Url from Sitemap
+Sitemap: https://www.newyorker.de/sitemap.xml
+

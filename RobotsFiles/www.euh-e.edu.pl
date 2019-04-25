@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /pl/
+Disallow: /admin/
+Disallow: /dokumenty/
+Disallow: /panel/
+Disallow: /ankieta/
+Allow: /pl/studia_i_ii_stopnia/wydzial_administracji_i_nauk_spolecznych/
+Allow: /pl/studia_i_ii_stopnia/wydzial_nauk_o_zdrowiu/
+Allow: /pl/art_6187.html
+Allow: /pl/na_biezaco/konferencje/
+Allow: /pl/cp_kontakt/
+Allow: /pl/o_uczelni/rekrutacja/
+Allow: /pl/na_biezaco/wydawnictwo/
+Allow: /pl/studia_i_ii_stopnia/wydzial_administracji_i_nauk_spolecznych/ogl_dla_studentow/
+Allow: /pl/studia_i_ii_stopnia/wydzial_nauk_o_zdrowiu/aktualnosci/
+Allow: /pl/studia_i_ii_stopnia/wydzial_administracji_i_nauk_spolecznych/ogl_dla_nauczycieli_akademickich/
+Allow: /pl/studia_i_ii_stopnia/wydzial_nauk_o_zdrowiu/ogloszenia_dla_nauczycieli_akad/
+Allow: /pl/fundusze_europejskie/po_kl/
+Allow: /pl/fundusze_europejskie/efrr/
+Allow: /pl/fundusze_europejskie/pfron/
+Allow: /pl/organizacyjne/biblioteka/
+

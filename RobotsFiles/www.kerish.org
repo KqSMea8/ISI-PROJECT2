@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: http://www.kerish.org/sitemap.xml
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /download/
+Disallow: /js/
+Disallow: /php/
+Disallow: /rss/
+Disallow: /pub/
+Disallow: /Products/
+Disallow: /shared/
+Disallow: /work/

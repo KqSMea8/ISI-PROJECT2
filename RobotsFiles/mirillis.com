@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /en/store/techlope/
+Disallow: /476t27tr9324tr479344g/
+Disallow: /de-old/
+Disallow: /en-old/
+Disallow: /pl-old/
+Disallow: /cn-test/
+Disallow: /forum-test/
+Disallow: /ajax-sendmail
+Disallow: /de/ajax-sendmail
+Disallow: /pl/ajax-sendmail
+Disallow: /es/ajax-sendmail
+Disallow: /ja/ajax-sendmail
+Disallow: /zh/ajax-sendmail
+Disallow: /ru/ajax-sendmail
+Disallow: /fr/ajax-sendmail

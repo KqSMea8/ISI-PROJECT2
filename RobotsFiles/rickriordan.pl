@@ -1,0 +1,16 @@
+User-agent: twiceler
+Disallow: /
+User-agent: Gigabot
+Disallow: /
+User-agent: Scrubby
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: naverbot
+Disallow: /
+User-agent: yeti
+Disallow: /
+User-agent: Slurp
+Disallow: /

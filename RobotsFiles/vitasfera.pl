@@ -1,0 +1,19 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin
+Disallow: /admin
+Disallow: /imgs
+Disallow: /login
+Disallow: /login/L2NvbW1lbnRmb3JtLzIwMzY=
+Disallow: /login/L2NvbW1lbnRmb3JtLzEyMDg=
+Disallow: /folder
+Disallow: /login
+Disallow: /cart
+Disallow: /products
+Disallow: /products/0/3
+Disallow: /0/2
+Disallow: /forgot
+Disallow: /folder
+Disallow: /?li=2
+Disallow: /index.php/component/redmystic/sitemap
+Sitemap: https://vitasfera.pl/sitemap.xml

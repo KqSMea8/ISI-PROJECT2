@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /ckeditor/
+Disallow: /grafika/
+Disallow: /images/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /tmp/
+Disallow: /stara_WWW/
+Disallow: /STARA_WWW2/

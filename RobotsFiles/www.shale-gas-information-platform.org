@@ -1,0 +1,16 @@
+# robots.txt die alles verbietet
+
+User-agent: *
+
+Disallow: /fileadmin/ship/design/
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: /typo3temp/
+Disallow: /fileadmin/ship/css/
+Disallow: /fileadmin/ship/typoscript/
+Disallow: /fileadmin/ship/templates/
+Disallow: /fileadmin/ship/js/
+Disallow: /filadmin/ship/fancybox/
+
+
+

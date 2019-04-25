@@ -1,0 +1,10 @@
+User-agent: Yandex
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: *
+Disallow:
+
+

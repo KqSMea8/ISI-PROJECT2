@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: */page
+Disallow: /gate/
+Disallow: /producer/list$
+Disallow: /en/*
+Disallow: /en$
+Disallow: /de/*
+Disallow: /de$
+Disallow: /lt/*
+Disallow: /lt$
+Disallow: /pl/*
+Disallow: /pl$
+Disallow: /blog
+Disallow: /rss/
+Disallow: /user
+Disallow: *?
+Allow: *?i
+Allow: *?sort_order
+Allow: *?percent_sale
+Allow: *?price-filter-from
+Allow: *?utm
+Host: https://modasto.pl
+Sitemap: https://modasto.pl/sitemap.xml
+

@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /pdf_strony_lato/
+Disallow: /pdf_strony_zima/
+Disallow: /zdjecia_lato/
+Disallow: /zdjecia_zima/
+Disallow: /zdjecia_lato2/
+Disallow: /zdjecia_zima2/
+Disallow: /Xzdjecia/
+Disallow: /zdjecia/zdjecia-lato/
+Disallow: /zdjecia/zdjecia-zima/
+Disallow: /zdjecia-lato/
+Disallow: /zdjecia-zima/
+Disallow: /pliki-strona/
+Disallow: /zdjecia_portale/
+Disallow: /html/
+Disallow: /html/zdjecia_lato/
+Disallow: /html/zdjecia_zima/
+Disallow: /../zdjecia-lato/
+Disallow: /../zdjecia-zima/
+Disallow: /public/pliki/
+Disallow: /public/pliki-agent/
+Disallow: /public/pliki-media/
+Disallow: /public/pliki-strona/
+Disallow: /public/pdf_strony_lato/
+Disallow: /public/pdf_strony_zima/
+Disallow: /public/zdjecia-lato/
+Disallow: /public/zdjecia-zima/
+Disallow: /public/zdjecia-lato-kesz1/
+Disallow: /public/zdjecia-zima-kesz1/
+Disallow: /public/zdjecia-lato-kesz2/
+Disallow: /public/zdjecia-zima-kesz2/
+Disallow: /public/pdf_strony_lato/
+Disallow: /public/pdf_strony_zima/
+Disallow: /public/pliki-strona/
+Disallow: /public/pliki-strona/warunki/
+Disallow: /public/pliki-strona/rodo/
+Disallow: /Xpublic/zdjecia/
+Disallow: /public/zdjecia_portale/
+Disallow: /public/zdjecia_lato2/
+Disallow: /public/zdjecia_zima2/
+Disallow: /public/owu/
+Disallow: /public/g/oc/
+Disallow: /*pdf
+
+
+

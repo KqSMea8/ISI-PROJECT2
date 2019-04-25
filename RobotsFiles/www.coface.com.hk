@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /layout/set/print/
+Sitemap: /sitemap/chi-CN-child-sitemap.xml

@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://www.cadkon.eu/sitemap.php
+
+Disallow: /__admin/
+Disallow: /__common/
+Disallow: /__classes/
+#Disallow: /__css/
+Disallow: /__fonts/
+#Disallow: /__functions/
+#Disallow: /__libs/
+Disallow: /__log/
+Disallow: /__inc/
+Disallow: /__install/
+Disallow: /__modules/
+Disallow: /__scripts/
+Disallow: /__templates/
+#Disallow: /__images/
+#Disallow: /__files/
+#Disallow: /ckfinder/
+Disallow: /ckeditor/
+#Disallow: *?PageNum=*
+#Disallow: *&PageNum=*
+#Disallow: *&Strana=*
+#Disallow: *?Strana=*
+#Disallow: *?detail=*
+#Disallow: *&detail=*
+#Disallow: *?search=*
+#Disallow: /search.html

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /tiny_mce/
+Disallow: /tiny_mce_last/
+Disallow: /controllers/
+Disallow: /js/
+Disallow: /language/
+Disallow: /promotions
+Disallow: /user/orders.html
+Disallow: /user/dataEdit.html
+Disallow: /user/options.html
+Disallow: /order/cart.html
+Disallow: /user/changePass.html
+Disallow: /?action=productAdd
+Disallow: /?window=login
+Disallow: /?action=repository
+Disallow: /?window=productAsk
+Disallow: /?window=productRecommend

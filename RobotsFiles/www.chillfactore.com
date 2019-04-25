@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /data/
+Disallow: /macroScripts/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /usercontrols/
+Disallow: /xslt/
+Disallow: /media/1411/risk-assessment-snow-park-2014.pdf
+Disallow: /media/1377/citassess-main-slope-public-september-20142.pdf
+Disallow: /media/1409/risk-assessment-travelators-public-2014.pdf
+Disallow: /media/1407/risk-assessment-climbing-wall-2014.pdf
+Disallow: /media/1408/external-instructors-risk-assessment-tuition-visitors-2014.pdf
+Sitemap: https://www.chillfactore.com/sitemap.xml

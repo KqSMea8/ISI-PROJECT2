@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /archive/
+Disallow: /dev/
+Disallow: /includes/
+Disallow: /go/
+
+Sitemap: https://www.binaryoptionsexpert.net/pro-sitemaps-4096712.php

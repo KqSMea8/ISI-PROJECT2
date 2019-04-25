@@ -1,0 +1,130 @@
+# DK robots Updated 07-2018 memberStatus*
+User-agent: MSIECrawler
+User-agent: Zealbot
+User-agent: 360Spider
+User-agent: AhrefsBot
+User-agent: Baiduspider
+User-agent: Baiduspider-image
+User-agent: Baiduspider-video
+User-agent: DOC
+User-agent: Download Ninja
+User-agent: Fetch
+User-agent: grapeshot
+User-agent: HTTrack
+User-agent: JikeSpider
+User-agent: larbin
+User-agent: linko
+User-agent: MSIECrawler
+User-agent: Offline Explorer
+User-agent: Orthogaffe
+User-agent: proximic
+#User-agent: SemrushBot
+#User-agent: SemrushBot-SA
+User-agent: seoscanners
+User-agent: SeznamBot
+User-agent: SISTRIX
+User-agent: sitecheck.internetseer.com
+User-agent: SiteSnagger
+User-agent: Sogou
+User-agent: sogou spider
+User-agent: Sosospider
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: UbiCrawler
+User-agent: UbiCrawler
+User-agent: WBSearchBot
+User-agent: WebCopier
+User-agent: WebStripper
+User-agent: WebZIP
+User-agent: YandexBot
+User-agent: Zao
+Disallow: /
+
+User-agent: *
+# SPA:
+Disallow: /tryMemberSaveMylist
+Disallow: /eat/
+Disallow: /ct/
+# SPA public:
+Disallow: /public/v0/clickout/
+Disallow: /public/v1/clickout/
+#
+Disallow: /adrunner/showAd
+Disallow: /Airports.jsp
+Disallow: /beta/
+Disallow: /old/
+Disallow: /cookies.html
+Disallow: /discuss/
+Disallow: /Display.jsp
+Disallow: /forum/
+Disallow: /MemberApply.jsp
+Disallow: /new-member
+Disallow: /newsletters/
+Disallow: /ProductInfo.jsp
+Disallow: /ProductList.jsp
+Disallow: /ProductPrice.jsp
+Disallow: /sony/index.html
+# User action - write review
+Disallow: /rs/
+Disallow: /vru/
+Disallow: /vrp/
+Disallow: /mcl/
+Disallow: /ps/
+Disallow: /pc/
+Disallow: /prf/
+Disallow: /pip/
+# User action - write review
+Disallow: /mailFriend?
+Disallow: /memberRegistration
+Disallow: /rar/
+Disallow: /tell-friend?
+Disallow: /tell-friend*
+Disallow: /*action=submitreview
+Disallow: /*feedback?returnURL
+Disallow: /feedback?
+Disallow: /pricewatch?
+Disallow: /login
+Disallow: /userVote
+# Free Text template
+Disallow: /spi/
+# tracking
+Disallow: /ref-site*
+Disallow: /scripts/
+Disallow: /gotostore/
+Disallow: /track/
+Disallow: /exec/TDfwd
+Disallow: /exec/Redirect
+Disallow: /exec/TrackImage
+Disallow: /honeybot/
+Disallow: /public/v0/clickout/
+Disallow: /public/v1/clickout/
+# No result page
+Disallow: /search?displayNoHitsMessage=1
+Disallow: /errorForm
+Disallow: /seo_pricerunner
+Disallow: /shopping/prdInfo
+Disallow: /sponsored-links
+Disallow: /memberStatus*
+Disallow: /testpanel
+Disallow: /userLogin
+Disallow: /vclk.jsp
+Disallow: /vclkAds.html
+Disallow: /*Bruger-Anmeldelser?show=all
+Disallow: /*noidx=1
+Disallow: /*reviews?show=all
+Disallow: /*numberOfProducts=*
+Disallow: /cl/742/
+Disallow: /pl/742-*
+Disallow: /cl/337/*q*search*
+Disallow: /*search_splash*
+Disallow: /mod_shopping/
+Disallow: /8397/
+Disallow: /70081414/
+
+# URLs prx Page Disallow
+Disallow: /prx/
+# Disallow foot.jsp for www.bedst-i-test.nu
+Disallow: /ni/
+
+# Sitemap
+Sitemap: https://www.pricerunner.dk/public/v1/sitemap/DNK/sitemap.xml

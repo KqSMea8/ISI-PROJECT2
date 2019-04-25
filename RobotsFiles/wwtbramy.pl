@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /actions.php
+Disallow: /pricing_func.inc
+Disallow: /sendmail.inc
+Disallow: /cena-bramy-koniec.php
+Disallow: /cena-bramy-wymiary.php
+Disallow: /wycena-wyslane.html
+Disallow: /wycena-wyslane-naped.html
+Disallow: /dobierz-naped.php

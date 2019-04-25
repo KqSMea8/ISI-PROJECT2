@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /application/
+Disallow: /formularzTT/
+Disallow: /templates/
+Disallow: /tracking_code/
+Disallow: /ttcode/
+Disallow: /public/fb/
+Disallow: /public/js/packageJS/
+Disallow: /public/xml/

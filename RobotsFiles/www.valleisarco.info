@@ -1,0 +1,19 @@
+# robots.txt for client of http://www.teamBLAU.com
+# cr / v1.2 / 2001-02-04
+# comments to robots@teamblau.com
+
+User-agent: *
+
+Disallow: /refresh/
+Disallow: /sites/
+Disallow: /flash/
+Disallow: /functions/
+Disallow: /smarteditscripts/
+Disallow: /smartedit/documents/press/
+Disallow: /smartedit/images/press/
+Disallow: /smartedit/documents/mitglieder/
+Disallow: /smartedit/images/mitglieder/
+Disallow: /newsletters/
+
+sitemap: /getsitemapxml.asp
+

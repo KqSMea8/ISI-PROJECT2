@@ -1,0 +1,14 @@
+user-agent: AhrefsBot/4.0
+disallow: /
+user-agent: AhrefsBot
+disallow: /
+user-agent: sentibot
+disallow: /
+User-Agent: trendictionbot
+Disallow: /
+User-Agent: *
+Disallow: https://adserver.magazyn.pl
+Disallow: https://o.techmaniak.pl
+Disallow: https://ced.sascdn.com
+Disallow: https://disqusads.com
+Disallow: https://graph.instagram.com

@@ -1,0 +1,65 @@
+User-agent: ahrefs
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: Spinn3r
+Disallow: /
+
+User-agent: Yandex
+Allow: /BY
+Allow: /LV
+Allow: /UA
+Allow: /RU
+Allow: /photo.aspx
+Disallow: /
+
+User-agent: coccoc
+Disallow: /
+
+User-agent: exabot
+Disallow: /
+
+User-agent: ezooms
+Disallow: /
+
+User-agent: fatbot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: jikespider
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: sitebot
+Disallow: /
+
+User-agent: sosospider
+Disallow: /
+
+User-agent: voilabot
+Disallow: /
+
+User-agent: willybot
+Disallow: /
+
+User-agent: yodaobot
+Disallow: /
+
+User-agent: ZumBot
+Disallow: /
+
+User-agent: *
+Disallow: /area51/
+Sitemap: http://www.emergenza.net/sitemap.xml

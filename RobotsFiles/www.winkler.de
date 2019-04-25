@@ -1,0 +1,74 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Sitemap: https://www.winkler.de/index.php?id=1&type=841132&L=0
+
+# ===================================
+# Folgende Seiten sollen nicht indexiert werden:
+# ===================================
+
+Disallow: /.git/
+Disallow: .gitignore
+Disallow: /cgi-bin/
+Disallow: /temp/
+Disallow: /fileadmin/user_uploads/
+Disallow: /fileadmin/user_upload/familyday/
+Disallow: /cs/onlineshop/wartungsseite-onlineshop/
+Disallow: /familientag
+Disallow: /fileadmin/newsletter/2017/04_April/winkler_informiert_April_2017.htm&type=90002
+Disallow: /fileadmin/newsletter/2017/05_Mai/winkler_informiert_Mai2017.htm&type=90002
+Disallow: /fileadmin/newsletter/2017/06_Juni/winkler_informiert_Juni_2017.html&type=90002
+Disallow: /fileadmin/newsletter/2017/07_Juli/winkler_informiert_Juli2017.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/03_Maerz/winkler_informiert_Maerz2016.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/04_April/winkler_informiert_April_2016.htm&type=90002
+Disallow: /fileadmin/newsletter/2017/01_Januar/winkler_informiert_Januar_2017.htm&type=90002
+Disallow: /fileadmin/newsletter/2017/02_Februar/winkler_informiert_Februar_2017_2.htm&type=90002
+Disallow: /fileadmin/newsletter/2017/03_Maerz/winkler_informiert_Maerz2017.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/07_Juli/winkler_informiert_Juli_2016.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/05_Mai/winkler_informiert_Mai_2016.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/06_Juni/winkler_informiert_Juni_2016.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/08_August/winkler_informiert_August_2016.htm&type=90002
+Disallow: /fileadmin/newsletter/2016/09_September/winkler_informiert_September_2016.htm&type=90002
+Disallow: /fileadmin/user_upload/Produkte/Chmische_Produkte__Pflegemittel/Produkttest_Chemasol_Werkstatt_Aktuell_01_14_S16-17.pdf
+Disallow: /fileadmin/user_upload/Services/Anwenderbroschueren/winkler_Lueftspiel_Einstellung.pdf
+Disallow: /fileadmin/user_upload/Footernavigation/winkler_Verkaufsbedingungen_SK.pdf
+Disallow: /fileadmin/newsletter/2017/03_Maerz/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2017/05_Mai/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2017/01_Januar/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2016/09_September/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2017/Q2_PL_CZ/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2016/07_Juli/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2017/SNL_Agrarkatalog/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2016/Sondernewsletter_Katalog_WUB_III/&redirect_ok_any=redirect&unsub=true
+Disallow: /fileadmin/newsletter/2016/Sondernewsletter_Katalog_WUB_III/info1@winkler-marketing.com
+Disallow: /fileadmin/newsletter/2017/SNL_landwirtschaftliche_Anhaenger/info1@winkler-marketing.com
+Disallow: /%sitemap%
+Disallow: /fileadmin/onlinekat/customers//katalog_001/de_DE/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/begleitaktion_trailerteile_2015/de_DE/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/fahrerhaus_motor_antrieb_2010/fr_FR/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/hydraulik_top_produkte_2015/de_DE/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/hydraulikkomponenten_2015/de_DE/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/hydraulikkomponenten_2015/de_DE/pdf/0176.pdf
+Disallow: /fileadmin/onlinekat/customers/winkler/hydraulikkomponenten_2015/de_DE/pdf/0177.pdf
+Disallow: /fileadmin/onlinekat/customers/winkler/psp_1_2016/de_DE/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/universalteileflyer_1_2016/de_DE/js/customlib.js
+Disallow: /fileadmin/onlinekat/customers/winkler/zsp_bus_1_2016/de_DE/js/customlib.js
+
+# ===================================
+# Schliesse folgende Spider komplett aus:
+# ===================================
+
+User-agent: WebReaper
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: EmailCollector
+User-agent: penthesilea
+User-agent: WI Job Roboter Spider
+

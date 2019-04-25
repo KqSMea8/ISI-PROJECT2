@@ -1,0 +1,60 @@
+User-agent: JavaBot
+Disallow: /
+
+User-agent: ^Java
+Disallow: /
+
+User-agent: ^Jakarta
+Disallow: /
+
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent:  sogou spider
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: SoGou web spider
+Disallow: /
+
+User-agent: SoGou
+Disallow: /
+
+User-agent: Baidu
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Java
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-Agent: trendictionbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Google
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: http://www.katalogstron-seo.com.pl/sitemap.xml
+

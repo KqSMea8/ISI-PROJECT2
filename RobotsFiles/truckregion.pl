@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /advertising.php
+Disallow: /ru/advertising.php
+Disallow: /en/advertising.php
+Disallow: /catalog_add.php
+Disallow: /ru/catalog_add.php
+Disallow: /en/catalog_add.php
+Disallow: /stat.php
+Disallow: /u.php
+Disallow: /ru/stat.php
+Disallow: /ru/u.php
+Disallow: /en/stat.php
+Disallow: /en/u.php

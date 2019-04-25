@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /en/references/
+Disallow: /_biblioteki_/
+Disallow: /_class_/
+Disallow: /_include_/
+Disallow: /_lokalizacja_/
+Disallow: /_temp_/
+Disallow: /_ustawienia_/
+Disallow: /administrator/
+Disallow: /tmp/
+Disallow: /*print
+Allow: /

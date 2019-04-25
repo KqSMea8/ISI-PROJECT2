@@ -1,0 +1,23 @@
+User-agent: *
+Crawl-Delay: 20
+Disallow: /admin/
+Disallow: /system/
+Disallow: /vqmod/
+Disallow: /uokik/
+Disallow: /*?sort
+Disallow: /*&sort
+Disallow: /*?limit
+Disallow: /*&limit
+Disallow: /*?route=checkout
+Disallow: /*?route=account
+Disallow: /*?route=product/search
+Disallow: /*?route=account/register
+Disallow: /*?route=account/login
+Disallow: /*?route=product/compare
+Disallow: /*?route=checkout/cart
+Disallow: /*?route=information/information&information_id=3
+Disallow: /*&keyword
+Disallow: /*?page=1
+Disallow: /*manufacturer_id=
+Allow: /
+

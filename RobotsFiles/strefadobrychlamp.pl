@@ -1,0 +1,31 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+Sitemap: https://strefadobrychlamp.pl/console/integration/execute/name/GoogleSitemap
+
+User-agent: *
+Allow: /environment/cache/images
+Allow:  /skins/user/rwd_shoper_2/cache/sfc/*.js
+Allow:  /skins/user/rwd_shoper_2/cache/sfc/*.css
+Allow:  /skins/user/rwd_shoper_5/cache/sfc/*.js
+Allow:  /skins/user/rwd_shoper_5/cache/sfc/*.css
+Allow:  /skins/user/rwd_shoper_6/cache/sfc/*.js
+Allow:  /skins/user/rwd_shoper_6/cache/sfc/*.css
+Allow: /public/assets/strefa-dobrych-lamp/
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+Disallow: /*/fav/add
+Disallow: /*/p/comment/add
+Disallow: /*/p/mail/recommend
+Disallow: /*/p/q
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/panel
+Disallow: /*/basket
+Disallow: /*/searchquery
+Disallow: /*/s
+Disallow: /*/passremind
+Disallow: /*/index/*
+Disallow: /*/n/tag/*

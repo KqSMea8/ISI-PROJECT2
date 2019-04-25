@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /asysta-vip.php
+Disallow: /investprotect.php
+Disallow: /audyt-bezpieczenstwa.php
+Disallow: /wiarygodnosc-kontrahenta-pracownika.php
+Disallow: /nieuczciwa-konkurencja.php
+Disallow: /ochrona-marki.php
+Disallow: /negocjacje-biznesowe.php
+Disallow: /windykacja-naleznosci.php
+Allow: /wp-admin/js/
+Allow: /wp-admin/css/
+Allow: /wp-includes/css/
+Allow: /wp-includes/js/

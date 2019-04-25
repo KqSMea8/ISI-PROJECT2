@@ -1,0 +1,51 @@
+User-agent: *
+Disallow: /cs_CZ/cart.html
+Disallow: /cs_CZ/edit-profile.html
+Disallow: /cs_CZ/register.html
+Disallow: /cs_CZ/addresses.html
+Disallow: /cs_CZ/checkout-start.html
+Disallow: /cs_CZ/Order-History.html
+Disallow: /cs_CZ/Search-Show.html
+Disallow: /cs_CZ/Wishlist-Show.html
+Disallow: /cs_CZ/SiteMap-Start.html
+Disallow: /cs_CZ/CustomerService-ContactUsForm.html
+Disallow: /cs_CZ/zakaznicky-servis/zakaznicky-servis/
+
+Disallow: */NYXProduct-**
+Disallow: */Cart-**
+Disallow: */GeoIP-**
+Disallow: */Stories-**
+Disallow: */CoSingleCheckout-**
+Disallow: */COSamples-**
+Disallow: */Newsletter-CheckSubscription
+Disallow: */CustomGift-**
+Disallow: */Product-**
+Disallow: */LiveChat-**
+Disallow: */AutoReplenishment-**
+Disallow: */PeopleLikeMe-**
+Disallow: */Page-Show
+Disallow: */Paymetric-**
+Disallow: */Paypal-**
+Disallow: */VideoPlayer-**
+Disallow: */MySkincareProfile-**
+Disallow: */COBilling-**
+Disallow: */AddToCartNotification-**
+Disallow: */COUtils-**
+Disallow: */COShipping-**
+
+Disallow: /pl_PL/cart.html
+Disallow: /pl_PL/edit-profile.html
+Disallow: /pl_PL/register.html
+Disallow: /pl_PL/addresses.html
+Disallow: /pl_PL/checkout-start.html
+Disallow: /pl_PL/Order-History.html
+Disallow: /pl_PL/Search-Show.html
+Disallow: /pl_PL/Wishlist-Show.html
+Disallow: /pl_PL/SiteMap-Start.html
+Disallow: /pl_PL/CustomerService-ContactUsForm.html
+Disallow: /pl_PL/obsluga-klienta/obsluga-klienta/
+
+Disallow: *//production-emea-loreal.demandware.net*
+
+Sitemap: https://www.nyxcosmetics.cz/cs_CZ/sitemap1_cs_CZ.xml
+Sitemap: https://www.nyxprofessionalmakeup.pl/pl_PL/sitemap2_pl_PL.xml

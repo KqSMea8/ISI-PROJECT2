@@ -1,0 +1,4 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Sitemap: http://www.drukarniapapillon.pl/sitemap.xml
+

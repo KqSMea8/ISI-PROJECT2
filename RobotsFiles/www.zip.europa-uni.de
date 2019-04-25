@@ -1,0 +1,4 @@
+User-agent: *
+https://www.zip.europa-uni.de/sitemap.xml
+Disallow: /resources/
+Disallow: /errors/

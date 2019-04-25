@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /licznik/
+Disallow: /wazne/
+Disallow: /menu/
+Disallow: /formularz/
+Disallow: /_a_in1.php
+Disallow: /_a_in2.php
+Disallow: /_a_in3.php
+Disallow: /js.js
+Disallow: /sb.js
+Disallow: /reklama.php
+Disallow: /reklama1.php
+Disallow: /reklama2.php
+Disallow: /instal_aktualizacja.php

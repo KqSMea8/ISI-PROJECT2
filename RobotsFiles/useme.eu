@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /bg/
+Disallow: /cs/
+Disallow: /de/
+Disallow: /es/
+Disallow: /fr/
+Disallow: /hu/
+Disallow: /it/
+Disallow: /lt/
+Disallow: /lv/
+Disallow: /ro/
+Disallow: /ru/
+Disallow: /sk/
+Disallow: /en/users/enter/
+Disallow: /pl/users/enter/
+Disallow: /en/users/login/
+Disallow: /pl/users/login/
+Disallow: /en/abuse/
+Disallow: /pl/abuse/
+Disallow: /pl/mesg/inquiry/
+Disallow: /en/mesg/inquiry/
+Crawl-delay: 30
+Sitemap: /sitemap/index.xml
+

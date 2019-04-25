@@ -1,0 +1,17 @@
+# Don't let Swiftbot index the pages under /archives/
+User-agent: Swiftbot
+Disallow: /cgi-bin/forum/*
+Disallow: /cgi-bin/community/*
+
+User-agent: *
+Disallow: /admin/
+Disallow: /album/
+Disallow: /data/
+Disallow: /files/
+Disallow: /graphics/
+Disallow: /temp/
+Disallow: /classifieds_stage/
+Disallow: /*?*username=*
+Disallow: /*?*guest=*
+Disallow: /cgi-bin/forum/gforum.cgi?forum=23;*
+

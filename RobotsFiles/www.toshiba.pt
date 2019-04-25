@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /maintenance.html
+Disallow: /nocookies.html
+Disallow: /not_found.html
+Disallow: /download/
+Disallow: /*.js$
+Disallow: /innovation/generic/TERMS_OF_USE
+Disallow: /innovation/generic/PRIVACY_POLICY
+Disallow: /innovation/download_manuals.jsp?service=PT
+Disallow: /innovation/download_bios.jsp?service=PT
+Disallow: /innovation/generic/MS_SERVICE_PACK_SUPPORT
+Disallow: /innovation/generic/STOLEN_UNITS_SUPPORT
+Disallow: /innovation/download_whitepaper.jsp?service=PT&WHITEPAPER_ID=PT_00000012c1
+Disallow: /innovation/download
+

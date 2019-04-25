@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /pl/projekt-przyszlej-siedziby1.html
+Disallow: /pl/projekt-przyszlej-siedziby.html

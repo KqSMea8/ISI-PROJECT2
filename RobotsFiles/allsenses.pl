@@ -1,0 +1,1 @@
+User-agent: *Sitemap: https://allsenses.pl/sitemap.xmlAllow: /Disallow: /admin*Disallow: /public/Allow: /public/templates/allsenses/Allow: /scripts/Allow: /files/Allow: /images/Allow: /style/Allow: /thumbs/Allow: /pimages/

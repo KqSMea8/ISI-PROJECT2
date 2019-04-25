@@ -1,0 +1,12 @@
+Sitemap: https://www.trumpam.lt/sitemap.xml
+User-agent: *
+Disallow: /smarty/
+Disallow: /templates/
+Disallow: /Projektas/
+Disallow: /modules/
+Disallow: /lightbox/
+Disallow: /admin/
+Disallow: /forum/
+Disallow: /cron/
+Allow: /
+

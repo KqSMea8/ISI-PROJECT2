@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Disallow: /zdjecia/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+User-agent: Fasterfox
+Disallow: /

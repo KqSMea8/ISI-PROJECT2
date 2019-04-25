@@ -1,0 +1,33 @@
+User-Agent: *
+Disallow: /App_code/
+Disallow: /asp/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /cfg/
+Disallow: /CustomizedControls/
+Disallow: /ff/
+Disallow: /init/
+Disallow: /pki/
+Disallow: /listenzeichen/
+Disallow: /replication/
+Disallow: /scripts/
+Disallow: /tabdef/
+Disallow: /test/
+Disallow: /webctrl_client/
+Disallow: /weidmueller/
+Disallow: /.well-known/
+Disallow: /ws_addmin/
+Disallow: /ws_cmerger/
+Disallow: /ws_dmscomponent/
+Disallow: /ws_EcondaTracking/
+Disallow: /ws_rss/
+Disallow: /ws_search/
+Disallow: /ws_TextToImage/
+Disallow: /ws_whatsnew/
+Crawl-delay: 20
+
+User-agent: turnitinbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /

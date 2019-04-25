@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /blocks
+Disallow: /concrete
+Disallow: /config
+Disallow: /controllers
+Disallow: /css
+Disallow: /elements
+Disallow: /helpers
+Disallow: /jobs
+Disallow: /js
+Disallow: /languages
+Disallow: /libraries
+Disallow: /mail
+Disallow: /models
+Disallow: /packages
+Disallow: /single_pages
+Disallow: /themes
+Disallow: /tools
+Disallow: /updates
+Sitemap: http://dszymczuk.pl/sitemap.xml
+

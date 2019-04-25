@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /dealer-feed/
+Disallow: /forms/
+Disallow: /ar/forms/
+Disallow: /de/forms/
+Disallow: /en/forms/
+Disallow: /fr/forms/
+Disallow: /it/forms/
+Disallow: /nl/forms/
+Disallow: /images/

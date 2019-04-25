@@ -1,0 +1,7 @@
+Host: www.piening-montage.de
+Sitemap: https://www.piening-montage.de/de/sitemap.xml
+
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3conf/
+

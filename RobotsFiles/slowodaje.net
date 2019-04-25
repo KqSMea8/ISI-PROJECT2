@@ -1,0 +1,6 @@
+Sitemap: http://slowodaje.net/sitemap.xml
+Sitemap: http://slowodaje.net/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

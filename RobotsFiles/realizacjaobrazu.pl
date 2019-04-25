@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /base-func.php
+Disallow: /config.php
+Disallow: /db-func.php
+Disallow: /operations.php
+Disallow: /index-func.php
+Disallow: /files_func.php
+Disallow: /topic_func.php
+Disallow: /topic.php
+Disallow: /lang.php
+Disallow: /panel.php
+Disallow: /panel-func.php
+Disallow: /mail.php

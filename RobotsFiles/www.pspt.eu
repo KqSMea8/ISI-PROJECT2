@@ -1,0 +1,3 @@
+User-agent: *
+disallow: /includowane/
+disallow: /panel_zarz/

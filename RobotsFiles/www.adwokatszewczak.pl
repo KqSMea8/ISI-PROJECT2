@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /data/
+Disallow: /editor_images/
+Disallow: /inc/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /tiny_mce/
+Disallow: /web_documents/
+Disallow: /web_flash/
+Disallow: /web_images/
+Disallow: /web_media/
+Disallow: /website/

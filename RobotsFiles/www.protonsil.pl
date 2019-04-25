@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /blackhole/
+Disallow: /mint/
+Disallow: /feed/
+Allow: /tag/mint/
+Allow: /tag/feed/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://www.protonsil.pl/sitemap_index.xml

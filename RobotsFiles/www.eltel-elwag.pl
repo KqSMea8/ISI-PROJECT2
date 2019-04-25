@@ -1,0 +1,9 @@
+User-agent: *
+Allow: *
+Disallow: */team/*
+Disallow: */testimonial/*
+Disallow: */vestibulum-ante-ipsum/*
+Disallow: */tag/*
+Disallow: */portfolio/*
+Disallow: *vestibulum*
+Disallow: */mobile/*

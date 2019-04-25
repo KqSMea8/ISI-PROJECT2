@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /cms/
+Disallow: /new/
+Disallow: /new
+Disallow: /cd/
+Disallow: /framework/
+Disallow: /languages/
+Disallow: /modules/
+Disallow: /temp/
+Disallow: /index2.php

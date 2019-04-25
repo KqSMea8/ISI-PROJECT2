@@ -1,0 +1,51 @@
+User-agent: msnbot
+Disallow: /scripts/kontakt/mail.aspx
+
+User-agent: googlebot
+Disallow: /scripts/kontakt/mail.aspx
+
+User-agent: Slurp
+Disallow: /scripts/kontakt/mail.aspx
+
+User-agent: 008
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: XoviBot
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: *
+Disallow: /scripts/HtmlToPdf.aspx
+
+User-agent: *
+Disallow: /pdf
+
+User-agent: *
+Disallow: /includes/webservice
+
+User-agent: *
+Disallow:
+
+
+Sitemap: https://www.zimmermann-rostock.de/sitemap.xml
+

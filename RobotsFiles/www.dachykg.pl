@@ -1,0 +1,4 @@
+Sitemap: http://dachykg.pl/sitemap.xml
+
+User-agent: *
+Crawl-Delay: 300

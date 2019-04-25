@@ -1,0 +1,15 @@
+#User-agent: Mediapartners-Google
+#Disallow:
+
+User-agent: *
+
+
+Disallow: /Smarty
+Disallow: /admin
+Disallow: /bbclone
+Disallow: /docs
+Disallow: /email_template
+Disallow: /include
+Disallow: /js
+Disallow: /templates
+Disallow: /Gry_do-pobrania

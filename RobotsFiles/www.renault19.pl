@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /administration/
+Disallow: /andi/
+Disallow: /ola/
+Disallow: /krzychup/
+Disallow: /locale/
+Disallow: /themes/
+Disallow: /print.php
+Disallow: /duxp/

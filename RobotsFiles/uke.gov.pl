@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /gfx/*.jpg$
+Allow: /gfx/*.gif$
+Allow: /gfx/*.png$
+Allow: /gfx/*.jpeg$
+Sitemap: http://uke.gov.pl/sitemap.xml
+Allow: /szablony/uke/
+Allow: /gfx/uke/_thumbs/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/*.css
+User-agent: Fasterfox
+Disallow: /

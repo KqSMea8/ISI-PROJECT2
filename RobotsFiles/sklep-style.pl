@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*pdf
+Disallow: /*currency
+Disallow: /*language
+Disallow: /*cPath
+Disallow: /*show
+Disallow: /*sort
+Disallow: /*page
+Disallow: /*filter

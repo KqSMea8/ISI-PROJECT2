@@ -1,0 +1,20 @@
+User-agent: MJ12bot
+Disallow: /
+user-agent: AhrefsBot
+disallow: /
+user-agent: spbot
+disallow: /
+user-agent: AhrefsBot
+Disallow: /
+User-agent: moget
+Disallow: /
+User-agent: ichiro
+Disallow: /
+User-agent: NaverBot
+Disallow: /
+User-agent: Yeti
+Disallow: /
+User-agent: sogou spider
+Disallow: /
+User-agent: YoudaoBot
+Disallow: /

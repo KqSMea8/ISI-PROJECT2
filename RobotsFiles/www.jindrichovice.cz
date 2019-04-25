@@ -1,0 +1,9 @@
+# robots.txt zu http://www.jindrichovice.cz/
+
+User-agent: *
+Disallow: /_phpmyadmin/
+Disallow: /admin/
+
+Sitemap: http://www.jindrichovice.cz/sitemap.xml
+
+

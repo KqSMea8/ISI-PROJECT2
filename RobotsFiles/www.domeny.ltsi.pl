@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /reklama.php
+Disallow: /reklama2.php
+Disallow: /dokonca.php
+Disallow: /narzedzia/
+Disallow: /reklama/
+Disallow: /pusta.php
+Disallow: /gora.php
+Disallow: /gora0.php
+Disallow: /linki.php
+Disallow: /ceny.php

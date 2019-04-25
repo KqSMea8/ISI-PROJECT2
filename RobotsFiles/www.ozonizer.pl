@@ -1,0 +1,29 @@
+Sitemap: http://www.ozonizer.pl/sitemap.xml
+User-agent: *
+Disallow: /*?
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Allow: /cache/mod_bt_contentslider/
+Disallow: /cli/
+Disallow: /components/
+Allow: /components/com_k2/images/
+Allow: /components/com_jshopping/images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Allow: /modules/mod_bt_simple_slideshow/images/
+Allow: /modules/mod_bt_googlemaps/tmpl/images/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /etykiety/*
+Disallow: /en/tags/*
+Disallow: */autor/*
+Disallow: */author/*
+Disallow: /component/k2/itemlist/user/
+
+

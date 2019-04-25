@@ -1,0 +1,27 @@
+Sitemap: http://sklep.profarm.com.pl/sitemap.xml
+User-agent: *
+Disallow: /user
+Disallow: /basket
+Disallow: */basket/add/*
+Disallow: /search
+Disallow: /recommend_shop
+Disallow: /newsletter
+Disallow: /currency
+Disallow: /productsCompare
+Disallow: /product_options
+Disallow: /stNavigationFrontend
+Disallow: /producer
+Disallow: /navigation
+Disallow: /invoice
+Disallow: /backend.php
+Disallow: /backend.php/
+Disallow: /order
+Disallow: /invoicePdf/*
+Disallow: /orderPdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /webpage/polityka-prywatnosci.html
+Disallow: /*.php$
+Disallow: /*.php$
+Disallow: /paypal
+

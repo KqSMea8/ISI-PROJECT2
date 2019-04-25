@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /blog/
+Disallow: /bsd/
+Disallow: /cf/
+Disallow: /codziennik/
+Disallow: /crowboy/
+Disallow: /faceabook/
+Disallow: /flash/
+Disallow: /lalla/
+Disallow: /lot/
+Disallow: /mandriell/
+Disallow: /mik/
+Disallow: /other/
+Disallow: /planszowy/
+Disallow: /pliki/
+Disallow: /tygodnik/
+Disallow: /v4vinyl/

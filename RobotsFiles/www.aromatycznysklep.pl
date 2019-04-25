@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /logs/
+Disallow: /plugins/
+Disallow: /tmp/
+Sitemap: http://www.aromatycznysklep.pl/sitemap_img.xml

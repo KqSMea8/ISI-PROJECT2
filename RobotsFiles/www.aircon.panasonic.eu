@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_____/*
+Disallow: /*/compare/
+Disallow: /*/specs/
+Disallow: /search/
+Disallow: /*/pdf/
+Disallow: /*/search/
+Disallow: /*SE_sv/cases/case/
+Disallow: /*NO_no/cases/case/
+Disallow: /*DK_da/cases/case/

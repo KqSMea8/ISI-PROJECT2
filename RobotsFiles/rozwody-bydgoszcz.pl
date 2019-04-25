@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /logs/
+Disallow: /tmp/
+Allow: /
+Sitemap: http://rozwody-bydgoszcz.pl/sitemap.xml

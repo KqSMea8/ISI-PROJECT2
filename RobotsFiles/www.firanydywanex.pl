@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /allegro/
+Disallow: /localization/
+Disallow: /tmp/
+Disallow: /tools/
+Disallow: /*token
+Disallow: /module/blockwishlist/mywishlis
+Allow: /

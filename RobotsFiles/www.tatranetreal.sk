@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /banners/
+Disallow: /docs/
+Disallow: /gallery/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /languages/
+Disallow: /photos/
+Disallow: /templates/
+Disallow: /test/
+
+Disallow: /Realtor/
+Disallow: /Listing/
+Disallow: /Mail/
+Disallow: /Type/
+Disallow: /Friend/
+Disallow: /Gallery/
+
+Disallow: /login.php
+Disallow: /test.php
+Disallow: /lvfiles/
+Disallow: /test/
+Disallow: /realty/
+Disallow: /prints/
+Disallow: /inzercia/
+Disallow: /inzercia2/
+Disallow: /form/
+Disallow: /partners/
+Disallow: /export/
+Disallow: /export_ru/
+
+Disallow: /spotrebitel/
+

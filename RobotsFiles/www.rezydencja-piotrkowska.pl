@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /images/
+Disallow: /highslide/
+Disallow: /filmy/
+Disallow: /files/
+Disallow: /css/
+Disallow: /_old/
+Disallow: /_podmiana/
+Sitemap: http://www.rezydencja-piotrkowska.pl/sitemap.xml

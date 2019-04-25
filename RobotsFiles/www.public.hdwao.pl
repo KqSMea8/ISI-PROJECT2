@@ -1,0 +1,23 @@
+# nie ma tu nic ciekawego
+User-agent: *
+Disallow: /admin/
+Disallow: /banery/
+Disallow: /cgi-bin/
+Disallow: /download/
+Disallow: /errors/
+Disallow: /fadmin/
+Disallow: /forum/
+Disallow: /htmlarea/
+Disallow: /images/
+Disallow: /jscripts/
+Disallow: /logs/
+Disallow: /module/
+Disallow: /online/
+Disallow: /online_f/
+Disallow: /online_g/
+Disallow: /partnerzy/
+Disallow: /phpmailer/
+Disallow: /seo/
+Disallow: /theme/
+Disallow: /tmp/
+Disallow: /uploads/

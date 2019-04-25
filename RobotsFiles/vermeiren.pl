@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /sec_VBNL_home.xsp
+Disallow: /sec_VBNL_orderstatus.xsp
+Disallow: /sec_VBNL_openinvoices.xsp
+Disallow: /sec_VBNL_contacts.xsp
+Disallow: /sec_VBNL_change_pwd.xsp
+Disallow: /sec_VBNL_koppeling.xsp
+Disallow: /sec_VBNL_order.xsp
+Disallow: /sec_VBNL_order_old.xsp
+Disallow: /sec_VBNL_order_shop.xsp
+Disallow: /sec_VBNL_order_test.xsp
+Disallow: /sec_VBNL_prev_orders.xsp
+Disallow: /secured_login.xsp
+Disallow: /test_checkbox.xsp
+Disallow: /test_checkbox_old.xsp
+Disallow: /test_secured.xsp
+Disallow: /test_secured_login1.xsp
+Disallow: /sec_cart_test.xsp
+Disallow: /sec_cart_VB_intern.xsp
+Disallow: /sec_cartVB.xsp
+Disallow: /sec_cartVB_new.xsp
+Disallow: /sec_lost_pwd.xsp
+Disallow: /sec_lost_pwd1.xsp
+Disallow: /sec_VB_contacts.xsp
+Disallow: /sec_VBNL_change_pwd.xsp
+

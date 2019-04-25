@@ -1,0 +1,14 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /assets
+
+User-agent: *
+Disallow: /about/datenschutz.html
+Disallow: /datenschutz.html
+Disallow: /about/datenschutz-ext.html
+Disallow: /datenschutz-ext.html
+Disallow: /about/datenschutzerklaerung.html
+Disallow: /datenschutzerklaerung.html
+

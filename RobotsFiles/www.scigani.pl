@@ -1,0 +1,11 @@
+# robots.txt
+
+User-agent: *
+Disallow: /go
+Disallow: /css
+Disallow: /_includes
+Disallow: /js
+Disallow: /img
+Disallow: /_includes/smarty
+Disallow: /_templates
+Disallow: /_templates/_cache

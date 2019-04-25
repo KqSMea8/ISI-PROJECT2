@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/
+Allow: /wp-content/plugins/
+Disallow: /wp-includes/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Disallow: */feed/
+Sitemap: https://www.tiger-stal.pl/sitemap_index.xml

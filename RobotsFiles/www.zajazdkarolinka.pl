@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-
+Disallow: /search
+Disallow: /feed
+Disallow: /comments/feed
+Disallow: /feed/$
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/$
+Disallow: /*/trackback/$
+Disallow: /*/*/feed/$
+Disallow: /*/*/feed/rss/$
+Disallow: /*/*/trackback/$
+Disallow: /*/*/*/feed/$
+Disallow: /*/*/*/feed/rss/$
+Disallow: /*/*/*/trackback/$
+

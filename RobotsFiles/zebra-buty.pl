@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /application/
+Disallow: /data/
+Disallow: /less/
+Disallow: /library/
+Disallow: /php/
+Disallow: /tmp/
+Disallow: /var/
+Disallow: /vendor/
+Disallow: /view/
+Disallow: /xml/
+Sitemap: https://zebra-buty.pl/sitemap.xml

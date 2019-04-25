@@ -1,0 +1,11 @@
+# Refuse all robots from these directories:
+User-agent: *
+Sitemap: https://www.taunussparkasse.de/sitemap.xml
+
+
+
+
+
+
+
+

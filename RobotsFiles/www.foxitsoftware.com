@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /debug/
+Disallow: /company/press.php?action=*
+Disallow: /cp/
+Disallow: /kr/*?
+Disallow: /test-page/
+Disallow: /*company/privacy-policy
+Disallow: /*support/refund-policy
+Disallow: /company/news.php
+Disallow: /blog/wp-admin/
+Disallow: /blog/wp-login.php
+Disallow: /blog/?p=*
+Disallow: /tjhd/
+Disallow: /campaign/

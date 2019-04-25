@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /advanced_search_result.php
+Disallow: /checkout_confirmation.php
+Disallow: /checkout_payment.php
+Disallow: /checkout_process.php
+Disallow: /checkout_shipping.php
+Disallow: /checkout_success.php
+Disallow: /contact.php
+Disallow: /shopping_cart.php
+Disallow: /product_export_file.php
+Disallow: /conditions.php
+Disallow: /registerWholesale.php
+Disallow: /wheretobuy.php
+Disallow: /paginator.agent.php

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /iCore/
+Disallow: /Core/
+Disallow: /AsiCommon/
+Disallow: /iMIS/
+Disallow: /FastForms/
+Disallow: /Docs/
+Disallow: /ContentAreas/
+Disallow: /Admin/
+Disallow: /Staff/
+Disallow: /sbox/
+
+Sitemap: https://www.amstat.org/sitemap.aspx

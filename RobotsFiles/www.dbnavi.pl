@@ -1,0 +1,12 @@
+User-agent: gsacrawlerbm2
+Allow: /
+User-agent: gsacrawlerbm1
+Allow: /
+User-agent: gsacrawlerbm3
+Allow: /
+User-agent: *
+Notranslate: /
+Disallow: /csr/eximeeform/
+Disallow: /ms/dotacja-dla-twojej-firmy/*
+Disallow: /ms/dotacja-dla-twojej-firmy/dotacja-dla-twojej-firmy.html
+Disallow: /informacje-o-banku/biuro-prasowe/archiwum/archiwum-xml.html

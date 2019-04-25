@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /*suchergebnis*
+Disallow: /*.lbnav.html
+Disallow: /*.mnav.html
+Disallow: /*.magnify.html
+Disallow: /*.archiv.html
+Disallow: /*.export.html
+Disallow: /*.rss
+Disallow: /*.ics
+Disallow: /*?print=1
+Disallow: /*.rec.html
+Disallow: /*reiter_*.html
+Disallow: /VKNA
+Disallow: /banking-private/
+Disallow: /banking-business/
+Disallow: /banking-privathilfe/
+Disallow: /banking-privatdemo/
+Disallow: /banking-businessdemo/
+Disallow: /banking-businesshilfe/
+Disallow: /banking-ie/
+
+#URL der sitemap.xml
+Sitemap: https://www.vrb-niederschlesien.de/sitemap.xml
+

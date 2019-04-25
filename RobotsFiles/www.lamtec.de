@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ftp/
+Sitemap: https://www.lamtec.de/index.php?id=2&type=10001
+Sitemap: https://www.lamtec.de/index.php?id=2&L=1&type=10001
+Sitemap: https://www.lamtec.de/index.php?id=2&L=2&type=10001
+Sitemap: https://www.lamtec.de/index.php?id=2&L=3&type=10001

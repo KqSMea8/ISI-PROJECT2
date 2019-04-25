@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /koszyk
+Disallow: /logowanie
+Disallow: /resetowanie-hasla
+Disallow: /szukaj/
+Disallow: /ulubione
+Disallow: /mirror
+Disallow: /add_to_favorite/
+Sitemap: https://www.viewgo.pl/site_map.xml

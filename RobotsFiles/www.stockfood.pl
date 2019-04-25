@@ -1,0 +1,13 @@
+User-agent: *
+Sitemap: https://www.stockfood.pl/sitemaps/LandingPages.xml
+Sitemap: https://www.stockfood.pl/sitemaps/PreviewPages.xml
+Sitemap: https://www.stockfood.pl/sitemaps/CustomPages.xml
+Sitemap: https://www.stockfood.pl/sitemaps/ImageSearchPages.xml
+Sitemap: https://www.stockfood.pl/sitemaps/FeatureSearchPages.xml
+Disallow: /Administration/
+Disallow: /search/get-facets
+Disallow: /search/get-counters
+Disallow: /search/query
+Disallow: /AssetSearch/
+Disallow: /Backend/
+Disallow: /login/

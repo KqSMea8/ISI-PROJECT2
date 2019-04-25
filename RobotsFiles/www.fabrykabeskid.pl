@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*moje-konto*
+Disallow: /*regulamin*
+Disallow: /*page*
+Disallow: /*platnosci*
+Disallow: /*?s=*
+Disallow: /*?orderby=*
+Disallow: /*cart*
+Disallow: /*checkout*
+Disallow: /*polityka-cookies*
+Disallow: /*dostawa-i-zwroty*

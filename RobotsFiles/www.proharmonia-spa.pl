@@ -1,0 +1,70 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://www.proharmonia-spa.pl/site-sitemap.xml
+
+disallow: /preisliste
+disallow: /behandlungen__spa
+disallow: /pokoj-szeherezady
+disallow: /hochzeitsfeier
+disallow: /massages
+disallow: /relaks_i_harmonia/ceny-pobytu-wellinclusive
+disallow: /pl/galeria
+disallow: /fur_sie_und_fur_ihn
+disallow: /kosmetyka-twarzy
+disallow: /gong-i-misy
+disallow: /dlugi_weekend_listopadowy
+disallow: /jesienny_hit
+disallow: /sentiment_zur_geschichte
+disallow: /yoga_kundalini_i_akupunktura/ceny-pobytu-wellinclusive
+disallow: /sylwester_no_stress_bez_balu
+disallow: /harmonia-dla-nowozencow
+disallow: /swieta_bozego_narodzenia/Cennik-pokoje ze sniadaniem w ProHarmonii
+disallow: /hotel-spa
+disallow: /yoga_kundalini_i_akupunktura
+disallow: /swieta_bozego_narodzenia
+disallow: /en/photo_gallery
+disallow: /bder
+disallow: /pl/wellness-&-spa
+disallow: /facial_care
+disallow: /swietojanki_weekend_w_proharmonii
+disallow: /dlugi_sierpniowy_weekend
+disallow: /sylwester_no_stress_bez_balu/konferencje
+disallow: /sylwester_bez_balu
+disallow: /sylwester_no_stress_bez_balu/Cennik-pokoje ze sniadaniem w ProHarmonii
+disallow: /gong_und_tibetschalen
+disallow: /apartament-dorchester
+disallow: /wakacyjne_odprezenie
+disallow: /stay-packages/pid/wellinclusive_en
+disallow: /?m=off
+disallow: /jesienny_hit__
+disallow: /baby-wellness-3-dni
+disallow: /winny_weekend_
+disallow: /wellness-de
+disallow: /tutti-frutti
+disallow: /ferie_w_gorach
+disallow: /pokoj-jednoosobowy-plus
+disallow: /for_her_and_for_him
+disallow: /pauschalangebote/pid/photo_gallery
+disallow: /the_gong_and_tibetan_bowls
+disallow: /relaks_i_harmonia
+disallow: /sylwestrowe-7-swiatow-1
+disallow: /vital_corpo
+disallow: /bath_rituals
+disallow: /listopadowy_swiety_spokoj
+disallow: /bodyline_harmony
+disallow: /dobry-sen
+disallow: /wellness-en
+disallow: /pokoje-dwuosobowe
+disallow: /sylwestrowe-7-swiatow-56-dni
+disallow: /harmonische_taille
+disallow: /5-zywiolow
+disallow: /dobry_sen
+disallow: /boze-narodzenie-jak-z-bajki
+disallow: /wielkanoc_w_proharmonii/Cennik-pokoje ze sniadaniem w ProHarmonii
+disallow: /romantyczny-weekend
+disallow: /luksusowy-hotel-w-gorach
+disallow: /hotel-kotlina-klodzka
+disallow: /hotel-gory
+disallow: /rocznica-slubu
+disallow: /de

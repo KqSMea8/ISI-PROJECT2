@@ -1,0 +1,37 @@
+Sitemap: http://www.asacp.org/sitemap.xml
+
+User-agent: *
+
+Disallow: /new/
+Disallow: /logs/
+Disallow: /timer/
+Disallow: /graphics/
+Disallow: /images/
+Disallow: /images3/
+Disallow: /mirror/
+Disallow: /stats/
+Disallow: /ai/
+Disallow: /approved/
+Disallow: /buncobash/
+Disallow: /cgi-bin/
+Disallow: /christmas/
+Disallow: /common/
+Disallow: /content/
+Disallow: /css/
+Disallow: /doc/
+Disallow: /donate/
+Disallow: /gayvn/
+Disallow: /memberforum/
+Disallow: /new_site/
+Disallow: /newsletter/
+Disallow: /powerpoint/
+Disallow: /RCS/
+Disallow: /screenshots-2010/
+Disallow: /suspended.page/
+Disallow: /temp/
+Disallow: /update/
+Disallow: /video/
+Disallow: /v1/
+Disallow: /azr94v2hh2lgbbkk/
+
+

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /pix
+Disallow: /en/pix
+Disallow: /fr/pix
+Disallow: /pl/pix
+Disallow: /ru/pix
+
+

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+sitemap: http://www.metrostav.cz/sitemap.xml
+

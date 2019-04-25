@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /cache/
+Disallow: /css/
+Disallow: /img/
+Disallow: /phpunit/
+Disallow: /static/
+Disallow: /templates_c/
+Disallow: /maintenance.html
+Disallow: /ws-log.php
+Disallow: /favicon.png
+Disallow: /favicon.ico
+
+Sitemap: https://tomil.cz/sitemap.xml

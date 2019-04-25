@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /Kooperace/
+
+User-agent: AhrefsBot
+Crawl-Delay: 1
+
+Sitemap: https://www.edb.eu/Sitemap-edb-eu.xml

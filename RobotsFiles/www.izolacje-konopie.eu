@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-image
+Disallow:
+
+Sitemap: http://www.izolacje-konopie.eu/sitemap_pl.xml

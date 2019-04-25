@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.adventis.ca/blog/feed/
+Sitemap: https://www.adventis.ca/jobs/feed/

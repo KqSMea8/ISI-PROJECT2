@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /13b/
+Disallow: /11b/
+Disallow: /12b/
+Disallow: /10a/
+Disallow: /17b/
+Disallow: /7-2/
+Disallow: /8-2/
+Disallow: /19-2/
+Disallow: /wp-content/uploads/2017/06/Warstwa-bez-nazwy.kmz
+Disallow: /wp-content/uploads/2017/06/Warstwa-bez-nazwy-1.kmz
+Noindex: /13b/
+Noindex: /11b/
+Noindex: /12b/
+Noindex: /10a/
+Noindex: /17b/
+Noindex: /7-2/
+Noindex: /8-2/
+Noindex: /19-2/
+Noindex: /wp-content/uploads/2017/06/Warstwa-bez-nazwy.kmz
+Noindex: /wp-content/uploads/2017/06/Warstwa-bez-nazwy-1.kmz
+Noindex: /14b/
+Noindex: /10b/
+Noindex: /9b/
+Noindex: /11a/
+Noindex: /12a/
+Noindex: /category/uncategorized/
+Noindex: /gmap-category/lotnisko/
+Noindex: /gmap-category/restauracje/
+Noindex: /gmap-category/plaza/
+Noindex: /gmap-category/silownie/
+Noindex: /gmap-category/
+Noindex: /gmap-category/pola-golfowe/
+
+Sitemap: http://rezydencjepalacowa.pl/page-sitemap.xml
+

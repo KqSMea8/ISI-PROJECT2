@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /css/
+Disallow: /graf/
+Disallow: /images/
+Disallow: /logo/
+Disallow: /index2.html
+Disallow: /index3.html
+Disallow: /*.js$
+Disallow: /*.php$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.txt$
+Disallow: /*.inc$

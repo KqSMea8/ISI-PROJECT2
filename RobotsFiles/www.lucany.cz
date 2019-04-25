@@ -1,0 +1,23 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /urad-2/usneseni-zm-archiv/2011/
+Disallow: /urad-2/usneseni-zm-archiv/2012/
+Disallow: /urad-2/usneseni-zm-archiv/2013/
+Disallow: /urad-2/usneseni-zm-archiv/2014/
+Disallow: /urad-2/usneseni-zm-archiv/2015/
+Disallow: /urad-2/usneseni-zm-archiv/2016/
+Disallow: /urad-2/uredni-deska/
+Disallow: /volny-cas/lucansky-divadelni-spolek/o-spolku/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /urad-2/usneseni-zm-archiv/2011/
+Disallow: /urad-2/usneseni-zm-archiv/2012/
+Disallow: /urad-2/usneseni-zm-archiv/2013/
+Disallow: /urad-2/usneseni-zm-archiv/2014/
+Disallow: /urad-2/usneseni-zm-archiv/2015/
+Disallow: /urad-2/usneseni-zm-archiv/2016/
+Disallow: /urad-2/uredni-deska/
+Disallow: /volny-cas/lucansky-divadelni-spolek/o-spolku/
+Sitemap: https://www.lucany.cz/sitemap.xml
+

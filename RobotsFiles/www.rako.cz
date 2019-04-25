@@ -1,0 +1,12 @@
+#
+# robots.txt
+#
+
+# exclude these directories
+User-agent: *
+Disallow: /adm/
+
+Sitemap: https://www.rako.cz/cs/sitemap.xml
+Sitemap: https://www.rako.cz/en/sitemap.xml
+Sitemap: https://www.rako.cz/sk/sitemap.xml
+

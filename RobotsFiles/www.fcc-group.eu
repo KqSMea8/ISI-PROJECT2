@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /en/fcc-cee-group/news-track/*
+Disallow: /files/output/asa-track/*

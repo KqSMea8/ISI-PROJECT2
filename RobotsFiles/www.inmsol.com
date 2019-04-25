@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.inmsol.com/sitemap_index.xml
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search
+Disallow: /feed/$
+Disallow: /$/feed
+Disallow: /comments/feed
+Disallow: /xmlrpc.php

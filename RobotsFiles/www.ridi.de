@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /                                      # Allow bot to enter
+
+Disallow: /*.pdf$
+Disallow: /fileadmin/website/notimportant/    # Exclude only folders with no
+# link from frontend, like
+# templates, css, js.
+Disallow: /t3lib/                             # Nothing to see here
+Disallow: /typo3/                             # Nothing to see here
+Disallow: /typo3conf/                         # Nothing to see here
+Disallow: /*?id=*                             # Disable non-realurl
+Disallow: /*&type=98                          # Disable print pages
+
+Sitemap: http://www.ridi-group.com/sitemap.xml
+Sitemap: http://www.ridi-group.de/sitemap.xml
+Sitemap: http://www.ridi-group.fr/sitemap.xml
+Sitemap: http://www.ridi-group.pl/sitemap.xml
+Sitemap: http://www.ridi.de/sitemap.xml
+Sitemap: http://www.ridi.at/sitemap.xml
+Sitemap: http://www.ridi.pl/sitemap.xml
+Sitemap: http://www.ridi.fr/sitemap.xml
+Sitemap: http://www.ridi.co.uk/sitemap.xml
+
+

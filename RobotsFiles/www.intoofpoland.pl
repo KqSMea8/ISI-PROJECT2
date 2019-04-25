@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /mojo/
+Disallow: /MENU/
+Disallow: /MENU1/
+Disallow: /config/
+Disallow: /en/
+Disallow: /grafika1/
+Disallow: /intoofpoland/
+Disallow: /partner/
+Disallow: /pokaz/
+Disallow: /private/
+Disallow: /pub/
+Disallow: /repo/
+Disallow: /tlo1/
+Disallow: /tmp/

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://study.europa-uni.de/sitemap.xml
+Disallow: /resources/
+Disallow: /resources_study_only/

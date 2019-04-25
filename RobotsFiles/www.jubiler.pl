@@ -1,0 +1,51 @@
+User-agent: *
+Disallow: */en/*
+Disallow: */cs/*
+Disallow: */de/*
+Disallow: */user
+Disallow: */basket
+Disallow: */search
+Disallow: */recommend_shop
+Disallow: */newsletter
+Disallow: */currency
+Disallow: */productsCompare
+Disallow: */product_options
+Disallow: */stNavigationFrontend
+Disallow: */producer
+Disallow: */navigation
+Disallow: */invoice
+Disallow: */order
+Disallow: */invoicePdf/*
+Disallow: */orderPdf/*
+Disallow: */stAvailabilityFrontend/showAddOverlay
+Disallow: */stQuestionFrontend/showAddOverlay
+Disallow: */stAvailabilityFrontend/showAddOverlay
+Disallow: */stQuestionFrontend/showAddOverlay
+Disallow: */index.php*
+Disallow: */recommendProducts/*
+Disallow: */group/*
+Disallow: */product/*
+Disallow: */created_at/*
+Disallow: */long/*
+Disallow: */frontend_dev/*
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Alexibot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: SurveyBot
+Disallow: /
+User-agent: Xenu's
+Disallow: /
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow: /
+User-agent: rogerbot
+Disallow:/
+Disallow: /*.php$
+Disallow: /*.php$
+Disallow: /paypal
+Disallow: /stAccessoriesFrontend
+Disallow: /stProduct
+

@@ -1,0 +1,11 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /obcan/informace-o-obci/nydek-po-naszymu/
+Disallow: /obcan/obecni-urad/uredni-deska/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /obcan/informace-o-obci/nydek-po-naszymu/
+Disallow: /obcan/obecni-urad/uredni-deska/
+Sitemap: http://www.nydek.cz/sitemap.xml
+

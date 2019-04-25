@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /index.php?a=komentarz&b=25897
+Allow: /index.php
+Disallow: /index.php?a=news&b=4679&komentarz=e8e04a8922811039942bc1a2d426b409&r=5938064
+Allow: /
+Disallow: /index.php?a=news&b=4679
+
+

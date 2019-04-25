@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /galeria/
+Disallow: /language/
+Disallow: /pliki/
+Disallow: /podstrony/
+Disallow: /bannerpl.swf
+Disallow: /banneren.swf
+Disallow: /bannerde.swf
+Disallow: /galeria.swf
+Disallow: /iepngfix.htc
+Disallow: /xml.php
+Disallow: /stylesheet.css

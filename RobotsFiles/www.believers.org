@@ -1,0 +1,35 @@
+# robots.txt for http://www.believers.org/
+User-agent: *
+Disallow: /__bbs__/
+Disallow: /__c__/
+Disallow: /__c__/web/
+Disallow: /audio/
+Disallow: /believe/bel209.htm
+Disallow: /believe/bel189.htm
+Disallow: /believe/bel206.htm
+Disallow: /bibleis.htm
+Disallow: /books/biblelst.htm
+Disallow: /books/bibllst.htm
+Disallow: /cgi-bin/
+Disallow: /comeback.htm
+Disallow: /contact.htm
+Disallow: /error404.htm
+Disallow: /forgiven.htm
+Disallow: /gotoheav.htm
+Disallow: /jesusros.htm
+Disallow: /listbela.htm
+Disallow: /listssh.htm
+Disallow: /listssha.htm
+Disallow: /lovesyou.htm
+Disallow: /receive.htm
+Disallow: /safety.htm
+Disallow: /selfish.htm
+Disallow: /ssh/
+Disallow: /tapes/
+Disallow: /thanks.htm
+Disallow: /welcome.htm
+Disallow: /wp/
+Disallow: /wpg2.htm
+# Disallow: /*.pdf
+# Disallow: /believe/*.pdf
+

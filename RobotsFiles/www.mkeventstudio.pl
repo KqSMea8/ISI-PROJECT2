@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Allow: /images/
+Disallow: /images/stories/logotypy/
+Disallow: /images/stories/referencje/
+Disallow: /images/stories/mk_newsletter/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: /
+

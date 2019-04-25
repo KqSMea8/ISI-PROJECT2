@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin
+Disallow: /bannery
+Disallow: /class
+Disallow: /css
+Disallow: /dodatki
+Disallow: /gfx
+Disallow: /gfx_pomoc
+Disallow: /ilustracje
+Disallow: /inc
+Disallow: /inc_pomoc
+Disallow: /scripts

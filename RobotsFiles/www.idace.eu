@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /uploads
+Disallow: /controllers
+Disallow: /libraries
+Disallow: /views
+Disallow: /widgets
+Disallow: /scripts
+Disallow: /cron
+Disallow: /xml
+Sitemap: http://www.inkipinkicards.co.uk/sitemap.xml

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /*account
+Disallow: /*checkout
+Disallow: /foto.php
+Disallow: /create_account.php
+Disallow: /password_forgotten.php
+Disallow: /popup_image.php/
+Disallow: /product_reviews_write.php/
+Disallow: /*get_image.php
+Disallow: /*?osCsid
+Disallow: /*buy_now
+Disallow: /*add_product
+Disallow: /*popup
+Disallow: /*notify
+Disallow: /*ajax
+Disallow: /*display
+Disallow: /katalog/
+Disallow: /zaproponuj.php
+Allow: /
+

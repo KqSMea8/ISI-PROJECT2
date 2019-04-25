@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author/
+Disallow: *?attachment_id=
+Disallow: */trackback
+Disallow: */feed
+Disallow: */embed
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+
+Host: bitemojo.com

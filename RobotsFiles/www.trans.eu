@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /*.pdf
+Disallow: /*.swf
+Disallow: /*.doc
+
+Disallow: /feed/
+Disallow: /tag/

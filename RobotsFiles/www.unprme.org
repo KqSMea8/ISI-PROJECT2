@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /new-site/
+Disallow: /events/index-date.php
+Disallow: /events/index-share.php
+Disallow: /events/index-share.php?eventid=*
+Disallow: /about-prme/governance/aapbs.php
+Disallow: /about-prme/prme-secretariat-20-04-16-updated.php
+Disallow: /index-newsletter.php
+Disallow: /about-prme/contact-prme.php
+Disallow: /about-prme/steering-committee/gmac-28-08-16.php
+Disallow: /global-forum/agenda-15.php
+Disallow: /global-forum/contact-15.php
+Disallow: /global-forum/media.php
+Disallow: /global-forum/related-events-15.php
+Disallow: /global-forum/sponsorship-15.php

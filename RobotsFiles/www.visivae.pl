@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /klienci/
+Disallow: /v2/
+Disallow: /v3/
+Disallow: /v4/
+Disallow: /v5/
+Disallow: /includes/
+Allow: /klienci/caballero-wizytowka/
+Allow: /klienci/flyfilmstudio/
+Allow: /klienci/multiagent/
+Allow: /klienci/animator/
+Allow: /klienci/nieruchomosci-sybilski/
+Allow: /klienci/sanoysalvo/
+Allow: /klienci/zbrojewski/
+Allow: /klienci/esbs/
+Allow: /klienci/sanoysalvo/
+Allow: /klienci/caballero/

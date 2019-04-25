@@ -1,0 +1,5 @@
+# robots.txt zu http://www.example.org/
+
+User-agent: *
+#Disallow: /
+

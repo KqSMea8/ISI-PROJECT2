@@ -1,0 +1,5 @@
+# robots.txt file for youtu.be
+
+User-agent: *
+Disallow: /
+

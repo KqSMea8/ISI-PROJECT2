@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /login.jsp
+Disallow: /logout.jsp
+Disallow: /navigator.jsp
+Disallow: /register.jsp
+Disallow: /showContent.jsp
+Disallow: /scrolling/
+Disallow: /service/
+Disallow: /fckeditor/
+Disallow: /content/static/
+Disallow: /include/
+Disallow: /admin/
+Disallow: /WEB-INF/

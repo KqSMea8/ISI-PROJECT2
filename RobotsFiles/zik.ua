@@ -1,0 +1,11 @@
+# www.robotstxt.org/check
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /*/print* #disallow prints pages
+Disallow: /search* #disallow search pages
+Disallow: /special/
+Disallow: *?name* #disallow  pages wt ?name
+Host: zik.ua
+
+Sitemap: https://zik.ua/sitemap.xml

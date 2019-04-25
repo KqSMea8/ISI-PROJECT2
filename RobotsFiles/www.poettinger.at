@@ -1,0 +1,23 @@
+User-Agent: *
+Disallow: /portal/
+Disallow: /tradeletter/
+Disallow: /intranet/
+Noindex: /*/delProspektFromPost$
+Noindex: /*/isProspektInPost$
+Noindex: /*/prospInWarenkorb$
+Noindex: /*/getPdfSize$
+Noindex: /*/getKategoriePage$
+Noindex: /*/PrdInVergleich$
+Noindex: /*/Artikel_ModalView*
+Noindex: /en1/
+Noindex: /us1/
+Noindex: /it1/
+Noindex: /fr1/
+Noindex: /dk1/
+Noindex: /fr/
+Noindex: /cz/
+Noindex: /ru/
+Noindex: /pl/
+Noindex: /dk/
+Noindex: /nl_br/
+

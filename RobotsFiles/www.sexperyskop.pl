@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /siteadmin/
+Disallow: /mapadmin/
+Disallow: /cache/
+Disallow: /include/
+Disallow: /install/
+Disallow: /language/
+Disallow: /media/categories/
+Disallow: /media/games/swf/
+Disallow: /media/player/
+Disallow: /tmp/
+Disallow: /classes/
+Disallow: /scripts/
+Disallow: /addons/
+Disallow: /cron/
+Disallow: /contrib/
+Disallow: /skrypty/
+Disallow: /banners/
+
+Sitemap: https://www.sexperyskop.pl/sitemap-index.xml

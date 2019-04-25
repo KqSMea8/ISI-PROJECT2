@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /a_2011_vel
+Disallow: /ckeditor
+Disallow: /funkcje
+Disallow: /mainlista_zal
+Disallow: /naszzespol_zal
+Disallow: /style
+Disallow: /upload
+Disallow: /js

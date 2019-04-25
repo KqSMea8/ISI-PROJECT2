@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /module/
+Disallow: /themes/
+Disallow: /tmp/
+Disallow: /config.php
+Disallow: /router.php
+Disallow: /details.xml
+
+User-agent: Googlebot
+Allow: /admin/external/timthumb/timthumb.php*
+Allow: /admin/upload/
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /module/
+Disallow: /themes/
+Disallow: /tmp/
+Disallow: /config.php
+Disallow: /router.php
+Disallow: /details.xml

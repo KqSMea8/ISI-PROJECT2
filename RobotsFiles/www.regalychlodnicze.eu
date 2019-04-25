@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="pl" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Strona glowna - Regaly chlodnicze</title>
+<link rel="icon" href="/img/favicon.ico">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/font/source_sans_pro/stylesheet.css">
+<link rel="stylesheet" href="/magnific/dist/magnific-popup.css">
+<script>var template_dir = '/';</script>
+<script src="/js/modernizr.js"></script>
+<link rel="stylesheet" href="/css/style.css?v3">
+<link rel="stylesheet" href="/sidemenu/css/sidemenu.css">
+<script src="/js/jquery-1.11.3.min.js"></script>
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.ba-resize.min.js"></script>
+<script src="/js/jquery.ba-outside-events.min.js"></script>
+<script src="/sidemenu/js/jquery.sidemenu.js"></script>
+<script src="/js/jquery.fittext.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/respond.min.js"></script>
+<script src="/js/tinynav.min.js"></script>
+<script src="/js/jquery.mousewheel.min.js"></script>
+<script src="/magnific/dist/jquery.magnific-popup.min.js"></script>
+<script src="/js/js.js"></script>
+</head>
+<body>
+
+<div id="cookie_policy" class="clearfix">
+<div>
+Informujemy, iz witryna ta korzysta z plikow cookies zapisanych na urzadzeniach koncowych uzytkownikow. Pozostajac na stronie wyrazasz na to zgode.
+<a class="close" href="#">[X]</a>
+</div>
+</div>
+
+<header id="header">
+<div>
+<h1>Regaly chlodnicze, lady chlodnicze.</h1>
+<a href="/"><strong>regaly chlodnicze</strong><img src="/img/platek.png" alt="" /></a>
+<em>Mamy wszystko.</em>
+<span>tel. <b>509 23 64 62</b></span>
+<img class="phone" src="/img/header-phone.png" alt="" />
+<i><img src="/img/header-bg.jpg" alt="" /></i>
+</div>
+</header>
+
+<nav id="mainmenu">
+<div>
+<ul>
+<li><a class="current" href="/">Strona glowna</a></li>
+<li><a href="/w-sprzedazy">W sprzedazy</a>
+<ul>
+<li><a href="/w-sprzedazy/lady-chlodnicze-z-agregatem-wewnetrznym">Lady chlodnicze z agregatem wewnetrznym</a></li><li><a href="/w-sprzedazy/lady-chlodnicze-na-agregat-zewnetrzny-">Lady chlodnicze na agregat zewnetrzny </a></li><li><a href="/w-sprzedazy/regaly-chlodnicze-z-agregatem-wewnetrznym">Regaly chlodnicze z agregatem wewnetrznym</a></li><li><a href="/w-sprzedazy/regaly-chlodnicze-na-agregat-zewnetrzny">Regaly chlodnicze na agregat zewnetrzny</a></li><li><a href="/w-sprzedazy/szafy-chlodnicze-na-agregat-wewnetrzny">Szafy chlodnicze na agregat wewnetrzny</a></li><li><a href="/w-sprzedazy/szafy-chlodnicze-na-agregat-zewnetrzny">Szafy chlodnicze na agregat zewnetrzny</a></li><li><a href="/w-sprzedazy/slupki-chlodnicze-szafy-chlodnicze-na-napoje-agregat-wewnetrzny">Slupki chlodnicze, szafy chlodnicze na napoje, agregat wewnetrzny</a></li><li><a href="/w-sprzedazy/szafy-mroznicze">Szafy mroznicze</a></li><li><a href="/w-sprzedazy/zamrazarki">Zamrazarki</a></li><li><a href="/w-sprzedazy/lady-cukiernicze">Lady cukiernicze</a></li><li><a href="/w-sprzedazy/witryny-do-lodow">Witryny do lodow</a></li><li><a href="/w-sprzedazy/witryny-salatkowe">Witryny salatkowe</a></li>						</ul>
+</li>
+<li><a href="/porady">Porady</a></li>
+<li><a href="/galeria-zdjec">Galeria zdjec</a></li>
+<li><a href="/kontakt">Kontakt</a></li>
+<li><a target="_blank" href="http://www.meblesklepowe24h.pl"><span>Sklep @</span></a></li>
+<li><a target="_blank" href="http://www.gondola.com.pl"><span>Komplet wyposazenia</span></a></li>
+</ul>
+<a href="#" class="toggle"><strong><span></span><em></em><ins></ins></strong><b><span></span><em></em><ins></ins></b></a>
+</div>
+</nav>
+
+
+<main id="content">
+<div id="banners">
+<ul>
+<li>
+<a title="Lady chlodnicze z agregatem wewnetrznym" href="">
+<strong><i></i><b>Lady chlodnicze z agregatem wewnetrznym</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_3pg0y70_basia3.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Lady chlodnicze na agregat zewnetrzny" href="">
+<strong><i></i><b>Lady chlodnicze na agregat zewnetrzny</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_76qub0t_impeth-prod007925.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Regaly chlodnicze z agregatem  wewnetrznym" href="">
+<strong><i></i><b>Regaly chlodnicze z agregatem  wewnetrznym</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_76ug393_bali-25-mod-c-pusty.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Regaly chlodnicze na agregat zewnetrzny" href="">
+<strong><i></i><b>Regaly chlodnicze na agregat zewnetrzny</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_hwky6qm_barbados.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Szafy chlodnicze na agregat wewnetrzny" href="">
+<strong><i></i><b>Szafy chlodnicze na agregat wewnetrzny</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_v32d026_20160613114854szafa1.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Szafy chlodnicze na agregat zewnetrzny" href="">
+<strong><i></i><b>Szafy chlodnicze na agregat zewnetrzny</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_0639517_2017-02-1486992156-108-1.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Slupki chlodnicze, szafy chlodnicze na napoje, agregat wewnetrzny" href="">
+<strong><i></i><b>Slupki chlodnicze, szafy chlodnicze na napoje, agregat wewnetrzny</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_s62v1ly_szafa-chlodnicza-przeszklona-igloo-jola-1-ag.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Szafy mroznicze" href="">
+<strong><i></i><b>Szafy mroznicze</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_4o099zs_szafa-mronicza-igloo-ewa-p-ag-m.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Zamrazarki" href="">
+<strong><i></i><b>Zamrazarki</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_v3y7sk4_81-1.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Lady cukiernicze" href="">
+<strong><i></i><b>Lady cukiernicze</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_z7nqtl7_innova.png" alt="" /></em>
+</a>
+</li><li>
+<a title="Witryny do lodow" href="">
+<strong><i></i><b>Witryny do lodow</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_o66b0sj_kameleo-ice-001.jpg" alt="" /></em>
+</a>
+</li><li>
+<a title="Witryny salatkowe" href="">
+<strong><i></i><b>Witryny salatkowe</b><i></i></strong>
+<em><img src="/zdjecia_pliki/min_c657aum_20160606131512grzewcza1.jpg" alt="" /></em>
+</a>
+</li>	</ul>
+</div>
+<div id="page-sections"><div class="psection-cols psection-cols-1"><div class="psection-col psection-col-1"><div class="psection-text page-description"><p>
+Regalychlodnicze.eu&nbsp; - posiadamy&nbsp; 20- letnie doswiadczenie w sprzedazy regalow chlodniczych, lad chlodniczych, lad cukierniczych, nadstawek chlodniczych i wielu innych urzadzen. Na przestrzeni lat zdobylismy niezbedne kwalifikacje do tego, aby wlasciwie i w jak najpelniejszy sposob dobrac odpowiednie urzadzenie chlodnicze do zglaszanych nam potrzeb klientow. Jezeli zwrocicie sie Panstwo do nas ze swoimi biezacymi potrzebami zakupu urzadzen chlodniczych zostana one przeanalizowane pod wzgledem:<br />
+rodzaju urzadzenia chlodniczego, sposobu zasilenia agregatem wewnetrznym lub zewnetrznym,&nbsp; wielkosci urzadzen chlodniczych oraz kolorystyki frontow tak, aby tworzyly one calosc z reszta sklepu. Nasze doradztwo obejmuje rowniez bezpieczna droge dostawy urzadzen chlodniczych&nbsp; tj. mozliwosc podjazdu pod sklep, wysokosc i szerokosc drzwi, przez ktore urzadzenie chlodnicze ma byc dostarczone. Serdecznie Zapraszamy.</p></div></div></div></div>		</main>
+
+<footer id="footer">
+<div class="footer-contacts">
+<ul>
+<li class="address">
+<i></i>
+<strong>GONDOLA Regaly Sklepowe</strong>
+<span>Barczewo, ul. Wojska Polskiego 50 C<br />Olsztyn 15km</span>
+</li>
+<li class="phone">
+<i></i>
+<strong>Stacjonarnie</strong>
+<span>89 532 03 68</span>
+</li>
+<li class="mobile">
+<i></i>
+<strong>Przez komorke</strong>
+<span>509 23 64 62, 509 23 64 78</span>
+</li>
+<li class="email">
+<i></i>
+<strong>Przez Internet</strong>
+<span><a href="mailto:gondolabiuro@wp.pl">gondolabiuro@wp.pl</a></span>
+</li>
+</ul>
+</div>
+<div class="footer-other">
+<b>Jestesmy rowniez wlascicielami:</b> &nbsp;&nbsp;<a href="http://www.gondola.com.pl">gondola.com.pl</a>, &nbsp;&nbsp;<a href="http://www.meblesklepowe24h.pl">meblesklepowe24h.pl</a>, &nbsp;&nbsp;<a href="http://www.regalymetalowesklepowe.pl">regalymetalowesklepowe.pl</a>
+</div>
+<div class="footer-copyright">
+<strong>Copyright &copy; by <b>Regalychlodnicze.eu.</b> Wszelkie prawa zastrzezone.</strong>
+<span>Icons made by <a href="http://www.freepik.com" title="Freepik"><b>Freepik</b></a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></span>
+<div>
+</div>
+</div>
+</footer>
+
+<div class="fullbg">
+<img src="/img/fullbg.jpg" alt="" data-width="1280" data-height="800" />
+</div>
+
+<div class="popup">
+<div>
+<div>
+<strong>
+<b>Wykonujemy projekty sklepow !</b><b>Udany projekt to poczatek sukcesu Twojego sklepu !!!</b>
+<a href="#">X</a>
+</strong>
+</div>
+</div>
+</div>
+
+</body>
+</html>

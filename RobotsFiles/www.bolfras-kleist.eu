@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="pl-PL">
+<head>
+
+<title>Bolfrashaus und Kleistturm - Start</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<!--<link rel="shortcut icon" href="favicon.ico">-->
+<!--<link rel="icon" href="favicon.ico">-->
+
+<link rel="stylesheet" href="http://bolfras-kleist.eu/ncms/style/lib/ui-lightness/jquery-ui-1.9.2.custom.css" />
+<link rel="stylesheet" href="http://bolfras-kleist.eu/ncms/style/lib/jquery-colorbox/colorbox.css" />
+
+
+<link rel="stylesheet" media="screen" href="http://bolfras-kleist.eu/ncms/style/reset.min.css" />
+
+
+<link rel="stylesheet" media="screen" href="http://bolfras-kleist.eu/ncms/style/screen.css" />
+
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" media="screen" href="http://bolfras-kleist.eu/ncms/style/ie.css" />
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery-1.8.2.min.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery-ui-1.9.2.custom.min.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery.cookie.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery.easing.1.3.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery-colorbox/jquery.colorbox-min.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery-colorbox/i18n/jquery.colorbox-de.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery.waitForImages.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/lib/jquery.bxSlider.min.js"></script>
+
+
+<script>
+var parModule = "/de/";
+var parReturn = "";
+var cid = "";
+var parent = "";
+var parUrl = "404";
+var parUrlReturn = "";
+var parLang = "de";
+var parUrlAsk = parUrl?"?" + parUrl:"";
+var parUrlReturnAsk = parUrlReturn?"?" + parUrlReturn:"";
+var site_url = "http://bolfras-kleist.eu";
+var isMobile = 0;
+</script>
+
+<script src="http://bolfras-kleist.eu/ncms/script/dogo.min.js"></script>
+<script src="http://bolfras-kleist.eu/ncms/script/init.js"></script>
+
+</head>
+<body class="lang-de">
+
+<div id="container">
+<div id="content">
+
+<div id="header-wrapper" class="full-wrapper">
+<div id="header-container" class="responsive-wrapper">
+<div id="header" class="container">
+
+<div class="language">
+<nav>
+<ul>
+<li class="opacity"><a href="/de"><img src="http://bolfras-kleist.eu/ncms/simg/de.png" alt="Deutsch" /></a></li>
+<li class="default"><a href="/pl"><img src="http://bolfras-kleist.eu/ncms/simg/pl.png" alt="Polski" /></a></li>
+<li class="default"><a href="/en"><img src="http://bolfras-kleist.eu/ncms/simg/en.png" alt="English" /></a></li>
+</ul>
+</nav>
+</div>
+
+<div id="box-header">
+
+<div class="boxes boxes-header">
+<div class="box">
+
+
+<p>Auf den Fundamenten gemeinsamer Geschichte die  Zukunft aufbauen: Bau des Deutsch-Polnischen Zentrums Bolfrashaus in Frankfurt (Oder)</p>
+<p>und Vorbereitungen fur den Bau des Kleistturms in Slubice (Etappe I)  als >>Leuchtturme<< eines grenzubergreifenden,</p>
+<p>Frankfurt-Slubicer Tourismusmarketings.</p>            					</div>
+</div>
+</div>
+
+<!-- BANNER -->
+<div class="box-banner content">
+
+
+
+
+
+<div class=" no-slider ">
+<ul>
+<li class="active slide">
+<div class="slide-image">
+<img src="http://bolfras-kleist.eu/Files/modules/banners-photos/950x432/banner.jpg" alt="bolfraus" />
+</div>
+</li>
+
+</ul>
+</div>
+
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+<div id="title-wrapper" class="full-wrapper">
+<div id="titile-container" class="responsive-wrapper">
+<div id="title" class="container">
+<h2>404</h2>
+</div>
+</div>
+<div id="menu-back"></div>
+</div>
+
+<div id="menu-wrapper" class="full-wrapper display-none">
+<div id="menu-container" class="responsive-wrapper">
+<div id="menu" class="container">
+
+<!-- MENU TOP -->
+<div id="menu-top" class="menu">
+
+<nav class="menu menu-top">
+
+<ul class="level-1"><li class="self item-1 inactive"><a href="/de/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Start</span><span class="back-right"></span></span></a></li><li class="self item-2 inactive"><a href="/de/-zum-projekt/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Zum Projekt</span><span class="back-right"></span></span></a><ul class="level-2"><li class="self item-1 inactive"><a href="/de/-zum-projekt/projektziele/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Projektziele</span><span class="back-right"></span></span></a></li><li class="self item-2 inactive"><a href="/de/-zum-projekt/projektpartner/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Projektpartner</span><span class="back-right"></span></span></a></li></ul></li><li class="self item-3 inactive"><a href="/de/-bolfrashaus/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Bolfrashaus</span><span class="back-right"></span></span></a><ul class="level-2"><li class="self item-1 inactive"><a href="/de/-bolfrashaus/von-der-vergangenheit/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Von der Vergangenheit</span><span class="back-right"></span></span></a></li><li class="self item-2 inactive"><a href="/de/-bolfrashaus/zur-zukunft/" class="clickable"><span><span class="back-left"></span><span class="back-middle">zur Gegenwart</span><span class="back-right"></span></span></a></li></ul></li><li class="self item-4 inactive"><a href="/de/kleistturm/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Kleistturm</span><span class="back-right"></span></span></a><ul class="level-2"><li class="self item-1 inactive"><a href="/de/kleistturm/von-der-vergangenheit/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Von der Vergangenheit</span><span class="back-right"></span></span></a></li><li class="self item-2 inactive"><a href="/de/kleistturm/zur-zukunft/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Zur Zukunft</span><span class="back-right"></span></span></a></li></ul></li><li class="self item-5 inactive"><a href="/de/dokumentationszentrum2/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Dokumentationszentrum</span><span class="back-right"></span></span></a><ul class="level-2"><li class="self item-1 inactive"><a href="/de/dokumentationszentrum2/das-kleisthaus/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Das Kleisthaus</span><span class="back-right"></span></span></a></li><li class="self item-2 inactive"><a href="/de/dokumentationszentrum2/publikationen/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Publikationen</span><span class="back-right"></span></span></a></li></ul></li><li class="external item-6 inactive"><a href="/news/archive" class="clickable"><span><span class="back-left"></span><span class="back-middle">Aktuelles</span><span class="back-right"></span></span></a></li><li class="self item-7 inactive"><a href="/de/galerie/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Galerie</span><span class="back-right"></span></span></a></li><li class="self item-8 inactive"><a href="/de/links/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Links</span><span class="back-right"></span></span></a></li><li class="self item-9 inactive"><a href="/de/kontakt/" class="clickable"><span><span class="back-left"></span><span class="back-middle">Kontakt</span><span class="back-right"></span></span></a></li></ul>
+<script type="text/javascript">
+$(document).ready(function(){
+var url = "404";
+
+url.search(/archive/i);
+
+})
+</script>									</nav>
+</div>
+
+</div>
+</div>
+<div id="menu-back"></div>
+</div>
+
+<div id="middle-wrapper" class="full-wrapper">
+<div id="middle-container" class="responsive-wrapper">
+<div id="middle" class="container">
+<article class="content">
+<h2 style="margin-top: 10px;">BLAD 404. NIE MA TAKIEJ STRONY</h2>
+<p style="margin-top: 10px;">
+<a href="http://bolfras-kleist.eu">Przejdz do strony glownej serwisu</a>
+</p>
+</article>
+</div>
+</div>
+</div>
+
+<div id="footer-wrapper" class="full-wrapper">
+<div id="footer-container" class="responsive-wrapper">
+<div id="footer" class="container">
+
+<footer>
+<!-- BOX BOTTOM -->
+<div id="box-bottom">
+
+<div class="boxes boxes-bottom">
+<div class="box">
+
+
+<p><img src="http://bolfras-kleist.eu/Files/image/ue.jpg" alt="" width="950" height="177" /></p>								</div>
+</div>
+</div>
+
+</footer>			</div>
+</div>
+</div>
+
+<div id="copyrights-wrapper" class="full-wrapper">
+<div id="copyrigths-container" class="responsive-wrapper">
+<div id="copyrights" class="container">
+<div id="box-copyrights">
+
+<div class="boxes boxes-copyrights">
+<div class="box">
+
+
+<ul>
+<li>
+<p><a href="/de/impressum/">impressum</a></p>						</li>
+
+<li>strony www <a href="http://www.dogo.pl">dogo.pl</a></li>
+</ul>					</div>
+</div>
+</div>
+</div>
+</div>
+</div>													</div>
+</div>
+<div id="fb"><a href="https://www.facebook.com/pages/Bolfrashaus-Kleistturm/393226124117028" target="_blank"></a></div>
+
+</body>
+</html>

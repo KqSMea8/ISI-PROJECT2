@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /pl/produkty2/
+Disallow: /pl/produkty-html/
+Disallow: /download?file=/
+Allow: /
+

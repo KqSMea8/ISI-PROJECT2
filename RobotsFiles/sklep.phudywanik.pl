@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /_console/
+Disallow: /_admin/
+Disallow: /error.html
+Disallow: /error-send.html
+Disallow: /*--default.html
+Disallow: /*--.html
+Disallow: /*-prod.html
+Disallow: /*-price.html
+Disallow: /*-price-rev.html
+Disallow: /*-prod-rev.html
+Allow: /*-0-3-default.html
+Allow: /sznurkowe-k18-0--.html
+Disallow: /*-*-3-default.html
+Disallow: /index.html*
+Disallow: /index-*
+Disallow: /login.html
+Disallow: /koszyk.html
+Disallow: /wyszukiwarka_zaawansowana.html
+
+Sitemap: http://www.dywanik24.pl/sitemap.xml

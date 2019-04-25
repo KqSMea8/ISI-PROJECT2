@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /Client/
+Disallow: /regulamin
+Disallow: /regulamin-promocji
+Disallow: /warunki-umowy
+Disallow: /polityka-prywatnosci
+Disallow: /zapomniales-hasla
+Disallow: /prawa-autorskie
+Disallow: /upowaznienie
+Disallow: /Users/
+Disallow: /Info
+Disallow: /zgoda-klienta
+Disallow: /Containers/

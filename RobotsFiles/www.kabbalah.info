@@ -1,0 +1,30 @@
+User-agent: msnbot
+Disallow: /admin/
+Disallow: /db/
+Disallow: /include/
+Disallow: /donate/
+Disallow: /donations/
+Disallow: /maaser/
+Crawl-Delay: 30
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /db/
+Disallow: /include/
+Disallow: /donate/
+Disallow: /donations/
+Disallow: /maaser/
+Host: www.kabbalah.info
+
+User-agent: *
+Disallow: /admin/
+Disallow: /db/
+Disallow: /include/
+Disallow: /rus/layout/set/*
+Disallow: /rus/content/view/frame/130960
+Disallow: /eng/layout/set/*
+Disallow: /donate/
+Disallow: /donations/
+Disallow: /maaser/
+Host: www.kabbalah.info
+

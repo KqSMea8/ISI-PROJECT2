@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://pryszcze.uroda-zdrowie.org/sitemap.xml

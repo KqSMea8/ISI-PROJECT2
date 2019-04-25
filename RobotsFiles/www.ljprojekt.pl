@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /autocad_kurs/
+Disallow: /css/
+Disallow: /error/
+Disallow: /gfx/
+Disallow: /images/
+Disallow: /istats5.6/
+Disallow: /js/
+Disallow: /licznik/
+Disallow: /pages/
+Disallow: /php/

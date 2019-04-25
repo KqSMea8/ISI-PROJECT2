@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /sitemap.htm
+Sitemap: http://fizjoterapia.pl/sitemap.xml
+Sitemap: http://fizjoterapia.pl/sitemap-mobile.xml
+Sitemap: http://fizjoterapia.pl/sitemap-base.xml
+Sitemap: http://fizjoterapia.pl/video.xml
+Sitemap: http://fizjoterapia.pl/sitemap-wizytowki.xml
+Sitemap: http://fizjoterapia.pl/sitemap.rss
+Sitemap: http://fizjoterapia.pl/sitemap.ror

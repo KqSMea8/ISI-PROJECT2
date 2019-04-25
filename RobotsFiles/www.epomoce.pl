@@ -1,0 +1,14 @@
+Sitemap: http://www.epomoce.pl/sitemap.xml
+Sitemap: http://www.epomoce.pl/sitemapSzkutnictwo.xml
+Sitemap: http://www.epomoce.pl/sitemapStocznia.xml
+User-agent: *
+Allow: /
+Disallow: /film
+Disallow: /pobierak/
+Disallow: /error-404.htm
+Disallow: /dostep/ladujrozwiazanie.php
+Disallow: /dostep/ladujrozwiazanieChemia.php
+Disallow: /komorki/chemia/ukladokresowy/
+Disallow: /fizyka_wektory%2Bmetoda
+Disallow: /chemia_pazdro
+Disallow: /chemia_pp

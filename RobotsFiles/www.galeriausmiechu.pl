@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Disallow: /e/
+Disallow: /show-error-*
+Disallow: /xmlrpc.php
+Disallow: /trackback/
+Disallow: /comment-page-
+
+
+Sitemap: http://www.galeriausmiechu.pl/sitemap_index.xml

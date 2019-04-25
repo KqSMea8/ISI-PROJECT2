@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /images/
+Disallow: /malarstwo/
+Disallow: /rzezba/
+Disallow: /malarstwoen/
+Disallow: /rzezbaen/
+Disallow: /js/
+Disallow: /autor.html
+Disallow: /kontakt.html
+Disallow: /linki.html
+Disallow: /indexen.html
+Disallow: /autoren.html
+Disallow: /kontakten.html
+Disallow: /linkien.html

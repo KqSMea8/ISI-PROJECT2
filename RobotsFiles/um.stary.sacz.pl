@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+
+User-agent: yahoo
+Disallow:/
+
+User-agent: Slurp
+Disallow:/
+
+Sitemap: sitemap.xml

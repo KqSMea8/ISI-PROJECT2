@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /en/2006/
+Disallow: /en/2007/
+Disallow: /en/2008/
+Disallow: /pl/2006/
+Disallow: /pl/2007/
+Disallow: /pl/2008/
+

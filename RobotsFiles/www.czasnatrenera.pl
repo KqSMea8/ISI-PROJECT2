@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ebook/pobierz-fragment-ebooka-kulturystyka-ntdp.html
+Disallow: /pds/pobierz-oswiadczenie-uczestnika-zajec.html
+Disallow: /pds/szukaj.html
+Disallow: /pds/wyszukiwarka.html
+Disallow: /private/
+Disallow: /sk/two-pro/
+Disallow: /sk/strefa-klienta/
+Sitemap: https://www.czasnatrenera.pl/sitemap.xml

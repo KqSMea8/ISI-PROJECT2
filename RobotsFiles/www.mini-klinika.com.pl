@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /stats/
+Disallow: /error/
+Disallow: /stara_strona/
+Disallow: /poprzednia/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/languages/

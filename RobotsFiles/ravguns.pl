@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /mfm
+Disallow: /offer
+Disallow: /resources
+Disallow: /upload
+Allow: /start
+Allow: /oferta
+Allow: /zamowienie
+Allow: /kontakt
+Allow: /opinie
+Sitemap: http://ravguns.pl/sitemap.xml

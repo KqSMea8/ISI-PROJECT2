@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /assets/css
+Disallow: /assets/img
+Disallow: /assets/js
+Allow: /analizagps.php
+Allow: /analiza.php
+Allow: /cechowki.php
+Allow: /drewno.php
+Allow: /epowiat.php
+Allow: /index.php
+Allow: /komar.php
+Allow: /liniepoligony.php
+Allow: /mapan.php
+Allow: /mmapan.php
+Allow: /numeratory.php
+Allow: /onas.php
+Allow: /sklejaniewarstw.php
+Allow: /swde.php
+

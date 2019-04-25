@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /kontakt.php
+Allow: /szycie.html
+Allow: /index.html
+Allow: /
+Allow: /singer.html
+Allow: /pfaff.html
+Allow: /lucznik.html
+Allow: /dojazd.html
+Allow: /mapa.html
+Allow: /katalog.html

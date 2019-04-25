@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /opisy/
+Disallow: /pub/
+Disallow: /serwis/
+Disallow: /administrator/
+#Disallow: /cache/
+#Disallow: /components/
+#Disallow: /images/certyfikaty/
+#Disallow: /images/banners/
+#Disallow: /images/headers/
+#Disallow: /images/referencje/
+#Disallow: /images/sampledata/
+#Disallow: /images/test/
+#Disallow: /includes/
+Disallow: /installation/
+Disallow: /Klienci/
+Disallow: /language/
+#Disallow: /libraries/
+#Disallow: /media/
+#Disallow: /modules/
+#Disallow: /plugins/
+#Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /rokdownloads/
+Disallow: /index.php/en/certificates/25-certyfikat-tuv-rhewa-pl.html
+Disallow: /index.php/en/certificates/31-przepisy-dotyczce-wag-automatycznych.html
+Disallow: /index.php/en/certificates/przepisy-dotyczce-wag-nieautomatycznych/36-dz-u-2008-nr-59-poz-521.html
+Disallow: /index.php/en/component/user/remind.html
+Disallow: /index.php/en/law-regulations-non-automatic-scales/19-certyfikat-tuv-rhewa.html
+Disallow: /index.php/en/law-regulations-non-automatic-scales/przepisy-dotyczce-wag-nieautomatycznych/35-dz-u-2008-nr-26-poz-152.html
+Disallow: /index.php/en/law-regulations-non-automatic-scales/przepisy-dotyczce-wag-nieautomatycznych/38-dz-u-2006-nr-249-poz-1834.html
+Disallow: /index.php/pl/certyfikaty
+Disallow: /index.php/pl/certyfikaty/
+Disallow: /index.php/en/case-studies
+Disallow: /en/software/wk2014-railway-truck-scales
+Sitemap: https://automatyka-serwis.com.pl/sitemap.xml
+
+
+

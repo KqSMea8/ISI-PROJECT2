@@ -1,0 +1,43 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /czat/
+Disallow: /img/
+Disallow: /js/
+Disallow: /pages/
+Disallow: /dowonlad/
+Disallow: /skrypty/
+Disallow: /radiobaner.gif
+Disallow: /video/
+Disallow: /skrypt/
+Disallow: /system/
+Disallow: /jazz/
+Disallow: /index2.php
+Disallow: /index3.php
+Disallow: /index4.php
+Disallow: /moja-ramowka/
+Disallow: /ksiegagosci/
+Disallow: /include.php
+Disallow: /gss.xsl
+Disallow: /lista-przebojow-rw/
+Disallow: /lista-przebojow/admin33/
+Disallow: /lista-wykonawcow/admin/
+Disallow: /czat-widoczek/
+Disallow: /forumradio/
+Disallow: /cytat/
+Disallow: /kalendarz/
+Disallow: /test.php
+Disallow: /test1.php
+Disallow: /test2.php
+Disallow: /wieczorna-ramowka_STOP.php
+Disallow: /gry-rozrywka/
+Disallow: /region/default/
+Disallow: /region/skrypt/
+Disallow: /region/glosuj.php
+
+User-Agent: *
+Sitemap: http://radio.widoczek.nets.pl/sitemap.xml
+
+
+User-agent: Slurp
+Crawl-delay: 20

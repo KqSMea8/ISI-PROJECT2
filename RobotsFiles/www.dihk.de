@@ -1,0 +1,41 @@
+User-Agent: *
+
+Disallow: /accessibility-info
+Disallow: /contact-info
+Disallow: /login_form
+Disallow: /login
+Disallow: /logout
+Disallow: /news_item
+Disallow: /enabling_cookies
+Disallow: /front-page
+Disallow: /portal_javascripts
+Disallow: /portal_kss
+Disallow: /author
+Disallow: /*talkback
+Disallow: /*RSS
+Disallow: /events_listing
+Disallow: /vcs_view
+Disallow: /ics_view
+Disallow: /events/events-by-date/
+
+# DIHK specific
+Disallow: /isuche
+Disallow: /@@isuche
+Disallow: /advancedsearch
+Disallow: /@@advancedsearch
+Disallow: /livesearch_reply
+Disallow: /*_abonnieren
+Disallow: /*search
+Disallow: /*search_rss
+Disallow: /*search_form
+Disallow: /*mail_password_form?userid=
+Disallow: /*sendto_form$
+Disallow: /*register
+
+Allow: /
+
+Crawl-delay: 240
+
+
+# Sitemap
+Sitemap: https://www.dihk.de/sitemap.xml.gz

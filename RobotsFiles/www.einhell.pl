@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /buffer/
+Disallow: /cumulus/
+Disallow: /mirage/
+Disallow: /eoffice/
+Disallow: /eoffice2/
+Disallow: /tinymce/
+Disallow: /js/
+Disallow: /WEB-INF/
+Disallow: /rss_list
+Disallow: /rss
+Disallow: /sr
+Sitemap: http://kumulus/sitemap.xml?alias=index

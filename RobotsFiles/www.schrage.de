@@ -1,0 +1,19 @@
+
+
+User-agent: *
+Disallow: /Seite-weiterempfehlen.152.0.html
+Disallow: /Recommand-page.152.0.html
+Disallow: /Rekomendovat-sait.152.0.html
+Disallow: /Polec-strone-innym.152.0.html
+
+Disallow: /service/seite-weiterempfehlen.html
+Disallow: /en/service/recommand-page.html
+Disallow: /ru/service/rekomendovat-sait.html
+Disallow: /pl/service/polec-strone-innym.html
+Disallow: /*?id=492
+
+# static XML sitemap
+Sitemap: http://www.schrage.de/standards/google-sitemap.html
+
+# dynamic rss
+Sitemap: http://www.schrage.de/index.php?id=298&type=100

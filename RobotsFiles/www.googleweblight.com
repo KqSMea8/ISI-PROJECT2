@@ -1,0 +1,4 @@
+# v20121030
+User-Agent: *
+Disallow: /
+

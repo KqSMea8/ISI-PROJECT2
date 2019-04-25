@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*?sq_content_src=
+Disallow: /_web_designs
+Disallow: /_web_service
+Disallow: /*/zs
+Disallow: /strona-glowna
+Disallow: /site-map-xml
+Disallow: /unsupported-browser
+Disallow: /popup
+Disallow: /inne
+Disallow: /media-folder/online-banking
+Disallow: /__data/przerwa-techniczna.html

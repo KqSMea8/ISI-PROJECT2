@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /bootstrap/
+Disallow: /Controller/
+Disallow: /Dao/
+Disallow: /demo-files/
+Disallow: /facebook-php-sdk-v4-4.0-dev/
+Disallow: /facefiles/
+Disallow: /google-api-php-client/
+Disallow: /html/
+Disallow: /images/
+Disallow: /jquery/
+Disallow: /js/
+Disallow: /Model/
+Disallow: /PHPMailer-master/
+Disallow: /private/
+Disallow: /securimage/
+Disallow: /smarty/
+Disallow: /temp/
+Disallow: /Utils/
+Disallow: /View/
+

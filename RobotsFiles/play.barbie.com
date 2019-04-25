@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: *
+disallow: /zh-cn/shop/
+disallow: /tr-tr/shop/
+disallow: /pt-br/shop/
+disallow: /pl-pl/shop/
+disallow: /ja-jp/shop/
+disallow: /it-it/shop/
+disallow: /es-lam/shop/
+disallow: /en-au/shop/

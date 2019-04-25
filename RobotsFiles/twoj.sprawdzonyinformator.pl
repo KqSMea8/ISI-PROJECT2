@@ -1,0 +1,3 @@
+User-agent: MauiBot
+Disallow: /
+

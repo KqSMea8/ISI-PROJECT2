@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /admin
+Disallow: /-admin
+Disallow: /-content-index-
+Disallow: /-files-index-
+Disallow: /-images-index-
+Disallow: /-floors-index-
+Disallow: /-news-index-
+Disallow: /en-at
+Disallow: /en-be
+Disallow: /en-by
+Disallow: /en-ch
+Disallow: /en-cn
+Disallow: /en-de
+Disallow: /en-es
+Disallow: /en-fr
+Disallow: /en-lu
+Disallow: /en-pl
+Disallow: /en-ru
+Disallow: /en-sk
+Disallow: /en-tr
+Disallow: /en-ua
+Disallow: /en-vn
+Disallow: /fr-us
+Disallow: /es-us
+
+Sitemap: https://www.krono-original.com/sitemap.xml
+
+Sitemap: https://www.krono-original.com/sitemap.xml/domain-www.krono%5C2Doriginal.com

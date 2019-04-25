@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /aspnet_client/
+Disallow: /awstats/
+Disallow: /stats/
+Disallow: /cgi-bin/
+Disallow: /editor/
+Disallow: /log/
+Disallow: /prueba/
+Disallow: /scripts/
+Disallow: /_scripts/

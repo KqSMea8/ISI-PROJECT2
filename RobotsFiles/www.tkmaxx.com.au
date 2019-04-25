@@ -1,0 +1,119 @@
+<!doctype html>
+<html class="no-js" lang="en" data-ng-app="tkMaxxApp">
+<head>
+<base href="/">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title ng-bind="metaservice.metaTitle()"></title>
+
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
+<meta name="description" content="{{ metaservice.metaDescription() }}" />
+
+<meta property="og:title" content="TKMAXX Australia Website" />
+<meta property="og:description" content="TKMAXX Australia - Shop now for best brands at the lowest prices" />
+<meta property="og:url" content="https://www.tkmaxx.com.au/assets/images/social/TKmaxx_Website_FacebookImage_1200x630_2.gif" />
+<!--<meta property="og:url" content="https://stage.tkmaxx.com.au/" />-->
+<!--<meta property="og:video" content="https://stage.tkmaxx.com.au/assets/video/sample.mp4" />-->
+<!--<meta property="og:video:width" content="560" />-->
+<!--<meta property="og:video:height" content="320" />-->
+<!--<meta property="og:video:type" content="video/mp4" />-->
+
+<meta property="og:image" content="https://www.tkmaxx.com.au/assets/images/social/TKmaxx_Website_FacebookImage_1200x630_2.gif" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="TKMAXX Australia Website">
+<meta name="twitter:description" content="TKMAXX Australia - Shop now for best brands at the lowest prices">
+<meta name="twitter:image" content="https://www.tkmaxx.com.au/assets/images/social/TKmaxx_Twitter_1200x630.jpg">
+<meta name="twitter:image:width" content="1200">
+<meta name="twitter:image:height" content="630">
+<meta name="twitter:site" content="@tkmaxxau">
+<meta name="twitter:creator" content="@tkmaxxau">
+
+
+<!--favicons-->
+<link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicons/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="favicons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="favicons/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="favicons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="favicons/mstile-310x310.png" />
+
+<link rel="stylesheet" href="css/pages.css">
+
+<!--[if gt IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie8.css" />
+<![endif]-->
+<!--[if gte IE 8]>
+<link rel="stylesheet" type="text/css" href="css/ie8.css" />
+<![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics ADDED 5/23/2018 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93173206-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-93173206-2');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('set', 'autoConfig', 'false', '635234883344096');
+fbq('init', '635234883344096');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=635234883344096&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+
+<body >
+<div data-ng-controller="AppController">
+
+<ng-include src="'app/partials/mobileHeader.html'"></ng-include>
+<ng-include src="'app/partials/desktopHeader.html'"></ng-include>
+
+<div class="page-wrapper"> <!-- start of page content outside navigation -->
+<div class="page-content" data-ng-view ></div>
+</div>
+
+<ng-include src="'app/partials/footer.html'"></ng-include>
+
+<script src="https://maps.googleapis.com/maps/api/js?client=gme-thetjxcompaniesinc&libraries=places&channel=tkmaxx.com.au"></script>
+<script src="js/app.454ae0f71d91afb6.js"></script>
+
+</div>
+</body>
+</html>
+

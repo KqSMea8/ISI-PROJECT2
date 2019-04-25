@@ -1,0 +1,11 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /mesto/udalosti-ve-meste/aktuality/
+Disallow: /mesto/udalosti-ve-meste/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /mesto/udalosti-ve-meste/aktuality/
+Disallow: /mesto/udalosti-ve-meste/
+Sitemap: https://www.kamenicky-senov.cz/sitemap.xml
+

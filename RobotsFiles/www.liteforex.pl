@@ -1,0 +1,45 @@
+User-Agent: *
+Disallow: /search/*
+Disallow: /user/*
+Disallow: /backend/*
+Disallow: /*monitoring/account*
+Allow:    /*demo/top10forex/$
+Allow:    /*demo/fighting/$
+Disallow: /*demo/top10forex/*
+Disallow: /*demo/fighting/*
+Disallow: /*monitoring/table*
+Disallow: /*edit/*
+Disallow: /*date_start*
+Disallow: /*informers/?login=*
+Disallow: /*livezilla
+Disallow: /regional/great-hundred-5/?page=*
+
+User-Agent: Yandex
+Disallow: /search/*
+Disallow: /user/*
+Disallow: /backend/*
+Disallow: /*monitoring/account*
+Allow:    /*demo/top10forex/$
+Allow:    /*demo/fighting/$
+Disallow: /*demo/top10forex/*
+Disallow: /*demo/fighting/*
+Disallow: /*monitoring/table*
+Disallow: /*edit/*
+Allow: /*date_start*
+Disallow: /*informers/?login=*
+Disallow: /*livezilla
+Disallow: /regional/great-hundred-5/?page=*
+
+Host: https://www.liteforex.com
+sitemap: https://www.liteforex.com/sitemap.xml
+sitemap: https://www.liteforex.com/sitemap-urls.xml
+sitemap: https://www.liteforex.com/sitemap-company-news.xml
+sitemap: https://www.liteforex.com/sitemap-analytics-news.xml
+sitemap: https://www.liteforex.com/sitemap-forex-news.xml
+sitemap: https://www.liteforex.com/sitemap-blog.xml
+sitemap: https://www.liteforex.com/sitemap-articles.xml
+sitemap: https://www.liteforex.com/blog/sitemap.xml
+sitemap: https://www.liteforex.com/trading/forex-news/sitemap.xml
+sitemap: https://www.liteforex.com/trading/forex-analysis/sitemap.xml
+sitemap: https://www.liteforex.com/company/news/sitemap.xml
+

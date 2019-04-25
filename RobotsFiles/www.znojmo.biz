@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /odkazy.php
+Disallow: /redirect/
+Disallow: de/odkazy.php
+Sitemap: http://www.znojmo.biz/sitemap.xml

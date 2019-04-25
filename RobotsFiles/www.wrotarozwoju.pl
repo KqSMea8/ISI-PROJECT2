@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /ucp.php
+Disallow: /posting.php
+Disallow: /viewtopic.php
+Disallow: /viewforum.php
+Disallow: /topic
+Disallow: /post1
+Disallow: /post2
+Disallow: /post3
+Disallow: /post4
+Disallow: /post5
+Disallow: /post6
+Disallow: /post7
+Disallow: /post8
+Disallow: /post9
+Disallow: /search.php?author_id
+Disallow: /search.php?st
+Disallow: /ucp.php
+Disallow: /mcp.php
+Disallow: /darmowy-tarot.html?
+Disallow: /wrozba-finanse.html?
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /gosp/newcomment
+Disallow: /article/mailtofriend
+Disallow: /article/articleprint
+Disallow: /art/drukuj
+Disallow: /art/polec-znajomemu
+Disallow: /art/plik
+Disallow: /art/comment-ajax
+Disallow: /art/obserwowane
+Disallow: /art/moje-komentarze
+Disallow: /art/podglad
+Disallow: /kurier/
+Disallow: /urzedy-skarbowe/emailmsg/
+Disallow: /urzedy-skarbowe/drukuj/
+Disallow: /przelicznik-walut/images/
+Disallow: /grupy/przyjaciel.php
+Disallow: /grupy/print.php
+Disallow: /grupy/email.php
+

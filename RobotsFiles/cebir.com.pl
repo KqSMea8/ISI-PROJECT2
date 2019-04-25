@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /application/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /downloads/
+Disallow: /goodies/
+Disallow: /images/
+Disallow: /js/
+Disallow: /modules/
+Disallow: /public/
+Disallow: /system/

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /zastosowania/function.geoip-continent-code-by-name
+Disallow: /infosfera/aktualnosci/function.geoip-continent-code-by-name
+Disallow: /infosfera/aktualnosci/function.geoip-country-code-by-name
+Disallow: /zastosowania/function.geoip-country-code-by-name
+Disallow: /plugins/content/artsexylightbox/artsexylightbox/images/
+Disallow: /plugins/system/rokbox/
+Disallow: /templates/rt_modulus_j16/images/icons/
+Disallow: /plugins/
+Disallow: /administrator/
+
+User-agent: AdsBot-Google
+Disallow: /zastosowania/function.geoip-continent-code-by-name
+Disallow: /infosfera/aktualnosci/function.geoip-continent-code-by-name
+Disallow: /infosfera/aktualnosci/function.geoip-country-code-by-name
+Disallow: /zastosowania/function.geoip-country-code-by-name
+Disallow: /plugins/content/artsexylightbox/artsexylightbox/images/
+Disallow: /plugins/system/rokbox/
+Disallow: /templates/rt_modulus_j16/images/icons/
+Disallow: /plugins/
+Disallow: /administrator/

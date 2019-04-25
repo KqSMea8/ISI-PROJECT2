@@ -1,0 +1,30 @@
+Sitemap: http://musi.zgora.pl/mapcom/sitemap5.xml
+Sitemap: http://musi.zgora.pl/mapcom/sitemap1.xml
+Sitemap: http://musi.zgora.pl/mapcom/sitemap3.xml
+Sitemap: http://musi.zgora.pl/mapcom/sitemap4.xml
+Sitemap: http://musi.zgora.pl/mapcom/sitemap2.xml
+Sitemap: http://musi.zgora.pl/sitemap.xml
+Sitemap: http://musi.zgora.pl/map/sitemap10.xml
+Sitemap: http://musi.zgora.pl/map/sitemap3.xml
+Sitemap: http://musi.zgora.pl/map/sitemap19.xml
+Sitemap: http://musi.zgora.pl/map/sitemap13.xml
+Sitemap: http://musi.zgora.pl/map/sitemap15.xml
+Sitemap: http://musi.zgora.pl/map/sitemap6.xml
+Sitemap: http://musi.zgora.pl/map/sitemap5.xml
+Sitemap: http://musi.zgora.pl/map/sitemap11.xml
+Sitemap: http://musi.zgora.pl/map/sitemap17.xml
+Sitemap: http://musi.zgora.pl/map/sitemap12.xml
+Sitemap: http://musi.zgora.pl/map/sitemap18.xml
+Sitemap: http://musi.zgora.pl/map/sitemap16.xml
+Sitemap: http://musi.zgora.pl/map/sitemap7.xml
+Sitemap: http://musi.zgora.pl/map/sitemap14.xml
+Sitemap: http://musi.zgora.pl/map/sitemap4.xml
+Sitemap: http://musi.zgora.pl/map/sitemap8.xml
+Sitemap: http://musi.zgora.pl/map/sitemap20.xml
+Sitemap: http://musi.zgora.pl/map/sitemap2.xml
+Sitemap: http://musi.zgora.pl/map/sitemap1.xml
+Sitemap: http://musi.zgora.pl/map/sitemap9.xml
+
+User-Agent: *
+Sitemap: http://musi.zgora.pl/sitemap.xml
+

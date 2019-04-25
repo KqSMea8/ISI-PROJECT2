@@ -1,0 +1,22 @@
+Allow :/administracja/*
+Allow :/film/*
+Allow :/muzyka/*
+Allow :/gry-online/*
+Allow :/skrypty/*
+Allow :/strefa-x/*
+Allow :/motoryzacja/*
+Allow :/motosport/*
+Allow :/militaria/*
+Allow :/kulinaria/*
+Allow :/komputery/*
+Allow :/konsole/*
+Allow :/humor/*
+Allow :/horoskopy/*
+Allow :/kartki/*
+Allow :/uroda/*
+Allow :/zdrowie/*
+Allow :/goscie/*
+Allow :/gsm/*
+Allow :/szkola/*
+Allow :/kalendarz/*
+

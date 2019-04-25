@@ -1,0 +1,57 @@
+Sitemap: http://www.paidagogos.pl/sitemap.xml
+
+User-agent: GoogleBot
+Disallow: /aktualnosci/aktualnosci.html
+Disallow: /aktualnosci/oferta.html
+Disallow: /aktualnosci/o-mnie.html
+Disallow: /aktualnosci/szkolenie-choreoterapia-lecznicza-moc-muzyki-i-ruchu.html
+Disallow: /aktualnosci/partnerzy.html
+Disallow: /aktualnosci/kontakt.html
+Disallow: /czytelnia.html
+Disallow: /czytelnia/zapraszamy-wkrotce.html
+Disallow: /czytelnia/za-duzo-wody-za-duzo-tluszczu-ocena-prawidlowego-skladu-ciala.html
+Disallow: /konsultacje-indywidualne.html
+Disallow: /o-mnie.html
+Disallow: /gestalt.html
+
+User-agent: Slurp
+Disallow: /aktualnosci/aktualnosci.html
+Disallow: /aktualnosci/oferta.html
+Disallow: /aktualnosci/o-mnie.html
+Disallow: /aktualnosci/szkolenie-choreoterapia-lecznicza-moc-muzyki-i-ruchu.html
+Disallow: /aktualnosci/partnerzy.html
+Disallow: /aktualnosci/kontakt.html
+Disallow: /czytelnia.html
+Disallow: /czytelnia/zapraszamy-wkrotce.html
+Disallow: /czytelnia/za-duzo-wody-za-duzo-tluszczu-ocena-prawidlowego-skladu-ciala.html
+Disallow: /konsultacje-indywidualne.html
+Disallow: /o-mnie.html
+Disallow: /gestalt.html
+
+User-agent: MSNbot
+Disallow: /aktualnosci/aktualnosci.html
+Disallow: /aktualnosci/oferta.html
+Disallow: /aktualnosci/o-mnie.html
+Disallow: /aktualnosci/szkolenie-choreoterapia-lecznicza-moc-muzyki-i-ruchu.html
+Disallow: /aktualnosci/partnerzy.html
+Disallow: /aktualnosci/kontakt.html
+Disallow: /czytelnia.html
+Disallow: /czytelnia/zapraszamy-wkrotce.html
+Disallow: /czytelnia/za-duzo-wody-za-duzo-tluszczu-ocena-prawidlowego-skladu-ciala.html
+Disallow: /konsultacje-indywidualne.html
+Disallow: /o-mnie.html
+Disallow: /gestalt.html
+
+User-agent: ia_archiver
+Disallow: /aktualnosci/aktualnosci.html
+Disallow: /aktualnosci/oferta.html
+Disallow: /aktualnosci/o-mnie.html
+Disallow: /aktualnosci/szkolenie-choreoterapia-lecznicza-moc-muzyki-i-ruchu.html
+Disallow: /aktualnosci/partnerzy.html
+Disallow: /aktualnosci/kontakt.html
+Disallow: /czytelnia.html
+Disallow: /czytelnia/zapraszamy-wkrotce.html
+Disallow: /czytelnia/za-duzo-wody-za-duzo-tluszczu-ocena-prawidlowego-skladu-ciala.html
+Disallow: /konsultacje-indywidualne.html
+Disallow: /o-mnie.html
+Disallow: /gestalt.html

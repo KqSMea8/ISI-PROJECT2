@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /koszyk
+Disallow: /sklep/obserwowane
+Disallow: /uzytkownicy/logowanie
+Disallow: /uzytkownicy/rejestracja
+Disallow: /uzytkownicy/logowanie
+Disallow: /uzytkownicy/logowanie
+Disallow: /kontakt/index/

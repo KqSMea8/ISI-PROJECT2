@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /booking/
+Disallow: /payment/
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /vendor/
+Disallow: /fonts/
+Disallow: /proxy/
+Disallow: /hotel/get-images/
+Disallow: /admin/
+Disallow: /*?
+Sitemap: http://hotels.itaka.pl/sitemap.xml

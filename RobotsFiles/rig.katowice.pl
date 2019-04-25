@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /plugins/
+Disallow: /tmp/

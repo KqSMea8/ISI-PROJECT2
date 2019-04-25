@@ -1,0 +1,6 @@
+#User-agent: *
+#Disallow:
+
+user-agent: AhrefsBot
+disallow: /
+

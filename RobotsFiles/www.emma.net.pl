@@ -1,0 +1,9 @@
+User-Agent: *
+Crawl-delay: 30
+Disallow: /regulamin.html
+Disallow: /cart/*
+Disallow: /cart.html
+Disallow: /order/*
+Disallow: /customer/*
+Disallow: /language/*
+Disallow: *search.html*?query=*

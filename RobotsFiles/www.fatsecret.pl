@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /Auth.aspx*
+Disallow: /*pa=s&*
+Disallow: /*pa=r&*
+Disallow: /*pa=cu&*
+Disallow: /*pa=fppm&*
+Disallow: /*pa=fcd&*
+Disallow: /*pa=fjcd&*
+Disallow: /ajax*
+Disallow: /calories-nutrition/meals*
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: dotbot
+Disallow: /
+

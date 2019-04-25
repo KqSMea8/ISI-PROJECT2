@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /application/
+Disallow: /doc/
+Disallow: /cache/
+Disallow: /productprint/
+Disallow: /min/
+Disallow: /upload/
+Disallow: /serialization/
+Disallow: /kontakt/

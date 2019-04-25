@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /                                      # Allow bot to enter
+Disallow: /bower_components
+Disallow: /config
+Disallow: /generator
+Disallow: /layout
+Disallow: /node_modules
+Disallow: /pass
+Disallow: /typo3/                             # Nothing to see here
+Disallow: /typo3conf/                         # Nothing to see here
+Disallow: /typo3temp/                         # Nothing to see here
+Disallow: /*?id=*                             # Disable non-realurl
+Disallow: /*&type=98                          # Disable print pages
+
+Sitemap: https://www.heisterkamp.eu/sitemap.xml

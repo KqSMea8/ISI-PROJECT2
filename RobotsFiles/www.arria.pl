@@ -1,0 +1,1 @@
+User-agent: *Disallow: /cennik/Disallow: /grafika/Disallow: /includy/Disallow: /Products/Disallow: /style/Disallow: /znaczniki/Disallow: /sitemap1.xmlDisallow: /robots.txtDisallow: /robots.txt

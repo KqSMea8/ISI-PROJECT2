@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /webservices/
+Disallow: /webservices
+Disallow: /ws/
+Disallow: /WebResource.axd
+Disallow: /ScriptResource.axd
+Disallow: /PobierzKoszykSkrot
+Disallow: /PobierzWariantRozstaw
+Disallow: /PobierzTapicerkaGrupaOpis
+Disallow: /ZmienKonfiguratorWybarwienie
+Disallow: /ZmienKonfiguratorPomieszczenie
+Disallow: /PobierzKonfiguratorAktualnePomieszczenie
+Disallow: /PobierzKonfiguratorAktualneKolory
+Disallow: /*48530929925$
+Disallow: /*48525240775$

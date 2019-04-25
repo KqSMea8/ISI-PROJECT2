@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /fotogaleria/
+Disallow: /cgi-bin/
+Disallow: /graf/
+Disallow: /przyklady/
+Disallow: /walewice_cd1/
+Disallow: /walewice_cd1th/
+Disallow: /walewice_cd2/
+Disallow: /walewice_cd2th/

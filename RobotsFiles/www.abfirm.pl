@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /installation/
+Disallow: /index2.php?option=com_sobi2&no_html=1&sobi2Task=SigsiuTreeMenu&catid=

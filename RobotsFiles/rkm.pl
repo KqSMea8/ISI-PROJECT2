@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="pl-PL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Moj pierwszy blog &#8211; Kolejna witryna oparta na WordPressie</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Moj pierwszy blog &raquo; Kanal z wpisami" href="http://rkm.pl/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Moj pierwszy blog &raquo; Kanal z komentarzami" href="http://rkm.pl/?feed=comments-rss2" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/rkm.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://rkm.pl/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://rkm.pl/wp-content/themes/blogrid/css/font-awesome.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blogrid-style-css'  href='http://rkm.pl/wp-content/themes/blogrid/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blogrid-google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900&#038;ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://rkm.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://rkm.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://rkm.pl/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://rkm.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://rkm.pl/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.1.1" />
+
+<style type="text/css">
+body, .site, .swidgets-wrap h3, .post-data-text { background: ; }
+.site-title a, .site-description { color: ; }
+.sheader { background-color:  !important; }
+.main-navigation ul li a, .main-navigation ul li .sub-arrow, .super-menu .toggle-mobile-menu,.toggle-mobile-menu:before, .mobile-menu-active .smenu-hide { color: ; }
+#smobile-menu.show .main-navigation ul ul.children.active, #smobile-menu.show .main-navigation ul ul.sub-menu.active, #smobile-menu.show .main-navigation ul li, .smenu-hide.toggle-mobile-menu.menu-toggle, #smobile-menu.show .main-navigation ul li, .primary-menu ul li ul.children li, .primary-menu ul li ul.sub-menu li, .primary-menu .pmenu, .super-menu { border-color: ; border-bottom-color: ; }
+#secondary .widget h3, #secondary .widget h3 a, #secondary .widget h4, #secondary .widget h1, #secondary .widget h2, #secondary .widget h5, #secondary .widget h6, #secondary .widget h4 a { color: ; }
+#secondary .widget a, #secondary a, #secondary .widget li a , #secondary span.sub-arrow{ color: ; }
+#secondary, #secondary .widget, #secondary .widget p, #secondary .widget li, .widget time.rpwe-time.published { color: ; }
+#secondary .swidgets-wrap, #secondary .widget ul li, .featured-sidebar .search-field { border-color: ; }
+.site-info, .footer-column-three input.search-submit, .footer-column-three p, .footer-column-three li, .footer-column-three td, .footer-column-three th, .footer-column-three caption { color: ; }
+.footer-column-three h3, .footer-column-three h4, .footer-column-three h5, .footer-column-three h6, .footer-column-three h1, .footer-column-three h2, .footer-column-three h4, .footer-column-three h3 a { color: ; }
+.footer-column-three a, .footer-column-three li a, .footer-column-three .widget a, .footer-column-three .sub-arrow { color: ; }
+.footer-column-three h3:after { background: ; }
+.site-info, .widget ul li, .footer-column-three input.search-field, .footer-column-three input.search-submit { border-color: ; }
+.site-footer { background-color: ; }
+.content-wrapper h2.entry-title a, .content-wrapper h2.entry-title a:hover, .content-wrapper h2.entry-title a:active, .content-wrapper h2.entry-title a:focus, .archive .page-header h1, .blogposts-list h2 a, .blogposts-list h2 a:hover, .blogposts-list h2 a:active, .search-results h1.page-title { color: ; }
+.blogposts-list .post-data-text, .blogposts-list .post-data-text a, .content-wrapper .post-data-text *{ color: ; }
+.blogposts-list p { color: ; }
+.page-numbers li a, .blogposts-list .blogpost-button { background: ; }
+.page-numbers li a, .blogposts-list .blogpost-button, span.page-numbers.dots, .page-numbers.current, .page-numbers li a:hover { color: ; }
+.archive .page-header h1, .search-results h1.page-title, .blogposts-list.fbox, span.page-numbers.dots, .page-numbers li a, .page-numbers.current { border-color: ; }
+.blogposts-list .post-data-divider { background: ; }
+.page .comments-area .comment-author, .page .comments-area .comment-author a, .page .comments-area .comments-title, .page .content-area h1, .page .content-area h2, .page .content-area h3, .page .content-area h4, .page .content-area h5, .page .content-area h6, .page .content-area th, .single  .comments-area .comment-author, .single .comments-area .comment-author a, .single .comments-area .comments-title, .single .content-area h1, .single .content-area h2, .single .content-area h3, .single .content-area h4, .single .content-area h5, .single .content-area h6, .single .content-area th, .search-no-results h1, .error404 h1 { color: ; }
+.single .post-data-text, .page .post-data-text, .page .post-data-text a, .single .post-data-text a, .comments-area .comment-meta .comment-metadata a, .single .post-data-text * { color: ; }
+.page .content-area p, .page article, .page .content-area table, .page .content-area dd, .page .content-area dt, .page .content-area address, .page .content-area .entry-content, .page .content-area li, .page .content-area ol, .single .content-area p, .single article, .single .content-area table, .single .content-area dd, .single .content-area dt, .single .content-area address, .single .entry-content, .single .content-area li, .single .content-area ol, .search-no-results .page-content p { color: ; }
+.single .entry-content a, .page .entry-content a, .comment-content a, .comments-area .reply a, .logged-in-as a, .comments-area .comment-respond a { color: ; }
+.comments-area p.form-submit input { background: ; }
+.error404 .page-content p, .error404 input.search-submit, .search-no-results input.search-submit { color: ; }
+.page .comments-area, .page article.fbox, .page article tr, .page .comments-area ol.comment-list ol.children li, .page .comments-area ol.comment-list .comment, .single .comments-area, .single article.fbox, .single article tr, .comments-area ol.comment-list ol.children li, .comments-area ol.comment-list .comment, .error404 main#main, .error404 .search-form label, .search-no-results .search-form label, .error404 input.search-submit, .search-no-results input.search-submit, .error404 main#main, .search-no-results section.fbox.no-results.not-found{ border-color: ; }
+.single .post-data-divider, .page .post-data-divider { background: ; }
+.single .comments-area p.form-submit input, .page .comments-area p.form-submit input { color: ; }
+.bottom-header-wrapper { padding-top: px; }
+.bottom-header-wrapper { padding-bottom: px; }
+.bottom-header-wrapper { background: ; }
+.bottom-header-wrapper *{ color: ; }
+.header-widget a, .header-widget li a, .header-widget i.fa { color: ; }
+.header-widget, .header-widget p, .header-widget li, .header-widget .textwidget { color: ; }
+.header-widget .widget-title, .header-widget h1, .header-widget h3, .header-widget h2, .header-widget h4, .header-widget h5, .header-widget h6{ color: ; }
+.header-widget.swidgets-wrap, .header-widget ul li, .header-widget .search-field { border-color: ; }
+.bottom-header-title, .bottom-header-paragraph{ color: ; }
+
+#secondary .widget-title-lines:after, #secondary .widget-title-lines:before { background: ; }
+
+
+.header-widgets-wrapper .swidgets-wrap{ background: ; }
+.top-nav-wrapper, .primary-menu .pmenu, .super-menu, #smobile-menu, .primary-menu ul li ul.children, .primary-menu ul li ul.sub-menu { background-color: ; }
+#secondary .widget li, #secondary input.search-field, #secondary div#calendar_wrap, #secondary .tagcloud, #secondary .textwidget{ background: ; }
+#secondary .swidget { border-color: ; }
+.archive article.fbox, .search-results article.fbox, .blog article.fbox { background: ; }
+
+
+.comments-area, .single article.fbox, .page article.fbox { background: ; }
+</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css">
+
+
+.site-title a,
+.site-description,
+.logofont {
+color: #000000;
+}
+
+
+http://rkm.pl/wp-content/themes/blogrid/img/bg-img.jpg"
+.site-title a,
+.site-description {
+color: #000000;
+}
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://rkm.pl/wp-content/themes/blogrid/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+</head>
+
+<body class="home blog custom-background hfeed header-image">
+<div id="page" class="site">
+
+<header id="masthead" class="sheader site-header clearfix">
+<nav id="primary-site-navigation" class="primary-menu main-navigation clearfix">
+
+<a href="#" id="pull" class="smenu-hide toggle-mobile-menu menu-toggle" aria-controls="secondary-menu" aria-expanded="false">Menu</a>
+<div class="top-nav-wrapper">
+<div class="content-wrap">
+<div class="logo-container">
+
+<a class="logofont" href="http://rkm.pl/" rel="home">Moj pierwszy blog</a>
+</div>
+<div class="center-main-menu">
+<div id="primary-menu" class="pmenu"></div>
+</div>
+</div>
+</div>
+</nav>
+
+<div class="super-menu clearfix">
+<div class="super-menu-inner">
+<a href="#" id="pull" class="toggle-mobile-menu menu-toggle" aria-controls="secondary-menu" aria-expanded="false">
+
+<a class="logofont" href="http://rkm.pl/" rel="home">Moj pierwszy blog</a>
+</a>
+</div>
+</div>
+<div id="mobile-menu-overlay"></div>
+</header>
+
+
+<!-- Header img -->
+<div class="bottom-header-wrapper">
+<div class="bottom-header-text">
+
+</div>
+<img src="http://rkm.pl/wp-content/themes/blogrid/img/bg-img.jpg" alt="Moj pierwszy blog" />
+</div>
+<!-- / Header img -->
+
+
+<div class="content-wrap">
+
+
+<!-- Upper widgets -->
+<div class="header-widgets-wrapper">
+
+
+</div>
+
+</div>
+
+<div id="content" class="site-content clearfix">
+<div class="content-wrap">
+
+<div id="primary" class="featured-content content-area fullwidth-area-blog">
+<main id="main" class="site-main all-blog-articles">
+
+<section class="fbox no-results not-found">
+<header class="page-header">
+<h1 class="page-title">Nic nie znaleziono</h1>
+</header><!-- .page-header -->
+
+<div class="page-content">
+
+<p>Wyglada na to, ze nie mozemy znalezc tego, czego szukasz. Byc moze wyszukiwanie moze pomoc.</p>
+<form role="search" method="get" class="search-form" action="http://rkm.pl/">
+<label>
+<span class="screen-reader-text">Szukaj:</span>
+<input type="search" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Szukaj" />
+</form>	</div><!-- .page-content -->
+</section><!-- .no-results -->
+
+</main><!-- #main -->
+</div><!-- #primary -->
+
+</div>
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer clearfix">
+
+<div class="content-wrap">
+
+
+
+</div>
+
+<div class="site-info">
+&copy;2019 Moj pierwszy blog							<!-- Delete below lines to remove copyright from footer -->
+<span class="footer-info-right">
+| Motyw WordPress od <a href="https://superbthemes.com/">Motywy WordPress od Superb</a>
+</span>
+<!-- Delete above lines to remove copyright from footer -->
+</div><!-- .site-info -->
+</div>
+
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<div id="smobile-menu" class="mobile-only"></div>
+<div id="mobile-menu-overlay"></div>
+
+<script type='text/javascript' src='http://rkm.pl/wp-content/themes/blogrid/js/navigation.js?ver=20170823'></script>
+<script type='text/javascript' src='http://rkm.pl/wp-content/themes/blogrid/js/skip-link-focus-fix.js?ver=20170823'></script>
+<script type='text/javascript' src='http://rkm.pl/wp-content/themes/blogrid/js/jquery.flexslider.js?ver=20150423'></script>
+<script type='text/javascript' src='http://rkm.pl/wp-content/themes/blogrid/js/script.js?ver=20160720'></script>
+<script type='text/javascript' src='http://rkm.pl/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+</body>
+</html>
+
+<!-- Page generated by LiteSpeed Cache 2.9.4.1 on 2019-04-22 20:49:07 -->

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /public/
+Disallow: /theme/
+Disallow: /bip/atach/
+Disallow: /galeria1/
+User-agent: bingbot
+Disallow: /
+User-agent: msnbot
+Disallow: /

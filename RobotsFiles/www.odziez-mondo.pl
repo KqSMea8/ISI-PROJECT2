@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /adm11om/
+Disallow: /css/
+Disallow: /gfx/
+Disallow: /inc/
+Disallow: /nfiles/
+Disallow: /npics/
+Disallow: /sub/
+Disallow: /tmp/

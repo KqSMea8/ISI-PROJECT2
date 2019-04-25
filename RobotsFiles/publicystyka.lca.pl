@@ -1,0 +1,38 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: Googlebot
+Disallow:
+
+User-agent: googlebot-image
+Disallow:
+
+User-agent: googlebot-mobile
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: MSNBot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+User-agent: ia_archiver
+Disallow:
+
+User-agent: yahoo-mmcrawler
+Disallow:
+
+User-agent: psbot
+Disallow:
+
+User-agent: yahoo-blogs/v3.9
+Disallow:
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /
+Disallow: /lib/
+

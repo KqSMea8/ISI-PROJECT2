@@ -1,0 +1,42 @@
+User-agent: *
+Sitemap: http://www.refan.bg/sitemap.xml
+Sitemap: http://www.refan.com/gb/sitemap.xml
+Sitemap: http://www.refan.com/es/sitemap.xml
+Sitemap: http://www.refan.com/gr/sitemap.xml
+Sitemap: http://www.refan.com/ru/sitemap.xml
+Sitemap: http://www.refan.com/de/sitemap.xml
+Sitemap: http://www.refan.com/ro/sitemap.xml
+Sitemap: http://www.refan.it/sitemap.xml
+Sitemap: http://www.refan.com/pt/sitemap.xml
+Sitemap: http://www.refan.com/hr/sitemap.xml
+Allow: /
+Disallow: /app_dev.php
+Disallow: /default.php
+Disallow: /index.php
+Disallow: /index2.php
+Disallow: /intro.html
+Disallow: /popup_image.php
+Disallow: /product_info.php
+Disallow: /en/
+Disallow: /*/item_carte/
+Disallow: /-objects-/
+Disallow: /*/-objects-/
+Disallow: /templates/
+Disallow: /*/article/
+Disallow: /*/topproducts/
+Disallow: /*/gmapfp/
+Disallow: /gmapfp/
+Disallow: /administrator/
+Disallow: /*/objects/article/
+Disallow: /*/objects/groupe/
+Disallow: /*/component/
+Disallow: /component/
+Disallow: /*/objects/item_carte/
+Disallow: /attachments/
+Disallow: /cosmetics/
+Disallow: /parfums/
+
+User-agent: WooRank
+Disallow: /
+
+

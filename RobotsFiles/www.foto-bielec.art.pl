@@ -1,0 +1,19 @@
+Sitemap: http://www.Foto-Bielec.Art.pl/sitemap.php
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /css/
+Disallow: /foto/
+Disallow: /images/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /jscooktree/
+Disallow: /jscripts/
+Disallow: /js_slide/
+Disallow: /pictures/
+Disallow: /pliki/
+Disallow: /swf/
+Disallow: page=
+

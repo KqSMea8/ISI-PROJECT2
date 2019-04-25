@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /logowanie/
+Disallow: /newsletter/
+Disallow: /strona/podziekowanie.php
+Disallow: /promocje/wyszukaj_dla_miejscowosci.php
+Disallow: /wyszukiwarka/
+Disallow: /platnosc/
+Disallow: /zgloszenie/
+Disallow: /przejscie/
+Disallow: /uzytkownicy/

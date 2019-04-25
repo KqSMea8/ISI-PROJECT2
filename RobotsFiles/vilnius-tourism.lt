@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: http://www.vilnius-tourism.lt/sitemap.xml

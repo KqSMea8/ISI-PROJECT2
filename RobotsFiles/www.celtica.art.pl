@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: */feed*
+Disallow: */trackback
+Disallow: */wp-admin
+Disallow: */wp-content
+Disallow: */wp-includes
+Disallow: *wp-login.php
+Disallow: */chat
+Disallow: */ankieta
+Dissalow: */2006/12/
+Dissalow: */category/bez-kategorii/

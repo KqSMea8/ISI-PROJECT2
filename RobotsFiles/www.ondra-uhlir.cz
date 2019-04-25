@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /kurz-lightroom-praha/
+Disallow: /kurz-upravy-fotografii-praha-a-brno/
+Disallow: /prihlaseni-potvrzeno/
+Disallow: /fr/
+Disallow: /de/
+
+Sitemap: http://www.ondra-uhlir.cz/sitemap.xml

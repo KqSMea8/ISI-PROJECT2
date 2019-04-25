@@ -1,0 +1,7 @@
+# Robots.txt
+# Dla strony http://www.domeny.tv
+User-agent: *
+Disallow: /banner/
+Disallow: /panel/
+Disallow: /admin/
+

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /js/
+Disallow: /SpryAssets/
+Disallow: /test/
+Disallow: /web/
+Allow: /admin/files/
+Allow: /admin/database/
+Allow: /admin/images/
+
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /test/
+Disallow: /js/
+Disallow: /SpryAssets/
+Disallow: /web/
+Allow: /admin/files/
+Allow: /admin/database/
+Allow: /admin/images/

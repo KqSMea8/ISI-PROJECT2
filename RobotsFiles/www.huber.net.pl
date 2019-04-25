@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /phocadownloadpap/
+Disallow: /phocadownload/
+Disallow: /cache/
+Disallow: /administrator/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /wyszukiwarka/
+Disallow: /images/
+Disallow: /nowa/
+Disallow: /_kopie_joomla/
+Disallow: /_sqldump_/

@@ -1,0 +1,214 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Lukasz Konieczny BASS</title>
+<meta name="keywords" content="Lukasz,Konieczny,BASS,opera,singer,bass-singer,"/>
+<meta name="description" content="Opera bass-singer, born in Lodz, Poland.
+Lukasz Konieczny graduated from the Karol Lipinski Academy of Music in Wroclaw, Poland. ">
+<meta name="author" content="">
+<meta name="robots" content="">
+<meta name="rights" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="template/common/images/favicon.png">
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name"     content="Lukasz Konieczny BASS" />
+<meta property="og:title"         content="Lukasz Konieczny BASS" />
+<meta property="og:description"   content="Opera bass-singer, born in Lodz, Poland.
+Lukasz Konieczny graduated from the Karol Lipinski Academy of Music in Wroclaw, Poland. " />
+<meta property="og:image"         content="template/common/images/favicon.png" />
+<base href="http://lukaszkonieczny.eu/"/>
+
+<script  type="text/javascript">var SITE_URL = "http://lukaszkonieczny.eu/";var BASE_TMPL="http://lukaszkonieczny.eu/template/";var BASE_URL="http://lukaszkonieczny.eu/";var BASE_IMG="http://lukaszkonieczny.eu/images/";var $_GET={"lang":"robots.txt"};var $_POST=[];var EXERNAL_LIBS="http://lukaszkonieczny.eu/externals/";var LOCATION="http://lukaszkonieczny.eu/de/Main/index/"</script><link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/settings.css"/>
+
+<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/bootstrap.css"/>
+
+<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/style.css"/>
+
+<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/custom.css"/>
+
+<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/animate.css"/>
+
+<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/icons-fonts.css"/>
+<!-- IE Warning CSS -->
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/ie-warning.css"/>" ><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="<link type="text/css" property="stylesheet" rel="stylesheet" href="http://lukaszkonieczny.eu/template/common/css/ie8-fix.css"/>" ><![endif]-->
+</head>
+<body>
+<!-- LOADER -->
+<div id="loader-overflow">
+<div id="loader3">Bitte aktivieren Sie JS</div>
+</div>
+
+<div id="wrap" class="boxed ">
+<div class="grey-bg"> <!-- Grey BG  -->
+
+<!--[if lte IE 8]>
+<div id="ie-container">
+<div id="ie-cont-close">
+<a href='#' onclick='javascript&#058;this.parentNode.parentNode.style.display="none"; return false;'><img src='images/ie-warn/ie-warning-close.jpg' style='border: none;' alt='Close'></a>
+</div>
+<div id="ie-cont-content" >
+<div id="ie-cont-warning">
+<img src='src="http://lukaszkonieczny.eu/template/common/img/ie-warning.jpg"' alt='Warnung!'>
+</div>
+<div id="ie-cont-text" >
+<div id="ie-text-bold">
+Sie verwenden einen veralteten Browser						</div>
+<div id="ie-text">
+Fur eine bessere Erfahrung mit dieser Website, bitte aktualisieren Sie auf einen modernen Web-Browser.						</div>
+</div>
+<div id="ie-cont-brows" >
+<a href='http://www.firefox.com' target='_blank'><img src='src="http://lukaszkonieczny.eu/template/common/img/ie-warning-firefox.jpg"' alt='Download Firefox'></a>
+<a href='http://www.opera.com/download/' target='_blank'><img src='src="http://lukaszkonieczny.eu/template/common/img/ie-warning-opera.jpg"' alt='Download Opera'></a>
+<a href='http://www.apple.com/safari/download/' target='_blank'><img src='src="http://lukaszkonieczny.eu/template/common/img/ie-warning-safari.jpg"' alt='Download Safari'></a>
+<a href='http://www.google.com/chrome' target='_blank'><img src='src="http://lukaszkonieczny.eu/template/common/img/ie-warning-chrome.jpg"' alt='Download Google Chrome'></a>
+</div>
+</div>
+</div>
+<![endif]--><header id="nav-stick2" class="header header-1 header-side-menu white-header fixed white transparent">
+<div class="header-wrapper">
+<div class="container-m-30 clearfix">
+<div class="logo-row">
+<!-- LOGO -->
+<div class="logo-container-2">
+<div class="logo-2">
+<a href="http://lukaszkonieczny.eu/" class="clearfix logo-text">
+<h3 class="logo-textmain">LUKASZ KONIECZNY <span class="logo-color">BASS</span></h3>
+<p class="logo-subtext">OFFICIAL SITE</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-btn-respons-container2">
+<a class="fs-primary-nav-trigger" href="#"><span class="fs-menu-icon"></span></a>
+</div>
+<nav class="main-lang-nav"><div class="language_select">
+<a class="lang_link " href="de">DE</a>
+<a class="lang_link " href="en">EN</a>
+<a class="lang_link " href="pl">PL</a>
+</div></nav>
+
+</div> <!-- END header-wrapper -->
+
+</header>
+<div class="module"><div class="rs-fullscr-container parallax-section">
+<div class="js-height-fullscr">
+<!-- OPACITY container -->
+<div class="opacity-scroll2 height_100" style="opacity: 1;">
+<div class="container-p-10 height_100">
+<div class=" row no-gutter height_100">
+<div class="col-md-6 no-gutter height_100">
+<div class="image-fullsize image_background" style="background-image: url('images/page/lkonieczny.jpg');"></div>
+</div>
+<div class="col-md-6 no-gutter height_100">
+<div class="width_100 height_100 sm-content-cont text-center">
+<div class="sm-cont-middle">
+<div class="row">
+<div class="col-md-12 text-right">
+<h1 class="text-right"><span style="font-weight:900;">LUKASZ KONIECZNY</span> BASS</h1>
+<h2 class="text-right">OFFICIAL SITE</h2>
+<hr>
+<ul class="nav navbar-nav text-right">
+<li><a href="http://lukaszkonieczny.eu/de/c/ansicht/biographie" title="Biographie">Biographie</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/e/liste" title="Kalender">Kalender</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/c/ansicht/repertoire" title="Repertoire">Repertoire</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/g" title="Fotos">Fotos</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/c/medien" title="Medien">Medien</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/c/presse" title="Presse">Presse</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/kontakt" title="Kontakt">Kontakt</a></li>
+</ul>
+
+
+</div>
+</div>
+<div class="row mb-40">
+<div class="footer-social-icons">
+<h4 class="_14">Folgt mir auf</h4>
+<ul class="social-icons">
+<li><a href="https://www.facebook.com/lukaszkonieczny.bass/" class="social-icon"> <i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/luckonieczny" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
+
+<li><a href="https://www.youtube.com/channel/UCrnsFGz4NJURwSl4N_fUsfw" class="social-icon"> <i class="fa fa-youtube"></i></a></li>
+<li><a href="http://www.imgrum.org/user/luckonieczny/4283081942" class="social-icon"> <i class="fa fa-instagram"></i></a></li>
+
+</ul>
+</div>                                </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>                <footer class="footer">
+<div class="scripts clearfix">
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/jquery-1.11.2.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/bootstrap.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/jquery.magnific.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/isotope.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/imagesloaded.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/lazyload.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/masonry.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/jquery.countTo.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/jquery.appear.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/jquery.stellar.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/owl.carousel.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/themepunch.tools.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/themepunch.paralax.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/fs-menu.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/side-menu.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/main.js"></script>
+
+<script  type="text/javascript" src="http://lukaszkonieczny.eu/template/common/js/script.js"></script>
+</div>
+<div class="specific clearfix ">
+</div>
+</footer>
+</div><!-- End BG -->
+</div><!-- End wrap -->	                <!-- BUTTON -->
+<!-- MAIN MENU -->
+<nav class="fs-primary-nav" role="navigation">
+<ul class="block-center-xy">
+<!-- MENU ITEM -->
+<li><a href="http://lukaszkonieczny.eu/de/c/ansicht/biographie" title="Biographie">Biographie</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/e/liste" title="Kalender">Kalender</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/c/ansicht/repertoire" title="Repertoire">Repertoire</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/g" title="Fotos">Fotos</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/c/medien" title="Medien">Medien</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/c/presse" title="Presse">Presse</a></li>
+<li><a href="http://lukaszkonieczny.eu/de/kontakt" title="Kontakt">Kontakt</a></li>
+
+</ul>
+</nav>
+<!-- END main-menu -->
+<div class="hidden-md hidden-lg"><div id="share-bar" class="share-affix" style="left: auto; right: -100px; top: 38%;">
+<a target="_blank" href="http://www.imgrum.org/user/luckonieczny/4283081942" title="Share this page on instagram" class="fa fa-instagram share-icon" style="display: block;"></a>
+<a target="_blank" href="https://www.facebook.com/lukaszkonieczny.bass/" title="Share this page on facebook" class="fa fa-facebook share-icon" style="display: block;"></a>
+<a target="_blank" href="https://twitter.com/luckonieczny" title="Share this page on twitter" class="fa fa-twitter share-icon" style="display: block;"></a>
+<a target="_blank" href="mailto:info@lukaszkonieczny.eu" title="Share this page on email" class="icon_mail_alt share-icon" style="display: block;"></a>
+</div></div>    </body>
+</html>

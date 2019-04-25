@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cms/administrator/
+Disallow: /cms/cache/
+Disallow: /cms/components/
+Disallow: /cms/images/
+Disallow: /cms/includes/
+Disallow: /cms/installation/
+Disallow: /cms/language/
+Disallow: /cms/libraries/
+Disallow: /cms/logs/
+Disallow: /cms/media/
+Disallow: /cms/modules/
+Disallow: /cms/plugins/
+Disallow: /cms/templates/
+Disallow: /cms/tmp/

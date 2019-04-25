@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /application/
+Disallow: /backups/
+Disallow: /cgi-bin/
+Disallow: /feeds/
+Disallow: /includes/
+Disallow: /sessions/
+Disallow: /system/

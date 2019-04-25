@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 4 # specifies a delay of 2 seconds
+
+User-agent: *
+Disallow: /*/login.do$
+
+

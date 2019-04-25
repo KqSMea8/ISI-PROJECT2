@@ -1,0 +1,397 @@
+<head>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,300italic&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+<title>Polskie Towarzystwo Lesne | Oddzial we Wroclawiu</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://wroclaw.ptl.pl/animate.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://wroclaw.ptl.pl/js/woothemes-FlexSlider-06b12f8/flexslider.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://wroclaw.ptl.pl/js/prettyPhoto_3.1.5/prettyPhoto.css" type="text/css" media="screen">
+<link href="http://wroclaw.ptl.pl/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://wroclaw.ptl.pl/fonts/font-awesome/css/font-awesome.min.css" media="screen">
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/modernizr.custom.48287.js"></script>
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://wroclaw.ptl.pl/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://wroclaw.ptl.pl/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://wroclaw.ptl.pl/apple-touch-fa-57x57-precomposed.png">
+<link rel="shortcut icon" href="http://wroclaw.ptl.pl/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><header>
+<div class="container">
+<div class="navbar navbar-default" role="navigation">
+<div class="navbar-header"><a class="navbar-brand" href="index.html"> <img src="http://wroclaw.ptl.pl/images/ptllogo.png" alt="optional logo" height="90" width="140"> <span class="logo_title">Polskie Towarzystwo Lesne</span> <span class="logo_subtitle"><i>Pro Bono Silvae - dla dobra lasu</i><br>Oddzial we Wroclawiu</span> </a><a class="btn btn-navbar btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="nb_left pull-left"> <span class="fa fa-reorder"></span></span> <span class="nb_right pull-right">menu</span> </a></div>
+<div class="collapse navbar-collapse">
+<ul class="nav pull-right navbar-nav">
+<li class="active"><a href="http://wroclaw.ptl.pl/">Start</a></li>
+<li ><a href="http://wroclaw.ptl.pl/komunikaty.html">Aktualnosci</a></li>
+<li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Nasz oddzial<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="http://wroclaw.ptl.pl/zarzad.html">Zarzad Oddzialu</a></li>
+<li><a href="http://wroclaw.ptl.pl/kola.html">Kola PTL</a></li>
+<li><a href="http://wroclaw.ptl.pl/odznaki.html">Odznaki honorowe</a></li>
+<li><a href="http://wroclaw.ptl.pl/komunikatywew.html">Komunikaty wewnetrzne</a></li>
+<li><a href="http://wroclaw.ptl.pl/deklaracja.doc">deklaracja Czlonkowska</a></li>
+<li><a href="http://wroclaw.ptl.pl/polityka-rodo.html">Polityka RODO</a></li>
+</ul>
+</li>
+<li><a href="http://www.ptl.pl">Zarzad glowny</a></li>
+<li ><a href="kontakt.html">Kontakt</a></li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<section id="slider_wrapper" class="slider_wrapper full_page_photo">
+<div id="main_flexslider" class="flexslider">
+
+<ul class="slides">
+
+
+<li class="item" style="background-image: url(http://wroclaw.ptl.pl/images/2.jpg)">
+<div class="container">
+<div class="carousel-caption">
+<h1><strong>Polskie Towarzystwo Lesne</strong><br>
+Oddzial we Wroclawiu </h1>
+<p class="lead skincolored">Popularyzacja wiedzy lesnej: zarowno wsrod samych lesnikow jak i w calym spoleczenstwie</p>
+</div>
+</div>
+</li>
+
+<li class="item" style="background-image: url(http://wroclaw.ptl.pl/images/3.jpg)">
+<div class="container">
+<div class="carousel-caption">
+<h1><strong>Polskie Towarzystwo Lesne</strong><br>
+Oddzial we Wroclawiu </h1>
+<p class="lead skincolored">Wydawane od 1820r. czasopismo SYLWAN: jedno z najstarszych czasopism lesnych na swiecie!</p>
+</div>
+</div>
+</li>
+
+<li class="item" style="background-image: url(http://wroclaw.ptl.pl/images/1.jpg)">
+<div class="container">
+<div class="carousel-caption">
+<h1><strong>Polskie Towarzystwo Lesne</strong><br>
+Oddzial we Wroclawiu </h1>
+<p class="lead skincolored">Inicjacja rozwoju badan naukowych w lesnictwie, powiazanie nauki z praktyka i efektywne wdrazanie rozwiazan najcenniejszych dla praktyki!</p>
+</div>
+</div>
+</li>
+
+</ul>
+
+</div>
+</section>
+
+
+
+<div class="main">
+<div class="container">
+<section class="hgroup">
+<h1>Witamy na stronie glownej</h1>
+
+
+</section>
+<section class="article-text">
+<div class="row">
+<div class="col-sm-8 col-md-8">
+<div class="cushycms"><div style="text-align: justify;"> <div style="text-align: center;">
+&nbsp;</div>
+<div style="text-align: justify;">
+Poczatki Polskiego Towarzystwa Lesnego siegaja roku&nbsp;<strong>1882</strong>, kiedy to we Lwowie odbyl sie I Walny Zjazd Galicyjskiego Towarzystwa Lesnego. Pod nazwa obecna Towarzystwo istnieje od&nbsp;<strong>1925</strong>&nbsp;roku. II Wojna Swiatowa przerwala jego dzialalnosc. Wznowiono ja w roku 1946, a w rok p&oacute;zniej ukazal sie kolejny numer&nbsp;<strong>Sylwana- wychodzacego od 1820 roku, najstarszego pisma lesnego w Polsce i jednego z najstarszych tego typu na swiecie</strong>.</div>
+<div>
+&nbsp;</div>
+<div style="text-align: justify;">
+Dzialalnosc Polskiego Towarzystwa Lesnego nalezy do chlubnych kart historii naszego lesnictwa. Towarzystwo bylo obecne we wszystkich momentach waznych dla rozwoju i ksztaltu gospodarki lesnej, wspieralo ja wiedza i doswiadczeniem swoich czlonk&oacute;w. Tak jest r&oacute;wniez i teraz. W szeregach Towarzystwa dzialaja lesnicy- naukowcy i praktycy. Czlonkami PTL moga byc r&oacute;wniez, i sa, ludzie zainteresowani lasem, lecz nie zwiazani z nim zawodowo. Do Polskiego Towarzystwa Lesnego naleza opr&oacute;cz lesnik&oacute;w reprezentanci innych zawod&oacute;w. Szeregi Towarzystwa otwarte sa dla kazdego, komu nie jest obojetny los i stan polskich las&oacute;w.</div>
+<div>
+&nbsp;</div>
+<div style="text-align: justify;">
+<br />
+Jednym z&nbsp; podstawowych zadan Towarzystwa jest<strong>&nbsp;inicjowanie badan naukowych na potrzeby lesnictwa oraz powiazanie nauki z praktyka</strong>&nbsp;czyli efektywne wdrazanie najcenniejszych rozwiazan do praktyki. Polskie Towarzystwo Lesne bierze czynny udzial w toczacych sie dyskusjach nad przyszlym ksztaltem gospodarki lesnej, m.in. W opracowywaniu zalozen strategii rozwoju las&oacute;w, zalozen polityki lesnej i sposob&oacute;w ochrony zasob&oacute;w lesnych.</div>
+<div>
+&nbsp;</div>
+<div style="text-align: justify;">
+Innym priorytetowym zadaniem jest&nbsp;<strong>popularyzacja wiedzy lesnej, zar&oacute;wno wsr&oacute;d samych lesnik&oacute;w, jak i w calym spoleczenstwie</strong>. Tradycyjna forma tej dzialalnosci sa wyklady, odczyty, zebrania dyskusyjne, konferencje i wydawnictwa poswiecone r&oacute;znorodnym problemom las&oacute;w i lesnictwa.&nbsp;<strong>Centralnym punktem dzialalnosci wydawniczej Towarzystwa jest czasopismo &bdquo;Sylwan&rdquo;</strong>. Staraniem PTL wydawane sa r&oacute;wniez inne opracowania i materialy zwiazane z lesnictwem.</div>
+<div>
+&nbsp;</div>
+<div style="text-align: justify;">
+<br />
+Polskie Towarzystwo Lesne rozwija wsp&oacute;lprace z podobnymi organizacjami za granica, uczestniczy w wymianie mysli i doswiadczen miedzy osrodkami naukowymi oraz reprezentuje polskie lesnictwo za granica. PTL od wielu lat jest&nbsp;<strong>czlonkiem Miedzynarodowej Unii Ochrony Przyrody (IUCN)</strong>.</div>
+<div>
+<br />
+Towarzystwo stoi na strazy kultury i tradycji polskiego lesnictwa oraz jednoczy srodowisko lesnik&oacute;w&nbsp; w calym kraju.<br />
+<br />
+<p style="text-align: justify;">
+<strong>Na Dolnym Slasku Oddzial PTL (do 1957 roku PNTL) powolano w 1946 roku przy Dyrekcji Las&oacute;w Panstwowych we Wroclawiu.</strong> Zawiazaly sie cztery kola terenowe zrzeszajace 60 czlonk&oacute;w: przy Dyrekcji Las&oacute;w Panstwach we Wroclawiu, przy Rejonach Las&oacute;w Panstwowych w Klodzku i Sobieszowie oraz przy Sekcji Urzadzania Lasu w Brzegu.</p>
+<p style="text-align: justify;">
+Pierwszym przewodniczacym Oddzialu byl dyrektor inz. Jan Tomaka, kt&oacute;ry funkcje ta z duzym zaangazowaniem pelnil w latach 1946 - 1949. Kolejnymi przewodniczacymi Oddzialu w ujeciu chronologicznym byli:</p>
+<ul>
+<li>
+Stefan Bilczynski, w latach 1950&nbsp; - 1953,</li>
+<li>
+Blazej Fila, w latach 1954 - 1959,</li>
+<li>
+Tadeusz Mika, w latach 1959 - 1962,</li>
+<li>
+Stefan Niwinski, w latach 1962 - 1973,</li>
+<li>
+Aleksander Komar, w latach 1973 - 1983,</li>
+<li>
+Miroslaw Bugajski, w latach 1983 - 1988,</li>
+<li>
+Michal Gniewek, w latach 1988 - 1991,</li>
+<li>
+Bogdan Skoluda, w latach 1991 - 1993,</li>
+<li>
+Adam Plaksej, w latach 1993 - 1996,</li>
+<li>
+Michal Lewcio, w latach 1996 - 2002,</li>
+<li>
+Henryk Zak, w latach 2002 - 2009</li>
+<li>
+Jaroslaw G&oacute;ral, od 2009.</li>
+</ul>
+<p>
+<br />
+Oddzial PTL we Wroclawiu byl pieciokrotnie gospodarzem zjazdu delegat&oacute;w oddzial&oacute;w:</p>
+<ol>
+<li style="text-align: justify;">
+<strong>4.07.1949 r. we Wroclawiu</strong> &ndash; tematem Zjazdu byly wylacznie sprawy organizacyjne stowarzyszenia.</li>
+<li style="text-align: justify;">
+<strong>17-21.09.1957 r. w Polanicy Zdroju i Szklarskiej Porebie</strong> - z sesja naukowa na temat zagospodarowania las&oacute;w sudeckich oraz 75-lecia PTL (Kupczynski 1958, PTL 1958).</li>
+<li style="text-align: justify;">
+<strong>2-4.09.1977 r. we Wroclawiu</strong> &ndash; z sesja naukowa na temat integracji lesnictwa i przemyslu drzewnego.</li>
+<li style="text-align: justify;">
+<strong>16-18.09.1993 r. w Szklarskiej Porebie</strong> &ndash; z sesja naukowa poswiecona problemowi odbudowy las&oacute;w w Sudetach Zachodnich.</li>
+<li style="text-align: justify;">
+<strong>1-3.09.2005 r. w Szklarskiej Porebie</strong> - z sesja naukowa&nbsp; &quot;Gospodarka lesna na obszarach kleskowych&quot;.</li>
+</ol>
+<p>
+<br />
+Organizowano r&oacute;wniez specjalne konferencje naukowe:</p>
+<ul>
+<li style="text-align: justify;">
+w 1956 roku przy wsp&oacute;lpracy z katedra Melioracji Wodnych Wyzszej Szkoly Rolniczej we Wroclawiu na terenie Klodczyzny na temat &bdquo;Potoki g&oacute;rskie i ich znaczenie w gospodarstwie lesnym&rdquo;.</li>
+<li style="text-align: justify;">
+w 1961 roku w Karpaczu na temat &bdquo;Zabudowa potok&oacute;w w Sudetach&rdquo; a w Ruszowie na temat &bdquo;Zasady projektowania melioracji wodnych w lasach&rdquo;.</li>
+<li style="text-align: justify;">
+w 2006 roku na terenie Nadlesnictw Ladek oraz Miedzylesie na temat &bdquo;Stan zdrowotny drzewostan&oacute;w swierkowych w Nadlesnictwach g&oacute;rskich oraz sposoby minimalizowania zagrozen&rdquo;.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p style="text-align: justify;">
+Oddzial PTL wsp&oacute;luczestniczyl w akcjach propagujacych problemy lesnictwa. I tak w roku 1948 jego czlonkowie wzieli czynny udzial w organizowaniu pawilonu lesnego i drzewnego na Krajowej Wystawie Ziem Odzyskanych we Wroclawiu.</p>
+<ul>
+<li style="text-align: justify;">
+W 1954 roku oddzial wsp&oacute;lpracowal w zakresie organizacji oraz informacji w dziale lesnictwa na Krajowej Wystawie Wynalazczosci we Wroclawiu. Popularyzacji wiedzy o lasach sluzylo wydanie przez Oddzial kilku broszur opracowanych miedzy innymi przez S. Bilczynskiego, a mianowicie:</li>
+<li style="text-align: justify;">
+1952 rok, &bdquo;Przyplaszczek granatek i jego zwalczanie&quot;, &quot;Wazne szkodniki wt&oacute;rne sosny i ich zwalczanie&rdquo;;</li>
+<li>
+1954 rok, &bdquo;Kornik drukarz i jego zwalczanie&rdquo;;</li>
+<li>
+1958 rok, &bdquo;Zabezpieczenie las&oacute;w przed szkodami od zwierzyny&rdquo;.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p style="text-align: justify;">
+Publikacje te byly szczeg&oacute;lnie pozyteczne, bowiem omawialy aktualne problemy dotyczace szk&oacute;d w drzewostanach. Nalezy zaznaczyc, ze wymienione powyzej broszury mialy duze znaczenie takze dlatego, ze nie bylo w&oacute;wczas innych, szeroko dostepnych opracowan dotyczacych tej problematyki. Nie spos&oacute;b jest wymienic wszystkich terenowych aktywist&oacute;w Towarzystwa, kt&oacute;rzy wniesli duzy wklad pracy i inwencji organizacyjnej w calym powojennym okresie dzialalnosci Oddzialu PTL we Wroclawiu. Naleza do nich: Stefan Bilczynski, Gustaw Bochenek, Miroslaw Bugajski, Blazej Fila, Aleksander Komar, Kazimierz Lipinski, Tadeusz Mika, Stefan Niwinski, Henryk Ostrowski, Leokadia Skwarnik, Boleslaw Spring, Kazimierz Toka i Jan Tomaka.</p>
+<p style="text-align: justify;">
+Obecnie Oddzial PTL we Wroclawiu liczy <strong>ponad 400 czlonk&oacute;w</strong>, zrzeszonych w 17 kolach terenowych.</p>
+</div>
+<br />
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="feature_teaser col-sm-4 col-md-4">
+<a href="komunikaty.html"><img src="images/mini1.jpg"></a> <br><br>
+<a href="http://www.ptl.pl"><img src="images/mini2.jpg"></a>
+
+</div>
+</div>
+</section>
+
+<section class="portfolio_teasers_wrapper">
+<h2 class="section_header fancy centered">Zainspiruj sie lasem!<small>Galeria zdjec p. Marka Kiedrowskiego</small></h2>
+<div class="portfolio_strict row">
+
+<div class="col-sm-4 col-md-4">
+<div class="portfolio_item wow animated flipInX"> <a href="" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+<figure style="background-image:url(images/gal1.jpg)">
+<svg viewBox="0 0 180 320" preserveAspectRatio="none">
+<path d="M 180,0 0,0 0,0 180,0 z"/>
+</svg>
+<figcaption>
+<p>(r) Marek Kiedrowski</p>
+</figcaption>
+</figure>
+</a>
+
+<div class="portfolio_description">
+
+
+</div>
+
+</div>
+</div>
+
+
+<div class="col-sm-4 col-md-4">
+<div class="portfolio_item wow animated flipInX"> <a href="" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+<figure style="background-image:url(images/gal2.jpg)">
+<svg viewBox="0 0 180 320" preserveAspectRatio="none">
+<path d="M 180,0 0,0 0,0 180,0 z"/>
+</svg>
+<figcaption>
+<p>(r) Marek Kiedrowski</p>
+</figcaption>
+</figure>
+</a>
+<div class="portfolio_description">
+
+
+</div>
+</div>
+</div>
+
+
+<div class="col-sm-4 col-md-4">
+<div class="portfolio_item wow animated flipInX"> <a href="" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+<figure style="background-image:url(images/gal5.jpg)">
+<svg viewBox="0 0 180 320" preserveAspectRatio="none">
+<path d="M 180,0 0,0 0,0 180,0 z"/>
+</svg>
+<figcaption>
+<p>(r) Marek Kiedrowski</p>
+</figcaption>
+</figure>
+</a>
+<div class="portfolio_description">
+
+
+</div>
+</div>
+</div>
+
+
+
+<div class="col-sm-4 col-md-4">
+<div class="portfolio_item wow animated flipInX"> <a href="" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+<figure style="background-image:url(images/gal4.jpg)">
+<svg viewBox="0 0 180 320" preserveAspectRatio="none">
+<path d="M 180,0 0,0 0,0 180,0 z"/>
+</svg>
+<figcaption>
+<p>(r) Marek Kiedrowski</p>
+</figcaption>
+</figure>
+</a>
+<div class="portfolio_description">
+
+
+</div>
+</div>
+</div>
+
+<div class="col-sm-4 col-md-4">
+<div class="portfolio_item wow animated flipInX">
+<a href="" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+<figure style="background-image:url(images/gal3.jpg)">
+<svg viewBox="0 0 180 320" preserveAspectRatio="none">
+<path d="M 180,0 0,0 0,0 180,0 z"/>
+</svg>
+<figcaption>
+<p>(r) Marek Kiedrowski</p>
+</figcaption>
+</figure>
+</a>
+<div class="portfolio_description">
+
+
+</div>
+
+</div>
+</div>
+
+<div class="col-sm-4 col-md-4">
+<div class="portfolio_item wow animated flipInX">
+<a href="" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+<figure style="background-image:url(images/gal6.jpg)">
+<svg viewBox="0 0 180 320" preserveAspectRatio="none">
+<path d="M 180,0 0,0 0,0 180,0 z"/>
+</svg>
+<figcaption>
+<p>(r) Marek Kiedrowski</p>
+</figcaption>
+</figure>
+</a>
+<div class="portfolio_description">
+
+
+</div>
+
+</div>
+</div>
+
+
+
+
+
+</div>
+</div>
+
+
+</div><footer>
+<section id="footer_teasers_wrapper">
+<div class="container">
+<div class="row">
+<div class="footer_teaser col-sm-3 col-md-3">
+<h3>KONTAKT</h3>
+<p>Polskie Towarzystwo Lesne<br>
+Oddzial we Wroclawiu<br>
+ul. Grunwaldzka 90, 50 -357 Wroclaw      </p>
+<p><i class="fa fa-phone"></i> tel.:+48 71 377 17 86</p>
+
+<p> <a href="mailto:wroclaw@ptl.pl">wroclaw@ptl.pl</a></p>
+</div>
+
+<div class="footer_teaser col-sm-9 col-md-9" id="latest-flickr-images">
+<h3>Czy wiesz, ze:</h3>
+<p>
+<strong>Polskie Towarzystwo Lesne</strong><br />
+Oddzial we Wroclawiu<br />
+<br />
+Przewodniczacy Zarzadu:<br />
+<em>T: +48 502 341 134</em><br />
+<em>E: j.goral@lasy.gov.pl<br />
+<br />
+Sekretarz Zarzadu:<br />
+T: 502 355 210<br />
+E: k.nowik@lasy.gov.pl</em></p>
+</div>
+</div>
+</div>
+</section>
+<section class="copyright">
+<div class="container">
+<div class="row">
+<div class="col-sm-6 col-md-6"> Copyright (c)2014 </div>
+<div class="text-right col-sm-6 col-md-6"> Projekt i realizacja: <a href="http://innoventi.pl" target="_blank">innoventi.pl</a> </div>
+</div>
+</div>
+</section>
+</footer><script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-1.9.0.min.js"><\/script>')</script>
+<script src="http://wroclaw.ptl.pl/twitter-bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://wroclaw.ptl.pl/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js"></script>
+<script src="http://wroclaw.ptl.pl/js/prettyPhoto_3.1.5/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://wroclaw.ptl.pl/js/isotope/jquery.isotope.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/jquery.ui.totop.js"></script>
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/easing.js"></script>
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/wow.min.js"></script>
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/snap.svg-min.js"></script>
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/restart_theme.js"></script>
+<script type="text/javascript" src="http://wroclaw.ptl.pl/js/collapser.js"></script>

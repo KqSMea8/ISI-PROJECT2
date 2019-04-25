@@ -1,0 +1,14 @@
+User-agent: Slurp
+Crawl-delay: 10
+Disallow: /admin/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /data/
+Disallow: /layout/
+Disallow: /library/
+Disallow: /objects/
+Disallow: /stat/
+Disallow: /default.asp
+Disallow: /*.asp*
+Disallow: /*/
+Disallow: /*.asp

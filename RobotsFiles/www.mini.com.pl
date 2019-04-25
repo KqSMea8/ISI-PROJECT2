@@ -1,0 +1,9 @@
+User-agent:*
+Disallow:/content/
+Sitemap:https://www.mini.com.pl/pl_PL/home.sitemap.xml
+Allow:/content/dam/MINI/
+Disallow:/?
+Disallow:*/standard-selector/*.*.html
+Disallow:*/disclaimers/*.*.html
+Disallow:*/why-mini-campaign/*.*.html
+Disallow:*/trainingpool/*.*.html

@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+User-agent: GoogleBot
+Disallow: /a-12-sadzenie-drzew$
+User-agent: GoogleBot
+Disallow: /a-13-projektanci$
+User-agent: GoogleBot
+Disallow: /a-9-wspolpraca$
+User-agent: GoogleBot
+Disallow: /a-10-partnerzy$
+User-agent: GoogleBot
+Disallow: /a-11-produkty$
+User-agent: GoogleBot
+Disallow: /a-8-kontakt$
+User-agent: GoogleBot
+Disallow: /a-14-cennik$
+User-agent: GoogleBot
+Disallow: /a-7-kasparo$
+

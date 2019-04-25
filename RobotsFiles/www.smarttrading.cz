@@ -1,0 +1,369 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="cs" xml:lang="cs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Smart Trading Company - sheet metal components enclosures and cabinets</title>
+<meta name="description" content="Smart Trading Company - sheet metal components enclosures, outdoor and indoor cabinets" />
+<meta name="keywords" content="outdoor cabinets, indoor cabinets, enclosures, bus bar, punching, laser, bending, cnc, copper processing, powder painting, assembly, fitting, design, 3D visualisation, packaging, transportation" />
+<meta name="robots" content="index,follow" />
+<meta name="author" content="INTRO - reklamni studio" />
+<meta name="webmaster" content="Hubert Frey " />
+<meta name="copyright" content="Smart Trading Company s.r.o." />
+<meta name="MS.LOCALE" content="cs" />
+<meta name="dc.language" content="cs" />
+<meta name="geo.country" content="CZ" />
+<link rel="shortcut icon" href="/css/design/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/css/design/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" media="screen" type="text/css" href="/css/screen.css" />
+<link rel="stylesheet" media="screen" type="text/css" href="/css/additional.css" />
+
+<!-- ExtJS -->
+<script type="text/javascript" src="/libs/ext/ext.js"></script>
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<!-- Slimbox2 -->
+<script type="text/javascript" src="/libs/slimbox2/slimbox2.js"></script>
+<!-- jQuery tabs -->
+<!--script type="text/javascript" src="/libs/jquery/ui.core.js"></script>
+<script type="text/javascript" src="/libs/jquery/ui.tabs.js"></script-->
+<!-- jQuery Slides -->
+<script type="text/javascript" src="/libs/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/libs/jquery/jquery.mousewheel.js"></script>
+
+<script type="text/javascript" src="/libs/app.js"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-43651735-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+</head>
+<body id="homepage">	<!-- MAIN -->
+<div id="main">
+<!-- HEADER -->
+<div id="header_container">
+<div id="header">
+
+<a id="logo" href="/" title="Smart Trading Company - sheet metal components enclosures, outdoor and indoor cabinets">
+<img src="/userfiles/images/loga/logo-smart-trading-218x37.png" alt="Smart Trading Company - sheet metal components enclosures and cabinets" />
+</a>
+<div id="language_flags">
+<a class="active" href="http://www.smarttrading.cz" title="english">en</a>
+<a href="http://www.smarttrading.cz/cz/" title="cesky">cz</a>
+</div>
+<!-- TOP MENU -->
+<div id="topmenu">
+<ul>
+<li class="first selected">
+<a class="selected" href="http://www.smarttrading.cz/" title="Smart Trading Company - sheet metal components enclosures and cabinets" target="_self"><span>Home</span></a>
+</li>
+<li>
+<a class="has_descendants even" href="/company/" title="Company | Smart Trading Company - history, our beginnings, about company" target="_self"><span>Company</span></a>
+<div class="wrap level_2">
+<ul>
+<li class="first">
+<a href="/history/" title="History" target="_self"><span>History</span></a>
+</li>
+<li>
+<a class="even" href="/policy-of-the-integrated-management/" title="Politika integrovaneho managementu" target="_self"><span>Policy of the integrated management</span></a>
+</li>
+<li>
+<a href="/declaration-of-performance/" title="Declaration of Performance" target="_self"><span>Declaration of Performance</span></a>
+</li>
+<li>
+<a class="even" href="/certificates/" title="Certificates" target="_self"><span>Certificates</span></a>
+</li>
+<li>
+<a href="/terms-and-conditions/" title="Terms and conditions" target="_self"><span>Terms and conditions</span></a>
+</li>
+</ul>
+</div> <!--// .wrap -->
+<li>
+<a class="has_descendants" href="/products/" title="Products | Smart Trading Company - outdoor and indoor cabinets, enclosures, bus bars, copper items, mechanical components, renewable energy, heating, advertising applications" target="_self"><span>Products</span></a>
+<div class="wrap level_2">
+<ul>
+<li class="first">
+<a class="has_descendants" href="/solutions-for-the-telecommunications-electronics-and-energy/" title="Solutions for the telecommunications, electronics and energy" target="_self"><span>Solutions for the telecommunications, electronics and energy</span></a>
+<div class="wrap level_3">
+<ul>
+<li class="first">
+<a href="/cabinets-outdoor/" title="Cabinets" target="_self"><span>Cabinets (Outdoor)</span></a>
+</li>
+<li>
+<a class="even" href="/cabinets-indoor/" title="Cabinets (Indoor)" target="_self"><span>Cabinets (Indoor)</span></a>
+</li>
+<li>
+<a href="/mechanical-components/" title="Mechanical components" target="_self"><span>Mechanical components</span></a>
+</li>
+</ul>
+</div> <!--// .wrap -->
+<li>
+<a class="has_descendants even" href="/heating-technology-equipments/" title="Heating Technology equipments " target="_self"><span>Heating Technology equipments </span></a>
+<div class="wrap level_3">
+<ul>
+<li class="first">
+<a href="/fully-automatic-boilers-for-biomass-150-500-kw/" title="Full automatic biomass boilers (150-500 kW)" target="_self"><span>Fully automatic boilers for biomass  (150-500 kW)</span></a>
+</li>
+</ul>
+</div> <!--// .wrap -->
+</li>
+</ul>
+</div> <!--// .wrap -->
+<li>
+<a class="has_descendants even" href="/services-and-production/" title="Services and production | Smart Trading Company - cnc equipment, copper processing, assembly, fitting, powder painting, packaging, transportation" target="_self"><span>Services and production</span></a>
+<div class="wrap level_2">
+<ul>
+<li class="first">
+<a class="has_descendants" href="/cnc-equipment/" title="CNC Equipment | Smart Trading Company - CNC Punching Presses/ Lasers and Bending" target="_self"><span>CNC Equipment</span></a>
+<div class="wrap level_3">
+<ul>
+<li class="first">
+<a href="/lasers-cnc-punching-presses/" title="Lasers/ CNC Punching Presses | STC" target="_self"><span>Lasers/ CNC Punching Presses</span></a>
+</li>
+<li>
+<a class="even" href="/bending/" title="Bending | Smart Trading Company - Press brake and Automatic bending centers" target="_self"><span>Bending</span></a>
+</li>
+<li>
+<a href="/pur-foam-gasketing/" title="PUR foam gasketing" target="_self"><span>PUR foam gasketing</span></a>
+</li>
+<li>
+<a class="even" href="/pressing-elements/" title="Pressing elements" target="_self"><span>Pressing elements</span></a>
+</li>
+</ul>
+</div> <!--// .wrap -->
+<li>
+<a class="even" href="/copper-processing/" title="Copper processing" target="_self"><span>Copper processing</span></a>
+</li>
+<li>
+<a href="/design/" title="Design" target="_self"><span>Design</span></a>
+</li>
+<li>
+<a class="even" href="/fitting/" title="Fitting | Smart Trading Company" target="_self"><span>Fitting</span></a>
+</li>
+<li>
+<a href="/assembly/" title="Assembly" target="_self"><span>Assembly</span></a>
+</li>
+<li>
+<a class="even" href="/powder-coating/" title="Powder coating" target="_self"><span>Powder coating</span></a>
+</li>
+<li>
+<a href="/packaging/" title="Packaging" target="_self"><span>Packaging</span></a>
+</li>
+<li>
+<a class="even" href="/transportation/" title="Transportation" target="_self"><span>Transportation</span></a>
+</li>
+</ul>
+</div> <!--// .wrap -->
+<li>
+<a href="/http-cz-kariera/" title="Career" target="_self"><span>Career</span></a>
+</li>
+<li>
+<a class="even" href="/contact/" title="Contact | Smart Trading Company - sheet metal components enclosures and cabinets" target="_self"><span>Contact</span></a>
+</li>
+</ul>
+</div><!--// TOP MENU -->			<br class="clear" />
+</div> <!--// #header -->
+</div> <!--// #header_container -->
+<br class="clear" />
+
+<!-- WRAPPER -->
+<div id="wrapper">
+<div id="wrapper_container">
+<div id="content_wrapper">
+
+<div id="under_header">
+<div class="panel first plain full hp_slideshow">
+<div class="content left">
+<div id="slideshow_1" class="slideshow" data-play="5000" data-pagination="1" data-prev-next="">
+<div class="slides_container">
+<div class="slide nojs">
+<a href="/company/" title="Producer of mechanical components" target="_self">
+<img src="/userfiles/images/hlavicky/P1100715home.gif" alt="Slide 1">
+</a>
+<div class="caption">
+<p>Producer of mechanical components</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/P7170018.gif" alt="We are the leader in our the field">
+<div class="caption">
+<p>We are the leader in our the field</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<a href="bending/" title="Latest technologies" target="_self">
+<img src="/userfiles/images/hlavicky/DSCF7763.gif" alt="Slide 3">
+</a>
+<div class="caption">
+<p>Latest technologies</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/DSCF7793up.gif" alt="Speed, accuracy and quality">
+<div class="caption">
+<p>Speed, accuracy and quality</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<a href="/copper-processing/" title="Copper processing" target="_self">
+<img src="/userfiles/images/hlavicky/P7090067.gif" alt="Slide 5">
+</a>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/P4108345.gif" alt="Cabinets">
+</div> <!--// .slide -->
+<div class="slide nojs">
+<a href="/bending/" title="Bending" target="_self">
+<img src="/userfiles/images/hlavicky/P1060985.gif" alt="Slide 7">
+</a>
+<div class="caption">
+<p>Bending</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/smart-(124-of-361).gif" alt="Gema">
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/smart-(22-of-361).gif" alt="Manual spray booths">
+<div class="caption">
+<p>Manual spray booths</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/P7010010.gif" alt="produkty">
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/P1060993.gif" alt="The modern fully automated line">
+<div class="caption">
+<p>The modern fully automated line</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/hlavicky/IMG_1076.gif" alt="Garage box">
+<div class="caption">
+<p>Garage box</p>
+</div>
+</div> <!--// .slide -->
+<div class="slide nojs">
+<img src="/userfiles/images/stranky/Home/P1130652home.gif" alt="Aerial photo">
+<div class="caption">
+<p>Aerial photo</p>
+</div>
+</div> <!--// .slide -->
+</div> <!--// .slides_container -->
+</div> <!--// #slides -->
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<br class="clear" />
+</div> <!--// #under_header -->					<!-- CONTENT COLUMN -->
+<div id="contentcol">
+</div> <!--// #contentcol -->
+</div> <!--// #content_wrapper -->
+
+<div id="rightcol">
+<div class="panel first plain full quick_contact">
+<div class="content left"><h2>Contact</h2>
+<table border="0" class="full">
+<tbody>
+<tr>
+<td><img width="13" height="18" align="absMiddle" src="/userfiles/images/Ikony/icon-phone.png" alt="icon phone" /></td>
+<td><strong>Tel.:</strong> +420 596 247 391</td>
+</tr>
+<tr>
+<td><img width="14" height="14" align="absMiddle" src="/userfiles/images/Ikony/icon-email.png" alt="icon email" /></td>
+<td><strong>E-mail:</strong> <a href="javascript:location.href='mailto:'+String.fromCharCode(105,110,102,111,64,115,109,97,114,116,116,114,97,100,105,110,103,46,99,122)+'?'">info@smarttrading.cz</a></td>
+</tr>
+</tbody>
+</table>
+<!-- <h3 style="text-align: center;">Smart Industrial Park</h3>
+<p style="text-align: center;"><a href="" title=""><img width="186" height="65" src="/userfiles/images/stranky/smart-industrial-park-186x65.png" alt="Smart Industrial Park" /></a></p>
+<p style="text-align: center;"><a title="Smart Industrial Park" href="/smart-industrial-park/">Click for more information</a></p> -->
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<br class="clear" />
+</div> <!--// #rightcol -->				<br class="clear" />
+
+<div id="under_content">
+<div class="panel first graphic left fourth company">
+<div class="content left"><h2><a title="About Smart Trading Company" href="/company/" target="_self">Company</a></h2>
+<div><img width="239" height="123" alt="" src="/userfiles/images/stranky/Home/P1130520-rozli%C5%A1en%C3%AD_239x123.gif" /></div>
+<p style="text-align: left;">Producer of mechanical components. The products are made mostly from thin panelled sheet metal and...<strong><br />
+</strong></p>
+<p style="text-align: right;"><a title="About Smart Trading Company" href="/company/" target="_self">More</a></p>
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<div class="panel graphic left fourth cnc_equipment">
+<div class="content left"><h2><a target="_self" href="/cnc-equipment/" title="About CNC Equipment">CNC Equipment<br />
+</a></h2>
+<div><img width="239" height="123" alt="" src="/userfiles/images/stranky/Home/P3210029_239x123.gif" /></div>
+<p>The technology used in our company is synonymous with quality and state of the art. Our company embraced new...</p>
+<p style="text-align: right;"><a href="/cnc-equipment/" target="_self" title="About CNC Equipment">More</a></p>
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<div class="panel graphic left fourth services">
+<div class="content left"><h2><a href="/services-and-production/" target="_self" title="About Services and Production">Services</a></h2>
+<div><img width="239" height="123" alt="" src="/userfiles/images/stranky/Home/P1080007_239x123.gif" /></div>
+<p style="text-align: left;">We offer services from project documentation and 3D visualization to Fitting, Assembly, Powder coating...</p>
+<p style="text-align: right;"><a href="/services-and-production/" title="About Services and Production">More</a></p>
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<div class="panel graphic left fourth copper_processing">
+<div class="content left"><h2><a href="/copper-processing/" target="_self" title="About Copper processing">Copper processing</a></h2>
+<div><img width="239" height="123" src="/userfiles/images/stranky/Home/P2177853_239x123.gif" alt="" /></div>
+<p style="text-align: left;">Following the increased copper demand, our company launched the production of copper components...</p>
+<p style="text-align: right;"><a href="/copper-processing/" title="About Copper processing">More</a></p>
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<br class="clear" />
+</div> <!--// #under_content -->				<br class="clear" />
+</div> <!--// #wrapper_container -->
+</div> <!--// #wrapper -->
+
+<div id="above_footer_container">
+<div id="above_footer">
+<div class="panel first plain left full homepage_news">
+<div class="content left">
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<br class="clear" />
+</div> <!--// #above_footer -->
+</div> <!--// #above_footer_container -->
+<div id="footer_container">
+<div id="footer">					<div class="panel first plain full copyright">
+<div class="content left"><table border="0">
+<tbody>
+<tr>
+<td valign="top"><img width="240" height="43" alt="logo Evropsk&aacute; unie" src="/userfiles/images/loga/logo-esf-240x43.png" /></td>
+<td valign="middle">Smart Trading&nbsp;Company s.r.o., U Statku 218, Ostrava-Bartovice 717 00,&nbsp;Czech Republic <br />
+Phone: + 420&nbsp;596&nbsp;247 391, E-mail: <a href="javascript:location.href='mailto:'+String.fromCharCode(105,110,102,111,64,115,109,97,114,116,116,114,97,100,105,110,103,46,99,122)+'?'">info@smarttrading.cz</a></td>
+<td valign="top"><a class="intro" title="INTRO - reklamn&iacute; studio" target="_blank" href="http://www.intro-studio.cz/"><br />
+</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="cleaner">&nbsp;</div>
+</div>
+</div>
+<!--a id="intro" href="http://www.intro-studio.cz/" title="Webdesign a tvorba internetovych stranek INTRO - reklamni studio" target="_blank">INTRO - reklamni studio</a-->
+<br class="clear" />
+</div>
+</div><!--// #footer_container --><br class="clear" />
+<br class="clear" />
+</div><!--// MAIN -->
+
+
+</body>
+</html>

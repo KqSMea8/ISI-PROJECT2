@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /images
+Disallow: /XML
+Disallow: /Control_Panel
+Disallow: /sandbox
+Disallow: /*login_form$
+Disallow: /*login$
+Disallow: /help/infocentre/enquiries
+Disallow: /events/submitted
+Disallow: /*@@invalidate_cache
+Disallow: /*@@updated_search
+Disallow: /*@@faceted_query
+Disallow: /*@@search
+Disallow: /*listing_not_available
+Disallow: /publications/application$
+
+Sitemap: https://www.eea.europa.eu/sitemap-index.xml
+

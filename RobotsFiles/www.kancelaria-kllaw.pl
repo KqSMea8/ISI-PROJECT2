@@ -1,0 +1,15 @@
+Sitemap: http://www.kancelaria-kllaw.pl/sitemap.xml
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /plugins/
+Disallow: /tmp/
+
+

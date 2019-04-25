@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /polityka-prywatnosci/
+Disallow: /oferta-szkoleniowa/szkolenia-otwarte/zmiany-w-prawie-pracy-od-01-01-2017r/
+Disallow: /kategoria_szkoleniowa/najblizsze-szkolenia/
+Allow: /wp-admin/admin-ajax.php
+User-agent: ia_archiver
+Disallow: /
+Sitemap: http://synergy-trainings.pl/sitemap.xml

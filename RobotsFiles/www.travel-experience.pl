@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_arch/
+Disallow: /cavhe/
+Disallow: /css/
+Disallow: /inc/
+Disallow: /panel/
+Disallow: /panel_app/
+Disallow: /scripts/
+Disallow: /test/
+Disallow: /tmp/

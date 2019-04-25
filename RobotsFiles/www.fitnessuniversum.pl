@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-login.php?redirect_to=http%3A%2F%2Ffitnessuniversum.pl%2F2015%2F12%2F25%2F13-jam-and-brady-found-thompkins-with%2F
+Disallow: /wp-login.php?action=lostpassword
+Disallow: /wp-login.php?redirect_to=http%3A%2F%2Ffitnessuniversum.pl%2F2015%2F12%2F23%2Feven-though-predicament-really-trapped-me-here%2F
+Disallow: /wp-login.php?redirect_to=http%3A%2F%2Ffitnessuniversum.pl%2F2015%2F04%2F14%2Fwitaj-w-klubie%2F
+Disallow: /wp-login.php?redirect_to=http%3A%2F%2Ffitnessuniversum.pl%2F2015%2F12%2F07%2Ffrom-an-advertising-and-marketing-bond-is-a-mutually-beneficial-condition%2F
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://fitnessuniversum.pl/sitemap.xml

@@ -1,0 +1,17 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /uradold/
+Disallow: /novinkyold/
+Disallow: /obecold/
+Disallow: /urad-132/uredni-deska/
+Allow: /urad-132/uredni-deska/pouceni-o-zpracovani-osobnich-udaju-13250.html
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /uradold/
+Disallow: /novinkyold/
+Disallow: /obecold/
+Disallow: /urad-132/uredni-deska/
+Allow: /urad-132/uredni-deska/pouceni-o-zpracovani-osobnich-udaju-13250.html
+Sitemap: http://www.kunraticeucvikova.eu/sitemap.xml
+

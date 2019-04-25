@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /*?
+Allow: /*?gc
+Allow: /?sttname
+Allow: /sr
+Allow: /web
+Allow: /wi
+Allow: /wr
+Allow: /wra
+Allow: /ws
+Allow: /*.css
+Allow: /*.js
+Disallow: /Addons/
+Disallow: /image?
+Disallow: /news?
+Disallow: /video?
+Disallow: /wiki/?
+Disallow: /wiki/*/
+
+User-agent: Mediapartners-Google
+Allow: /Addons/Includes/ads
+

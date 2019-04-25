@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /sitedown.php
+Disallow: /e107_admin/
+Disallow: /e107_handlers/
+Disallow: /e107_files/cache/
+Disallow: /e107_files/public/avatars/
+

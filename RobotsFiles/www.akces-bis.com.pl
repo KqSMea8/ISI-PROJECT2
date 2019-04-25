@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_NEW/
+Disallow: /allegro/
+Disallow: /application/
+Disallow: /soteshop/
+Disallow: /system/
+Disallow: /tmp/
+Disallow: /?option=com_zoom&?Itemid=43&lang=english
+Allow: /
+Sitemap: http://www.akces-bis.com.pl/sitemap.xml

@@ -1,0 +1,33 @@
+User-agent: rogerbot
+Disallow: /Smart-Logistics-System/Oferti-za-skladove
+Disallow: /Smart-Logistics-System/Ponuda-na-skladishta
+Disallow: /Smart-Logistics-System/Propozitsiyi-skladiv
+Disallow: /Smart-Logistics-System/Skladskie-predlozheniia
+Disallow: /Smart-Logistics-System/Prosphores-apothekeutikon-khoron
+Disallow: /Smart-Logistics-System/Ofertas-de-armazens
+Disallow: /Smart-Logistics-System/Raktarajanlatok
+Disallow: /Smart-Logistics-System/Ponuda-skladista
+Disallow: /Smart-Logistics-System/Ofertas-de-almacenes
+Disallow: /Smart-Logistics-System/Offerte-di-magazzini
+Disallow: /Smart-Logistics-System/Ponudbe-skladisc
+Disallow: /Smart-Logistics-System/Oferte-de-spatii-de-depozitare
+Disallow: /Smart-Logistics-System/Ponuky-skladov
+Disallow: /Smart-Logistics-System/Nabidky-skladu
+Disallow: /Smart-Logistics-System/Ponuda-skladista
+Disallow: /Smart-Logistics-System/Opslagaanbiedingen
+Disallow: /Smart-Logistics-System/Lagerudbud
+Disallow: /Smart-Logistics-System/Lagererbjudanden
+Disallow: /Smart-Logistics-System/Lagertilbud
+Disallow: /Smart-Logistics-System/Oferty-magazynowe
+Disallow: /Smart-Logistics-System/Noliktavu-piedavajumi
+Disallow: /Smart-Logistics-System/Varastotilatarjoukset
+Disallow: /Smart-Logistics-System/Offre-d-entrepots
+Disallow: /Smart-Logistics-System/Depo-teklifleri
+Disallow: /Smart-Logistics-System/Lagerangebote
+Disallow: /Smart-Logistics-System/Warehouse-offers
+Disallow: /Smart-Logistics-System/Sandeliavimo-pasiulymai
+
+User-agent: *
+Disallow: /WWW/media/ads/
+Disallow: /STATIC/download/
+

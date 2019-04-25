@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /*?ses
+Disallow: /_
+Disallow: /ajax/*
+Disallow: /onclick/*
+Disallow: /profil/*
+Disallow: /pieniadze/a/philip-morris-international-inwestuje-w-przyszlosc,13428855/
+Disallow: /globalna-kariera-z-philip-morris-international/ar/13607936
+Disallow: /philip-morris-international-troszczy-sie-o-swoje-talenty/ar/13712250
+Disallow: /philip-morris-w-polsce-z-prestizowym-certyfikatem-rownych-plac/ar/13767363*
+Disallow: /tag/franciszek-pieczka-nie-zyje/
+Disallow: /tag/franciszek-pieczka-nie-zyje
+Disallow: /tag/franciszek-pieczka-zmarl
+Disallow: /tag/pieczka-franciszek-zmarl
+Disallow: /tag/czy-franciszek-pieczka-zyje
+Disallow: /tag/franciszek-pieczka-kiedy-zmarl
+Disallow: /tag/prenumerata-expressu-bydgoskiego
+Disallow: /tag/express-prenumerata
+Disallow: /tag/prenumerata
+Disallow: /poszukiwani-listem-gonczym-z-bydgoszczy-i-regionu-tych-osob-poszukuje-policja-zobacz-zdjecia-poszukiwanych/ga/13495633/zd/31151131*
+Sitemap: https://expressbydgoski.pl/sitemapa/
+Sitemap: https://expressbydgoski.pl/google_news/
+Sitemap: https://indeks.expressbydgoski.pl/sitemapa/
+

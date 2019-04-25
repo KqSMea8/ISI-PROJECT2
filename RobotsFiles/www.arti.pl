@@ -1,0 +1,14 @@
+User-agent: *
+#Disallow: /en/flash/
+#Disallow: /ru/flash/
+#Disallow: /de/flash/
+#Disallow: /new/
+Disallow: /mila/
+Disallow: /dzieciece/obrazki/
+Disallow: /en/html/obrazki/
+Disallow: /ru/html/obrazki/
+Disallow: /de/html/obrazki/
+Allow: /en/flash/zdj/
+Allow: /ru/flash/zdj/
+Allow: /de/flash/zdj/
+Allow: /new/zdj/

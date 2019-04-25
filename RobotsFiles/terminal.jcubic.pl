@@ -1,0 +1,6 @@
+Sitemap: http://terminal.jcubic.pl/sitemap.xml
+
+User-agent: *
+Disallow: /virtualKeyboard.html
+Disallow: /service.php
+

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Allow: /images/fisk/
+Allow: /images/kokra/
+Sitemap: http://www.kokra.com.pl/index.php?option=com_osmap&view=xml&tmpl=component&id=1
+Sitemap: http://www.kokra.com.pl/index.php?option=com_osmap&view=xml&tmpl=component&images=1&id=1
+

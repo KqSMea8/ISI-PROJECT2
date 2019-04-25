@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/*.jpg$
+Allow: /gfx/*.png$
+Allow: /gfx/*.gif$
+Allow: /gfx/*.js$
+Allow: /gfx/*.css$
+Disallow: /*szukaj.html$
+User-agent: Fasterfox
+Disallow: /

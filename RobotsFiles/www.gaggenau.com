@@ -1,0 +1,36 @@
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: *
+Disallow: /*?orderCode*
+Disallow: /productdrawings/
+Disallow: /pressrelease/download/
+Disallow: /*getAllImagesPDF
+Disallow: /*getImagePDF
+Disallow: /spareparts/media/pdf/
+Disallow: /sparepart/finder/detail/
+Disallow: /*.pdf$
+Disallow: */checkout/confirmation
+Disallow: /*ajax/
+
+Sitemap: https://www.gaggenau.com/ae/sitemap.xml
+Sitemap: https://www.gaggenau.com/at/sitemap.xml
+Sitemap: https://www.gaggenau.com/ba/sitemap.xml
+Sitemap: https://www.gaggenau.com/ca/sitemap.xml
+Sitemap: https://www.gaggenau.com/ch/de/sitemap.xml
+Sitemap: https://www.gaggenau.com/ch/fr/sitemap.xml
+Sitemap: https://www.gaggenau.com/ch/it/sitemap.xml
+Sitemap: https://www.gaggenau.com/cz/sitemap.xml
+Sitemap: https://www.gaggenau.com/de/sitemap.xml
+Sitemap: https://www.gaggenau.com/fi/sitemap.xml
+Sitemap: https://www.gaggenau.com/fr/sitemap.xml
+Sitemap: https://www.gaggenau.com/gb/sitemap.xml
+Sitemap: https://www.gaggenau.com/it/sitemap.xml
+Sitemap: https://www.gaggenau.com/se/sitemap.xml
+Sitemap: https://www.gaggenau.com/tr/sitemap.xml
+Sitemap: https://www.gaggenau.com/ua/sitemap.xml
+Sitemap: https://www.gaggenau.com/us/sitemap.xml
+Sitemap: https://www.gaggenau.com/zz/sitemap.xml
+Sitemap: https://www.gaggenau.com/global/sitemap.xml
+

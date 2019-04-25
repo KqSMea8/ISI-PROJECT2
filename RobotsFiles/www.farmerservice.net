@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:fb="https://ogp.me/ns/fb#" xml:lang="it" lang="it">
+<head>
+<meta http-equiv="Content-Language" content="it-IT" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="author" content="Farmerservice.net - web by Live-Style Agency" />
+<meta name="description" content="Farmerservice, il tuo partner per macchine e accessori per l'agricoltura" />
+<meta name="keywords" content="Agricoltura, Usato, Nuovo, trattori, mietitrebbie, lavorazione del terreno, caricatori, rimorchi, M&auml;htrac, uva o frutta, agricoltura, pascolo" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<title>Trattori usati | Macchine agricole usate | Frutta - Vino - Agricoltura - Allevamento | Farmer Service</title>
+<link rel="stylesheet" type="text/css" href="/css/css.php?site=start" />
+<script type="text/javascript">var language='it';var site='start';var id='';</script>
+<script type="text/javascript" src="/js/scripts.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.min.js"></script>
+<script type="text/javascript" src="/js/banner.js"></script>
+<script type="text/javascript" src="/js/jquery.cookiesdirective.js"></script>
+
+</head>
+<body id="farmerservice">
+
+
+<div id="fb-root"></div>
+
+<div id="wrapper">
+
+<!--Header-->
+<div id="header">
+
+<div id="headerContent">
+<div style="position:absolute;margin:12px 0 0 500px;display:block;color:red;"><div id="changeLanguage"><b style="font-size:14px;">do you want change the language?</b></div></div>           <div id="language">
+
+<div id="languageSelect">
+<dl class="dropdown">
+<dt><a href="#"><span>select your language</span></a></dt>
+<dd>
+<ul>
+<li><a href="#" value="de"><img class="flag" src="/i/de.png" alt="" /><span id="de">deutsch</span></a></li>
+<li><a href="#" value="it"><img class="flag" src="/i/it.png" alt="" /><span id="it">italiano</span></a></li>
+<li><a href="#" value="en"><img class="flag" src="/i/en.png" alt="" /><span id="en">english</span></a></li>
+
+<li><a href="#" value="pl"><img class="flag" src="/i/pl.png" alt="" /><span id="pl">polski</span></a></li>
+<li><a href="#" value="cz"><img class="flag" src="/i/cz.png" alt="" /><span id="cz">cesky</span></a></li>
+<li><a href="#" value="hu"><img class="flag" src="/i/hu.png" alt="" /><span id="hu">magyar</span></a></li>
+<!-- <li><a href="#" value="ru"><img class="flag" src="/i/ru.png" alt="" /><span id="ru">???????</span></a></li>
+
+
+<li><a href="#" value="ro"><img class="flag" src="/i/ro.png" alt="" /><span id="ro">roman</span></a></li>
+<li><a href="#" value="sk"><img class="flag" src="/i/sk.png" alt="" /><span id="sk">slovencina</span></a></li>-->
+</ul>
+</dd>
+</dl>
+
+</div>
+</div>
+
+<!--Christmas-->
+<!--<div style="position:absolute;margin:37px 0 0 410px;z-index:999;"><img src="/i/christmas.png" border="0" alt="Merry Christmas" /></div>-->
+<div id="logo"><a href="/it/start/"><img src="/i/logo.png" border="0" alt="Farmerservice" /></a></div>
+<div id="headerBanner">
+</div>
+</div>
+</div>
+<!--Header-->
+
+<!--Topimg-->
+<div id="topimg">
+<div id="topimgContent">
+<div id="search">
+<form id="searchform" method="get" action="https://www.farmerservice.net/it/search/">
+<input name="keyword" type="text" value="" onclick="select()" placeholder="search" /><span id="searchButton">GO</span>
+</form>
+</div>
+
+<div id="favoritesSmallList"></div><div style="display:none;"><div id="favoritesPopup"></div></div>
+
+<img src="/i/random/img4.jpg" border="0" alt="Farmerservice" width="990" height="250" /></div>
+</div>
+<!--Topimg-->
+
+<!--Topnavigation-->
+<div id="topnavigation">
+<div id="topnavigationContent">
+<div style="position:absolute;"><img src="/i/startsite_icon.png" border="0" /></div>
+<ul>
+
+<li style="text-indent:27px; "><a href="/it/start/1.html">Home</a></li>
+<li style=" "><a href="/it/sellermap/2.html">Mappa Partner</a></li>
+<li style=" "><a href="/it/contents/3.html">I vantaggi</a></li>
+<li style=" "><a href="/it/premium/4.html">Premium Partner</a></li>
+<li style=" "><a href="/it/register/5.html">Registrarsi</a></li>
+<li style=" margin-right:0px;width:165px;"><a href="/it/login/6.html">Accedere</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<!--Topnavigation-->
+
+<div id="main">
+<div id="mainContent">
+
+
+
+
+
+<!--Leftbar-->
+<div id="leftbar">
+
+
+
+<div class="menuTop">Da vendere</div><ul id="nav"><li id="listItem_1"><a href="/it/articles/Trattori/1.html"><div class="menuCnt">73</div>Trattori</a>
+<ul class="sub_0">
+<li id="listItem_2" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Frutteto/2.html" class="">Frutteto</a></li>
+<li id="listItem_3" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Vigneto/3.html" class="">Vigneto</a></li>
+<li id="listItem_26" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Agricolo/26.html" class="">Agricolo</a></li>
+<li id="listItem_52" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Trattori-d-epoca/52.html" class="">Trattori d'epoca</a></li>
+</ul></li>
+<li id="listItem_4"><a href="/it/articles/Macchine-da-raccolta/4.html"><div class="menuCnt">1</div>Macchine da raccolta</a>
+<ul class="sub_0">
+<li id="listItem_5" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Agricolo/5.html" class="">Agricolo</a></li>
+<li id="listItem_6" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Frutteto/6.html" class="">Frutteto</a></li>
+<li id="listItem_7" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Vigneto/7.html" class="">Vigneto</a></li>
+<li id="listItem_69" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Mietitrebbie/69.html" class="">Mietitrebbie</a></li>
+</ul></li>
+<li id="listItem_36"><a href="/it/articles/Macchine-da-fienagione/36.html"><div class="menuCnt">15</div>Macchine da fienagione</a>
+<ul class="sub_0">
+<li id="listItem_37" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Falciatrice/37.html" class="">Falciatrice</a></li>
+<li id="listItem_38" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Falciatrici---Falciacondizionatrice/38.html" class="">Falciatrici / Falciacondizionatrice</a></li>
+<li id="listItem_39" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Voltafieno/39.html" class="">Voltafieno</a></li>
+<li id="listItem_40" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Ranghinatore---andanatori/40.html" class="">Ranghinatore / andanatori</a></li>
+<li id="listItem_41" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Carri-autocaricanti/41.html" class="">Carri autocaricanti</a></li>
+<li id="listItem_42" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Rotopresse/42.html" class="">Rotopresse</a></li>
+<li id="listItem_43" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Avvolgitori/43.html" class="">Avvolgitori</a></li>
+<li id="listItem_44" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Mietitrebbia/44.html" class="">Mietitrebbia</a></li>
+</ul></li>
+<li id="listItem_9"><a href="/it/articles/Macchine-lavorazione-terreno/9.html"><div class="menuCnt">12</div>Macchine lavorazione terreno</a>
+<ul class="sub_0">
+<li id="listItem_10" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Aratri/10.html" class="">Aratri</a></li>
+<li id="listItem_11" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Zappatrici/11.html" class="">Zappatrici</a></li>
+<li id="listItem_21" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Dissodatori---estirpatori/21.html" class="">Dissodatori / estirpatori</a></li>
+<li id="listItem_22" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Erpici-a-dischi/22.html" class="">Erpici a dischi</a></li>
+<li id="listItem_23" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Erpici/23.html" class="">Erpici</a></li>
+<li id="listItem_24" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Seminatrici/24.html" class="">Seminatrici</a></li>
+<li id="listItem_35" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Tagliaerbe/35.html" class="">Tagliaerbe</a></li>
+</ul></li>
+<li id="listItem_12"><a href="/it/articles/Movimentazione-prodotti/12.html"><div class="menuCnt">1</div>Movimentazione prodotti</a>
+<ul class="sub_0">
+<li id="listItem_13" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Sollevatori-telescopici/13.html" class="">Sollevatori telescopici</a></li>
+<li id="listItem_14" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Pale-gommate/14.html" class="">Pale gommate</a></li>
+<li id="listItem_15" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Carrelli-elevatori/15.html" class="">Carrelli elevatori</a></li>
+</ul></li>
+<li id="listItem_27"><a href="/it/articles/Falciatrici-a-doppio-assale/27.html"><div class="menuCnt">2</div>Falciatrici a doppio assale</a>
+<ul class="sub_0">
+</ul></li>
+<li id="listItem_28"><a href="/it/articles/Transporter/28.html"><div class="menuCnt">2</div>Transporter</a>
+<ul class="sub_0">
+</ul></li>
+<li id="listItem_29"><a href="/it/articles/Atomizzatori/29.html"><div class="menuCnt">3</div>Atomizzatori</a>
+<ul class="sub_0">
+<li id="listItem_30" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Frutteto---Vigneto/30.html" class="">Frutteto & Vigneto</a></li>
+<li id="listItem_31" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Atomizzatori-per-campo-aperto/31.html" class="">Atomizzatori per campo aperto</a></li>
+</ul></li>
+<li id="listItem_32"><a href="/it/articles/Rimorchi/32.html"><div class="menuCnt">2</div>Rimorchi</a>
+<ul class="sub_0">
+<li id="listItem_33" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Ribaltabile/33.html" class="">Ribaltabile</a></li>
+<li id="listItem_34" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/per-raccolta/34.html" class="">per raccolta</a></li>
+<li id="listItem_46" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Spandiletame/46.html" class="">Spandiletame</a></li>
+<li id="listItem_47" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Carrobotti-e-spandiliquame/47.html" class="">Carrobotti e spandiliquame</a></li>
+</ul></li>
+<li id="listItem_18"><a href="/it/articles/Macchine-forestali/18.html"><div class="menuCnt">3</div>Macchine forestali</a>
+<ul class="sub_0">
+<li id="listItem_19" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Verricelli/19.html" class="">Verricelli</a></li>
+<li id="listItem_20" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Rimorchi-forestali/20.html" class="">Rimorchi forestali</a></li>
+</ul></li>
+<li id="listItem_45"><a href="/it/articles/Attrezzature-varie/45.html"><div class="menuCnt">12</div>Attrezzature varie</a>
+<ul class="sub_0">
+<li id="listItem_53" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Muletto/53.html" class="">Muletto</a></li>
+<li id="listItem_54" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Cimatrice/54.html" class="">Cimatrice</a></li>
+<li id="listItem_55" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Palizzatrice/55.html" class="">Palizzatrice</a></li>
+<li id="listItem_56" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Defoliatrice/56.html" class="">Defoliatrice</a></li>
+<li id="listItem_57" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Lama-da-neve/57.html" class="">Lama da neve</a></li>
+<li id="listItem_58" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Pala-posteriore/58.html" class="">Pala posteriore</a></li>
+<li id="listItem_61" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Cippatori/61.html" class="">Cippatori</a></li>
+<li id="listItem_62" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Spandiconcime/62.html" class="">Spandiconcime</a></li>
+<li id="listItem_63" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Retroescavatori/63.html" class="">Retroescavatori</a></li>
+<li id="listItem_65" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Cabine/65.html" class="">Cabine</a></li>
+<li id="listItem_66" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Autocaricanti-per-Transporter/66.html" class="">Autocaricanti per Transporter</a></li>
+<li id="listItem_67" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Botte-spandiliquame-per-transporter/67.html" class="">Botte spandiliquame per transporter</a></li>
+<li id="listItem_68" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Spandiletame-per-transporter/68.html" class="">Spandiletame per transporter</a></li>
+<li id="listItem_70" style="display:none;border-bottom:1px dashed #ccc;"><a href="/it/articles/Caricatore-frontale/70.html" class="">Caricatore frontale</a></li>
+<li id="listItem_71" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Fresa-da-neve/71.html" class="">Fresa da neve</a></li>
+</ul></li>
+<li id="listItem_59"><a href="/it/articles/Macchine-edili/59.html"><div class="menuCnt">3</div>Macchine edili</a>
+<ul class="sub_0">
+<li id="listItem_60" style="display:none;border-bottom:0px dashed #ccc;"><a href="/it/articles/Mini-escavatori/60.html" class="">Mini escavatori</a></li>
+</ul></li>
+</ul>
+<div id="quicksellersearch"><div style="position:absolute;margin:-10px 0 0 180px;"><img src="/i/search-icon.png" /></div><div id="quicksellersearchTitle">Cerca rivenditore</div><select id="quickCountry" name="quickCountry"><option value="">prego scegliere</option><option value="1" >Italia</option><option value="2" >Austria</option><option value="3" >Germania</option><option value="4" >Polonia</option><option value="5" >Ungheria</option></select><div id="quickRegionContent"></div><div id="goSearchSellerContainer" style="padding:0 0 0 10px;margin:2px 0 0 0;background:#C1B58D;height:23px;"><div id="goSearchSeller"><b>cerca</b></div><div class="clear"></div></div></div><div class="clear"></div><div style="padding:2px;width:220px;border:1px solid #ccc;margin-top:20px;"><div class="bannerSlideLeft1" id="bannerSlideLeft24"><a href="/go/go.php?id=24&site=start&lang=it" target="_blank"><img src="/i/banner/i24_1.jpg" border="0" width="220" height="" alt="Lasco - Heutechnik" title="Lasco - Heutechnik" /></a></div></div><div style="padding:2px;width:220px;border:1px solid #ccc;margin-top:20px;"><div class="bannerSlideLeft1" id="bannerSlideLeft19"><a href="/go/go.php?id=19&site=start&lang=it" target="_blank"><img src="/i/banner/i19_1.jpg" border="0" width="220" height="" alt="Sauerburger Traktoren & Geratebau" title="Sauerburger Traktoren & Geratebau" /></a></div></div><div style="padding:2px;width:220px;border:1px solid #ccc;margin-top:20px;"><div class="bannerSlideLeft1" id="bannerSlideLeft18"><a href="/go/go.php?id=18&site=start&lang=it" target="_blank"><img src="/i/banner/i18_1.jpg" border="0" width="220" height="" alt="Spila - Stampaggio rotazionale" title="Spila - Stampaggio rotazionale" /></a></div></div>
+
+
+
+</div>
+<!--Leftbar-->
+
+<!--Content-->
+<div id="content">
+
+<h1 style="margin-bottom:10px;">FarmerService.net, prodotti per l'agricoltura da professionisti!</h1><div id="startBoxHideText"><div><strong>I vostri Partner di riferimento per nuovo e usato.</strong></div><div>&nbsp;</div><div>Su questo portale internet trovate il meglio dei distributori di articoli per l'agricoltura che vi potranno garantire assistenza, competenza professionale e prodotti di qualita.</div><div>Raccogliendo tutte le informazioni abbiamo creato questa piattaforma per facilitare la vostra scelta.</div><div>&nbsp;</div><div>Vi auguriamo buon successo nella vostra ricerca.</div><div>&nbsp;</div><div><em>Il team di Farmerservice.net</em></div>  <div><br></div></div><div id="startBox"><ul id="startBoxNav"><li value="1" class="startBoxInactive" id="startBoxNav1">Farmer Service</li><li value="2" class="startBoxInactive" id="startBoxNav2">Ricerca prodotti</li><div class="clear"></div></ul><div id="startBoxContent"></div></div><div style="float:right;">	<script>
+$(document).ready(function(e) {
+$('#newArticlesSlider').before('<div id="sliderNav">')
+.cycle({
+fx:     'scrollRight',
+speed:  'fast',
+timeout: 4000,
+//fastOnEvent: true,
+pager:  '#sliderNav'
+});
+});
+</script>
+<div id="startRndArticles"><div id="startRndArticles-title">New Entries</div><div id="newArticlesSlider"><div><div class="newArticlesSlider-item">MASSEY FERGUSON 3455 F</div><a href="/it/article/MASSEY-FERGUSON-3455-F/3093.html" title="MASSEY FERGUSON"><img src="/i/article/23/i3093_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">JOHN DEERE 6420 SE</div><a href="/it/article/JOHN-DEERE-6420-SE/3133.html" title="JOHN DEERE"><img src="/i/article/3/i3133_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">MG TB 53FR</div><a href="/it/article/MG-TB-53FR/3108.html" title="MG"><img src="/i/article/3/i3108_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">HYDRAC Uni290</div><a href="/it/article/HYDRAC-Uni290/3116.html" title="HYDRAC"><img src="/i/article/3/i3116_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">KRONE Combipack 1500</div><a href="/it/article/KRONE-Combipack-1500/3094.html" title="KRONE"><img src="/i/article/3/i3094_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">FENDT 313 TMS</div><a href="/it/article/FENDT-313-TMS/3128.html" title="FENDT"><img src="/i/article/3/i3128_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">DEUTZ 6140 P</div><a href="/it/article/DEUTZ-6140-P/3127.html" title="DEUTZ"><img src="/i/article/23/i3127_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div><div><div class="newArticlesSlider-item">NEW HOLLAND 8090</div><a href="/it/article/NEW-HOLLAND-8090/3109.html" title="NEW HOLLAND"><img src="/i/article/23/i3109_1.jpg" width="300" style="margin:-20px 0 0 -20px;" border="0" /></a></div></div></div></div><div class="clear"></div>    <div style="margin:20px 0;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Farmerservice -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-5309509257995153"
+data-ad-slot="8482860469"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div id="startArticle">
+<h2>Nuovi prodotti inseriti</h2><div style="margin:0 20px 20px 20px;padding:10px 20px;background:#efefef;"><div class="startArticle" style="margin-right:20px;">
+<div class="startArticleTitle"><a href="/it/articles/Agricolo/26.html">Trattori<img src="/i/right.png" border="0" alt="" /> Agricolo</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/NEW-HOLLAND-TM-165/2343.html" title="NEW HOLLAND"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="2343">
+<a href="/it/article/NEW-HOLLAND-TM-165/2343.html" title="NEW HOLLAND"><img src="/i/article/11/i2343_1_small.jpg" border="0" alt="NEW HOLLAND" width="80" height="60" align="left" class="startThumb" /></a>
+<b>NEW HOLLAND</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: TM 165</div><div>Anno di costruzione: 2002</div><div>Ore: 18.976</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/DEUTZ-FAHR-Agrotron-K-610-PL/1930.html" title="DEUTZ-FAHR"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1930">
+<a href="/it/article/DEUTZ-FAHR-Agrotron-K-610-PL/1930.html" title="DEUTZ-FAHR"><img src="/i/article/24/i1930_1_small.jpg" border="0" alt="DEUTZ-FAHR" width="80" height="60" align="left" class="startThumb" /></a>
+<b>DEUTZ-FAHR</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: Agrotron K 610 PL</div><div>Anno di costruzione: 2011</div><div>Ore: 3500</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/NEW-HOLLAND-8090/3109.html" title="NEW HOLLAND"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="3109">
+<a href="/it/article/NEW-HOLLAND-8090/3109.html" title="NEW HOLLAND"><img src="/i/article/23/i3109_1_small.jpg" border="0" alt="NEW HOLLAND" width="80" height="60" align="left" class="startThumb" /></a>
+<b>NEW HOLLAND</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 8090</div><div>Anno di costruzione: 1986</div><div>Potenza (cv): 80</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:0px;">
+<div class="startArticleTitle"><a href="/it/articles/Trattori-d-epoca/52.html">Trattori<img src="/i/right.png" border="0" alt="" /> Trattori d'epoca</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/McCORMICK-B-414/1721.html" title="McCORMICK"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1721">
+<a href="/it/article/McCORMICK-B-414/1721.html" title="McCORMICK"><img src="/i/article/3/i1721_1_small.jpg" border="0" alt="McCORMICK" width="80" height="60" align="left" class="startThumb" /></a>
+<b>McCORMICK</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: B 414</div><div>Anno di costruzione: 1966</div><div>Stato: buono</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/STEYR-80---15-PS/310.html" title="STEYR"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="310">
+<a href="/it/article/STEYR-80---15-PS/310.html" title="STEYR"><img src="/i/article/5/i310_1_small.jpg" border="0" alt="STEYR" width="80" height="60" align="left" class="startThumb" /></a>
+<b>STEYR</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 80 - 15 PS</div><div>Anno di costruzione: 1959</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/LANDINI-L-25-Gluehkopf/311.html" title="LANDINI"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="311">
+<a href="/it/article/LANDINI-L-25-Gluehkopf/311.html" title="LANDINI"><img src="/i/article/5/i311_1_small.jpg" border="0" alt="LANDINI" width="80" height="60" align="left" class="startThumb" /></a>
+<b>LANDINI</b><br />
+<div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:20px;">
+<div class="startArticleTitle"><a href="/it/articles/Frutteto/2.html">Trattori<img src="/i/right.png" border="0" alt="" /> Frutteto</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/MASSEY-FERGUSON-3325-S/3120.html" title="MASSEY FERGUSON"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="3120">
+<a href="/it/article/MASSEY-FERGUSON-3325-S/3120.html" title="MASSEY FERGUSON"><img src="/i/article/12/i3120_1_small.jpg" border="0" alt="MASSEY FERGUSON" width="80" height="60" align="left" class="startThumb" /></a>
+<b>MASSEY FERGUSON</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 3325 S</div><div>Anno di costruzione: 2003</div><div>Ore: 4051</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/FENDT-260-V/3123.html" title="FENDT"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="3123">
+<a href="/it/article/FENDT-260-V/3123.html" title="FENDT"><img src="/i/article/12/i3123_1_small.jpg" border="0" alt="FENDT" width="80" height="60" align="left" class="startThumb" /></a>
+<b>FENDT</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 260 V</div><div>Anno di costruzione: 1999</div><div>Potenza (cv): 60</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/BERGMEISTER-654-HF/3119.html" title="BERGMEISTER"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="3119">
+<a href="/it/article/BERGMEISTER-654-HF/3119.html" title="BERGMEISTER"><img src="/i/article/12/i3119_1_small.jpg" border="0" alt="BERGMEISTER" width="80" height="60" align="left" class="startThumb" /></a>
+<b>BERGMEISTER</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 654 HF</div><div>Anno di costruzione: 1988</div><div>Potenza (cv): 58</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:0px;">
+<div class="startArticleTitle"><a href="/it/articles/Vigneto/3.html">Trattori<img src="/i/right.png" border="0" alt="" /> Vigneto</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/ANTONIO-CARRARO-SRX-8400/1971.html" title="ANTONIO CARRARO"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1971">
+<a href="/it/article/ANTONIO-CARRARO-SRX-8400/1971.html" title="ANTONIO CARRARO"><img src="/i/article/24/i1971_1_small.jpg" border="0" alt="ANTONIO CARRARO" width="80" height="60" align="left" class="startThumb" /></a>
+<b>ANTONIO CARRARO</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: SRX 8400</div><div>Anno di costruzione: 2004</div><div>Ore: 3200</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/MASSEY-FERGUSON-364-V/3137.html" title="MASSEY FERGUSON"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="3137">
+<a href="/it/article/MASSEY-FERGUSON-364-V/3137.html" title="MASSEY FERGUSON"><img src="/i/article/12/i3137_1_small.jpg" border="0" alt="MASSEY FERGUSON" width="80" height="60" align="left" class="startThumb" /></a>
+<b>MASSEY FERGUSON</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 364 V</div><div>Anno di costruzione: 1998</div><div>Ore: 3867</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/NEW-HOLLAND-TN-75-VA/3131.html" title="NEW HOLLAND"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="3131">
+<a href="/it/article/NEW-HOLLAND-TN-75-VA/3131.html" title="NEW HOLLAND"><img src="/i/article/3/i3131_1_small.jpg" border="0" alt="NEW HOLLAND" width="80" height="60" align="left" class="startThumb" /></a>
+<b>NEW HOLLAND</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: TN 75 VA</div><div>Anno di costruzione: 2006</div><div>Ore: 3800</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:20px;">
+<div class="startArticleTitle"><a href="/it/articles/Zappatrici/11.html">Macchine lavorazione terreno<img src="/i/right.png" border="0" alt="" /> Zappatrici</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/NIBBI-Brick-3--GX-Honda-/2533.html" title="NIBBI"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="2533">
+<a href="/it/article/NIBBI-Brick-3--GX-Honda-/2533.html" title="NIBBI"><img src="/i/article/9/i2533_1_small.jpg" border="0" alt="NIBBI" width="80" height="60" align="left" class="startThumb" /></a>
+<b>NIBBI</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: Brick 3  GX Honda </div><div>Anno di costruzione: 2017</div><div>Larghezza di lavoro: 80</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/KUHN-EL-62-D-165/907.html" title="KUHN"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="907">
+<a href="/it/article/KUHN-EL-62-D-165/907.html" title="KUHN"><img src="/i/article/10/i907_1_small.jpg" border="0" alt="KUHN" width="80" height="60" align="left" class="startThumb" /></a>
+<b>KUHN</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: EL 62 D 165</div><div>Anno di costruzione: 2012</div><div>Larghezza di lavoro: 153</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/NIBBI-Motozappa-104-S-/2532.html" title="NIBBI"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="2532">
+<a href="/it/article/NIBBI-Motozappa-104-S-/2532.html" title="NIBBI"><img src="/i/article/9/i2532_1_small.jpg" border="0" alt="NIBBI" width="80" height="60" align="left" class="startThumb" /></a>
+<b>NIBBI</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: Motozappa 104 S </div><div>Anno di costruzione: 2017</div><div>Larghezza di lavoro: 65</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:0px;">
+<div class="startArticleTitle"><a href="/it/articles/Tagliaerbe/35.html">Macchine lavorazione terreno<img src="/i/right.png" border="0" alt="" /> Tagliaerbe</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/AEDES-AC-2600/299.html" title="AEDES"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="299">
+<a href="/it/article/AEDES-AC-2600/299.html" title="AEDES"><img src="/i/article/6/i299_1_small.jpg" border="0" alt="AEDES" width="80" height="60" align="left" class="startThumb" /></a>
+<b>AEDES</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: AC 2600</div><div>Anno di costruzione: 1990</div><div>Larghezza: MM 2000</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/NIBBI-NTS-65/2534.html" title="NIBBI"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="2534">
+<a href="/it/article/NIBBI-NTS-65/2534.html" title="NIBBI"><img src="/i/article/9/i2534_1_small.jpg" border="0" alt="NIBBI" width="80" height="60" align="left" class="startThumb" /></a>
+<b>NIBBI</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: NTS 65</div><div>Anno di costruzione: 2017</div><div>Larghezza: 73</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/HERMES-Fisarmonica/1613.html" title="HERMES"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1613">
+<a href="/it/article/HERMES-Fisarmonica/1613.html" title="HERMES"><img src="/i/article/17/i1613_1_small.jpg" border="0" alt="HERMES" width="80" height="60" align="left" class="startThumb" /></a>
+<b>HERMES</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: Fisarmonica</div><div>Anno di costruzione: 2014</div><div>Larghezza: 220</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:20px;">
+<div class="startArticleTitle"><a href="/it/articles/Verricelli/19.html">Macchine forestali<img src="/i/right.png" border="0" alt="" /> Verricelli</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/KRPAN-6-E/1675.html" title="KRPAN"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1675">
+<a href="/it/article/KRPAN-6-E/1675.html" title="KRPAN"><img src="/i/article/9/i1675_1_small.jpg" border="0" alt="KRPAN" width="80" height="60" align="left" class="startThumb" /></a>
+<b>KRPAN</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 6 E</div><div>Anno di costruzione: 2009</div><div>Forza tiro (t): 6000</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/C-E-A--DI-CORNAGLIA-Holzzangen-div--Modelle/2109.html" title="C.E.A. DI CORNAGLIA"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="2109">
+<a href="/it/article/C-E-A--DI-CORNAGLIA-Holzzangen-div--Modelle/2109.html" title="C.E.A. DI CORNAGLIA"><img src="/i/article/9/i2109_1_small.jpg" border="0" alt="C.E.A. DI CORNAGLIA" width="80" height="60" align="left" class="startThumb" /></a>
+<b>C.E.A. DI CORNAGLIA</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: Holzzangen div. Modelle</div><div>Anno di costruzione: 2016</div><div>Comando: meccanico</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/B3-Holzspalter-SV-150/2541.html" title="B3"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="2541">
+<a href="/it/article/B3-Holzspalter-SV-150/2541.html" title="B3"><img src="/i/article/9/i2541_1_small.jpg" border="0" alt="B3" width="80" height="60" align="left" class="startThumb" /></a>
+<b>B3</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: Holzspalter SV 150</div><div>Anno di costruzione: 2018</div><div>Forza tiro (t): 15</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="startArticle" style="margin-right:0px;">
+<div class="startArticleTitle"><a href="/it/articles/Frutteto---Vigneto/30.html">Atomizzatori<img src="/i/right.png" border="0" alt="" /> Frutteto & Vigneto</a></div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/WAIBL-/1341.html" title="WAIBL"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1341">
+<a href="/it/article/WAIBL-/1341.html" title="WAIBL"><img src="/i/article/7/i1341_1_small.jpg" border="0" alt="WAIBL" width="80" height="60" align="left" class="startThumb" /></a>
+<b>WAIBL</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Anno di costruzione: 1996</div><div>sospensione: no</div><div>Timone sterzante: si</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/STEINER-1000-Trazione-e-Ralla/1340.html" title="STEINER"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="1340">
+<a href="/it/article/STEINER-1000-Trazione-e-Ralla/1340.html" title="STEINER"><img src="/i/article/7/i1340_1_small.jpg" border="0" alt="STEINER" width="80" height="60" align="left" class="startThumb" /></a>
+<b>STEINER</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 1000 Trazione e Ralla</div><div>Anno di costruzione: 2004</div><div>sospensione: no</div></div><div class="clear"></div>
+</div>
+<div style="position:absolute;margin:15px 0 0 270px;width:36px;"><a href="/it/article/TIFONE-10-33/291.html" title="TIFONE"><img src="/i/start_arrow_right.png" border="0" alt="" /></a></div>
+<div class="startArticleItem" startArticleId="291">
+<a href="/it/article/TIFONE-10-33/291.html" title="TIFONE"><img src="/i/article/6/i291_1_small.jpg" border="0" alt="TIFONE" width="80" height="60" align="left" class="startThumb" /></a>
+<b>TIFONE</b><br />
+<div class="articlesOptions" style="margin-top:5px;"><div>Modello: 10.33</div><div>Anno di costruzione: 1975</div><div>Larghezza di lavoro: 8</div></div><div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+
+</div>
+<!--Content-->
+
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<!--Main-->
+
+<!--Footer-->
+<div id="footer">
+<div id="footerContent">
+<!--Footer Box-->
+<div class="footerBox">
+<div class="footerBoxTitle">CONTACT & SUPPORT</div>
+<div class="footerBoxContent">
+<h3>Pubblicita</h3>
+<b>Michael Simonini</b><br />
+<a href="mailto:michael.simonini@farmerservice.net">michael.simonini@farmerservice.net</a><br /><br />                    <a href="mailto:info@farmerservice.net">info@farmerservice.net</a><br /><br />
+<h3>Supporto internet</h3>
+<a href="mailto:support@farmerservice.net">support@farmerservice.net</a>
+
+</div>
+</div>
+<!--Footer Box-->
+
+<!--Footer Box-->
+<div class="footerBox">
+<div class="footerBoxTitle">NEWSLETTER SERVICE</div>
+<div class="footerBoxContent">
+<div id="newsletterForm"></div>
+</div>
+</div>
+<!--Footer Box-->
+
+<!--Footer Box-->
+<div class="footerBox" style="width:350px;margin-right:0;">
+<div class="footerBoxTitle">NEWS & EVENTS</div>
+<div class="footerBoxContent">
+</div>
+</div>
+<!--Footer Box-->
+
+<div class="clear"></div>
+</div>
+<script>
+$(document).ready(function(){
+$("#privacybutton").colorbox({width:"600", height:"400", iframe:true});
+});
+</script><script>
+$(document).ready(function(){
+$("#termsbutton").colorbox({width:"700", height:"400", iframe:true});
+});
+</script>        <div id="copyright">
+&copy; farmerservice.net 2019 | <a href="/it/imprint/" id="imprintbutton" class="footerbutton">Imprint</a> | <a href="/it/privacy/">Privacy Policy - Cookie Policy</a> | IT01398820215 | IP: 83.11.111.237 <br />Via Sillnegg 7 | 39057 Appiano (BZ) - South Tyrol - Italy | tel +39 335 7595520
+</div>
+</div>
+<!--Footer-->
+
+
+</div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["trackPageView"]);
+_paq.push(["enableLinkTracking"]);
+
+(function() {
+var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.live-style.it/";
+_paq.push(["setTrackerUrl", u+"piwik.php"]);
+_paq.push(["setSiteId", "17"]);
+var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- End Piwik Code --><script>
+window.fbAsyncInit = function() {
+FB.init({
+appId  : '138133752995428',
+status : true,
+cookie : true,
+xfbml  : true
+});
+
+
+};
+
+(function() {
+var e = document.createElement('script');
+e.src = document.location.protocol + '//connect.facebook.net/it_IT/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+}());
+
+
+</script>
+
+</body>
+</html>

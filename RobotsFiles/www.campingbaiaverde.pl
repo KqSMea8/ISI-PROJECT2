@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /old/
+Disallow: /old2/
+Disallow: /it/booking-*
+Disallow: /it/booking/*
+Disallow: /en/booking-*
+Disallow: /en/booking/*
+Disallow: /de/booking-*
+Disallow: /de/booking/*
+Disallow: /nl/booking-*
+Disallow: /nl/booking/*
+Disallow: /fr/booking-*
+Disallow: /fr/booking/*
+Disallow: /da/booking-*
+Disallow: /da/booking/*
+Disallow: /pl/booking-*
+Disallow: /pl/booking/*
+Allow: /
+

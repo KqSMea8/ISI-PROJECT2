@@ -1,0 +1,8 @@
+# soubor pro indexovaci roboty - prohledavace
+# nepresouvat, nemazat
+#
+# webmaster@charming-prague-hotels.com
+#
+User-agent: *
+Disallow:
+#Disallow: /cache/

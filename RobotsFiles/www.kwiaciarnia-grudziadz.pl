@@ -1,0 +1,6 @@
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /help.php
+Disallow: /?lang=en

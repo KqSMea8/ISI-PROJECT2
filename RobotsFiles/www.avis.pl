@@ -1,0 +1,37 @@
+Disallow: /avis-AT/*
+Disallow: /avisBasic*
+Disallow: /avis-BE/*
+Disallow: /avis-CH/*
+Disallow: /avis-CZ/*
+Disallow: /avis-DE/*
+Disallow: /avis-ES/*
+Disallow: /avis-FR/*
+Disallow: /avis-IT/*
+Disallow: /avis-LU/*
+Disallow: /avis-NL/*
+Disallow: /avisPreferred*
+Disallow: /avis-PT/*
+Disallow: /car-confirmation*
+Disallow: /car-extras*
+Disallow: /car-results*
+Disallow: /car-review-and-pay*
+Disallow: /claimMissingRentals*
+Disallow: /customer-details*
+Disallow: /emailTemplates/*
+Disallow: /error-500
+Disallow: /loyalty-statement*
+Disallow: /mailtemplates*
+Disallow: /proximity-map*
+Disallow: /resetPassword*
+Disallow: /site-search*
+Disallow: /successMessagePage*
+Disallow: /threeDSConfirm-booking*
+Disallow: /threeDSecureMain*
+
+Noindex: /emailTemplates
+Noindex: /error-500
+Noindex: /proximity-map
+Noindex: /threeDSConfirm-booking
+
+Sitemap: https://www.avis.pl/sitemap.xml
+Sitemap: https://www.avis.pl/en/sitemap.xml

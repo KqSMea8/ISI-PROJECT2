@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /jrs_jp/
+Disallow: /catsbest_cz/
+Disallow: /pharma_de/
+Disallow: /pharma_cn/
+Disallow: /jrs_wAssets/img/petcare-service-portal/
+Sitemap: http://www.jrs.de/jrs_de/google-sitemap.php
+Sitemap: http://www.jrs.eu/jrs_en/google-sitemap.php
+Sitemap: http://www.jrsfr.com/jrs_fr/google-sitemap.php
+Sitemap: http://www.rettenmaier.ru/jrs_ru/google-sitemap.php
+Sitemap: http://www.jrsiberica.com/jrs_es/google-sitemap.php
+Sitemap: http://www.jrs.cn/jrs_cn/google-sitemap.php
+Sitemap: http://www.catsbest.de/catsbest_de/google-sitemap.php
+Sitemap: http://www.catsbest.fr/catsbest_fr/google-sitemap.php
+Sitemap: http://www.catsbest.eu/catsbest_en/google-sitemap.php
+Sitemap: http://www.catsbest.nl/catsbest_nl/google-sitemap.php
+Sitemap: http://www.catsbest.it/catsbest_it/google-sitemap.php
+Sitemap: http://www.catsbest.pl/catsbest_pl/google-sitemap.php
+Sitemap: http://www.chipsi.eu/chipsi_en/google-sitemap.php
+Sitemap: http://www.chipsi-streu.de/chipsi_de/google-sitemap.php
+Sitemap: http://www.chipsi.fr/chipsi_fr/google-sitemap.php
+Sitemap: http://www.tierwohl.de/tierwohl_de/google-sitemap.php
+Sitemap: http://www.tierwohl.de/tierwohl_de/google-sitemap.php
+Sitemap: http://www.jrspharma.com/pharma_en/google-sitemap.php
+

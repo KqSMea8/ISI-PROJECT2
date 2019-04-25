@@ -1,0 +1,1 @@
+User-agent: *Disallow: /admin/Disallow: /allegro/Disallow: /zamowienie/szczegoly/Disallow: /zamowienie/pobierz-list-przewozowy/Disallow: /faktury/szczegoly/Disallow: /faktury/pobierz-pdf/Disallow: /system/custom/captcha_form

@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /assets
+Disallow: /mysite/amadeus/analytics.php
+Disallow: /Security/login
+Disallow: /ground-operations/
+Disallow: /en/myadria/access-error/
+Disallow: /admin/
+Disallow: /booking/hotels/
+
+
+Sitemap: http://www.adria.si/sitemap.xml
+

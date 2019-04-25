@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /backoffice
+Disallow: /en/developer
+Disallow: /es/developer
+Disallow: /dededetest
+Disallow: /demo
+Disallow: /de/signup
+Disallow: /en/signup
+Disallow: /es/signup
+Disallow: /fi/signup
+Disallow: /no/signup
+Disallow: /pl/signup
+Disallow: /se/signup
+Disallow: /en/modules
+
+Sitemap: https://trustly.com/sitemap_index.xml
+

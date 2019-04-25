@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /account
+Disallow: /login
+Disallow: /requestNewPassword
+Disallow: /checkout
+Disallow: /orderHistory
+Disallow: /search
+Disallow: /m/account
+Disallow: /m/login
+Disallow: /m/requestNewPassword
+Disallow: /m/shoppingCart
+Disallow: /wbdc
+Disallow: /webtrekk
+Disallow: /api
+Disallow: /printarticle
+Disallow: /m/quickshopping
+Disallow: /quickshopping
+Disallow: /watchlist
+Disallow: /cart?
+Disallow: /productwatchlistadd
+Disallow: /ratings/
+Disallow: /m/ratings/
+Sitemap: https://www.tchibo.pl/sitemap.xml
+

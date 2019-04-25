@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: http://clipgrab.de/sitemap.xml
+Disallow: /files/
+Disallow: /alt/
+Disallow: /img/
+Disallow: /or.php
+Disallow: /stat.php
+Disallow: /1start.html
+Disallow: /img.html
+Disallow: /translations/
+Disallow: /download/

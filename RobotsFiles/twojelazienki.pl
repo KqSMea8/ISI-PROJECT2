@@ -1,0 +1,6 @@
+Sitemap: sitemap.xml.gz
+Sitemap: sitemap.xml
+
+Disallow: cache/
+Disallow: images/
+

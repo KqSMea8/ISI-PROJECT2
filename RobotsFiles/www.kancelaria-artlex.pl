@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /adds/
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /projekt/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /platnosci/
+Disallow: /gospodarcza_cms/
+Allow: /
+

@@ -1,0 +1,1 @@
+<div style="padding: 2px 0px; border-bottom: 1px dotted #afc81c; background-color: #2e3735; font-size: 11px; font-family: verdana; text-align: left; color: #f8f8f8;"><span style="font-size: 9px; color: #2e3735; background-color: #afc81c; padding: 3px 4px">[FrontController, 106]</span>&nbsp; no ctrl: robots.txt</div>

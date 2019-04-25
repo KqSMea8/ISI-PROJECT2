@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /xfdemo/
+Disallow: /demo/
+Disallow: /downloads/
+Disallow: /members/
+Disallow: /online/
+Disallow: /search/
+Disallow: /contact/
+Disallow: /login/
+Disallow: /help/

@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /slovnik/it/
+Disallow: /slovnik/de/
+Disallow: /slovnik/en/
+Disallow: /slovnik/hu/
+Disallow: /slovnik/pl/
+Disallow: /slovnik/nl/
+Disallow: /slovnik/fr/
+Disallow: /slovnik/es/
+Disallow: /slovnik/pt/
+
+Disallow: /glossary/it/
+Disallow: /glossary/de/
+Disallow: /glossary/en/
+Disallow: /glossary/hu/
+Disallow: /glossary/pl/
+Disallow: /glossary/nl/
+Disallow: /glossary/fr/
+Disallow: /glossary/es/
+Disallow: /glossary/pt/
+
+sitemap: http://www.forexsrovnavac.cz/sitemap.xml

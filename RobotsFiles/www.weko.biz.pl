@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /animacje/Movie4.swf
+Disallow: /animacje/swid_2.swf
+Disallow: /animacje/napis.swf
+Disallow: /_pliki/napis.swf
+Disallow: /_pliki/swider.swf
+Disallow: /animacje/Movie4.swf
+Disallow: /animacje/swid_2.swf
+Disallow: /animacje/telefon.swf
+Disallow: /animacje/Movie2.swf

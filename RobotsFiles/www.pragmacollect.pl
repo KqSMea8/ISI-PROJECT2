@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /marketing/
+Allow: /wp-content/uploads/2019/02/*.pdf
+Allow: /wp-content/uploads/2019/02/*.aid
+Disallow: *.csv
+Disallow: *.pdf
+Disallow: *.ai
+Allow: /wp-admin/admin-ajax.php
+Allow: /marketing/komunikaty/komunikat_prasowy_leaselink_pragma_8-03-2019.pdf

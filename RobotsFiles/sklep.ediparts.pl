@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ext/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /js/
+Disallow: /cache/
+Disallow: cookie_usage.php
+Disallow: /login.php
+Disallow: /buy_it_now.php

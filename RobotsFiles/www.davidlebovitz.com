@@ -1,0 +1,11 @@
+User-agent: *
+#Disallow: /cgi-bin/
+#Disallow: /i/
+#Disallow: /images/
+#Disallow: /*.gif$
+#Disallow: /*.png$
+#Disallow: /*.jpg$
+#Disallow: /*?
+Crawl-delay: 30
+
+

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /vecms
+Disallow: /polityka-cookies
+Disallow: /de*
+Disallow: /en*
+Disallow: /ru*
+Disallow: /pl-*
+Disallow: /?lang=*

@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /logowanie.php
+Disallow: /sys7
+Disallow: /sys8
+Disallow: /sys9
+Disallow: /poezja.php
+Disallow: /admin
+Disallow: /redir
+Disallow: .import
+Disallow: .git
+Disallow: .ssh
+Disallow: .settings
+Disallow: /cms
+Disallow: /cms/scms/
+Disallow: /editor/
+Disallow: /nblog/
+Disallow: /openx2/
+Disallow: /openx2/*
+Disallow: /api/
+Disallow: /biblioteczka,*
+Disallow: /ksiazki/oczekujace
+Disallow: /librarian-shop/
+Disallow: /forum/szukaj
+Allow: /
+

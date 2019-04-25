@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-login*
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-includes/js
+Disallow: /trackback
+Disallow: */trackback
+Disallow: /*?*
+Disallow: /*?
+Disallow: /*~*
+Disallow: /*~
+Sitemap: http://fara-kcynia.pl/sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /images/
+Disallow: /img/
+Disallow: /galeria/
+Disallow: /application/
+Disallow: /application/config/
+Disallow: /baza/
+Disallow: /galeria/
+Disallow: /system/

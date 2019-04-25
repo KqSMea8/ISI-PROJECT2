@@ -1,0 +1,34 @@
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_cs.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_de.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_en.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_es.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_fr.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_it.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_ja.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_ko.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_nl.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_pl.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_pt-br.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_ru.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_tr.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_zh.xml
+Sitemap: https://www.runtastic.com/sitemap/sitemap_index_zh-tw.xml
+
+User-agent: *
+Disallow: /cs/treninkove-plany/payment
+Disallow: /de/trainingsplaene/payment
+Disallow: /en/training-plans/payment
+Disallow: /es/planes-de-entrenamiento/payment
+Disallow: /fr/plans-d-entrainement/payment
+Disallow: /it/piani-allenamento/payment
+Disallow: /ja/training-plans/payment
+Disallow: /ko/training-plans/payment
+Disallow: /nl/trainingsschemas/payment
+Disallow: /pl/plany-treningowe/payment
+Disallow: /pt-br/planos-de-treinamentos/payment
+Disallow: /ru/training-plans/payment
+Disallow: /tr/antrenman-planlar/payment
+Disallow: /zh/training-plans/payment
+Disallow: /zh-tw/training-plans/payment
+Disallow: /api/
+

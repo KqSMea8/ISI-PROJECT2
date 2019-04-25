@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /include
+Disallow: /admin
+Disallow: /upload
+Disallow: /www
+Disallow: /cache
+Disallow: /mobile
+Disallow: /pl/cart.html
+Disallow: /?l=1&pro=*

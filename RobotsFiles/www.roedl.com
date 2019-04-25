@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /*ContactPersonEmail.aspx*
+Disallow: /*contact.aspx*
+Disallow: /*roedlsearchresults.aspx*
+Disallow: /*Authenticate.aspx*
+Disallow: /*feedback.aspx?site=*
+Disallow: /help
+Disallow: /sites/search/*
+Disallow: /cr50/*

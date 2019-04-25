@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /edycja/
+Disallow: /err/
+Disallow: /PEAR/
+Disallow: /phpmailer/
+Disallow: /in.php*
+Disallow: /pl/akcesoriameblowe/mt-8256,1234.html
+Disallow: /pl/okuciazawiasy/pochwyt-do-drzwi-szklanych-h01,92.html
+Disallow: /pl/okuciazawiasy/zawias-do-kabiny-prysznicowej%3Cbr%3Egx-9901,891.html
+Disallow: /pl/okuciazawiasy/zawias-do-kabiny-prysznicowej%3Cbr%3Egx-9902,879.html
+Disallow: /pl/okuciazawiasy/zawias-do-kabiny-prysznicowe%3Cbr%3Edx-9902,933.html
+Disallow: /modloader.php?mod=katalog&kategoria=1&produkt=192&druk=1
+Disallow: /propozycja/
+Allow: /

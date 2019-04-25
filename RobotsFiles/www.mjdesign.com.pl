@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /beta*
+Disallow: *.pdf
+Disallow: *.PDF
+Disallow: *.swf
+Disallow: *.SWF
+Disallow: /pdf*
+Disallow: /product-75.html
+Disallow: /fabric-selection.html
+Disallow: /family-of-chairs.html
+Disallow: /news.html
+Disallow: /pdf-.html

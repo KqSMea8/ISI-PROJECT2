@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /autorki/action~posterboard/
+Disallow: /autorki/action~agenda/
+Disallow: /autorki/action~oneday/
+Disallow: /autorki/action~month/
+Disallow: /autorki/action~week/
+Disallow: /autorki/action~stream/
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/

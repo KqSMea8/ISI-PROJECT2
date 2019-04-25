@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /    # Allow bot to enter
+Disallow: /*?*
+Disallow: /*?id=*
+Disallow: /typo3conf/
+Disallow: /typo3_src/
+Disallow: /typo3/
+Disallow: /typo3temp/Cache/
+Allow: /typo3temp/*.css$
+Allow: /typo3temp/*.gif$
+Allow: /typo3temp/*.png$
+Allow: /typo3temp/*.js$
+Allow: /typo3temp/*.woff$
+Allow: /typo3temp/*.css.gzip$
+Allow: /typo3temp/*.gif.gzip$
+Allow: /typo3temp/*.png.gzip$
+Allow: /typo3temp/*.js.gzip$
+Allow: /typo3temp/*.woff.gzip$
+Allow: /typo3temp/compressor/*.css$
+Allow: /typo3temp/compressor/*.js$
+Allow: /typo3temp/compressor/*.js.gzip$
+Allow: /typo3conf/ext/*.gif$
+Allow: /typo3conf/ext/*.jpg$
+Allow: /typo3conf/ext/*.png$
+Allow: /typo3conf/ext/*.css$
+Allow: /typo3conf/ext/*.js$
+Sitemap: http://www.lewa.pl/sitemap.xml

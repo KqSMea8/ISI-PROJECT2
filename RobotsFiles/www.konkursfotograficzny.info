@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /blogs/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /js/
+Disallow: /tmp/
+Disallow: /wellbutrin-on-4-dollar-list/
+Disallow: /wp-login.php
+Allow: /
+Sitemap: http://www.konkursfotograficzny.info/sitemap.xml.gz

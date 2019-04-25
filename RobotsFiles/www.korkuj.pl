@@ -1,0 +1,1 @@
+User-agent: *Disallow: */korkuj/Disallow: */awstats/Disallow: */ads/Disallow: */dodaj/Disallow: */index.php?mode=searchDisallow: *send=Disallow: *mode=teacherDisallow: *mode=kbaseDisallow: *try=loginDisallow: */user/Disallow: /index.php?option=smDisallow: /register.php

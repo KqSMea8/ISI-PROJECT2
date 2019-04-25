@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /controllers/
+Disallow: /css/
+Disallow: /library/
+Disallow: /views/
+Disallow: /scripts/
+Disallow: /.htaccess
+Disallow: /logs.txt.php
+Disallow: /*.txt
+Disallow: /*.sql
+Disallow: /*.xml
+Disallow: /*.js
+Disallow: /error*

@@ -1,0 +1,7 @@
+# disallow typo3 backend
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /t3lib/
+
+Sitemap: index.php?eID=extensible_sitemap

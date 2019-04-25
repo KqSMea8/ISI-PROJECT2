@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /go
+Disallow: /summit/2018/register/warsaw/
+Sitemap: https://www.squiz.net/sitemap.xml
+

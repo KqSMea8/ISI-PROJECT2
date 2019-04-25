@@ -1,0 +1,43 @@
+User-Agent: *
+Disallow:/add/
+Disallow:/loader/
+Disallow:/chat/
+Disallow:/users/
+Disallow:/scripts/
+Disallow:/login.php
+Disallow:/login.html
+Disallow:/register/
+Disallow:/bugs/
+Disallow:/bigmap/
+Disallow:/externews/
+Disallow:/sys/
+Disallow:/abyse_report/
+Disallow:/blog/notes/
+Disallow:/onmap//in/
+Disallow:/onmap/in/
+Disallow:/onmap/clicked/
+Disallow:/onmap/*/blog/*
+Disallow:/onmap/*?kml
+Disallow:/onmap/*?rss
+Disallow:/blog/ring/*?country
+Disallow:/blog/ring/*?area
+Disallow:/*?rss
+Disallow:/img/
+Disallow:/z/
+Disallow:/skin/
+
+
+Disallow:/images/
+Disallow:/pages/
+Disallow:/kladr/
+Disallow:/twitter/
+Disallow:/indexOrg/
+
+Disallow:/travelguide/
+Disallow:*login.html
+Disallow:*register.html
+Disallow:/index.php
+Host: ru.esosedi.org
+Sitemap: http://esosedi.org/sitemap_org.php?index
+
+

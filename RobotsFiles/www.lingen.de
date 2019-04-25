@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*sid
+
+User-agent: SemrushBot
+Disallow: /

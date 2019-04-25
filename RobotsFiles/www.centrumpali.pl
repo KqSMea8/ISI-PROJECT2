@@ -1,0 +1,5 @@
+# Installed by Nettl
+
+User-agent: *
+Crawl-delay: 30
+

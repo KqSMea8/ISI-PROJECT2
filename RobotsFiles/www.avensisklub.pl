@@ -1,0 +1,32 @@
+User-Agent: *
+Allow: /ads/preferences/
+Allow: /gpt/
+Allow: /pagead/show_ads.js
+Allow: /pagead/js/adsbygoogle.js
+Allow: /pagead/js/*/show_ads_impl.js
+Allow: /static/glade.js
+Allow: /static/glade/
+Disallow: /
+Noindex: /
+User-agent: Google
+Disallow:
+User-agent: googlebot
+Disallow:
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: gg.php
+Disallow: gg.htm
+Disallow: posting.php
+Disallow: posting.htm
+Disallow: printview.php
+Disallow: printview.htm
+Disallow: privmsg.php
+Disallow: privmsg.htm
+Disallow: report.php
+Disallow: report.htm
+Disallow: tellafriend.php
+Disallow: tellafriend.htm
+Disallow: /admin/
+Disallow: /next_topic/
+Disallow: /prev_topic/

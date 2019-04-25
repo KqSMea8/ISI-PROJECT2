@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /database/
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /save/
+Disallow: /scripts/
+Disallow: /sites/
+Disallow: /themes/

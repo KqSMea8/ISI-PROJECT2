@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /files/
+Disallow: /ajax/
+Allow: /files/*.css
+Allow: /files/*.js
+Allow: /files/*/*/*/banner/
+User-agent: Fasterfox
+User-agent: Slurp
+User-agent: BLEXBot
+User-agent: Yandex
+User-agent: MJ12bot
+User-agent: Yandex
+User-agent: dotbot
+Disallow: /

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /css
+Disallow: /flash
+Disallow: /js
+Disallow: /pics
+Disallow: /add_click
+Disallow: /ajax
+Disallow: /*printpage*.html
+Disallow: /*printpdf*.html
+Disallow: /*kalendarium/*.html
+Disallow: /ogloszenia_sadu/orzeczenia.html
+

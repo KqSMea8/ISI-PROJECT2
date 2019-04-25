@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /webstat/
+Disallow: /feed/
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /category/*/*
+Disallow: /wp-content/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /comments
+
+User-agent: Yandex
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /webstat/
+Disallow: /feed/
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /category/*/*
+Disallow: /wp-content/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /comments
+Host: bicafe.pl
+
+Sitemap: http://bicafe.pl/sitemap.xml

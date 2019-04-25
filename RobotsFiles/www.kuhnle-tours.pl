@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /typo3temp/

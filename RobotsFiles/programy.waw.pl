@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Disallow: /_db
+Disallow: /_utils
+Disallow: /forms
+Disallow: /images
+Disallow: /img
+Disallow: /phpmailer
+Disallow: /styles

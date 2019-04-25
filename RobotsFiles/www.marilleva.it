@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_cma/
+Disallow: /_lang/
+Disallow: /_pers/

@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /ru/novosti/24-ru/uncategorised
+Disallow: /en/our-references/30-en/uncategorised-2
+Disallow: /en/general-contracting/30-en/uncategorised-2
+Disallow: /ru/otzyvy-klientov-1/24-ru/uncategorised
+Disallow: /en/projects/2-uncategorised
+Disallow: /ru/otzyvy-klientov-1/24-ru/uncategorised?start=5
+Disallow: /en/2-uncategorised
+Disallow: /ru/novosti/24-ru/uncategorised/1380-prais-list
+Disallow: /ru/novosti/24-ru/uncategorised/941-projektowanie
+Disallow: /ru/novosti/24-ru/uncategorised/741-no-results
+Disallow: /wizualizacje/03/
+Disallow: /wizualizacje/01/
+Disallow: /wizualizacje/02/
+Disallow: /aktualnosci/8-pl/1143-test
+Disallow: /2-uncategorised
+Disallow: /2-uncategorised/1435-form-test
+Disallow: /8-pl
+Disallow: /8-pl/1143-test
+Disallow: /component/content/?id=28&Itemid=142
+Sitemap: https://www.ocmer.com.pl/sitemap.xml
+

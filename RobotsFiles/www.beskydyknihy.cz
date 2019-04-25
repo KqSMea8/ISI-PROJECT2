@@ -1,0 +1,38 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /script/
+Disallow: /api/
+Disallow: /action/
+Disallow: /*?priceMax
+Disallow: /*?priceMin
+Disallow: /*?parameterId
+Disallow: /*?order
+Disallow: /*?availabilityId
+Disallow: /*?manufacturerId
+Disallow: /*?stock
+Disallow: /*?pv*=*,
+Disallow: /*&pv*=*,
+Disallow: /*?pv*=*&pv*=
+Disallow: /*&pv*=*&pv*=
+Disallow: /*:*,*/
+Disallow: /*?currency=
+Disallow: /*/?backTo=
+Disallow: /vyhledavani/
+Disallow: /kosik/
+Disallow: /login/
+Disallow: /registrace/
+Disallow: /klient/zapomenute-heslo/
+Disallow: /affiliate-registrace/
+Disallow: /affiliate-zapomenute-heslo/
+
+Disallow: /*:diskuse
+Disallow: /*:dotaz
+Disallow: /*:hlidat-cenu
+Disallow: /*:hodnoceni
+Disallow: /*:wysiwyg
+
+
+
+Sitemap: http://www.beskydyknihy.cz/sitemap.xml
+
+

@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /wp-content/plugins/table-maker/css/style.css?ver=1.6,24
+Allow: /wp-includes/js/wp-embed.min.js?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/css/flexslider/flexslider.css?ver=4.6.4,10
+Allow: /wp-includes/js/wp-emoji-release.min.js?ver=4.6.4,10
+Allow: /wp-content/plugins/page-list/css/page-list.css?ver=5.1,10
+Allow: /wp-content/themes/elitepress/js/menu/menu.js?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/css/bootstrap.css?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/js/front-page/custom.js?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/style.css?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/css/font-awesome/css/font-awesome.min.css?ver=4.6.4,10
+Allow: /wp-content/plugins/facebook-pagelike-widget/fb.js?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/css/media-responsive.css?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/js/flexslider/flexslider-element.js?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/js/flexslider/jquery.flexslider.js?ver=4.6.4,10
+Allow: /wp-content/themes/elitepress/css/theme-menu.css?ver=4.6.4,10
+Allow: /wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509,10
+Allow: /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1,10
+Allow: /wp-content/themes/elitepress/css/default.css?ver=4.6.4,10
+Allow: /wp-content/plugins/facebook-pagelike-widget/loader.gif,10
+Allow: /wp-includes/js/jquery/jquery.js?ver=1.12.4,10
+Allow: /wp-content/themes/elitepress/js/bootstrap.min.js?ver=4.6.4,10
+

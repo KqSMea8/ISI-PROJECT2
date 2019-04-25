@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /c_index.php
+Disallow: /aindex.html
+Disallow: /biura.html
+Disallow: /cele.html
+Disallow: /fundusze.html
+Disallow: /historia.html
+Disallow: /kontakt.html
+Disallow: /o_firmie.html
+Disallow: /oferta.html
+Disallow: /polecenia.html
+Disallow: /program.html
+Disallow: /readme.html
+Disallow: /aindex.html
+Disallow: /samochody.html
+Disallow: /serwis.html
+Disallow: /szkolenia.html
+Disallow: /wspolpraca.html
+Disallow: /kontakt.php
+Disallow: /events/
+Disallow: /locations/
+Disallow: /author/
+
+Sitemap: http://www.phuzgoda.pl/sitemap.xml

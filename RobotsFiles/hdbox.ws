@@ -1,0 +1,65 @@
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: YandexImages
+Allow: /wp-content/uploads/
+
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-comments
+Allow: /wp-content/uploads
+Disallow: /wp-content/cache
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /archive
+Disallow: */archive
+Disallow: */trackback
+Disallow: */*/feed/*/
+Disallow: /date/*
+Disallow: */date/*
+Disallow: */*/trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /cgi-bin
+Disallow: /*.php
+Disallow: */*.php
+Disallow: *?s=
+Disallow: *?q=
+
+User-agent: Yandex
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /page/
+Disallow: */page/
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */*/trackback
+Disallow: */*/feed/*/
+Disallow: */feed
+Disallow: /tag
+Disallow: */tag
+Disallow: /author/*
+Disallow: */author/*
+Disallow: /date/*
+Disallow: */date/*
+Disallow: */gogogo/*
+Disallow: /gogogo/*
+Disallow: /*?*
+Disallow: */*?*
+Disallow: /*.php
+Disallow: */*.php
+Host: https://hdbox.ws
+
+Sitemap: https://hdbox.ws/sitemap.xml
+

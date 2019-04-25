@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /digitalbrochures/
+Disallow: /oldwebsite/
+Disallow: *.swf
+Allow: *.jpg$
+Allow: /admin/public/upload/(.*).pdf$
+Allow: /admin/public/upload/(.*).JPG$
+Sitemap: http://www.unical.pl/sitemap.xml

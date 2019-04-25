@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /engine/
+Disallow: /files/
+Disallow: /modules-jQuery/
+Disallow: /jQuery.php
+Disallow: /js-version.php
+Disallow: /php.ini
+Disallow: /showIP.php
+Disallow: /sd-x-cron.php

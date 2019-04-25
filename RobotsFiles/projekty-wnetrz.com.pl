@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /info
+Disallow: /indywidualne
+Disallow: /komercyjne
+Disallow: /slajdy
+Disallow: /swfobject.js
+Disallow: /funkcje.php
+Disallow: /wyslij.php
+Disallow: /logo.png
+Disallow: /galeria.swf
+Disallow: /dane.xml

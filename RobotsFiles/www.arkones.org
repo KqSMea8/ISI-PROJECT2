@@ -1,0 +1,8 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /textpattern/
+Disallow: /tmp/
+Sitemap: http://www.arkones.org/sitemap.xml
+

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /fla/
+Disallow: /przyklady/
+Disallow: /filmy/
+Disallow: /subenu.html
+Disallow: /naglowek.html
+Disallow: /gb/fla/
+Disallow: /gb/subenu.html
+Disallow: /gb/naglowek.html
+Disallow: /gb/images/
+Disallow: /gb/filmy/
+Disallow: /de/filmy/
+Disallow: /de/mages/
+Disallow: /de/fla/
+Disallow: /de/submenu.html
+Disallow: /de/naglowek.html

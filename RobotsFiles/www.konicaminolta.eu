@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /Development/
+
+Sitemap: https://www.konicaminolta.eu/googlesitemap.xml

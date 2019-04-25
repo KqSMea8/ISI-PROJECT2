@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /pl/login/?url=*
+Disallow: /pl/remember
+Disallow: /pl/office
+Disallow: /pl/leader
+Disallow: /pl/store
+Disallow: /pl/cok
+Host: https://pl.siberianhealth.com/
+Sitemap: https://pl.siberianhealth.com/sitemap.xml

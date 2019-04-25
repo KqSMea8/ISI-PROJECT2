@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /js/links/
+Disallow: /golink/
+Disallow: /link/
+Disallow: /print/
+Disallow: /informertune/
+Disallow: /informerget/
+Disallow: /blocks/
+Disallow: /dayofset/
+Disallow: /*?
+Allow: /*js?
+Allow: /*css?
+Host: www.meteoprog.by
+Sitemap: http://www.meteoprog.by/sitemap/index

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ads/
+Disallow: /app/
+Disallow: /IDEA.system/
+Disallow: /jh/
+Disallow: /online/
+Disallow: /rss/
+Disallow: /smarty_lib/
+Disallow: /themes/
+Allow: /themes/upload/
+Disallow: /pl/_tags

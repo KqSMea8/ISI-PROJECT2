@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /buffer/
+Disallow: /cumulus/
+Disallow: /mirage/
+Disallow: /eoffice/
+Disallow: /eoffice2/
+Disallow: /tinymce/
+Disallow: /js/
+Disallow: /WEB-INF/
+Disallow: /rss
+Disallow: /sr
+Disallow: /ajax_ads.xml
+Sitemap: http://ugk.cmsmirage.pl/sitemap.xml?alias=index

@@ -1,0 +1,44 @@
+User-Agent: *
+Disallow: /internet/old/
+Disallow: /extranet/
+Disallow: /internet/webfr.nsf/wFramed/
+Disallow: /internet/webde.nsf/wFramed/
+Disallow: /internet/webuk.nsf/wFramed/
+Disallow: /internet/webcn.nsf/wFramed/
+Disallow: /internet/webes.nsf/wFramed/
+Disallow: /internet/webit.nsf/wFramed/
+Disallow: /internet/webru.nsf/wFramed/
+Disallow: /internet/webcom_en.nsf/wFramed/
+Disallow: /internet/webcom_de.nsf/wFramed/
+Disallow: /internet/webcom_en.nsf/wFramed/
+Disallow: /internet/webcom_es.nsf/wFramed/
+Disallow: /internet/webpl.nsf/wFramed/
+Disallow: /internet/webbr.nsf/wFramed/
+Disallow: /internet/webru.nsf/WebPage?
+Disallow: /internet/webru.nsf/rssfeed?
+Disallow: /*&q=
+Disallow: /internet/webru.nsf/PagesContentOnly
+Disallow: /*range=
+Disallow: /internet/webru.nsf/*OpenDocument
+Disallow: /internet/catalog.nsf/%28wMC%29/
+Disallow: /*p=
+
+User-Agent: Yandex
+Disallow: /internet/old/
+Disallow: /extranet/
+Disallow: /internet/web*
+Allow: /internet/webru.nsf/
+Disallow: /internet/webru.nsf/WebPage?
+Disallow: /internet/webru.nsf/rssfeed?
+Disallow: /*&q=
+Disallow: /com_
+Disallow: /internet/webru.nsf/PagesContentOnly
+Disallow: /*range=
+Disallow: /internet/webru.nsf/*OpenDocument
+Disallow: /internet/catalog.nsf/%28wMC%29/
+Disallow: /*p=
+
+User-agent: MJ12bot
+Disallow: /
+
+Host: www.kuhn.ru

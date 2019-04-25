@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.pdf$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+Disallow: /wp-admin/
+Disallow: /inne/bad/
+Disallow: /inne/egazeta/
+Disallow: /inne/mapainwestycji/
+Disallow: /inne/spacer/
+Disallow: /inne/towarzystwoturystyczne/
+Disallow: /inne/zielonesercaeuropy/
+Disallow: /wp-content/uploads/
+Disallow: /inne/gok-modern/rodo.zip

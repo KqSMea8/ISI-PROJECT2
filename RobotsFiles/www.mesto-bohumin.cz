@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /skript/
+Disallow: /data/
+Disallow: /ajax/
+Disallow: /qr_data/
+

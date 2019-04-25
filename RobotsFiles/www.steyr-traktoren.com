@@ -1,0 +1,20 @@
+User-Agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Disallow: /_cts/
+Disallow: /_private/
+Disallow: /Lists/
+Disallow: /m/
+Disallow: /ReusableContent/
+Disallow: /WorkflowTasks/
+Disallow: /SiteCollectionDocuments/
+Disallow: /SiteCollectionImages/
+Disallow: /SiteAssets/
+Disallow: /Documents/Forms/
+Disallow: /Pages/Forms/
+Disallow: /Search/
+
+
+Sitemap: https://www.steyr-traktoren.com/sitemap.xml

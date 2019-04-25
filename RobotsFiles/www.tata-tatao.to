@@ -1,0 +1,9 @@
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: *
+Disallow: /i/
+Disallow: /knit/whatsnew
+Disallow: /whatsnew
+
+

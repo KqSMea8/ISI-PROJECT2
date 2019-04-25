@@ -1,0 +1,6 @@
+Sitemap: https://www.businessinsider.sg/sitemap.xml
+Sitemap: https://www.businessinsider.sg/sitemap-news.xml
+
+User-agent: *
+Allow: /
+

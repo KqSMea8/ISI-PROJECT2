@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: addclick.php
+Disallow: admin.php
+Disallow: backup-db.php
+Disallow: banners.php
+Disallow: config.inc.php
+Disallow: docnload-click.php
+Disallow: easydownload-click.php
+Disallow: extension.inc
+Disallow: popup.php
+Disallow: readme1st
+Disallow: /_flash/
+Disallow: /_logs-trakt_/
+Disallow: /admin/
+Disallow: /blocks/
+Disallow: /html/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /upload-tmp/
+

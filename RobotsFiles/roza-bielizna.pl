@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /logs/
+Disallow: /tmp/
+Sitemap: http://www.roza-bielizna.pl/sitemap.xml

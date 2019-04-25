@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /pdf/
+Disallow: /gfx/
+Disallow: /ajax/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.css$
+Allow: /*.js$
+User-agent: Fasterfox
+Disallow: /
+Sitemap: https://www.ideoforce.pl/sitemap.xml

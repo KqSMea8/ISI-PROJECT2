@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /spring/
+Disallow: /api/
+Disallow: /admin/
+Disallow: /partner/
+Disallow: /koszyk
+Disallow: /redirect
+Disallow: /search
+Sitemap: https://www.tanie-opony.pl/sitemapindex.xml

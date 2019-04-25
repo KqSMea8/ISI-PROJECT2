@@ -1,0 +1,83 @@
+User-agent: *
+Allow: /
+Disallow: /ru/freeze/
+Disallow: */ticket/
+Disallow: */voucher/*.pdf
+Disallow: */rzd/ticketManager
+Disallow: /ru/flights/
+Disallow: /en/news/
+Disallow: */itinerary/
+Disallow: /seo_pages/seo/api/*
+Disallow: /ru/blog/cgi-bin
+Disallow: /ru/blog/wp-admin
+Disallow: /ru/blog/wp-includes
+Disallow: /ru/blog/wp-content/plugins
+Disallow: /ru/blog/wp-content/cache
+Disallow: /ru/blog/wp-content/themes
+Disallow: /ru/blog/*?*
+Disallow: /ru/blog/code
+Disallow: /ru/blog/wp-login.php
+Disallow: /ru/blog/wp-register.php
+Disallow: /ru/blog/xmlrpc.php
+Disallow: /ru/blog*/feed*
+Disallow: /ru/blog*/trackback*
+Disallow: /ru/f/
+Disallow: /*/hotel/pay*
+Disallow: /*/success*
+Disallow: /*/p/
+Disallow: /*/o/
+Disallow: /activities/order
+Disallow: */tlive/
+Disallow: */order/
+Sitemap: https://www.onetwotrip.com/ru/sitemap.xml
+
+User-agent: YandexBot
+Disallow: /ru-ua/aviabilety/*
+Disallow: /ru/freeze/
+Disallow: */ticket/
+Disallow: */voucher/*.pdf
+Disallow: */rzd/ticketManager
+Disallow: /ru/flights/
+Disallow: /en/news/
+Disallow: */itinerary/
+Disallow: /seo_pages/seo/api/*
+Disallow: /ru/blog/cgi-bin
+Disallow: /ru/blog/wp-admin
+Disallow: /ru/blog/wp-includes
+Disallow: /ru/blog/wp-content/plugins
+Disallow: /ru/blog/wp-content/cache
+Disallow: /ru/blog/wp-content/themes
+Disallow: /ru/blog/*?*
+Disallow: /ru/blog/code
+Disallow: /ru/blog/wp-login.php
+Disallow: /ru/blog/wp-register.php
+Disallow: /ru/blog/xmlrpc.php
+Disallow: /ru/blog*/feed*
+Disallow: /ru/blog*/trackback*
+Disallow: /_api/*
+Disallow: */poezda/pay/*
+Clean-param: scp&s&srcmarker&date&fromName&toName&train&to&minCost&metaFrom&classes&metaTo&seats&srcmarker2&from /ru/poezda/*
+Clean-param: scp&s&srcmarker&dc&dk&ds&dyk&utm_medium&utm_source&utm_campaign&utm_term&utm_content&k50id&from /ru/aviabilety/*
+Disallow: /en-us/*
+Allow: /en-us/$
+Disallow: /de/*
+Allow: /de/$
+Disallow: /en-gb/*
+Allow: /en-gb/$
+Disallow: /es/*
+Allow: /es/$
+Disallow: /en-ie/*
+Allow: /en-ie/$
+Disallow: /pl/
+Disallow: /tr/
+Allow: /ru/f/
+Disallow: /uk-ua/*
+Allow: /uk-ua/$
+Clean-param: utm_medium&utm_source&utm_campaign /ru/poezda/*
+Clean-param: utm_medium&utm_source&utm_campaign /ru/hotels/*
+Clean-param: utm_medium&utm_source&utm_campaign /ru/tours/
+Clean-param: utm_medium&utm_source&utm_campaign /ru/packages/*
+Clean-param: s /ru/
+
+User-agent: SemrushBot
+Disallow: /

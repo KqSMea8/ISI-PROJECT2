@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cron
+Disallow: /css
+Disallow: /engine
+Disallow: /flash
+Disallow: /html
+Disallow: /images
+Disallow: /jscripts
+Disallow: /scripts
+Disallow: /storage
+Disallow: /styles
+Disallow: /zdjecia

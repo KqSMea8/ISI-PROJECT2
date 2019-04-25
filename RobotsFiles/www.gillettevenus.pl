@@ -1,0 +1,25 @@
+Sitemap: https://www.gillettevenus.pl/pl-pl/sitemap.xml
+User-agent: *
+Disallow: /sitecore/
+Disallow: /sitecore modules/
+Disallow: /sitecore_files/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: *stronalogowania
+Disallow: *stworzycprofil
+Disallow: *zresetujhaslo
+Disallow: *Layouts
+Disallow: *regulamin
+Disallow: *recenzjach
+Disallow: *napisacrecenzje
+Disallow: *reviews
+Disallow: *pokaz
+Noindex: *stronalogowania
+Noindex: *stworzycprofil
+Noindex: *zresetujhaslo
+Noindex: *Layouts
+Noindex: *regulamin
+Noindex: *recenzjach
+Noindex: *napisacrecenzje
+Noindex: *reviews
+Noindex: *pokaz

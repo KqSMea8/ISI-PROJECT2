@@ -1,0 +1,16 @@
+#
+# Hello visitor!
+#
+# Nice to meet you here, but what were you really looking
+# for? I just felt you would visit me here, so I thought
+# I would write you this note.
+#
+# I am sorry to let you know, that you will not be able to
+# find anything out about my website by looking at robots.txt.
+#
+# You are welcome to visit the regular pages of my website.
+# Just enter "www.1234.info" and you will be in the right place.
+#
+
+User-agent: *
+Disallow: /

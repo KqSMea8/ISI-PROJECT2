@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: */actualdata.aspx*
+Disallow: */history.aspx*
+Disallow: */stations.aspx

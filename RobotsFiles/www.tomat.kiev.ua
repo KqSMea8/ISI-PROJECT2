@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.tomat.kiev.ua/sitemap.xml
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /installation/
+Disallow: /?option=
+Disallow: /?replyto=
+Disallow: /?mosmsg=
+Disallow: /?
+

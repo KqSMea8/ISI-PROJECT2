@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /pdf_allianz_zdrowie.aspx
+Disallow: /pdf_generali_mieszkanie.aspx
+Disallow: /pdf_hestia_COG.aspx
+Disallow: /pdf_hestia_dss.aspx
+Disallow: /pdf_hestia_nnw.aspx
+Disallow: /pdf_hestia_zycie.aspx
+Disallow: /pdf_pzu_zycie.aspx
+Disallow: /transakcje
+Disallow: /cms

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /pliki/faktury/
+Disallow: /javascript/
+Disallow: /administrator/
+Disallow: /components/
+Disallow: /moduly/
+Disallow: /template/
+Disallow: /system/

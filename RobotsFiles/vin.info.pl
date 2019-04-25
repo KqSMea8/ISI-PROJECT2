@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /comment-page-
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Allow: /wp-content/uploads/
+User-agent: AhrefsBot
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+Sitemap: http://vin.info.pl/sitemap.xml

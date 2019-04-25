@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_adm/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /bat/
+Disallow: /css/
+Disallow: /funcs/
+Disallow: /includes/
+Sitemap: http://www.soley.nieruchomosci.pl/sitemap.xml

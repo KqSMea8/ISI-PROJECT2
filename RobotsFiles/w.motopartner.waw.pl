@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /stan
+Disallow: /stany
+Disallow: /stan*
+Disallow: /new/
+Disallow: /mobile/
+Disallow: /.git/
+Disallow: /start.asp?WCU=~S*
+Disallow: /livehelp/
+Disallow: /firma/

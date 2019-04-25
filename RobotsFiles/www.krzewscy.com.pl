@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: */home/*
+Disallow: *limitstart*
+Disallow: *Itemid*
+Disallow: *Szukaj*
+Disallow: *search*
+Disallow: *noFrom*
+Disallow: *construction*

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /201604/
+Disallow: /bocai/
+Disallow: /news/
+Disallow: /images/
+Disallow: /pigji/
+Disallow: /tiyu/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,64 @@
+User-agent: *
+Allow: /
+
+Disallow: /checkout/
+Disallow: /catalog/
+Disallow: /catalogsearch/
+Disallow: /catalogsearch/result/
+Disallow: /catalogsearch/advanced/
+Disallow: /app/
+Disallow: /downloader/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /media/
+Allow: /media/catalog/product/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /skin/
+Disallow: /wishlist/
+Disallow: /review/
+Disallow: /var/
+Disallow: /customer/
+Disallow: /contacts/
+Disallow: /catalogcustom/
+Disallow: /sendfriend/
+Disallow: /customproduct/
+Disallow: /cybermut/
+Disallow: /paypal/
+Disallow: /index.php/
+Disallow: /404/
+Disallow: /cgi-bin/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /magento/
+Disallow: /scripts/
+Disallow: /shell/
+Disallow: /stats/
+Disallow: /control/
+Disallow: /customize/
+Disallow: /poll/
+Disallow: /tag/
+
+# Files
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+# Paths (no clean URLs)
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.php$
+Disallow: /*?SID=
+Disallow: /*?limit=all
+Disallow: /*?p=*&
+
+User-agent: Googlebot-Image
+Disallow: /
+Allow: /media/catalog/product/
+
+Sitemap: http://www.bergeredefrance.fr/sitemap.xml

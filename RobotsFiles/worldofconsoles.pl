@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /*msg*
+Disallow: /profile/
+Disallow: /help/
+Disallow: /search/
+Disallow: /search2/
+Disallow: /activate/
+Disallow: /stats/
+Disallow: /admin/
+Disallow: /trackip/
+Disallow: /Themes/
+Disallow: /login/
+Disallow: /register/
+Disallow: /pm/
+Disallow: /logout/
+Disallow: /reminder/
+Disallow: /Themes/
+
+User-agent: MediaPartners-Google
+Allow: /

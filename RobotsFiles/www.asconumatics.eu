@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://www.asconumatics.eu/sitemap.xml
+Disallow: /bin/
+Disallow: /ClientBin/

@@ -1,0 +1,19 @@
+User-agent: MS Search 4.0 Robot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: discobot
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: Slurp
+Crawl-delay: 18
+
+User-agent: Mediapartners-Google*
+Disallow:
+Sitemap: https://www.hafenkw.de/sitemap.xml
+

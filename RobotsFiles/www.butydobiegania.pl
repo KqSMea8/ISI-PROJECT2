@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /cart/add/
+Disallow: /customer/login.html
+Disallow: /customer/register.html
+Disallow: /customer/forgotten_password.html
+Disallow: /zwrot-reklamacja-wymiana.html
+Disallow: /regulamin.html
+Disallow: /polityka-prywatnosci.html
+Disallow: /dostepnosc-towaru.html
+Disallow: /paczkomaty.html
+Disallow: /jak-wykorzystac-kupon-rabatowy.html
+Disallow: /punkty-premium.html
+Disallow: /gwarancja-najnizszej-ceny-1.html
+Disallow: /*?filter
+Disallow: /product_advanced_searcher/from_category/*
+Disallow: /product_advanced_searcher/from_producer/*
+Disallow: /product/search_products*
+
+Sitemap: /sitemap.xml

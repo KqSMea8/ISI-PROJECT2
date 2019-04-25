@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /pdf/
+Disallow: /ClickTale/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+User-agent: Fasterfox
+Disallow: /

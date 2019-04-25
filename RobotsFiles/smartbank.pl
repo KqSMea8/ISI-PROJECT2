@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /actions/
+Disallow: /debug/
+Disallow: /images/
+Disallow: /js/
+Disallow: /templates/
+Disallow: conf.php
+Disallow: skrypty.html
+Disallow: smartbank.html
+Disallow: smartbank.swf
+Disallow: smartbank_projektor.swf
+Disallow: style.css

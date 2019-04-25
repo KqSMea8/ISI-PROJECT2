@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /cron/
+Disallow: /druki/
+Disallow: /film/
+Disallow: /gazety/
+Disallow: /import/
+Disallow: /includes/
+Disallow: /inne/
+Disallow: /js/
+Disallow: /locumnet/
+Disallow: /mailing/
+Disallow: /mls/
+Disallow: /pages/
+Disallow: /phpmailer/
+Disallow: /style/
+Disallow: /tmp/
+Disallow: /wap/

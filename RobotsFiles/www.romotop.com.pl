@@ -1,0 +1,6 @@
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: msnbot
+Crawl-delay: 30
+

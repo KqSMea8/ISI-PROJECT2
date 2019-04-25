@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-includes/js/jquery/jquery.js?*
+Allow: /wp-includes/js/jquery/jquery-migrate.min.js?*
+Allow: /wp-includes/js/comment-reply.min.js?*
+Disallow: /wp-content/themes/soulmedic/*

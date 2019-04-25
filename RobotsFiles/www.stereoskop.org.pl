@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: admin.php
+Disallow: error.php
+Disallow: /admin/
+Disallow: /blocks/
+Disallow: /cache/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /modules/
+Disallow: /themes/
+User-agent: Baidu
+Disallow: /
+User-agent: *alexa*
+Disallow: /
+User-agent: Googlebot-Image
+Disallow: /
+

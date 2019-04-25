@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /application/admin/
+Disallow: /themes/
+Disallow: /application/lib/
+Disallow: /application/plugin/
+Disallow: /Read Me.txt
+

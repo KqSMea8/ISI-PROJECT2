@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /blog/tag/
+Disallow: /blog/category/
+Disallow: /blog/feed/
+Disallow: /blog/page/
+Disallow: /blog/comments/
+Disallow: /blog/2012/
+Disallow: /blog/2013/
+Disallow: /blog/2014/
+Disallow: /blog/2015/

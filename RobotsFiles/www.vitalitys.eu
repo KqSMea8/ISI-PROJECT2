@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /www.vitalitys.eu/pl/content/2-regulamin
+Disallow: /www.vitalitys.eu/pl/content/3-regulamin
+Disallow: /index.php/pl/content/3-regulamin
+Disallow: /index.php/pl/content/2-regulamin
+Disallow: /index.php/content/3-regulamin
+Disallow: /content/3-regulamin
+Disallow: /content/2-regulamin
+Disallow: /3-regulamin
+Disallow: /2-regulamin
+

@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /admin2006/
+Disallow: /cache/
+Disallow: /classes/
+Disallow: /config/
+Disallow: /controllers/
+Disallow: /css/
+Disallow: /docs/
+Disallow: /download/
+Disallow: /img/
+Disallow: /install.x/
+Disallow: /js/
+Disallow: /localization/
+Disallow: /log/
+Disallow: /mails/
+Disallow: /modules/
+Disallow: /override/
+Disallow: /themes/
+Disallow: /tools/
+Disallow: /translations/
+Disallow: /upload/
+Disallow: /webservice/
+

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /szkolenia-otwarte/action~posterboard/
+Disallow: /szkolenia-otwarte/action~agenda/
+Disallow: /szkolenia-otwarte/action~oneday/
+Disallow: /szkolenia-otwarte/action~month/
+Disallow: /szkolenia-otwarte/action~week/
+Disallow: /szkolenia-otwarte/action~stream/

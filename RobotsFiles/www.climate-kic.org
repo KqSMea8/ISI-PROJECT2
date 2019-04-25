@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /twk-tests/
+Disallow: /twk-tests/*
+Disallow: /custom-rss-feeds/
+Disallow: /custom-rss-feeds/*
+
+

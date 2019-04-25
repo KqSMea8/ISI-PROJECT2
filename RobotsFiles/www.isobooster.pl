@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /panel/
+Disallow: /banner/
+Disallow: /carousel/
+Disallow: /cms/
+Disallow: /colorbox/
+Disallow: /lightbox/
+Disallow: /menu/
+Disallow: /old/
+Disallow: /panel/
+Disallow: /tmp/

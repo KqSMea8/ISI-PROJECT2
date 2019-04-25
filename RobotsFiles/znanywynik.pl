@@ -1,0 +1,9 @@
+Sitemap: https://znanywynik.pl/sitemap.xml
+User-agent: *
+Disallow: /attachments
+Disallow: /PHPMailer-master
+Disallow: /printouts
+Disallow: /res
+Disallow: /slides
+Disallow: /tcpdf
+Disallow: /tmp

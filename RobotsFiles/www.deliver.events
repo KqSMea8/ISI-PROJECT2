@@ -1,0 +1,8 @@
+User-agent : Googlebot
+Disallow : /nongooglebot/
+
+User-agent : *
+Allow : /
+
+Sitemap : https://www.deliver.events/sitemap.xml
+

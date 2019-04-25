@@ -1,0 +1,26 @@
+# baido
+
+User-agent: Baidu
+Disallow: /
+
+# AhrefsBot
+
+User-agent: AhrefsBot
+Disallow: /przodkowie_lew.html
+Disallow: /
+
+# oBot
+
+User-agent: oBot
+Disallow: /
+
+# YandexBot
+
+User-agent: Yandex
+Disallow: /
+
+# SemrushBot
+
+User-agent: Semrush
+Disallow: /
+

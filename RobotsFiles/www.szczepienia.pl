@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /polityka-korzystania-z-plikow-cookie
+Disallow: /regulamin
+Disallow: /nota-prawna
+Disallow: /polityka-prywatnosci
+Disallow: /referencje-co-20-sekund-umiera-jedno-dziecko
+Disallow: /referencje-szczepienia-ratuja-zycie
+Disallow: /referencje-lepiej-szczepic-niz-chorowac
+Disallow: /referencje-bezpieczenstwo-potwierdzone-badaniami
+Disallow: /referencje-szczepienia-sa-skuteczne
+Disallow: /referencje-szczepionki-nie-powoduja-autyzmu
+Disallow: /referencje-szczepienia-nie-przeciazaja-ukladu-immunologicznego
+Disallow: /referencje-szczepienia-sa-bezpiecznie-dla-zdrowia
+Disallow: /referencje-kalendarz-szczepien
+Disallow: /referencje-pierwsza-wizyta-szczepienna
+Sitemap: /sitemap.xml

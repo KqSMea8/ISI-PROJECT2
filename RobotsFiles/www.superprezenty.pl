@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Content/Css/
+Disallow: /Content/Js/
+Disallow: /Purchase/
+Disallow: /PDF/
+Disallow: /CouponPDFDownload/
+Disallow: /*.aspx
+Allow: /
+Sitemap: http://www.superprezenty.pl/Output/Sitemap

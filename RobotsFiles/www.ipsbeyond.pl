@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /*/?do=buy*
+Disallow: /*/?do=contact*
+Disallow: /newsletter/settings/
+Disallow: /clients/*
+Disallow: /applications/core/interface/*
+Sitemap: https://www.ipsbeyond.pl/sitemap.php

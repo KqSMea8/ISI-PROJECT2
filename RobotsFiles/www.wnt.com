@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Sitemap: https://www.wnt.com/index.php?id=1&type=841132
+
+
+Allow: /typo3conf/ext/
+Disallow: /sec/pic/mar/ppl/emp/

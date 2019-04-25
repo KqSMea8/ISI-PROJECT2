@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /panel/
+Disallow: /allegro/
+Disallow: /zarzadzanie_reklamami.php
+Disallow: /szukaj_w_serwisie.php
+Disallow: /szukaj.php
+Disallow: /reklama_prawa1.php
+Disallow: /reklama_lewa1.php
+Disallow: /pozostale_podstrony.php
+Disallow: /porownywarka_produktow.php
+Disallow: /newsletter.php
+Disallow: /menu_stopka.php
+Disallow: /logowanie.php
+Disallow: /lista_mailingowa.php
+Disallow: /koszyk.php
+Disallow: /kategorie_produktow.php

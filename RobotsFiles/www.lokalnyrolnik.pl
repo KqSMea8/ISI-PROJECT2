@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin
+Disallow: /media
+Disallow: /adaptive_images
+Disallow: /Sharrre-1.3.5
+Disallow: /static/font
+Disallow: /static/admin
+User-agent: Googlebot-Image
+Allow: /media/images/users_images/*/product_images
+User-agent: Googlebot
+User-agent: Facebot
+User-agent: facebookexternalhit
+Allow: /media/images

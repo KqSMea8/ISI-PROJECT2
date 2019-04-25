@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /popup/popup_hizliIncele.aspx
+Disallow: /popup/popup_authorization.aspx
+Disallow: /popup/popup_favori.aspx
+Disallow: /popup/popup_otomasyon.aspx
+Disallow: /popup/popup_taksit.aspx
+Disallow: /arama/hizliErisim.aspx
+Disallow: /kutu/ascEnCokSatanlar_ajx.aspx
+Sitemap: http://www.englishhome.pl/sitemap.axd

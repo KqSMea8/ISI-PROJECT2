@@ -1,0 +1,9 @@
+User-agent: MJ12bot
+Disallow: /module/ShareLink
+
+User-agent: SemrushBot
+Disallow: /module/ShareLink
+
+User-agent: *
+Sitemap: https://www.biofach.de/sitemap.ashx
+

@@ -1,0 +1,32 @@
+
+
+# robots.txt
+
+
+#<div class="cmsWrapper" id="Area1-Robotsgenerico" data-content-name="Area 1 &#45; Robots generico">#NOT REMOVE THIS COMMENT
+User-agent: *
+Crawl-delay: 5
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /checkout/
+Disallow: /includes/
+Disallow: /manager/
+Disallow: /user/
+Disallow: /not_found.jsp
+Disallow: /prj-front/assets/
+Disallow: /clz-front/assets/
+Disallow: /catalog/rest_search.cmd
+Disallow: /catalog/email_a_friend.jsp
+Disallow: /select_locale.cmd
+Disallow: /system_error.jsp
+
+# the site is fully responsive, any content of the mobile folder left should be ignored
+Disallow: /mobile/
+#NOT REMOVE THIS COMMENT</div>
+#<div class="cmsWrapper" id="Area2-RobotsSpecifico" data-content-name="Area 2 &#45; Robots Specifico">#NOT REMOVE THIS COMMENT
+
+#NOT REMOVE THIS COMMENT</div>
+
+#Sitemaps
+
+Sitemap: https://it.calzedonia.com/clz_assets/sitemaps/CLZ/IT/sitemaps.xml

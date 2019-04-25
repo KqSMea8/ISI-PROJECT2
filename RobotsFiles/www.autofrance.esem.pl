@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /forum_stop
+Disallow: /images
+Disallow: /fixed.js
+Disallow: /focus.js
+Disallow: /okienko.js
+Disallow: /prezentacja.css
+Disallow: /projekt.css
+Disallow: /validate_form.js
+sitemap: http://www.autofrance.esem.pl/sitemap_autofrance.txt

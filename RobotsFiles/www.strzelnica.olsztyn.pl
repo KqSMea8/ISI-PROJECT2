@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cache
+Disallow: /classes
+Disallow: /includes
+Disallow: /error
+Disallow: /tmp
+Disallow: /lang
+Disallow: /modules
+Disallow: /payment
+Disallow: /token_code
+Disallow: /_page_top.php
+Disallow: /connect.php
+Disallow: /dbconfig.inc.php
+Disallow: /order_confirm.php
+Disallow: /passage_xml.php
+Disallow: /verify_client.php
+Disallow: /in_box.php
+Disallow: /in_cats.php
+Disallow: /newsletter_activ.php
+Disallow: /newsletter_del.php
+

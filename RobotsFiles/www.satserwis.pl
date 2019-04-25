@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /phpMyAdmin/
+Disallow: /admin/
+Disallow: /dbadmin/
+Disallow: /wmark/
+Disallow: /maciek/
+Disallow: /foto/
+Disallow: /sklep/
+Disallow: /oferta/koszyk.php
+Allow: /

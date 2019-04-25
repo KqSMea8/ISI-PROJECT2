@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /lightpanel/
+Disallow: /main_libs/
+Disallow: /tmp/
+Allow: /main_libs/*.css
+Allow: /main_libs/*.js
+Allow: /main_libs/*.jpg
+Allow: /main_libs/*.gif
+Allow: /main_libs/*.png
+Allow: /main_libs/includes/functions/AvanRotator/AvanRotator.php

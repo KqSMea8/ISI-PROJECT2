@@ -1,0 +1,5 @@
+# /robots.txt file for <website>
+
+User-agent: *
+Disallow:
+

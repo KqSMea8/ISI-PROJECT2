@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+
+Sitemap: https://www.saurierpark.de/?eID=dd_googlesitemap

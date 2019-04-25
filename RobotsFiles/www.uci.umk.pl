@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /index.php?diff=
+Disallow: /index.php?oldid=
+Disallow: /index.php?title=Help
+Disallow: /index.php?title=Image
+Disallow: /index.php?title=MediaWiki
+Disallow: /index.php?title=Special:
+Disallow: /index.php?title=Template
+Disallow: /index.php/Help
+Disallow: /index.php/MediaWiki
+Disallow: /index.php/Special:
+Disallow: /index.php/Template
+
+# Allow the Internet Archiver to index action=raw and thereby store the raw wikitext of pages
+User-agent: ia_archiver
+Allow: /*&action=raw
+

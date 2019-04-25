@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /st
+
+User-agent: *
+Disallow: /readylook_pdf/

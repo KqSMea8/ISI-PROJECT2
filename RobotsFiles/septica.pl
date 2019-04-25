@@ -1,0 +1,32 @@
+User-Agent: *
+Allow: /
+Sitemap: http://www.septica.pl/sitemap.xml
+
+User-agent: *
+Disallow: /*/e-basket
+Disallow: /*/e-finish
+Disallow: /*/e-send
+Disallow: /*/e-login
+Disallow: /*/e-confirm
+Disallow: /*/e-logout
+Disallow: /*/e-register
+Disallow: /search-engine.htm
+
+User-agent: AlphaBot
+User-agent: AhrefsBot
+User-agent: Baiduspider
+User-agent: BLEXBot
+User-agent: DomainCrawler
+User-agent: dotbot
+User-agent: MauiBot
+User-agent: MegaIndex.ru
+User-agent: MJ12bot
+User-agent: ptolemaiaBot
+User-agent: SemrushBot
+User-agent: Seekport
+User-agent: Seekport Crawler
+User-agent: TurnitinBot
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+

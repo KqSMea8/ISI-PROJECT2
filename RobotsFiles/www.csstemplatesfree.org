@@ -1,0 +1,5 @@
+User-agent: Googlebot
+Disallow: /preview/
+Disallow: /categories/
+Sitemap: http://www.csstemplatesfree.org/sitemap.xml
+

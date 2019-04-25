@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /elektromechanika
+Disallow: /serwis-klimatyzacji
+Disallow: /naprawa-zawieszen-i-ukladow-hamulcowych
+Disallow: /geometria-kol
+Disallow: /akumulatory
+Disallow: /przeglady-rejestracjne
+Disallow: /sprzedaz-i-wymiana-opon
+Disallow: /wymiana-olejow-i-filtrow

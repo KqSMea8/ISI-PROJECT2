@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*/cookies
+Sitemap: http://www.hotelskifun.sk/sitemap.xml

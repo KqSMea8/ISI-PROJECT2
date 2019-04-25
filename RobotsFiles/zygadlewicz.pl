@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /i_more
+Disallow: /css
+Disallow: /i_ins
+Disallow: /i_paint
+Disallow: /images
+Disallow: /last
+Disallow: /gallery_ins.xml
+Disallow: /gallery_more_en.xml
+Disallow: /gallery_more_pl.xml
+Disallow: /gallery_paint.xml

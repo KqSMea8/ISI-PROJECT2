@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: /gfx/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /utilities/
+Disallow: /.htaccess

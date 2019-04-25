@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /vendors/
+Disallow: /images/
+Disallow: /js/
+
+Allow: /uslugi-dekarskie/
+Disallow: /uslugi-dekarskie/vendors/
+Disallow: /uslugi-dekarskie/scss/
+Allow: /uslugi-dekarskie/photo-budowy/
+Disallow: /uslugi-dekarskie/lightbox/
+Disallow: /uslugi-dekarskie/lib/
+Disallow: /uslugi-dekarskie/js/
+Disallow: /uslugi-dekarskie/images/
+Disallow: /uslugi-dekarskie/GRAFIKA/
+Disallow: /uslugi-dekarskie/fonts/
+Disallow: /uslugi-dekarskie/css/
+
+Allow: /uslugi-budowlane/
+Disallow: /uslugi-budowlane/vendors/
+Disallow: /uslugi-budowlane/scss/
+Allow: /uslugi-budowlane/photo-budowy/
+Disallow: /uslugi-budowlane/lightbox/
+Disallow: /uslugi-budowlane/lib/
+Disallow: /uslugi-budowlane/js/
+Disallow: /uslugi-budowlane/images/
+Disallow: /uslugi-budowlane/GRAFIKA/
+Disallow: /uslugi-budowlane/fonts/
+Disallow: /uslugi-budowlane/css/

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /_copy-zaloha/
+Disallow: /administrace/
+Disallow: /cenik/
+Disallow: /CR/
+Disallow: /MySql/
+Disallow: /reklama/
+Disallow: /remax/
+Disallow: /rokytnice.krkonossko.cz/
+Disallow: /vyhledavani/
+
+Sitemap: http://www.krkonossko.cz/sitemap.xml

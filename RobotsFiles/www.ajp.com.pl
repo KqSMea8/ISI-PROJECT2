@@ -1,0 +1,7 @@
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Allow: /wp-content/uploads/

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /grafika/
+Disallow: /grafika_wyniki/
+Disallow: /logo/
+Disallow: /moduly/
+Disallow: /ssl/
+Disallow: /wj/
+Disallow: /moduly/popup/info.php

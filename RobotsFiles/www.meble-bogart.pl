@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /newsite/
+Disallow: /search/
+Disallow: /allegro/
+Disallow: /allegro_szablon/
+Disallow: /allegro_szablon_nowy/
+Disallow: /allegro-mb/
+Disallow: /blog/
+Disallow: /bogart/
+Disallow: /cache/
+Disallow: /cache_search/
+Disallow: /classes/
+Disallow: /core/
+Disallow: /error/
+Disallow: /functions/
+Disallow: /gg/
+Disallow: /includes/
+Disallow: /img/
+Disallow: /libs/
+Disallow: /LiveEditor/
+Disallow: /nbproject/
+Disallow: /of3/
+Disallow: /r360/
+Disallow: /testing/
+Disallow: /koszyk.html
+Disallow: /konto.html
+Disallow: /konto-zamowienia.html
+Disallow: /konto-rabaty.html
+Disallow: /konto-dane.html
+Disallow: /konto-haslo.html
+Disallow: /index.php?site=login
+Disallow: /*configurator
+Disallow: /*zmiana-hasla.html/
+Disallow: /stara_wersja_nie_ruszac/
+
+
+
+User-agent: Googlebot-Image
+Allow: /uploads/
+Allow: /uploads/products/
+Allow: /uploads/products_thumb/
+Allow: /uploads/products_clear/
+Allow: /images/
+Allow: /uploads/files/
+Allow: /templates/default/images/

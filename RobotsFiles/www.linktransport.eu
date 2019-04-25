@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /pl/admin/
+
+Sitemap: http://www.linktransport.eu/sitemap.pl.xml

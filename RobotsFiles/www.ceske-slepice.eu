@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /download/
+Disallow: /images/
+Disallow: /*.pdf$
+Disallow: /*.doc$
+
+Sitemap: http://www.ceske-slepice.eu/sitemap.xml
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: searchpreview
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: Pinterest
+Disallow: /
+

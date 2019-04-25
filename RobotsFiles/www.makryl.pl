@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /_stats/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /flash/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /kopie/
+Disallow: /modules/
+Disallow: /player/
+Disallow: /tmp/
+Disallow: /drukuj.php
+Disallow: /cron.php
+Disallow: /znak.php
+Disallow: /reload.php

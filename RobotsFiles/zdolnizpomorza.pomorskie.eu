@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /documents/
+Disallow: /mIA/Files/
+Disallow: /get_doc.aspx
+
+

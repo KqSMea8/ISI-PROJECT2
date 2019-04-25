@@ -1,0 +1,12 @@
+User-agent: BLEXBot
+Disallow: /
+User-agent: *
+Sitemap: https://www.busbud.com/sitemaps/busbud_sitemap.xml.gz
+Disallow: */bus-schedules-results/
+Disallow: *?*replycom=*
+Disallow: *?*travel_review_id=*
+Disallow: *?currency*
+Disallow: *signin?redirect=*
+Disallow: *?s=*
+Disallow: */api/v1/collector*
+Disallow: */r-sem/*

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /index.php?
+Disallow: /i1.php?
+Disallow: /i2.php?
+Disallow: /i3.php?
+Disallow: /i4.php?
+Disallow: /t.php?
+Disallow: /t1.php?
+Disallow: /t2.php?
+Disallow: /t3.php?
+Disallow: /t4.php?
+
+Disallow: /i1,
+Disallow: /i2,
+Disallow: /i3,
+Disallow: /i4,
+Disallow: /t,
+Disallow: /t1,
+Disallow: /t2,
+Disallow: /t3,
+Disallow: /t4,

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /administrace/
+Sitemap: http://www.helas.cz/sitemap.xml
+

@@ -1,0 +1,10 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+Sitemap: http://kamieniarstwo-glasek.pl/sitemap.xml
+
+User-agent: *
+Disallow: /panel/
+Disallow: /panel
+Disallow: /old/
+Disallow: /old

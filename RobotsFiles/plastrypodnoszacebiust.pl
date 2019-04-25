@@ -1,0 +1,18 @@
+# robots.txt
+User-agent: *
+Disallow: /feed
+Disallow: /feed/
+Disallow: /cgi-bin/
+Disallow: /comment
+Disallow: /comments
+Disallow: /trackback
+Disallow: /comment/
+Disallow: /comments/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+
+
+Allow: /wp-admin/admin-ajax.php
+
+

@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.opel.pl/sitemap.xml
+Disallow: /pcui.html
+Disallow: /content/opel/europe/master/
+Disallow: /content/dam/
+Allow: /content/dam/*.pdf${color}
+Allow: /content/dam/*.jpg${color}
+Allow: /content/dam/*.png${color}
+Noindex: /content/opel/worldwide/poland/pl/index/cars/
+Noindex: /content/opel/worldwide/poland/pl/index/samochody/
+Noindex: /content/opel/worldwide/poland/pl/index/vans/
+Noindex: /content/opel/worldwide/poland/pl/index/dostawcze/
+Noindex: /*?
+Noindex: /ngvc/

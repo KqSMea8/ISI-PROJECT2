@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author-sitemap.xml
+Disallow: /post_tag-sitemap.xml
+Disallow: /category-sitemap.xml
+Disallow: /price_table-sitemap.xml
+Disallow: /testimonial-sitemap.xml
+Disallow: /zapasy-krakow-glowna1/
+Disallow: /zapasy-krakow-index1/
+Disallow: /mma-krakow/attachment/spartan-krakow/
+Disallow: /logo-slider-338px/
+Disallow: /spartan-krakow-koszulka/
+Disallow: /spartan-krakow-koszulka-glowna/
+Disallow: /zapasy-krakow/attachment/brand24/
+Disallow: /zapasy-krakow/attachment/advancedart/
+Disallow: /zapasy-02/

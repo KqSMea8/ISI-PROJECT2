@@ -1,0 +1,74 @@
+# robots.txt
+# www.crit-air.fr
+
+User-agent: *
+Allow: /
+
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /uploads/
+
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-Delay: 5
+
+User-agent: *
+# Disallow in alphabetischer Reihenfolge
+Disallow: /at/
+Disallow: /be/
+Disallow: /bg/
+Disallow: /ch/
+Disallow: /fi/
+Disallow: /gr/
+Disallow: /ht/
+Disallow: /hu/
+Disallow: /no/
+Disallow: /ro/
+Disallow: /rs/
+Disallow: /ru/
+Disallow: /se/
+Disallow: /si/
+Disallow: /sk/
+Disallow: /sl/
+Disallow: /tr/
+Disallow: /xx/
+
+
+# erlaubt ist der Shop in 10 Sprachen
+Allow: /cz/eshop.html
+Allow: /de/bestellshop.html
+Allow: /dk/netbutik.html
+Allow: /en/store.html
+Allow: /es/tienda-online.html
+Allow: /fr/boutique-en-ligne.html
+Allow: /it/negozio.html
+Allow: /nl/bestelwinkel.html
+Allow: /pl/sklep-internetowy.html
+Allow: /ru/internet-magazin.html
+
+
+# Sitemap fur die 9 Sprachen dieser Domain
+# id = 0 => de = Deutsch
+# id = 1 => gb = Englisch
+# id = 3 => pl = Polnisch
+# id = 4 => it = Italienisch
+# id = 5 => nl = Niederlandisch
+# id = 6 => fr = Franzosisch
+# id = 7 => es = Spanisch
+# id = 9 => dk = Danisch
+# id = 16 => cz = Tschechisch
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=0
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=1
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=3
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=4
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=5
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=6
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=7
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=9
+Sitemap: https://www.crit-air.fr/index.php?eID=dd_googlesitemap&L=16
+
+<!-- cached statically on: 25-04-19 02:02 -->
+<!-- expires on: 26-04-19 00:00 -->

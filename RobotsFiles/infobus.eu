@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /bs/
+Disallow: /files/
+Disallow: /generator/
+Disallow: /info/
+Disallow: /Scripts/
+Disallow: /server/
+Disallow: /tmp/
+Disallow: /viev/
+
+Host: https://infobus.eu
+
+Sitemap: https://infobus.eu/sitemap.xml
+
+
+
+User-agent: BLEXBot
+Disallow: /

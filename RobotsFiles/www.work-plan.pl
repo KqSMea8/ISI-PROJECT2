@@ -1,0 +1,23 @@
+User-agent: *
+Sitemap: http://www.work-plan.pl/sitemap.cfm
+Disallow: /_brandpages/
+Disallow: /accessdenied/
+Disallow: /admin/
+Disallow: /batch/
+Disallow: /blacklist/
+Disallow: /cgivars/
+Disallow: /ckeditor/
+Disallow: /ckfinder/
+Disallow: /components/
+Disallow: /emailpage/
+Disallow: /error/
+Disallow: /FCKEditor/
+Disallow: /iframe/
+Disallow: /login/
+Disallow: /logout/
+Disallow: /MyFCKEditor/
+Disallow: /personal-data-notice
+Disallow: /pods/
+Disallow: /rss/knowledgebase/
+Allow: /
+

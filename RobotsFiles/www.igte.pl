@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /images/
+Disallow: /jakimemerytem/
+Disallow: /kretowski/
+Disallow: /Lato_Bold/
+Disallow: /Lato_Medium/
+Disallow: /Lato_Regular/
+Disallow: /Lato_Semibold/
+Disallow: /templates/
+Disallow: /zostajezofe/

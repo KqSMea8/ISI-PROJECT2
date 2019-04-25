@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /print.jsp
+Disallow: /admin
+Disallow: /xmlrpc.php
+Disallow: /res/img/layouts/bip3/
+Disallow: /*&acceye=*
+Disallow: /admin/admin.do
+Disallow: /bipkod/http
+Disallow: /content/show.php
+Disallow: /*;jsessionid*
+Disallow: /zalaczniki
+Disallow: /buttons/
+Disallow: /*export_article*
+Sitemap: http://bip.pzbedzin.finn.pl/sitemap.xml

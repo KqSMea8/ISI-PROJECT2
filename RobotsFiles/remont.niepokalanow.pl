@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: old/config.php
+Disallow: /old/administration/
+Disallow: /old/locale/
+Disallow: /old/themes/
+Disallow: /old/print.php
+Disallow: /old/infusions/latest_comments_panel/
+Disallow: /assets/
+Disallow: /awstats/
+Disallow: /functions/
+Disallow: /handlers/
+Disallow: /lang/
+Disallow: /panel/
+Disallow: /pass/
+Disallow: /templates-category/
+Disallow: /templates-module/
+Disallow: /templates-page/
+Disallow: /templates-post/
+Disallow: /upload/
+Disallow: /excludes2018/
+

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cart.php
+Disallow: /order.php
+Allow: /
+

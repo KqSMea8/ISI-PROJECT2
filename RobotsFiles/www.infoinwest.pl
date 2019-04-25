@@ -1,0 +1,12 @@
+Disallow: /admin/
+Disallow: /gfx/
+Allow: /*.pdf$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/*.jpg$
+Allow: /gfx/*.png$
+Allow: /gfx/*.gif$
+Allow: /gfx/*.js$
+Allow: /gfx/*.css$
+User-agent: Fasterfox
+Disallow: /

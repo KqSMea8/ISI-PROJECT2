@@ -1,0 +1,11 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0"><meta name="description" content=""><meta name="keywords" content=""><meta name="author" content="Code Ninjas Sp. z o.o."><title>Zaklad Budowy Maszyn Ossa - technika polaczen srubowych</title><base href="/"><link rel="Shortcut icon" href="/img/favicons/favicon.png"><link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple/apple-touch-icon-144x144.png"><meta property="og:type" content="website"><meta property="og:site_name" content="Ossa"><meta property="og:title" content="Zaklad Budowy Maszyn Ossa - technika polaczen srubowych"><meta property="og:description" content="Serwis internetowy firmy ZBM Ossa. Zobacz oferte urzadzen do zakrecania i odkrecania srub."><meta property="og:image" content="http://ossa.pl/img/logo.png"><meta property="og:url" content="http://ossa.pl"><meta name="theme-color" content="#007bb7"></head><body><!--[if lt IE 10]>
+<div id="browser-support">
+<p>
+<img src="/images/logo.png" alt="Ossa" /><br/>
+Do prawidlowego funkcjonowania strona wymaga przegladarki:<br/>
+<a href="https://www.google.com/chrome/" target="_blank">Chrome, </a>&nbsp;
+<a href="https://www.mozilla.org/pl/firefox/new/" target="_blank">FireFox, </a>&nbsp;
+<a href="http://windows.microsoft.com/pl-pl/internet-explorer/download-ie" target="_blank">Internet Explorer <small>&nbsp;(v. 10 lub wyzsza)</small></a>
+</p>
+</div>
+<![endif]--><div id="app"><page-header></page-header><router-view :key="$route.path"></router-view><page-footer></page-footer><!--<cookies></cookies>--><modal></modal></div><div id="app-not-available"><page-not-available></page-not-available></div><link rel="stylesheet" media="all" href="/fonts/fontello-164fd77b/css/fontello.css"><script src="/libs/360animation/object2vr_player.js" type="text/javascript"></script><script type="text/javascript" src="main.4ca97c7e83a1fab955c1.js?cbd896a56bafbb7d2eba"></script></body></html>

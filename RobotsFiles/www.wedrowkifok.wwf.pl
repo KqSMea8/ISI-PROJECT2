@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/map/
+Disallow: /cache/system/
+Disallow: /cache/events/
+Disallow: /data/
+Disallow: /show/
+Disallow: fiflak.php
+Disallow: help.html

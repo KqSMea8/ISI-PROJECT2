@@ -1,0 +1,24 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /sklep/
+Disallow: /blog/
+Disallow: /produkt/
+Disallow: /aliquam-erat-volutpat/
+Disallow: /mauris-posuere/
+Disallow: /readme.html
+Disallow: /help/
+Disallow: /koszyk/
+Disallow: /lista-zyczen/
+Disallow: /mdtf-results-page/
+Disallow: /mijireh-secure-checkout/
+Disallow: /moje-konto/
+Disallow: /dachy/obrobki-blacharskie/
+Disallow: /dachy/systemy-rynnowe/
+Disallow: /dachy/uslugi-budowlane/
+Disallow: /regulamin/
+Disallow: /zamowienie/
+Disallow: /polityka-prywatnosci/
+
+Sitemap: http://www.italbud.com.pl/page-sitemap.xml
+Sitemap: http://www.italbud.com.pl/services-sitemap.xml
+Sitemap: http://www.italbud.com.pl/services_category-sitemap.xml

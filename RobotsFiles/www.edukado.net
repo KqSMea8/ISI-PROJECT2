@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sercho
+Disallow: */presi
+Disallow: /ext

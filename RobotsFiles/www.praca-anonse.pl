@@ -1,0 +1,11 @@
+Host: https://praca-anonse.pl
+Sitemap: https://praca-anonse.pl/sitemap.xml
+User-agent: *
+Disallow: /users/
+Disallow: /login/
+Disallow: /register/
+Disallow: /password/reset/
+Disallow: /panel/
+Disallow: /admin/
+Disallow: /api/
+Allow: /

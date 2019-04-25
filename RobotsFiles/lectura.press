@@ -1,0 +1,39 @@
+User-agent: *
+
+Disallow: /*/reports/download-link/*
+Disallow: /*/undefined
+Disallow: /*/www.*.*
+Disallow: /*/*@*.*
+Disallow: /*/article/pdf/*
+Disallow: /*/xhr/*
+Disallow: /*/xhr-newsletter-subscribe
+
+Disallow: /media-storage/press_releases/sj_1256_th_photo_3$
+Disallow: /media-storage/press_releases/tms_jma_3835$
+Disallow: /media-storage/press_releases/the_architectural_design_of_zaha_hadid$
+Disallow: /media-storage/press_releases/wr200_00435_hi$
+Disallow: /media-storage/press_releases/genie_new_power_generation_at_apex_4468$
+Disallow: /media-storage/press_releases/b_ruthmannsteiger_t360$
+Disallow: /media-storage/press_releases/k.scl_x_image$
+Disallow: /media-storage/press_releases/genie_vertriebsteam_januar_2017$
+Disallow: /media-storage/press_releases/unicarriers_ab_ostermann_bild_1$
+Disallow: /media-storage/press_releases/hitachi_zx300_6_photo26_lo$
+Disallow: /media-storage/press_releases/16lc260_01$
+Disallow: /media-storage/press_releases/articon_expands_faroe_islands_fleet_with_a_grove_gmk5250l$
+Disallow: /media-storage/press_releases/braud_9040l_03$
+Disallow: /media-storage/press_releases/unicarriers_pm_nominierung_ifoy_2017_bild_2_floor_sensor_01$
+Disallow: /media-storage/press_releases/hhi$
+Disallow: /media-storage/press_releases/1484580442_wilcoxen_thumbnail$
+Disallow: /media-storage/press_releases/hydrema_gruppe_$
+Disallow: /media-storage/press_releases/unnamed_4_$
+Disallow: /media-storage/press_releases/sch_ler_ab_mahle_bild_1$
+Disallow: /media-storage/press_releases/130702_slshow_felix_07$
+Disallow: /media-storage/press_releases/r1630_citymasterkehren$
+Disallow: /media-storage/press_releases/volvo_ce_copilot_comact_assist$
+Disallow: /media-storage/press_releases/agritechnica_haendlerzentrum_1$
+Disallow: /media-storage/press_releases/316gr_grading_heel_bucket_675x450$
+Disallow: /media-storage/press_releases/hiachi_ex8000_6_electric$
+Disallow: /media-storage/press_releases/news_2_low$
+Disallow: /media-storage/press_releases/fridaystory2017_april28_01$
+
+Sitemap: https://lectura.press/sitemap.xml

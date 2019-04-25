@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /index.php?id=54
+Disallow: /index.php?id=59
+Disallow: /index.php?id=47
+Disallow: /index.php?id=56
+Disallow: /index.php?id=42
+Disallow: /index.php?id=45
+Disallow: /index.php?id=55
+Disallow: /index.php?id=50
+Disallow: /index.php?id=44
+Disallow: /index.php?id=41
+Disallow: /index.php?id=54

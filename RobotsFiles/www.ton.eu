@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.ton.eu/cz/sitemap.xml
+Sitemap: https://www.ton.eu/sk/sitemap.xml
+Sitemap: https://www.ton.eu/en/sitemap.xml
+Sitemap: https://www.ton.eu/de/sitemap.xml
+Sitemap: https://www.ton.eu/pl/sitemap.xml
+Sitemap: https://www.ton.eu/fr/sitemap.xml
+

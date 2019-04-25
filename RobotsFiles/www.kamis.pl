@@ -1,0 +1,34 @@
+Sitemap: https://www.kamis.pl/sitemap.xml
+
+User-agent: *
+Disallow: /App_Browsers
+Disallow: /App_Config
+Disallow: /App_Data
+Disallow: /Areas
+Disallow: /aspnet_client
+Disallow: /bin
+Disallow: /Controllers
+Disallow: /Dictionaries
+Disallow: /layouts
+Disallow: /Models
+Disallow: /OLDBAY
+Disallow: /Properties
+Disallow: /Service References
+Disallow: /sitecore
+Disallow: /sitecore modules
+Disallow: /sitecore_files
+Disallow: /sitemaps
+Disallow: /Spring_Into_Baking
+Disallow: /Summertime-Treats
+Disallow: /temp
+Disallow: /TEMPFOLDER
+Disallow: /Tests
+Disallow: /upload
+Disallow: /Views
+Disallow: /xsl
+Disallow: Default.aspx
+Disallow: default.css
+Disallow: default.js
+Disallow: Global.asax
+Disallow: Web.config
+Disallow: webedit.css

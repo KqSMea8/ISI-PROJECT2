@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /registration
+Disallow: /*_openstat=
+Disallow: /*_ga=
+Disallow: /*gclid=
+Disallow: /*yclid=
+Disallow: /*ppc=
+Disallow: /*utm
+Disallow: /*utmz
+Host: https://www.otelms.com/
+Sitemap: https://www.otelms.com/sitemap.xml

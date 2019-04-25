@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /panel/
+Disallow: /confirmation.html
+Disallow: /contact.html
+Disallow: /data.html
+Disallow: /error.html
+Disallow: /observed_items.html
+Disallow: /privacy.html
+Disallow: /profile.html
+Disallow: /recovery.html
+Disallow: /registration.html
+Disallow: /settings.html
+Disallow: /user_events.html
+Disallow: /user_galleries.html
+Disallow: /user_offers.html

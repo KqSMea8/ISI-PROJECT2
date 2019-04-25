@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /play/
+sitemap: https://www.euro-millions.com/sitemap.xml

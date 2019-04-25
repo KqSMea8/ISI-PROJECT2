@@ -1,0 +1,1 @@
+--> Smarty: Unable to load template file '.tpl' <--

@@ -1,0 +1,1 @@
+podana strona nie istnieje

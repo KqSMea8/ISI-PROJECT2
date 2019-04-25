@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+User-agent: Slurp
+Crawl-delay: 1

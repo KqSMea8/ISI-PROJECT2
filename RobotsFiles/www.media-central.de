@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /fileadmin/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /vendor/
+Disallow: /uploads/
+Disallow: /handelstag/
+
+User-agent: googlebot
+Disallow: /*?tx_ttnews
+Disallow: /*?tx_indexedsearch

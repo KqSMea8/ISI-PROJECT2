@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /inc/
+Disallow: /files/
+Disallow: /page/
+
+Sitemap: http://www.hoteldolte.cz/sitemap.xml

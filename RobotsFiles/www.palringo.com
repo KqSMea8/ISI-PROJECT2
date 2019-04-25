@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /downloads
+Disallow: /autosigninredirect
+Disallow: /invite
+Disallow: /showavatar.php
+Disallow: /c
+Disallow: /api
+Disallow: /groups
+Disallow: /feedback

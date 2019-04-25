@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /admin
+Disallow: /Admin/
+Disallow: /Admin
+Disallow: /SendContactForm
+Disallow: /updates/
+Disallow: /nav/
+Disallow: /drukuj
+Disallow: /*/drukuj
+Disallow: /*/preview

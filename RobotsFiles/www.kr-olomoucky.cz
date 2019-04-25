@@ -1,0 +1,378 @@
+
+<!doctype html>
+<html>
+<head>
+<title>Chyba 404 - Stranka nenalezena | Olomoucky kraj</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name='description' content='Internetovy portal Olomouckeho kraje'>
+<meta name='keywords' content='olomoucky kraj,olomouc,kraj,krajsky urad'>
+<meta name='robots' content='index, follow'>
+
+<meta name="seznam-wmt" content="yyqE1uo1Lp40zxYitksG9tffUzMwuobS" />
+<meta property="og:title" content="Chyba 404 - Stranka nenalezena | Olomoucky kraj" />
+<meta property="og:description" content="Internetovy portal Olomouckeho kraje" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.olkraj.cz/images/og-logo.jpg" />
+<link rel="icon" href="favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/css/jquery-ui-custom/jquery-ui.css">
+<link rel="stylesheet" href="/css/jplayer/css/jplayer.blue.monday.min.css">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/lib.css">
+<link rel="stylesheet" href="/css/style.css?v=20190418">
+<link rel="stylesheet" href="/css/print.css" >
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/leaflet.css">
+</head>
+<body>
+<div class="background"></div><nav class="navbar navbar-top">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar s1"></span>
+<span class="icon-bar s2"></span>
+<span class="icon-bar s3"></span>
+</button>
+<a class="navbar-brand" href="/">
+<img src="/images/logo.png" class="hidden-xs" alt="">
+<img src="/images/logo-mobil.png" class="visible-xs" alt="">
+</a>
+</div>
+<div id="navbar" class="collapse navbar-collapse">
+<ul class="nav navbar-nav topmenu">
+<li>
+<a href="/telefonni-seznam.html">
+<i class="fa fa-phone-square"></i> telefonni<br> seznam
+</a>
+</li>
+<li>
+<a href="http://udeska.olkraj.cz/ude" target="_blank"><i class='fa fa-th-list'></i> uredni<br> deska</a>				</li>
+<li>
+<a href="/dulezite-odkazy.html">
+<i class="fa fa-exclamation-circle"></i> dulezite<br> odkazy
+</a>
+</li>
+<li>
+<a href="http://udeska.olkraj.cz/ude/?V%C3%BDb%C4%9Brov%C3%A1+%C5%99%C3%ADzen%C3%AD%C2%A0na+zam%C4%9Bstnance" target="_blank"><i class='fa fa-users'></i> nabidka<br> prace</a>				</li>
+<li>
+<a href="https://www.olkraj.cz/dotace-granty-prispevky-cl-15.html"><i class='fa fa-euro'></i> krajske<br>dotace</a>				</li>
+<li>
+<a class="gdpr" href="/gdpr-cl-4294.html">
+ochrana<br>osobnich udaju
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right toprightmenu">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+<img src="/images/lang-cz.gif" alt="CZE" />
+</a>
+<ul class="dropdown-menu">
+<li><a href="/en/"><img src="/images/lang-en.gif" alt="ENG" /></a></li>
+<li><a href="/de/"><img src="/images/lang-de.gif" alt="GER" /></a></li>
+<li><a href="/fr/"><img src="/images/lang-fr.gif" alt="FRA" /></a></li>
+<li><a href="/pl/"><img src="/images/lang-pl.gif" alt="POL" /></a></li>
+</ul>
+</li>
+<li class="velikost first"><a class="changeFontSize" data-action="-" href="#">A</a></li>
+<li class="velikost"><a class="changeFontSize" data-action="reset" href="#">A</a></li>
+<li class="velikost last"><a class="changeFontSize" data-action="+" href="#">A</a></li>
+<li class="sign"><a href="/videa-pro-neslysici.html"><i class="fa fa-american-sign-language-interpreting"></i></a>
+</ul>
+<ul class="nav navbar-nav visible-xs">
+<li><a href="/cestovni-ruch-cl-1.html">Cestovni ruch</a></li>
+<li><a href="/doprava-cl-2.html">Doprava</a></li>
+<li><a href="/dotace-granty-prispevky-cl-15.html">Dotace, granty, prispevky</a></li>
+<li><a href="/ekonomika-finance-a-majetek-cl-3.html">Ekonomika, finance a majetek</a></li>
+<li><a href="/informace-pro-obce-cl-2787.html">Informace pro obce</a></li>
+<li><a href="/informatika-cl-4.html">Informatika</a></li>
+<li><a href="/kontrola-cl-5.html">Kontrola</a></li>
+<li><a href="/krizove-rizeni-cl-6.html">Krizove rizeni</a></li>
+<li><a href="/kultura-a-pamatkova-pece-cl-7.html">Sport, kultura a pamatkova pece</a></li>
+<li><a href="/mezinarodni-kontakty-cl-9.html">Mezinarodni kontakty</a></li>
+<li><a href="/neziskove-organizace-cl-1409.html">Neziskove organizace</a></li>
+<li><a href="http://www.seznamovm.cz/ovm/welcome.do" target="_blank">Obce Olomouckeho kraje</a></li>
+<li><a href="/organizace-zrizovane-olomouckym-krajem-cl-11.html">Organizace zrizovane Olomouckym krajem</a></li>
+<li><a href="/podnikani-cl-12.html">Podnikani, inovace a zamestnanost</a></li>
+<li><a href="/pro-osoby-se-zdravotnim-postizenim-cl-13.html">Pro osoby se zdravotnim postizenim</a></li>
+<li><a href="/projekty-olomouckeho-kraje-cl-14.html">Projekty Olomouckeho kraje</a></li>
+<li><a href="/regionalni-rozvoj-cl-16.html">Regionalni rozvoj</a></li>
+<li><a href="/skolstvi-mladez-a-sport-cl-18.html">Skolstvi a mladez</a></li>
+<li><a href="/socialni-zalezitosti-cl-17.html">Socialni zalezitosti</a></li>
+<li><a href="/uzemni-planovani-cl-19.html">Uzemni planovani</a></li>
+<li><a href="https://www.egordion.cz/nabidkaGORDION/profilOlomouckykraj">Verejne zakazky</a></li>
+<li><a href="/volby-cl-20.html">Volby</a></li>
+<li><a href="/zdravotnictvi-cl-21.html">Zdravotnictvi</a></li>
+<li><a href="/zivotni-prostredi-a-zemedelstvi-cl-22.html">Zivotni prostredi a zemedelstvi</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav class="navbar navbar2 navbar-top hidden-xs">
+<div class="container">
+<div class="col-md-1 col-sm-2 p0">
+<div class="menu">
+<a class="green" href="#">
+<i class="fa fa-bars"></i> MENU
+</a>
+<div class="submenu">
+<div class="col-md-3 col-sm-6"><ul class="first"><li><a href="/cestovni-ruch-cl-1.html">Cestovni ruch</a></li><li><a href="/doprava-cl-2.html">Doprava</a></li><li><a href="/dotace-granty-prispevky-cl-15.html">Dotace, granty, prispevky</a></li><li><a href="/ekonomika-finance-a-majetek-cl-3.html">Ekonomika, finance a majetek</a></li><li><a href="/informace-pro-obce-cl-2787.html">Informace pro obce</a></li><li><a href="/informatika-cl-4.html">Informatika</a></li><li><a href="/kontrola-cl-5.html">Kontrola</a></li><li><a href="/krizove-rizeni-cl-6.html">Krizove rizeni</a></li><li><a href="/mezinarodni-kontakty-cl-9.html">Mezinarodni kontakty</a></li></ul></div><div class="col-md-3 col-sm-6"><ul class="first"><li><a href="/neziskove-organizace-cl-1409.html">Neziskove organizace</a></li><li><a href="https://seznam.gov.cz/" target="_blank">Obce Olomouckeho kraje</a></li><li><a href="/ochrana-osobnich-udaju-cl-4294.html">Ochrana osobnich udaju</a></li><li><a href="/organizace-zrizovane-olomouckym-krajem-cl-11.html">Organizace zrizovane Olomouckym krajem</a></li><li><a href="/otevrena-data-cl-4291.html">Otevrena data</a></li><li><a href="/podnikani-inovace-a-zamestnanost-cl-12.html">Podnikani, inovace a zamestnanost</a></li><li><a href="/pro-osoby-se-zdravotnim-postizenim-cl-13.html">Pro osoby se zdravotnim postizenim</a></li><li><a href="/projekty-olomouckeho-kraje-cl-14.html">Projekty Olomouckeho kraje</a></li><li><a href="/regionalni-rozvoj-cl-16.html">Regionalni rozvoj</a></li></ul></div><div class="col-md-3 col-sm-6"><ul><li><a href="/skolstvi-a-mladez-cl-18.html">Skolstvi a mladez</a></li><li><a href="/socialni-zalezitosti-cl-17.html">Socialni zalezitosti</a></li><li><a href="/sport-kultura-a-pamatkova-pece-cl-7.html">Sport, kultura a pamatkova pece</a></li><li><a href="/uzemni-planovani-cl-19.html">Uzemni planovani</a></li><li><a href="https://www.egordion.cz/nabidkaGORDION/profilOlomouckykraj">Verejne zakazky</a></li><li><a href="/volby-cl-20.html">Volby</a></li><li><a href="/zdravotnictvi-cl-21.html">Zdravotnictvi</a></li><li><a href="/zivotni-prostredi-a-zemedelstvi-cl-22.html">Zivotni prostredi a zemedelstvi</a></li></ul></div>
+<div class="col-md-3">
+<ul>
+<li><h3>Organy Olomouckeho kraje</h3></li>
+<li><a href="/hejtman-cl-23.html"> Hejtman </a></li>
+<li><a href="/zastupitelstvo-cl-24.html"> Zastupitelstvo </a></li>
+<li><a href="/rada-cl-25.html"> Rada </a></li>
+<li><a href="/krajsky-urad-cl-26.html"> Krajsky urad </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-11 col-sm-10">
+<div class="row">
+<div class="col-sm-2 p0"><a class="darkBlue" href="/zakladni-informace-cl-143.html"><span>informace o&nbsp;kraji</span></a></div>
+<div class="col-sm-2 p0"><a class="blue" href="/informace-pro-obce-cl-2787.html"><span>verejna<br class="visible-sm"> sprava</span></a></div>
+<div class="col-sm-2 p0"><a class="green" href="/pro-firmy-cl-145.html"><span>pro<br class="visible-sm"> firmy</span></a></div>
+<div class="col-sm-2 p0"><a class="red" href="/pro-media.html"><span>pro<br class="visible-sm"> media</span></a></div>
+<div class="col-sm-2 p0"><a class="yellow" href="/obcane-cl-146.html"><span>infoportal pro obcana</span></a></div>
+<div class="col-sm-1 p0"><a class="darkGreen" href="http://www.ok-tourism.cz/" target="_blank"><span>turiste</span></a></div>
+<div class="col-sm-1 p0"><a class="blue" href="http://www.rodinajeok.cz/" target="_blank"><span>rodina</span></a></div>
+</div>
+</div>
+</div>
+</nav>
+<section class="content">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"><div class="wrap">
+<div class="heading blue">
+<ol class="breadcrumb">
+
+<li><a href="/"><i class="fa fa-home"></i></a></li>
+<li>Chyba 404 - Stranka nenalezena</li>
+</ol>
+</div>
+<div class="text white">
+<h1 class="text-center"><span style="font-size:180%">Chyba 404</span><br />stranka nenalezena</h1>
+<br>
+<p class="text-center">Pozadovanou stranku se neporarilo nalezt.<br /><a href="/">Prejit na titulni stranu </a> | <a href="/mapa-webu.html">Zobrazit mapu webu </a></p>
+</div>
+</div>
+
+
+</div>
+</div>
+</section><section class="navigation">
+<div class="container">
+<h3>Rychla navigace</h3>
+<div class="row">
+<div class="col-md-3 col-sm-6"><ul class=\"first\"><li><a href="/cestovni-ruch-cl-1.html">Cestovni ruch</a></li><li><a href="/doprava-cl-2.html">Doprava</a></li><li><a href="/dotace-granty-prispevky-cl-15.html">Dotace, granty, prispevky</a></li><li><a href="/ekonomika-finance-a-majetek-cl-3.html">Ekonomika, finance a majetek</a></li><li><a href="/informace-pro-obce-cl-2787.html">Informace pro obce</a></li><li><a href="/informatika-cl-4.html">Informatika</a></li><li><a href="/kontrola-cl-5.html">Kontrola</a></li></ul></div><div class="col-md-3 col-sm-6"><ul class=\"first\"><li><a href="/krizove-rizeni-cl-6.html">Krizove rizeni</a></li><li><a href="/mezinarodni-kontakty-cl-9.html">Mezinarodni kontakty</a></li><li><a href="/neziskove-organizace-cl-1409.html">Neziskove organizace</a></li><li><a href="https://seznam.gov.cz/" target="_blank">Obce Olomouckeho kraje</a></li><li><a href="/ochrana-osobnich-udaju-cl-4294.html">Ochrana osobnich udaju</a></li><li><a href="/organizace-zrizovane-olomouckym-krajem-cl-11.html">Organizace zrizovane Olomouckym krajem</a></li><li><a href="/otevrena-data-cl-4291.html">Otevrena data</a></li></ul></div><div class="col-md-3 col-sm-6"><ul><li><a href="/podnikani-inovace-a-zamestnanost-cl-12.html">Podnikani, inovace a zamestnanost</a></li><li><a href="/pro-osoby-se-zdravotnim-postizenim-cl-13.html">Pro osoby se zdravotnim postizenim</a></li><li><a href="/projekty-olomouckeho-kraje-cl-14.html">Projekty Olomouckeho kraje</a></li><li><a href="/regionalni-rozvoj-cl-16.html">Regionalni rozvoj</a></li><li><a href="/skolstvi-a-mladez-cl-18.html">Skolstvi a mladez</a></li><li><a href="/socialni-zalezitosti-cl-17.html">Socialni zalezitosti</a></li><li><a href="/sport-kultura-a-pamatkova-pece-cl-7.html">Sport, kultura a pamatkova pece</a></li></ul></div><div class="col-md-3 col-sm-6"><ul><li><a href="/uzemni-planovani-cl-19.html">Uzemni planovani</a></li><li><a href="https://www.egordion.cz/nabidkaGORDION/profilOlomouckykraj">Verejne zakazky</a></li><li><a href="/volby-cl-20.html">Volby</a></li><li><a href="/zdravotnictvi-cl-21.html">Zdravotnictvi</a></li><li><a href="/zivotni-prostredi-a-zemedelstvi-cl-22.html">Zivotni prostredi a zemedelstvi</a></li></ul></div>		</div>
+</div>
+</section>
+
+<section class="carousel">
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1">
+<div id="carousel">
+<div class='item'><a href='https://www.facebook.com/MegafonViceNezJenBezpecnost/' target='_blank' title='Megafon'><img src='/data/dulezite_odkazy/33/foto/megafon-dlouhy.jpg' alt='Megafon' /></a></div><div class='item'><a href='https://www.tenderarena.cz/profil/detail.jsf?identifikator=Olomouckykraj' target='_blank' title='Verejne zakazky'><img src='/data/dulezite_odkazy/32/foto/vz.jpg' alt='Verejne zakazky' /></a></div><div class='item'><a href='https://www.kr-olomoucky.cz/snizeni-emisi-z-lokalniho-vytapeni-rodinnych-domu-v-olomouckem-kraji-kotlikove-dotace-v-ramci-op-zp-2014-2020-cl-3135.html' title='Kotlikove dotace'><img src='/data/dulezite_odkazy/27/foto/kotlikovedotace.jpg' alt='Kotlikove dotace' /></a></div><div class='item'><a href='http://www.kr-olomoucky.cz/czechpoint-cl-613.html' target='_blank' title='Czech Point'><img src='/data/dulezite_odkazy/2/foto/banner-cp.jpg' alt='Czech Point' /></a></div><div class='item'><a href='http://www.kidsok.cz/' target='_blank' title='Koordinator integrovaneho dopravniho systemu Olomouckeho kraje'><img src='/data/dulezite_odkazy/5/foto/banner-kidsok.jpg' alt='Koordinator integrovaneho dopravniho systemu Olomouckeho kraje' /></a></div><div class='item'><a href='http://www.kr-olomoucky.cz/nemovity-majetek-cl-114.html' title='Odprodej nemoviteho majetku'><img src='/data/dulezite_odkazy/4/foto/banner-odprodej-nemovitosti-final.jpg' alt='Odprodej nemoviteho majetku' /></a></div><div class='item'><a href='http://uap.olkraj.cz/dmvs-gateway/?conversationContext=3' title='Portal uzemniho planovani'><img src='/data/dulezite_odkazy/21/foto/logo.jpg' alt='Portal uzemniho planovani' /></a></div><div class='item'><a href='http://www.europe-direct.cz/strediska/olomouc/' target='_blank' title='EUROPE DIRECT'><img src='/data/dulezite_odkazy/6/foto/banner-ed-new.jpg' alt='EUROPE DIRECT' /></a></div><div class='item'><a href='http://www.olomoucregioncard.cz/' target='_blank' title='Olomouc Region Card'><img src='/data/dulezite_odkazy/7/foto/banner-regioncard.jpg' alt='Olomouc Region Card' /></a></div><div class='item'><a href='http://www.rodinnepasy.cz' target='_blank' title='Rodinne pasy'><img src='/data/dulezite_odkazy/17/foto/banner-rodinnepasy.jpg' alt='Rodinne pasy' /></a></div><div class='item'><a href='http://www.kudykam.eu' target='_blank' title='Kudykam.eu'><img src='/data/dulezite_odkazy/19/foto/kudykambarevnevektory.jpg' alt='Kudykam.eu' /></a></div><div class='item'><a href='http://www.kr-olomoucky.cz/prijimaci-rizeni-cl-503.html' title='Volna mista na strednich skolach v Olomouckem kraji'><img src='/data/dulezite_odkazy/20/foto/banner-skoly.jpg' alt='Volna mista na strednich skolach v Olomouckem kraji' /></a></div><div class='item'><a href='http://rklik.kr-olomoucky.cz/' title='Rozklikavaci rozpocet Olomouckeho kraje'><img src='/data/dulezite_odkazy/11/foto/banner-rklik02.jpg' alt='Rozklikavaci rozpocet Olomouckeho kraje' /></a></div><div class='item'><a href='http://seznam.gov.cz/ovm/welcome.do' target='_blank' title='Portal verejne spravy - na urad pres internet'><img src='/data/dulezite_odkazy/1/foto/gov.jpg' alt='Portal verejne spravy - na urad pres internet' /></a></div><div class='item'><a href='http://www.kr-olomoucky.cz/verejny-internet-olomouckeho-kraje-zdarma-vice-informaci-cl-124.html' title='Verejny internet Olomouckeho kraje'><img src='/data/dulezite_odkazy/3/foto/banner-okap.jpg' alt='Verejny internet Olomouckeho kraje' /></a></div><div class='item'><a href='http://tcok.cz/?lang=cs' target='_blank' title='Rozvoj sluzeb eGovernmentu v Olomouckem kraji'><img src='/data/dulezite_odkazy/9/foto/egovernment.jpg' alt='Rozvoj sluzeb eGovernmentu v Olomouckem kraji' /></a></div><div class='item'><a href='http://rklik.kr-olomoucky.cz/greportsml/' target='_blank' title='Zverejnovani smluv Olomouckeho kraje'><img src='/data/dulezite_odkazy/25/foto/zverejnovni-smluv-krol.png' alt='Zverejnovani smluv Olomouckeho kraje' /></a></div><div class='item'><a href='https://odm.olympic.cz/' title='Hry VIII. letni olympiady deti a mladeze 2018'><img src='/data/dulezite_odkazy/29/foto/logo-top.png' alt='Hry VIII. letni olympiady deti a mladeze 2018' /></a></div><div class='item'><a href='http://www.cestamipromen.cz/' title='Ma vlast cestami promen'><img src='/data/dulezite_odkazy/30/foto/ma-vlast-cestami-promen.jpg' alt='Ma vlast cestami promen' /></a></div><div class='item'><a href='https://youtu.be/CFLF4WRMpQA' target='_blank' title='programu Interreg V-A Ceska republika - Polsko'><img src='/data/dulezite_odkazy/31/foto/prekracujeme-hranice-cz-pl4.jpg' alt='programu Interreg V-A Ceska republika - Polsko' /></a></div>				</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<h3>Kontaktujte nas</h3>
+<div class="row">
+<div class="col-sm-6">
+<p>
+Olomoucky kraj<br> Jeremenkova 40a, 77911 Olomouc<br>
+<br> ID datove schranky: qiabfmf<br>
+<a href="http://udeska.olkraj.cz:85/Gordic/Ginis/App/POE03/">E-Podatelna >></a><br> IC: 60609460
+</p>
+</div>
+<div class="col-sm-6">
+<ul class="icon">
+<li class="phone"><span>+420 585 508 111</span></li>
+<li class="phone-square"><a href="/telefonni-seznam.html">Telefonni seznam</a></li>
+<li class="link"><a href="/">www.olkraj.cz</a></li>
+<li class="envelope"><a href="mailto:posta@olkraj.cz">posta@olkraj.cz</a></li>
+</ul>
+</div>
+</div>
+<div class="mapa">
+<div id="map"></div>
+<a href="https://goo.gl/maps/JxiB4" class="pull-right" target="_blank">Zobrazit na vetsi mape >></a>
+<div class="clearfix"></div>
+<p>Kontaktni informace na detasovana pracoviste: <a href="/hanacka-2-sumperk.html"><strong>Sumperk</strong></a>, <a href="/sidlo-krajskeho-uradu-cl-755.html"><strong>Jesenik</strong></a></p>
+</div>
+</div>
+<div class="col-md-6">
+<span class="visible-sm visible-xs"><br><br></span>
+<h3>Provozni doba uradu</h3>
+<div class="row">
+<div class="col-sm-6">
+<ul>
+<li>pondeli <strong>8:00 - 17:00</strong></li>
+<li>utery <strong>8:00 - 15:00</strong></li>
+<li>streda <strong>8:00 - 17:00</strong></li>
+<li>ctvrtek <strong>8:00 - 14:00</strong></li>
+<li>patek <strong>8:00 - 14:00</strong></li>
+</ul>
+</div>
+<div class="col-sm-6">
+<ul class="icon">
+<li class="lock"><a href="#" data-toggle="modal" data-target="#modalLogin" title="Hledat">Prihlaseni do systemu</a></li>
+<li class="chat"><a href="/vase-podnety-a-pripominky.html">Vase podnety a pripominky</a></li>
+<li class="sok"><a href="/symboly-olomouckeho-kraje-cl-323.html">Symboly Olomouckeho kraje</a></li>
+<li class="exclamation"><a href="http://udeska.olkraj.cz/ude">Uredni deska</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="footer-odkazy">
+<div class="container">
+<div class="row">
+<div class="col-sm-4"><a href="/rss-kanaly.html"><span class="fa fa-rss icon-rss"></span> RSS / Olomoucky kraj</a></div>
+<div class="col-sm-4"><a href="/prohlaseni-o-pristupnosti-cl-320.html"><span class="fa fa-eye icon-eye-open"></span> Prohlaseni o pristupnosti webu</a></div>
+<div class="col-sm-4"><a href="/mapa-webu.html"><span class="fa fa-sitemap icon-sitemap"></span> Mapa webu</a></div>
+</div>
+</div>
+</div>
+<div class="copy">
+<a href="/">(c) Krajsky urad Olomouckeho kraje</a>
+</div>
+
+<div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="modalLabel">
+<div class="modal-dialog modal-sm" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="modalLabel">Vyhledavani</h4>
+</div>
+<div class="modal-body">
+<form action="search.php" method="get">
+<div class="input-group">
+<input type="text" class="form-control" name="co" placeholder="Hledany vyraz...">
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><i class="fa fa-search"></i></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="modalLabel">
+<div class="modal-dialog modal-sm" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="modalLabel">Prihlaseni</h4>
+</div>
+<div class="modal-body login">
+<form action="/uzivatel.html" method="post">
+<input type="text" name="login" placeholder="login" class="form-control">
+<input type="password" name="heslo" placeholder="heslo" class="form-control">
+<button type="text" class="btn btn-primary">Prihlasit se</button>
+</form>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="right">
+<a href="#" class="search" data-toggle="modal" data-target="#modalSearch" title="Hledat">
+<i class="fa fa-search"></i>
+</a>
+<a href="/" class="home" title="Uvod">
+<i class="fa fa-home"></i>
+</a>
+<a href="#" class="up" id="up" title="Nahoru">
+<i class="fa fa-chevron-up"></i>
+</a>
+<div class="social">
+<a href="http://www.facebook.com/pages/Olomouck%C3%BD-kraj-ofici%C3%A1ln%C3%AD-str%C3%A1nka/228288367184502" target="_blank" class="facebook" data-toggle="tooltip" data-placement="left" title="Facebook">
+<i class="fa fa-facebook-f"></i>
+</a>
+<a href="http://www.youtube.com/user/OlomouckyKraj" target="_blank" class="youtube" data-toggle="tooltip" data-placement="left" title="YouTube">
+<i class="fa fa-youtube-play"></i>
+</a>
+<a href="http://www.flickr.com/photos/olomouckykraj/" target="_blank" class="flickr" data-toggle="tooltip" data-placement="left" title="Flickr">
+<i class="fa fa-flickr"></i>
+</a>
+<a href="https://plus.google.com/114387505751248904588/posts" target="_blank" class="google-plus" data-toggle="tooltip" data-placement="left" title="Google+">
+<i class="fa fa-google-plus"></i>
+</a>
+<a href="http://twitter.com/#!/OlomouckyKraj" target="_blank" class="twitter" data-toggle="tooltip" data-placement="left" title="Twitter">
+<i class="fa fa-twitter"></i>
+</a>
+<a href="http://instagram.com/olomoucky_kraj/" target="_blank" class="instagram" data-toggle="tooltip" data-placement="left" title="Instagram">
+<i class="fa fa-instagram"></i>
+</a>
+<a href="http://issuu.com/olomouckykraj" target="_blank" class="issuu" data-toggle="tooltip" data-placement="left" title="issuu">
+<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><g><path d="M17.693,21.719c-2.433,-0.024 -4.386,-2.015 -4.362,-4.446c0.022,-2.433 2.013,-4.386 4.445,-4.363c2.432,0.03 4.385,2.02 4.362,4.45c-0.023,2.43 -2.013,4.39 -4.446,4.36l0.001,-0.001Zm0.122,-13.103c-4.802,-0.045 -8.733,3.813 -8.78,8.616c-0.044,4.802 3.814,8.733 8.617,8.78c4.8,0.044 8.73,-3.814 8.77,-8.616c0.04,-4.803 -3.81,-8.733 -8.62,-8.78l0.013,0Z" style="fill:#444444;fill-rule:nonzero;"/><path d="M5.476,17.257c0.065,-6.708 5.558,-12.098 12.266,-12.034c6.712,0.064 12.1,5.555 12.037,12.264c-0.064,6.711 -5.556,12.099 -12.265,12.037c-6.704,-0.065 -12.098,-5.556 -12.037,-12.265l-0.001,-0.002Zm12.025,-17.257l-16.048,0c-0.798,0 -1.453,0.652 -1.453,1.453l0,16.047c0,9.665 7.834,17.5 17.5,17.5c9.666,0 17.5,-7.835 17.5,-17.5c0,-9.666 -7.835,-17.5 -17.5,-17.5l0.001,0Z" style="fill:#444444;fill-rule:nonzero;"/></g></svg>
+</a>
+</div>
+</div>
+
+<script src="/js/lib.min.js"></script>
+
+
+<script src="/script/jquery-ui.js"></script>
+<script type="text/javascript" src="/script/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/script/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="/script/jplayer.playlist.min.js"></script>
+<script type="text/javascript" src="/script/jquery-placeholder.js"></script>
+
+
+<script src="/js/script.js?v=20190222"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([49.59125, 17.27673], 17);
+map.scrollWheelZoom.disable();
+
+L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}{r}.png', {
+attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+maxZoom: 17,
+scrollWheelZoom: false,
+}).addTo(map);
+
+var icon = L.icon({
+iconUrl: '//www.olkraj.cz/images/mappin.png',
+
+iconSize:     [150, 56],
+iconAnchor:   [75, 28],
+shadowAnchor: [4, 62],
+popupAnchor:  [0, 0]
+});
+
+L.marker([49.59125, 17.27673], {icon: icon}).addTo(map);
+
+setTimeout(function () { map.invalidateSize() }, 800);
+</script>
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-3816205-1', 'auto');
+ga('send', 'pageview');
+
+</script></body>
+</html>
+

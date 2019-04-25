@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /fieladmin/
+Disallow: /fileadmin/templates/
+Disallow: /uploads/
+Disallow: /misc/
+Disallow: /t3lib/
+Disallow: /*&type=98
+Disallow: /*?tx_indexedsearch
+Allow: /

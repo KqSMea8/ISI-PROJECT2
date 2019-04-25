@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /fileadmin/familiengarten/
+Disallow: /typo3temp/
+Disallow: /uplodas/
+Sitemap:  http://familiengarten-eberswalde.de/?eID=dd_googlesitemap&L=0
+Sitemap:  http://familiengarten-eberswalde.de/?eID=dd_googlesitemap&L=1
+Sitemap:  http://familiengarten-eberswalde.de/?eID=dd_googlesitemap&L=2

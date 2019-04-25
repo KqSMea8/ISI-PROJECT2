@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /polec/
+Disallow: /rss_
+Disallow: /url.php
+Disallow: /bannery/
+

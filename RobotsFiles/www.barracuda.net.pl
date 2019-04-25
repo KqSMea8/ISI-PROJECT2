@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /javascripts/
+Disallow: /templates/
+Disallow: /operator/
+Disallow: /gfx/
+Disallow: /css/
+Disallow: /js/
+Disallow: /webalizer/

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /$
+Allow: /index.php
+Allow: /index.php?*
+Allow: /style.css
+Allow: /cgi-bin/*
+Allow: /js/*
+Allow: /css/*
+Allow: /*.css
+Allow: /*.png
+Disallow: /*

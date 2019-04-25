@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /_stats
+Disallow: /_tools
+Disallow: /css
+Disallow: /flash
+Disallow: /js
+Disallow: /ci_system_1.7.2
+Disallow: /ci_system_1.7.3
+Disallow: /ci_application
+Disallow: /pics
+Disallow: /incms
+Disallow: /zapytania
+Disallow: /_pliki
+Disallow: /_ebook

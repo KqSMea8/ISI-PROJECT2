@@ -1,0 +1,2 @@
+Disallow: /author/lukasz-lyczkowski/
+

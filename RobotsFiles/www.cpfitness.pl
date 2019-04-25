@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ww.admin/
+Disallow: /ww.skins/
+Disallow: /f/
+Disallow: /i/
+

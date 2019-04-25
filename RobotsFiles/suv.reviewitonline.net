@@ -1,0 +1,29 @@
+User-Agent: *
+disallow: /search/
+disallow: /weblery/
+disallow: /system/
+disallow: /backlink-check.php
+disallow: /best-list.php
+disallow: /BingoG.rar
+disallow: /class.php
+disallow: /home.php
+disallow: /make.php
+disallow: /make-type.php
+disallow: /model-1.php
+disallow: /model-2.php
+disallow: /model-3.php
+disallow: /size.php
+disallow: /static.php
+disallow: /type.php
+disallow: /user-review.php
+disallow: /acura/mdx-suv/price/
+Allow: /weblery/assets/album_cache/
+
+User-agent: Mediapartners-Google
+Allow: /
+Allow: /search/
+Allow: /weblery/assets/album_cache/
+
+
+sitemap: http://suv.reviewitonline.net/sitemap.xml.gz
+

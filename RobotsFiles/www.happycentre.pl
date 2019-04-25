@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /class/
+Disallow: /themes/
+Disallow: /upload/
+Disallow: /www/
+Disallow: /swf/*
+Allow: /upload/baner/1.jpg
+Allow: /upload/baner/1-k.jpg
+Allow: /upload/image/kontakt.gif
+Allow: /upload/img/*

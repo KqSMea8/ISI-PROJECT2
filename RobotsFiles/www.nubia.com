@@ -1,0 +1,8 @@
+<pre># robots.txt for http://www.nubia.cn
+# 2015-04-21
+
+User-agent: *
+Disallow:
+Disallow: /cart.php
+Disallow: /member*
+

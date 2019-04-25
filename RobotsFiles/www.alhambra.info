@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /nueva/
+Disallow: /it_old/
+Disallow: /alhambra_guia_granada/guia_old/
+Sitemap: http://www.alhambra.info/sitemap.xml

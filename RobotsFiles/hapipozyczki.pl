@@ -1,0 +1,585 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.hapipozyczki.pl/sitemap.xml
+
+# Config
+Disallow: /.htaccess
+Disallow: /cgi-bin/$
+
+# Rendering Resources
+Allow: /*.js
+Allow: /*.css
+
+# Allowed File Types
+Allow: *.css$
+Allow: *.js$
+Allow: *.html$
+Allow: *.htm$
+Allow: *.doc$
+Allow: *.docx$
+Allow: *.xls$
+Allow: *.xlt$
+Allow: *.xlsx$
+Allow: *.pp$
+Allow: *.sldx$
+Allow: *.pub$
+Allow: *.inc$
+Allow: *.wmv$
+Allow: *.gif$
+Allow: *.jpg$
+Allow: *.jpeg$
+Allow: *.pdf$
+Allow: *.png$
+Allow: *.wmv$
+Allow: *.tar$
+Allow: *.gz$
+Allow: *.tar$
+Allow: *.gz.tar$
+Allow: *.zip$
+Allow: *.xml$
+
+# Protect .php files on folders above, prevents hacks such us jpg.php
+Disallow: *.php$
+Disallow: *.*.php$
+
+
+# Blocked Files
+Disallow: *.pdf$
+Disallow: /readme.html
+Disallow: /readme.md
+Disallow: /license.txt
+Disallow: /license.md
+
+
+# Disallow URLs starting in quotes
+Disallow: /"
+
+
+
+
+# BOTS BLOQUEADOS
+# Internet Archiver Wayback Machine
+# User-agent: ia_archiver
+# Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+
+User-agent:  almaden
+Disallow: /
+
+User-agent:  Anarchie
+Disallow: /
+
+User-agent:  ASPSeek
+Disallow: /
+
+User-agent:  attach
+Disallow: /
+
+User-agent:  autoemailspider
+Disallow: /
+
+User-agent:  BackWeb
+Disallow: /
+
+User-agent:  Bandit
+Disallow: /
+
+User-agent:  BatchFTP
+Disallow: /
+
+User-agent:  BlackWidow
+Disallow: /
+
+User-agent:  Bot\ mailto:craftbot@yahoo.com
+Disallow: /
+
+User-agent:  Buddy
+Disallow: /
+
+User-agent:  bumblebee
+Disallow: /
+
+User-agent:  CherryPicker
+Disallow: /
+
+User-agent:  ChinaClaw
+Disallow: /
+
+User-agent:  CICC
+Disallow: /
+
+User-agent:  Collector
+Disallow: /
+
+User-agent:  Copier
+Disallow: /
+
+User-agent:  Crescent
+Disallow: /
+
+User-agent:  Custo
+Disallow: /
+
+User-agent:  DA
+Disallow: /
+
+User-agent:  DIIbot
+Disallow: /
+
+User-agent:  DISCo
+Disallow: /
+
+User-agent:  DISCo\ Pump
+Disallow: /
+
+User-agent:  Download\ Demon
+Disallow: /
+
+User-agent:  Download\ Wonder
+Disallow: /
+
+User-agent:  Downloader
+Disallow: /
+
+User-agent:  Drip
+Disallow: /
+
+User-agent:  DSurf15a
+Disallow: /
+
+User-agent:  eCatch
+Disallow: /
+
+User-agent:  EasyDL/2.99
+Disallow: /
+
+User-agent:  EirGrabber
+Disallow: /
+
+User-agent:   email [NC,OR]
+Disallow: /
+
+User-agent:  EmailCollector
+Disallow: /
+
+User-agent:  EmailSiphon
+Disallow: /
+
+User-agent:  EmailWolf
+Disallow: /
+
+User-agent:  Express\ WebPictures
+Disallow: /
+
+User-agent:  ExtractorPro
+Disallow: /
+
+User-agent:  EyeNetIE
+Disallow: /
+
+User-agent:  FileHound
+Disallow: /
+
+User-agent:  FlashGet
+Disallow: /
+
+User-agent:   FrontPage [NC,OR]
+Disallow: /
+
+User-agent:  GetRight
+Disallow: /
+
+User-agent:  GetSmart
+Disallow: /
+
+User-agent:  GetWeb!
+Disallow: /
+
+User-agent:  gigabaz
+Disallow: /
+
+User-agent:  Go\!Zilla
+Disallow: /
+
+User-agent:  Go!Zilla
+Disallow: /
+
+User-agent:  Go-Ahead-Got-It
+Disallow: /
+
+User-agent:  gotit
+Disallow: /
+
+User-agent:  Grabber
+Disallow: /
+
+User-agent:  GrabNet
+Disallow: /
+
+User-agent:  Grafula
+Disallow: /
+
+User-agent:  grub-client
+Disallow: /
+
+User-agent:  HMView
+Disallow: /
+
+User-agent:  HTTrack
+Disallow: /
+
+User-agent:  httpdown
+Disallow: /
+
+User-agent:  .*httrack.* [NC,OR]
+Disallow: /
+
+User-agent:  Image\ Stripper
+Disallow: /
+
+User-agent:  Image\ Sucker
+Disallow: /
+
+User-agent:  Indy*Library
+Disallow: /
+
+User-agent:   Indy\ Library [NC,OR]
+Disallow: /
+
+User-agent:  InterGET
+Disallow: /
+
+User-agent:  InternetLinkagent
+Disallow: /
+
+User-agent:  Internet\ Ninja
+Disallow: /
+
+User-agent:  InternetSeer.com
+Disallow: /
+
+User-agent:  Iria
+Disallow: /
+
+User-agent:  JBH*agent
+Disallow: /
+
+User-agent:  JetCar
+Disallow: /
+
+User-agent:  JOC\ Web\ Spider
+Disallow: /
+
+User-agent:  JustView
+Disallow: /
+
+User-agent:  larbin
+Disallow: /
+
+User-agent:  LeechFTP
+Disallow: /
+
+User-agent:  LexiBot
+Disallow: /
+
+User-agent:  lftp
+Disallow: /
+
+User-agent:  Link*Sleuth
+Disallow: /
+
+User-agent:  likse
+Disallow: /
+
+User-agent:  Link
+Disallow: /
+
+User-agent:  LinkWalker
+Disallow: /
+
+User-agent:  Mag-Net
+Disallow: /
+
+User-agent:  Magnet
+Disallow: /
+
+User-agent:  Mass\ Downloader
+Disallow: /
+
+User-agent:  Memo
+Disallow: /
+
+User-agent:  MIDown\ tool
+Disallow: /
+
+User-agent:  Mirror
+Disallow: /
+
+User-agent:  Mister\ PiX
+Disallow: /
+
+User-agent:  Mozilla.*Indy
+Disallow: /
+
+User-agent:  Mozilla.*NEWT
+Disallow: /
+
+User-agent:  Mozilla*MSIECrawler
+Disallow: /
+
+User-agent:  MS\ FrontPage*
+Disallow: /
+
+User-agent:  MSFrontPage
+Disallow: /
+
+User-agent:  MSIECrawler
+Disallow: /
+
+User-agent:  MSProxy
+Disallow: /
+
+User-agent:  Navroad
+Disallow: /
+
+User-agent:  NearSite
+Disallow: /
+
+User-agent:  NetAnts
+Disallow: /
+
+User-agent:  NetMechanic
+Disallow: /
+
+User-agent:  NetSpider
+Disallow: /
+
+User-agent:  Net\ Vampire
+Disallow: /
+
+User-agent:  NetZIP
+Disallow: /
+
+User-agent:  NICErsPRO
+Disallow: /
+
+User-agent:  Ninja
+Disallow: /
+
+User-agent:  Octopus
+Disallow: /
+
+User-agent:  Offline\ Explorer
+Disallow: /
+
+User-agent:  Offline\ Navigator
+Disallow: /
+
+User-agent:  Openfind
+Disallow: /
+
+User-agent:  PageGrabber
+Disallow: /
+
+User-agent:  Papa\ Foto
+Disallow: /
+
+User-agent:  pavuk
+Disallow: /
+
+User-agent:  pcBrowser
+Disallow: /
+
+User-agent:  Ping
+Disallow: /
+
+User-agent:  PingALink
+Disallow: /
+
+User-agent:  Pockey
+Disallow: /
+
+User-agent:  psbot
+Disallow: /
+
+User-agent:  Pump
+Disallow: /
+
+User-agent:  QRVA
+Disallow: /
+
+User-agent:  RealDownload
+Disallow: /
+
+User-agent:  Reaper
+Disallow: /
+
+User-agent:  Recorder
+Disallow: /
+
+User-agent:  ReGet
+Disallow: /
+
+User-agent:  Scooter
+Disallow: /
+
+User-agent:  Seeker
+Disallow: /
+
+User-agent:  Siphon
+Disallow: /
+
+User-agent:  sitecheck.internetseer.com
+Disallow: /
+
+User-agent:  SiteSnagger
+Disallow: /
+
+User-agent:  SlySearch
+Disallow: /
+
+User-agent:  SmartDownload
+Disallow: /
+
+User-agent:  Snake
+Disallow: /
+
+User-agent:  SpaceBison
+Disallow: /
+
+User-agent:  sproose
+Disallow: /
+
+User-agent:  Stripper
+Disallow: /
+
+User-agent:  Sucker
+Disallow: /
+
+User-agent:  SuperBot
+Disallow: /
+
+User-agent:  SuperHTTP
+Disallow: /
+
+User-agent:  Surfbot
+Disallow: /
+
+User-agent:  Szukacz
+Disallow: /
+
+User-agent:  tAkeOut
+Disallow: /
+
+User-agent:  Teleport\ Pro
+Disallow: /
+
+User-agent:  URLSpiderPro
+Disallow: /
+
+User-agent:  Vacuum
+Disallow: /
+
+User-agent:  VoidEYE
+Disallow: /
+
+User-agent:  Web\ Image\ Collector
+Disallow: /
+
+User-agent:  Web\ Sucker
+Disallow: /
+
+User-agent:  WebAuto
+Disallow: /
+
+User-agent:  [Ww]eb[Bb]andit
+Disallow: /
+
+User-agent:  webcollage
+Disallow: /
+
+User-agent:  WebCopier
+Disallow: /
+
+User-agent:  Web\ Downloader
+Disallow: /
+
+User-agent:  WebEMailExtrac.*
+Disallow: /
+
+User-agent:  WebFetch
+Disallow: /
+
+User-agent:  WebGo\ IS
+Disallow: /
+
+User-agent:  WebHook
+Disallow: /
+
+User-agent:  WebLeacher
+Disallow: /
+
+User-agent:  WebMiner
+Disallow: /
+
+User-agent:  WebMirror
+Disallow: /
+
+User-agent:  WebReaper
+Disallow: /
+
+User-agent:  WebSauger
+Disallow: /
+
+User-agent:  Website
+Disallow: /
+
+User-agent:  Website\ eXtractor
+Disallow: /
+
+User-agent:  Website\ Quester
+Disallow: /
+
+User-agent:  Webster
+Disallow: /
+
+User-agent:  WebStripper
+Disallow: /
+
+User-agent:   WebWhacker
+Disallow: /
+
+User-agent:  WebZIP
+Disallow: /
+
+User-agent:  Wget
+Disallow: /
+
+User-agent:  Whacker
+Disallow: /
+
+User-agent:  Widow
+Disallow: /
+
+User-agent:  WWWOFFLE
+Disallow: /
+
+User-agent:  x-Tractor
+Disallow: /
+
+User-agent:  Xaldon\ WebSpider
+Disallow: /
+
+User-agent:  Xenu
+Disallow: /
+
+User-agent:  Zeus.*Webster
+Disallow: /
+
+User-agent:  Zeus
+Disallow: /
+

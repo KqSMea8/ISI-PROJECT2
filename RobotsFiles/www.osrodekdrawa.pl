@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+
+User-agent: *
+Crawl-delay: 2
+

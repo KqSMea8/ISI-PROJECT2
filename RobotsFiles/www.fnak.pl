@@ -1,0 +1,9 @@
+Sitemap: http://www.fnak.pl/sitemap_pl.xml
+User-agent: *
+Disallow: /user/
+Disallow: /basket/
+Disallow: /order/
+Disallow: /newsletter
+Disallow: /productsCompare/
+Disallow: *?pf*
+Disallow: /search*

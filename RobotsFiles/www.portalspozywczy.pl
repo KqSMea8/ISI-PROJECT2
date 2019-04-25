@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /gielda_wierzytelnosci/
+Disallow: /nieruchomosci_oferty/
+Disallow: /oferty_komunikaty/
+Disallow: /finanse/nieruchomosci_oferty/
+Disallow: /przetargi/
+Disallow: /szukaj/
+Disallow: /mobile/
+Disallow: /m/
+Disallow: /en/
+Sitemap: http://www.portalspozywczy.pl/sitemapindex.xml

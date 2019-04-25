@@ -1,0 +1,6 @@
+# robots.txt [merano-suedtirol.it]
+
+User-agent: *
+
+Sitemap: https://meran.eu/sitemap_meran-eu.xml
+

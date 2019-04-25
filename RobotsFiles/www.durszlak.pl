@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /?mod=setalogin
+Disallow: /uzytkownicy/rejestracja/prosta
+Disallow: /uzytkownicy/logowanie/proste
+Disallow: /subskrypcje
+Sitemap: http://durszlak.pl/sitemap.xml.gz
+

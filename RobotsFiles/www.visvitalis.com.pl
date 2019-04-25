@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /application
+Disallow: /environment
+Allow: /environment/cache/images
+Disallow: /libraries
+Disallow: */default/
+Disallow: */searchquery/
+Disallow: */f_at_
+Disallow: */f_ov_
+Disallow: */f_producer_
+Disallow: */fav/
+Disallow: */mail/
+Disallow: */recommend
+Disallow: */f_availability
+Disallow: */basket
+Disallow: */reg
+Disallow: */passermind
+Disallow: */login
+
+Sitemap: https://visvitalis.com.pl/console/integration/execute/name/GoogleSitemap

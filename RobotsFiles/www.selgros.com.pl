@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /checkProperMail.do
+Disallow: /checkMail.do
+Disallow: /*?*manuId=*
+Disallow: /*?*tagId=*
+Disallow: /*?*orderBy=*
+Disallow: /*?*seasonId=*
+Disallow: /*?*maxDisplay=*
+Disallow: /*?*displayType=*
+Disallow: /*?*deliv24=*
+Disallow: /*?*redirectPage=*
+Disallow: /*?*showRev=*
+Disallow: /*?*searchText=*
+Disallow: /*?*filter=*
+Disallow: /*?*seo=*
+Disallow: /*?*maxDisplaySearchResults=*

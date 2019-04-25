@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /admin/
+Disallow: /administration/
+Disallow: /root/
+Disallow: /private/
+Disallow: /install/
+Sitemap: {page_domain}/dat/sitemap.xml.gz

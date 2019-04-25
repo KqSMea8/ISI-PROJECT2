@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /login_reg.php
+Disallow: /carrello.php
+Disallow: /fatt_sped.php
+Disallow: /met_pag.php
+Disallow: /conf_ordine.php
+Disallow: /ordine_confermato.php
+Disallow: /ordine_annullato.php
+Sitemap: /sitemap.xml

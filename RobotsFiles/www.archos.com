@@ -1,0 +1,2 @@
+Sitemap: http://www.archos.com/sitemap.xml
+

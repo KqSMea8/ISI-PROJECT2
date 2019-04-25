@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*promocje
+Disallow: /en/
+Disallow: /*nowe-produkty
+Disallow: /pl/content/11-warunki-promocji
+Disallow: /*dostawcy
+Disallow: /*n=
+Disallow: /*p=
+Disallow: /pl/szybkie-zakupy
+Disallow: /*logowanie
+Disallow: /*szukaj?

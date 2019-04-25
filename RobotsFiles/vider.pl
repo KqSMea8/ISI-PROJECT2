@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /uploads/
+Disallow: /adserver/campaign/*
+Disallow: /search/*
+Disallow: /video/*
+Disallow: /video/*
+
+
+

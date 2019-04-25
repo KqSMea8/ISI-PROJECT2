@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /dziekujemy-za-rezerwacje-dinozaury/
+Disallow: /dziekujemy-za-rezerwacje-smerfy/
+Disallow: /dziekujemy-za-rezerwacje-tygrysy/
+Disallow: /dziekujemy-grupa-jeden-tydzien/
+Disallow: /dziekujemy-grupa-dwa-tydzien/
+Disallow: /dziekujemy-grupa-trzy-tydzien/
+Disallow: /dziekujemy-grupa-jeden-weekend/
+Disallow: /dziekujemy-grupa-dwa-weekend/
+Disallow: /dziekujemy-grupa-trzy-weekend/
+Disallow: /dziekujemy-urodziny-dwa-tydzien/
+Disallow: /dziekujemy-urodziny-dwa-tydzien-bezpoczestunku/
+Disallow: /dziekujemy-urodziny-dwa-weekend/
+Disallow: /dziekujemy-urodziny-jeden-tydzien/
+Disallow: /dziekujemy-urodziny-jeden-tydzien-bezpoczestunku/
+Disallow: /dziekujemy-urodziny-jeden-weekend/
+Disallow: /dziekujemy-urodziny-trzy-tydzien/
+Disallow: /dziekujemy-urodziny-trzy-tydzien-bezpoczestunku/
+Disallow: /dziekujemy-urodziny-trzy-weekend/
+Disallow: /regulamin-escape-room-poznan/
+
+Allow: /wp-admin/admin-ajax.php

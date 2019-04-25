@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /en/
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /doc/
+Disallow: /gfx/
+Disallow: /sql/
+Disallow: /tools/
+User-agent: Fasterfox
+Disallow: /

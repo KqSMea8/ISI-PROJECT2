@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Allow: /SiteGlobals/Functions/JavaScript/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Crawl-delay: 10
+

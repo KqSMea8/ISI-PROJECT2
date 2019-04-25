@@ -1,0 +1,12 @@
+User-agent: *
+
+crawl-delay: 10
+
+Disallow: /en/ajaxcart/whishlist/compare/*
+Disallow: /pl/ajaxcart/whishlist/compare/*
+Disallow: /en/wishlist/index/add/product/*
+Disallow: /pl/wishlist/index/add/product/*
+Noindex: /en/ajaxcart/whishlist/compare/*
+Noindex: /pl/ajaxcart/whishlist/compare/*
+Noindex: /en/wishlist/index/add/product/*
+Noindex: /pl/wishlist/index/add/product/*

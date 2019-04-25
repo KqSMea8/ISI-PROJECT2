@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /register.html
+Disallow: /login.html
+Disallow: *tracking.html?
+Sitemap: https://mymeest.pl/sitemap.xml
+User-agent: Yandex
+Disallow: /register.html
+Disallow: /login.html
+Disallow: *tracking.html?
+Sitemap: https://mymeest.pl/sitemap.xml

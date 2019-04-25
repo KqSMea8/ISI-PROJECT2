@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /galeria?start=25
+Disallow: /galeria?start=50
+Disallow: /galeria?start=75
+Disallow: /galeria?start=100
+Disallow: /galeria?start=125
+Disallow: /galeria/?start=25
+Disallow: /galeria/?start=50
+Disallow: /galeria/?start=75
+Disallow: /galeria/?start=100
+Disallow: /galeria/?start=125

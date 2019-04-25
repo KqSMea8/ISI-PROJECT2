@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /polityka.php
+Disallow: /polityka.pdf
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: *.aspx
+Disallow: *.aspx$
+Disallow: *.pdf
+Disallow: *.pdf$

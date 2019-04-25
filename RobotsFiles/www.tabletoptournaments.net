@@ -1,0 +1,35 @@
+# robots.txt for http://www.tabletopturniere.de/
+User-agent: * # Alle Suchmaschinen werden angesprochen
+Disallow: /webalizer/
+Disallow: /redirect.php
+Disallow: /privacy
+Disallow: /eu/privacy
+Disallow: /de/privacy
+Disallow: /at/privacy
+Disallow: /ch/privacy
+Disallow: /nl/privacy
+Disallow: /be/privacy
+Disallow: /lu/privacy
+Disallow: /pl/privacy
+Disallow: /fr/privacy
+Disallow: /uk/privacy
+Disallow: /it/privacy
+Disallow: /rs/privacy
+Disallow: /us/privacy
+Disallow: /ro/privacy
+Disallow: /cookies
+Disallow: /eu/cookies
+Disallow: /de/cookies
+Disallow: /at/cookies
+Disallow: /ch/cookies
+Disallow: /nl/cookies
+Disallow: /be/cookies
+Disallow: /lu/cookies
+Disallow: /pl/cookies
+Disallow: /fr/cookies
+Disallow: /uk/cookies
+Disallow: /it/cookies
+Disallow: /rs/cookies
+Disallow: /us/cookies
+Disallow: /ro/cookies
+

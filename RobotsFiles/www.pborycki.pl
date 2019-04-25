@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dziubekb/
+Disallow: /files/
+Disallow: /nazar/
+Disallow: /ornito/
+Disallow: /serakhs-grid/
+Disallow: /toromuerto/
+Disallow: /wawer/
+Disallow: /bib/

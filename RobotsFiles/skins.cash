@@ -1,0 +1,14 @@
+User-agent: Yandex
+Disallow: /restricted
+Disallow: /?*
+Disallow: /user/
+Allow: *.css
+Allow: *.js
+Host: https://skins.cash/ru
+
+User-agent: *
+Disallow: /restricted
+Allow: *.css
+Allow: *.js
+
+Sitemap: https://skins.cash/sitemap.xml

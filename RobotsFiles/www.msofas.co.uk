@@ -1,0 +1,11 @@
+User-agent:*
+Disallow: /admin/
+Disallow: /search
+Crawl-delay: 10
+
+User-agent: Googlebot
+Disallow: /cart
+Disallow: /login
+Disallow: /register
+
+Sitemap: http://www.msofas.co.uk/sitemap.xml

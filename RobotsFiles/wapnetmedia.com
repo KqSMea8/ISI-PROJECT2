@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>wapnetmedia.com - Creative Business Solutions</title>
+<!-- Google Font -->
+<link href='http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+<!-- Font Awesome -->
+
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Preloader -->
+<link rel="stylesheet" href="css/preloader.css" type="text/css" media="screen, print"/>
+
+<!-- Icon Font-->
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.default.css">
+<!-- Animate CSS-->
+<link rel="stylesheet" href="css/animate.css">
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+
+<!-- Style -->
+<link href="css/style.css" rel="stylesheet">
+
+<!-- Responsive CSS -->
+<link href="css/responsive.css" rel="stylesheet">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="js/lte-ie7.js"></script>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<!-- Preloader -->
+<div id="preloader">
+<div id="status">&nbsp;</div>
+</div>
+
+
+
+
+<header id="HOME" style="background-position: 50% -125px;">
+<div class="section_overlay">
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="#"><img src="images/logo.png" alt=""></a>
+</div>
+
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="#HOME">Home</a></li>
+<li><a href="#SERVICE">Services</a></li>
+<li><a href="#ABOUT">About</a></li>
+<li><a href="#TESTIMONIAL">Testimonial</a></li>
+<!--// <li><a href="#WORK">Work</a></li> //-->
+<li><a href="#CONTACT">Contact</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="home_text wow fadeInUp animated">
+<h2>wapnet media.com</h2>
+<p>Creative Business Solutions in Belfast</p>
+<img src="images/shape.png" alt="">
+</div>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="scroll_down">
+<a href="#SERVICE"><img src="images/scroll.png" alt=""></a>
+<h4>Scroll Down</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</header>
+
+
+<section class="services" id="SERVICE">
+<div class="container">
+<div class="row">
+
+
+
+<div class="col-md-3 text-center">
+<div class="single_service wow fadeInUp" data-wow-delay="1s">
+<i class="icon-gears"></i>
+<h2>Strategy</h2>
+<p>Business driven by needs and statistics</p>
+</div>
+</div>
+
+
+<div class="col-md-3 text-center">
+<div class="single_service wow fadeInUp" data-wow-delay="2s">
+<i class="icon-pencil"></i>
+<h2>Design</h2>
+<p>Leaflets, Adverts, Posters for any event or business</p>
+</div>
+</div>
+
+
+<div class="col-md-3 text-center">
+<div class="single_service wow fadeInUp" data-wow-delay="3s">
+<i class="icon-camera"></i>
+<h2>Photography</h2>
+<p>Wedding, Portrait, Commercial Studio & Outdoor</p>
+</div>
+</div>
+<div class="col-md-3 text-center">
+<div class="single_service wow fadeInUp" data-wow-delay="4s">
+<i class="icon-magnifying-glass"></i>
+<h2>Misc</h2>
+<p>IT Home & Business Services</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="about_us_area" id="ABOUT">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="about_title">
+<h2>About Us</h2>
+<img src="images/shape.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-4  wow fadeInLeft animated">
+<div class="single_progress_bar">
+<h2>STRATEGY - 90%</h2>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
+<span class="sr-only">60% Complete</span>
+</div>
+</div>
+</div>
+<div class="single_progress_bar">
+<h2>DESIGN - 95%</h2>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;">
+<span class="sr-only">60% Complete</span>
+</div>
+</div>
+</div>
+<div class="single_progress_bar">
+<h2>MARKETING - 75%</h2>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
+<span class="sr-only">60% Complete</span>
+</div>
+</div>
+</div>
+<div class="single_progress_bar">
+<h2>QUALITY - 100%</h2>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+<span class="sr-only">60% Complete</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4  wow fadeInRight animated">
+<p class="about_us_p">
+Group of creative friends with 17+ years IT experience, 10+ years photography experience, 8+ graphic design experience,
+2+ strategy and marketing experience, young, creative, brave and hungry for success.
+</p>
+</div>
+<div class="col-md-4  wow fadeInRight animated">
+<p class="about_us_p">Some of our projects<br />
+
+<li><a href="http://studiobelfast.com">Photography Studio Belfast</a></li>
+<li><a href="http://partynite.info">Lisburn Party Group</a></li>
+<li><a href="http://www.partydirector.co.uk">Party Director</a></li>
+<li><a href="http://www.citycentrestudio.com">CityCentreStudio</a></li>
+
+
+</p>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="testimonial text-center wow fadeInUp animated" id="TESTIMONIAL">
+<div class="container">
+<div class="icon">
+<i class="icon-quote"></i>
+</div>
+<div class="owl-carousel">
+<div class="single_testimonial text-center wow fadeInUp animated">
+<p>Let your limits be determined by physics and other real world constraints,<br /> not by the lack of imagination or knowledge of others.</p>
+</div>
+<div class="single_testimonial text-center">
+<p>wapnetmedia.com - converting pizza and caffeine in to success</p>
+<h4>the way we work</h4>
+</div>
+</div>
+</div>
+</section>
+
+
+<div class="fun_facts">
+<section class="header parallax home-parallax page" id="fun_facts" style="background-position: 50% -150px;">
+<div class="section_overlay">
+<div class="container">
+<div class="row">
+<div class="col-md-6 wow fadeInLeft animated">
+<div class="row">
+<div class="col-md-4">
+<div class="single_count">
+<i class="icon-toolbox"></i>
+<h3>50+</h3>
+<p>Projects Done</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="single_count">
+<i class="icon-clock"></i>
+<h3>600+</h3>
+<p>Hours Worked</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="single_count">
+<i class="icon-trophy"></i>
+<h3>100+</h3>
+<p>Happy Clients</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-5 col-md-offset-1 wow fadeInRight animated">
+<div class="imac">
+<img src="images/imac.png" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+
+<!--//
+<section class="work_area" id="WORK">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="work_title  wow fadeInUp animated">
+<h1>Latest Works</h1>
+<img src="images/shape.png" alt="">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4 no_padding">
+<div class="single_image">
+<img src="images/w1.jpg" alt="">
+<div class="image_overlay">
+<a href="">View Full Project</a>
+<h2>drawing</h2>
+<h4>with pencil colors</h4>
+</div>
+</div>
+</div>
+<div class="col-md-4 no_padding">
+<div class="single_image">
+<img src="images/w2.jpg" alt="">
+<div class="image_overlay">
+<a href="">View Full Project</a>
+<h2>drawing</h2>
+<h4>with pencil colors</h4>
+</div>
+</div>
+</div>
+<div class="col-md-4 no_padding">
+<div class="single_image">
+<img src="images/w3.jpg" alt="">
+<div class="image_overlay">
+<a href="">View Full Project</a>
+<h2>drawing</h2>
+<h4>with pencil colors</h4>
+</div>
+</div>
+</div>
+</div>
+<div class="row pad_top">
+<div class="col-md-4 no_padding">
+<div class="single_image">
+<img src="images/w4.jpg" alt="">
+<div class="image_overlay">
+<a href="">View Full Project</a>
+<h2>drawing</h2>
+<h4>with pencil colors</h4>
+</div>
+</div>
+</div>
+<div class="col-md-4 no_padding">
+<div class="single_image">
+<img src="images/w5.jpg" alt="">
+<div class="image_overlay">
+<a href="">View Full Project</a>
+<h2>drawing</h2>
+<h4>with pencil colors</h4>
+</div>
+</div>
+</div>
+<div class="col-md-4 no_padding">
+<div class="single_image last_padding">
+<img src="images/w6.jpg" alt="">
+<div class="image_overlay">
+<a href="">View Full Project</a>
+<h2>drawing</h2>
+<h4>with pencil colors</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+//-->
+
+
+
+<section class="call_to_action">
+<div class="container">
+<div class="row">
+<div class="col-md-8 wow fadeInLeft animated">
+<div class="left">
+<h2>HUNGRY FOR SUCCESS?</h2>
+<p>We are here to help. There is no more time to waste. Life is too short. Go for it!
+
+
+
+
+
+</p>
+</div>
+</div>
+<div class="col-md-3 col-md-offset-1 wow fadeInRight animated">
+<div class="baton">
+<a href="#CONTACT">
+<button type="button" class="btn btn-primary cs-btn">Let's Talk</button>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="contact" id="CONTACT">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="contact_title  wow fadeInUp animated">
+<h1>get in touch</h1>
+<img src="images/shape.png" alt="">
+<p>Our Studio is open only for scheduled meetings or work. Please contact us first.<br/>In case of no answer please text or leave us a message.<br />
+We will get back you you ASAP.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-3  wow fadeInLeft animated">
+<div class="single_contact_info">
+<h2>Call Us</h2>
+<p>02890 997329<br />07722 812233</p>
+</div>
+<div class="single_contact_info">
+<h2>Email Us</h2>
+<p>info@wapnetmedia.com</p>
+</div>
+<div class="single_contact_info">
+<h2>Address</h2>
+<p>Cathedral Building, Office 10<br />64 Donegal Street<br />
+Belfast, BT1 2GT</p>
+</div>
+</div>
+<div class="col-md-9  wow fadeInRight animated">
+<form class="contact-form" action="">
+<div class="row">
+<div class="col-md-6">
+<input type="text" class="form-control" id="name" placeholder="Name">
+<input type="email" class="form-control" id="email" placeholder="Email">
+<input type="text" class="form-control" id="subject" placeholder="Subject">
+</div>
+<div class="col-md-6">
+<textarea class="form-control" id="message" rows="25" cols="10" placeholder="  Message Texts..."></textarea>
+<button type="button" class="btn btn-default submit-btn form_submit">SEND MESSAGE</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="work-with   wow fadeInUp animated">
+<h3>looking forward to hearing from you!</h3>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+<footer>
+<div class="container">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="footer_logo   wow fadeInUp animated">
+<img src="images/logo.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center   wow fadeInUp animated">
+<div class="social">
+<!--//<h2>Follow Me on Here</h2>
+<ul class="icon_list">
+<li><a href="http://www.facebook.com/wapnetmedia"target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="http://www.twitter.com/ "target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href=""><i class="fa fa-google-plus"></i></a></li>
+<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+<li><a href="http://www.dribbble.com/target="_blank"><i class="fa fa-dribbble"></i></a></li>
+</ul> //-->
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="copyright_text   wow fadeInUp animated">
+<p>&copy; 2015 wapnetmedia.com. <a href="http://www.themeforest.net/user/thecodecafe"target="_blank">Code Cafe Team</a></p>
+<p>Made with love for creative people.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+<!-- =========================
+SCRIPTS
+============================== -->
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.nicescroll.js"></script>
+<script src="js/owl.carousel.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/script.js"></script>
+
+
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//czteryosiem.com/piwik/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', 11]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript><p><img src="//czteryosiem.com/piwik/piwik.php?idsite=11" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+
+
+
+</body>
+
+</html>
+

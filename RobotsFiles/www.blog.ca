@@ -1,0 +1,112 @@
+User-agent: LeechFTP
+User-agent: Rogerbot
+User-agent: WebWhacker
+User-agent: Offline Explorer
+User-agent: SemrushBot
+User-agent: Xaldon WebSpider
+User-agent: Image Sucker
+User-agent: ReGet
+User-agent: Net Vampire
+User-agent: GetRight
+User-agent: NearSite
+User-agent: Papa Foto
+User-agent: MIDown tool
+User-agent: WebGo IS
+User-agent: WebAuto
+User-agent: Image Stripper
+User-agent: Web Sucker
+User-agent: Mister PiX
+User-agent: Go-Ahead-Got-It
+User-agent: Website eXtractor
+User-agent: NetAnts
+User-agent: JetCar
+User-agent: Website Quester
+User-agent: tAkeOut
+User-agent: pavuk
+User-agent: Go!Zilla
+User-agent: VoidEYE
+User-agent: ChinaClaw
+User-agent: HMView
+User-agent: Grafula
+User-agent: NetZIP
+User-agent: JOC Web Spider
+User-agent: WebSauger
+User-agent: EirGrabber
+User-agent: GrabNet
+User-agent: Exabot
+User-agent: WWWOFFLE
+User-agent: Navroad
+User-agent: SemrushBot/1.1~bl
+User-agent: MJ12bot
+User-agent: WebCopier
+User-agent: FlashGet
+User-agent: WebZIP
+User-agent: SuperHTTP
+User-agent: LinkpadBot
+User-agent: HTTrack
+User-agent: Offline Navigator
+User-agent: PageGrabber
+User-agent: RealDownload
+User-agent: larbin
+User-agent: WebLeacher
+User-agent: Mass Downloader
+User-agent: Surfbot
+User-agent: EmailWolf
+User-agent: SmartDownload
+User-agent: Download Demon
+User-agent: pcBrowser
+User-agent: Gigabot
+User-agent: eCatch
+User-agent: Zeus
+User-agent: Widow
+User-agent: InterGET
+User-agent: WebReaper
+User-agent: GetWeb!
+User-agent: WebFetch
+User-agent: Web Image Collector
+User-agent: AhrefsBot/5.1
+User-agent: SiteSnagger
+User-agent: SuperBot
+User-agent: Express WebPictures
+User-agent: ExtractorPro
+User-agent: BlackWidow
+User-agent: Wget
+User-agent: Bot [EMAIL="craftbot@yahoo.com"]mailto:craftbot@yahoo.com[/EMAIL]
+User-agent: AhrefsBot
+User-agent: Octopus
+User-agent: Teleport Pro
+User-agent: DISCo
+User-agent: Custo
+User-agent: EyeNetIE
+User-agent: Dotbot
+User-agent: Internet Ninja
+User-agent: EmailSiphon
+User-agent: WebStripper
+User-agent: NetSpider
+User-agent: Indy Library
+Disallow: /
+
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: /xmlrpc.php
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author/
+Disallow: *?attachment_id=
+Disallow: */feed
+Disallow: */page/
+Disallow: /bet365
+Disallow: /888
+Disallow: /casino-com
+Allow: */uploads
+Allow: /*/*.ja
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+
+

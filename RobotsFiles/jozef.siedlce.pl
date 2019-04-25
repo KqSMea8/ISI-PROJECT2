@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kalendarz-parafialny/action~posterboard/
+Disallow: /kalendarz-parafialny/action~agenda/
+Disallow: /kalendarz-parafialny/action~oneday/
+Disallow: /kalendarz-parafialny/action~month/
+Disallow: /kalendarz-parafialny/action~week/
+Disallow: /kalendarz-parafialny/action~stream/
+Disallow: /kalendarz-parafialny/action~undefined/
+Disallow: /kalendarz-parafialny/action~http:/
+Disallow: /kalendarz-parafialny/action~default/
+Disallow: /kalendarz-parafialny/action~poster/
+Disallow: /kalendarz-parafialny/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

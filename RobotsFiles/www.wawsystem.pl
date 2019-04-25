@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /FCKeditor/
+Disallow: /images/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /tmp/

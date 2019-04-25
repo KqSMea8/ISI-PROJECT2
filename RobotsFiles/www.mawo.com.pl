@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /temp/
+Disallow: /admin/
+Disallow: /js/
+Disallow: /jscripts/
+Disallow: /token/
+Disallow: /test/
+Disallow: /ADMIN/
+Disallow: /stats/
+Disallow: /projekt/
+Disallow: /panel/

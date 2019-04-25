@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wordpress/wp-admin/
+Disallow: /uk/blog/author/
+Disallow: /de/blog/author/
+Disallow: /es/blog/author/
+Disallow: /nl/blog/author/
+Disallow: /pl/blog/author/
+Disallow: /au/blog/author/
+Allow: /wordpress/wp-admin/admin-ajax.php
+Sitemap: https://www.abtasty.com/sitemap_index.xml

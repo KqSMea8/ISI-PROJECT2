@@ -1,0 +1,27 @@
+Sitemap: http://www.newmessage.org/sitemap.xml
+
+User-agent: *
+Disallow: /av/paid/
+Disallow: /chapters/
+Disallow: /pdf/
+Disallow: /zh/wp-content/uploads/sites/
+Disallow: /pt/wp-content/uploads/sites/
+Disallow: /nl/wp-content/uploads/sites/
+Disallow: /fr/wp-content/uploads/sites/
+Disallow: /el/wp-content/uploads/sites/
+Disallow: /th_event_cat/
+Disallow: /th_testimonial/
+Disallow: /nm/wp-content/uploads/
+Disallow: /wp-content/uploads/
+Disallow: /greek-international/
+Disallow: /bulgaria-international/
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /wp-content/uploads/*
+
+User-agent: naver
+Allow: /ko/*
+
+User-agent: Yeti
+Allow: /ko/*

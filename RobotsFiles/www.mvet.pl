@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: */pokaz.wszystkie/
+Disallow: */sortuj.*
+

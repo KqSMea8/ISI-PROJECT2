@@ -1,0 +1,14 @@
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /RealMedia
+
+User-Agent: Googlebot
+Disallow: /7730/
+
+User-agent: Fasterfox
+Disallow: /
+
+Sitemap: http://www.skiinfo.pl/site_map_index.xml
+

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Save the meme! - Bits of Freedom</title>
+<meta charset="utf-8" />
+<meta name="author" content="Bits of Freedom" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- Materialize -->
+<link type="text/css" rel="stylesheet" href="/css/material-font.css">
+<link type="text/css" rel="stylesheet" href="/static/css/materialize.min.css"  media="screen,projection"/>
+<link type="text/css" rel="stylesheet" href="/static/css/piphone.css"  media="screen,projection"/>
+<!-- JS Materialize -->
+<script src="/static/js/jquery-2.1.1.js"></script>
+<script type="text/javascript" src="/static/js/materialize.min.js"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+// tracker methods like "setCustomDimension" should be called before "trackPageView"
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//stats.bof.nl/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '16']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- End Piwik Code -->
+<link rel="stylesheet" href="/css/index.css">
+</head>
+<body>
+<ul class="languages">
+<li class="en"><a href="/en"><img src="/flags/gb.svg"></a></li>
+<li class="de"><a href="/de"><img src="/flags/de.svg"></a></li>
+<li class="fr"><a href="/fr"><img src="/flags/fr.svg"></a></li>
+<li class="pl"><a href="/pl"><img src="/flags/pl.svg"></a></li>
+<li class="it"><a href="/it"><img src="/flags/it.svg"></a></li>
+<li class="nl"><a href="/nl"><img src="/flags/nl.svg"></a></li>
+<li class="es"><a href="/es"><img src="/flags/es.svg"></a></li>
+<li class="pt"><a href="/pt"><img src="/flags/pt.svg"></a></li>
+</ul>
+<main>
+<section class="panel">
+<div class="wrap">
+<div class="content">
+<p class="meme-text">Europe wants internet companies to filter all of your uploads.</p>
+<p class="footnote">(It is a censorship machine.)</p>
+</div>
+<figure class="meme">
+<img src="memes/Rage-Face.png" alt="Rage face">
+</figure>
+</div>
+</section>
+
+<section class="panel is-reversed">
+<div class="wrap">
+<figure class="meme">
+<img src="memes/wtf.png" alt="WTF">
+</figure>
+<div class="content">
+<p class="meme-text">An upload filter can't recognize your legal use of copyrighted content.</p>
+<p class="footnote">(Like parody, citations and - oh, noes! - memes.)</p>
+</div>
+</div>
+</section>
+
+<section class="panel">
+<div class="wrap">
+<div class="content">
+<p class="meme-text">And you will have no meaningful protection from unfair deletion.</p>
+<p class="footnote">(So, the proposed safeguards will not save you.)</p>
+</div>
+<figure class="meme">
+<img src="memes/must-resist.png" alt="Must resist">
+</figure>
+</div>
+</section>
+
+<section class="panel is-reversed">
+<div class="wrap">
+<div class="content">
+<p class="meme-text">This needs to change: we need to save the meme!</p>
+<p class="footnote">(Article 13 of the proposed Copyright Directive must be deleted.)</p>
+</div>
+<figure class="meme">
+<img src="memes/please-say-yes.png" alt="Please say yes">
+</figure>
+</div>
+</section>
+
+<section class="panel">
+<div class="wrap">
+<div class="content">
+<p class="meme-text">And you can be of a tremendous help!</p>
+<p class="footnote">Call a member of the European Parliament now - for free.</p>
+</div>
+<figure class="meme">
+<img src="memes/badass.png" alt="Badass over here!">
+</figure>
+</div>
+</section>
+
+<section class="panel">
+<div class="wrap">
+<div class="content">
+<p class="meme-text"><a href="https://changecopyright.org/en-US/call-now"><p class="meme-text">Click here and call! Stand up for copyright in the digital age.</a></p>
+<p class="footnote"><a href="https://changecopyright.org/en-US/call-now"><p class="footnote">Calling is easy, using Mozilla's excellent Change Copyright website.</a></p>
+</div>
+<figure class="meme">
+<a href="https://changecopyright.org/en-US/call-now"><img src="memes/changecopyright.png" alt="Change Copyright!"></a>
+</figure>
+</div>
+</section>
+
+<section class="panel tips">
+<div class="wrap">
+<div class="content">
+<h2 class="meme-text tips-title">Tips</h2>
+<p class="tips">A phone call is most effective.<br />Using our tool, it is even free.<br />You do not have to be an expert.<br />Personalise your message.<br />Speaking to an assistant is just as effective.<br />Be polite and be positive.</p>
+</div>
+<figure class="meme">
+<img src="memes/true-story.png" alt="True story">
+</figure>
+</div>
+</section>
+</main>
+<footer class="page-footer white">
+<div class="container">
+<div class="footer_item">
+<ul>
+<li><a href="/robots.txt">Save the meme!</a></li>
+<li><a href="/robots.txt/about">Contact, credits, privacy</a></li>
+</ul>
+</div>
+<div class="footer_item mailinglist">
+<form action="https://mailing.bof.nl/cgi-bin/mailman/subscribe/savethememe/" method="post" target="_blank" class="">
+<input id="newsletter-email" name="email" placeholder="Your e-mail address" type="email" class="mailinglist_form_field">
+<input name="email-button" value="Keep me updated!" type="Submit" id="newsletter-submit" class="btn btn-default">
+</form>
+</div>
+</div>
+<div class="container logos">
+<div class="footer_item">
+<a href="https://bof.nl/english" class="footer_logo"><img src="/logo/bitsoffreedom.png" width="200px"></a>
+</div>
+<div class="footer_item">
+<a href="https://edri.org/" class="footer_logo"><img src="/logo/edri.png" width="200px"></a>
+</div>
+<div class="footer_item">
+<a href="https://epicenter.works" class="footer_logo"><img src="/logo/epicenter-works.jpg" width="150px"></a>
+</div>
+</div>
+</div>
+<br />
+</footer>
+</body>
+</html>
+

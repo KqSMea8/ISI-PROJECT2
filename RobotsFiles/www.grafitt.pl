@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /include
+Disallow: /lib
+

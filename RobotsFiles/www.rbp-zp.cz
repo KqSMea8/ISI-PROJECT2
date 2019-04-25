@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /userdata/_CHANGELOG.php
+Disallow: /hodnotit/
+Disallow: /*diskuse$
+Disallow: /*send$
+Disallow: /*volba_dis*
+Disallow: /anketa
+Disallow: /cz/kosik/
+Disallow: /enableMobile/
+Disallow: /disableMobile/
+
+User-agent: MJ12bot
+Disallow:
+
+Sitemap: http://www.rbp-zp.cz/sitemap.xml

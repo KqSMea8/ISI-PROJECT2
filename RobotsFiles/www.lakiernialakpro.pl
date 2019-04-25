@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cmsimple/
+Disallow: /content/
+Disallow: /downloads/
+Disallow: /gallery/
+Disallow: /images/
+Disallow: /plugins/
+Disallow: /resources/
+Disallow: /templates/

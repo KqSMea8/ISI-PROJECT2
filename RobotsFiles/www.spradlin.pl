@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /templates
+Disallow: /plugins
+Disallow: /modules
+Disallow: /logs
+Disallow: /libraries
+Disallow: /languages
+Disallow: /installation
+Disallow: /components
+Disallow: /cms
+Disallow: /ap

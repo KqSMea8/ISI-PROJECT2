@@ -1,0 +1,49 @@
+Sitemap: https://www.sailforum.pl/sitemap/sitemap.xml
+User-agent: Googlebot
+User-agent: msnbot
+User-agent: Bingbot
+User-agent: DuckDuckBot
+Disallow: /admin/
+Disallow: /mchat/
+Disallow: /thankslist/
+Disallow: /download/
+Disallow: /next_topic/
+Disallow: /prev_topic/
+Disallow: /gg.php
+Disallow: /gg.htm
+Disallow: /profile.php
+Disallow: /profile.htm
+Disallow: /posting.php
+Disallow: /mcp.php
+Disallow: /ucp.php
+Disallow: /app.php/*
+Allow: /download/file.php
+Allow: /sitemap/*
+Allow: /app.php/sitemap/*
+Disallow: /posting.htm
+Disallow: /printview.php
+Disallow: /printview.htm
+Disallow: /privmsg.php
+Disallow: /privmsg.htm
+Disallow: /report.php
+Disallow: /report.htm
+Disallow: /search.php
+Disallow: /tellafriend.php
+Disallow: /tellafriend.htm
+Disallow: /video.php
+Disallow: /download.php
+Disallow: /memberlist.php
+Disallow: /templates/
+Disallow: /images/avatars/
+Disallow: /images/smiles/
+Disallow: /images/anti_robotic_reg/
+Disallow: /images/plus/
+Disallow: /phpbb3/*
+
+User-agent: Feedfetcher-Google
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+

@@ -1,0 +1,27 @@
+User-Agent: *
+
+# Allow bot to enter
+Allow: /
+
+# Exclude only folders with no link from frontend, like templates, css, js.
+#Disallow: /fileadmin/user_upload/
+Disallow: /fileadmin/Resources/Private/
+Disallow: /fileadmin/_temp_/
+
+# Nothing to see here
+#Disallow: /typo3/
+Disallow: /typo3conf/
+#Disallow: /typo3temp/
+Disallow: /typo3_src/
+
+# Disable non-realurl
+Disallow: /*?id=*
+
+# Disable print pages
+# Disallow: /*&type=98
+
+# Your Sitemap
+Sitemap: https://www.panometer.de/sitemap.xml
+Sitemap: https://www.panometer.de/sitemap_de.xml
+Sitemap: https://www.panometer.de/sitemap_pl.xml
+Sitemap: https://www.panometer.de/sitemap_cs.xml

@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /blog/*?
+Allow: /*?
+Allow: /*.js?
+Allow: /*.css?
+Disallow: /admin/
+Disallow: /fonts/
+Disallow: /images/previews/
+Disallow: /images/sections/
+Disallow: /images/modules/
+Disallow: /modules/
+Disallow: /slots/
+Disallow: /xml/
+Disallow: /m/

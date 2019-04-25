@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ads/
+Disallow: /demo/
+Disallow: /demo.pro/
+Disallow: /destro.demo/
+Disallow: /test7/
+Disallow: /thumbs/
+Disallow: /cgi-bin/
+Disallow: /ads.demo/
+Disallow: /teal.demo/
+Disallow: /test79/

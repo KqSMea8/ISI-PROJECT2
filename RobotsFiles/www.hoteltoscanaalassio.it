@@ -1,0 +1,25 @@
+#
+# robots.txt for http://www.hoteltoscanaalassio.it/
+#
+# $Id: robots.txt, v 2.01 2016-02-09T10:38:34+02:00 Exp $
+#
+
+Sitemap: https://www.hoteltoscanaalassio.it/sitemap.xml
+
+# allow adsense bot on entire site
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+
+# allow google image bot to search all images
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+User-agent: *
+Disallow:
+# disallow all files in these directories
+
+# disable duggmirror
+User-agent: duggmirror
+Disallow: /

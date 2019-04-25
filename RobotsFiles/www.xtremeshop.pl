@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /templates/
+Disallow: /*?do=
+Disallow: /*&do=
+Disallow: /*?_fid=
+Disallow: /*&_fid=
+Sitemap: https://www.xtremeshop.pl/sitemap.xml
+Disallow: /ru/
+Sitemap: https://www.xtremeshop.cz/sitemap.xml

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+User-agent: Yandex
+Disallow:
+Host: castles.today
+
+Sitemap: https://castles.today/route/Sitemap/index

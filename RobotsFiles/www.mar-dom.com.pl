@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /panel/
+Disallow: /przedstawiciele.pdf
+Disallow: /top.swf
+Disallow: /files/documents/kuchinox_2014_katalog_klamek.pdf
+Disallow: /settoholz
+Disallow: /setto/jw3_dwu.swf
+Disallow: /files/documents/balterio-2017-katalog.pdf
+Disallow: /files/documents/Katalog_listew_Vox.pdf;katalog
+Allow: /

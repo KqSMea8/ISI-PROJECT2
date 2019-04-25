@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /doc/
+Disallow: /gfx/
+Disallow: /sql/
+Disallow: /de/
+Allow: /gfx/coi/pl/default_ogloszenia/
+Allow: /gfx/coi/pl/default_opisy/
+Allow: /gfx/coi/pl/default_aktualnosci/
+Allow: /gfx/coi/files/
+Disallow: /pl/oferta/oferty_inwestycyjne/oferty_inwestycyjne/go:login/
+Disallow: /pl/oferta/oferty_inwestycyjne/wyszukiwarka_ofert/go:powiat/
+Disallow: /pl/portal_eksportowy/baza_ofert_eksportowych/go:login/
+Disallow: /pl/uzytkownicy/go:rejestracja/
+Disallow: /addclick/
+Sitemap: http://www.coi.rzeszow.pl/sitemap.xml

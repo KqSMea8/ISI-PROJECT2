@@ -1,0 +1,1840 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Transparense.eu :: Velkommen til Transparense prosjektet</title>
+<meta name="GENERATOR" content="Quanta Plus">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<meta name="author" content="SEVEn, The Energy Efficiency Center, Czech Republic"/>
+<link href="/img/favicon.ico" rel="shortcut icon"/>
+
+
+<link rel="stylesheet" type="text/css" href="/css/display.css">
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print"/>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+<!-- JQPLOT -->
+<script type="text/javascript" src="/js/jqPlot/jquery.jqplot.min.js"></script>
+<script type="text/javascript" src="/js/jqPlot/plugins/jqplot.pieRenderer.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/jqPlot/jquery.jqplot.min.css" />
+
+
+<style>
+#maps .currentCountry {
+position: absolute;
+z-index: 2;
+}
+
+#maps .countries {
+z-index: 2;
+display: none;
+position: absolute;
+}
+</style>
+
+<script type="text/javascript">
+
+function getCountryTitle(country) {
+countries = {
+"eu": ["&nbsp;"],
+"pt": ["Portugal"],
+"es": ["Spain"],
+"fr": ["France"],
+"nl": ["Netherlands"],
+"de": ["Germany"],
+"cz": ["Czech Republic"],
+"at": ["Austria"],
+"si": ["Slovenia"],
+"hr": ["Croatia"],
+"ro": ["Romania"],
+"mt": ["Malta"]
+}
+
+return countries[country];
+}
+
+function highlight(country) {
+
+// hiding others
+$('.glass').hide();
+
+// showing one
+var id = '#glass-' + country
+$(id).show();
+
+// disabling all
+$("#maps .countries").css('display', 'none');
+
+// enabling one
+var element = '#' + country
+$(element).css('display', 'block');
+
+// sessing glass imagemap href
+var href = '/' + country  +'/'
+$('#glassHref').attr('href', href);
+}
+
+function turnoff() {
+// hiding all
+$('.glass').hide();
+
+// disabling all
+$("#maps .countries").css('display', 'none');
+}
+
+$(document).ready(function () {
+$("#maps .countries").css('display', 'none');
+});
+
+</script>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-34745419-5', 'transparense.eu');
+ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+
+<div id="container">
+
+<div id="container-horizontal">
+<div id="container-in">
+<div id="content">
+
+<div id="top" style="height: 325px;">
+
+<div style=" float: left;">
+<a href="/">
+<img src="/img/system/logo.png" border="0">
+</a>
+</div>
+
+<map name="europe">
+<area onmouseout="turnoff()" onmouseover="highlight('it')" shape="poly" href="/it/" coords="217,291,246,305,247,288" />
+<area onmouseout="turnoff()" onmouseover="highlight('it')" shape="poly" href="/it/" coords="180,258,183,280,192,278,194,262,190,252" />
+<area onmouseout="turnoff()" onmouseover="highlight('es')" shape="poly" href="/es/" coords="128,269,133,266,136,269,134,273" />
+<area onmouseout="turnoff()" onmouseover="highlight('gr')" shape="poly" href="/gr/" coords="328,309,334,307,352,306,347,311,333,311" />
+<area onmouseout="turnoff()" onmouseover="highlight('gr')" shape="poly" href="/gr/" coords="289,265,295,270,300,272,295,275,299,278,308,295,316,299,322,297,315,285,324,287,319,279,331,279,334,277,326,271,319,269,311,257,310,250,321,253,322,247,332,244,339,242,341,236,330,237,323,236,307,242,296,248" />
+<area onmouseout="turnoff()" onmouseover="highlight('bg')" shape="poly" href="/bg/"shape="poly" coords="301,208,298,216,306,219,302,225,305,233,311,234,309,242,323,236,329,238,341,236,336,228,347,224,350,226,351,223,346,218,350,210,353,205,340,201,326,209,313,210" />
+<area onmouseout="turnoff()" onmouseover="highlight('it')" shape="poly" href="/it/"shape="poly" coords="170,199,175,205,169,207,171,211,170,217,174,218,174,222,187,216,197,220,201,233,219,250,231,254,233,257,239,257,241,264,247,265,254,279,250,290,254,290,263,277,256,266,258,260,264,260,271,266,274,264,274,258,248,249,250,242,240,243,228,235,227,226,215,216,214,202,224,199,224,192,213,184,200,186,196,192,190,191,186,199,183,193,180,197" />
+<area onmouseout="turnoff()" onmouseover="highlight('si')" shape="poly" href="/si/"shape="poly" coords="223,191,225,199,228,203,235,200,240,202,247,184,231,192" />
+<area onmouseout="turnoff()" onmouseover="highlight('hu')" shape="poly" href="/hu/"shape="poly" coords="249,188,260,195,277,189,286,187,291,168,295,167,288,160,278,161,272,168,265,168,262,173,251,171" />
+<area onmouseout="turnoff()" onmouseover="highlight('at')" shape="poly" href="/at/"shape="poly" coords="194,179,193,184,202,186,214,184,216,189,234,191,247,185,252,173,250,165,235,159,230,166,225,164,215,169,218,175,199,180" />
+<area onmouseout="turnoff()" onmouseover="highlight('sk')" shape="poly" href="/sk/"shape="poly" coords="250,172,260,172,263,168,273,167,276,161,287,161,291,151,272,153,262,152,254,162,249,163" />
+<area onmouseout="turnoff()" onmouseover="highlight('cz')" shape="poly" href="/cz/"shape="poly" coords="228,165,233,166,237,159,250,162,257,159,260,151,259,147,251,145,246,148,242,143,242,141,233,139,207,146" />
+<area onmouseout="turnoff()" onmouseover="highlight('lv')" shape="poly" href="/lv/"shape="poly" coords="271,54,264,69,268,75,273,68,293,66,302,69,309,69,310,64,306,49,282,47,285,55,283,59" />
+<area onmouseout="turnoff()" onmouseover="highlight('lt')" shape="poly" href="/lt/"shape="poly" coords="267,74,270,82,282,84,280,92,287,94,303,88,300,80,307,75,304,70,293,66,270,69" />
+<area onmouseout="turnoff()" onmouseover="highlight('pl')" shape="poly" href="/pl/"shape="poly" coords="226,103,238,98,237,96,250,90,255,94,283,92,293,104,289,114,293,117,297,132,292,151,272,154,267,151,261,152,259,147,234,138" />
+<area onmouseout="turnoff()" onmouseover="highlight('de')" shape="poly" href="/de/"shape="poly" coords="169,157,180,162,177,178,194,178,199,181,218,177,217,170,225,165,210,147,231,138,225,106,218,96,205,106,200,101,195,97,186,94,191,107,183,111,181,107,176,108,176,125,168,131,168,138,168,147" />
+<area onmouseout="turnoff()" onmouseover="highlight('be')" shape="poly" href="/be/"shape="poly" coords="140,136,161,153,166,155,165,150,169,148,166,137,154,130" />
+<area onmouseout="turnoff()" onmouseover="highlight('nl')" shape="poly" href="/nl/"shape="poly" coords="148,134,156,132,166,136,168,129,175,127,175,120,176,110,167,109,164,116,160,114,153,129" />
+<area onmouseout="turnoff()" onmouseover="highlight('dk')" shape="poly" href="/dk/"shape="poly" coords="196,62,184,70,184,92,195,95,201,89,210,92,213,82,209,80,195,85,200,75" />
+<area onmouseout="turnoff()" onmouseover="highlight('se')" shape="poly" href="/se/"shape="poly" coords="203,48,214,76,213,81,214,84,223,86,227,77,234,75,238,75,237,48,249,34,235,22,237,0,207,1,205,9,212,18,207,22,209,32" />
+<area onmouseout="turnoff()" onmouseover="highlight('no')" shape="poly" href="/no/"shape="poly" coords="181,55,200,40,205,46,210,32,208,21,212,18,206,12,207,1,185,0,169,11,168,31,176,30,166,40,167,47" />
+<area onmouseout="turnoff()" onmouseover="highlight('uk')" shape="poly" href="/uk/"shape="poly" coords="80,137,97,126,92,120,88,122,87,117,94,115,95,100,107,105,107,95,103,87,95,84,90,90,84,91,81,86,78,88,75,85,84,77,89,77,90,84,96,83,97,73,93,73,95,55,105,41,118,43,108,55,119,54,122,58,111,73,116,73,122,90,128,95,128,112,137,115,140,121,129,130,134,133,124,138,113,133,106,136,100,134,95,137" />
+<area onmouseout="turnoff()" onmouseover="highlight('es')" shape="poly" href="/es/"shape="poly" coords="31,283,45,298,62,294,78,297,106,279,101,267,114,253,136,244,135,235,125,236,117,229,107,230,96,222,47,206,34,209,34,221,52,230,54,236,46,239,44,254,36,253,41,263,36,265,40,271" />
+<area onmouseout="turnoff()" onmouseover="highlight('pt')" shape="poly" href="/pt/"shape="poly" coords="32,281,33,276,39,272,36,265,40,262,38,252,42,253,47,237,54,234,51,229,47,227,43,228,40,226,40,224,35,223,24,249,18,258,22,264,17,280" />
+</map>
+
+<map name="glass">
+<area id="glassHref" shape="circle" alt="country" onmouseout="turnoff()" href="#" coords="55,46,33" />
+</map>
+
+<div style="position: absolute; top: 0; right: 0; width: 354px; height: 315px;" id="maps">
+<img src="/img/maps/base.png" style="position: absolute; z-index: 1;" usemap="#europe">
+<img src="/img/maps/robots.txt.png" class="currentCountry" usemap="#europe">
+<img src="/img/maps/es.png" usemap="#europe" class="countries" id="es">
+<img src="/img/maps/pt.png" usemap="#europe" class="countries" id="pt">
+<img src="/img/maps/cz.png" class="countries" id="cz" usemap="#europe">
+<img src="/img/maps/fr.png" class="countries" id="fr" usemap="#europe">
+<img src="/img/maps/hr.png" class="countries" id="hr" usemap="#europe">
+<img src="/img/maps/at.png" class="countries" id="at" usemap="#europe">
+<img src="/img/maps/ro.png" class="countries" id="ro" usemap="#europe">
+<img src="/img/maps/si.png" class="countries" id="si" usemap="#europe">
+<img src="/img/maps/de.png" class="countries" id="de" usemap="#europe">
+<img src="/img/maps/fr.png" class="countries" id="fr" usemap="#europe">
+<img src="/img/maps/nl.png" class="countries" id="nl" usemap="#europe">
+<img src="/img/maps/uk.png" class="countries" id="uk" usemap="#europe">
+<img src="/img/maps/fr.png" class="countries" id="fr" usemap="#europe">
+<img src="/img/maps/lv.png" class="countries" id="lv" usemap="#europe">
+<img src="/img/maps/lt.png" class="countries" id="lt" usemap="#europe">
+<img src="/img/maps/pl.png" class="countries" id="pl" usemap="#europe">
+<img src="/img/maps/hu.png" class="countries" id="hu" usemap="#europe">
+<img src="/img/maps/gr.png" class="countries" id="gr" usemap="#europe">
+<img src="/img/maps/it.png" class="countries" id="it" usemap="#europe">
+<img src="/img/maps/bg.png" class="countries" id="bg" usemap="#europe">
+<img src="/img/maps/no.png" class="countries" id="no" usemap="#europe">
+<img src="/img/maps/dk.png" class="countries" id="dk" usemap="#europe">
+<img src="/img/maps/se.png" class="countries" id="se" usemap="#europe">
+<img src="/img/maps/be.png" class="countries" id="be" usemap="#europe">
+<img src="/img/maps/sk.png" class="countries" id="sk" usemap="#europe">
+
+</div>
+
+<!-- end #top -->
+
+</div>
+<div id="header_bottom">
+
+<div style="float: left; width: 204px">
+<form action="/search/" method="get">
+<input name="q" style="width: 154px; height: 37px; padding: 0 10px 0 40px; margin: 0; border: 0; background-image: url('/img/system/search.png');">
+</form>
+</div>
+
+<div id="languages">
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/eu/" onMouseOver="highlight('eu')">
+<img src="/img/flags/eu.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-eu" class="glass">
+<img src="/img/glass/eu.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/at/" onMouseOver="highlight('at')">
+<img src="/img/flags/at.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-at" class="glass">
+<img src="/img/glass/at.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/bg/" onMouseOver="highlight('bg')">
+<img src="/img/flags/bg.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-bg" class="glass">
+<img src="/img/glass/bg.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/be/" onMouseOver="highlight('be')">
+<img src="/img/flags/be.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-be" class="glass">
+<img src="/img/glass/be.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/cz/" onMouseOver="highlight('cz')">
+<img src="/img/flags/cz.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-cz" class="glass">
+<img src="/img/glass/cz.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/dk/" onMouseOver="highlight('dk')">
+<img src="/img/flags/dk.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-dk" class="glass">
+<img src="/img/glass/dk.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/de/" onMouseOver="highlight('de')">
+<img src="/img/flags/de.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-de" class="glass">
+<img src="/img/glass/de.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/gr/" onMouseOver="highlight('gr')">
+<img src="/img/flags/gr.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-gr" class="glass">
+<img src="/img/glass/gr.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/hu/" onMouseOver="highlight('hu')">
+<img src="/img/flags/hu.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-hu" class="glass">
+<img src="/img/glass/hu.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/it/" onMouseOver="highlight('it')">
+<img src="/img/flags/it.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-it" class="glass">
+<img src="/img/glass/it.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/lv/" onMouseOver="highlight('lv')">
+<img src="/img/flags/lv.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-lv" class="glass">
+<img src="/img/glass/lv.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/lt/" onMouseOver="highlight('lt')">
+<img src="/img/flags/lt.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-lt" class="glass">
+<img src="/img/glass/lt.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/nl/" onMouseOver="highlight('nl')">
+<img src="/img/flags/nl.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-nl" class="glass">
+<img src="/img/glass/nl.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/no/" onMouseOver="highlight('no')">
+<img src="/img/flags/no.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-no" class="glass">
+<img src="/img/glass/no.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/pl/" onMouseOver="highlight('pl')">
+<img src="/img/flags/pl.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-pl" class="glass">
+<img src="/img/glass/pl.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/pt/" onMouseOver="highlight('pt')">
+<img src="/img/flags/pt.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-pt" class="glass">
+<img src="/img/glass/pt.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/sk/" onMouseOver="highlight('sk')">
+<img src="/img/flags/sk.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-sk" class="glass">
+<img src="/img/glass/sk.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/si/" onMouseOver="highlight('si')">
+<img src="/img/flags/si.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-si" class="glass">
+<img src="/img/glass/si.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/es/" onMouseOver="highlight('es')">
+<img src="/img/flags/es.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-es" class="glass">
+<img src="/img/glass/es.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/se/" onMouseOver="highlight('se')">
+<img src="/img/flags/se.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-se" class="glass">
+<img src="/img/glass/se.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+<div style="float: left; padding-top: 5px; padding-right: 4px;">
+<a href="/uk/" onMouseOver="highlight('uk')">
+<img src="/img/flags/uk.png" border="0" title="">
+</a>
+<div style="display: none; position: absolute; margin: -60px 0 0 -35px;" id="glass-uk" class="glass">
+<img src="/img/glass/uk.png" border="0" title="" usemap="#glass">
+</div>
+</div>
+</div>
+
+</div>
+<div style="height: 36px"></div>
+
+<div id="left-menu">
+
+<ul>
+<li  class="active">
+<div onClick="document.location='/robots.txt/hjem/'" class="label">
+<a href="/robots.txt/hjem/">Hjem</a>
+</div>
+
+<ul class="leftMenu2nd">
+<li class="active ">
+<a href="/robots.txt/hjem/velkommen-til-transparense-prosjektet">Velkommen til Transparense prosjektet</a>
+</li>
+<li class=" ">
+<a href="/robots.txt/hjem/prosjektpartnere">Prosjektpartnere</a>
+</li>
+<li class=" ">
+<a href="/robots.txt/hjem/europeisk-styringsgruppe">Europeisk styringsgruppe</a>
+</li>
+<li class=" last">
+<a href="/robots.txt/hjem/nasjonal-styringsgruppe">Nasjonal styringsgruppe</a>
+</li>
+</ul>
+</li>
+<li >
+<div onClick="document.location='/robots.txt/news/'" class="label">
+<a href="/robots.txt/news/">Strona glowna</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/eu/'" class="label">
+<a href="/robots.txt/eu/">EU</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/home/'" class="label">
+<a href="/robots.txt/home/">Home</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/domov/'" class="label">
+<a href="/robots.txt/domov/">Domov</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pagina-principal/'" class="label">
+<a href="/robots.txt/pagina-principal/">Pagina principal</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-home/'" class="label">
+<a href="/robots.txt/uk-home/">Home</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/startsida/'" class="label">
+<a href="/robots.txt/startsida/">Startsida</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nachalo/'" class="label">
+<a href="/robots.txt/nachalo/">Nachalo</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/si-domov/'" class="label">
+<a href="/robots.txt/si-domov/">Domov</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pt-home/'" class="label">
+<a href="/robots.txt/pt-home/">Home</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/chik-selda/'" class="label">
+<a href="/robots.txt/chik-selda/">Arkhike Selida</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nl-home/'" class="label">
+<a href="/robots.txt/nl-home/">Home</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/it-home/'" class="label">
+<a href="/robots.txt/it-home/">Home</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-startseite/'" class="label">
+<a href="/robots.txt/de-startseite/">Startseite</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/paoyiei-presentations/'" class="label">
+<a href="/robots.txt/paoyiei-presentations/">Parousiaseis (Presentations)</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/paoyiaei/'" class="label">
+<a href="/robots.txt/paoyiaei/">Parousiaseis</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-home/'" class="label">
+<a href="/robots.txt/be-home/">Home</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/startseite/'" class="label">
+<a href="/robots.txt/startseite/">Startseite</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/startside/'" class="label">
+<a href="/robots.txt/startside/">Startside</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/domu/'" class="label">
+<a href="/robots.txt/domu/">Domu</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/foldal/'" class="label">
+<a href="/robots.txt/foldal/">Fooldal</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/skums/'" class="label">
+<a href="/robots.txt/skums/">Sakums</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pradzia/'" class="label">
+<a href="/robots.txt/pradzia/">Pradzia</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nieuws/'" class="label">
+<a href="/robots.txt/nieuws/">Nieuws</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nyheter/'" class="label">
+<a href="/robots.txt/nyheter/">Nyheter</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/aktualnoci/'" class="label">
+<a href="/robots.txt/aktualnoci/">Aktualnosci</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/news-eu/'" class="label">
+<a href="/robots.txt/news-eu/">News</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/noticias/'" class="label">
+<a href="/robots.txt/noticias/">Noticias</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/novice/'" class="label">
+<a href="/robots.txt/novice/">Novice</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-news/'" class="label">
+<a href="/robots.txt/uk-news/">News</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/se-nyheter/'" class="label">
+<a href="/robots.txt/se-nyheter/">Nyheter</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/novini/'" class="label">
+<a href="/robots.txt/novini/">Novini</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/es-noticias/'" class="label">
+<a href="/robots.txt/es-noticias/">Noticias</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/sk-novinky/'" class="label">
+<a href="/robots.txt/sk-novinky/">Novinky</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nakoinei/'" class="label">
+<a href="/robots.txt/nakoinei/">Anakoinoseis</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-nachrichten/'" class="label">
+<a href="/robots.txt/de-nachrichten/">Nachrichten</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-news/'" class="label">
+<a href="/robots.txt/be-news/">News</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/at/'" class="label">
+<a href="/robots.txt/at/">Austria</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nachrichten/'" class="label">
+<a href="/robots.txt/nachrichten/">Nachrichten</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nyheder/'" class="label">
+<a href="/robots.txt/nyheder/">Nyheder</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/novinky/'" class="label">
+<a href="/robots.txt/novinky/">Novinky</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/hirek/'" class="label">
+<a href="/robots.txt/hirek/">Hirek</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/notizie/'" class="label">
+<a href="/robots.txt/notizie/">Notizie</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/jaunumi/'" class="label">
+<a href="/robots.txt/jaunumi/">Jaunumi</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/naujienos/'" class="label">
+<a href="/robots.txt/naujienos/">Naujienos</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-duomen-baz/'" class="label">
+<a href="/robots.txt/epc-duomen-baz/">EPC duomenu baze</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-vragen-en-antwoorden/'" class="label">
+<a href="/robots.txt/epc-vragen-en-antwoorden/">EPC Vragen en antwoorden</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/ofte-stilte-sprsml-om-epc/'" class="label">
+<a href="/robots.txt/ofte-stilte-sprsml-om-epc/">Ofte stilte sporsmal om EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-pytania-i-odpowiedzi/'" class="label">
+<a href="/robots.txt/epc-pytania-i-odpowiedzi/">EPC - pytania i odpowiedzi</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/cdes-perguntas-e-respostas/'" class="label">
+<a href="/robots.txt/cdes-perguntas-e-respostas/">CDEs - Perguntas e respostas</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-qa/'" class="label">
+<a href="/robots.txt/epc-qa/">EPC Q&A</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/otazky-a-odpovede-o-epc/'" class="label">
+<a href="/robots.txt/otazky-a-odpovede-o-epc/">Otazky a odpovede o EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/energetsko-pogodbenistvo-vprasanja-in-odgovori/'" class="label">
+<a href="/robots.txt/energetsko-pogodbenistvo-vprasanja-in-odgovori/">Energetsko pogodbenistvo - vprasanja in odgovori</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/preguntas-y-respuestas-sobre-epc/'" class="label">
+<a href="/robots.txt/preguntas-y-respuestas-sobre-epc/">Preguntas y Respuestas sobre EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-epc-qa/'" class="label">
+<a href="/robots.txt/uk-epc-qa/">EPC Q&A</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-fragor-svar/'" class="label">
+<a href="/robots.txt/epc-fragor-svar/">Fragor & svar</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/vprosi-i-otgovori-za-dgr/'" class="label">
+<a href="/robots.txt/vprosi-i-otgovori-za-dgr/">V'prosi i otgovori za DGR</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/se-epc-eotei-kai-pantei/'" class="label">
+<a href="/robots.txt/se-epc-eotei-kai-pantei/">SEA (EPC) - Eroteseis kai Apanteseis</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-epc-fragen-und-antworten/'" class="label">
+<a href="/robots.txt/de-epc-fragen-und-antworten/">ESC - Fragen und Antworten</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-epc-qa/'" class="label">
+<a href="/robots.txt/be-epc-qa/">EPC Q&A</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-fragen-und-antworten/'" class="label">
+<a href="/robots.txt/epc-fragen-und-antworten/">EPC - Fragen und Antworten</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-sprgsml-og-svar/'" class="label">
+<a href="/robots.txt/epc-sprgsml-og-svar/">EPC - Sporgsmal og Svar</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/bg/'" class="label">
+<a href="/robots.txt/bg/">Bulgaria</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/otazky-a-odpovedi-o-epc/'" class="label">
+<a href="/robots.txt/otazky-a-odpovedi-o-epc/">O EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-kerdesek-es-valaszok/'" class="label">
+<a href="/robots.txt/epc-kerdesek-es-valaszok/">EPC - Kerdesek es valaszok</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-domande-risposte/'" class="label">
+<a href="/robots.txt/epc-domande-risposte/">EPC Domande & Risposte</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-jautjumi-un-atbildes/'" class="label">
+<a href="/robots.txt/epc-jautjumi-un-atbildes/">EPC jautajumi un atbildes</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-klausimai-ir-atsakymai/'" class="label">
+<a href="/robots.txt/epc-klausimai-ir-atsakymai/">EPC klausimai ir atsakymai</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-databaser/'" class="label">
+<a href="/robots.txt/epc-databaser/">EPC marked</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/baza-danych-kontraktow-z-gwarancj-oszczdnoci/'" class="label">
+<a href="/robots.txt/baza-danych-kontraktow-z-gwarancj-oszczdnoci/">Baza danych kontraktow z gwarancja oszczednosci</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/base-de-dados-cde/'" class="label">
+<a href="/robots.txt/base-de-dados-cde/">Base de dados CDE</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-databases/'" class="label">
+<a href="/robots.txt/epc-databases/">EPC market databases &nbsp;&nbsp;<span style="color:#ec7e00">NEW</span></a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/trg-energetskega-pogodbenistva/'" class="label">
+<a href="/robots.txt/trg-energetskega-pogodbenistva/">Trg energetskega pogodbenistva</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/mercado-de-epcs/'" class="label">
+<a href="/robots.txt/mercado-de-epcs/">Mercado de EPCs</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-epc-databases/'" class="label">
+<a href="/robots.txt/uk-epc-databases/">EPC market</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/se-epc-marknad/'" class="label">
+<a href="/robots.txt/se-epc-marknad/">Marknad</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pazar-na-dgr/'" class="label">
+<a href="/robots.txt/pazar-na-dgr/">Pazar na DGR</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/se-epc-ei-dedomnon/'" class="label">
+<a href="/robots.txt/se-epc-ei-dedomnon/">SEA (EPC) Baseis Dedomenon</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-markt/'" class="label">
+<a href="/robots.txt/epc-markt/">EPC markt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/it-epc-database/'" class="label">
+<a href="/robots.txt/it-epc-database/">EPC database</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-epc-markt/'" class="label">
+<a href="/robots.txt/de-epc-markt/">ESC-Markt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/trh-epc/'" class="label">
+<a href="/robots.txt/trh-epc/">Trh EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be/'" class="label">
+<a href="/robots.txt/be/">Belgium</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-market1/'" class="label">
+<a href="/robots.txt/epc-market1/">EPC market</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-market/'" class="label">
+<a href="/robots.txt/epc-market/">EPC Markt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-database/'" class="label">
+<a href="/robots.txt/epc-database/">EPC Markedet</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/databaze-epc/'" class="label">
+<a href="/robots.txt/databaze-epc/">Trh EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-piac/'" class="label">
+<a href="/robots.txt/epc-piac/">EPC piac</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-tirgus/'" class="label">
+<a href="/robots.txt/epc-tirgus/">EPC tirgus</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/garbs-kodeksai/'" class="label">
+<a href="/robots.txt/garbs-kodeksai/">Elgesio kodeksas</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/trainingen/'" class="label">
+<a href="/robots.txt/trainingen/">Trainingen</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/opplring/'" class="label">
+<a href="/robots.txt/opplring/">Opplaering</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/szkolenia/'" class="label">
+<a href="/robots.txt/szkolenia/">Szkolenia</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/formacao/'" class="label">
+<a href="/robots.txt/formacao/">Formacao</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/trainings/'" class="label">
+<a href="/robots.txt/trainings/">Trainings</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/solanja/'" class="label">
+<a href="/robots.txt/solanja/">Solanja</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/formacion/'" class="label">
+<a href="/robots.txt/formacion/">Formacion</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-trainings/'" class="label">
+<a href="/robots.txt/uk-trainings/">Trainings</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/utbildning/'" class="label">
+<a href="/robots.txt/utbildning/">Utbildning</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/obucheniya/'" class="label">
+<a href="/robots.txt/obucheniya/">Obucheniia</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/ekpadeye/'" class="label">
+<a href="/robots.txt/ekpadeye/">Ekpaideuse</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/at-trainings/'" class="label">
+<a href="/robots.txt/at-trainings/">Trainings</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-trainings/'" class="label">
+<a href="/robots.txt/be-trainings/">Trainings</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/trning/'" class="label">
+<a href="/robots.txt/trning/">Traening</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/cz/'" class="label">
+<a href="/robots.txt/cz/">Czech Republic</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/vzdelavani/'" class="label">
+<a href="/robots.txt/vzdelavani/">Vzdelavani</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kepzesek/'" class="label">
+<a href="/robots.txt/kepzesek/">Muhelymunka</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/formazione/'" class="label">
+<a href="/robots.txt/formazione/">Formazione</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/apmcbas/'" class="label">
+<a href="/robots.txt/apmcbas/">Apmacibas</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/mokymai/'" class="label">
+<a href="/robots.txt/mokymai/">Mokymai</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/gedragscode/'" class="label">
+<a href="/robots.txt/gedragscode/">Gedragscode</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/code-of-conduct/'" class="label">
+<a href="/robots.txt/code-of-conduct/">Code of Conduct</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kodeksy-postpowania/'" class="label">
+<a href="/robots.txt/kodeksy-postpowania/">Kodeksy postepowania</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/codigos-de-boas-praticas/'" class="label">
+<a href="/robots.txt/codigos-de-boas-praticas/">Codigos de Boas Praticas</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/treningy/'" class="label">
+<a href="/robots.txt/treningy/">Treningy</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kodeks-ravnanja/'" class="label">
+<a href="/robots.txt/kodeks-ravnanja/">Kodeks ravnanja</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/codigo-de-conducta/'" class="label">
+<a href="/robots.txt/codigo-de-conducta/">Codigo de Conducta</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-codes-of-conduct/'" class="label">
+<a href="/robots.txt/uk-codes-of-conduct/">Code of conduct</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uppforandekod/'" class="label">
+<a href="/robots.txt/uppforandekod/">Uppforandekod</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/profesionalen-kodeks/'" class="label">
+<a href="/robots.txt/profesionalen-kodeks/">Profesionalen kodeks</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kdike-deontologa/'" class="label">
+<a href="/robots.txt/kdike-deontologa/">Kodikas Deontologias</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-verhaltenskodex/'" class="label">
+<a href="/robots.txt/de-verhaltenskodex/">Verhaltenskodex</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/dk-codes-of-conduct/'" class="label">
+<a href="/robots.txt/dk-codes-of-conduct/">Code of Conduct</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-code-of-conduct/'" class="label">
+<a href="/robots.txt/be-code-of-conduct/">Code of conduct</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-code-of-conduct/'" class="label">
+<a href="/robots.txt/epc-code-of-conduct/">EPC Code of conduct</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/verhaltenskodex/'" class="label">
+<a href="/robots.txt/verhaltenskodex/">Verhaltenskodex</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/dk/'" class="label">
+<a href="/robots.txt/dk/">Denmark</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/eticky-kodex/'" class="label">
+<a href="/robots.txt/eticky-kodex/">Eticky kodex</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/etikai-kodex/'" class="label">
+<a href="/robots.txt/etikai-kodex/">Etikai kodex</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/codice-di-condotta-epc/'" class="label">
+<a href="/robots.txt/codice-di-condotta-epc/">Codice di Condotta EPC</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epc-kodekss/'" class="label">
+<a href="/robots.txt/epc-kodekss/">EPC Kodekss</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotiniai-projektai/'" class="label">
+<a href="/robots.txt/pilotiniai-projektai/">Pilotiniai projektai</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilot-projecten/'" class="label">
+<a href="/robots.txt/pilot-projecten/">Pilot projecten</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotprosjekter/'" class="label">
+<a href="/robots.txt/pilotprosjekter/">Pilotprosjekter</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/projekty-pilotaowe/'" class="label">
+<a href="/robots.txt/projekty-pilotaowe/">Projekty pilotazowe</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/projectos-piloto/'" class="label">
+<a href="/robots.txt/projectos-piloto/">Projectos piloto</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/eticke-kodexy/'" class="label">
+<a href="/robots.txt/eticke-kodexy/">Eticky kodex</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotni-projekti/'" class="label">
+<a href="/robots.txt/pilotni-projekti/">Pilotni projekt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/proyectos-piloto/'" class="label">
+<a href="/robots.txt/proyectos-piloto/">Proyectos Piloto</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-pilot-projects/'" class="label">
+<a href="/robots.txt/uk-pilot-projects/">Pilot projects</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotprojekt/'" class="label">
+<a href="/robots.txt/pilotprojekt/">Pilotprojekt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotni-proekti/'" class="label">
+<a href="/robots.txt/pilotni-proekti/">Pilotni proekti</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotik-ga/'" class="label">
+<a href="/robots.txt/pilotik-ga/">Pilotika Erga</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilot-projects/'" class="label">
+<a href="/robots.txt/pilot-projects/">Pilot projects</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-pilot-projects/'" class="label">
+<a href="/robots.txt/be-pilot-projects/">Pilot projects</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotprojekter/'" class="label">
+<a href="/robots.txt/pilotprojekter/">Pilotprojekter</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de/'" class="label">
+<a href="/robots.txt/de/">Germany</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotni-projekty/'" class="label">
+<a href="/robots.txt/pilotni-projekty/">Pilotni projekty</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kiserleti-projektek/'" class="label">
+<a href="/robots.txt/kiserleti-projektek/">Kiserleti projektek</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/progetti-pilota/'" class="label">
+<a href="/robots.txt/progetti-pilota/">Progetti Pilota</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotprojekti/'" class="label">
+<a href="/robots.txt/pilotprojekti/">Pilotprojekti</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikacijos/'" class="label">
+<a href="/robots.txt/publikacijos/">Publikacijos</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publicaties/'" class="label">
+<a href="/robots.txt/publicaties/">Publicaties</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikasjoner/'" class="label">
+<a href="/robots.txt/publikasjoner/">Publikasjoner</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publicacoes/'" class="label">
+<a href="/robots.txt/publicacoes/">Publicacoes</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pilotne-projekty/'" class="label">
+<a href="/robots.txt/pilotne-projekty/">Pilotne projekty</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikacije/'" class="label">
+<a href="/robots.txt/publikacije/">Publikacije</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publicaciones/'" class="label">
+<a href="/robots.txt/publicaciones/">Publicaciones</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-publications/'" class="label">
+<a href="/robots.txt/uk-publications/">Publications</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/se-publikationer/'" class="label">
+<a href="/robots.txt/se-publikationer/">Publikationer</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikatsii/'" class="label">
+<a href="/robots.txt/publikatsii/">Publikatsii</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pl-kontakt/'" class="label">
+<a href="/robots.txt/pl-kontakt/">Kontakt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/demoieei/'" class="label">
+<a href="/robots.txt/demoieei/">Demosieuseis -Parousiaseis</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-veroffentlichungen/'" class="label">
+<a href="/robots.txt/de-veroffentlichungen/">Veroffentlichungen</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publications/'" class="label">
+<a href="/robots.txt/publications/">Publications</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-publications/'" class="label">
+<a href="/robots.txt/be-publications/">Publications</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/veroffentlichungen/'" class="label">
+<a href="/robots.txt/veroffentlichungen/">Veroffentlichungen</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikationer/'" class="label">
+<a href="/robots.txt/publikationer/">Publikationer</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/gr/'" class="label">
+<a href="/robots.txt/gr/">Greece</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikace/'" class="label">
+<a href="/robots.txt/publikace/">Publikace</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikaciok/'" class="label">
+<a href="/robots.txt/publikaciok/">Publikaciok</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pubblicazioni/'" class="label">
+<a href="/robots.txt/pubblicazioni/">Pubblicazioni</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikcijas/'" class="label">
+<a href="/robots.txt/publikcijas/">Publikacijas</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nuorodos/'" class="label">
+<a href="/robots.txt/nuorodos/">Nuorodos</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/linker/'" class="label">
+<a href="/robots.txt/linker/">Linker</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/linki/'" class="label">
+<a href="/robots.txt/linki/">Linki</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikacie/'" class="label">
+<a href="/robots.txt/publikacie/">Publikacie</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/povezave/'" class="label">
+<a href="/robots.txt/povezave/">Povezave</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-links/'" class="label">
+<a href="/robots.txt/uk-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/es-links/'" class="label">
+<a href="/robots.txt/es-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/vrzki/'" class="label">
+<a href="/robots.txt/vrzki/">Vr'zki</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pt-links/'" class="label">
+<a href="/robots.txt/pt-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nl-links/'" class="label">
+<a href="/robots.txt/nl-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/it-links/'" class="label">
+<a href="/robots.txt/it-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-links/'" class="label">
+<a href="/robots.txt/de-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/dk-links/'" class="label">
+<a href="/robots.txt/dk-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/at-links/'" class="label">
+<a href="/robots.txt/at-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/links/'" class="label">
+<a href="/robots.txt/links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-links/'" class="label">
+<a href="/robots.txt/be-links/">Links</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/odkazy/'" class="label">
+<a href="/robots.txt/odkazy/">Odkazy</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/hu/'" class="label">
+<a href="/robots.txt/hu/">Hungary</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/linkek/'" class="label">
+<a href="/robots.txt/linkek/">Linkek</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/saites/'" class="label">
+<a href="/robots.txt/saites/">Saites</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kontaktai/'" class="label">
+<a href="/robots.txt/kontaktai/">Kontaktai</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/contacten/'" class="label">
+<a href="/robots.txt/contacten/">Contacten</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/publikacje/'" class="label">
+<a href="/robots.txt/publikacje/">Publikacje</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/contactos/'" class="label">
+<a href="/robots.txt/contactos/">Contactos</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk-contacts/'" class="label">
+<a href="/robots.txt/uk-contacts/">Contacts</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/Kontakter/'" class="label">
+<a href="/robots.txt/Kontakter/">Kontakt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/es-contactos/'" class="label">
+<a href="/robots.txt/es-contactos/">Contactos</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/si-kontakt/'" class="label">
+<a href="/robots.txt/si-kontakt/">Kontakt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/sk-odkazy/'" class="label">
+<a href="/robots.txt/sk-odkazy/">Odkazy</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/bg-kontakti/'" class="label">
+<a href="/robots.txt/bg-kontakti/">Kontakti</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/no-kontakt/'" class="label">
+<a href="/robots.txt/no-kontakt/">Kontakt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/sndemoi/'" class="label">
+<a href="/robots.txt/sndemoi/">Sundesmoi</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/de-kontakte/'" class="label">
+<a href="/robots.txt/de-kontakte/">Kontakte</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/contacts/'" class="label">
+<a href="/robots.txt/contacts/">Contacts</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/be-contacts/'" class="label">
+<a href="/robots.txt/be-contacts/">Contact</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kontakte/'" class="label">
+<a href="/robots.txt/kontakte/">Kontakte</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kontakt/'" class="label">
+<a href="/robots.txt/kontakt/">Kontakt</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kontakty/'" class="label">
+<a href="/robots.txt/kontakty/">Kontakty</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kapcsolat/'" class="label">
+<a href="/robots.txt/kapcsolat/">Kapcsolat</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/it/'" class="label">
+<a href="/robots.txt/it/">Italy</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/contatti/'" class="label">
+<a href="/robots.txt/contatti/">Contatti</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/kontakti/'" class="label">
+<a href="/robots.txt/kontakti/">Kontakti</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/sk-kontakty/'" class="label">
+<a href="/robots.txt/sk-kontakty/">Kontakty</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/epaph/'" class="label">
+<a href="/robots.txt/epaph/">Epaphes</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/lv/'" class="label">
+<a href="/robots.txt/lv/">Latvia</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/f-gr/'" class="label">
+<a href="/robots.txt/f-gr/">footer</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/lt/'" class="label">
+<a href="/robots.txt/lt/">Lithuania</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/nl/'" class="label">
+<a href="/robots.txt/nl/">Netherlands</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/no/'" class="label">
+<a href="/robots.txt/no/">Norway</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pl/'" class="label">
+<a href="/robots.txt/pl/">Poland</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/pt/'" class="label">
+<a href="/robots.txt/pt/">Portugal</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/sk/'" class="label">
+<a href="/robots.txt/sk/">Slovakia</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/si/'" class="label">
+<a href="/robots.txt/si/">Slovenia</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/es/'" class="label">
+<a href="/robots.txt/es/">Spain</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/se/'" class="label">
+<a href="/robots.txt/se/">Sweden</a>
+</div>
+
+</li>
+<li >
+<div onClick="document.location='/robots.txt/uk/'" class="label">
+<a href="/robots.txt/uk/">United Kingdom</a>
+</div>
+
+</li>
+</ul>
+
+<div style="min-height: 80px;">
+
+</div>
+
+
+<!-- end #left-menu -->
+</div>
+<div id="news">
+<div id="news-title">
+
+</div>
+
+<!-- end #news -->
+
+</div>
+
+
+<div id="text">
+
+<h1>Velkommen til Transparense prosjektet</h1>
+
+<p style="text-align: justify;">Malet til Transparense prosjektet var a oke apenheten og tilliten til Energy Performance Contracting (EPC) markedet i Europa. Med sine 20 partnere som dekker bade modne og nye EPC markeder hadde prosjektet stort potensial for a utvikle og oke det europeiske EPC markedet og dermed oppna betydelig forbedring i effektiv energibruk.</p>
+<p style="text-align: justify;">Transparense forkuserte pa hovedtrekkene ved EPC prosjekter i hvert land. En av hovedresultatene var"Code of Conduct" (CoC) for gjennomforing av EPC prosjekter i deltagende land. Code of Conduct definerer grunnleggende prinsipper for EPC prosjekter, bade for utvikling og gjennomforing. A folge CoC  etyr en garanti for kvaliteten av gjennomforte EPC prosjekter. Dersom mange leverandorer av EPC slutter seg til Code of Conduct vil det oke tilliten hos mulige kunder. Code of Conducts  ble testet i spesifikke pilotprosjekter i alle deltagende land, noe som samtidig bidro til markedsforing av gode eksempler og prinsipper bade pa leverandor og kundesiden.</p>
+<p style="text-align: justify;">Gradvis okende ettersporsel etter EPC og nye leverandorer ventes a bli stottet videre av EUs direktiv for energitjenester fra offentlige institusjoner. Innenfor Transparense ble EPC leverandorer tilbudt opplaering og materiell av hoy kvalitet. Opplaering var en mate som prosjektet stottet overforing av erfaring fra mer utviklede EPC markeder til de med mindre erfaring. Slik overforing skjedde ogsa ved at det ble opprettet databaser som gir en oversikt over det europeiske EPC markedet gjennom spesifikk informasjon om EPC leverandorer, deres organisasjoner, EPC modeller og eksisterende initiativ som stotter EPC, som er tilgjengelig for offentligheten pa Transparense nettsiden.</p>
+<p style="text-align: justify;">Transparense prosjektet startet i april 2013 og ble ferdigstilt i september 2015. Prosjektet forte sammen 20 europeiske land; Tsjekkia, Storbritannia, Slovenia, Tyskland, Sverige, Belgia, Osterrike, Bulgaria, Italia, Litauen, Nederland, Polen, Portugal, Slovakia, Spania, Hellas, Ungarn, Latvia, Danmark og Norge. Prosjektet hadde et budsjett pa 2,1 millioner Euro og finansieres av Intelligent Energy Europe med delfinansiering fra prosjektpartnerne.</p>
+<p style="text-align: justify;"> </p>
+
+<!-- end #text -->
+</div>
+
+
+
+<!-- end div#content -->
+</div>
+
+<div id="footer">
+<a href="http://www.svn.cz" target="_blank">
+<img src="/img/system/footer_seven.png" style="float: left; margin-left: 100px;"/>
+</a>
+<a href="http://ec.europa.eu/energy/intelligent/" target="_blank">
+<img src="/img/system/footer_eu.png" style="float: left; margin-left: 125px;"/>
+</a>
+<a href="http://eesi2020.eu/" target="_blank">
+<img src="/img/system/footer_eeei2.png" style="float: left; margin-left: 120px;"/>
+</a>
+
+<div style="clear: both;"></div>
+</div>
+
+<!-- bottom divider -->
+<!--
+<div style="margin-top: 50px; clear: both;">
+<img src="/img/footer_divider.png"/>
+</div>
+-->
+<!-- -->
+<div id="foot-menu">
+</div>
+<!-- end foot-menu -->
+
+<!-- end div#container-in -->
+</div>
+<!-- end div#container-horizontal -->
+</div>
+<!-- end div#container -->
+</div>
+
+<!-- Javascirpt includes -->
+<script src="/js/layout.js"></script>
+
+</body>
+</html>

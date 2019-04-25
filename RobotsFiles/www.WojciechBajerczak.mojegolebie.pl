@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /App_Code
+Disallow: /App_Themes
+Disallow: /Bin
+Disallow: /FCKeditor
+Disallow: /NarzedziaAdm
+Disallow: /pliki
+Disallow: /*.axd$
+Disallow: /*.sitemap

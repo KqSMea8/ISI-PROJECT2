@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_ebay
+Disallow: /m
+Disallow: /blad
+Disallow: /403
+Disallow: /404
+Disallow: /adn
+Disallow: /download
+Disallow: /files
+Disallow: /mobile*

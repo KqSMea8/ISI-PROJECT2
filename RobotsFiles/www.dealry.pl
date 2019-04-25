@@ -1,0 +1,24 @@
+user-agent: AhrefsBot
+disallow: /
+
+User-agent: *
+Crawl-delay: 10
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: MJ12bot*
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+User-Agent: trendictionbot
+Disallow: /
+
+
+User-agent: *
+Disallow: /fwd
+Disallow: /result_m.php
+Allow: /
+
+

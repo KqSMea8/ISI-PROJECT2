@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wifi/
+Disallow: /documents/private/
+Disallow: /wp-content/uploads/job_applications/
+Sitemap: http://www.nextiraone.eu/fr/sitemap.xml
+
+

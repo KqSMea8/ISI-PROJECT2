@@ -1,0 +1,30 @@
+##
+#	Depositado. / contact@depositado.com#
+##
+
+User-agent: *
+Disallow: /wkpool/
+
+
+#
+# Sitemap
+#
+Sitemap: http://maintec.net/sitemap/google-sitemap.xml
+
+#
+# 80legs' crawler is relentless, no thanks Datafiniti
+#
+User-agent: 008
+Disallow: /
+
+#
+# Yahoo Pipes
+#
+User-agent: Yahoo Pipes 1.0
+Disallow: /
+
+#
+# Microsoft doesn't have a history of being polite to humanity
+#
+User-agent: bingbot
+Crawl-delay: 10

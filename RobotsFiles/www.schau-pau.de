@@ -1,0 +1,8 @@
+User-agent: MS Search 4.0 Robot
+Disallow:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: *
+Disallow:

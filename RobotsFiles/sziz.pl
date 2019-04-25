@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /mail
+Disallow: /webmail
+Disallow: /roundcube
+Disallow: /phpldapadmin
+Disallow: /ldap
+Disallow: /mysql
+Disallow: /phpmyadmin
+Disallow: /awstats
+Disallow: /iredadmin
+Disallow: /poczta
+

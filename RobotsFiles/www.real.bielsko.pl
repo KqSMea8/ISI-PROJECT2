@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /artykul,55
+Disallow: /artykul,13
+Disallow: /artykul,14
+Disallow: /polityka-prywatnosci-cookies
+Disallow: /zglos-oferte
+Disallow: /zglos-poszukiwanie
+Disallow: /kalkulator-kredytowy
+Disallow: /index.php?*

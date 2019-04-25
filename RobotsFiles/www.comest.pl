@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /_files/
+Disallow: /_fonts/
+Disallow: /_images_cms/
+Disallow: /_modules/
+Disallow: /_scripts/
+Disallow: /_sql/
+Disallow: /_captcha

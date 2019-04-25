@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /pl/index.html
+Disallow: /_LOGO_/
+Disallow: /_sqldump_/
+Disallow: /cms/
+Disallow: /www/
+Disallow: /.htaccess
+Disallow: /googled4b1ef01aa898ede.html
+Disallow: /icon.ico
+Disallow: /index.html
+Disallow: /intro.swf
+Disallow: /intro1.swf
+Disallow: /intro2.swf
+Disallow: /muzyka.mp3
+Disallow: /pl/50lat
+Disallow: /pl/albumy
+Disallow: /pl/dok
+Disallow: /pl/grafik
+Disallow: /pl/icons
+Disallow: /pl/img
+Disallow: /pl/menu
+Disallow: /pl/ogloszenia
+Disallow: /pl/tajne
+Disallow: /pl/zp
+Disallow: /
+

@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /assets/
+Allow: /assets/css/
+Allow: /assets/img/
+Allow: /assets/lib/
+Allow: /assets/js/
+Allow: /assets/favicons/
+Allow: /assets/upload/
+Disallow: /assets/sass/
+Disallow: /assets/.sass-cache/
+Sitemap: http://www.kocierz-art.pl/sitemap.xml
+Sitemap: http://www.kocierz-art.pl/sitemap_bookmarks.xml
+Sitemap: http://www.kocierz-art.pl/sitemap_news.xml
+Sitemap: http://www.kocierz-art.pl/sitemap_products.xml

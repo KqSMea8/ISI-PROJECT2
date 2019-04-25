@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/Resources/Private/
+Disallow: /fileadmin/Resources/News/
+Disallow: /fileadmin/Resources/Powermail/
+Disallow: /fileadmin/Resources/Typoscript/
+Disallow: /fileadmin/Resources/static/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+Sitemap: http://promujelodzkie.pl/sitemap.xml

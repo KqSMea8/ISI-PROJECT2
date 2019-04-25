@@ -1,0 +1,83 @@
+## Enable robots.txt rules for all crawlers
+User-agent: *
+
+# Sitemaps
+Sitemap: https://www.sensilab.pl/media/sitemap/pl/sitemap.xml
+
+## Do not crawl development files and folders: CVS, svn directories and dump files
+Disallow: /CVS
+Disallow: /*.svn$
+Disallow: /*.git$
+Disallow: /*.idea$
+Disallow: /*.sql$
+Disallow: /*.tgz$
+
+
+Disallow: /admin/
+
+
+Disallow: /app/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /shell/
+Disallow: /var/
+Disallow: /*/where/*/*/*
+
+Disallow: /api.php
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /get.php
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /README.txt
+Disallow: /RELEASE_NOTES.txt
+
+## SEO
+
+## Do not crawl sub category pages that are sorted or filtered.
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /*?mode*
+Disallow: /*coupon_code=*
+
+## Do not crawl 2-nd home page copy (example.com/index.php/). Uncomment it only if you activated SEO URLs.
+## Disallow: /index.php/
+
+## Do not crawl links with session IDs
+Disallow: /*?SID=
+
+## Do not crawl checkout and user account pages
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+
+## Do not crawl seach pages and not-SEO optimized catalog links
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+## Do not crawl utility controllers
+Disallow: /socialconnect/
+
+## SERVER SETTINGS
+
+## Do not crawl common server technical folders and files
+Disallow: /cgi-bin/
+Disallow: /cleanup.php
+Disallow: /apc.php
+Disallow: /memcache.php
+Disallow: /phpinfo.php
+
+## Custom controllers
+Disallow: /moneta/

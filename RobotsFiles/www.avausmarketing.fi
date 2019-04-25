@@ -1,0 +1,19 @@
+# directed to all spiders and robots...
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/themes/emRoots/assets/img/
+Disallow: /wp-content/themes/emRoots/assets/js/
+Disallow: /wp-content/themes/emRoots/assets/dist/css/
+Disallow: /wp-content/themes/emRoots/assets/fonts/
+Disallow: /wp-content/plugins/
+Disallow: /content/themes/emRoots/assets/vendor/
+Disallow: /docs/default-source/
+Disallow: /redirects/
+Disallow: /de/downloadable/feed/
+Disallow: /pl/downloadable/feed/
+Disallow: /sv/downloadable/feed/
+Disallow: /downloadable/feed/
+Disallow: /en/downloadable/feed/
+Disallow: /en/category/downloadables/feed/
+Disallow: /wp-content/themes/emRoots/assets/vendor/
+

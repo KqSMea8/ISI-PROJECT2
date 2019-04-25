@@ -1,0 +1,183 @@
+###############################################
+# Robots.txt created by John S. Britsios,     #
+# Web Architect & Senior SEO Consultant       #
+# at http://www.seoworkers.com                #
+# Noindex directive is unofficially           #
+# supported by Google                         #
+###############################################
+
+User-agent: Googlebot
+Noindex: /*?
+Noindex: /*.rss
+Noindex: /a/
+Noindex: /ad/
+Noindex: /java/
+Noindex: /events/
+Noindex: /JON/
+Noindex: /mail/
+Noindex: /newdating/
+Noindex: /gay/
+Noindex: /f2k/
+Noindex: /interactive/
+Noindex: /silverpower/
+Noindex: /common/
+Noindex: /news/
+Noindex: /gallery/
+Noindex: /listings/
+Noindex: /images/
+Noindex: /notices/
+Noindex: /nojava/
+Noindex: /hotels/search/old+trafford.html
+Noindex: /hotels/review-hotels.php
+Noindex: /accommodation/apartment-details.php
+Noindex: /travel/car-hire.php
+Noindex: /travel/deals.php
+Noindex: /travel/flights.php
+Noindex: /travel/flightshotels.php
+Noindex: /travel/holidays.php
+Noindex: /travel/hotels.php
+Noindex: /travel/insurance.php
+Noindex: /travel/parking.php
+Allow: /news/index.html
+
+User-agent: Googlebot-Image
+Noindex: /images/
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.png
+
+User-agent: Slurp
+Crawl-delay: 300
+Disallow: /*?
+Disallow: /*.rss
+Disallow: /a/
+Disallow: /ad/
+Disallow: /events/
+Disallow: /JON/
+Disallow: /mail/
+Disallow: /newdating/
+Disallow: /gay/
+Disallow: /f2k/
+Disallow: /interactive/
+Disallow: /silverpower/
+Disallow: /common/
+Disallow: /news/
+Disallow: /gallery/
+Disallow: /listings/
+Disallow: /notices/
+Disallow: /nojava/
+Disallow: /hotels/search/old+trafford.html
+Disallow: /hotels/review-hotels.php
+Disallow: /accommodation/apartment-details.php
+Disallow: /travel/car-hire.php
+Disallow: /travel/deals.php
+Disallow: /travel/flights.php
+Disallow: /travel/flightshotels.php
+Disallow: /travel/holidays.php
+Disallow: /travel/hotels.php
+Disallow: /travel/insurance.php
+Disallow: /travel/parking.php
+Allow: /news/index.html
+
+User-agent: Msnbot
+Crawl-delay: 120
+Disallow: /*?
+Disallow: /*.rss
+Disallow: /a/
+Disallow: /ad/
+Disallow: /events/
+Disallow: /JON/
+Disallow: /mail/
+Disallow: /newdating/
+Disallow: /gay/
+Disallow: /f2k/
+Disallow: /interactive/
+Disallow: /silverpower/
+Disallow: /common/
+Disallow: /news/
+Disallow: /gallery/
+Disallow: /listings/
+Disallow: /notices/
+Disallow: /nojava/
+Disallow: /hotels/search/old+trafford.html
+Disallow: /hotels/review-hotels.php
+Disallow: /accommodation/apartment-details.php
+Disallow: /travel/car-hire.php
+Disallow: /travel/deals.php
+Disallow: /travel/flights.php
+Disallow: /travel/flightshotels.php
+Disallow: /travel/holidays.php
+Disallow: /travel/hotels.php
+Disallow: /travel/insurance.php
+Disallow: /travel/parking.php
+Allow: /news/index.html
+
+User-agent: Teoma
+Crawl-delay: 240
+Disallow: /*?
+Disallow: /*.rss
+Disallow: /a/
+Disallow: /ad/
+Disallow: /events/
+Disallow: /JON/
+Disallow: /mail/
+Disallow: /newdating/
+Disallow: /gay/
+Disallow: /f2k/
+Disallow: /interactive/
+Disallow: /silverpower/
+Disallow: /common/
+Disallow: /news/
+Disallow: /gallery/
+Disallow: /listings/
+Disallow: /notices/
+Disallow: /nojava/
+Disallow: /hotels/review-hotels.php
+Disallow: /hotels/search/old+trafford.html
+Disallow: /accommodation/apartment-details.php
+Disallow: /travel/car-hire.php
+Disallow: /travel/deals.php
+Disallow: /travel/flights.php
+Disallow: /travel/flightshotels.php
+Disallow: /travel/holidays.php
+Disallow: /travel/hotels.php
+Disallow: /travel/insurance.php
+Disallow: /travel/parking.php
+Allow: /news/index.html
+
+User-Agent: MJ12bot
+Disallow:
+
+User-agent: *
+Disallow: /*?
+Disallow: /*.rss
+Disallow: /ad/
+Disallow: /events/
+Disallow: /JON/
+Disallow: /mail/
+Disallow: /newdating/
+Disallow: /gay/
+Disallow: /f2k/
+Disallow: /interactive/
+Disallow: /silverpower/
+Disallow: /common/
+Disallow: /news/
+Disallow: /gallery/
+Disallow: /listings/
+Disallow: /notices/
+Disallow: /nojava/
+Disallow: /hotels/review-hotels.php
+Disallow: /hotels/search/old+trafford.html
+Disallow: /accommodation/apartment-details.php
+Disallow: /travel/car-hire.php
+Disallow: /travel/deals.php
+Disallow: /travel/flights.php
+Disallow: /travel/flightshotels.php
+Disallow: /travel/holidays.php
+Disallow: /travel/hotels.php
+Disallow: /travel/insurance.php
+Disallow: /travel/parking.php
+
+Sitemap: http://www.manchester.com/sitemap.xml
+

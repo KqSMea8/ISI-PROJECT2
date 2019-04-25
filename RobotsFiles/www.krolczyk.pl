@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /wp-admin/
+#Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /wp-
+Allow: /wp-content/uploads/
+Allow: /.*pdf
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.gif
+Allow: /wp-includes/*.js

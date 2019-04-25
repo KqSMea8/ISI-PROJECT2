@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /1update/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /foto/
+Disallow: /gfx/
+Disallow: /images/
+Disallow: /js/
+Disallow: /pdf/
+Disallow: /ulotki/
+Disallow: /langs/
+Disallow: /language/
+Disallow: /userfiles/
+Disallow: /grupa2.php
+Disallow: /grupa3.php
+Disallow: /promocje2.php
+Disallow: /promocje3.php
+Disallow: /new2.php
+Disallow: /new3.php
+

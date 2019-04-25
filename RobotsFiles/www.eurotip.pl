@@ -1,0 +1,20 @@
+Sitemap: https://www.flashscore.pl/sitemap.xml
+
+User-agent: *
+Disallow: /tabela/
+Disallow: /drabinka/
+Disallow: /redirect/
+Disallow: /x/
+Disallow: /mecz/
+
+User-agent: SmartViper
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /tabela/
+Disallow: /drabinka/
+Disallow: /redirect/
+Disallow: /x/
+Allow: /mecz/
+
+

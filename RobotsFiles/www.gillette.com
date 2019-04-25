@@ -1,0 +1,32 @@
+Sitemap: https://gillette.com/en-us/sitemap.xml
+Sitemap: https://www.gillette.com/es-us/sitemap.xml
+
+User-agent: *
+Disallow: /sitecore/
+Disallow: /sitecore modules/
+Disallow: /sitecore_files/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: *Layouts
+Disallow: *loginpage
+Disallow: *createprofilepage
+Disallow: *resetpasswordpage
+Disallow: *pagina-para-restablecer-contrasena
+Disallow: *pagina-para-crear-perfil
+Disallow: *pagina-de-inicio-de-sesion
+Disallow: *writereview
+Disallow: */dummy-article
+Disallow: */gillettetreo
+Disallow: *author.gillette.pgsitecore.com/en-us*
+Noindex: *Layouts
+Noindex: *loginpage
+Noindex: *createprofilepage
+Noindex: *resetpasswordpage
+Noindex: *pagina-para-restablecer-contrasena
+Noindex: *pagina-para-crear-perfil
+Noindex: *pagina-de-inicio-de-sesion
+Noindex: *writereview
+Noindex: */dummy-article
+Noindex: */gillettetreo
+Noindex: */products/razors-trimmers-and-blades/shave-kits-and-gift-sets/gift-finder/results
+Noindex: *author.gillette.pgsitecore.com/en-us*

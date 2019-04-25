@@ -1,0 +1,5 @@
+Sitemap: http://www.miltek.dk/Sitemap.xml
+
+User-agent: *
+Disallow: /kunder
+Disallow: /*?cartcmd=*
