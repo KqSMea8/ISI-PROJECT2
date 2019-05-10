@@ -1,9 +1,9 @@
 import sys
 
 from PyQt5 import QtCore
-from PyQt5.QtCore import pyqtSlot
-from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel
-from PyQt5.QtGui import QIcon
+from PyQt5.QtCore import pyqtSlot, QByteArray
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout
+from PyQt5.QtGui import QIcon, QMovie
 
 
 class Gui(QWidget):
@@ -34,6 +34,17 @@ class Gui(QWidget):
         vbox.addLayout(vbox2)
         vbox.addWidget(self.searchButton, alignment=QtCore.Qt.AlignRight)
 
+        self.loading = QLabel()
+        vbox.addWidget(self.loading, alignment=QtCore.Qt.AlignCenter)
+
+        hbox = QHBoxLayout()
+        self.resultList = QListWidget()
+        self.resultList.currentItemChanged.connect(self.setFileContent)
+        hbox.addWidget(self.resultList)
+        self.fileContent = QLabel()
+        hbox.addWidget(self.fileContent)
+        vbox.addLayout(hbox)
+
         self.setLayout(vbox)
         self.show()
 
@@ -41,6 +52,20 @@ class Gui(QWidget):
     def search(self):
         print("searching")
         # TODO search functionality
+        self.movie = QMovie("./loader.gif", QByteArray(), self)
+        self.loading.setMovie(self.movie)
+        self.movie.start()
+        # TODO stop when data are ready
+        self.setSearchResults(["nana", "sialala", "blabla"])
+
+    def setSearchResults(self, results):
+        for r in results:
+            newItem = QListWidgetItem()
+            newItem.setText(r)  # TODO adjust to result structure
+            self.resultList.insertItem(0, newItem)
+
+    def setFileContent(self, item):
+    	self.fileContent.setText(item.text())
 
 
 def run():
