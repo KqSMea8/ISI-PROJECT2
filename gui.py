@@ -1,7 +1,7 @@
 import sys
-
+from scripts.mock_engine import *
 from PyQt5 import QtCore
-from PyQt5.QtCore import pyqtSlot, QByteArray
+from PyQt5.QtCore import pyqtSlot, QByteArray, Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea
 from PyQt5.QtGui import QIcon, QMovie
 
@@ -13,7 +13,7 @@ class Gui(QWidget):
 
     def initUI(self):
         self.setWindowTitle("Robots' Search")
-        self.setGeometry(500, 100, 500, 100)
+        self.setGeometry(500, 500, 500, 500)
         self.setWindowIcon(QIcon('robot_reader/utils/robot.png'))
 
         self.infoLabel = QLabel('here we provide some tips like flag usage ')
@@ -54,6 +54,7 @@ class Gui(QWidget):
         self.resultList.currentItemChanged.connect(self.setFileContent)
         hbox.addWidget(self.resultList)
         self.fileContent = QLabel()
+        self.fileContent.setTextFormat(Qt.RichText)
         self.fileContent.setAlignment(QtCore.Qt.AlignLeft | QtCore.Qt.AlignTop)
         self.contentScroll = QScrollArea()
         self.contentScroll.setWidgetResizable(True)
@@ -67,23 +68,36 @@ class Gui(QWidget):
     @pyqtSlot()
     def search(self):
         # TODO search functionality
+        self.fileContent.setText("")
+        self.resultList.clear()
         self.movie = QMovie("./loader.gif", QByteArray(), self)
         self.loading.setMovie(self.movie)
         self.movie.start()
         # TODO stop when data are ready
-        self.setSearchResults(["www.darland.pl", "zsk.poznan.pl", "zbawiciel.poznan.pl", "www.zsk.poznan.pl", "wwww.epoznan.pl", "www.volkswagen-poznan.pl", "www.put.poznan.pl"])
+        if self.sgdclfiButton.isChecked():
+            self.setSearchResults(mock_SGD_engine("",15))
+        elif self.distcosButton.isChecked():
+            self.setSearchResults(mock_coine_distance_engine("",15))
 
     def setSearchResults(self, results):
+        results = sorted(results, key = lambda x: x[1], reverse = True)
         for r in results:
             newItem = QListWidgetItem()
-            newItem.setText(r)  # TODO adjust to result structure
+            newItem.setText(r[0])
             self.resultList.insertItem(0, newItem)
         self.resultList.setMinimumWidth(self.resultList.sizeHintForColumn(0))
         self.resultList.setMaximumWidth(self.resultList.sizeHintForColumn(0)+20)
 
     def setFileContent(self, item):
         text = open("RobotsFiles/" + item.text(), "r").read()
-        self.fileContent.setText(text)  # TODO compare with fun-list and bold with '<b>...</b>'
+        self.fileContent.setText(self.markFunWords(text))
+
+    def markFunWords(self, text):
+        funList = ["paypal"]  # TODO get fun-list
+        text = text.replace("\n", "<br>")
+        for word in funList:
+            text = text.replace(word, "<b>"+word+"</b>")
+        return text
 
 
 def run():
