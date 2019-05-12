@@ -28,6 +28,9 @@ def parseUserAgent(lines: list):
     userAgentTag = "User-agent:"
     allowTag = "Allow:"
     disallowTag = "Disallow:"
+    sitemapTag = "Sitemap:"
+    crawlDelayTag = "Crawl-delay:"
+    hostTag = "Host:"
 
     for line in lines:
         tag, data = line.split(" ")
@@ -37,4 +40,10 @@ def parseUserAgent(lines: list):
             ua.allow.append(data)
         elif tag == disallowTag:
             ua.disallow.append(data)
+        elif tag == sitemapTag:
+            ua.sitemap.append(data)
+        elif tag == crawlDelayTag:
+            ua.crawlDelay.append(data)
+        elif tag == hostTag:
+            ua.host.append(data)
     return ua

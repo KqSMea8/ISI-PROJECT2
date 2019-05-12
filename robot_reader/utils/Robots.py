@@ -23,5 +23,23 @@ class Robots:
         else:
             return []
 
+    def getUserAgentsSitemap(self, name: str):
+        if self.isUserAgentInFile(name):
+            return self._userAgents[name].sitemap
+        else:
+            return []
+
+    def getUserAgentsCrawlDelay(self, name: str):
+        if self.isUserAgentInFile(name):
+            return self._userAgents[name].crawlDelay
+        else:
+            return []
+
+    def getUserAgentsHost(self, name: str):
+        if self.isUserAgentInFile(name):
+            return self._userAgents[name].host
+        else:
+            return []
+
     def getUserAgentsNames(self):
         return list(self._userAgents.keys())
