@@ -5,6 +5,7 @@ from PyQt5 import QtCore
 from PyQt5.QtCore import pyqtSlot, QByteArray, Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea
 from PyQt5.QtGui import QIcon, QMovie
+from PyQt5 import QtTest
 
 
 class Gui(QWidget):
@@ -75,7 +76,7 @@ class Gui(QWidget):
         # TODO search functionality
         self.fileContent.setText("")
         self.resultList.clear()
-        self.movie = QMovie("./loader.gif", QByteArray(), self)
+        self.movie = QMovie("./scripts/loader.gif", QByteArray(), self)
         self.loading.setMovie(self.movie)
         self.movie.start()
 
@@ -84,10 +85,17 @@ class Gui(QWidget):
             self.fileContent.setText("No query was given")
             return
         # TODO stop when data are ready
+        waitvalue = 800
         if self.sgdclfiButton.isChecked():
-            self.setSearchResults(SGD_engine(query))
+            backout = SGD_engine(query)
+            QtTest.QTest.qWait(waitvalue)
+            self.setSearchResults(backout)
+            self.movie.stop()
         elif self.distcosButton.isChecked():
-            self.setSearchResults(cosine_distance_engine(query))
+            backout = cosine_distance_engine(query)
+            QtTest.QTest.qWait(waitvalue)
+            self.setSearchResults(backout)
+            self.movie.stop()
 
     def setSearchResults(self, results):
         results = sorted(results, key = lambda x: x[1], reverse = True)
