@@ -80,11 +80,14 @@ class Gui(QWidget):
         self.movie.start()
 
         query = self.queryTextEdit.toPlainText()
+        if query == "":
+            self.fileContent.setText("No query was given")
+            return
         # TODO stop when data are ready
         if self.sgdclfiButton.isChecked():
-            self.setSearchResults(mock_SGD_engine(query))
+            self.setSearchResults(SGD_engine(query))
         elif self.distcosButton.isChecked():
-            self.setSearchResults(mock_coine_distance_engine(query))
+            self.setSearchResults(cosine_distance_engine(query))
 
     def setSearchResults(self, results):
         results = sorted(results, key = lambda x: x[1], reverse = True)

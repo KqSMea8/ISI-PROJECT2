@@ -108,7 +108,7 @@ def mock_engine(document, n_best = 10):
 def mock_SGD_engine(document, n_best = 10):
     return mock_engine(document, n_best)
 
-def mock_coine_distance_engine(document, n_best = 10):
+def mock_cosine_distance_engine(document, n_best = 10):
     return mock_engine(document, n_best)
 
 def _create_document_names_variable():
