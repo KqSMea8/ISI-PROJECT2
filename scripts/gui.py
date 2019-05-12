@@ -1,5 +1,5 @@
 import sys
-from scripts.mock_engine import *
+from documents_browsing_engine import *
 from PyQt5 import QtCore
 from PyQt5.QtCore import pyqtSlot, QByteArray, Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea
@@ -75,9 +75,9 @@ class Gui(QWidget):
         self.movie.start()
         # TODO stop when data are ready
         if self.sgdclfiButton.isChecked():
-            self.setSearchResults(mock_SGD_engine("",15))
+            self.setSearchResults(SGD_engine("",15))
         elif self.distcosButton.isChecked():
-            self.setSearchResults(mock_coine_distance_engine("",15))
+            self.setSearchResults(coine_distance_engine("",15))
 
     def setSearchResults(self, results):
         results = sorted(results, key = lambda x: x[1], reverse = True)
