@@ -1,4 +1,5 @@
 import sys
+from mock_engine import *
 from documents_browsing_engine import *
 from PyQt5 import QtCore
 from PyQt5.QtCore import pyqtSlot, QByteArray, Qt
@@ -12,6 +13,10 @@ class Gui(QWidget):
         self.initUI()
 
     def initUI(self):
+        self.funList =  open("scripts/funlist.txt", "r").read().split("\n")
+        if self.funList[-1] == '':
+            self.funList = self.funList[:-1]
+
         self.setWindowTitle("Robots' Search")
         self.setGeometry(500, 500, 500, 500)
         self.setWindowIcon(QIcon('robot_reader/utils/robot.png'))
@@ -73,11 +78,13 @@ class Gui(QWidget):
         self.movie = QMovie("./loader.gif", QByteArray(), self)
         self.loading.setMovie(self.movie)
         self.movie.start()
+
+        query = self.queryTextEdit.toPlainText()
         # TODO stop when data are ready
         if self.sgdclfiButton.isChecked():
-            self.setSearchResults(SGD_engine("",15))
+            self.setSearchResults(mock_SGD_engine(query))
         elif self.distcosButton.isChecked():
-            self.setSearchResults(coine_distance_engine("",15))
+            self.setSearchResults(mock_coine_distance_engine(query))
 
     def setSearchResults(self, results):
         results = sorted(results, key = lambda x: x[1], reverse = True)
@@ -89,14 +96,24 @@ class Gui(QWidget):
         self.resultList.setMaximumWidth(self.resultList.sizeHintForColumn(0)+20)
 
     def setFileContent(self, item):
+        if item is None:
+            return
         text = open("RobotsFiles/" + item.text(), "r").read()
-        self.fileContent.setText(self.markFunWords(text))
+        self.fileContent.setText(self.markQueryWords(self.markFunWords(text), self.queryTextEdit.toPlainText().split(" ")))
 
     def markFunWords(self, text):
-        funList = ["paypal"]  # TODO get fun-list
         text = text.replace("\n", "<br>")
-        for word in funList:
-            text = text.replace(word, "<b>"+word+"</b>")
+        for word in self.funList:
+            text = text.replace(word, "<font color='red'>" + word + "</font>")
+        return text
+
+    def markQueryWords(self, text, query):
+        if query == ['']:
+            return text
+        if query[-1] == '':
+            query = query[:-1]
+        for word in query:
+            text = text.replace(word, "<font color='green'>" + word + "</font>")
         return text
 
 
