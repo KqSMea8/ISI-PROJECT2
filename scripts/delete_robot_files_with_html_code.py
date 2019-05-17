@@ -1,4 +1,5 @@
 import os
+from string import ascii_letters
 
 print(os.getcwd())
 
@@ -14,9 +15,15 @@ for filename in os.listdir(robot_dir):
         if "<html>" in data:
             cnt2 +=1
             move = True
+        elif "<?php" in data:
+            cnt2 += 1
+            move = True
+        elif sum(c in ascii_letters for c in data) < 10:
+            cnt2 += 1
+            move = True
     if move:
         os.rename(os.path.join(robot_dir,filename),os.path.join(html_robot_dir,filename))
-    if cnt2 % 100 == 0:
+    if cnt1 % 100 == 0:
         print(cnt1,cnt2, cnt2 / cnt1 * 100)
 
 
