@@ -281,27 +281,8 @@ if __name__ == "__main__":
     # w2c_model = create_vector_model()
     # trained_model = train_KNN_model()
 
-    create_document_similarity_model()
+    # create_document_similarity_model()
     
-
-    test_doc = "kalendarium www admin kupa"
-    # proc_doc = _preprocess_document(test_doc)
-    # print(proc_doc)
-    # vectorized_doc = vectorizer.transform([proc_doc])
-    # print(trained_model.predict(vectorized_doc))
-    # # print(trained_model.predict_log_proba(vectorized_doc))
-    # # probas = trained_model.predict_log_proba(vectorized_doc)[0]
-    # # for prob, name in zip(probas,trained_model.classes_):
-    # #     print(name, prob)
-    # # # print(trained_model.predict_proba(vectorized_doc))
-    # for X, name in zip(model_X, trained_model.classes_):
-    #     print(name, cosine_distances(X,vectorized_doc))
-    #     #print(name)
-    # # print(trained_model.predict_proba(vectorized_doc))
-
-    # print(SGD_engine(test_doc))
-    # print(cosine_distance_engine(test_doc))
-
 
     saving = False
     if saving:
@@ -314,18 +295,12 @@ if __name__ == "__main__":
         # m2 = load_model("_SGD_vectorizer.pickle")
         print_lineno()
         print("end")
-    print("testing on document")
+    
+    print("testing on document1")
     test_doc = """kaczynski tusk donald lech polityka"""
-    #print(doc_engine(test_doc))
+    print(gensim_engine(test_doc))
     print(doc_similarity_engine(test_doc))
-    #print(SGD_engine(test_doc))
-    #print(cosine_distance_engine(test_doc))
 
-    # print_lineno()
-    # trained_model = train_SGD_model()
-    # print_lineno()
-
-    # save_model(trained_model, "SGD_model.pickle")
-
-    #import ipdb; ipdb.set_trace()
-    # print(KNN_engine(test_doc))
+    print("testing on document2")
+    test_doc = """majtki skarpety"""
+    print(gensim_engine(test_doc))
