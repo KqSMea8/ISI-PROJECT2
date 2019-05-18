@@ -12,7 +12,7 @@ for filename in os.listdir(robot_dir):
     with open(os.path.join(robot_dir,filename)) as file:
         data = file.read()
         move = False
-        if "<html>" in data:
+        if "<html>" in data or "<html/>" in data or "<div>" in data :
             cnt2 +=1
             move = True
         elif "<?php" in data:
