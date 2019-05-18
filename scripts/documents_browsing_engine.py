@@ -7,7 +7,7 @@ robot_dir = "../RobotsFiles/"
 # robot_dir = "../testRobotsFiles/"
 from sklearn.linear_model import SGDClassifier
 import pickle
-from multiprocessingTools import get_job_results_and_show_statistics
+from .multiprocessingTools import get_job_results_and_show_statistics
 import multiprocessing as mp
 from multiprocessing import Pool
 import operator
@@ -69,7 +69,7 @@ def _nonblocking_document_processing(content) -> str():
     # print(preprocessed_document)
     return preprocessed_document
 
-def load_robots_txt_files() -> list():
+def load_robots_txt_files(alternate_path = False) -> list():
     documents = []
     filenames = []
     pool = mp.Pool(mp.cpu_count())
@@ -78,6 +78,8 @@ def load_robots_txt_files() -> list():
 
     for filename in os.listdir(robot_dir):
         print("reading  ",filename)
+        if alternate_path:    
+            robot_dir = "./RobotsFiles/"
         with open(os.path.join(robot_dir,filename), mode="r", encoding="utf8") as robots_txt:
             content = robots_txt.read()
         job = pool.apply_async(_nonblocking_document_processing,(content,))
@@ -159,6 +161,11 @@ def create_document_similarity_model() -> dict():
     else:
         print("loading index with pickle")
         index = load_model(INDEX_NAME)
+
+def create_data_model():
+    DATA_MODEL_NAME = "data_model.pickle"
+    train_X, train_Y = load_robots_txt_files(True)
+    save_model((train_X,train_Y),DATA_MODEL_NAME)
 
 def doc_similarity_engine(document, n_best = 10):
     if n_best >= 100:
