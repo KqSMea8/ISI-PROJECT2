@@ -1,19 +1,13 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_distances
 import os
 import nltk
 from string import punctuation
 robot_dir = "../RobotsFiles/"
-# robot_dir = "../testRobotsFiles/"
-from sklearn.linear_model import SGDClassifier
 import pickle
 from multiprocessingTools import get_job_results_and_show_statistics
 import multiprocessing as mp
 from multiprocessing import Pool
 import operator
-from sklearn.neighbors import KNeighborsClassifier
 from math import log, inf
-
 from inspect import currentframe
 from tqdm import tqdm
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
@@ -66,7 +60,6 @@ def _preprocess_positive_negative(document, is_join = True):
 
 def _nonblocking_document_processing(content) -> str():
     preprocessed_document = _preprocess_document(content, is_join = False)
-    # print(preprocessed_document)
     return preprocessed_document
 
 def load_robots_txt_files(alternate_path = False) -> list():
@@ -74,7 +67,6 @@ def load_robots_txt_files(alternate_path = False) -> list():
     filenames = []
     pool = mp.Pool(mp.cpu_count())
     jobs = []
-    print_lineno()
     
     global robot_dir
     if alternate_path:    
@@ -88,8 +80,6 @@ def load_robots_txt_files(alternate_path = False) -> list():
         jobs.append(job)
         filenames.append(filename)
     documents = get_job_results_and_show_statistics(jobs,job_name="load_documents", sleep_time=30)
-    #documents.append((filename,preprocessed_document))
-    print_lineno()
     return documents, filenames
 
 def make_doc2vec_model(documents, filenames):
@@ -124,11 +114,6 @@ def create_vector_model(alternate_path = False) -> dict():
     else:
         print("doc2vec smart loading")
         model_w2c = Doc2Vec.load(W2C_MODEL_NAME)
-    # vectorizer = TfidfVectorizer( max_features=4000)
-    # print_lineno()
-    # model_X = vectorizer.fit_transform(train_X)
-
-    # return vectorizer, model_X, train_Y
     return model_w2c
 
 def create_document_similarity_model(alternate_path = False) -> dict():
@@ -211,58 +196,6 @@ class Doc_similarity:
         results = self.index[bow_doc]
         return [(self.train_Y[i], prob) for i, prob in results[:n_best]] 
 
-def SGD_engine(document, n_best=10):
-    trained_model = load_model("test_SGD_model.pickle")
-    vectorizer = load_model("test_vectorizer.pickle")
-    # model_X = load_model("test_vectorizer_features.pickle")
-    # train_Y = load_model("test_vectorizer_classes.pickle")
-
-    preprocessed_document = _preprocess_document(document)
-    document_vector = vectorizer.transform([preprocessed_document])
-
-    probabilities = trained_model.predict_proba(document_vector)[0]
-    class_names = trained_model.classes_
-    results = []
-
-    for score, doc_name in zip(probabilities, class_names):
-        results.append((doc_name, score))
-    results.sort(key=operator.itemgetter(1), reverse=True)
-
-    return results[:n_best]
-
-def cosine_distance_engine(document, n_best=10):
-    vectorizer = load_model("vectorizer4k.pickle")
-    model_X = load_model("vectorizer_features4k.pickle")
-    train_Y = load_model("vectorizer_classes4k.pickle")
-
-    preprocessed_document = _preprocess_document(document)
-    document_vector = vectorizer.transform([preprocessed_document])[0]
-    scores = cosine_distances(document_vector,model_X)[0]
-
-    results = []
-    for score, doc_name in zip(scores, train_Y):
-        log_score = inf if (1-score) == 0 else log(1 - score)
-        results.append((doc_name, log_score))
-    results.sort(key = operator.itemgetter(1), reverse=True)
-    return results[:n_best]
-
-def KNN_engine(document, n_best=10):
-    trained_model = load_model("KNN_model.pickle")
-    vectorizer = load_model("vectorizer.pickle")
-
-    preprocessed_document = _preprocess_document(document)
-    document_vector = vectorizer.transform([preprocessed_document])
-
-    probabilities = trained_model.predict_proba(document_vector)[0]
-    class_names = trained_model.classes_
-    results = []
-
-    for score, doc_name in zip(probabilities, class_names):
-        results.append((doc_name, score))
-    results.sort(key=operator.itemgetter(1), reverse=True)
-
-    return results[:n_best]
-
 def gensim_engine(document, n_best=10):
     W2C_MODEL_NAME = "model.w2c"
     model = Doc2Vec.load(W2C_MODEL_NAME)
@@ -294,68 +227,28 @@ def save_model(model, filename):
     with open(filename, 'wb') as handle:
         pickle.dump(model, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-def train_SGD_model():
-    model_X = load_model("vectorizer_features4k.pickle")
-    train_Y = load_model("vectorizer_classes4k.pickle")
-    model = SGDClassifier(loss='modified_huber', penalty='l2',
-                          alpha=1e-3, random_state=42,
-                          max_iter=10, tol=1e-3, verbose=1, n_jobs = -1)
-    print_lineno()
-    model.fit(model_X,train_Y)
-    print_lineno()
-    return model
-
-def train_KNN_model():
-    model_X = load_model("vectorizer_features.pickle")
-    train_Y = load_model("vectorizer_classes.pickle")
-    model = KNeighborsClassifier(n_neighbors=5 ,n_jobs = -1)
-    print_lineno()
-    model.fit(model_X,train_Y)
-    print_lineno()
-    return model
-
 if __name__ == "__main__":
-    # vectorizer, model_X, train_Y = create_vector_model()
-    # w2c_model = create_vector_model()
-    # trained_model = train_KNN_model()
-
-    # create_document_similarity_model()
     e1 = Gensim()
     e2 = Doc_similarity()
 
-    saving = False
-    if saving:
-        print_lineno()
-        # save_model(trained_model, "SGD_model.pickle")
-        save_model(vectorizer, "vectorizer4k.pickle")
-        save_model(model_X, "vectorizer_features4k.pickle")
-        save_model(train_Y, "vectorizer_classes4k.pickle")
-        # m1 = load_model("_SGD_model.pickle")
-        # m2 = load_model("_SGD_vectorizer.pickle")
-        print_lineno()
-        print("end")
-    
     queries = ["testing on document1",
             """kaczynski tusk donald lech polityka""",
             """kaczynski tusk donald lech""",
             """kaczynski""",
-            """donald"""]
+            """donald""",
+            "zakupy",
+            "kaloryfer"]
 
 
-    print("testing on document1")
-    test_doc = """kaczynski tusk donald lech polityka"""
-    #print(gensim_engine(test_doc))
-    #print(doc_similarity_engine(test_doc))
-
-    print("testing on document2")
-    test_doc = """dsaldkj"""
-    #print(gensim_engine(test_doc))
-    #print(doc_similarity_engine(test_doc))
-
+    print("Models loaded, testing begins now!")
+    print("\n\nGensim:")
     for q in queries:
+        print(f"\nquery {q}:")
         print(e1.query(q))
-    
+   
+    print("\n\nDoc_similarity:")
     for q in queries:
+        print(f"\nquery {q}:")
         print(e2.query(q))
     
 
