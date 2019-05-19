@@ -84,7 +84,7 @@ class Gui(QWidget):
         self.setSearchResults(backout)
 
     def setSearchResults(self, results):
-        results = sorted(results, key = lambda x: x[1], reverse = True)
+        results = sorted(results, key = lambda x: x[1], reverse = False)
         for r in results:
             newItem = QListWidgetItem()
             newItem.setText(r[0])

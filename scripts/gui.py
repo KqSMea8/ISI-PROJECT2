@@ -125,7 +125,9 @@ class Gui(QWidget):
             # self.movie.stop()
 
     def setSearchResults(self, results):
-        results = sorted(results, key = lambda x: x[1], reverse = True)
+        print(results)
+        print()
+        results = sorted(results, key = lambda x: x[1], reverse = False)
         for r in results:
             newItem = QListWidgetItem()
             newItem.setText(r[0])
@@ -136,7 +138,7 @@ class Gui(QWidget):
     def setFileContent(self, item):
         if item is None:
             return
-        text = open("RobotsFiles/" + item.text(), "r").read()
+        text = open("RobotsFiles/" + item.text(), "r").read().lower()
         self.fileContent.setText(self.markQueryWords(self.markFunWords(text), self.queryTextEdit.toPlainText().split(" ")))
 
     def markFunWords(self, text):
@@ -151,7 +153,7 @@ class Gui(QWidget):
         if query[-1] == '':
             query = query[:-1]
         for word in query:
-            text = text.replace(word, "<font color='red'>" + word + "</font>")
+            text = text.replace(word.lower(), "<font color='red'>" + word.lower() + "</font>")
         return text
 
 
