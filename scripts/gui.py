@@ -125,8 +125,6 @@ class Gui(QWidget):
             # self.movie.stop()
 
     def setSearchResults(self, results):
-        print(results)
-        print()
         results = sorted(results, key = lambda x: x[1], reverse = False)
         for r in results:
             newItem = QListWidgetItem()
