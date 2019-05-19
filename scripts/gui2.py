@@ -5,7 +5,7 @@ from mock_engine import *
 from documents_browsing_engine import *
 from PyQt5 import QtCore
 from PyQt5.QtCore import pyqtSlot, QByteArray, Qt
-from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea, QSpinBox
 from PyQt5.QtGui import QIcon, QMovie
 from PyQt5 import QtTest
 
@@ -37,6 +37,11 @@ class Gui(QWidget):
         vbox2 = QVBoxLayout()
         vbox2.addWidget(self.queryTextEdit)
         vbox2.setStretch(1, 0)
+
+        self.recordNumber = QSpinBox()
+        self.recordNumber.setMinimum(10)
+        self.recordNumber.setMaximum(90)
+        vbox2.addWidget(self.recordNumber)
 
         vbox = QVBoxLayout()
         vbox.addWidget(self.infoLabel, alignment=QtCore.Qt.AlignLeft)
@@ -75,7 +80,7 @@ class Gui(QWidget):
             # self.fileContent.setText("No query was given")
             return
 
-        backout = self.genSim.query(query)
+        backout = self.genSim.query(query, self.recordNumber.value())
         self.setSearchResults(backout)
 
     def setSearchResults(self, results):
