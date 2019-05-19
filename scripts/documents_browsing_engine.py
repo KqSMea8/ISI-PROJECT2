@@ -268,7 +268,6 @@ def gensim_engine(document, n_best=10):
     model = Doc2Vec.load(W2C_MODEL_NAME)
 
     positive_document, negative_document = _preprocess_positive_negative(document, is_join = False)
-    # import ipdb; ipdb.set_trace()
     positive_vector =  model.infer_vector(positive_document, epochs = 20)
     negative_vector =  model.infer_vector(negative_document, epochs = 20)
     
@@ -276,8 +275,6 @@ def gensim_engine(document, n_best=10):
         return model.wv.most_similar(positive = positive_document, negative = negative_document)
     except:
         return False
-     
-    #return model.wv.most_similar(positive = positive_document, negative = negative_document)
 
 class Gensim:
     def __init__(self):
@@ -286,11 +283,10 @@ class Gensim:
     
     def query(self, document, n_best=10):
         positive_document, negative_document = _preprocess_positive_negative(document, is_join = False)
-        # import ipdb; ipdb.set_trace()
         positive_vector =  self.model.infer_vector(positive_document, epochs = 20)
         negative_vector =  self.model.infer_vector(negative_document, epochs = 20)
         try: 
-            return self.model.wv.most_similar(positive = positive_document, negative = negative_document)
+            return self.model.wv.most_similar(positive = positive_document, negative = negative_document, topn = n_best)
         except:
             return False
 def save_model(model, filename):
