@@ -1,4 +1,6 @@
 import sys
+import threading
+import queue
 from mock_engine import *
 from documents_browsing_engine import *
 from PyQt5 import QtCore
@@ -8,10 +10,15 @@ from PyQt5.QtGui import QIcon, QMovie
 from PyQt5 import QtTest
 
 
+# def threadFunction(query, outQueue):
+#     backout = doc_similarity_engine(query)
+#     outQueue.put(backout)
+
 class Gui(QWidget):
     def __init__(self):
         super().__init__()
         self.initUI()
+        self.docSim = Doc_similarity()
 
     def initUI(self):
         self.funList =  open("scripts/funlist.txt", "r").read().split("\n")
@@ -28,12 +35,17 @@ class Gui(QWidget):
         self.searchButton.setToolTip('click to run your search')
         self.searchButton.clicked.connect(self.search)
 
-        self.sgdclfiButton = QRadioButton("Klasyfikator SGD")
-        self.sgdclfiButton.setChecked(True)
-        self.sgdclfiButton.setToolTip("kosinus kąta pomiędzy dwoma wektorami reprezentującymi dokumentów")
+        # self.sgdclfiButton = QRadioButton("Klasyfikator SGD")
+        # self.sgdclfiButton.setChecked(True)
+        # self.sgdclfiButton.setToolTip("kosinus kąta pomiędzy dwoma wektorami reprezentującymi dokumentów")
 
-        self.distcosButton = QRadioButton("Dystans Kosinusowy")
-        self.distcosButton.setToolTip("klasyfikator liniowy wykorzystujący Stochastic Gradient Descent")
+        # self.distcosButton = QRadioButton("Dystans Kosinusowy")
+        # self.distcosButton.setChecked(True)
+        # self.distcosButton.setToolTip("klasyfikator liniowy wykorzystujący Stochastic Gradient Descent")
+
+        self.bow = QRadioButton("Bag of Words")
+        self.bow.setChecked(True)
+        self.bow.setToolTip("dokumenty reprezentowane jako 'bag of words'")
 
         self.queryTextEdit = QTextEdit()
         self.queryTextEdit.setToolTip('type in your query')
@@ -47,13 +59,14 @@ class Gui(QWidget):
         vbox.addLayout(vbox2)
 
         hbox2 = QHBoxLayout()
-        hbox2.addWidget(self.sgdclfiButton)
-        hbox2.addWidget(self.distcosButton)
+        # hbox2.addWidget(self.sgdclfiButton)
+        # hbox2.addWidget(self.distcosButton)
+        hbox2.addWidget(self.bow)
         hbox2.addWidget(self.searchButton)
         vbox.addLayout(hbox2)
 
-        self.loading = QLabel()
-        vbox.addWidget(self.loading, alignment=QtCore.Qt.AlignCenter)
+        # self.loading = QLabel()
+        # vbox.addWidget(self.loading, alignment=QtCore.Qt.AlignCenter)
 
         hbox = QHBoxLayout()
         self.resultList = QListWidget()
@@ -76,9 +89,8 @@ class Gui(QWidget):
         # TODO search functionality
         self.fileContent.setText("")
         self.resultList.clear()
-        self.movie = QMovie("./scripts/loader.gif", QByteArray(), self)
-        self.loading.setMovie(self.movie)
-        self.movie.start()
+        # self.movie = QMovie("./scripts/loader.gif", QByteArray(), self)
+        # self.loading.setMovie(self.movie)
 
         query = self.queryTextEdit.toPlainText()
         if query == "":
@@ -86,16 +98,26 @@ class Gui(QWidget):
             return
         # TODO stop when data are ready
         waitvalue = 800
-        if self.sgdclfiButton.isChecked():
-            backout = SGD_engine(query)
-            QtTest.QTest.qWait(waitvalue)
+        # if self.sgdclfiButton.isChecked():
+        #     backout = SGD_engine(query)
+        #     QtTest.QTest.qWait(waitvalue)
+        #     self.setSearchResults(backout)
+        #     self.movie.stop()
+        # if self.distcosButton.isChecked():
+        #     backout = cosine_distance_engine(query)
+        #     QtTest.QTest.qWait(waitvalue)
+        #     self.setSearchResults(backout)
+        #     self.movie.stop()
+        if self.bow.isChecked():
+            # self.movie.start()
+            # myQueue = queue.Queue()
+            # thread = threading.Thread(threadFunction(query, myQueue), daemon=True)
+            # thread.start()
+            # thread.join()
+            backout = self.docSim.query(query)
+            #QtTest.QTest.qWait(waitvalue)
             self.setSearchResults(backout)
-            self.movie.stop()
-        elif self.distcosButton.isChecked():
-            backout = cosine_distance_engine(query)
-            QtTest.QTest.qWait(waitvalue)
-            self.setSearchResults(backout)
-            self.movie.stop()
+            # self.movie.stop()
 
     def setSearchResults(self, results):
         results = sorted(results, key = lambda x: x[1], reverse = True)
@@ -115,7 +137,7 @@ class Gui(QWidget):
     def markFunWords(self, text):
         text = text.replace("\n", "<br>")
         for word in self.funList:
-            text = text.replace(word, "<font color='red'>" + word + "</font>")
+            text = text.replace(word, "<font color='green'>" + word + "</font>")
         return text
 
     def markQueryWords(self, text, query):
@@ -124,7 +146,7 @@ class Gui(QWidget):
         if query[-1] == '':
             query = query[:-1]
         for word in query:
-            text = text.replace(word, "<font color='green'>" + word + "</font>")
+            text = text.replace(word, "<font color='red'>" + word + "</font>")
         return text
 
 
