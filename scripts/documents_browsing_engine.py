@@ -190,6 +190,27 @@ def doc_similarity_engine(document, n_best = 10):
     return [(train_Y[i], prob) for i, prob in results[:n_best]]
 
 
+class Doc_similarity:
+    def __init__(self):
+        DATA_MODEL_NAME = "data_model.pickle"
+        DICT_MODEL_NAME = "dictSim.pcikle"
+        INDEX_NAME = "gensim_index.pickle"
+    
+        _, self.train_Y = load_model(DATA_MODEL_NAME)
+        self.index = load_model(INDEX_NAME)
+        self.gensim_dict = load_model(DICT_MODEL_NAME)
+
+    def query(self, document, n_best=10):
+        if n_best >= 100:
+            raise "Im sorry, I wasn't prepared to give such a big result. please... stop being a programmer, ok?"
+        document = _preprocess_document(document, is_join = False)
+        bow_doc = self.gensim_dict.doc2bow(document)
+        if len(bow_doc) == 0:
+            return False
+
+        results = self.index[bow_doc]
+        return [(self.train_Y[i], prob) for i, prob in results[:n_best]] 
+
 def SGD_engine(document, n_best=10):
     trained_model = load_model("test_SGD_model.pickle")
     vectorizer = load_model("test_vectorizer.pickle")
@@ -251,8 +272,27 @@ def gensim_engine(document, n_best=10):
     positive_vector =  model.infer_vector(positive_document, epochs = 20)
     negative_vector =  model.infer_vector(negative_document, epochs = 20)
     
-    return model.wv.most_similar(positive = positive_document, negative = negative_document)
+    try:
+        return model.wv.most_similar(positive = positive_document, negative = negative_document)
+    except:
+        return False
+     
+    #return model.wv.most_similar(positive = positive_document, negative = negative_document)
 
+class Gensim:
+    def __init__(self):
+        W2C_MODEL_NAME = "model.w2c"
+        self.model = Doc2Vec.load(W2C_MODEL_NAME)
+    
+    def query(self, document, n_best=10):
+        positive_document, negative_document = _preprocess_positive_negative(document, is_join = False)
+        # import ipdb; ipdb.set_trace()
+        positive_vector =  self.model.infer_vector(positive_document, epochs = 20)
+        negative_vector =  self.model.infer_vector(negative_document, epochs = 20)
+        try: 
+            return self.model.wv.most_similar(positive = positive_document, negative = negative_document)
+        except:
+            return False
 def save_model(model, filename):
     print(f"saving {filename}")
     with open(filename, 'wb') as handle:
@@ -284,7 +324,8 @@ if __name__ == "__main__":
     # trained_model = train_KNN_model()
 
     # create_document_similarity_model()
-    
+    e1 = Gensim()
+    e2 = Doc_similarity()
 
     saving = False
     if saving:
@@ -298,11 +339,28 @@ if __name__ == "__main__":
         print_lineno()
         print("end")
     
+    queries = ["testing on document1",
+            """kaczynski tusk donald lech polityka""",
+            """kaczynski tusk donald lech""",
+            """kaczynski""",
+            """donald"""]
+
+
     print("testing on document1")
     test_doc = """kaczynski tusk donald lech polityka"""
-    print(gensim_engine(test_doc))
-    print(doc_similarity_engine(test_doc))
+    #print(gensim_engine(test_doc))
+    #print(doc_similarity_engine(test_doc))
 
     print("testing on document2")
-    test_doc = """majtki skarpety"""
-    print(gensim_engine(test_doc))
+    test_doc = """dsaldkj"""
+    #print(gensim_engine(test_doc))
+    #print(doc_similarity_engine(test_doc))
+
+    for q in queries:
+        print(e1.query(q))
+    
+    for q in queries:
+        print(e2.query(q))
+    
+
+
