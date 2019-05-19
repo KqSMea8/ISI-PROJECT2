@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /account.html
+Disallow: /checkout_1.html
+Disallow: /checkout_2.html
+Disallow: /checkout_3.html
+Disallow: /checkout_success.html
+Disallow: /login.html
+Disallow: /password_forgotten.html
+Disallow: /shopping_cart.html
+Disallow: /product_info.php/
+Disallow: /search/
+Disallow: /advanced_search_result.html/
+Sitemap: https://www.jubileo.pl/sitemapindex.xml

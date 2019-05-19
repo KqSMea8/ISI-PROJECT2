@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /faq/
+Disallow: /zamowienia/
+Disallow: /koszyk/
+Disallow: /regulamin/
+Disallow: /polityka-prywatnosci/
+Disallow: /shop/
+Disallow: /moje-konto/
+Disallow: /formy-platnosci-dostawa/
+Disallow: /zwroty-wymiany-reklamacje/

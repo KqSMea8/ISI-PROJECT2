@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /myglobe*
+Allow: /myglobe/checkauth
+Allow: /myglobe/css/export.css
+Allow: /myglobe/img/sprite.png
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /ja*
+Disallow: /hr*
+Disallow: /cz*
+Disallow: /it*
+Disallow: /lt*
+Disallow: /es*
+Disallow: /manager*
+Disallow: *?*
+
+Sitemap: https://globegain.com/sitemap.xml
+Host: globegain.com

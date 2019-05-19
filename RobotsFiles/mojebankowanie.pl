@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /tmp/
+Disallow: /css/
+Disallow: /DOKUMENTY/
+Disallow: /LOGO/
+Disallow: /pub/
+Disallow: /Stronka/
+Disallow: /szablon/
+Disallow: /instytucjaroku.pl/
+Sitemap: https://mojebankowanie.pl/sitemap.xml

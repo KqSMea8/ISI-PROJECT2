@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /doKoszyka/
+Disallow: /wKoszyku/
+Disallow: /koszyk/
+Disallow: /kodRabatowy/
+Disallow: /zapytanie-o-produkt/
+Disallow: /opinia-o-produkcie/
+Disallow: /opinia-o-produkcie-jest-pomocna/
+Disallow: /szukaj/
+Disallow: /getguid.php
+Disallow: /setguid.php
+Disallow: /admin

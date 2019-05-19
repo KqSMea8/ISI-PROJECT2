@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+User-agent: AhrefsBot
+Disallow: /wp-content/
+User-agent: dotbot
+Disallow: /wp-content/
+User-agent: MJ12bot
+Disallow: /wp-content/

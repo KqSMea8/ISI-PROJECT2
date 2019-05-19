@@ -1,0 +1,20 @@
+sitemap: http://okuciameble.pl/sitemap.xml
+
+User-agent:  *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /archives/
+disallow: /*?*
+Disallow: *?replytocom
+Disallow: /wp-*
+Disallow: /comments/feed/
+User-agent: Mediapartners-Google*
+Allow: /
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /

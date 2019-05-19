@@ -1,0 +1,13 @@
+Sitemap: http://www.pakowanie.info/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /targi.html
+Disallow: /konferencje.html
+Disallow: /http://www.pakowanie.info/wszystkie-wiadomo347ci/category/wiedza
+Disallow: /wiedza.html
+

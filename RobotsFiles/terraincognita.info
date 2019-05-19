@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /box/
+Disallow: /ukr/marshrut_one/
+Disallow: /rus/marshrut_one/
+Disallow: /pl/marshrut_one/
+Disallow: /eng/marshrut_one/
+Disallow: /ukr/order/
+Disallow: /rus/order/
+Disallow: /pl/order/
+Disallow: /eng/order/

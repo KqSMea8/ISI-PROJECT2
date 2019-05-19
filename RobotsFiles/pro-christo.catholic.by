@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /administrator/
+
+User-agent: *
+Crawl-delay: 10
+
+User-agent: *
+Request-rate: 1/10

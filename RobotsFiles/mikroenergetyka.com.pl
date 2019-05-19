@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /realizacja/zdjecia/51,0.html
+Disallow: /realizacja/zdjecia/52,0.html
+Disallow: /realizacja/zdjecia/338,266.html
+Disallow: /realizacja/zdjecia/200,0.html
+Disallow: /realizacja/zdjecia/283,0.html
+Disallow: /realizacja/zdjecia/355,280.html
+Disallow: /realizacja/zdjecia/201,179.html
+Disallow: /realizacja/zdjecia/290,0.html

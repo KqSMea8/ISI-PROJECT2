@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /
+
+User-agent: sistrix
+User-agent: Googlebot
+User-agent: Googlebot/2.1
+User-agent: Googlebot-Mobile/2.1
+User-agent: Googlebot-Image/1.0
+User-agent: Mediapartners-Google/2.1
+User-agent: msnbot/1.1
+User-agent: msnbot/2.0b
+User-agent: Yahoo! Slurp
+User-agent: Yahoo! Slurp/3.0
+User-agent: ShopWiki
+Allow:/
+Disallow: /application
+Disallow: /modules
+Disallow: /share
+Disallow: /temp/backup
+Disallow: /temp/cache
+Disallow: /temp/captcha
+Disallow: /temp/download
+Disallow: /temp/export
+Disallow: /temp/flash
+Disallow: /temp/import
+Disallow: /temp/log
+Disallow: /temp/qr
+Disallow: /temp/stage
+Disallow: /temp/wkhtmltopdf
+Disallow: /skins
+Disallow: /*.php
+Disallow: /a

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: houbar.html
+Disallow: smes-pro-celkove-posileni-imunitniho-systemu.html
+Disallow: smes-hub-a-ras-pro-detoxikaci.html
+Disallow: smes-hub-a-bylin-pro-menopauzalni-pohodli-1.html
+Disallow: mycogastro-smes-na-zanety-traviciho-traktu-a-podporu-traveni.html
+Disallow: smes-ve-forme-sirupu-na-podporu-imunitniho-systemu-u-deti.html
+Disallow: smes-na-podporu-respiracniho-systemu-a-u-alergii.html
+Disallow: smes-pro-zmirneni-psychosomatickych-problemu.html
+Disallow: smes-na-regeneraci-organismu-po-chemo-ci-radioterapii.html
+Disallow: smes-na-podporu-vitality.html
+Disallow: smes-na-podporu-vitality-s-akcentem-na-sexualitu.html
+Disallow: smes-pro-podporu-traveni-a-odvedeni-vlhkosti-z-organismu.html
+Disallow: eshop-vyhledano.html
+Disallow: users-login.html
+Disallow: /*?*fbclid=
+Disallow: /admin
+Sitemap: https://www.mycomedica.pl/sitemap.xml
+

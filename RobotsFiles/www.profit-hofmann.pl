@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Disallow: /trackback
+Disallow: /feed
+Disallow: /comments
+Disallow: /category/*/*
+Disallow: */wp-admin
+Disallow: */wp-includes
+Disallow: */wp-content
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: */category/*/*
+Disallow: /*?*
+Disallow: /*?
+

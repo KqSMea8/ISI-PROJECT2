@@ -1,0 +1,13 @@
+# Default modx exclusions
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+Sitemap: http://www.masterminvest.pl/sitemap.xml

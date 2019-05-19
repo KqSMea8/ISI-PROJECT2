@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /*?nggpage=
+Disallow: /*?album=
+Disallow: /*?show=slide
+Disallow: /*?show=gallery
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: */trackback
+Disallow: /wp-content/uploads/2018/09/ITAKA_POZ__KOMORNIKI__L2019__300x450px__v1.jpg
+Disallow: /wp-content/uploads/2018/08/maldrew-praca-2.jpg
+Disallow: /wp-content/uploads/2018/01/Skl-857.jpg
+Disallow: /wp-content/uploads/2018/11/gmp_Stora_2.jpg
+Disallow: /wp-content/uploads/2018/09/perfecta-praca-1.jpg
+Allow: /
+Sitemap: http://www.gazeta-mosina.pl/sitemap_index.xml
+

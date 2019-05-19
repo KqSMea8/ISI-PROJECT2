@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pl" ng-app="wchApp">
+<head>
+<meta charset="utf-8">
+<base href="/">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="K6NMU3gsEogeKMx9zS2Mb99vclqxLt2vN8JL8tNoh7M" />
+<link rel="shortcut icon" href="/img/favicon-16x16.png"/>
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>Wiadomosci Chemiczne</title>
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
+<link href="css/ng-bootstrap-submenu.min.css" rel="stylesheet" />
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]
+<style type="text/css">
+.gradient {
+filter: none;
+}
+</style>
+<![endif]-->
+<script src="http://cookiealert.sruu.pl/CookieAlert-latest.min.js"></script>
+<script>
+CookieAlert.init({
+style: 'dark',
+position: 'bottom',
+opacity: '0.9',
+displayTime: 0,
+cookiePolicy: 'http://cookiealert.sruu.pl/o-ciasteczkach',
+text: 'Ten serwis wykorzystuje pliki cookies. Korzystanie z witryny oznacza zgode na ich zapis lub odczyt wg ustawien przegladarki.'
+});
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-80937712-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<div class="container">
+<div ng-include="'templates/navbar/navbar.html'"></div>
+<div data-ng-view=""></div>
+
+
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/vendor/angular.min.js"></script>
+<script src="js/vendor/angular-route.min.js"></script>
+<script src="js/vendor/angular-sanitize.js"></script>
+<script src="js/vendor/ng-bootstrap-submenu.min.js"></script>
+<script src="js/app_01.js"></script>
+<script src="js/controllers.js"></script>
+
+</body>
+</html>
+

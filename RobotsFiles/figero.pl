@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /_backup
+Disallow: /_CSS
+Disallow: /admin
+Disallow: /ankieta
+Disallow: /antispam
+Disallow: /cgi-bin
+Disallow: /dhtml
+Disallow: /docs
+Disallow: /img
+Disallow: /lib
+Disallow: /mods
+Disallow: /pazp
+Disallow: /photos
+Disallow: /tinymce
+Disallow: /userfiles
+Disallow: /video
+Disallow: /WEBMAIL
+Disallow: /webmail
+Disallow: /_demo_sklepy.zip
+Disallow: /admin.php
+Disallow: /config.php
+Disallow: /ver_email.php
+

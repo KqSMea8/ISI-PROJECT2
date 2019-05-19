@@ -1,0 +1,22 @@
+User-Agent: *
+Allow: *
+Disallow: /kartki/cards/
+Disallow: /kartki/admin/
+Allow: /swiatlo/index.php
+Allow: /swiatlo/artykuly/
+Allow: /swiatlo/pts/
+Allow: /swiatlo/katalog/katalog.html
+Allow: /swiatlo/slownik/slownik.html
+Allow: /swiatlo/literatura/
+Allow: /swiatlo/upominki/
+Allow: /swiatlo/kontakt/
+
+User-Agent: Homenet-Search
+Disallow: *
+Allow: /swiatlo/index.php
+Allow: /swiatlo/artykuly
+Allow: /swiatlo/pts
+Allow: /swiatlo/katalog/katalog.html
+Allow: /swiatlo/slownik/slownik.html
+Allow: /swiatlo/literatura
+Allow: /swiatlo/upominki

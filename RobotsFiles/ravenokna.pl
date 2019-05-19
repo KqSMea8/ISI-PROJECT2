@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /xmlrpc.php
+Disallow: /wp-admin/
+Disallow: /gf23a/
+Disallow: /polityka-prywatnosci
+Disallow: /polityka-prywatnosci/*
+Disallow: /obowiazek-informacyjny
+Disallow: /obowiazek-informacyjny/*
+Sitemap: https://ravenokna.pl/sitemap_index.xml

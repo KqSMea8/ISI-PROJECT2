@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /hi/
+Disallow: /ro/
+Disallow: /ca/
+Disallow: /tl/
+Disallow: /id/
+Disallow: /lv/
+Disallow: /lt/
+Disallow: /sl/
+Disallow: /uk/
+Disallow: /vi/

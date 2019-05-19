@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /bin/*.xml
+Disallow: /media/*.xml
+Disallow: /js/
+Disallow: /fb/
+Disallow: /css/
+Disallow: /pngfix.js
+Disallow: /includes/
+Disallow: /AC_RunActiveContent.js
+Disallow: /ContactFormGadget
+Disallow: /ProductsGadget
+Disallow: /ProductsTinyGadget
+Disallow: /PromotionsGadget
+Disallow: /RoomTypesCompareGadget
+Disallow: /RoomTypesGadget
+Disallow: /hotel-thank-you-booking.html
+Disallow: /msg.*
+
+Sitemap: http://www.hotellido.pt/sitemap.xml
+

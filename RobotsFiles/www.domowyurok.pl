@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /lista-zyczen/
+Disallow: /moje-konto/
+Disallow: /news/
+Disallow: /*?s*
+Disallow: /*?orderby*
+Disallow: /koszyk/
+User-agent: MJ12bot
+Disallow: /

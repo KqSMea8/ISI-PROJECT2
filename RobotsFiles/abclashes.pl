@@ -1,0 +1,27 @@
+sitemap: http://abclashes.pl/sitemap.xml
+User-agent: *
+
+Disallow: *customer
+Disallow: *checkout
+Disallow: *catalogsearch
+Disallow: *product_compare
+Disallow: *?price=
+Disallow: *review
+Disallow: *?q=
+Disallow: *?p=
+Disallow: *?cat=
+Disallow: *?dir=
+Disallow: *?price
+Disallow: *?limit=
+Disallow: ?mode=
+Disallow: *order
+Disallow: *?dir=
+Disallow: *?dlugosc=
+Disallow: *?profil=
+Disallow: *?rodzaj=
+Disallow: *?grubosc=
+Disallow: *?umiejentnosci=
+Disallow: *?pojemnosc=
+Disallow: *?___SID=
+Disallow: *]
+Disallow: *?color=

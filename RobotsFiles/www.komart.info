@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="assets/favicon.png">
+<title>Komart - Agencja reklamowa</title>
+
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+<link href="carousel.css" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+<script src="assets/js/ie-emulation-modes-warning.js"></script>
+</head>
+<body>
+
+
+<!-- NAVBAR
+================================================== -->
+<div class="navbar-wrapper">
+<div class="container">
+<nav id="header" class="navbar navbar-inverse navbar-fixed-top">
+<div id="header-container" class="container navbar-container">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand img-responsive" href="index.php"><img src="assets/img/logo-komart.svg" class="logo-width" alt="logo Komart"></a>
+</div>
+<div id="navbar" class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a data-toggle="collapse" href="#onas">O nas</a></li>
+<li><a data-toggle="collapse" href="#uslugi">Nasze uslugi</a></li>
+<li><a href="oferta.php">Oferta</a></li>
+<li><a data-toggle="collapse" href="#referencje">Referencje</a></li>
+<li><a href="realizacje.php">Realizacje</a></li>
+<li><a data-toggle="collapse" href="#kontakt">Kontakt</a></li>
+<li class="phone-nav"><a href="tel:690348157"><img class="phone-icon" src="assets/img/phone-icon.svg"> 690 348 157</a></li>
+</ul>
+</div><!-- /.nav-collapse -->
+</div><!-- /.container -->
+</div>
+</nav><!-- /.navbar -->
+
+</div>
+</div>
+
+<!-- SLIDER
+================================================== -->
+<div class="slider-main">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!-- Indicators -->
+<ol class="carousel-indicators">
+<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+<li data-target="#myCarousel" data-slide-to="1"></li>
+<li data-target="#myCarousel" data-slide-to="2"></li>
+</ol>
+<div class="carousel-inner " role="listbox">
+<div class="item active slider1">
+<div class="container">
+<div class="carousel-caption">
+</div>
+</div>
+</div>
+
+<div class="item slider2">
+
+<div class="container">
+<div class="carousel-caption">
+<a style="padding:6000px;" href="http://restauracje.komart.info/" target="_blank"> . </a>
+</div>
+</div>
+</div>
+
+<div class="item slider3">
+
+<div class="container">
+<div class="carousel-caption">
+<a style="padding:6000px;" href="strony-www.php"> . </a>
+</div>
+</div>
+</div>
+
+</div>
+<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+
+<!-- WORKS-UNDER-SLIDER
+================================================== -->
+
+<div class="works-slider">
+</div>
+
+<!-- O NAS
+================================================== -->
+<div class="bg-section-1">
+<a class="anchor" id="onas"></a>
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h2>O nas</h2>
+</div>
+</div>
+</div>
+<div class="container bottom-separator">
+<div class="row">
+<div class="col-lg-4 col-sm-4 quote">
+Kreatywnosc wymaga odwagi odrzucenia pewnikow<br><br>
+~ ERICH FROMM
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Tylko kiedy spimy nie jestesmy online. Reklama i nowe media, to nasza pasja. Potrafimy nia zarazac - przekonaj sie o tym. Nasze dotychczasowe doswiadczenia pozwalaja nam precyzyjnie trafiac zarowno w gusta Twoje jak i Twoich klientow - zrobmy razem cos dobrego dla Twojej reklamy.</p>
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Najczesciej proste rozwiazania sa skuteczne. Jesli trzeba uproscimy dla Ciebie nawet najbardziej skomplikowane dzialania marketingowe i w dostepny sposob zaprezentujemy ich wymierne efekty.</p>
+</div>
+</div>
+</div>
+<div class="container marketing">
+<div class="row">
+<div class="col-lg-4 col-sm-4">
+<img src="assets/img/pawel.jpg" alt="Pawel" class="img-responsive img-center">
+<h3>Pawel</h3>
+<h4>web developer</h4>
+</div>
+<div class="col-lg-4 col-sm-4">
+<img src="assets/img/basia.jpg" alt="Basia" class="img-responsive img-center">
+<h3>Basia</h3>
+<h4>marketing & sales</h4>
+</div>
+<div class="col-lg-4 col-sm-4">
+<img src="assets/img/grzesiek.jpg" alt="Grzesiek" class="img-responsive img-center">
+<h3>Grzesiek</h3>
+<h4>graphic designer</h4>
+</div>
+</div>
+</div>
+
+<!-- USLUGI
+================================================== -->
+
+<div class="container uslugi">
+<a class="anchor" id="uslugi"></a>
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h2>Nasze uslugi</h2>
+</div>
+</div>
+</div>
+<div class="container">
+<ul class="nav nav-tabs">
+<li class="active"><a href="#home"><img class="img-center" src="assets/img/branding-icon.png"><br>BRANDING</a></li>
+<li><a href="#menu1"><img class="img-center" src="assets/img/web-design-icon.png"><br>WEB DESIGN</a></li>
+<li><a href="#menu2"><img class="img-center" src="assets/img/graphic-design-icon.png"><br>GRAPHIC DESIGN</a></li>
+<li><a href="#menu3"><img class="img-center" src="assets/img/social-media-icon.png"><br>SOCIAL MEDIA</a></li>
+<li><a href="#menu4"><img class="img-center" src="assets/img/fotografia-icon.png"><br>PHOTOGRAPHY</a></li>
+</ul>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<div class="col-lg-4 col-sm-4 quote">
+Twoja marka jest to, co ludzie mowia o tobie, kiedy wyjdziesz z pokoju.<br><br>
+~ JEFF BEZOS
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Stworzenie marki nie konczy sie na zrobieniu logotypu. Zaczynamy od poznania Ciebie, Twoich oczekiwan , gustu i wspolnie wypracowujemy identyfikacje wizualna, ktora spelni wszystkie zalozenia.</p>
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Z nami Twoje dzialania na wszystkich plaszczyznach marketingu beda spojne i dopasowane do grupy docelowej. Dolacz do innych naszych Klientow, z ktorymi tworzymy marki zapadajace w pamiec.</p>
+</div>
+</div>
+<div id="menu1" class="tab-pane fade">
+<div class="col-lg-4 col-sm-4 quote">
+Nigdy nie widzialem lepszego widgetu niz odstep<br><br>
+~ VASILIS VAN GEMER
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Niezaleznie od branzy obecnosc w Internecie jest obowiazkowa. Nasi klienci to zarowno lokalne przedsiebiorstwa, firmy ogolnopolskie oraz miedzynarodowe. Niezaleznie czy jest to strona pelniaca role wizytowki, portal lub sklep internetowy, zawsze realizujemy ja na najwyzszym poziomie.</p>
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Nie musisz sie martwic o domene, hosting, a nawet narzedzia analityczne, ktorymi mozesz samodzielnie lub z nami monitorowac wszystkie parametry strony i dopasowywac sie do potrzeb Twoich docelowych odbiorcow.</p>
+</div>
+</div>
+<div id="menu2" class="tab-pane fade">
+<div class="col-lg-4 col-sm-4 quote">
+Szczegol nie jest tylko szczegolem. To czesc skladowa kazdego projektu.<br><br>
+~ CHARLES EAMES
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Projekt graficzny to nieskonczenie wiele elementow, ktore razem tworza sztuke - sztuke identyfikacji wizualnej. Nie wazne jaki to projekt - dla nas jest zawsze tak samo wazny.</p>
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Dbanie o kazdy szczegol, propozycje z naszej strony i nieograniczona liczba poprawek, to nasze atuty, ktore zostaly docenione przez naszych Klientow.</p>
+</div>
+</div>
+<div id="menu3" class="tab-pane fade">
+<div class="col-lg-4 col-sm-4 quote">
+Uwaga jest jednym z najcenniejszych dobr w nowoczesnym spoleczenstwie<br><br>
+~ ALEKSANDER BARD
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Utrzymywanie relacji z klientami jest koniecznym elementem kazdej branzy i dziedziny. Dzieki Social Media staje sie to dostepne na bardzo duza skale. Dzieki temu mozesz na biezaco odpowiadac na pytania i modelowac swoj biznes pod potrzeby krotko lub dlugoterminowe Twoich Klientow.</p>
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Mozesz powierzyc nam komunikacje z Klientami poprzez nowe media. Znamy sie na tym i nasza pomyslowosc z pewnoscia przyniesie zakladane rezultaty. Jestesmy konsekwentni w swoich dzialaniach. Czas reakcji i aktywnosc dopasowujemy do charakteru Twoich oczekiwan.</p>
+</div>
+</div>
+<div id="menu4" class="tab-pane fade">
+<div class="col-lg-4 col-sm-4 quote">
+Fotografia jest najlatwiejsza rzecza na swiecie, ale bardzo trudno spowodowac, zeby naprawde wyszla.<br><br>
+~ MARTIN PARR
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>Obraz jest wazniejszy niz jakikolwiek opis. Dobrze zrobione zdjecie potrafi wplynac na Klienta w bardzo skuteczny sposob. Personalizowane materialy podkreslaja indywidualnosc marki lub produktu.</p>
+</div>
+<div class="col-lg-4 col-sm-4">
+<p>W naszej ofercie znajduje sie zarowno fotografia produktowa, wnetrz oraz studyjna. Kazdy jej rodzaj dopasowany jest do konkretnej realizacji. Pracujemy na wysokiej jakosci sprzecie oraz posiadamy swoje studio fotograficzne.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="container uslugi-mobile">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h2>Nasze uslugi</h2>
+</div>
+</div>
+</div>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#us1">BRANDING</button>
+<div id="us1" class="collapse">
+<div class="col-lg-12">
+<p class="quote" style="padding: 10px 0px;">
+Twoja marka jest to, co ludzie mowia o tobie, kiedy wyjdziesz z pokoju.<br>
+~ JEFF BEZOS
+</p>
+
+<p>Stworzenie marki nie konczy sie na zrobieniu logotypu. Zaczynamy od poznania Ciebie, Twoich oczekiwan , gustu i wspolnie wypracowujemy identyfikacje wizualna, ktora spelni wszystkie zalozenia.</p>
+
+<p>Z nami Twoje dzialania na wszystkich plaszczyznach marketingu beda spojne i dopasowane do grupy docelowej. Dolacz do innych naszych Klientow, z ktorymi tworzymy marki zapadajace w pamiec.</p>
+</div>
+</div>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#us2">WEB DESIGN</button>
+<div id="us2" class="collapse">
+<div class="col-lg-12">
+<p class="quote" style="padding: 10px 0px;">
+Nigdy nie widzialem lepszego widgetu niz odstep<br>
+~ VASILIS VAN GEMER
+</p>
+<p>Niezaleznie od branzy obecnosc w Internecie jest obowiazkowa. Nasi klienci to zarowno lokalne przedsiebiorstwa, firmy ogolnopolskie oraz miedzynarodowe. Niezaleznie czy jest to strona pelniaca role wizytowki, portal lub sklep internetowy, zawsze realizujemy ja na najwyzszym poziomie.</p>
+<p>Nie musisz sie martwic o domene, hosting, a nawet narzedzia analityczne, ktorymi mozesz samodzielnie lub z nami monitorowac wszystkie parametry strony i dopasowywac sie do potrzeb Twoich docelowych odbiorcow.</p>
+</div>
+</div>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#us3">GRAPHIC DESIGN</button>
+<div id="us3" class="collapse">
+<div class="col-lg-12">
+<p class="quote" style="padding: 10px 0px;">
+Szczegol nie jest tylko szczegolem. To czesc skladowa kazdego projektu.<br>
+~ CHARLES EAMES
+</p>
+<p>Projekt graficzny to nieskonczenie wiele elemnentow, ktore razem tworza sztuke - sztuke identyfikacji wizualnej. Nie wazne jaki to projekt - dla nas jest zawsze tak samo wazny.</p>
+<p>Dbanie o kazdy szczegol, propozycje z naszej strony i nieograniczona liczba poprawek, to nasze atuty, ktore zostaly docenione przez naszych Klientow.</p>
+</div>
+</div>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#us4">SOCIAL MEDIA</button>
+<div id="us4" class="collapse">
+<div class="col-lg-12">
+<p class="quote" style="padding: 10px 0px;">
+Uwaga jest jednym z najcenniejszych dobr w nowoczesnym spoleczenstwie<br>
+~ ALEKSANDER BARD
+</p>
+<p>Utrzymywanie relacji z klientami jest koniecznym elementem kazdej branzy i dziedziny. Dzieki Social Media staje sie to dostepne na bardzo duza skale. Dzieki temu mozesz na biezaco odpowiadac na pytania i modelowac swoj biznes pod potrzeby krotko lub dlugoterminowe Twoich Klientow.</p>
+<p>Mozesz powierzyc nam komunikacje z Klientami poprzez nowe media. Znamy sie na tym i nasza pomyslowosc z pewnoscia przyniesie zakladane rezultaty. Jestesmy konsekwentni w swoich dzialaniach. Czas reakcji i aktywnosc dopasowujemy do charakteru Twoich oczekiwan.</p>
+</div>
+</div>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#us5">PHOTOGRAPHY</button>
+<div id="us5" class="collapse">
+<div class="col-lg-12">
+<p class="quote" style="padding: 10px 0px;">
+Fotografia jest najlatwiejsza rzecza na swiecie, ale bardzo trudno spowodowac, zeby naprawde wyszla.<br>
+~ MARTIN PARR
+</p>
+<p>Obraz jest wazniejszy niz jakikolwiek opis. Dobrze zrobione zdjecie potrafi wplynac na Klienta w bardzo skuteczny sposob. Personalizowane materialy podkreslaja indywidualnosc marki lub produktu.</p>
+<p>W naszej ofercie znajduje sie zarowno fotografia produktowa, wnetrz oraz studyjna. Kazdy jej rodzaj dopasowany jest do konkretnej realizacji. Pracujemy na wysokiej jakosci sprzecie oraz posiadamy swoje studio fotograficzne.</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="container container-btn">
+<a class="btn-oferta pull-center" href="oferta.php" role="button">ZOBACZ PELNA OFERTE</a>
+</div>
+</div>
+
+<!-- REFERENCJE
+================================================== -->
+<a class="anchor" id="referencje"></a>
+<div class="referencje">
+<div class="container">
+
+<div class="row">
+<img src="assets/img/referencje-icon.svg" alt="Referencje" class="img-responsive img-center img-referencje">
+<div class="col-md-12" data-wow-delay="0.2s">
+<div class="carousel slide" data-ride="carousel" id="quote-carousel">
+<!-- Bottom Carousel Indicators -->
+<ol class="carousel-indicators">
+<li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+<li data-target="#quote-carousel" data-slide-to="1"></li>
+<li data-target="#quote-carousel" data-slide-to="2"></li>
+<li data-target="#quote-carousel" data-slide-to="3"></li>
+</ol>
+<!-- Carousel Slides / Quotes -->
+<div class="carousel-inner text-center">
+<!-- Quote 1 -->
+<div class="item active">
+<blockquote>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+<p>Komart to najlepszy wybor. To ludzie z pasja, ktorzy zdefiniowali moje potrzeby, fachowo dobrali odpowiednie narzedzia i srodki przekazu, ktore spelnily calkowicie moje oczekiwania i potrzeby.</p>
+<small>Iga Garbowska<br>
+KLINIKA OSTEOPATII</small>
+</div>
+</div>
+</blockquote>
+</div>
+<!-- Quote 2 -->
+<div class="item">
+<blockquote>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+<p>Indywidualne i profesjonalne podejscie do klienta. Szybka realizacja zamowien i swietny kontakt. Polecam!</p>
+<small>Marcin Zak<br>
+VIGORPOINT</small>
+</div>
+</div>
+</blockquote>
+</div>
+<!-- Quote 3 -->
+<div class="item">
+<blockquote>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+<p>Tworzycie swietny zespol fachowcow i bardzo sie ciesze, ze nasze drogi sie spotkaly. Wiem, ze jestem w dobrych rekach i licze na dalsze, wasze wsparcie w najwazniejszym projekcie mojego zycia.</p>
+<small>Michal Gorski</small>
+</div>
+</div>
+</blockquote>
+</div>
+<!-- Quote 4 -->
+<div class="item">
+<blockquote>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+<p>Piekna wspolpraca z ludzmi, ktorzy maja glowy pelne pomyslow i wizji, sluchaja co sie do nich mowi. Ba! Potrafia czytac miedzy wierszami.</p>
+<small>Joanna Zajkowska<br>
+UKOJENIE DOULA</small>
+</div>
+</div>
+</blockquote>
+</div>
+
+</div>
+<!-- Carousel Buttons Next/Prev -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container container-btn">
+<a class="btn-referencje pull-right" href="https://www.facebook.com/pg/Komart.Sosnowiec/reviews/" target="_blank" role="button">ZOBACZ WSZYSTKIE REFERENCJE</a>
+</div>
+
+<!-- REALIZACJE
+================================================== -->
+<div class="bg-section-2">
+<div class="container realizacje">
+<div class="row">
+<div class="col-lg-12">
+<h2>REALIZACJE</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-sm-4">
+<div class="container">
+<a href="hemar.php">
+<img src="assets/img/hemar-main.jpg" alt="Avatar" class="image">
+<div class="overlay">
+<div class="text">
+<img src="assets/img/plus-icon.svg" style="width:60px;" alt="zobacz realizacje" class="image">
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4 col-sm-4">
+<div class="container">
+<a href="evogym.php">
+<img src="assets/img/evogym-main.jpg" alt="Avatar" class="image">
+<div class="overlay">
+<div class="text">
+<img src="assets/img/plus-icon.svg" style="width:60px;" alt="zobacz realizacje" class="image">
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4 col-sm-4">
+<div class="container">
+<a href="copco.php">
+<img src="assets/img/copco-main.jpg" alt="Avatar" class="image">
+<div class="overlay">
+<div class="text">
+<img src="assets/img/plus-icon.svg" style="width:60px;" alt="zobacz realizacje" class="image">
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="container-btn display-none1">
+<a class="btn-realizacje" href="realizacje.php" role="button">ZOBACZ WSZYSTKIE REALIZACJE</a>
+</div>
+<div class="container container-btn display-none">
+<a class="btn-realizacje-mobile" href="realizacje.php" role="button">ZOBACZ WSZYSTKIE REALIZACJE</a>
+</div>
+</div>
+
+
+
+<!-- KONTAKT
+================================================== -->
+<div class="kontakt">
+<a class="anchor" id="kontakt"></a>
+<div class="container kontakt">
+<div class="row">
+<div class="col-lg-12">
+<h2>KONTAKT</h2>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-sm-4">
+<span class="kontakt-head">GDZIE JESTESMY?</span><br>
+Targowa 8, Sosnowiec<br>
+Zwyciestwa 3 / IIIp, Gliwice<br><br>
+<span class="kontakt-head">CHCESZ ZADZWONIC?</span><br>
++48 690 348 157<br><br>
+<span class="kontakt-head">A MOZE NAPISAC?</span><br>
+<a href="mailto:biuro@komart.info">biuro@komart.info</a>
+</div>
+<div class="col-lg-8 col-sm-8">
+
+
+
+
+
+
+<link href='http://komart.info/new/fc/css/bootstrap.css' rel='stylesheet' type='text/css'>
+<link href='http://komart.info/new/fc/css/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+<link href='http://komart.info/new/fc/css/jquery-ui.css' rel='stylesheet' type='text/css'>
+<link href='http://komart.info/new/fc/time/css/bootstrap-timepicker.min.css' rel='stylesheet' type='text/css'>
+<link href='http://komart.info/new/fc/css/boxes.css' rel='stylesheet' type='text/css'>
+<link href='http://komart.info/new/fc/css/ratings.css' rel='stylesheet' type='text/css'>
+<link href='http://komart.info/new/fc/css/nform_style.css' rel='stylesheet' type='text/css'>
+
+
+<script src='http://komart.info/new/fc/js/jquery.min.js'></script>
+<script src='http://komart.info/new/fc/js/jquery-migrate.min.js'></script>
+
+<script src='http://komart.info/new/fc/js/jquery.ui.core.min.js'></script>
+<script src='http://komart.info/new/fc/js/jquery.ui.widget.min.js'></script>
+<script src='http://komart.info/new/fc/js/jquery.ui.mouse.min.js'></script>
+<script src='http://komart.info/new/fc/js/jquery.ui.slider.min.js'></script>
+
+<script src='http://komart.info/new/fc/js/form.js'></script>
+<script src='http://komart.info/new/fc/js/form_only.js'></script>
+<script src='http://komart.info/new/fc/file-upload/js/jquery.iframe-transport.js'></script>
+<script src='http://komart.info/new/fc/bootstrap/js/bootstrap.min.js'></script>
+<script src='http://komart.info/new/fc/libraries/js_libraries.js'></script>
+<script type="text/javascript">
+window.ajax = 'http://komart.info/new/fc/function.php';
+window.base = 'http://komart.info/new/fc';
+</script>
+
+
+<style></style><form class="a_1231 nform bootstrap submit_hidden no_save_form placeholder noframe ltr none three  no_block_label star_false horizontal" action="javascript:submit_formcraft(1231);" ng-style="{width: con[0].fw, borderRadius: con[0].fr+&quot;px&quot;, MozBorderRadius: con[0].fr+&quot;px&quot;, WebkitBorderRadius: con[0].fr+&quot;px&quot;, fontFamily: con[0].formfamily, backgroundImage: con[0].bg_image, background: con[0].bg_transparent}" id="1231" style="width: 100%; border-radius: 0px; background: inherit;"><input type="hidden" class="form_id ng-pristine ng-valid" val="1" ng-model="con[0].form_main_id"><div id="fe_title" class="nform_li form_title none" ng-style="{fontSize: con[0].ft_px+&quot;px&quot;, borderTopLeftRadius: con[0].fr+&quot;px&quot;, MozBorderTopLeftRadius: con[0].fr+&quot;px&quot;, WebkitBorderTopLeftRadius: con[0].fr+&quot;px&quot;, borderTopRightRadius: con[0].fr+&quot;px&quot;, MozBorderTopRightRadius: con[0].fr+&quot;px&quot;, WebkitBorderTopRightRadius: con[0].fr+&quot;px&quot;, color: con[0].ft_co, backgroundColor: con[0].ft_bg, fontFamily: con[0].tfamily, fontWeight: con[0].tbold, backgroundImage: con[0].bg_image, background: con[0].bg_transparent, textAlign: con[0].ftalign}" style="font-size: 2px; border-top-left-radius: 0px; border-top-right-radius: 0px; font-weight: normal; background: inherit; text-align: left;"></div><ul class="form_ul clearfix none" id="form_ul" style="height: auto; opacity: 1; border-top: 0px;"><!-- ngRepeat: el in build --><li scale="" ng-repeat="el in build" ng-style="{paddingBottom: con[0].space+&quot;px&quot;, paddingTop: con[0].space+&quot;px&quot;}" id="fe_0_1231" class="nform_li ng-scope  inline2 center fe_0" ng-class="[el.default, el.inline, con[0].field_align, el.li_class, &quot;fe_&quot;+$index]" style="padding-bottom: 3px; padding-top: 3px;"><div compile="el.el_f" ng-style="{marginBottom: el.divspa, marginTop: el.divspa}"><span class="cap_cover "><span class="cap1 " ng-style="{ fontSize: con[0].lfs, color: con[0].lfc}" style="font-size: 12px; color: rgb(173, 173, 173);">imie<span class="show_0">*</span></span><span class="cap2 " ng-bind="el.cap2" ng-style="{ fontSize: con[0].slfs, color: con[0].slfc }" style="font-size: 11px; color: rgb(173, 173, 173);">imie</span></span><span class="input_cover text_cover ng-scope"><input type="text" ng-style="{width: el.wid, fontSize: con[0].field_font, color: con[0].input_color}" place="imie" name="imie_text__0_0_300_field0_" class="field_class hasPlaceholder" do_what="[]" style="width: 100%; font-size: 14px; color: rgb(173, 173, 173);"><span class="q_cover" style="display: none;"><span class="inst ttip" ng-style="{ fontSize: con[0].ifs, color: con[0].lfc }" data-original-title="" style="color: rgb(173, 173, 173);"><i class="icon-question-sign"></i></span></span><span class="field0 valid_show" style="display: none;"></span></span></div><span class="element_id ng-binding">0</span></li><li scale="" ng-repeat="el in build" ng-style="{paddingBottom: con[0].space+&quot;px&quot;, paddingTop: con[0].space+&quot;px&quot;}" id="fe_1_1231" class="nform_li ng-scope  inline2 center fe_1" ng-class="[el.default, el.inline, con[0].field_align, el.li_class, &quot;fe_&quot;+$index]" style="padding-bottom: 3px; padding-top: 3px;"><div compile="el.el_f" ng-style="{marginBottom: el.divspa, marginTop: el.divspa}"><span class="cap_cover "><span class="cap1 " ng-style="{ fontSize: con[0].lfs, color: con[0].lfc }" style="font-size: 12px; color: rgb(173, 173, 173);">e-mail<span class="show_1">*</span></span><span class="cap2 " ng-bind="el.cap2" ng-style="{fontSize: con[0].slfs, color: con[0].slfc }" style="font-size: 11px; color: rgb(173, 173, 173);">podaj swoj adres e-mail</span></span><span class="input_cover text_cover ng-scope"><span class="input-append" ng-style="{ width: el.wid }" style="width: 100%;"><input type="email" ng-style="{fontSize: con[0].field_font, color: con[0].input_color}" place="e-mail" style="width: 100%; font-size: 14px; color: rgb(173, 173, 173);" name="e-mail_email_email_1___field1____" do_what="[]" class="field_class hasPlaceholder"><span class="add-on" style="height: 32px;"><i class="icon-envelope-alt"></i></span></span><span class="q_cover" style="display: none;"><span class="inst ttip" ng-style="{ fontSize: con[0].ifs, color: con[0].lfc }" data-original-title="" style="color: rgb(173, 173, 173);"><i class="icon-question-sign"></i></span></span><span class="field1 valid_show" style="display: none;"></span></span></div><span class="element_id ng-binding">1</span></li><li scale="" ng-repeat="el in build" ng-style="{paddingBottom: con[0].space+&quot;px&quot;, paddingTop: con[0].space+&quot;px&quot;}" id="fe_2_1231" class="nform_li ng-scope  inline1 center fe_2 nform_li_before" ng-class="[el.default, el.inline, con[0].field_align, el.li_class, &quot;fe_&quot;+$index]" style="padding-bottom: 3px; padding-top: 3px;"><div compile="el.el_f" ng-style="{marginBottom: el.divspa, marginTop: el.divspa}"><span class="cap_cover "><span class="cap1 " ng-style="{ fontSize: con[0].lfs, color: con[0].lfc }" style="font-size: 12px; color: rgb(173, 173, 173);">wpisz wiadomosc<span class="show_0">*</span></span><span class="cap2 " ng-bind="el.cap2" ng-style="{ fontSize: con[0].slfs, color: con[0].slfc }" style="font-size: 11px; color: rgb(173, 173, 173);"></span></span><span class="input_cover text_cover ng-scope"><textarea rows="3" ng-style="{width: el.wid, fontSize: con[0].field_font, color: con[0].input_color}" place="wpisz wiadomosc" name="wpisz wiadomosc_para__0_0_3000_field2_" class="field_class hasPlaceholder" do_what="[]" style="width: 100%; font-size: 14px; color: rgb(173, 173, 173);"></textarea><span class="q_cover" style="display: none;"><span class="inst ttip" ng-style="{ fontSize: con[0].ifs, color: con[0].lfc }" data-original-title="" style="color: rgb(173, 173, 173);"><i class="icon-question-sign"></i></span></span><span class="field2 valid_show" style="display: none;"></span></span></div><span class="element_id ng-binding">2</span></li><li scale="" ng-repeat="el in build" ng-style="{paddingBottom: con[0].space+&quot;px&quot;, paddingTop: con[0].space+&quot;px&quot;}" id="fe_3_1231" class="nform_li ng-scope  inline1 center fe_3" ng-class="[el.default, el.inline, con[0].field_align, el.li_class, &quot;fe_&quot;+$index]" style="padding-bottom: 3px; padding-top: 3px;"><div compile="el.el_f" ng-style="{marginBottom: el.divspa, marginTop: el.divspa}"><button type="submit" class="submit_button nform_btn boots" ng-style="{backgroundColor: el.sco, fontSize: el.sfs,  left: el.lp,  marginTop: el.tp,  marginBottom: el.bp,  marginRight: el.rp,  height: el.spad1, width: el.spad2,  borderRadius: el.curve,  MozBorderRadius: el.curve,  WebkitBorderRadius: el.curve, fontFamily: el.sfamily, fontWeight: el.sbold, color: el.sbfco}" style="background-color: rgb(221, 221, 221); font-size: 15px; height: 42px; width: 100px; border-radius: 3px; font-weight: normal;">wysij</button></div><span class="element_id ng-binding">3</span></li></ul><div id="fe_submit" class="form_submit" style="position: relative; display: block"><span style="text-align: center; display: inline-block; padding-top: 8px; padding-bottom: 4px"><a class="ref_link" ng-href="" compile="con[0].rlink" target="_blank" title="Opens in a new tab" href=""></a></span><div class="res_div"><span class="nform_res" style="display: none;"></span></div></div></form>
+
+
+<a class="img-responsive rotate" href="https://www.facebook.com/Komart.Sosnowiec" target="_blank"><img src="assets/img/facebook-icon.svg" style="width:42px !important;" alt="facebook"></a>
+<a class="img-responsive rotate" href="https://www.instagram.com/komart_/" target="_blank"><img src="assets/img/instagram.svg" style="width:42px !important;" alt="instagram"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- FOOTER
+================================================== -->
+
+<!-- FOOTER
+================================================== -->
+
+<div id="preloader">
+<div id="status">&nbsp;</div>
+</div>
+
+
+<div class="container" style="padding-top:100px;">
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-sm-4">
+<h5>KOMART</h5>
+<a href="index.php#onas">O nas</a><br>
+<a href="index.php#uslugi">Nasze uslugi</a><br>
+<a href="oferta.php">Oferta</a><br>
+<a href="realizacje.php">Realizacje</a><br>
+<a href="index.php#referencje">Referencje</a><br>
+<a href="index.php#kontakt">Kontakt</a><br>
+<a href="podkast.php">Podkast Kreatywne Zaglebie</a><br>
+</div>
+<div class="col-lg-4 col-sm-4">
+<h5>PORTFOLIO</h5>
+<a href="realizacje.php#kompleksowe">Kompleksowe realizacje</a><br>
+<a href="strony-www.php">Strony www</a><br>
+<a href="realizacje.php#pozostale">Pozostale realizacje</a><br>
+<a href="fotografia.php">Fotografia reklamowa</a><br>
+
+</div>
+<div class="col-lg-4 col-sm-4">
+<h5>KONTAKT</h5>
+Targowa 8, Sosnowiec<br>
++48 690 348 157<br>
+<a href="mailto:biuro@komart.info">biuro@komart.info</a><br>
+<a class="img-responsive rotate-footer" href="https://www.facebook.com/Komart.Sosnowiec" target="_blank"><img src="assets/img/facebook-footer.svg" style="width:24px !important;" alt="facebook"></a>
+<a class="img-responsive rotate-footer" href="https://www.instagram.com/komart_/" target="_blank"><img src="assets/img/instagram-footer.svg" style="width:24px !important;" alt="instagram"></a><br><br>
+<a style="font-weight:900;" href="briefy.php">WYPELNIJ BRIEFA</a>
+</div>
+</div>
+</div>
+</footer>
+<div class="container socket">
+<a class="img-responsive" href="https://www.ciucmok.pl/" target="_blank"><img src="assets/img/ciucmok_logo.png" style="width:135px !important;" alt="ciucmok"></a>
+<a class="img-responsive" href="https://www.foto-sesja.info/" target="_blank"><img src="assets/img/foto-sesja_logo.png" style="width:115px !important;" alt="foto-sesja"></a>
+<p class="pull-right">(c) KOMART 2017</p>
+</div>
+<div class="socket-mobile">
+<p style="text-align:center;">(c) KOMART 2018</p>
+</div>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="js/bootstrap.min.js"></script>
+<!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+<script src="assets/js/vendor/holder.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+<script>
+$(document).ready(function(){
+$(".nav-tabs a").click(function(){
+$(this).tab('show');
+});
+});
+</script>
+<script>
+$("#navbar ul li a[href^='#']").on('click', function(e) {
+
+// prevent default anchor click behavior
+e.preventDefault();
+
+// animate
+$('html, body').animate({
+scrollTop: $(this.hash).offset().top
+}, 600, function(){
+
+// when done, add hash to url
+// (default click behaviour)
+window.location.hash = this.hash;
+});
+
+});
+</script>
+
+<script>
+$(document).ready(function(){
+
+/**
+* This object controls the nav bar. Implement the add and remove
+* action over the elements of the nav bar that we want to change.
+*
+* @type {{flagAdd: boolean, elements: string[], add: Function, remove: Function}}
+*/
+var myNavBar = {
+
+flagAdd: true,
+
+elements: [],
+
+init: function (elements) {
+this.elements = elements;
+},
+
+add : function() {
+if(this.flagAdd) {
+for(var i=0; i < this.elements.length; i++) {
+document.getElementById(this.elements[i]).className += " fixed-theme";
+}
+this.flagAdd = false;
+}
+},
+
+remove: function() {
+for(var i=0; i < this.elements.length; i++) {
+document.getElementById(this.elements[i]).className =
+document.getElementById(this.elements[i]).className.replace( /(?:^|\s)fixed-theme(?!\S)/g , '' );
+}
+this.flagAdd = true;
+}
+
+};
+
+/**
+* Init the object. Pass the object the array of elements
+* that we want to change when the scroll goes down
+*/
+myNavBar.init(  [
+"header",
+"header-container"
+]);
+
+/**
+* Function that manage the direction
+* of the scroll
+*/
+function offSetManager(){
+
+var yOffset = 0;
+var currYOffSet = window.pageYOffset;
+
+if(yOffset < currYOffSet) {
+myNavBar.add();
+}
+else if(currYOffSet == yOffset){
+myNavBar.remove();
+}
+
+}
+
+/**
+* bind to the document scroll detection
+*/
+window.onscroll = function(e) {
+offSetManager();
+}
+
+/**
+* We have to do a first detectation of offset because the page
+* could be load with scroll down set.
+*/
+offSetManager();
+});
+</script>
+<script>
+$(document).on('click','.navbar-collapse.in',function(e) {
+if( $(e.target).is('a') ) {
+$(this).collapse('hide');
+}
+});
+</script>
+
+<script>
+$(function() {
+var selectedClass = "";
+$(".fil-cat").click(function(){
+selectedClass = $(this).attr("data-rel");
+$("#portfolio").fadeTo(100, 0.1);
+$("#portfolio div").not("."+selectedClass).fadeOut().removeClass('scale-anm');
+setTimeout(function() {
+$("."+selectedClass).fadeIn().addClass('scale-anm');
+$("#portfolio").fadeTo(300, 1);
+}, 300);
+
+});
+});
+</script>
+
+
+
+<!-- Preloader -->
+<script type="text/javascript">
+//<![CDATA[
+$(window).on('load', function() { // makes sure the whole site is loaded
+$('#status').fadeOut(); // will first fade out the loading animation
+$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+$('body').delay(350).css({'overflow':'visible'});
+})
+//]]>
+</script>
+
+</body>
+</html>
+

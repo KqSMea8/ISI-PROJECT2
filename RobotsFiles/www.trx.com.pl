@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /tom/
+Disallow: /marek/
+Disallow: /private/
+Disallow: /pub/
+Disallow: /upload/
+Disallow: /tmp/
+#Disallow: /php/
+Disallow: /serwis/
+Disallow: /produkcja/
+Disallow: /konsola2/

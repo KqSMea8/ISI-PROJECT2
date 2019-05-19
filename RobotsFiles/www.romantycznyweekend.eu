@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+User-agent: *
+Disallow: /upload
+User-agent: *
+Disallow: /gfx
+User-agent: *
+Disallow: /zarzadzanie
+User-agent: BizInformacja
+Disallow: /

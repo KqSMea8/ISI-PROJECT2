@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /artykuly
+Disallow: /widget/
+Disallow: /rss/
+Disallow: /swf
+Disallow: /zaloguj
+Disallow: /rejestracja
+Disallow: /polityka-prywatnosci
+Disallow: /podcast/transkrypcja
+Disallow: /Zasady-korzystania-aplikacja-TOK_20161115.pdf

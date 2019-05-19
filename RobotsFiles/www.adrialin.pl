@@ -1,0 +1,1 @@
+User-agent: SpeedyUser-agent: rogerbotCrawl-Delay: 120User-agent: *Disallow: /einfache_suche.htmlDisallow: /einfache_suche.phpDisallow: /merkliste.htmlDisallow: /sicherungsschein.htmlDisallow: /mobile/*

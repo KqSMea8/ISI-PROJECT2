@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /mailing/
+
+Disallow: /account/add
+Disallow: /account/addCommit
+Disallow: /account/addPersonalData
+Disallow: /calendar
+Disallow: /logout
+Disallow: /message
+Disallow: /mobile/message
+Disallow: /moje-konto
+Disallow: /rejestracja
+Disallow: /rynek/fundamentalista
+Disallow: /rynek/pierwsze-kroki
+Disallow: /rynek/przeglad
+Disallow: /rynek/technik
+Disallow: /rynek/wlasny
+Disallow: /site/aktualnosci
+Disallow: /site/message
+Disallow: /site/sitemap.xml
+Disallow: /site/www.bls.gov
+Disallow: /user/updatePassword
+Disallow: /zarzadzanie-aktywami

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /fckeditor/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /modules/
+Disallow: /porownywarki/
+Disallow: /newsletter/
+Disallow: /podstrony/
+Disallow: /upload/pliki_zalogowani/
+Disallow: /upload/zdjecia/zalogowani/
+Disallow: /newsletter-module/

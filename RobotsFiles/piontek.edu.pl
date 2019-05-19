@@ -1,0 +1,46 @@
+User-agent: *
+Disallow:
+Disallow: /archiwum/
+Disallow: /super_babcia/
+Disallow: /odnosniki.txt
+Disallow: /translate.txt
+Disallow: /index1.html
+Disallow: /kontakt1.html
+Disallow: /kontaktpopsutytel.html
+Disallow: /REKRUTACJAindex.html
+Disallow: /STARAsitemap.xml
+Disallow: /b_gim.html
+Disallow: /b_lo.html
+Disallow: /b_ta.html
+Disallow: /b_th.html
+Disallow: /b_ti.html
+Disallow: /b_te.html
+Disallow: /b_tr.html
+Disallow: /b_pseap.html
+Disallow: /l_gim.html
+Disallow: /l_lo.html
+Disallow: /l_ta.html
+Disallow: /l_th.html
+Disallow: /l_ti.html
+Disallow: /l_te.html
+Disallow: /l_tr.html
+Disallow: /l_pseap.html
+Disallow: /t_gim.html
+Disallow: /t_lo.html
+Disallow: /t_ta.html
+Disallow: /t_th.html
+Disallow: /t_ti.html
+Disallow: /t_te.html
+Disallow: /t_tr.html
+Disallow: /t_pseap.html
+Disallow: /z_gim.html
+Disallow: /z_lo.html
+Disallow: /z_ta.html
+Disallow: /z_th.html
+Disallow: /z_ti.html
+Disallow: /z_te.html
+Disallow: /z_tr.html
+Disallow: /z_pseap.html
+
+Sitemap: http://piontek.edu.pl/sitemap.xml
+

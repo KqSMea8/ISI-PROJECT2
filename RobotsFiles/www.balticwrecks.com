@@ -1,0 +1,13 @@
+USer-agent: *
+Disallow: /archive/
+Disallow: /balticCMS/
+Disallow: /css/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /mod/
+Disallow: /plugins/
+Disallow: /rulka/
+Disallow: /temp/
+Disallow: /uploaded/
+Disallow: /*.js$
+Disallow: /*.css$

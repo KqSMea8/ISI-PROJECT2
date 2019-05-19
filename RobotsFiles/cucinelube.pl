@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /public/preview/
+Disallow: /*.swf$
+Disallow: /public/
+User-Agent: Googlebot
+Allow: .js
+Allow: .css
+Allow: .jpg
+Allow: .pdf
+Sitemap: http://www.cucinelube.it/sitemap.xml

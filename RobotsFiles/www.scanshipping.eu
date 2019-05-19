@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<meta http-equiv="Content-type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="Description" content="kreowanie marki dla firm"/>
+<meta name="Keywords" content="kreowanie marki, kreowanie brandu, identyfikacja wizualna, kreacje graficzne, reklama, promocja, studio graficzne, agencja reklamowa, agencja interaktywna, komunikacja wizualna, ulotki, strony WWW, banery, branding, projekty graficzne" />
+<meta name="Author" content="CityDesign.pl" />
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="js/AC_RunActiveContent.js" language="javascript"></script>
+<script src="js/skrypt.js" language="javascript"></script>
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript" SRC="autoiframe.js"></SCRIPT>
+<title>ScanShipping</title>
+<link rel="stylesheet" href="css/styles.css" type="text/css" />
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/ie7.css" type="text/css" />
+<![endif]-->
+
+</head>
+<body>
+
+<div id="all">
+
+<div id="all_inside">
+
+
+
+
+
+
+
+
+<div id="main">
+
+
+<div id="naglowek">
+
+<a href="index.php" style="margin: 0px; padding: 0px; border: none;float: left;"><img src="images/logo.jpg" alt="" style="" id="logo"/></a>
+
+
+<div style="float: right;" id="anim">
+<script language="javascript">
+if (AC_FL_RunContent == 0) {
+alert("This page requires AC_RunActiveContent.js.");
+} else {
+AC_FL_RunContent(
+'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+'width', '700',
+'height', '200',
+'src', 'scan2',
+'quality', 'high',
+'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+'align', 'middle',
+'play', 'true',
+'loop', 'true',
+'scale', 'showall',
+'wmode', 'window',
+'devicefont', 'false',
+'id', 'scan2',
+'bgcolor', '#ffffff',
+'name', 'scan2',
+'menu', 'true',
+'allowFullScreen', 'false',
+'allowScriptAccess','sameDomain',
+'movie', 'scan2',
+'salign', ''
+); //end AC code
+}
+</script>
+<noscript>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="700" height="200" id="scan2" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="allowFullScreen" value="false" />
+<param name="movie" value="scan2.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="scan2.swf" quality="high" bgcolor="#ffffff" width="700" height="200" name="scan2" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+
+</noscript>
+</div>
+
+
+
+
+
+<br />
+<div id="flags">
+<!-- <a href=""><img src="images/flag_pl.jpg" alt="" /></a> -->
+<a href=""><img src="images/flag_eng.jpg" alt="" /></a>
+<!--<a href=""><img src="images/flag_de.jpg" alt="" /></a> -->
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+
+<img src="images/apla.jpg" alt="" id="apla"/>
+
+
+<div id="sidebar">
+
+
+
+
+
+
+<a href="about.php" id="about" ></a>
+
+
+<a href="chartering.php" id="chartering" ></a>
+
+
+<a href="forwarding.php" id="forwarding" ></a>
+
+
+<a href="agency.php" id="shipagency" ></a>
+
+
+<a href="references.php" id="references" ></a>
+
+
+<a href="contact.php" id="contact" ></a>
+
+
+<img src="images/m.jpg" alt="" style="height: 6px; float: left; "/><br />
+
+
+
+<img src="images/partners.jpg" alt="" style="margin-top: 20px;"/>
+
+<a href="http://www.brise.de/" target="_blank"><img src="images/f_brise.jpg" alt="" style="margin-top: 8px;"/></a>
+
+<img src="images/hr.jpg" alt="" class="hr"/>
+
+<a href="http://www.hamilton.com.pl/" target="_blank"><img src="images/f_hamilton.jpg" alt="" style="margin-top: 8px; margin-bottom: 5px;"/></a>
+
+<img src="images/hr.jpg" alt="" class="hr"/>
+
+<a href="http://www.andyshipping.com/" target="_blank"><img src="images/f_aa.jpg" alt="" style="margin-top: 10px; margin-bottom: 7px;"/></a>
+
+<img src="images/hr.jpg" alt="" class="hr"/>
+
+</div>
+
+
+
+<div id="text">
+<img src="images/n_welcome.jpg" alt="" id="n" />
+
+
+<p>The years of experience accumulated by SCAN-Shipping Poland and SCAN-shipping Germany have allowed friendly and co-operative relationships with the companies and institutions in all ports  along Baltic coast. We are pleased to offer swift and trouble-free handling of ships of all regular sizes, door to door forwarding service. Our newly estabilished chartering department also stay open to help with your chartering issues. </p>
+<br />
+
+<div style="margin-right: 20px; margin-top: 30px; float: right; clear: right; display: inline;"><a href="about.php">About us</a></div>
+
+
+
+<div id="mapka">
+
+<img src="images/px.jpg" alt="" class="px" />
+
+<script language="javascript">
+if (AC_FL_RunContent == 0) {
+alert("This page requires AC_RunActiveContent.js.");
+} else {
+AC_FL_RunContent(
+'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+'width', '620',
+'height', '250',
+'src', 'mapa',
+'quality', 'high',
+'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+'align', 'middle',
+'play', 'true',
+'loop', 'true',
+'scale', 'showall',
+'wmode', 'window',
+'devicefont', 'false',
+'id', 'mapa',
+'bgcolor', '#ffffff',
+'name', 'mapa',
+'menu', 'true',
+'allowFullScreen', 'false',
+'allowScriptAccess','sameDomain',
+'movie', 'mapa',
+'salign', ''
+); //end AC code
+}
+</script>
+<noscript>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="620" height="250" id="mapa" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="allowFullScreen" value="false" />
+<param name="movie" value="mapa.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="mapa.swf" quality="high" bgcolor="#ffffff" width="620" height="250" name="mapa" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</noscript>
+
+</div>
+
+
+
+
+<a href="#naglowek"><img src="images/up.jpg" alt="" id="up"/></a>
+
+
+</div>
+
+
+
+
+</div>
+
+<div id="footer">
+
+<div style="margin-left: auto; margin-right: auto; width: 950px;">
+
+<div id="log">
+<a href="http://citydesign.pl"><img src="images/city.jpg" alt=""/></a>
+</div>
+
+<div style="float: right; display: inline; margin-top: 114px;">
+Designed by:&nbsp;&nbsp;&nbsp;
+</div>
+
+
+
+<div id="rights">All rights reserved 2009 SCAN SHIPPING POL  Sp. z o.o.</div>
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+</body>
+</html>

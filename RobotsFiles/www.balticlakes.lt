@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /partner/
+Disallow: /mapas/
+Disallow: /ajax/
+Disallow: /enquiry/
+Disallow: /fancybox/
+Disallow: /inc/
+Disallow: /lib/
+Disallow: /valdau/

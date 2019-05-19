@@ -1,0 +1,1 @@
+User-agent: * Sitemap: http://keykproject.pl/sitemap-content.xml Disallow: /doc/ Disallow: /install/ Disallow: /lib/ Disallow: /modules/ Disallow: /module_custom/ Disallow: /plugins/ Disallow: /scripts/ Disallow: /tmp/

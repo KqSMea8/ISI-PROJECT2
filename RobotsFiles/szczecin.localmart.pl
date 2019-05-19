@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login
+Disallow: /reg
+Disallow: /forget_password
+Disallow: /*cabinet/
+Disallow: /*/search
+Disallow: /*info/
+Disallow: /*?
+Disallow: /?
+Disallow: /contact
+Disallow: /site/location
+Disallow: /item/category
+Disallow: /item/city
+Disallow: /item/uploadImage
+Disallow: /item/fields
+Disallow: /item/trackView
+Disallow: /item$
+Disallow: /static/
+Disallow: /item/showContactInfo/
+Disallow: /add
+Disallow: /ajax/
+Disallow: /item/photoPreview
+Disallow: /item/complaint
+Disallow: /site/logacs
+Disallow: */canonical$
+Disallow: */search
+Disallow: /search
+
+User-agent: Mediapartners-Google
+Disallow:

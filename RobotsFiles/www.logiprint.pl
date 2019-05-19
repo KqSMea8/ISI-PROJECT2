@@ -1,0 +1,31 @@
+User-Agent: *
+Allow: /tpl1/deu/grafix/*
+Allow: /tpl1/en/grafix/*
+Allow: /tpl1/fr/grafix/*
+Allow: /tpl1/nl/grafix/*
+Allow: /tpl1/cz/grafix/*
+Allow: /tpl1/es/grafix/*
+Allow: /tpl1/it/grafix/*
+Allow: /tpl1/pl/grafix/*
+Allow: /tpl1/at/grafix/*
+Allow: /tpl1/sk/grafix/*
+Allow: /tpl1/dk/grafix/*
+Allow: /tpl1/pt/grafix/*
+Allow: /tpl1/bg/grafix/*
+Allow: /tpl1/se/grafix/*
+Allow: /tpl1/fi/grafix/*
+Allow: /tpl1/ie/grafix/*
+Allow: /tpl1/trk/grafix/*
+Allow: /tpl1/ch/grafix/*
+Allow: /tpl1/tr/grafix/*
+
+Disallow: /fileserver/*
+Disallow: /preview/*
+Disallow: /preview_mac/*
+Disallow: /final/*
+Disallow: /order/*
+Disallow: /editor/*
+Disallow: /tur/*
+Disallow: /tpl1/*
+Disallow: /Anleitungen/*
+

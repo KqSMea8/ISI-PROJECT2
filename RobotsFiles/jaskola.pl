@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-content/themes/jaskola
+Disallow: /wp-content/themes/jaskola/framework
+Disallow: /wp-content/themes/jaskola/framework/images
+Disallow: /wp-content/themes/jaskola/framework/php
+Disallow: */trackback
+Disallow: */feed
+Disallow: /*?
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.swf$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+

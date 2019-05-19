@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /Piosenki/Transpone/
+Disallow: /Piosenki/Poczekalnia/
+Disallow: /Akordy/Budowa/
+Disallow: /Zespoly/Piosenki/
+Disallow: /Artysci/Piosenki/
+Disallow: /Formularze/
+User-agent: MJ12bot
+Disallow: /
+sitemap: http://www.cdur.pl/Sitemap.xml

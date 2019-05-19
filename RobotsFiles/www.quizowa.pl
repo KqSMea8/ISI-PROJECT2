@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /quiz/start
+Disallow: /quiz/wynik
+Disallow: /test
+Disallow: /memcached
+Disallow: /img
+Disallow: /img/ext
+Disallow: /img/main
+Disallow: /img/text
+Disallow: /img/quiz
+Disallow: /img/avatar
+Disallow: /app/webroot/img
+Disallow: /app/webroot/img/ext
+Disallow: /app/webroot/img/main
+Disallow: /app/webroot/img/text
+Disallow: /app/webroot/img/quiz
+Disallow: /app/webroot/img/avatar
+Disallow: /quiz/fb_image_generate
+

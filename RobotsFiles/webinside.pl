@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /images-global/
+Disallow: /i/
+Disallow: /css/
+Disallow: /js/
+Disallow: /inc/
+Disallow: /admin/
+Disallow: /old/
+Disallow: /src/
+Disallow: /thumb_plugins/

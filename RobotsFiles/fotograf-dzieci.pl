@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /bluadmin/
+Disallow: /music/
+Disallow: /v1site_images/
+Disallow: /v2site_images/
+Disallow: /site_images/
+Disallow: /blusite27a/
+Disallow: /blusite27b/
+Disallow: /admin/
+Disallow: /cgi-bin/

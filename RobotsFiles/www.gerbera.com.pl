@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /admin/
+Disallow: /img/
+Disallow: /upload/
+Disallow: /pl/account/
+Disallow: /pl/download/
+Disallow: /pl/register/
+Disallow: /pl/logout/
+Disallow: /pl/login/
+Disallow: /en/account/
+Disallow: /en/download/
+Disallow: /en/register/
+Disallow: /en/logout/
+Disallow: /en/login/
+Disallow: /ru/account/
+Disallow: /ru/download/
+Disallow: /ru/register/
+Disallow: /ru/logout/
+Disallow: /ru/login/
+Disallow: /ua/account/
+Disallow: /ua/download/
+Disallow: /ua/register/
+Disallow: /ua/logout/
+Disallow: /ua/login/
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*/login/*
+Disallow: /*&order=*
+Disallow: /*/cart/*
+Disallow: /*/popular/*
+Disallow: /*/guest/*
+Disallow: /*/catalogsearch/*
+Disallow: /*/account/*
+Disallow: /*/gallery/*
+Disallow: /*/wishlist/*
+Disallow: /*?SID=*

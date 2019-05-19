@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Disallow: /gfx/mddp-outsourcing/
+Disallow: /en/cookies-policy/
+Disallow: /polityka-cookies/
+Disallow: /polityka-prywatnosci/
+Disallow: /szablony/mddpoutsourcing/
+Disallow: /aktualnosci-baner/
+Allow: /*.pdf$
+Allow: /szablony/mddpoutsourcing/images/$
+Allow: /szablony/mddpoutsourcing/styles/$
+Allow: /gfx/mddp-outsourcing/userfiles/_public/*.png$
+Allow: /gfx/mddp-outsourcing/userfiles/_public/*.jpg$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /*.js$
+Allow: /*.css$
+Allow: /szablony/mddpoutsourcing/sitemap.xml/$
+Allow: /szablony/mddpoutsourcing/images/outsourcing.jpg/$
+User-agent: Fasterfox
+Disallow: /sitemap: /szablony/mddpoutsourcing/sitemap.xml

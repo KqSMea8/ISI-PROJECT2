@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Allow: /components/
+allow: /images/
+Allow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Allow: /libraries/
+Allow: /media/
+Allow: /modules/
+Allow: /plugins/
+Allow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /ptdw/

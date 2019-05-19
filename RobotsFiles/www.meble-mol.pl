@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Allow: /components/com_virtuemart/shop_image/product/*.jpg
+Disallow: /images/
+Allow: /images/stories/fotki_brw/*.jpg
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /lss/
+Sitemap: http://www.meble-mol.pl/index.php?option=com_xmap&amp;sitemap=1&amp;view=xml
+

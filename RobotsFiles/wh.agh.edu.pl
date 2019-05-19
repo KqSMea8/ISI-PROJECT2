@@ -1,0 +1,53 @@
+User-agent: Googlebot
+Allow: /wp-content/
+Disallow: /wp-admin/
+Disallow: /dump/
+Disallow: /old/
+Disallow: /options/
+Disallow: /users/
+Disallow: /views/
+Disallow: /systran/
+Disallow: /stats/
+Disallow: /sessions/
+Disallow: /public/
+Disallow: /lime-survey/
+Disallow: /libs/
+Disallow: /library/
+Disallow: /headers/
+Disallow: /class/
+Disallow: /pages/
+Disallow: /sawd/
+Disallow: /panel_pracownika/
+Disallow: /library/
+Disallow: /application/
+Disallow: /sytran/
+Disallow: /reformacja/
+
+
+User-agent: Mediapartners-Google
+Allow: /wp-content/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /sawd/
+Disallow: /panel_pracownika/
+Disallow: /library/
+Disallow: /application/
+Disallow: /sytran
+
+User-agent: bingbot
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /sawd/
+Disallow: /panel_pracownika/
+Disallow: /library/
+Disallow: /application/
+Disallow: /sytran
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /sawd/
+Disallow: /panel_pracownika/
+Disallow: /library/
+Disallow: /application/
+Disallow: /sytran

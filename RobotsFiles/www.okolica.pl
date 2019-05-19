@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login/
+Disallow: /register/
+Disallow: /resetting/
+Disallow: /panel/
+Disallow: /error/
+Disallow: /*pdf$
+Disallow: /advertisement/
+Disallow: /cache/
+Disallow: /*phoneNumber
+Disallow: /browser/ajax/search/filters

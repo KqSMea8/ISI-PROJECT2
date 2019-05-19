@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /*print=1* # print pages
+Disallow: /*popup=1* # popup pages
+Disallow: /*zemelapis=rodyti* # map pages
+Disallow: /*zemelapis=slepti* # map pages
+Disallow: /*blok_rakt=1* # search pages
+Disallow: /*version=mobile* # mobile version
+Disallow: /puslapiai/pastas/
+Sitemap: https://www.auto.lt/sitemap.xml
+Crawl-delay: 5
+
+#sets a 2 second time-out
+User-agent: YandexBot
+Crawl-delay: 5
+
+User-agent: Slurp
+Crawl-delay: 5
+
+User-agent: msnbot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5

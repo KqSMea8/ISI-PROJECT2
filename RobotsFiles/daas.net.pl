@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /obrazki/
+Disallow: /cgi-bin/
+Disallow: /formularze/
+Disallow: /obrazki/
+Disallow: /new/
+Disallow: /SK/
+Disallow: /sklep/admin/images/
+Disallow: /sklep/admin/htmlarea/images/
+Disallow: /sklep/admin/htmlarea/popups/
+Disallow: /sklep/download/
+Disallow: /sklep/includes/
+Disallow: /alle.jpg
+Disallow: /indexgoogler.php
+Disallow: /pagerank.php
+Disallow: /angielskie.zip
+Disallow: /astur.zip
+Disallow: /logo.gif
+Disallow: /polrex.zip
+Disallow: /nowy/
+Disallow: /polskie.zip
+Disallow: /wysokosciowe/obrazki/
+Disallow: /wysokosciowe/podstrony/
+Disallow: /wysokosciowe/pracownik1.html
+Disallow: /budowlane/obrazki/
+Disallow: /strona.swf
+

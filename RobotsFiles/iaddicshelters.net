@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /iaddicshelters.net/2014_presentations
+Disallow: /iaddicshelters.net/2015_Messages
+Disallow: /iaddicshelters.net/2016
+Disallow: /iaddicshelters.net/2017-presentations
+Disallow: /iaddicshelters.net/2017-proposals
+Disallow: /iaddicshelters.net/2018
+Disallow: /iaddicshelters.net/2019
+Disallow: /iaddicshelters.net/2019-models
+Disallow: /iaddicshelters.net/AAA-Facebook-Cover-Pack
+Disallow: /iaddicshelters.net/BOT
+Disallow: /iaddicshelters.net/iHouse design manual
+Disallow: /iaddicshelters.net/Logo_Artwork
+Disallow: /iaddicshelters.net/newsletter
+Disallow: /iaddicshelters.net/pics
+Disallow: /iaddicshelters.net/pricing
+Disallow: /iaddicshelters.net/wp-admin
+Disallow: /iaddicshelters.net/wp-content/plugins/
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: msnbot
+Crawl-delay: 5
+
+User-agent: msnbot-media
+Crawl-delay: 5
+
+Sitemap: http://iaddicshelters.net/sitemap_index.xml

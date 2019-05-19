@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /?s=
+Disallow: /*?add-to-cart=*
+Disallow: /*?filter_*=*
+Disallow: /*?orderby=*

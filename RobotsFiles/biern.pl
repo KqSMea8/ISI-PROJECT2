@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /pl/
+Disallow: /de/
+Disallow: /uk/
+Disallow: /img_gif/
+Disallow: /img_jpg/
+Disallow: /img_of/
+Disallow: /img_arch/
+Disallow: /style/

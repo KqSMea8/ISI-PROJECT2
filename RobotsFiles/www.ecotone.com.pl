@@ -1,0 +1,45 @@
+User-agent: *
+Disallow: /actions/
+Disallow: /admin/
+Disallow: /adodb/
+Disallow: /alejahandlowa/
+Disallow: /allegro/
+Disallow: /ceneo/
+Disallow: /conf/
+Disallow: /gemino/
+Disallow: /kupujemy/
+Disallow: /libs/
+Disallow: /model/
+Disallow: /n/
+Disallow: /oferciak/
+Disallow: /ojeju/
+Disallow: /parnerzy/
+Disallow: /pasazonet/
+Disallow: /templates/
+Disallow: /templates_c/
+Disallow: /tmp/
+Disallow: /totu/
+Disallow: /webkupiec/
+Disallow: *.css
+Disallow: *.js
+Disallow: *.ini
+Disallow: *.ico
+User-agent: Googlebot
+Disallow: /*/*r0
+Disallow: /*/*r1
+Disallow: /*/*r2
+Disallow: /*/*r3
+Disallow: /*/*r4
+Disallow: /*/*r5
+Disallow: /*/*d
+Disallow: /*/*v1
+Disallow: /*/*v2
+Disallow: /*/*cem
+Disallow: /*/*cemx
+Disallow: /*/*scr.html
+Disallow: /*/*scm.html
+Disallow: /*/*snr.html
+Disallow: /*/*snm.html
+
+
+

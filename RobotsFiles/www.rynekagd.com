@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /basket/add/*
+Disallow: /printProductPdf/show*
+Disallow: /printProductPdf/
+Disallow: /category/en/*
+Disallow: /group/en/*
+Disallow: /webpage/en/*
+Disallow: /lang/en/*
+Disallow: /product/groupList/*
+Disallow: /manufacturer/en/*
+Disallow: /invoice
+Disallow: /order
+Disallow: /invoicePdf/*
+Disallow: /orderPdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /stAccessoriesFrontend*
+Disallow: stThumbnailPlugin.php
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /*.php$
+Disallow: /*.php$
+

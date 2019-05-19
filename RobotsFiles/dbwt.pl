@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /codziennik/
+Disallow: /animowany/
+Disallow: /blox/
+Disallow: /aaa_stara/
+Disallow: /prasa/
+Disallow: /press/
+Disallow: /archiwum-eksperymenty/
+Disallow: /www.dobrzezaprojektowane.pl/
+Disallow: /www.projektanci.pl/
+Disallow: /site/
+Disallow: /content/info/3-press/
+Disallow: /artdomini/

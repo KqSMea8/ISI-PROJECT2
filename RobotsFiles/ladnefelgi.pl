@@ -1,0 +1,72 @@
+Sitemap: https://www.ladnefelgi.pl/sitemap.xml.gz
+
+
+User-agent: TwengaBot-Discover
+Disallow: /
+User-agent: TwengaBot/2.0
+Disallow: /
+User-agent: TwengaBot
+Disallow: /
+User-agent: TwengaBot-2.0
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+Disallow: User-agent: Mediapartners-Google
+User-agent: *
+Crawl-delay: 1
+Disallow: /basketchange.php
+Disallow: /basketedit.php
+Disallow: /basket-onchange.php
+Disallow: /client-address.php
+Disallow: /client-addresses.php
+Disallow: /client-new.php
+Disallow: /client-orders.php
+Disallow: /client-save.php
+Disallow: /client-files.php
+Disallow: /download-attachment.php
+Disallow: /login.php
+Disallow: /loginedit.php
+Disallow: /loginonce.php
+Disallow: /membership-card.php
+Disallow: /order1.php
+Disallow: /order2.php
+Disallow: /order3.php
+Disallow: /ordercancel.php
+Disallow: /orderconfirm.php
+Disallow: /orderdetails.php
+Disallow: /order-document.php
+Disallow: /order-newpayment.php
+Disallow: /order-payment.php
+Disallow: /order-postauction.php
+Disallow: /order-wrappers.php
+Disallow: /payments-confirm.php
+Disallow: /products-bought.php
+Disallow: /products-requests.php
+Disallow: /przelew.php
+Disallow: /rebate-code.php
+Disallow: /rma-add.php
+Disallow: /rma-list.php
+Disallow: /settings.php
+Disallow: /edi/
+Disallow: /cat-pol-1214553890-Alufelgi.html
+Disallow: /cat-pol-1214553891-Alufelgi-Felgi-Aluminiowe-13.html
+Disallow: /cat-pol-1214553892-Alufelgi-Felgi-Aluminiowe-14.html
+Disallow: /cat-pol-1214553895-Alufelgi-Felgi-Aluminiowe-15.html
+Disallow: /cat-pol-1214553896-Alufelgi-Felgi-Aluminiowe-16.html
+Disallow: /cat-pol-1214553897-Alufelgi-Felgi-Aluminiowe-17.html
+Disallow: /cat-pol-1214553898-Alufelgi-Felgi-Aluminiowe-18.html
+Disallow: /cat-pol-1214553899-Alufelgi-Felgi-Aluminiowe-19.html
+Disallow: /cat-pol-1214553900-Alufelgi-Felgi-Aluminiowe-20.html
+Disallow: /cat-pol-1214553901-Alufelgi-Felgi-Aluminiowe-21.html
+Disallow: /cat-pol-1214553902-Alufelgi-Felgi-Aluminiowe-22.html
+Disallow: /cat-pol-1214553884-Felgi-Stalowe.html
+Disallow: /cat-pol-1214553887-Opony.html
+Disallow: /cat-pol-1214553886-Akcesoria.html
+User-agent: MJ12bot
+Allow: /
+Disallow: /checkup.php
+

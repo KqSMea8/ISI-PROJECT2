@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ada/
+Disallow: /App_Code/
+Disallow: /ikonki/
+Disallow: /Panel/
+Disallow: /awatary/
+Disallow: /zdjecia/
+Disallow: /CMSDesk/
+Disallow: /404.aspx
+Disallow: /Facebook.aspx
+Allow: /

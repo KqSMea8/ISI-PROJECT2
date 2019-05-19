@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /index.php?diff=
+Disallow: /index.php?oldid=
+Disallow: /index.php/Help:
+Disallow: /index.php/File:
+Disallow: /index.php/MediaWiki:
+Disallow: /index.php/Special:
+Disallow: /index.php/Template:
+Disallow: /index.php/Property:
+Disallow: /index.php/Type:
+Disallow: /index.php/Category:
+Disallow: /index.php/CreationWiki:
+Disallow: /index.php/Media:
+Disallow: /skins
+Disallow: /*&
+

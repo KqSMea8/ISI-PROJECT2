@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:/administracja/
+
+Sitemap: http://www.techsterowniki.pl/sitemap.xml

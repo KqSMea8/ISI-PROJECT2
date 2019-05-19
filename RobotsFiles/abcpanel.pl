@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /index.php
+Allow: /htm/
+Allow: /
+Allow: /img/
+Allow: /demo/
+Disallow: /jota/
+Disallow: /biurojota/
+Disallow: /biurozur/
+Disallow: /doradca_szramowska/
+Disallow: /axel/
+Disallow: /biuroaxel/
+Disallow: /dynamika/
+Disallow: /biurodynamika/
+Disallow: /abcpanel2/
+Disallow: /mkexpert/

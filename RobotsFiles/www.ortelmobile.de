@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /*index.php*
+Disallow: /nc/
+Disallow: /*no_cache*
+Disallow: /*json*
+Disallow: /*tx_powermail_pi1*
+Sitemap: http://www.ortelmobile.de/?eID=dd_googlesitemap&L=

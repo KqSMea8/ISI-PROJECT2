@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /rezervace/kosik
+Disallow: /moje
+Disallow: /cs/
+Disallow: /en/
+Disallow: /de/
+Disallow: /ru/
+Disallow: /other-langs/
+Disallow: /*.php

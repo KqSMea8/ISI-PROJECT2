@@ -1,0 +1,14 @@
+User-agent: *
+Sitemap: http://s-performance.pl/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /admin/
+Disallow: /*author*
+Disallow: /category/
+Disallow: /?cat=*
+Disallow: /?page_id*
+Disallow: /?p=*
+#Disallow: /404-2/
+#Disallow: /tag/
+#Disallow: /projekt-1/
+#Disallow: /realizacja/

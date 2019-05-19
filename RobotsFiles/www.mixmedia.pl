@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /login.html
+Disallow: /koszyk.html
+Disallow: *query*
+Disallow: /admin/
+Disallow: /admin_cron/
+Disallow: /library/
+Disallow: /xml_dpd/
+Disallow: /xml_dhl/
+Disallow: /xml_payu/
+Disallow: /generator-rat/
+Disallow: /xml/
+Disallow: /xml/xml/
+Allow: /xml/xml/google_sitemap_1.xml
+Allow: /xml/xml/google_sitemap_2.xml
+Allow: /xml/xml/google_sitemap_9.xml

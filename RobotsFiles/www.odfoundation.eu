@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: http://odfoundation.org/sitemap.xml
+Sitemap: http://en.odfoundation.org/sitemap.xml
+Sitemap: http://ru.odfoundation.org/sitemap.xml

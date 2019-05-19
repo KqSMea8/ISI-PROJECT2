@@ -1,0 +1,17 @@
+User-agent: *
+Disallow:: /*.php
+Disallow: ?theme=
+Disallow: ?wptheme=
+Disallow: /author/
+Disallow: /cgi-bin/
+Disallow: /comment-page-
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /page/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /?s=
+Disallow: /to/
+Disallow: /legal/

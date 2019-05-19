@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /start/
+Disallow: /terms.php
+Disallow: /faq.php
+Disallow: /lv/terms/
+Disallow: /lv/faq/
+Disallow: /license.php
+Disallow: /privacy.php
+Disallow: /lv/license/
+Disallow: /lv/privacy/
+Disallow: /lv/software/virusreport/
+Disallow: /lv/software/getprivaturl/
+Disallow: /lv/software/view/
+Disallow: /lv/software/info/
+Disallow: /lv/software/final_download/
+Disallow: /after_install/
+Disallow: /admin/
+Disallow: /lv/software/downloadf/
+Disallow: /lv/software/downloadp/
+Disallow: /lv/software/urlbuy_download/
+Disallow: /lv/group/download/
+Disallow: /sitemap.php
+

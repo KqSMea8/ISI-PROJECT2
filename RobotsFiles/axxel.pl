@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /en/
+Disallow: /pl/
+Disallow: /libraries/
+Disallow: /inc/
+Disallow: /init/
+Disallow: /templates/
+Disallow: /upfiles/
+Disallow: /uppics/
+Sitemap: http://axxel.pl/sitemap.xml

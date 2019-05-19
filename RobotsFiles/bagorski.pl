@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /_gr
+Disallow: /i
+Disallow: /admin
+Disallow: /download
+Disallow: /includes
+Disallow: /temp
+Disallow: /tmp
+Disallow: /images
+Disallow: /img
+Disallow: /install
+Disallow: /panel
+Disallow: /panel_adsoo7
+Disallow: /account.php
+Disallow: /kontakt.php
+Disallow: /cookie_usage.php
+Disallow: /advanced_search.php
+Disallow: /checkout_shipping.php
+Disallow: /conditions.php
+Disallow: /create_account.php
+Disallow: /login.php
+Disallow: /password_forgotten.php
+Disallow: /popup_image.php
+Disallow: /koszyk.php
+Disallow: /product_reviews.php
+Disallow: /product_reviews_write.php
+Disallow: /ship2_mj.php
+Disallow: /u_agr_sml.php
+
+# Disallow: /private

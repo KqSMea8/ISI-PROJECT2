@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /component/phocadownload/category/
+Disallow: /component/acymailing/
+Disallow: /*/tmpl-component
+Allow: /
+Allow: /templates/*.css
+Allow: /templates/*.js
+Allow: /templates/*.gif
+Allow: /templates/*.png
+Allow: /templates/*.jpg
+

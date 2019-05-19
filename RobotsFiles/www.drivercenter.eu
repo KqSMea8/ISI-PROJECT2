@@ -1,0 +1,56 @@
+User-agent: *
+Disallow: /de-de/__service__/
+Disallow: /el-gr/__service__/
+Disallow: /it-it/__service__/
+Disallow: /pl-pl/__service__/
+Disallow: /it-ch/__service__/
+Disallow: /fr-ch/__service__/
+Disallow: /de-ch/__service__/
+Disallow: /es-es/__service__/
+Disallow: /it-it/ADMIN/
+Disallow: /de-de/ADMIN/
+Disallow: /es-es/ADMIN/
+Disallow: /pl-pl/ADMIN/
+Disallow: /el-gr/ADMIN/
+Disallow: /it-ch/ADMIN/
+Disallow: /fr-ch/ADMIN/
+Disallow: /de-ch/ADMIN/
+Disallow: /v1/
+
+Allow: /de-de/__service__/dealer/dataDealers/
+Allow: /de-de/__service__/dealer/dataDealerAttributes/
+
+Allow: /it-it/__service__/dealer/dataDealers/
+Allow: /it-it/__service__/dealer/dataDealerAttributes/
+
+Allow: /es-es/__service__/dealer/dataDealers/
+Allow: /es-es/__service__/dealer/dataDealerAttributes/
+
+Allow: /el-gr/__service__/dealer/dataDealers/
+Allow: /el-gr/__service__/dealer/dataDealerAttributes/
+
+Allow: /de-ch/__service__/dealer/dataDealers/
+Allow: /de-ch/__service__/dealer/dataDealerAttributes/
+
+Allow: /it-ch/__service__/dealer/dataDealers/
+Allow: /it-ch/__service__/dealer/dataDealerAttributes/
+
+Allow: /fr-ch/__service__/dealer/dataDealers/
+Allow: /fr-ch/__service__/dealer/dataDealerAttributes/
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+Sitemap: https://www.drivercenter.eu/de-de/sitemap.xml
+Sitemap: https://www.drivercenter.eu/el-gr/sitemap.xml
+Sitemap: https://www.drivercenter.eu/it-it/sitemap.xml
+Sitemap: https://www.drivercenter.eu/pl-pl/sitemap.xml
+Sitemap: https://www.drivercenter.eu/fr-ch/sitemap.xml
+Sitemap: https://www.drivercenter.eu/de-ch/sitemap.xml
+Sitemap: https://www.drivercenter.eu/it-ch/sitemap.xml
+Sitemap: https://www.drivercenter.eu/es-es/sitemap.xml
+
+

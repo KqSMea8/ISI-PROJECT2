@@ -1,0 +1,26 @@
+User-agent: *
+Sitemap: https://www.act.com/sitemap.xml
+Disallow: /trial/thankyou
+Disallow: /*?thanks=*
+Disallow: /in-product-pages/*
+Disallow: /inproduct/*
+Disallow: /in-product/*
+Disallow: /errors/*
+Disallow: /error-pages/*
+Disallow: /partners/apply/thank-you
+Disallow: /resources/demo-on-demand
+Disallow: /download/download-act!-premium-v18
+Disallow: /download/download-act!-pro-v18
+Disallow: /en-uk/download/v18/premium
+Disallow: /en-uk/download/v18/pro
+Disallow: /fr-fr/telechargement/v18/pro
+Disallow: /fr-fr/telechargement/v18/premium
+Disallow: /de-de/download/v18/pro
+Disallow: /de-de/download/v18/premium
+Disallow: /act-blog/press-releases/*
+Disallow: /act-blog/business-growth/*
+Disallow: /act-blog/press-releases/*
+Disallow: /act-blog/business-growth/*
+Disallow: /actccuk
+Disallow: /bcgolduk
+

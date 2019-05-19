@@ -1,0 +1,19 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /2013/
+Disallow: /2012/
+Disallow: /2011/
+Disallow: /2010/
+

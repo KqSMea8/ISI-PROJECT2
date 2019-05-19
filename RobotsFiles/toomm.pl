@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_bikestats/
+Disallow: /_galeria/
+Disallow: /_inne/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /images/
+Disallow: /images-global/
+Disallow: /js/
+Disallow: /phpThumb/
+Disallow: /foto/

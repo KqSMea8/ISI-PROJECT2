@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /galery/
+Disallow: /admin_panel.php
+Disallow: /calla.php
+Disallow: /callab.php
+Disallow: /cennik.php
+Disallow: /cylinder.php
+Disallow: /dekoracje.php
+Disallow: /fashion.php
+Disallow: /galeria.php
+Disallow: /happening.php
+Disallow: /imprezy.php
+Disallow: /kontakt.php
+Disallow: /lilia.php
+Disallow: /margaretki.php
+Disallow: /mixb.php
+Disallow: /nexeter.php
+Disallow: /nestor.php
+Disallow: /nestor2.php
+Disallow: /nestor3.php
+Disallow: /parts.php
+Disallow: /roza.php
+Disallow: /rozarozowa.php
+Disallow: /serce.php
+Disallow: /studniowki.php
+Disallow: /video.php
+Disallow: /images/
+Disallow: /cfg/
+Disallow: /vid/
+Disallow: /403.shtml
+Disallow: /404.shtml
+
+
+Allow: /

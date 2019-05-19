@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /lightpanel/
+Disallow: /main_libs/
+Disallow: /tmp/
+Disallow: galeria.html
+Disallow: dom.html
+Disallow: oferta.html
+Disallow: kontakt.html
+Disallow: cennik.html

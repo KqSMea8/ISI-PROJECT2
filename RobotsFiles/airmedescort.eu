@@ -1,0 +1,6 @@
+Sitemap: https://airmedescort.eu/sitemap.xml
+Sitemap: https://airmedescort.eu/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

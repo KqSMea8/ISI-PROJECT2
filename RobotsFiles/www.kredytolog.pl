@@ -1,0 +1,17 @@
+User-agent: Googlebot
+User-agent: MSNBot
+Sitemap: http://www.kredytolog.pl/sitemap.xml
+Sitemap: http://www.kredytolog.pl/sitemap.txt
+Disallow: /admin/*
+Disallow: /test/*
+Disallow: /publ/*
+Disallow: /mailing/*
+Disallow: /reklama.htm
+Disallow: /files/*
+Disallow: /pp/*
+Disallow: /images/*
+Disallow: /duoslider/*
+Disallow: /snieg/*
+Disallow: /pfwppl/*
+Disallow: /polityka-cookies.htm
+Allow: /

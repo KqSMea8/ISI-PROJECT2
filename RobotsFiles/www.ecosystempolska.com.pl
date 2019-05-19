@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /!db/
+Disallow: /Application/
+Disallow: /Custom/
+Disallow: /Library/
+Disallow: /Languages/
+Disallow: /Media/download/
+Disallow: /Media/news/
+Disallow: /Layout/
+Disallow: /tmp/
+Disallow: /cache/
+Allow: /

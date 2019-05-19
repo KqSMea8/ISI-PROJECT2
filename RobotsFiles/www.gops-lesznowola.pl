@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /fckeditor/
+Disallow: /layout/
+Disallow: /modules/
+Disallow: /images/
+Disallow: /config/
+Disallow: /add/
+Disallow: /users/
+Disallow: /CzytajTo!.txt
+Disallow: /druk.php
+Disallow: /pdf.php
+Sitemap: http://www.gops-lesznowola.pl/sitemap.xml

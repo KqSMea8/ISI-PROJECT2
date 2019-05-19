@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /index.php?show=catalog&model=GM170
+Disallow: /index.php?show=catalog&model=GM190
+Disallow: /index.php?show=catalog&model=GM180
+Disallow: /index.php?show=catalog&model=GM158
+Disallow: /index.php?show=catalog&model=GM129
+Disallow: /index.php?show=catalog&model=GM141
+Disallow: /index.php?show=catalog&model=GM137
+Disallow: /userFiles/instrukcja_montazu.doc
+Disallow: /?show=catalog&model=GM142

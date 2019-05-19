@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /index.php
+Disallow: /index.php*
+Disallow: /administrator/
+Disallow: /cgi-bin/
+Disallow: /administrator/
+Disallow: /webstat/
+Disallow: /poisk.html
+Disallow: /404.html

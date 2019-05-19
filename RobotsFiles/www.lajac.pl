@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /umbraco
+Disallow: /iscacheon
+Sitemap: https://lajac.se/sitemap
+Sitemap: https://lajac.com/sitemap
+Sitemap: http://lajac.fi/sitemap
+Sitemap: https://lajac.pl/sitemap
+Sitemap: https://lajac.fr/sitemap
+Sitemap: http://lajac.at/sitemap
+Sitemap: https://tfsystem.se/sitemap

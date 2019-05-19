@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /aktualnosci
+Disallow: /company
+Disallow: /enter
+Disallow: /gielda
+Disallow: /glusk
+Disallow: /goscieradow
+Disallow: /hrubieszow
+Disallow: /inwestycje
+Disallow: /jozefow
+Disallow: /komarow
+Disallow: /krzywda
+Disallow: /kultura
+Disallow: /lukow
+Disallow: /licytacje
+Disallow: /redir
+Disallow: /naleczow
+Disallow: /powiat-lubelski
+Disallow: /rejowiec
+Disallow: /reklama-internetowa/FORUM/
+Disallow: /serwis-fotograficzny
+Disallow: /manager/services
+Disallow: /webmail
+Disallow: /manager/services
+Disallow: /assets/html/
+
+sitemap: https://home.pl/sitemap.xml
+

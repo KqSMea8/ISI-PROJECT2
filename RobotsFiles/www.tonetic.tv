@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /co-gdzie-kiedy/action~posterboard/
+Disallow: /co-gdzie-kiedy/action~agenda/
+Disallow: /co-gdzie-kiedy/action~oneday/
+Disallow: /co-gdzie-kiedy/action~month/
+Disallow: /co-gdzie-kiedy/action~week/
+Disallow: /co-gdzie-kiedy/action~stream/
+Disallow: /konkursy/action~posterboard/
+Disallow: /konkursy/action~agenda/
+Disallow: /konkursy/action~oneday/
+Disallow: /konkursy/action~month/
+Disallow: /konkursy/action~week/
+Disallow: /konkursy/action~stream/

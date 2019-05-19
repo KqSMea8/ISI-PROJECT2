@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.axd
+Disallow: /Specjalne/
+Disallow: /upload/
+Disallow: /include/
+Disallow: /nr/
+Disallow: /pg/
+Disallow: /pl/
+Allow: /

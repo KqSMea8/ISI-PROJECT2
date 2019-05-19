@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Sitemap: http://www.tis-kobior.pl/sitemap.xml

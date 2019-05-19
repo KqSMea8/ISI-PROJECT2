@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /wp-content/languages/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /*?
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/jquery/jquery.js
+Sitemap: http://www.swietyduch.com.pl/sitemap.xml

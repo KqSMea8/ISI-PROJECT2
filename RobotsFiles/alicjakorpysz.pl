@@ -1,0 +1,2 @@
+Usear-agent:*
+Disallow: /administrator/

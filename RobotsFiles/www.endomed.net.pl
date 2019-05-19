@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: https://endomed.net.pl/sitemap.xml
+Allow: /
+Allow: /js/
+Allow: /js/jquery.min.js
+Allow: /js/popper.js
+Allow: /js/ie-emulation-modes-warning.js
+Allow: /js/ie10-viewport-bug-workaround.js
+Allow: /js/holder.min.js
+Allow: /js/holder.js
+Allow: /bootstrap/css/
+Allow: /bootstrap/css/bootstrap.css
+Allow: /bootstrap/css/bootstrap.min.css
+Allow: /bootstrap/js/
+Allow: /bootstrap/js/bootstrap.js
+Allow: /bootstrap/js/bootstrap.min.js

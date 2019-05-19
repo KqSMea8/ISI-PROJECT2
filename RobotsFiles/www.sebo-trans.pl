@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installationdsfgfgsd/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /cookies/
+Disallow: /administrator/
+Disallow: /xmlrpc/
+Disallow: /*feed
+Disallow: /*rss
+Disallow: /old/
+
+Sitemap: https://www.sebo-trans.pl/sitemap.xml

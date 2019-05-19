@@ -1,0 +1,5 @@
+Sitemap: http://www.stbernardparish.net/sitemap.xml
+User-agent: rogerbot
+User-agent: Googlebot-Image
+Disallow: /
+

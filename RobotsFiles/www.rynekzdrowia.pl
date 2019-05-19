@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /szukaj.html
+Disallow: /Wyszukiwanie/
+Disallow: /oferty/sanatoria/
+Disallow: /oferty/zaklady/
+Disallow: /oferty/hospicja/
+Disallow: /oferty/przetargi/
+Disallow: /m/
+Disallow: /mobile/
+Sitemap: http://www.rynekzdrowia.pl/sitemapindex.xml

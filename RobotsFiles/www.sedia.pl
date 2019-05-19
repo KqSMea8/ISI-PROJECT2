@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /backup_tq/
+Disallow: /cgi-bin/
+Disallow: /duze_komplety/
+Disallow: /duze_krzesla/
+Disallow: /duze_stoly/
+Disallow: /fotki/
+Disallow: /foto/
+Disallow: /ftpclass/
+Disallow: /gotowe/
+Disallow: /joomla/
+Disallow: /katalog/
+Disallow: /krzesla/
+Disallow: /lozka2/
+Disallow: /Materialy/
+Disallow: /mini/
+Disallow: /new/
+Disallow: /skura/
+Disallow: /sources/
+Disallow: /styles/
+Disallow: /www_stare/
+

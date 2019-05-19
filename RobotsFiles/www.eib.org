@@ -1,0 +1,61 @@
+Sitemap: https://www.eib.org/sitemaps-en.xml
+Sitemap: https://www.eib.org/sitemaps-fr.xml
+Sitemap: https://www.eib.org/sitemaps-de.xml
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /photos
+
+User-agent: Googlebot-Image
+Disallow: *
+Allow: /photos
+Allow: /img/
+
+User-agent: *
+Crawl-delay: 1000
+Allow: /*sitemaps*.xml
+Allow: .js
+Allow: .css
+Disallow: /technical/
+Disallow: /tools/
+Disallow: /_tools/
+Disallow: /test-EIB/
+Disallow: /language/
+Disallow: /eibBlog/
+Disallow: /eib.org/
+Disallow: *sn_twitter_Blog-ProjectStory*
+Disallow: /photos
+Disallow: /thumb
+Disallow: /generic/
+Disallow: /generic-revamp/
+Disallow: /_generic/
+Disallow: /*/_generic/
+Disallow: /pdf/
+Disallow: /img/
+Disallow: */rss*
+Disallow: *.xml*
+Disallow: /advisory-hub
+Disallow: /eiah
+Disallow: /attachments/fi/
+Disallow: /attachments/consultations/
+Disallow: /provider*
+
+Disallow: */breadcrumb.htm
+Disallow: */left.htm
+Disallow: *-old.htm
+Disallow: *-new.htm
+Disallow: *-test.htm
+
+Disallow: */infocentre/blog/authors/*
+Disallow: */infocentre/blog/stories/*
+Disallow: */infocentre/blog/essays/*
+
+Disallow: /en/publications/*
+Disallow: /fr/publications/*
+Disallow: /de/publications/*
+Disallow: /en/scoreboards/*
+Disallow: /fr/scoreboards/*
+Disallow: /de/scoreboards/*
+Disallow: /en/registers/*
+Disallow: /fr/registers/*
+Disallow: /de/registers/*

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin
+Disallow: /!_old
+Disallow: /inc
+Disallow: /log
+Disallow: /images
+Disallow: /lp
+Disallow: /excel
+Disallow: /overlib
+Disallow: /pdf_lp
+Disallow: /files_allegro
+Disallow: /!_status_old
+Disallow: /css
+Disallow: /datapicker
+Disallow: /dotpay
+Disallow: /excel
+Disallow: /js
+Disallow: /list_przewozowy
+Disallow: /log
+Disallow: /pdf
+Allow: /
+

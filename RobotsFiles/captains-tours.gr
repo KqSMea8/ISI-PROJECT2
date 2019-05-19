@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wstats/
+Disallow: /wstats2/
+Disallow: /archive/
+Disallow: /sys/

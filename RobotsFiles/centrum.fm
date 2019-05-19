@@ -1,0 +1,74 @@
+User-agent: *
+Disallow: /radio/*
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: /comments
+Disallow: */trackback
+Disallow: */comments
+Disallow: /resetpass
+Disallow: /lostpassword
+Disallow: /login
+Disallow: /logout
+Disallow: /register
+Disallow: /feed/
+Disallow: */feed
+Disallow: /*/feed/*
+Disallow: /*/xmlrpc.php
+Disallow: /*/*?s=*
+Disallow: /*/*.js$
+Disallow: /*/*.inc$
+Disallow: /donosy
+Disallow: /arty/
+Disallow: /tagi
+Disallow: /content
+Disallow: /comment
+Disallow: /node
+Disallow: /aggregator
+Disallow: /impreza/*
+Disallow: /zoom
+Crawl-Delay: 3600
+
+
+User-agent: Googlebot-Image
+Disallow: /wp-includes/
+
+# slow down Yahoo
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: sogou spider
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: TwengaBot
+Disallow: /
+User-agent: 008
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: WotBox
+Disallow: /
+User-agent: Sosospider
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: ZumBot
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: SMTBot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: BUbiNG
+Disallow: /
+

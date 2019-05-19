@@ -1,0 +1,8 @@
+# Search engine instructions
+
+User-agent: *
+Disallow: /sandbergtheme/js
+Disallow: /sandbergtheme/plugins
+Disallow: /sandbergtheme/videos
+Disallow: /sandbergtheme/oc
+

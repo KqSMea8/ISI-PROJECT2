@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /docs/
+Disallow: /doc/
+Disallow: /agreement_pdf/
+Disallow: /pdf/
+Disallow: /hr-invoices/
+Disallow: /invoices/
+Disallow: /pdf/
+
+Host: https://lifeisgood.company
+Sitemap: https://lifeisgood.company/sitemap.xml
+

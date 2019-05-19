@@ -1,0 +1,10 @@
+# robots.txt www.lamsa.de
+User-Agent: *
+Disallow: /design*/
+Disallow: /lhc_web*/
+User-Agent: Googlebot-Image
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Sitemap: http://www.lamsa.de/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /doc/
+Disallow: /gfx/
+Disallow: /sql/
+Disallow: /tools/
+Allow: /gfx/eksa/pl/defaultopisy/
+Allow: /gfx/eksa/pl/defaultaktualnosci/
+Allow: /szablony/*.css$
+Allow: /szablony/*.js$
+User-agent: Fasterfox
+Disallow: /

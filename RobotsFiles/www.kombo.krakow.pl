@@ -1,0 +1,93 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /sklep_czer/
+Disallow: /sklep_nieb/
+Disallow: /sklep_ziel/
+Disallow: /cakephp/
+Disallow: /wordpress/
+Disallow: /test/
+Disallow: /testy/
+Disallow: /konfigurator/
+Disallow: /js/kombo_promocja.js
+Disallow: /fvat/
+Disallow: /doc/
+Disallow: /newsletter/
+Disallow: /pliki/
+Disallow: /allegro/
+Disallow: /img/inne
+Disallow: /img/html
+Disallow: /img/allegro
+Disallow: /img/yamo
+Disallow: /.well-known
+
+
+User-agent: bingbot
+Allow: /
+Disallow: /sklep_czer/
+Disallow: /sklep_nieb/
+Disallow: /sklep_ziel/
+Disallow: /cakephp/
+Disallow: /wordpress/
+Disallow: /test/
+Disallow: /testy/
+Disallow: /konfigurator/
+Disallow: /js/kombo_promocja.js
+Disallow: /fvat/
+Disallow: /doc/
+Disallow: /newsletter/
+Disallow: /pliki/
+Disallow: /allegro/
+Disallow: /img/inne
+Disallow: /img/html
+Disallow: /img/allegro
+Disallow: /img/yamo
+Disallow: /.well-known
+
+
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /sklep_czer/
+Disallow: /sklep_nieb/
+Disallow: /sklep_ziel/
+Disallow: /cakephp/
+Disallow: /wordpress/
+Disallow: /test/
+Disallow: /testy/
+Disallow: /konfigurator/
+Disallow: /js/kombo_promocja.js
+Disallow: /fvat/
+Disallow: /doc/
+Disallow: /newsletter/
+Disallow: /pliki/
+Disallow: /allegro/
+Disallow: /img/inne
+Disallow: /img/html
+Disallow: /img/allegro
+Disallow: /img/yamo
+Disallow: /.well-known
+
+
+User-agent: *
+Allow: /
+Disallow: /sklep_czer/
+Disallow: /sklep_nieb/
+Disallow: /sklep_ziel/
+Disallow: /cakephp/
+Disallow: /wordpress/
+Disallow: /test/
+Disallow: /testy/
+Disallow: /konfigurator/
+Disallow: /js/kombo_promocja.js
+Disallow: /fvat/
+Disallow: /doc/
+Disallow: /newsletter/
+Disallow: /pliki/
+Disallow: /allegro/
+Disallow: /img/inne
+Disallow: /img/html
+Disallow: /img/allegro
+Disallow: /img/yamo
+Disallow: /.well-known
+
+Sitemap: https://www.kombo.krakow.pl/sitemap.xml
+

@@ -1,0 +1,6 @@
+Sitemap: https://smaker.pl/sitemap.xml
+User-agent: *
+Disallow: /oldest
+Disallow: /rank
+Disallow: /answers
+Disallow: /profile/website

@@ -1,0 +1,11 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /mestsky-urad/uredni-deska/
+Disallow: /old/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /mestsky-urad/uredni-deska/
+Disallow: /old/
+Sitemap: https://www.jaromer-josefov.cz/sitemap.xml
+

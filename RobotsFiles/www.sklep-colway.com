@@ -1,0 +1,30 @@
+User-agent: *
+Crawl-delay: 30
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/fav/add/
+Disallow: /*/p/comment/add/
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/
+Disallow: /*/searchquery/
+Disallow: /pl/passremind
+Disallow: /pl/s/
+Disallow: /pl/basket
+Disallow: /pl/login
+Disallow: /pl/reg
+Disallow: /pl/i/Regulamin/3
+Disallow: /pl/i/Polityka-prywatnosci/2
+Disallow: /pl/i/Zwroty-i-reklamacje/1
+Disallow: /pl/i/Odstapienie-od-umowy/13
+Disallow: /pl/i/Formy-platnosci/4
+Disallow: /pl/blog/Zakupowe-szalenstwo-przed-podwyzka-cen/65
+Sitemap: http://sklep-colway.com/console/integration/execute/name/GoogleSitemap

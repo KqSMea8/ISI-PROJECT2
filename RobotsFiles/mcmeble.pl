@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: *?*
+Disallow: *write*
+Disallow: *essay*
+Disallow: *buy*
+Disallow: *cheap*
+Disallow: *custom*
+Disallow: *dissertation*
+Disallow: *allergy*
+Disallow: *diabetic*
+Disallow: *exactly*
+Disallow: *course*
+Disallow: *research*

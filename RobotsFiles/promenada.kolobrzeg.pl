@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: extens/
+Disallow: images/
+Disallow: info.asp
+Disallow: fpop.asp
+Disallow: fottiny.asp
+Disallow: fotdz.asp
+Disallow: 404.asp
+Disallow: stop.asp
+Disallow: lprint.asp
+Disallow: print.asp
+Disallow: technic.asp

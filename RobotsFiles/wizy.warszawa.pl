@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /angola/
+Disallow: /angola_old/
+Disallow: /nigeria/
+Disallow: /nigeria2/
+Disallow: /umawianie/
+Disallow: /umawianie1/
+Disallow: /umawianie2/
+Disallow: /umawianie3/
+Disallow: /umawianie4/
+Disallow: /images/
+Disallow: /wnioski/
+Disallow: /obrazki2/
+Disallow: /obrazki3/
+Disallow: /obrazki4/

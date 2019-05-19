@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+Disallow: /component/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /logs/
+Disallow: /tmp/
+Sitemap: http://akwa-terma.com.pl/sitemap.xml
+Sitemap: http://akwa-terma.com.pl/sitemap-images.xml

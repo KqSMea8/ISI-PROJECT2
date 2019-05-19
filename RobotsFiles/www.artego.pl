@@ -1,0 +1,5 @@
+<!doctype html><html lang="pl-PL"><head><title>Artego</title><base href="/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" type="image/x-icon" href="favicon.ico"><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-115071358-2"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-115071358-2');</script><link href="styles.5c8bd557c9cb03aa9414.bundle.css" rel="stylesheet"/></head><body><app-root></app-root><script type="text/javascript" src="inline.14d48d5eb25dacf19732.bundle.js"></script><script type="text/javascript" src="polyfills.d8613740e011537eff2e.bundle.js"></script><script type="text/javascript" src="scripts.b0f90cb5523a255ba7f5.bundle.js"></script><script type="text/javascript" src="main.a805725f3fa8aec27ab5.bundle.js"></script></body></html>

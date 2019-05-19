@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Allow: /wp-content/plugins/*.css
+Allow: /wp-content/plugins/*.js
+Allow: /wp-content/plugins/*.gif
+Allow: /wp-content/plugins/*.png
+Allow: /wp-content/plugins/*.jpg
+Allow: /wp-content/plugins/*.jpeg

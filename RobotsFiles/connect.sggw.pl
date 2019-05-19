@@ -1,0 +1,5 @@
+# thanks, but no thanks
+User-agent: *
+Disallow: /
+
+

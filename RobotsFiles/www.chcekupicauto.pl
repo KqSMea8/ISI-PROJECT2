@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /x15/
+Disallow: /common2/
+Disallow: /xml/
+Disallow: /googlehostedservice.html
+Disallow: /ocena_inc.php
+Disallow: /rate.php
+Disallow: /por_rm.php
+Disallow: /se_tag.php
+Allow: /

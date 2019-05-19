@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /DEPOT/
+Disallow: /U_Layers/
+Disallow: /U_Aspects/
+Disallow: /U_Stylesheets/
+Disallow: /U_Ecma/
+Disallow: /U_Devel/
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /PHPEngines/
+Disallow: /?Shop&*pLen*
+Disallow: /?Shop&*pStyle*
+Disallow: /?Shop&*pColor*
+Disallow: /?Shop&*pBrand*
+Disallow: /?Shop&*pRef*
+Disallow: /?Shop&*pSort*
+Disallow: /?Shop&*pSyn*
+Disallow: /?Shop&*pNFZ*
+

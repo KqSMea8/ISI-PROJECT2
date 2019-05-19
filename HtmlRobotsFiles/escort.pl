@@ -1,0 +1,6 @@
+<!-- pageok -->
+<!-- managed by puppet -->
+<html>
+<pre>pageok</pre>
+</html>
+

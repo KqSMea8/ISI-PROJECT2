@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-includes/js/
+Sitemap: http://colson.pl/sitemap_index.xml
+Disallow: /oferty
+Disallow: /oferty2
+Disallow: oferta.php
+Disallow: /zapytania
+Disallow: zapytania.php
+Disallow: zapytania2.php

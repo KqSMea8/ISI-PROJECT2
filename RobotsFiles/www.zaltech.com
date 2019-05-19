@@ -1,0 +1,7 @@
+User-agent: SISTRIX
+Disallow:
+
+User-agent: *
+Disallow: *.htm
+Disallow: *.html
+

@@ -1,0 +1,10 @@
+
+User-agent: *
+Disallow: /admin
+Disallow: /config
+Disallow: /controller
+Disallow: /php
+Disallow: /vendor
+Disallow: /tmp
+
+

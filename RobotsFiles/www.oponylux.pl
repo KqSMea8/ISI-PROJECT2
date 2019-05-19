@@ -1,0 +1,49 @@
+User-agent: *
+Allow: /
+Disallow: /searcher/*
+Disallow: /aktualnosci/*
+Disallow: /nota-prawna.html
+Disallow: /regulamin.html
+Disallow: /dostawa.html
+Disallow: /gwarancja-producent/*.html
+Disallow: /gwarancja.html
+Disallow: /wiecej-bezpieczenstwa-czyli-polityka-cookie.html
+Disallow: /koszyk.html
+Disallow: /zamowienie.html
+Disallow: /opony/producenta/*
+Disallow: /napisz-lub-zadzwon
+Disallow: /searcher/
+Disallow: /1*
+Disallow: /2*
+Disallow: /3*
+Disallow: /4*
+Disallow: /5*
+Disallow: /6*
+Disallow: /7*
+Disallow: /8*
+Disallow: /9*
+
+
+Disallow: /nokaut/
+Disallow: /ceneo/
+Disallow: /skapiec/
+Disallow: /okazje/
+Disallow: /kupujemy/
+Disallow: /adwords/
+Disallow: /alejka/
+Disallow: /cenowarka/
+Disallow: /euroopony/
+Disallow: /hiarte/
+Disallow: /idealo/
+Disallow: /nowoczesna-farma/
+Disallow: /osemka/
+Disallow: /radar/
+Disallow: /shopping/
+Disallow: /sklepy24/
+Disallow: /smartby/
+Disallow: /tanio/
+
+Disallow: /?*
+
+User-agent: duggmirror
+Disallow: /

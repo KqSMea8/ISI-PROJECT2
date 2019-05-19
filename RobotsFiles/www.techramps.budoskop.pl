@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /gfx/
+Allow: /gfx/budoskop/pl/bannery/
+Allow: /gfx/budoskop/pl/defaultopisy/
+Allow: /gfx/budoskop/pl/defaultaktualnosci/
+Allow: /gfx/budoskop/pl/produktyaktualnosci/
+Allow: /gfx/budoskop/pl/wizytowki/
+Allow: /gfx/budoskop/pl/zagadnienia_foto/
+Allow: /gfx/budoskop/userfiles/images/
+User-agent: Fasterfox
+Disallow: /

@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /calculong.php
+Disallow: /wp-login.php
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-trackback
+Disallow: /wp-feed
+Disallow: /wp-comments
+Disallow: */trackback
+Disallow: /trackback
+Disallow: */feed
+Disallow: /feed
+Disallow: */comments
+Disallow: /comments
+Disallow: /?s=*
+Disallow: /dt_gallery
+Allow:    /dt_gallery/*.html
+Disallow: /dt_team/$
+Disallow: /dt_team$
+Allow:    /dt_team/*.html
+Disallow: /dt_team/$
+Disallow: /dt_gallery_category
+Disallow: /category/bez-kategorii/
+Sitemap: http://www.mysite.com/sitemap.xml
+

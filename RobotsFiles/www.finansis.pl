@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /dload/
+Disallow: /pliki/
+Disallow: /test/
+Disallow: /component/k2/tag/
+Disallow: /component/content/
+Disallow: /component/mailto/
+Disallow: /2-uncategorised/
+Disallow: /kontakt/b2jcontact
+Sitemap: http://www.finansis.pl/sitemap.xml
+Sitemap: http://www.finansis.pl/sitemap_supp.xml
+

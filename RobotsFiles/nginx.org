@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /libxslt/
+Sitemap: http://nginx.org/sitemap.xml
+

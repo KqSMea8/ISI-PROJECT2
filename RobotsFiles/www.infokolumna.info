@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /logowanie.php
+Disallow: /*login.php
+Disallow: /*admin
+Disallow: /*includes
+Disallow: /*.php$
+
+Sitemap: http://www.infokolumna.info/sitemap.xml
+
+
+

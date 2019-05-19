@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /lt/
+Allow: /pl/
+Allow: /en/
+
+Sitemap: http://blog.ecolines.net/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: *model=*
+Disallow: /wkrotce*
+Disallow: /zls-207e-podnosnik-hydrauliczny-nozycowy-3-3t,46
+Disallow: /zlp-206-mobilny-podnosnik-hydrauliczny-nozycowy-2-t,43
+Disallow: /zpf-206-podnosnik-hydrauliczny-dwukolumnowy-3-t-,38
+Disallow: /zb-800-wywazarka-kol-automat-10-24-do-65-kg,50
+Disallow: /zt-980-s-urzadzenie-do-wymiany-opon-automat-13-26-2xpax-inflator,47

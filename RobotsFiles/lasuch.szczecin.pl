@@ -1,0 +1,11 @@
+# Added by SEO Ultimate's Link Mask Generator module
+<br />
+<b>Notice</b>:  Undefined index: path in <b>/home/lasuch/domains/lasuch.szczecin.pl/public_html/wp-content/plugins/seo-ultimate/modules/internal-link-aliases/internal-link-aliases.php</b> on line <b>310</b><br />
+User-agent: *
+Disallow: /go/
+# End Link Mask Generator output
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

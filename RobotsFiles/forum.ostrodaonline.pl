@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /cache/
+Disallow: /download/
+Disallow: /files/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /store/
+Disallow: /styles/

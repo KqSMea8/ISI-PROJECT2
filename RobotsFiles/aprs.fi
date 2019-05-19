@@ -1,0 +1,18 @@
+
+Sitemap: http://aprs.fi/sitemap.xml.gz
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: turnitinbot
+Disallow: /
+
+User-agent: Steeler
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Linguee
+Disallow: /
+

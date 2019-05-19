@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /*update-payment*
+Disallow: /*edit-my-profile*
+Disallow: /*order-history*
+Disallow: /*manage-subscriptions*
+Disallow: /*reset-password*
+Disallow: /*order-authorization*
+Disallow: /*update-payment*
+Noindex: /*Tile-Show*
+Noindex: /*Search-UpdateGrid*
+Disallow: /*filter=*
+Disallow: /*sz=*
+Noindex: *demandware.store*
+
+Sitemap: https://emea.mizuno.com/sitemap_index.xml

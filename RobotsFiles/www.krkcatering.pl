@@ -1,0 +1,6 @@
+# 1 Page Design Robots.txt Generator
+# http://www.1pagedesign.com
+
+User-agent: *
+Disallow: /cgi-bin/
+

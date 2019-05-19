@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wordpress_farbybeton/wp-admin/
+Allow: /wordpress_farbybeton/wp-admin/admin-ajax.php
+

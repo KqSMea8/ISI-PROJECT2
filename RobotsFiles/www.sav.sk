@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /doc/rtf.generator.2.5/
+Disallow: /doc/ajax/
+Disallow: /doc/editor/
+Disallow: /doc/ckeditor/
+Disallow: /doc/intranet/
+Disallow: /export/
+Disallow: /php/
+Disallow: /php_old/
+Disallow: /uploads/
+Disallow: /epca/
+Disallow: /stat/
+Disallow: /db/

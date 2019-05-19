@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /inc/
+Disallow: /include/
+Disallow: /ustawienia.php
+Disallow: /login.php
+Disallow: /wyloguj.php
+Disallow: /cookie.php
+Disallow: /connect.php
+Disallow: /aktualnosci.html

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/plugins/
+
+Sitemap: https://golebie.info/sitemap_index.xml

@@ -1,0 +1,17 @@
+User-Agent: *
+
+Disallow: /assets/
+Disallow: /files/_temp_/
+
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /uploads/
+
+Disallow: /cgi-bin/
+Disallow: /xhprof/
+
+Disallow: *no_cache*
+Disallow: *debug*
+Disallow: /*?id=*

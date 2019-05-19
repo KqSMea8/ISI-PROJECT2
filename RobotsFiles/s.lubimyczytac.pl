@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /css
+Allow: /img
+Allow: /js
+Allow: /skins/*
+Allow: /upload/authors/*
+Allow: /upload/books/*
+Allow: /upload/lcnews/*
+Allow: /upload/movies/*
+Allow: /upload/texts/*
+Allow: /upload/translators/*
+Allow: /upload/default*
+Disallow: /

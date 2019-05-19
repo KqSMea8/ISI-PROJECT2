@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://mieszko.my/sitemap.xml
+Disallow: /ulubione
+Disallow: /authentication
+Disallow: /admin
+Disallow: /agencje
+

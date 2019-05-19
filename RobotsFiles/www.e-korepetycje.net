@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /szukaj
+Disallow: /js/browse.js
+Disallow: /js/card_contacts.js
+Disallow: /*subject=
+Disallow: /*region=
+Disallow: /*sort=
+Disallow: /captcha.png*
+Disallow: /captcha-opinii.png*
+Disallow: /podglad-testu,*
+
+User-agent: bingbot
+Crawl-delay: 5

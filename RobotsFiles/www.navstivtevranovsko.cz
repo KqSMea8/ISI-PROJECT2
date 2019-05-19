@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /&lt;lang&gt;//
+Disallow: /*?do=*
+Disallow: /*&do=*
+
+
+# langauges
+Sitemap: http://www.navstivtevranovsko.cz/lang-cs/sitemap.xml
+Sitemap: http://www.navstivtevranovsko.cz/lang-de/sitemap.xml
+Sitemap: http://www.navstivtevranovsko.cz/lang-en/sitemap.xml
+Sitemap: http://www.navstivtevranovsko.cz/lang-pl/sitemap.xml
+
+
+## Big pages
+Sitemap: http://www.navstivtevranovsko.cz/lang-cs/page-127/sitemap.xml  # Galerie
+Sitemap: http://www.navstivtevranovsko.cz/lang-de/page-127/sitemap.xml  # Galerie
+Sitemap: http://www.navstivtevranovsko.cz/lang-en/page-127/sitemap.xml  # Galerie
+Sitemap: http://www.navstivtevranovsko.cz/lang-pl/page-127/sitemap.xml  # Galerie
+

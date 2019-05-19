@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /ru*
+Disallow: /en*
+Disallow: /*waluta.html
+Disallow: /*schowek.html
+Disallow: /*podpowiedzi.html
+Disallow: /*szukaj.html
+Disallow: /*koszyk/
+Disallow: /*koszyk.html
+Disallow: /*logowanie.html
+Disallow: /*rejestracja.html
+Disallow: /*odzyskiwanie_hasla.html
+Disallow: /*banner*
+Sitemap: http://www.contec.pl/pub/sitemaps/sitemap_index.xml

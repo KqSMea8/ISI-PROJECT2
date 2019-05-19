@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /events
+Disallow: /wyniki
+Disallow: /superoes/wp-content
+Disallow: /img
+Disallow: /events/
+Disallow: /wyniki/
+Disallow: /superoes/wp-content/
+Disallow: /img/

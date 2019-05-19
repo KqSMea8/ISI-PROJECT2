@@ -1,0 +1,26 @@
+# robots.txt
+# @url: https://pl.ambafrance.org
+# @generator: SPIP 3.2.1
+# @template: plugins-dist/mae/robots.txt.html
+
+User-agent: *
+Allow:    /local/cache-css/
+Allow:    /local/cache-js/
+Allow:    /local/cache-gd2/
+Allow:    /local/cache-vignettes/
+Allow:    /plugins-dist/mae/img/
+Allow:    /plugins-dist/mae/fonts/
+Allow:    /plugins-dist/mediabox/colorbox/
+Allow:    /plugins-dist/mae/javascript/
+Allow:    /plugins-dist/gis/lib/leaflet/dist/images/
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Crawl-delay: 1
+
+Sitemap: https://pl.ambafrance.org/sitemap.xml

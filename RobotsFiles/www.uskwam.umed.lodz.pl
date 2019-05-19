@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin_zp/
+Disallow: /zp/
+Disallow: /zp_doc/
+Disallow: /adm/
+Disallow: /old_usk2_serwis/
+Disallow: /k/
+Disallow: /adm/
+Disallow: /doc/dokumenty/

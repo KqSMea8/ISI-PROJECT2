@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/nefron/_thumbs/en/defaultaktualnosci/
+Allow: /gfx/nefron/_thumbs/pl/defaultaktualnosci/
+Disallow: /konto/
+Disallow: /pl/konto/
+User-agent: Fasterfox
+Disallow: /
+

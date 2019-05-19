@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /de/lp-
+Disallow: /de/fb-
+Disallow: /noindex/
+Disallow: /xy
+
+Sitemap: https://www.deutscheskonto.org/de/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/en/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/cs/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/es/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/fr/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/it/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/pl/sitemap.xml
+Sitemap: https://www.deutscheskonto.org/ru/sitemap.xml
+
+

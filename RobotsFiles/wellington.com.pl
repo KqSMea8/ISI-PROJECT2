@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /backup/
+Disallow: /language/
+Disallow: /libs/
+Disallow: /media/
+Disallow: /templates/
+Disallow: /templates_c/
+Disallow: /tmp/

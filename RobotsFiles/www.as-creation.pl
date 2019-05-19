@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /t3lib/
+Disallow: /staging/
+Disallow: /pages/
+Disallow: /files/
+Disallow: /code/
+Disallow: /site/

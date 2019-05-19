@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /2010/
+Disallow: /2011/
+Disallow: /2012/
+Disallow: /2013/
+Disallow: /2014/
+Disallow: /tresc/
+
+
+

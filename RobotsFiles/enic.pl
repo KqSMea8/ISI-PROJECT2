@@ -1,0 +1,11 @@
+User-agent:	*
+Disallow:	/webmail
+Disallow:	/logos
+Disallow:	/js
+Disallow:	/images
+Disallow:	/futuro_img
+Disallow:	/_stats
+Disallow:	/joom
+Disallow:	/_logos
+Disallow:	/_js
+Disallow:	/_images

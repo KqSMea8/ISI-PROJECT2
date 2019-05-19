@@ -1,0 +1,10 @@
+User-agent:	*
+Allow:	*
+Disallow:	__off
+Disallow:	_css
+Disallow:	_images
+Disallow:	_includes
+Disallow:	_js
+Disallow:	_photos
+Disallow:	_smarty
+Disallow:	dev

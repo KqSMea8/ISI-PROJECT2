@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow:
+Disallow: /bot-trap
+User-Agent: 008
+User-Agent: picscout
+User-Agent: TinEye
+User-Agent: ia_archiver
+Disallow: /
+Sitemap: http://www.jiddu-krishnamurti.net/sitemap-index.xml
+Sitemap: http://www.jiddu-krishnamurti.net/sitemap-changed.xml
+Sitemap: http://www.jiddu-krishnamurti.net/sitemap-main.xml
+Sitemap: http://www.jiddu-krishnamurti.net/sitemap-main.xml.gz
+

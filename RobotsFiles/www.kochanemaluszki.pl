@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Allow: /components/com_jfbconnect/includes/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Allow: /modules/mod_yjme/css/
+Allow: /modules/mod_youyork_slider/src/
+Allow: /modules/mod_youyork_slider/css/
+Allow: /modules/mod_yjis4/src/
+Allow: /modules/mod_yjis4/css/
+Disallow: /plugins/
+Allow: /plugins/system/yjsg/
+Disallow: /tmp/
+

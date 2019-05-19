@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /webpage/regulamin.html
+Disallow: /webpage/odstapienie-od-umowy.html
+Disallow: /webpage/platnosci.html
+Disallow: /user/createAccount
+Disallow: /user/loginUser
+Disallow: /basket
+Disallow: /user/showTerms
+Disallow: /webpage/pliki-cookies.html
+Disallow: /webpage/polityka-prywatnosci.html
+Disallow: /mod_fotolia/
+Disallow: /search
+Disallow: /szukaj
+Disallow: /*?filters%*

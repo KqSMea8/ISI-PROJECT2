@@ -1,0 +1,5 @@
+Sitemap: http://caroline.blog/sitemap.xml
+Sitemap: http://caroline.blog/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

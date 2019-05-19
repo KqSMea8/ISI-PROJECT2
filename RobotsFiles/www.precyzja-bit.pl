@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /templates/*.js
+Allow: /templates/*.css
+Allow: /templates/*.png
+Allow: /templates/*.jpg
+Allow: /templates/*.jpeg
+Allow: /templates/*.gif
+Allow: /templates/*.bmp
+Allow: /plugins/system/*.js
+Allow: /plugins/system/*.css
+Allow: /plugins/system/*.png
+Allow: /plugins/system/*.jpg
+Allow: /plugins/system/*.jpeg
+Allow: /plugins/system/*.gif
+Allow: /plugins/system/*.bmp
+Allow: /modules/mod_yoo_search/*.css
+Allow: /modules/mod_yoo_search/*.js
+Allow: /modules/mod_yoo_carousel/*.css
+Allow: /modules/mod_yoo_carousel/*.js
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /hwdvideos/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Sitemap: http://www.precyzja-bit.pl/mapa.xml
+
+

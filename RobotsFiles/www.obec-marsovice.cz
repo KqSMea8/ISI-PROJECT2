@@ -1,0 +1,13 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /urad-209/uredni-deska/
+Disallow: /urad-209/uzemni-plan-marsovice/
+Allow: /urad-209/uzemni-plan-marsovice/uzemni-plan-ucinny-od-10102014/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /urad-209/uredni-deska/
+Disallow: /urad-209/uzemni-plan-marsovice/
+Allow: /urad-209/uzemni-plan-marsovice/uzemni-plan-ucinny-od-10102014/
+Sitemap: https://www.obec-marsovice.cz/sitemap.xml
+

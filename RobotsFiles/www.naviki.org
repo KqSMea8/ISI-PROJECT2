@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+
+Sitemap: https://www.naviki.org/sitemap.xml
+
+Disallow: /services/
+Disallow: /example/
+Disallow: /template-v2/
+Disallow: /static/
+Disallow: /oauth/
+Disallow: /oauth2/
+Disallow: /support/
+Disallow: /api/
+Disallow: /*/naviki/api/
+Disallow: /naviki/api/
+Disallow: /*/naviki/intern/ecc-login/
+Disallow: /*/naviki/static/widget/
+
+
+Allow: /typo3conf/ext/naviki/Resources/Public/
+Allow: /typo3conf/ext/sociallogin/Resources/Public/
+Allow: /typo3conf/ext/imagecycle/
+Allow: /typo3conf/ext/pagebrowse/
+Allow: /typo3conf/ext/sr_language_menu/
+

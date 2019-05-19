@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /images/
+Disallow: /javascript/
+Disallow: /stylesheets/
+Disallow: /config.php
+Disallow: /meta.php
+Disallow: /side-menu-kontakt.php
+Disallow: /header.php
+Disallow: /footer.php

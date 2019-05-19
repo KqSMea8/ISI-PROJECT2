@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_admin/
+Disallow: /_files/
+Disallow: /_images/
+Disallow: /_skin/
+Disallow: /_skin_c/
+Disallow: /_uploaded_gallery/
+Disallow: /_uploaded_images/
+Disallow: /_common.php
+Disallow: /_config.php

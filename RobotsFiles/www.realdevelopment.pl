@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /application/
+Disallow: /backup/
+Disallow: /cgi-bin/
+Disallow: /library/
+Disallow: /backup/

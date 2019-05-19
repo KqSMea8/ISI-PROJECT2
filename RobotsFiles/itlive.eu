@@ -1,0 +1,21 @@
+Sitemap: http://itlive.eu.pl/sitemap.xml
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+
+# Digg mirror
+User-agent: duggmirror
+Disallow: /
+
+# Alexa archive
+User-agent: ia_archiver
+Disallow: /
+
+# Global
+User-agent: *

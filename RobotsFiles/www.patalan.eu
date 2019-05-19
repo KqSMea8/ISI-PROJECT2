@@ -1,0 +1,14 @@
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; LinkJuiceKeeper has a deprecated constructor in <b>/home/golden/domains/patalan.eu/public_html/wp-content/plugins/link-juice-keeper/link-juice-keeper.php</b> on line <b>31</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; Twitter_Widget has a deprecated constructor in <b>/home/golden/domains/patalan.eu/public_html/wp-content/themes/blog/lib/widgets/widgets.php</b> on line <b>17</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; Recent_Posts_Widget has a deprecated constructor in <b>/home/golden/domains/patalan.eu/public_html/wp-content/themes/blog/lib/widgets/widgets.php</b> on line <b>175</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; Contact_Details_Widget has a deprecated constructor in <b>/home/golden/domains/patalan.eu/public_html/wp-content/themes/blog/lib/widgets/widgets.php</b> on line <b>356</b><br />
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.patalan.eu/en/sitemap.xml.gz
+

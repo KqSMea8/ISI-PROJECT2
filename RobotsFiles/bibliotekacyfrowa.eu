@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /zipContent
+Disallow: /Content/*/zip
+Disallow: /sresults?action=SearchSimilarAction
+Disallow: /dlibra/ajax.xml
+Disallow: /dlibra/sec-ajax.xml
+Sitemap: http://bibliotekacyfrowa.eu/sitemapindex.xml
+

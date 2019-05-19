@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /kalendarz-imprez-2/action~posterboard/
+Disallow: /kalendarz-imprez-2/action~agenda/
+Disallow: /kalendarz-imprez-2/action~oneday/
+Disallow: /kalendarz-imprez-2/action~month/
+Disallow: /kalendarz-imprez-2/action~week/
+Disallow: /kalendarz-imprez-2/action~stream/

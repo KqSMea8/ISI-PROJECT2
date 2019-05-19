@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /profile/
+Disallow: /ask/
+Disallow: /notify/
+Disallow: /basket/
+Disallow: /compare/
+Disallow: /newsletter/
+Disallow: /recommend/
+Disallow: /autosuggest/
+Disallow: /customize/
+Disallow: /comments/
+Disallow: /captcha/
+Disallow: /polls/
+Disallow: /js/
+Disallow: /gfx/
+Disallow: /css/
+Disallow: /images/delivery/
+Disallow: /images/i18n/
+Disallow: /images/integrations/
+Disallow: /images/shippings/
+Disallow: /images/sms/
+Disallow: /images/socials/
+Disallow: /images/payments/
+
+Sitemap: http://www.morze-wina.pl/export/googlesitemap/

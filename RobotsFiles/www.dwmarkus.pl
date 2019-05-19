@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /*.htm
+Allow: /kontakt-send.html
+Allow: /cennik.html
+Allow: /kontakt.html
+Allow: /opis.html
+Allow: /start.html
+Allow: /galeria.html
+Allow: /restauracja.html

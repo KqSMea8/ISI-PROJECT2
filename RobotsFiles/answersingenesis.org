@@ -1,0 +1,13 @@
+User-agent: *
+User-agent: bingbot
+Crawl-delay: 10
+Disallow: /search/
+Disallow: /store/cart/
+Disallow: /account/
+Disallow: /store/checkout/
+Disallow: /home/
+Disallow: /home/area/
+Allow:/
+sitemap: http://a68201.hostedsitemaps.com/3924992/sitemap.xml.gz
+
+

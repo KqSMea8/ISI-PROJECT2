@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /fs.php
+Disallow: /embed.php
+Disallow: /embed_bratislava.php
+Disallow: /embed_android.php
+Disallow: /captcha.php
+Disallow: /google_map.php
+Disallow: /google_map_v3.php
+Disallow: /stats/
+Disallow: /ajax/
+Disallow: /krpano/player/
+Disallow: /pano/xml/
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_sk.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_en.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_de.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_cz.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_fr.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_es.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_ru.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_pl.xml
+Sitemap: http://www.virtualtravel.sk/sitemap/vt_site_hu.xml
+
+
+Disallow: /chipmunk.php
+

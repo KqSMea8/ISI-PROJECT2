@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /en/cart/
+Disallow: /en/orders/
+Disallow: /en/profile/
+Disallow: /en/login/
+Disallow: /en/logout/
+Disallow: /en/password-reset/
+Disallow: /en/register/
+Disallow: /koszyk/
+Disallow: /zamowienia/
+Disallow: /profil/
+Disallow: /logowanie/
+Disallow: /wyloguj/
+Disallow: /reset-hasla/
+Disallow: /rejestracja/

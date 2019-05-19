@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /assets/downloads/
+Disallow: /errors/
+Disallow: /cgi-bin/
+Disallow: /lib/
+Disallow: /.htaccess
+Disallow: /contact_mailer.php
+Disallow: /phpinfo.php
+Disallow: /en/clients/

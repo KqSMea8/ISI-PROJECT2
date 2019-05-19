@@ -1,0 +1,4 @@
+<div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [UPDATE command denied to user &#039;db231847&#039;@&#039;93.157.100.37&#039; for table &#039;wp_options&#039;]<br /><code>UPDATE `wp_options` SET `option_value` = &#039;1&#039; WHERE `option_name` = &#039;rs_tables_created&#039;</code></p></div><div id="error"><p class="wpdberror"><strong>Blad bazy danych WordPressa:</strong> [INSERT, UPDATE command denied to user &#039;db231847&#039;@&#039;93.157.100.37&#039; for table &#039;wp_options&#039;]<br /><code>INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES (&#039;_transient_doing_cron&#039;, &#039;1556176805.7370409965515136718750&#039;, &#039;yes&#039;) ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)</code></p></div>User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

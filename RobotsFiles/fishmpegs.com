@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /longest/
+Disallow: /newest/
+

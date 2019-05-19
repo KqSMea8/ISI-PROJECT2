@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /page/
+Disallow: /uncategorized/
+Disallow: /author/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /readme.html
+Disallow: /uncategorized/
+Disallow: /page/
+Disallow: /author/
+Disallow: /author
+Disallow: /license.txt
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /polityka-prywatnosci/
+Disallow: /wp-register.php
+Disallow: /*?*
+Disallow: /*?
+Disallow: /*~*
+Disallow: /*~

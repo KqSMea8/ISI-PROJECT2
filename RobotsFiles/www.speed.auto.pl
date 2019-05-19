@@ -1,0 +1,11 @@
+Sitemap: http://www.speed.auto.pl/sitemap.xml
+User-agent: *
+Disallow: /formularz_zgloszeniowy.php
+Disallow: */faq/najblizsze-kursy-kat-a-i-b-rozpoczynaja-sie,13,pl.html
+Disallow: */faq/archiwum-terminy-kursow,11,pl.html
+Disallow: */faq/kontakt,5,pl.html
+Disallow: */faq/witamy,1,pl.html
+Disallow: */faq/kursycennik,2,pl.html
+Disallow: */faq/terminy,3,pl.html
+Disallow: */faq/galeria,4,pl.html
+Disallow: */faq/o-nas,14,pl.html

@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /classes
+Disallow: /common
+Disallow: /language
+Disallow: /help
+Disallow: /minimods
+Disallow: /modules
+Disallow: /tmp
+Disallow: /templates/cbidgp/js
+Disallow: /templates/cbidgp/plugins
+Disallow: /?skelMod=ModShopCart
+Disallow: /?skelMod=ModShopCupboard

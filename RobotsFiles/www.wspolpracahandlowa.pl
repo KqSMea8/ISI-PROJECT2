@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ajx/
+Disallow: /funkcje/
+Disallow: /includes/
+Disallow: /tiny_mce/
+Disallow: /utl/
+Allow: /css/
+Allow: /css/obrazki/
+Allow: /includes/cpt/cpt.php

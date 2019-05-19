@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: http://festival.hanaorienteering.cz/sitemap.xml.gz
+

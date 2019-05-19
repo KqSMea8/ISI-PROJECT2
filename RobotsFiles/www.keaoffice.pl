@@ -1,0 +1,21 @@
+Sitemap: http://www.keaoffice.pl/sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /wp-
+Disallow: /trackback/
+Disallow: /comment-page-
+Disallow: /wp-content/
+Disallow: /tag/
+Disallow: /category/
+Disallow: /author/
+Allow: /wp-content/themes/catch-everest/style.css?ver=3.5.2
+Allow: /wp-content/themes/catch-everest/css/responsive.css?ver=3.5.2
+Allow: /wp-includes/js/jquery/jquery.js?ver=1.8.3
+Allow: /wp-content/themes/catch-everest/js/catcheverest-menu.min.js?ver=20130224
+Allow: /wp-content/themes/catch-everest/js/catcheverest-slider.js?ver=20130114
+Allow: /wp-content/uploads/2013/05/logo.jpg
+Allow: /wp-content/themes/catch-everest/images/
+Allow: /wp-content/uploads/

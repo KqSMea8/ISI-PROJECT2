@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /cache
+Disallow: /captcha
+Disallow: /lib
+Disallow: /modules
+Disallow: /template_cache
+Disallow: /update
+Disallow: /objects
+Disallow: /*.tpl

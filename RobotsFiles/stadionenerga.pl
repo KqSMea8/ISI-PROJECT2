@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /aktualnosci/-1
+Disallow: /aktualnosc/koncert-guns-n-roses-faq/6844
+Disallow: /aktualnosc/wygraj-wejciwki-do-playground-areny-regulamin-konkursu/7050
+Disallow: /aktualnosc/dojazd-na-koncert-guns-n-roses-i-informacje-o-parkingach/6840
+Disallow: /aktualnosc/dojazd-komunikacj-miejsk-na-mecz-polska-meksyk/7059
+Disallow: /aktualnosc/zmiana-organizacji-ruchu-na-derby-trjmiasta/6641
+Disallow: /aktualnosc/biegambolubi-porady-dla-biegaczy-cz1/5212
+Disallow: /aktualnosc/biegambolubi-porady-dla-biegaczy-cz3/5360
+Disallow: /aktualnosc/summer-city-festival/1018

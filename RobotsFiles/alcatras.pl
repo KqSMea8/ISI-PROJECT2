@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /logowanie
+Disallow: /rejestracja
+Disallow: /regulamin
+Disallow: /polityka-prywatnosci
+Disallow: /resetowanie_hasla
+Disallow: /resetowanie_hasla
+Disallow: /szukaj_wycieraczki
+Disallow: /koszyk
+#Sitemap files
+Sitemap: https://alcatras.pl/sitemap.xml

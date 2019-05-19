@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/
+Allow: /wp-content/plugins/
+Disallow: /wp-includes/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Sitemap: https://www.polary-firmowe.pl/sitemap_index.xml

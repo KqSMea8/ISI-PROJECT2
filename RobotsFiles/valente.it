@@ -1,0 +1,14 @@
+# robots.txt file for http://www.valente.it/
+
+User-agent: *
+Disallow:
+
+# auto-discovery directive
+Sitemap: http://www.valente.it/sitemap.xml
+
+
+
+
+
+
+

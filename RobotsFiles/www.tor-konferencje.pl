@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /file/
+Disallow: /kolej-niepodlegla.html
+Disallow: /autorzy/
+Disallow: /reklamy/
+Disallow: /rss/
+Disallow: /galeriaLosowa/
+Disallow: /test/
+Disallow: /demo/
+Disallow: /xml/
+
+User-agent: Googlebot-News
+Disallow: /mobile

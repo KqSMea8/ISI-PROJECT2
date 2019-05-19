@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="language" content="en" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/ico" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css?4" />
+<script type="text/javascript" src="/js/jquery-1.8.1.min.js"></script>
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+<script type="text/javascript" src="/js/ddslick.js?2"></script>
+<meta name="viewport" content="width=970" />
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+<!--[if lt IE 9]>
+<style>.nav ul li ul{border: 1px solid black;}</style>
+<![endif]-->
+<title>REEL TECH Lighting-Lifts Leuchtenlifte</title>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.nav ul li').hover(function(){
+$(this).addClass('hover');
+},function(){
+$(this).removeClass('hover');
+});
+});
+</script>
+<script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+$('#slider').cycle({
+fx:			'fade',
+after: 		animate,
+speed:		500,
+timeout:	10000,
+cleartype: true,
+cleartypeNoBg: true
+});
+
+function animate(){
+if(this.id=='slide1'){
+$('.animate').animate({ 'margin-top': '-126px', filter:'' },4000)
+.delay(500)
+.animate({ 'margin-top': '-15px', filter:'' },4000);
+}
+if(this.id=='slide2'){
+$('.animate').animate({ 'margin-top': '-73px', filter:'' },4000)
+.delay(500)
+.animate({ 'margin-top': '-15px', filter:'' },4000);
+}
+if(this.id=='slide3'){
+$('.animate').animate({ 'margin-top': '-200px', filter:'' },4000)
+.delay(500)
+.animate({ 'margin-top': '-15px', filter:'' },4000);
+}
+}
+
+});
+</script>
+
+</head>
+<body>
+<a name='top'></a>
+<div id='main'>
+<div class="header">
+<div class="wrapper">
+<a href="/eu/"><img border="0" class="logo" src="/images/logo.jpg" alt="Reel Tech"/></a>
+<div id="demoDefaultSelection"></div>
+<div class='nav'>
+<ul>
+<li class="has-sub"><a href="/eu/">Home</a>
+<ul>
+<li><a href="/eu/ueber-uns">About us</a></li>
+<li><a href="/eu/warum-leuchtenlifte">Why Lighting Lifts</a></li>
+<li><a href="/eu/kontakt">Contact</a></li>
+</ul></li>
+<li class="has-sub"><a href="javascript:void();">Lift-Technic</a>
+<ul>
+<li><a href="/eu/lifte/standard">Lighting-Lifts</a></li>
+<li><a href="/eu/lifte/cctv-lifte">CCTV-Lifts</a></li>
+<li><a href="/eu/lifte/sonder">Special Products</a></li>
+<li><a href="/eu/zubehoer">Accessories</a></li>
+<li><a href="/eu/produktfinder">Product-Finder</a></li>
+<li><a href="/eu/grundbegriffe">FAQ</a></li>
+<li><a href="/eu/sicherheit">Certificates and Safety</a></li>
+<li><a href="/eu/installation">Installation</a></li>
+</ul></li>
+<li class="has-sub"><a href="javascript:void();">Lift Applications</a>
+<ul>
+<li><a href="/eu/leuchten">Lighting</a></li>
+<li><a href="/eu/video">CCTV/Fire</a></li>
+<li><a href="/eu/audio">Audio/Visual/Data</a></li>
+<li><a href="/eu/banner">Displays/Banners</a></li>
+<li><a href="/eu/referenzen">References</a></li>
+</ul></li></ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="banner">
+<div class="wrapper">
+<div id="slider">
+
+<div class="slide" id="slide1" style="background:transparent;">
+<div class="slide_left">
+A maintenance free, remote control lift & lower solution for commercial, retail & industrial premises
+</div>
+<div class="slide_right">
+<div class="animate-top"><img src="/images/slider/slider-1-top.png" style="z-index:666666;" alt="" /></div>
+<div class="animate"><img src="/images/slider/slider-1-bottom.png" style="background:transparent;" alt="" /></div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div class="slide" id="slide2" style="background:transparent;display:none;">
+<div class="slide_left">
+Suitable for lighting, CCTV, fire, audio visual, data, banner advertising & decorative displays
+</div>
+<div class="slide_right">
+<div class="animate-top"><img src="/images/slider/slider-1-top.png" style="z-index:666666;" alt="" /></div>
+<div class="animate"><img src="/images/slider/slider-2-bottom.png" style="background:transparent;" alt="" /></div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div class="slide" id="slide3" style="background:transparent;display:none;">
+<div class="slide_left">
+Suitable for lighting, CCTV, fire, audio visual, data, banner advertising & decorative displays
+</div>
+<div class="slide_right">
+<div class="animate-top"><img src="/images/slider/slider-3-top.png" style="z-index:666666;" alt="" /></div>
+<div class="animate"><img src="/images/slider/slider-3-bottom.png" style="background:transparent;" alt="" /></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+	<div class="content">
+
+<div class="wrapper bucket_margin">
+
+<div class="bucket_wrapper">
+<!--
+<a href="https://www.facebook.com/reeltecheurope"><img src="/img/FB_FindUsOnFacebook-114.png" width="114" height="29" align="right" alt="Find us on Facebook" hspace="22" /></a>
+<a href="https://twitter.com/reeltecheurope"><img src="/img/FollowUsOnTwitter-114.png" width="114" height="29" align="right" alt="Follow us on Twitter" hspace="22" /></a>
+-->
+<h2>Lift Applications:</h2>
+<a class="bucket bucket_hover" id="lighting" href="/eu/leuchten">
+Lighting				</a>
+
+<a class="bucket bucket_hover" id="cctv" href="/eu/video">
+CCTV<br />Fire				</a>
+
+<a class="bucket bucket_hover" id="audio" href="/eu/audio">
+Audio<br />Visual<br />Data				</a>
+<a class="bucket bucket_hover last" id="display" href="/eu/banner">
+Displays<br />Banners				</a>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+
+<div class="home_content">
+<div class="wrapper">
+<div class="home_content_left">
+<p class="absatz">REEL TECH Lighting-Lifts are used to maintain or retrofit luminaires or banners in a safe, simple and economical manner. Luminaires can be repaired, relamped or cleaned at the push of a button at ground level. </p>				</div>
+<div class="home_content_right">
+<div style="height:75px;float:right;"><img src="/img/rueckruf.gif" align="right" width="75" height="75" hspace="10" /><a href="/eu/anfrage" class="orange_button">Call Back-Service</a></div>				</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<style>.footer_right {width:230px;}</style>
+<script type="text/javascript">
+function ChangePage(d) {
+if (d.selectedData.value != "eu") {
+window.location.href="/"+d.selectedData.value+"/ots.txt";
+}
+}
+</script><script type="text/javascript">
+var ddData = [
+{text:"Deutschland",value:"de",description:" ",cssSprite: "dddata ddde"},{text:"Osterreich",value:"at",description:" ",cssSprite: "dddata ddat"},{text:"Schweiz",value:"ch",description:" ",cssSprite: "dddata ddch"},{text:"United Kingdom",value:"gb",description:" ",cssSprite: "dddata ddgb"},{text:"Ceska republika",value:"cz",description:" ",cssSprite: "dddata ddcz"},{text:"Italia",value:"it",description:" ",cssSprite: "dddata ddit"},{text:"Polska",value:"pl",description:" ",cssSprite: "dddata ddpl"},{text:"Nederland",value:"nl",description:" ",cssSprite: "dddata ddnl"},{text:"Norge",value:"no",description:" ",cssSprite: "dddata ddno"},{text:"Slovensko",value:"sk",description:" ",cssSprite: "dddata ddsk"},{text:"Sverige",value:"se",description:" ",cssSprite: "dddata ddse"},{text:"Suomi",value:"fi",description:" ",cssSprite: "dddata ddfi"},{text:"Europe",value:"eu",description:" ",cssSprite: "dddata ddeu"}];
+$('#demoDefaultSelection').ddslick({
+data:ddData,
+width:200,
+defaultSelectedIndex:12,
+onSelected: function(data){
+ChangePage(data);
+}
+});
+</script><div class="footer">
+<div class="wrapper"><div class="footer_left">
+<br>
+<a href="/uploads/news/auvaartikelarbeitssicherheitdurchleuchtenlifte.pdf"><img src="/images/auva.png" width="110" height="152" border="0" /></a>
+</div><div class="footer_left">
+Catalogue-Download<br>
+<a href="/uploads/katalog/RT_Katalog 2018.pdf" target="_new"><img src="/images/katalog-2017.png" width="110" height="152" border="0" /></a>
+</div>
+<div class="footer_middle">
+<ul>
+<li><a href="/eu/impressum">Impressum</a></li>
+<li><a href="/eu/datenschutzerklaerung">Privacy Policy</a></li>
+<li><a href="/uploads/agb/2016_02_AGB-Oesterreich.pdf">Terms and Conditions</a> (PDF)</li><li><a href="/eu/kontakt">Contact</a></li>
+<!-- <li><a href="/eu/team">IHRE ANSPRECHPARTNER</a></li> -->
+</ul>
+
+&copy; 2012 - 2019 by Reeltech EU<br/>
+<a href="http://www.rundumsweb.at/">Website created by RundUmsWeb</a><br/>
+<a href="http://www.ihm.co.uk/">Website designed by in.house.media, Northampton</a><br>
+<a href='/de/'>de</a> <a href='/at/'>at</a> <a href='/ch/'>ch</a> <a href='/gb/'>gb</a> <a href='/cz/'>cz</a> <a href='/it/'>it</a> <a href='/pl/'>pl</a> <a href='/nl/'>nl</a> <a href='/no/'>no</a> <a href='/sk/'>sk</a> <a href='/se/'>se</a> <a href='/fi/'>fi</a> <a href='/eu/'>eu</a>
+</div>
+<div class="footer_right"><p>Your partner for Europe:</p>
+<p><span class="sprt icotel"><b>+43 (0) 1 960 80 88</b></span><br><span class="sprt icofax">+43 (0) 1 960 80 88 - 80</span><br><span class="sprt icomail"><script language='JavaScript'>ds('reeltech.eu','office');</script><noscript><i>office</i> at <i>reeltech.eu</i></noscript></span><br><span class="sprt icomap"><a href="/eu/map/11">Hier finden Sie uns</a></p><p>REEL TECH Handelsg.m.b.H.<br>Percostrasse 31/B1<br/>A-1220 Vienna<br>Austria</p></div>
+<div class="clear"></div>
+</div>
+</div><div id="comsg"><div>
+<span>Wir verwenden Cookies fur Benutzerfreundlichkeit, Statistik und Einstellungen.<br>
+Wenn Sie hier bleiben, nehmen wir an, dass Sie mit der Verwendung von Cookies einverstanden sind.<br>
+Weitere Informationen:
+<a href="/eu/datenschutzerklaerung">Privacy Policy</a></div>
+<span id="comsgCloser" onClick="document.cookie='hidecomsg=1;path=/;expires=Mon, 24 Jun 2019 03:14:07 +0200';jQuery('#comsg').slideUp()">OK</span>
+</div>
+<a href="javascript:history.go(-1);" id="back_link"><img src="/images/icons/back.png" alt="Back" title="Back" style="position:fixed;bottom:40px;right:40px;border:none;"/></a><script type="text/javascript">if(document.cookie.indexOf('hidecomsg=1') != -1){
+jQuery('#comsg').hide();
+}else{
+jQuery('#comsg').prependTo('body');
+jQuery('#comsgCloser').show();
+}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-50898188-1', 'reeltech.eu');
+ga('send', 'pageview');
+</script>
+</div>
+</body>
+</html>
+

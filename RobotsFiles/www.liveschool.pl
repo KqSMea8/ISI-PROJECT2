@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /capcha/
+Disallow: /cookie/
+Disallow: /cookies/
+Disallow: /dompdf/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /news/
+Disallow: /news2/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /swift/
+Disallow: /functions.php
+Disallow: /polityka_cookies.php
+Disallow: /sesja.php
+Disallow: /functions.php
+Disallow: /wyniki.php
+Disallow: /wyniki2.php
+
+Sitemap: http://www.liveschool.pl/sitemap.xml

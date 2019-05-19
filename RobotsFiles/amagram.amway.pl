@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /pl/_error
+Disallow: /pl/imprint
+Disallow: /pl/search
+Disallow: /pl/business-life/news-and-events
+Disallow: /pl/business-life/growth-and-rewards
+Disallow: /pl/business-life/1361880
+Disallow: /pl/business-life/qualifications
+Disallow: /pl/business-life/sales-and-skills
+Disallow: /pl/video-center
+Disallow: /pl/promotions/1361880
+Disallow: /pl/product-lightbox/1361880
+Disallow: /pl/contact
+Disallow: /pl/newsletter
+Disallow: /pl/json
+Disallow: /pl/quicksearch
+Disallow: /pl/newsletter-preview
+Disallow: /pl/business-life/2312238
+Disallow: /login
+Disallow: /pl/_
+Sitemap: https://amagram.amway.pl/sitemap.xml
+

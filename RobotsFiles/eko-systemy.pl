@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /Administracja/
+Disallow: /App_Browsers/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /App_Themes/
+Disallow: /bin/
+Disallow: /ClientBin/
+Disallow: /DevExpress/
+Disallow: /images/
+Disallow: /error/
+Disallow: /search/
+Allow: /

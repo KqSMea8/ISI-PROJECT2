@@ -1,0 +1,6 @@
+# robots.txt fuer www.interreg-central.eu
+User-agent: *
+Disallow: /Content.Node/error/
+Disallow: /user/
+
+Sitemap: http://www.interreg-central.eu/Content.Node/sitemap.xml

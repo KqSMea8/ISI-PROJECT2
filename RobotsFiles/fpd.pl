@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /dokumenty/
+Disallow: /download/
+Disallow: /mobevolite_update/
+Disallow: /novva/
+Disallow: /Old_Site/
+Disallow: /papeteria/
+Disallow: /pnehtml/
+Disallow: /raport/
+Disallow: /suwak/
+Disallow: /update_mobevo/
+Disallow: /update_mobevo_test/
+Allow: 	  /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /comments/feed/
+Disallow: /trackback/
+
+Sitemap: http://www.fpd.pl/sitemap.xml

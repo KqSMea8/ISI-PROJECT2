@@ -1,0 +1,10 @@
+<h3>Wystapil blad: script 'menu-robots.txt.phtml' not found in path (public/origo/:./application/views/scripts/:public/origo/) <a href="javascript:document.getElementById('trace').style.display='block';void(-1);">&raquo;</a></h3><pre id="trace" style="display:none">#0 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/View/Abstract.php(765): Zend_View_Abstract->_script('menu-robots.txt...')
+#1 /home/pcs0/public_html/origogroup.pl/public/origo/layout.phtml(28): Zend_View_Abstract->render('menu-robots.txt...')
+#2 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/View.php(46): include('/home/pcs0/publ...')
+#3 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/View/Abstract.php(769): Zend_View->_run('public/origo/la...')
+#4 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/Layout.php(729): Zend_View_Abstract->render('layout.phtml')
+#5 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/Layout/Controller/Plugin/Layout.php(142): Zend_Layout->render()
+#6 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/Controller/Plugin/Broker.php(337): Zend_Layout_Controller_Plugin_Layout->postDispatch(Object(Zend_Controller_Request_Http))
+#7 /home/pcs0/public_html/origogroup.pl/com.zend/Zend/Controller/Front.php(925): Zend_Controller_Plugin_Broker->postDispatch(Object(Zend_Controller_Request_Http))
+#8 /home/pcs0/public_html/origogroup.pl/index.php(109): Zend_Controller_Front->dispatch()
+#9 {main}</pre>

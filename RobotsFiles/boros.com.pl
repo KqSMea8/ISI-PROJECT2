@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Noindex: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /component/mailto/
+Disallow: /*/recommend/modal
+Disallow: /*/askquestion/modal
+Disallow: /*/modal?format=pdf
+Noindex: /component/com_virtuemart/
+Noindex: /component/virtuemart/
+Allow: /
+

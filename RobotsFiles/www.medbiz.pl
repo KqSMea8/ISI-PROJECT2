@@ -1,0 +1,127 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /news
+Disallow: /blog
+Disallow: /waigua
+Disallow: /gbmgzdt
+Disallow: /luokewangguogonglue
+Disallow: /wangluoyouxifuzhu
+Disallow: /chuanqi
+Disallow: /cstupian
+Disallow: /xiaoyouxi-gonglue
+Disallow: /authent
+Disallow: /danjiyouxi-gonglue
+Disallow: /gamehot
+Disallow: /index.php?
+Disallow: /playhtml
+Disallow: /add-siccodes/
+Disallow: /biaoqian
+Disallow: /down
+Disallow: /bplayer
+Disallow: /xiaoshuoxiazai
+Disallow: /archiver
+Disallow: /wanjiatougao
+Disallow: /gdsgzdt
+Disallow: /danjiyouxi
+Disallow: /qqchaoshigonglue
+Disallow: /yingxionglianmengwaigua
+Disallow: /zaomengxiyou3xiugaiqi
+Disallow: /csol-gonglue
+Disallow: /csxinde
+Disallow: /goods
+Disallow: /maoxiandaowaigua
+Disallow: /qqyedianzhiwangfuzhu
+Disallow: /vodlist/
+Disallow: /030115/
+Disallow: /040115/
+Disallow: /admissions/
+Disallow: /aohitiandigonglue
+Disallow: /article_t
+Disallow: /artlist/
+Disallow: /buluoshouweizhangonglue
+Disallow: /catalog/
+Disallow: /cgi-sys/
+Disallow: /rent/
+Disallow: /tag/
+Disallow: /vb/
+Disallow: /chuanqi4
+Disallow: /comments/
+Disallow: /daitanshizhijianfuzhu/
+Disallow: /daxiachuanfuzhu/
+Disallow: /forum.php?/
+Disallow: /forumdisplay.php/
+Disallow: /huanxiangshenyufuzhu/
+Disallow: /jijiaxuanfengfuzhu
+Disallow: /library/
+Disallow: /lshf
+Disallow: /gongfupaifuzhu/
+Disallow: /hlsg/
+Disallow: /info/
+Disallow: /megsanguo
+Disallow: /notify-spped_bump?/
+Disallow: /nvshenlianmengfuzhu/
+Disallow: /paopaokadingchewaigua
+Disallow: /provider-solutions/
+Disallow: /ru/
+Disallow: /xiazai
+Disallow: /yxwz/
+Disallow: /zhanhun/
+Disallow: /zhenwangfuzhu
+Disallow: /zuixiyoufuzhu
+Disallow: /youlingxingdont4gonglue
+Disallow: /*item$
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: WikiDo
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: ezooms
+Disallow: /
+
+User-agent: sitebot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: lexxebot
+Disallow: /
+
+User-agent: ichiro
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: admantx
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: exabot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: GrapeshotCrawler
+Disallow: /
+
+User-agent: WeSEE:Search
+Disallow: /
+
+User-agent: admantx
+Disallow: /
+
+Sitemap: https://www.medbiz.pl/sitemap.xml

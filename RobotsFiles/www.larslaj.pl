@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /modyfikacje
+Disallow: /modifikationer
+Disallow: /askaboutproduct
+Disallow: /assemble
+Disallow: /cart
+Disallow: /koszyk
+Disallow: /download
+Disallow: /index/sendtofriend

@@ -1,0 +1,89 @@
+User-Agent: *
+Alllow: /
+Request-rate: 1/1m
+
+User-agent: BUbiNG
+Disallow: /
+
+User-Agent: bingbot
+Allow: /
+Request-rate: 1/1m
+
+User-Agent: ZoominfoBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SeznamBot
+Allow: /
+Request-rate: 1/1m
+
+User-Agent: Googlebot-Mobile
+Allow: /
+Request-rate: 1/1m
+
+User-Agent: Googlebot-Image
+Allow: /
+Request-rate: 1/1m
+
+User-Agent: Googlebot
+Allow: /
+Request-rate: 1/1m
+
+User-agent: 008
+Disallow: /
+
+user-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: metajobbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: Mail.RU_bot
+Disallow: /
+
+User-agent: fyberspider
+Disallow: /
+
+User-agent: Dotbot
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Mail.RU_Bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: alphabot
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /

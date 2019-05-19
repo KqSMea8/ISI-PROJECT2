@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /nowa-strona/albums/
+Allow: /nowa-strona/cache/
+Allow: /nowa-strona/cache_html/
+Disallow: /nowa-strona/themes/
+Disallow: /nowa-strona/zp-core/
+Disallow: /nowa-strona/zp-data/
+Disallow: /nowa-strona/page/search/
+Disallow: /nowa-strona/uploaded/
+Disallow: /nowa-strona/backup/

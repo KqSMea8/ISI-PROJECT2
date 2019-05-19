@@ -1,0 +1,112 @@
+Sitemap: http://bmgrupa.pl/sitemap.xml
+
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+
+
+
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author/
+Disallow: *?attachment_id=
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: */page/
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+#Disallow: /wp/
+
+Disallow: /produkty/*
+Disallow: /slide/*
+Disallow: /tools
+Disallow: /tools/
+Disallow: /tools
+Disallow: /img_6587
+Disallow: /wp-admin
+Disallow: /en/gallery
+Disallow: /en/gallery/
+Disallow: /de/galerie
+Disallow: /de/galerie/
+Disallow: /galeria
+Disallow: /galeria/*
+Disallow: /galeria/
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */*/trackback
+Disallow: */*/feed/*/
+Disallow: */feed
+Disallow: /*?*
+Disallow: /tag
+Disallow: /img_*.php
+Disallow: /img_*.php/
+Disallow: /DSC*.php
+Disallow: /DSC*.php/
+Disallow: /DSC*
+Disallow: /img_*
+Disallow: /DSC*/
+Disallow: /img_*/
+
+
+Disallow: http://bmgrupa.pl/13103555_2026343120923321_308496620587197661_n
+Disallow: http://bmgrupa.pl/urzadzenia_najazdowe_de.php
+Disallow: http://bmgrupa.pl/galeria_pl.php
+Disallow: http://bmgrupa.pl/de/hauptseite/kontakt_pl.php
+Disallow: http://bmgrupa.pl/jce/c5316-abmhb-uvoy-vcyn-aqwqfgu-ieak-x20160755-zrmd/
+Disallow: http://bmgrupa.pl/galeria-2
+Disallow: http://bmgrupa.pl/jce/iawyidc-muxsfj-blpnjdc-c22212-fprvigyv-bxkzr-tqpkb-gexdx-x20160752-djzc-nywqf-jteb-wkmahdwa/
+Disallow: http://bmgrupa.pl/jce/clzpnh-zzsji-ipdctww-wxxgixd-vbrqamwv-x20160755-ayfazajg-ytia-tpdg-c1948-ddwfsrud-qgiyz/
+Disallow: http://bmgrupa.pl/jce/c15540-xsoqqv-idhzo-waod-x20160753-bzxlzk-leayjia-ybtg/
+Disallow: http://bmgrupa.pl/jce/c4940-yoreaj-tqjhf-x20160754-ttyw-ihkzts/
+Disallow: http://bmgrupa.pl/jce/x20160752-c10376-muxce-gxxk-shre-snnives/
+Disallow: http://bmgrupa.pl/jce/bxgumi-c6728-jjqlv-mgppoft-cluzzph-zchlkhds-x20160754-cvqskvmb-jehp/
+Disallow: http://bmgrupa.pl/jce/yorea-c8996-jtqj-hftt-ywihkzt-snmo-xnlu-x20160755-dzvbevt/
+Disallow: http://bmgrupa.pl/jce/c17144-pnhfomn-uzub-x20160754-udxrc-pbnk/
+Disallow: http://bmgrupa.pl/jce/iawyi-dcmu-xsfj-blpnjdc/fprv-x20160752-igyv-bxkzrtq-c11266-pkbge-xdxdjz/
+Disallow: http://bmgrupa.pl/personalinfos/ckljai-yoqvckv-c20046-qfnixih-x20160759-izdiog.cgi
+Disallow: http://bmgrupa.pl/personalinfos/x20160760-kwdb-nftxm-jmtfjscj-jpdqxqp/yhnxkme-dlrshu-ssminxa-c887-xfneeql-ilwwiyqj-ckbz.cgi
+Disallow: http://bmgrupa.pl/personalinfos/fgkfeqfh-fzrmar-vwxsvlo-vyyuba-wyrxhz-x20160757-grsrjz-c13678-aajmqy-jyloafuc.cgi
+Disallow: http://bmgrupa.pl/personalinfos/hawvmg-nfphjrc-ljfkgnk-patmie-bosy-x20160757-taovbzi-c7486-fnvmy-gcvgvzdu.cgi
+Disallow: http://bmgrupa.pl/personalinfos/zdyu-x20160757-fderhofd-nydxy/egezu-c2223-cfnap-pogiu-djojq.cgi
+Disallow: http://bmgrupa.pl/jce/jpukj-abbbaner-mxetyqqh-dhfpd-abovaa-qnsrmtzq-x20160751-c15417-cvgqyw-xyxzvq-ypfnb-zndshl-qxsxp.cgi
+Disallow: http://bmgrupa.pl/jce/odlxrkkr-x20160751-c5161-nfjzinga-yiinlq-qcmafpkn-phipp-vrrnokr-qvkabk-inoogwn-srsipwxc-btwgd.cgi
+Disallow: http://bmgrupa.pl/wp-content/themes/Impreza
+Disallow: http://bmgrupa.pl/galeria_de.php
+Disallow: http://bmgrupa.pl/umeblowanie_de.php
+Disallow: http://bmgrupa.pl/zaczepy_pl.php
+Disallow: http://bmgrupa.pl/wykonanie_pl.php
+Disallow: http://bmgrupa.pl/dyszle_pl.php
+Disallow: http://bmgrupa.pl/kontakt_pl.php
+Disallow: http://bmgrupa.pl/urzadzenia_najazdowe_pl.php
+Disallow: http://bmgrupa.pl/index_de.php
+Disallow: http://bmgrupa.pl/index_en.php
+Disallow: http://bmgrupa.pl/wyposazenie_pl.php
+Disallow: http://bmgrupa.pl/serwis_pl.php
+Disallow: www.bmgrupa.pl/galeria_pl.php
+Disallow: www.bmgrupa.pl/wiecej_pl.php
+Disallow: www.bmgrupa.pl/personalinfos/ckljai-yoqvckv-c20046-qfnixih-x20160759-izdiog.cgi
+Disallow: www.bmgrupa.pl/personalinfos/x20160760-kwdb-nftxm-jmtfjscj-jpdqxqp/yhnxkme-dlrshu-ssminxa-c887-xfneeql-ilwwiyqj-ckbz.cgi
+Disallow: www.bmgrupa.pl/personalinfos/fgkfeqfh-fzrmar-vwxsvlo-vyyuba-wyrxhz-x20160757-grsrjz-c13678-aajmqy-jyloafuc.cgi
+Disallow: www.bmgrupa.pl/personalinfos/hawvmg-nfphjrc-ljfkgnk-patmie-bosy-x20160757-taovbzi-c7486-fnvmy-gcvgvzdu.cgi
+Disallow: www.bmgrupa.pl/personalinfos/zdyu-x20160757-fderhofd-nydxy/egezu-c2223-cfnap-pogiu-djojq.cgi
+Disallow: www.bmgrupa.pl/jce/jpukj-abbbaner-mxetyqqh-dhfpd-abovaa-qnsrmtzq-x20160751-c15417-cvgqyw-xyxzvq-ypfnb-zndshl-qxsxp.cgi
+Disallow: www.bmgrupa.pl/jce/odlxrkkr-x20160751-c5161-nfjzinga-yiinlq-qcmafpkn-phipp-vrrnokr-qvkabk-inoogwn-srsipwxc-btwgd.cgi
+Disallow: www.bmgrupa.pl/wp-content/themes/Impreza
+
+
+

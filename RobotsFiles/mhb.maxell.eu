@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Sitemap: http://mhb.maxell.eu/hu-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/pl-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/cs-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/sk-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/rm-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/rs-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/bg-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_by-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_ua-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_md-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_si-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_hr-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_ba-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_me-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_mk-sitemapindex.xml
+Sitemap: http://mhb.maxell.eu/en_al-sitemapindex.xml
+

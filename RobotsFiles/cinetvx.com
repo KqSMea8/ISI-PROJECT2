@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /buscar
+Disallow: /plugins/
+
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=0
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=11110
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=16665
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=22220
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=27775
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=33330
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=38885
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=44440
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=49995
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=55550
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=5555
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=61105
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=66660
+Sitemap: http://cinetvx.com/sitemaps/sitemap_filmes_1.php?inicio=72215
+Sitemap: http://cinetvx.com/sitemaps/sitemap_paginas.php

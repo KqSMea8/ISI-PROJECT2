@@ -1,0 +1,5 @@
+Sitemap: http://www.media-rent.eu/sitemap.xml
+User-agent: *
+Disallow: /mediarent/
+Disallow: /admin/
+

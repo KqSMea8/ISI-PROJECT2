@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /backend
+Disallow: /backend_admin
+Disallow: /hu
+Disallow: /de/
+Disallow: /ajax
+Disallow: /en/ajax
+Disallow: /es/ajax
+Disallow: /fr/ajax
+Disallow: /pl/ajax
+Disallow: /se/ajax
+Disallow: /tr/ajax
+Disallow: /cz/ajax
+Disallow: /ru/ajax
+Disallow: /it/ajax
+Disallow: /nl/ajax
+Disallow: /index.php
+Disallow: /uploads
+Disallow: /content/download
+

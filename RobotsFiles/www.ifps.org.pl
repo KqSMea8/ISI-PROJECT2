@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /espci2009/
+Disallow: /cms/
+Disallow: /chat/
+Disallow: /doc/
+Disallow: /edu/
+Disallow: /orl/
+Disallow: /wwwifps/
+Disallow: /web/

@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]> <html id="iem7" lang="it" class="no-js no-document-ready iem7"> <![endif]-->
+<!--[if lt IE 7 ]><html id="ie6" lang="it" class="no-js no-document-ready ie ie6 lt-ie7 lt-ie8 lt-ie9"><![endif]-->
+<!--[if IE 7 ]><html id="ie7" lang="it" class="no-js no-document-ready ie ie7 lt-ie8 lt-ie9"><![endif]-->
+<!--[if IE 8 ]><html id="ie8" lang="it" class="no-js no-document-ready ie ie8 lt-ie9"><![endif]-->
+<!--[if IE 9 ]><html id="ie9" lang="it" class="no-js no-document-ready ie ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="it" class="no-js no-document-ready"><!--<![endif]-->
+<head>
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> -->
+<meta charset="utf-8">
+<!-- Google Chrome Frame for IE -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+
+
+
+<!-- Mobile meta - Device width and scale -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+
+<meta content='width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,minimal-ui' name='viewport'>
+<!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+<!--[if IEMobile]>
+<meta http-equiv="cleartype" content="on"><![endif]-->
+
+
+<!-- ICO: Configuring web applications  -->
+<link rel="apple-touch-icon-precomposed" href="/icon/apple-icon.png">
+<!-- ICO: Specifying a webpage icon for web clip / remove "-precomposed" from rel attr for icon standard Apple gloss -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/icon/apple-icon-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/icon/apple-icon-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/icon/apple-icon-72x72.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/icon/apple-icon-57x57.png"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+<link rel="icon" href="/icon/favicon.png">
+<link rel="manifest" href="/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<!-- Default CSS by WIP -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="/fonts/fonts.css"/>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&subset=latin,vietnamese,cyrillic-ext,latin-ext,cyrillic,greek'
+rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" media="screen" href="/fonts/icons.css"/>
+<link rel="stylesheet" media="screen" href="/css/style.min.css"/>
+<link rel="stylesheet" media="screen and (min-width: 1200px)" href="/css/desktop.min.css"/>
+<link rel="stylesheet" media="screen" href="/cookie_wip/css/wip-cookies-widget.css"/>
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link rel="stylesheet" href="/css/desktop.min.css" media="screen">
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.7.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.7.1/slick/slick-theme.css"/>
+<!-- Head common stuff and CSS -->
+<script language="javascript" type="text/javascript">
+var sottocartella = '/';
+var urlsito = 'https://www.foxy.eu/';
+var pagina = '404';
+</script>
+
+
+
+<!-- HTML5 elements to be styled and contain children while being printed in IE 6-8. - https://github.com/aFarkas/html5shiv/archive/master.zip -->
+<!--[if lt IE 9]>
+<script src="/js/vendor/html5shiv-printshiv.js"></script>
+<![endif]-->
+
+<!-- This script prevents links from opening in Mobile Safari. https://gist.github.com/1042026 -->
+
+<script>
+(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")
+</script>
+
+
+<!-- modernizr-2.7.1.min load before body -->
+<script type="text/javascript" src="/js/vendor/modernizr-2.7.1.min.js"></script>
+
+<!-- jquery-1.11.0.min load before body -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+
+
+
+</head>
+
+
+
+
+
+
+<body class="desktop page-404 fixer     lang-it">
+
+
+<!-- BEFORE CONTENT START -->
+
+
+
+<!-- DATA: script javascript for Google Analytics - http://mathiasbynens.be/notes/async-analytics-snippet-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64299747-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+<script type="text/javascript">
+/*
+* Log Google Analytics
+* See: http://www.alfajango.com/blog/track-jquery-ajax-requests-in-google-analytics/
+*/
+if (jQuery && typeof _gaq !== "undefined" && _gaq !== null) {
+// Log all jQuery AJAX requests to Google Analytics
+// See: http://www.alfajango.com/blog/track-jquery-ajax-requests-in-google-analytics/
+$(document).ajaxSend(function(event, xhr, settings){
+_gaq.push(['_trackPageview', settings.url]);
+});
+
+//Track JavaScript errors in Google Analytics
+(function(window){
+var undefined,
+link = function (href) {
+var a = window.document.createElement('a');
+a.href = href;
+return a;
+};
+window.onerror = function (message, file, line, column) {
+var host = link(file).hostname;
+_gaq.push([
+'_trackEvent',
+(host == window.location.hostname || host == undefined || host == '' ? '' : 'external ') + 'error',
+message, file + ' LINE: ' + line + (column ? ' COLUMN: ' + column : ''), undefined, undefined, true
+]);
+};
+}(window));
+
+//Track page scroll
+$(function(){
+var isDuplicateScrollEvent,
+scrollTimeStart = new Date,
+$window = $(window),
+$document = $(document),
+scrollPercent;
+
+$window.scroll(function() {
+scrollPercent = Math.round(100 * ($window.height() + $window.scrollTop())/$document.height());
+if (scrollPercent > 90 && !isDuplicateScrollEvent) { //page scrolled to 90%
+isDuplicateScrollEvent = 1;
+_gaq.push(['_trackEvent', 'scroll',
+'Window: ' + $window.height() + 'px; Document: ' + $document.height() + 'px; Time: ' + Math.round((new Date - scrollTimeStart )/1000,1) + 's',
+undefined, undefined, true
+]);
+}
+});
+});
+}
+</script>
+
+
+
+<div id="cookies-wip-block" class="block-cookies">
+<div class="cookies-header">
+<span  id="btn-off-close" class="btn-cookies-close">X</span>
+<div class="cookies-size-inner">
+
+<p> Questo sito utilizza cookie, anche di terze parti, per inviarti pubblicita e offrirti servizi in linea con le tue preferenze. Se vuoi saperne di piu o negare il consenso a tutti o ad alcuni cookie <a href="/it/cookie-policy?iframe=1" class="fancybox fancybox.iframe large-fancy">clicca qui.</a> Chiudendo questo banner acconsenti all'uso dei cookie.<span id="btn-off-ok" class="btn-cookies-close">OK</span></p>		</div>
+</div>
+
+</div>
+</div>
+
+
+<div class="loader">
+<div class="box-loader">
+<div class="claim-load"></div>
+<div class="spinner">
+<div class="spinner-container container1">
+<div class="circle1"></div>
+<div class="circle2"></div>
+<div class="circle3"></div>
+<div class="circle4"></div>
+</div>
+<div class="spinner-container container2">
+<div class="circle1"></div>
+<div class="circle2"></div>
+<div class="circle3"></div>
+<div class="circle4"></div>
+</div>
+<div class="spinner-container container3">
+<div class="circle1"></div>
+<div class="circle2"></div>
+<div class="circle3"></div>
+<div class="circle4"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="wrapper" class="wrap">
+
+<div id="masthead">
+<div class="masthead size-inner">
+<header id="logo" role="banner">
+<a href="/it/"><img src="/images/logo.png" alt="Foxy" title="Foxy"></a>
+</header>
+<nav class="menu" role="navigation">
+<ul class="primary-nav menu-prodotti">
+<li class="has-children">
+<a href="javascript:void(0)" class="primary-link prodotto-link">
+
+<figure><img src="/uploads/repository/products-category-icon/2015-03-18_11-36-31_icon-carta-igenica.png" alt="Carta Igienica" title="Carta Igienica"></figure>
+<span class="label">Carta Igienica</span>
+</a>
+<div class="secondary-nav sub-menu">
+<div class="size-inner">
+<span class="title">Carta Igienica</span>
+<ul>
+<li><a href="/it/prodotto/foxy-cotton-2"><img src="/repoImage/orig/200x84/2017-04-1813-03-32cotton-icon8121378.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/seta"><img src="/repoImage/orig/200x84/2016-10-0410-12-10seta961306760556818178067671183_120.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-bouquet"><img src="/repoImage/orig/200x84/2016-09-2917-04-10bouquet3581051.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/carta-igienica-foxy-mega"><img src="/repoImage/orig/200x84/2015-03-2616-24-00mega821105311761081911107390211218539514687031255.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-camilla"><img src="/repoImage/orig/200x84/2015-03-2616-14-25camilla1448178877.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-supersoft"><img src="/repoImage/orig/200x84/2017-09-0416-10-50immagine-principale_1185.png"><span class="deco"></span></a></li>
+</ul>
+
+</div>
+<div class="btn-close-sub">
+<span class="icon icon-arrow-up"></span>
+<span class="label">Chiudi</span>
+</div>
+</div>
+</li>
+<li class="has-children">
+<a href="javascript:void(0)" class="primary-link prodotto-link">
+
+<figure><img src="/uploads/repository/2015-03-10_11-06-29_icon-asciugatutto.png" alt="Asciugatutto" title="Asciugatutto"></figure>
+<span class="label">Asciugatutto</span>
+</a>
+<div class="secondary-nav sub-menu">
+<div class="size-inner">
+<span class="title">Asciugatutto</span>
+<ul>
+<li><a href="/it/prodotto/asciugatutto-foxy-mega"><img src="/repoImage/orig/200x84/2015-07-2413-06-28mega773401294115422_1331.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-asso-ultra"><img src="/repoImage/orig/200x84/2016-09-2915-04-14assoultra-20169558946445308711974623854.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-cartapaglia"><img src="/repoImage/orig/200x84/2017-09-0416-33-46cartapaglia127364316578.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-tornado-blu"><img src="/repoImage/orig/200x84/uploadsrepositoryasciuga-tornado2015-03-2615-57-46tornadoblu619991199525435226.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-asso-"><img src="/repoImage/orig/200x84/uploadsrepositoryasso2015-03-2015-14-42asso5255851287225620_55.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-asso-professional"><img src="/repoImage/orig/200x84/uploadsrepositoryasso-professional2015-03-2013-06-44assoprofessional113565441279.png"><span class="deco"></span></a></li>
+</ul>
+
+</div>
+<div class="btn-close-sub">
+<span class="icon icon-arrow-up"></span>
+<span class="label">Chiudi</span>
+</div>
+</div>
+</li>
+<li class="has-children">
+<a href="javascript:void(0)" class="primary-link prodotto-link">
+
+<figure><img src="/uploads/repository/2015-03-10_11-06-49_icon-fazzoletti.png" alt="Fazzoletti" title="Fazzoletti"></figure>
+<span class="label">Fazzoletti</span>
+</a>
+<div class="secondary-nav sub-menu">
+<div class="size-inner">
+<span class="title">Fazzoletti</span>
+<ul>
+<li><a href="/it/prodotto/foxy-cotton-2-1"><img src="/repoImage/orig/200x84/2017-09-0509-59-04cotton84_1035.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-cream-1-1-1"><img src="/repoImage/orig/200x84/2017-09-0509-49-41cream1337.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-sollievo"><img src="/repoImage/orig/200x84/2017-09-0509-59-04sollievo_407.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/fazzoletti-foxy-mega"><img src="/repoImage/orig/200x84/2017-09-0509-49-42mega_823.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-ipoallergenici-"><img src="/repoImage/orig/200x84/2017-09-0509-59-03ipoallergenici_461.png"><span class="deco"></span></a></li>
+</ul>
+
+</div>
+<div class="btn-close-sub">
+<span class="icon icon-arrow-up"></span>
+<span class="label">Chiudi</span>
+</div>
+</div>
+</li>
+<li class="has-children">
+<a href="javascript:void(0)" class="primary-link prodotto-link">
+
+<figure><img src="/uploads/repository/2015-03-10_11-07-20_icon-tovaglioli.png" alt="Tovaglioli" title="Tovaglioli"></figure>
+<span class="label">Tovaglioli</span>
+</a>
+<div class="secondary-nav sub-menu">
+<div class="size-inner">
+<span class="title">Tovaglioli</span>
+<ul>
+<li><a href="/it/prodotto/foxy-trapuntati"><img src="/repoImage/orig/200x84/2015-03-2710-27-15trapuntati1465146664913991078.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-happy-hour"><img src="/repoImage/orig/200x84/2017-09-0511-06-19happyhour1232591200359.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-grantavola-scozzesi"><img src="/repoImage/orig/200x84/uploadsrepositorytovaglioli2015-03-2012-39-36grantavola4331193522646133213321291.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-grantavola-1"><img src="/repoImage/orig/200x84/2015-03-2711-28-03grantavolabianchi10161391287119011001130_609.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-tuttidi-"><img src="/repoImage/orig/200x84/2015-03-2710-37-11tuttidi147147214571381351314711060_722.png"><span class="deco"></span></a></li>
+</ul>
+
+</div>
+<div class="btn-close-sub">
+<span class="icon icon-arrow-up"></span>
+<span class="label">Chiudi</span>
+</div>
+</div>
+</li>
+<li class="has-children">
+<a href="javascript:void(0)" class="primary-link prodotto-link">
+
+<figure><img src="/uploads/repository/products-category-icon/2016-09-30_16-09-24_icon-veline.png" alt="Veline" title="Veline"></figure>
+<span class="label">Veline</span>
+</a>
+<div class="secondary-nav sub-menu">
+<div class="size-inner">
+<span class="title">Veline</span>
+<ul>
+<li><a href="/it/prodotto/foxy-cotton-1"><img src="/repoImage/orig/200x84/2017-09-0512-44-42icona81228293.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-mega"><img src="/repoImage/orig/200x84/2016-10-0416-56-00icona584771225783_1316.png"><span class="deco"></span></a></li>
+<li><a href="/it/prodotto/foxy-cream-1-1"><img src="/repoImage/orig/200x84/2016-10-0416-56-42icona-b1275617_1454.png"><span class="deco"></span></a></li>
+</ul>
+
+</div>
+<div class="btn-close-sub">
+<span class="icon icon-arrow-up"></span>
+<span class="label">Chiudi</span>
+</div>
+</div>
+</li>
+</ul>
+<ul class="primary-nav menu-istituzionali">
+<li><a href="/it/concorsi" title="Concorsi e promozioni">Concorsi e promozioni</a></li>
+<li class="has-children">
+<a href="javascript:void(0)" class="primary-link">Iniziative</a>
+<div class="secondary-nav sub-menu">
+<div class="size-inner">
+<span class="title">Iniziative</span>
+<ul>
+<li>
+<a href="/it/iniziative/foxy-sostiene-la-pigotta"><img src="/repoImage/orig/150x84/2015-04-1518-45-27iniziativa-unicef1188222471145510699251222790636111253180618_193.jpg"><span class="deco"></span></a>
+
+</li>
+<li>
+<a href="/it/iniziative/il-magazine-della-pigotta"><img src="/repoImage/orig/150x84/2015-05-1315-17-55magazine589378991297_936.jpg"><span class="deco"></span></a>
+
+</li>
+<li>
+<a href="/it/iniziative/foxy-per-dynamo-camp"><img src="/repoImage/orig/150x84/2017-10-2512-36-49logo-dynamo.jpg"><span class="deco"></span></a>
+
+</li>
+</ul>
+
+</div>
+<div class="btn-close-sub">
+<span class="icon icon-arrow-up"></span>
+<span class="label">Chiudi</span>
+</div>
+</div>
+</li>
+<li><a href="http://www.ictgroup.net/it" title="Azienda" target="_black">Azienda</a></li>
+<li><a href="/it/marca" title="Marca">Marca</a></li>
+<li><a href="/it/contatti" title="Contatti">Contatti</a></li>
+</ul>
+<ul class="menu-langs">
+<li class="drop-menu langs">
+<a href="javascript:void(0);" class="last" title="Lingue">it</a>
+<ul class="sub-drop-menu">
+<li class="option-lang"><a href="/en/">en</a></li>						<li class="option-lang"><a href="/fr/">fr</a></li>						<li class="option-lang"><a href="/es/">es</a></li>						<li class="option-lang"><a href="/pl/">pl</a></li>					</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+
+
+<div role="main" id="main" class="main-content clearfix">
+
+<article class="content content-infopage clearfix">
+<div class="block-noresult">
+<i class="icon icon-nofound">404</i>
+<p>	Pagina non trovata!</p>
+<a href="/" class="btn">Torna alla home</a>
+</div>
+<!--content body-->
+</article>
+</div><!-- /main -->
+
+
+
+
+
+<footer id="footer" class="footer" role="contentinfo">
+<script src="//tt.mbww.com/tt-250526cd289e4e36bdc4333d0a9ec3de44e089c54d8deaa6312865a4c2c733b2.js" async>
+</script>
+<address class="address">
+<p class="txt-center">@ Foxy 2016 e un brand
+<a href="http://ictgroup.net/it" target="_blank">Industrie Cartarie Tronchetti S.p.A.</a>.
+Diecimo (Localita Baccanella) - 55023 Borgo a Mozzano (Lucca) - Italia tel. 0583.888888 fax 0583.888990 P. Iva e cod. fisc. 00366330462
+- <a class="fancybox fancybox.iframe" data-fancybox-type="iframe" href="/it/newsletter?iframe=1"><strong>
+Iscriviti alla newsltter</strong></a>
+- <a class="fancybox fancybox.iframe" href="/it/privacy?iframe=1">privacy policy</a> - <a class="fancybox fancybox.iframe large-fancy"  href="/it/cookie-policy?iframe=1">cookie policy</a>
+</p>
+</address>
+</footer><!-- /#footer-->
+</div><!-- /wrap -->
+
+
+
+<!-- script javascript libray -->
+<!-- modernizr-2.6.2.min AND jquery-1.11.0.min / load before body tag -->
+
+<!--SCRIPTS ASSETS SHOULD BE LOADED HERE AFTER BODY ENDS-->
+<script src="/js/vendor/jquery/jquery.hammer.js"></script>
+<script src="/js/vendor/tweenmax/TweenMax.min.js"></script>
+<script src="/js/vendor/jquery/jquery.adaptive-backgrounds.js"></script>
+<script src="/js/vendor/jquery/jScrollPane/script/jquery.mousewheel.js"></script>
+<script src="/js/vendor/jquery/jScrollPane/script/jquery.jscrollpane.min.js"></script>
+<script src="/js/vendor/jquery/jScrollPane/script/mwheelIntent.js"></script>
+<script src="/js/vendor/jquery/imagesloaded.min.js"></script>
+
+<link rel="stylesheet" media="screen" href="/js/vendor/jquery/jquery-fancyapp/source/jquery.fancybox-2.1.5-0.css" />
+<script src="/js/vendor/jquery/jquery-fancyapp/source/jquery.fancybox-2.1.5-0.js"></script>
+<script src="/js/vendor/jquery/jquery-fancyapp/source/helpers/jquery.fancybox-media.js"></script>
+
+<!-- script src="/js/vendor/jquery/jquery.cookie.js"></script -->
+<!-- script src="/js/vendor/jquery/jquery-parsley/jquery.parsley.messages.it.js"></script -->
+<!-- script src="/js/vendor/jquery/jquery-parsley/jquery.parsley-1.1.16.min.js"></script -->
+<link rel="stylesheet" media="screen" href="/js/vendor/jquery/jquery-jvectormap/jquery-jvectormap-2.0.3.css" />
+<script src="/js/vendor/jquery/jquery-jvectormap/jquery-jvectormap-2.0.3.min.js"></script>
+<script src="/js/vendor/jquery/jquery-jvectormap/jquery-jvectormap-pl-merc.js"></script>
+
+
+<script src="/js/utils.js"></script>
+<script src="/js/carousel.js"></script>
+<script src="/js/custom.js"></script>
+<script src="/cookie_wip/js/cookies-block.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.7.1/slick/slick.min.js"></script>
+
+
+
+
+
+
+<!-- Check if IE7 is running chromeframe -->
+<!--[if lt IE 7]>
+<div id="no-chromeframe-bar" class="chromeframe" style="position:absolute;z-index:999;background:#fff; text-align:center;padding:1em 0;border-bottom:2px solid red; width:100%;">
+<p lang="it" class="leader"> <strong>Si sta utilizzando un</strong> browser. Si prega di<a rel="nofollow" target="_blank" class="link" href="http://browsehappy.com/"> aggiornare il proio browser</a> o <a rel="nofollow" target="_blank"  href="http://www.google.com/chromeframe/?redirect=true" class="link">attivare Google Chrome Frame</a> per migliorare la vostra esperienza</p>
+</div>
+<![endif]-->
+<noscript>
+<!-- Check if javascript is running -->
+<div id="no-js-bar" style="position:absolute;top:0;z-index:999;background:#fff; text-align:center;padding:1em 0;border-bottom:2px solid red; width:100%;">
+<p lang="it" class="leader">Per avere a disposizione tutte le funzionalita di questo sito e necessario abilitare Javascript. Qui ci sono tutte le <a rel="nofollow" target="_blank" href="//www.enable-javascript.com/it/" class="link"> istruzioni su come abilitare JavaScript nel tuo browser</a>.</p>
+</div>
+</noscript>
+
+
+
+<script type="text/javascript">
+$(document).ready(function (){
+// The DOM is now loaded and can be manipulated.
+// here only the common script 4 this page
+wip.container.init();
+// AFTER READ ALL DOCUMENT
+});
+</script>
+
+</body>
+</html>
+
+

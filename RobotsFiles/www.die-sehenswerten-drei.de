@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://www.die-sehenswerten-drei.de/sitemap/index.xml
+Disallow: /resdb/
+

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /img/
+Disallow: /api2/
+Disallow: /action/
+Disallow: /theme/
+Disallow: /slider-maker/
+Disallow: /*=sample
+Disallow: /demos/*.html
+Allow: /demos/index.html

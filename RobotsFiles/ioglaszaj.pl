@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /images/*
+Disallow: /includes/
+Disallow: /manage/
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /install/
+Disallow: /kontakt/
+Disallow: /kontakt.htm
+Disallow: /?s=
+Disallow: /*/blackhole/*
+Disallow: /blackhole/
+Allow: /rss/$

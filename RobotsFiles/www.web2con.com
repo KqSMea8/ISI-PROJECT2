@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /images
+Disallow: /graphics
+Disallow: /admin
+Disallow: /presentations/
+

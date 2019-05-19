@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /img/
+Disallow: /js/
+Disallow: /print/
+Disallow: /download/
+Disallow: /sendpage/
+Crawl-delay: 15
+

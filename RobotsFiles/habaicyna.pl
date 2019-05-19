@@ -1,0 +1,15 @@
+<pre>Database not connected
+1045 :: Connect Error: SQLSTATE[HY000] [1045] Access denied for user 'sh178783_piotrek'@'195.114.1.111' (using password: TAK)
+#0 /www/habaicyna.pl/mt-includes/library/Zend/Db/Adapter/Driver/Pdo/Pdo.php(249): Zend\Db\Adapter\Driver\Pdo\Connection->connect()
+#1 /www/habaicyna.pl/mt-includes/library/Zend/Db/Adapter/Adapter.php(180): Zend\Db\Adapter\Driver\Pdo\Pdo->createStatement('SHOW TABLES')
+#2 /www/habaicyna.pl/mt-includes/library/Moto/System.php(6): Zend\Db\Adapter\Adapter->query('SHOW TABLES')
+#3 /www/habaicyna.pl/mt-includes/library/Moto/System.php(2): Moto\System::checkDatabase()
+#4 [internal function]: Moto\System::Moto\{closure}(Object(Zend\EventManager\Event), NULL)
+#5 /www/habaicyna.pl/mt-includes/library/Moto/EventManager/EventManager.php(2): call_user_func_array(Object(Closure), Array)
+#6 /www/habaicyna.pl/mt-includes/library/Moto/EventManager/EventManager.php(2): Moto\EventManager\EventManager->_applyFilters('system.bootstra...', Object(Zend\EventManager\Event))
+#7 /www/habaicyna.pl/mt-includes/library/Moto/Hook.php(2): Moto\EventManager\EventManager->filter('system.bootstra...', NULL, Array)
+#8 /www/habaicyna.pl/mt-includes/library/Moto/System.php(2): Moto\Hook::trigger('system.bootstra...')
+#9 /www/habaicyna.pl/common.php(2): Moto\System::bootstrap(Array)
+#10 /www/habaicyna.pl/app.php(2): require_once('/www/habaicyna....')
+#11 /www/habaicyna.pl/index.php(2): require_once('/www/habaicyna....')
+#12 {main}

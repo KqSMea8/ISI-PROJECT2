@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /cms/
+Disallow: /inc/
+Disallow: /lang/
+Disallow: /lib/
+Disallow: /seo/
+Disallow: /obrazac.php
+Disallow: /obrazac_cv.php
+Disallow: /contact_confirmation.php

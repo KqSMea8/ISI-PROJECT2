@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /comment-page*/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: */trackback/
+Disallow: *stronazen.pl/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Sitemap: http://www.czar-gor.pl/sitemap_index.xml

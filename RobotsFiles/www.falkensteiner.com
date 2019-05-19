@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /landingpages/
+Disallow: /unit-test/
+Disallow: /de/content-bookingbenefit
+Disallow: /de/facebook/angebote
+Disallow: /de/impressum
+Disallow: /en/imprint
+Disallow: /it/colophon
+Disallow: /hr/impresum
+Disallow: /de/jobs-karriere/jobsuche
+Disallow: /vt/

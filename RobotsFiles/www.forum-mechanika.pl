@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /misc
+Disallow: /help
+Disallow: /search
+Disallow: /register
+Disallow: /login
+Disallow: /online
+Disallow: /lost-password
+Disallow: /recent-activity
+Disallow: /find-new

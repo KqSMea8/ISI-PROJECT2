@@ -1,0 +1,185 @@
+Sitemap: https://www.andex.eu/sitemap.xml.gz
+
+### Automatically banned scanners and crawlers section ###
+User-agent: 008
+Disallow: /
+user-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: metajobbot
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: fyberspider
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: MojeekBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: wotbox
+Disallow: /
+### Section end ###
+
+User-agent: TwengaBot-Discover
+Disallow: /
+User-agent: TwengaBot/2.0
+Disallow: /
+User-agent: TwengaBot
+Disallow: /
+User-agent: TwengaBot-2.0
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+Sitemap: http://www.andex.eu/sitemap.xml.gz
+
+### Automatically banned scanners and crawlers section ###
+User-agent: 008
+Disallow: /
+user-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: metajobbot
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: fyberspider
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: MojeekBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+### Section end ###
+
+User-agent: TwengaBot-Discover
+Disallow: /
+User-agent: TwengaBot/2.0
+Disallow: /
+User-agent: TwengaBot
+Disallow: /
+User-agent: TwengaBot-2.0
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /basketchange.php
+Disallow: /basketedit.php
+Disallow: /basket-onchange.php
+Disallow: /client-address.php
+Disallow: /client-addresses.php
+Disallow: /client-new.php
+Disallow: /client-orders.php
+Disallow: /client-save.php
+Disallow: /client-files.php
+Disallow: /download-attachment.php
+Disallow: /login.php
+Disallow: /loginedit.php
+Disallow: /loginonce.php
+Disallow: /membership-card.php
+Disallow: /order1.php
+Disallow: /order2.php
+Disallow: /order3.php
+Disallow: /ordercancel.php
+Disallow: /orderconfirm.php
+Disallow: /orderdetails.php
+Disallow: /order-document.php
+Disallow: /order-newpayment.php
+Disallow: /order-payment.php
+Disallow: /order-postauction.php
+Disallow: /order-wrappers.php
+Disallow: /payments-confirm.php
+Disallow: /products-bought.php
+Disallow: /products-requests.php
+Disallow: /przelew.php
+Disallow: /rebate-code.php
+Disallow: /rma-add.php
+Disallow: /rma-list.php
+Disallow: /settings.php
+Disallow: /edi/
+Disallow: /search.php
+Disallow: /Promocja-akumulatorow-motocyklowych-EXIDE-BIKE-news-pol-1424813598.html
+Disallow: /Koszty-wysylki-cabout-pol-54.html
+Disallow: /Regulamin-cterms-pol-49.html
+Disallow: /Polityka-prywatnosci-cterms-pol-52.html
+Disallow: /Odstapienie-od-umowy-cterms-pol-317.html
+Disallow: /Pliki-do-pobrania-cabout-pol-55.html
+Disallow: /Pomoc-chelp-pol-50.html
+Disallow: /signin.php
+Disallow: /INFORMACJA-cinfo-pol-140.html
+Disallow: /categories.php?lang=eng
+Disallow: /-cinfo-eng-144.html
+Disallow: /-cinfo-eng-24.html
+Disallow: /-cinfo-eng-244.html
+Disallow: /-cinfo-eng-245.html
+Disallow: /-cinfo-eng-246.html
+Disallow: /-cinfo-eng-249.html
+Disallow: /-cinfo-eng-25.html
+Disallow: /-cinfo-eng-250.html
+Disallow: /-cinfo-eng-251.html
+Disallow: /-cinfo-eng-252.html
+Disallow: /-cinfo-eng-253.html
+Disallow: /-cinfo-eng-257.html
+Disallow: /-cinfo-eng-258.html
+Disallow: /-cinfo-eng-259.html
+Disallow: /-cinfo-eng-26.html
+Disallow: /-cinfo-eng-260.html
+Disallow: /-cinfo-eng-261.html
+Disallow: /-cinfo-eng-262.html
+Disallow: /-cinfo-eng-263.html
+Disallow: /-cinfo-eng-264.html
+Disallow: /-cinfo-eng-265.html
+Disallow: /-cinfo-eng-266.html
+Disallow: /-cinfo-eng-267.html
+Disallow: /-cinfo-eng-269.html
+Disallow: /-cinfo-eng-270.html
+Disallow: /-cinfo-eng-271.html
+Disallow: /-cinfo-eng-273.html
+Disallow: /-cinfo-eng-274.html
+Disallow: /-cinfo-eng-36.html
+Disallow: /-cinfo-eng-40.html
+Disallow: /-cinfo-eng-41.html
+Disallow: /-cinfo-eng-42.html
+Disallow: /-cinfo-eng-48.html
+Disallow: /-cinfo-eng-65.html
+Disallow: /-cinfo-eng-66.html
+Disallow: /-cinfo-eng-67.html
+Disallow: /-cinfo-eng-72.html
+Disallow: /-cinfo-eng-88.html
+Disallow: /-cterms-eng-49.html
+Disallow: /-news-eng-1424813598.html
+Disallow: /-news-eng-1388398650.html
+Disallow: /-news-eng-1424813598.html
+Disallow: /Wesolych-Swiat--news-pol-1355386911.html
+Disallow: /newsletter.php?lang=eng
+
+
+User-agent: Googlebot
+Disallow: /-news-eng-1446742054.html
+Disallow: /-news-eng-1447082591.html
+Disallow: /-news-eng-1447161481.html
+Disallow: /-news-eng-1448362724.html
+Disallow: /newsletter.php
+Disallow: /categories.php
+Disallow: /Warunki-wspolpracy-cabout-pol-186.html
+Disallow: /product-compare.phpDisallow: /checkup.php
+

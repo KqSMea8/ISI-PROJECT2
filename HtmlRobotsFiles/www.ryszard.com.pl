@@ -1,0 +1,472 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=utf-8">
+<META HTTP-EQUIV="Content-Language" CONTENT="pl">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="expires" CONTENT="never">
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<META NAME="viewport" content="width=device-width, initial-scale=1, maximum-scale=1 user-scalable=yes">
+<META NAME="Keywords" CONTENT="ryszard.com.pl">
+<META NAME="Description" CONTENT="ryszard.com.pl">
+<META NAME="Robots" CONTENT="ALL">
+<META NAME="revisit-after" CONTENT="one day">
+<META NAME="distribution" CONTENT="Global">
+<base href="http://www.ryszard.com.pl/">
+<TITLE>ryszard.com.pl</TITLE>
+<link type="text/css" rel="stylesheet" href="css/reset.css">
+<link type="text/css" rel="stylesheet" href="css/style.css">
+<script type="text/javascript" src="js/cookies.js"></script>
+<script type="text/javascript" src="js/skrypty.js"></script>
+
+
+</head>
+
+
+<link type="text/css" rel="stylesheet" href="css/jquery.mmenu.css" />
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jQuery.mmenu/dist/core/js/jquery.mmenu.min.js"></script>
+
+<script type="text/javascript">
+$(function()
+{
+$('nav#menu').mmenu();
+});
+
+$('document').ready(function(){
+//     if ($.cookie('has_visited') != TRUE){
+$('#popup').trigger('click');
+//       $.cookie('has_visited', TRUE, { expires: 1 }); //this will set the cookie to expire after one day but you could make it longer
+});
+</script>
+
+
+<link rel="stylesheet" href="js/lightbox2/css/lightbox.css" type="text/css" media="screen" />
+
+
+<body>
+
+<div id="calosc">
+
+<div id="blok1">
+<div id="blok1_tresc">
+<div id="blok1a"><div id="menu_rwd">
+<div class="header fixed"><a href="#menu"></a></div>
+
+<nav id="menu">
+<ul>
+<li><a href="./">START</a></li>
+
+
+<li><a href="firma.html">O firmie</a>
+
+
+<ul>
+
+
+<li><a href="dofinansowanie_ue.html">Dofinansowanie UE</a>
+
+
+</li>
+
+
+<li><a href="zamowienie.html">Zamowienie</a>
+
+
+</li>
+
+
+</ul>
+
+
+</li>
+
+
+<li><a href="produkty.html">Produkty</a>
+
+
+<ul>
+
+
+<li><a href="beton_towarowy.html">Beton towarowy</a>
+
+
+</li>
+
+
+<li><a href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html">Systemy kanalizacyjne - polaczenie na uszczelke</a>
+
+
+</li>
+
+
+<li><a href="systemy_kanalizacyjne_polaczenie_na_felc.html">Systemy kanalizacyjne - polaczenie na felc</a>
+
+
+</li>
+
+
+<li><a href="wpusty_uliczne_nowoczesne_rozwiazanie.html">Wpusty uliczne - nowoczesne rozwiazanie</a>
+
+
+</li>
+
+
+<li><a href="wpusty_uliczne_tradycyjne_rozwiazanie.html">Wpusty uliczne - tradycyjne rozwiazanie</a>
+
+
+</li>
+
+
+<li><a href="rury_i_przepusty.html">Rury i przepusty</a>
+
+
+</li>
+
+
+<li><a href="wyroby_z_betonu_do_szklarni.html">Wyroby z betonu do szklarni</a>
+
+
+</li>
+
+
+<li><a href="wyroby_z_betonu.html">Wyroby z betonu</a>
+
+
+</li>
+
+
+<li><a href="plyty_jomb_drogowe.html">Plyty jomb, plyty drogowe</a>
+
+
+</li>
+
+
+</ul>
+
+
+</li>
+
+
+<li><a href="certyfikaty.html">Certyfikaty</a>
+
+
+</li>
+
+
+<li><a href="kontakt.html">Kontakt</a>
+
+
+</li>
+
+
+</ul>
+</nav>
+</div>
+
+<nav id="cssmenu">
+<ul>
+
+<li class="active has-sub"><a href="">START</a></li>
+
+
+<li class="has-sub"><a href="firma.html">O firmie</a>
+
+
+<ul>
+
+
+<li class="has-sub"><a href="dofinansowanie_ue.html">Dofinansowanie UE</a>
+
+
+</li>
+
+<li class="has-sub"><a href="zamowienie.html">Zamowienie</a>
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+<li class="has-sub"><a href="produkty.html">Produkty</a>
+
+
+<ul>
+
+
+<li class="has-sub"><a href="beton_towarowy.html">Beton towarowy</a>
+
+
+</li>
+
+<li class="has-sub"><a href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html">Systemy kanalizacyjne - polaczenie na uszczelke</a>
+
+
+</li>
+
+<li class="has-sub"><a href="systemy_kanalizacyjne_polaczenie_na_felc.html">Systemy kanalizacyjne - polaczenie na felc</a>
+
+
+</li>
+
+<li class="has-sub"><a href="wpusty_uliczne_nowoczesne_rozwiazanie.html">Wpusty uliczne - nowoczesne rozwiazanie</a>
+
+
+</li>
+
+<li class="has-sub"><a href="wpusty_uliczne_tradycyjne_rozwiazanie.html">Wpusty uliczne - tradycyjne rozwiazanie</a>
+
+
+</li>
+
+<li class="has-sub"><a href="rury_i_przepusty.html">Rury i przepusty</a>
+
+
+</li>
+
+<li class="has-sub"><a href="wyroby_z_betonu_do_szklarni.html">Wyroby z betonu do szklarni</a>
+
+
+</li>
+
+<li class="has-sub"><a href="wyroby_z_betonu.html">Wyroby z betonu</a>
+
+
+</li>
+
+<li class="has-sub"><a href="plyty_jomb_drogowe.html">Plyty jomb, plyty drogowe</a>
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+<li class="has-sub"><a href="certyfikaty.html">Certyfikaty</a>
+
+
+</li>
+
+
+<li class="has-sub"><a href="kontakt.html">Kontakt</a>
+
+
+</li>
+
+
+</ul>
+</nav></div>
+</div>
+</div>
+
+
+<div id="blok2">
+<body style="padding:0px; margin:0px; background-color:#fff;font-family:'MyWebFont', Arial">
+
+<!-- #region Jssor Slider Begin -->
+<!-- Generated by Jssor Slider Maker Online. -->
+<!-- This demo works with jquery library -->
+
+<script type="text/javascript" src="js/jQuery.jssor-slider/jssor.slider.mini.js"></script>
+<!-- use jssor.slider.debug.js instead for debug -->
+<script>
+jQuery(document).ready(function ($) {
+
+var jssor_1_SlideoTransitions = [
+[{b:0,d:600,y:0,e:{y:27}}],
+[{b:0,d:600,y:0,e:{y:27}}],
+[{b:0,d:600,y:0,e:{y:27}}]
+];
+
+var jssor_1_options = {
+$AutoPlay: true,
+$Idle: 4000,
+$CaptionSliderOptions: {
+$Class: $JssorCaptionSlideo$,
+$Transitions: jssor_1_SlideoTransitions,
+$Breaks: [
+[{d:2000,b:1000}]
+]
+},
+$ArrowNavigatorOptions: {
+$Class: $JssorArrowNavigator$
+},
+$BulletNavigatorOptions: {
+$Class: $JssorBulletNavigator$
+}
+};
+
+var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+//responsive code begin
+//you can remove responsive code if you don't want the slider scales while window resizing
+function ScaleSlider() {
+var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+if (refSize) {
+refSize = Math.min(refSize, 1200);
+jssor_1_slider.$ScaleWidth(refSize);
+}
+else {
+window.setTimeout(ScaleSlider, 30);
+}
+}
+ScaleSlider();
+$(window).bind("load", ScaleSlider);
+$(window).bind("resize", ScaleSlider);
+$(window).bind("orientationchange", ScaleSlider);
+//responsive code end
+});
+</script>
+
+<style>
+
+/* jssor slider bullet navigator skin 01 css */
+/*
+.jssorb01 div           (normal)
+.jssorb01 div:hover     (normal mouseover)
+.jssorb01 .av           (active)
+.jssorb01 .av:hover     (active mouseover)
+.jssorb01 .dn           (mousedown)
+*/
+.jssorb01 {
+position: absolute;
+}
+.jssorb01 div, .jssorb01 div:hover, .jssorb01 .av {
+position: absolute;
+/* size of bullet elment */
+width: 12px;
+height: 12px;
+filter: alpha(opacity=70);
+opacity: .7;
+overflow: hidden;
+cursor: pointer;
+border: #000 1px solid;
+}
+.jssorb01 div { background-color: gray; }
+.jssorb01 div:hover, .jssorb01 .av:hover { background-color: #d3d3d3; }
+.jssorb01 .av { background-color: #fff; }
+.jssorb01 .dn, .jssorb01 .dn:hover { background-color: #555555; }
+
+/* jssor slider arrow navigator skin 02 css */
+/*
+.jssora02l                  (normal)
+.jssora02r                  (normal)
+.jssora02l:hover            (normal mouseover)
+.jssora02r:hover            (normal mouseover)
+.jssora02l.jssora02ldn      (mousedown)
+.jssora02r.jssora02rdn      (mousedown)
+*/
+.jssora02l, .jssora02r {
+display: block;
+position: absolute;
+/* size of arrow element */
+width: 55px;
+height: 55px;
+cursor: pointer;
+background: url('img/a02.png') no-repeat;
+overflow: hidden;
+}
+.jssora02l { background-position: -3px -33px; }
+.jssora02r { background-position: -63px -33px; }
+.jssora02l:hover { background-position: -123px -33px; }
+.jssora02r:hover { background-position: -183px -33px; }
+.jssora02l.jssora02ldn { background-position: -3px -33px; }
+.jssora02r.jssora02rdn { background-position: -63px -33px; }
+</style>
+
+<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1200px; height: 570px; overflow: hidden; visibility: hidden;">
+<!-- Loading Screen -->
+
+<div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+<div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+<div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+</div>
+
+<div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1200px; height: 570px; overflow: hidden;">
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/c36fb6eae57372de31dcd54d9dd43ac1.jpg" />
+
+</div>
+
+
+</div>
+<!-- Bullet Navigator -->
+<div data-u="navigator" class="jssorb01" style="bottom:16px;right:16px;">
+<div data-u="prototype" style="width:12px;height:12px;"></div>
+</div>
+<!-- Arrow Navigator -->
+<span data-u="arrowleft" class="jssora02l" style="top:0px;left:8px;width:55px;height:55px;" data-autocenter="2"></span>
+<span data-u="arrowright" class="jssora02r" style="top:0px;right:8px;width:55px;height:55px;" data-autocenter="2"></span>
+</div>
+
+<!-- #endregion Jssor Slider End -->
+</div>
+
+
+<div id="blok3">
+
+<p style="text-align: center;">Przedsiebiorstwo "Ryszard" to firma, ktora prefabrykacja betonow zajmuje sie od przeszlo pol wieku. <br />Bogate tradycje i doswiadczenie oraz ciagle dostosowanie sie do wymagan i potrzeb rynku powoduje najwyzsza jakosc naszych produktow.<br />Wyroby betonowe produkowane przez nasze przedsiebiorstwo spelniaja polskie i europejskie normy.</p>
+<p style="text-align: center;"> </p>
+<div>
+<p style="text-align: center;"><a class="wiecej" href="firma.html">czytaj wiecej </a></p>
+<p style="text-align: center;"> </p>
+</div></div>
+
+<div id="blok4">
+
+<div class="naglowek2" style="text-align: center;"><span style="font-size: xx-large;">NASZA OFERTA</span></div>
+<div class="srodek">
+<div class="tabela"><a href="beton_towarowy.html"><img src="Media/Grafika/oferta1.jpg" alt="" width="181" height="142" /></a>
+<div class="tabela_podpis"><a class="tabela_podpis" href="beton_towarowy.html">BETON TOWAROWY</a></div>
+</div>
+<div class="tabela"><a href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html"><img src="Media/Grafika/oferta2.jpg" alt="" width="144" height="144" /></a>
+<div class="tabela_podpis"><a class="tabela_podpis" href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html">systemy kanalizacyjne</a><br /><a class="tabela_podpis" href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html">STUDNIE, KREGI</a></div>
+</div>
+<div class="tabela"><a href="rury_i_przepusty.html"><img src="Media/Grafika/oferta3.jpg" alt="" width="180" height="148" /></a>
+<div class="tabela_podpis"><a class="tabela_podpis" href="rury_i_przepusty.html">rury i przepusty</a><br /><a class="tabela_podpis" href="rury_i_przepusty.html">WIBRO-S</a></div>
+</div>
+<div class="tabela"><a href="wpusty_uliczne_nowoczesne_rozwiazanie.html"><img src="Media/Grafika/oferta4.jpg" alt="" width="174" height="147" /></a>
+<div class="tabela_podpis"><a class="tabela_podpis" href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html">systemy odwodnienia</a><br /><a class="tabela_podpis" href="systemy_kanalizacyjne_polaczenie_na_uszczelke.html">WPUSTY ULICZNE</a></div>
+</div>
+<div class="tabela"><a href="wyroby_z_betonu.html"><img src="Media/Grafika/oferta5.jpg" alt="" width="153" height="140" /></a>
+<div class="tabela_podpis"><a class="tabela_podpis" href="wyroby_z_betonu.html">wyroby z betonu</a></div>
+</div>
+<div class="tabela"><a href="plyty_jomb_drogowe.html"><img src="Media/Grafika/oferta6.jpg" alt="" width="142" height="142" /></a>
+<div class="tabela_podpis"><a class="tabela_podpis" href="plyty_jomb_drogowe.html">plyty JOMB,</a><br /><a class="tabela_podpis" href="plyty_jomb_drogowe.html">DROGOWE, ZAWOROWE</a></div>
+</div>
+</div>
+</div>
+
+<div class="clear"></div>
+
+<div id="blok5">
+
+<div id="stopka">
+<div id="stopka1">
+<div class="przycisk">Do pobrania</div>
+<p> </p>
+<p><a href="Media/Download/zamowienie.doc" target="_blank"><span style="font-size: x-large;">Zamowienie (doc)</span></a><br /><a href="Media/Download/ryszard-katalog-2017.pdf" target="_blank"><span style="font-size: x-large;">Katalog produktow (pdf)</span></a></p>
+</div>
+<div id="stopka2"><a href="../dofinansowanie_ue.html"><img class="rwd" src="Media/Grafika/3.jpg" alt="" /></a><br /> <span class="uepodpis">nasza firma korzysta ze srodkow Unii Europejskiej w ramach<br />Regionalnego Programu Operacyjnego Wojewodztwa Slaskiego - realna odpowiedz na realne potrzeby</span></div>
+<div id="stopka3"><a href="polityka_plikow_cookies.html"><span style="color: #e3031d; font-size: 20px;">polityka plikow cookies</span></a></div>
+</div>
+</div>
+
+</div>
+
+
+<script src="js/lightbox2/js/lightbox.js"></script>
+
+
+</body>
+</html>

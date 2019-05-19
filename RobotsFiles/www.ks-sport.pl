@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /logowanie
+Disallow: /rejestracja
+Disallow: /edycja_profilu
+Disallow: /koszyk
+Disallow: /kasa
+Disallow: /kasa/adres
+Disallow: /schowek
+Disallow: /wyszukiwanie*
+Disallow: /przypomninanie_hasla
+Disallow: /nocache.php
+Disallow: /debug.php
+Disallow: /debuglite.php
+Disallow: /*returnTo=

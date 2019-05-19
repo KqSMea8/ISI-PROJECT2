@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /baner/
+Disallow: /banners/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /festiwal/
+Disallow: /foto/
+Disallow: /global/
+Disallow: /images/
+Disallow: /images_n/
+Disallow: /img_7/
+Disallow: /img_8/
+Disallow: /img_9/
+Disallow: /includes/
+Disallow: /includes2/
+Disallow: /js/
+Disallow: /new/
+Disallow: /protected/
+

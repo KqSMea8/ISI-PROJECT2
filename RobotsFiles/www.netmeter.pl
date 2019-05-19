@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_speedtest/
+Disallow: /_debug
+

@@ -1,0 +1,4 @@
+# All spiders are disallowed to access all static resources
+User-agent: *
+Disallow: /
+

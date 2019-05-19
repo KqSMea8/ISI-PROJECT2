@@ -1,0 +1,26 @@
+User-agent: *
+sitemap: http://www.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.akumulatory.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.budowlane.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.diesel.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.kosiarki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.ladowarki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.marine.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.motopompy.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.ogrod.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.pontony.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.silniki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.stopywibracyjne.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.ups.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.zacieraczki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.zageszczarki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.agregaty.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.betoniarki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.kompresory.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.koparki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.myjki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.narzedzia.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.spawarki.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.wozkiwidlowe.toptech.pl/GoogleSiteMap.aspx
+sitemap: http://www.zaburtowe.toptech.pl/GoogleSiteMap.aspx
+

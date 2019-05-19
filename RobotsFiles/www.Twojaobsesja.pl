@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_console/
+Disallow: /_admin/
+Disallow: /error.html
+Disallow: /error-send.html
+Disallow: /404.shtml
+Disallow: /informacyjna-2.html
+Disallow: /informacyjna-3.html
+Sitemap: http://www.twojaobsesja.pl/googlesitemap.php

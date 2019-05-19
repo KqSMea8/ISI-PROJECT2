@@ -1,0 +1,16 @@
+
+User-agent: *
+Disallow: /assets/backup/
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /assets/packages/
+Disallow: /assets/tvs/
+Disallow: /install/
+
+
+

@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /szukaj
+Disallow: /*entrySidebar
+Disallow: /*.php
+Disallow: /*option=
+Disallow: /*view=
+Disallow: /*id=
+Disallow: /*Itemid=
+Disallow: /*lang=
+Disallow: /*limitstart=
+Sitemap: http://www.grupapartner.pl/sitemap.xml

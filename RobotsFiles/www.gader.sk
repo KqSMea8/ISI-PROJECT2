@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Crawl-delay: 7
+Sitemap: http://www.gader.sk/sitemap.xml

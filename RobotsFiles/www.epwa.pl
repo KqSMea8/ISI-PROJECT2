@@ -1,0 +1,20 @@
+User-agent: *
+Request-rate: 1/10
+Visit-time: 0100-0445
+Disallow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /galeria/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+

@@ -1,0 +1,7 @@
+# robots.txt for www.otec.de
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /typo3/
+Disallow: /fileadmin/
+Disallow: /service_portal/

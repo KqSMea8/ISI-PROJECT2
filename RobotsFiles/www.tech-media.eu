@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.tech-media.eu/sitemaps/techmedia/sitemap,index.xml
+

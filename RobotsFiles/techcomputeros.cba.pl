@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: *
+Disallow: /strony-www/
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /

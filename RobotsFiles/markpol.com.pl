@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://markpol.com.pl/1_index_sitemap.xml

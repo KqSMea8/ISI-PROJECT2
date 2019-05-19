@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /css/
+Disallow: /download/
+Disallow: /images/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /javascript/
+Disallow: /jquery/
+Disallow: /js/
+Disallow: /pdf/
+Disallow: /plik/
+Disallow: /style/
+Disallow: /test/
+Disallow: /thumbs/
+Disallow: /tmp/
+Disallow: /upload/
+Sitemap: http://www.portosrolety.pl/sitemap.xml
+

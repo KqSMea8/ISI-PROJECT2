@@ -1,0 +1,5 @@
+User-agent: BUbiNG
+User-agent: AhrefsBot
+Disallow: /
+User-agent: *
+Crawl-delay: 10

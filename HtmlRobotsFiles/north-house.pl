@@ -1,0 +1,4 @@
+<html>
+Strona zablokowana
+</html>
+

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /application/
+Disallow: /design/
+Disallow: /doc/
+Disallow: /cache/
+Disallow: /min/
+Disallow: /upload/
+Disallow: /serialization/
+Disallow: /raporty/
+Disallow: /logowanie/
+Disallow: /rejestracja/
+Disallow: /wyszukiwarka/
+Disallow: /productprint/
+Disallow: *,0,99999,*
+
+Allow: /design/_gallery/
+Allow: /design/_js_libs/
+Allow: /design/_js_frontend/
+Allow: /design/_images_frontend/

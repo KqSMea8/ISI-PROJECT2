@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wydarzenia/action~posterboard/
+Disallow: /wydarzenia/action~agenda/
+Disallow: /wydarzenia/action~oneday/
+Disallow: /wydarzenia/action~month/
+Disallow: /wydarzenia/action~week/
+Disallow: /wydarzenia/action~stream/
+Disallow: /spotkania/action~posterboard/
+Disallow: /spotkania/action~agenda/
+Disallow: /spotkania/action~oneday/
+Disallow: /spotkania/action~month/
+Disallow: /spotkania/action~week/
+Disallow: /spotkania/action~stream/

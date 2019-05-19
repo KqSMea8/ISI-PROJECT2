@@ -1,0 +1,19 @@
+User-agent: Googlebot
+User-agent: webcrawler
+user-agent: infoseek
+user-agent: msnbot
+
+Allow: /
+Allow: /linki
+Allow: /web
+Allow: /dtp
+Allow: /foto
+Allow: /omnie
+Allow: /omnie2
+Allow: /omnie3
+Allow: /faq
+DisAllow: /emide_v2/*
+DisAllow: /test/*
+DisAllow: /mitsu/*
+DisAllow: /test1/*
+DisAllow: /pt/*

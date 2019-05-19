@@ -1,0 +1,36 @@
+User-agent: *
+Crawl-delay: 1
+
+User-agent: Roverbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: NextGenSearchBot
+Disallow: /
+
+User-agent: Teleport Pro
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: SlySearch
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-Agent: Charlotte
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+

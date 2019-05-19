@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: spis_tresci.htm
+Disallow: contents.htm
+Disallow: top.htm
+Disallow: /www_pages/construction_en.htm
+Disallow: /www_pages/przygot.htm
+Disallow: /forms/sent_err.html
+Disallow: /forms/sent_ok.html
+Disallow: /downl/pub/
+Disallow: /downl/001/
+Disallow: /downl/002/
+Disallow: /downl/tselectro/
+Disallow: /downl/stermatik/
+Disallow: /priv/

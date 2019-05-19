@@ -1,0 +1,15 @@
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: Yandex
+Crawl-delay: 10
+
+User-agent: *
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /php/do.php/hits/
+

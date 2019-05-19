@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /application/
+Disallow: /cache/
+Disallow: /clearstat/
+Disallow: /cron/
+Disallow: /data/
+Disallow: /i18n/
+Disallow: /image/
+Disallow: /inc/
+Disallow: /install/
+Disallow: /js/
+Disallow: /libs/
+Disallow: /media/
+Disallow: /min/
+Disallow: /module/
+Disallow: /panel/
+Disallow: /public/
+Disallow: /smarty/
+Disallow: /style/
+Disallow: /tmp/
+Sitemap: http://digiram.pl/google_sitemap1.xml
+

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+
+Sitemap: http://e-innovation.hilti.de-web.biz/sitemap_index.xml

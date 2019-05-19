@@ -1,0 +1,17 @@
+# warunek 1
+User-agent: Yahoo.com
+Disallow: /
+
+User-agent: MSN=MSN.com
+Disallow: /
+
+# warunek 2
+User-agent: *
+Disallow: /admin/
+Disallow: /db/
+Disallow: /dbloader/
+Disallow: /language/
+Disallow: /tmp/
+Disallow: /stat_modules/
+
+

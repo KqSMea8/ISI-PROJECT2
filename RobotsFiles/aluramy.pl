@@ -1,0 +1,33 @@
+User-agent: *
+Crawl-delay: 30
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/fav/add/
+Disallow: /*/p/comment/add/
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/reg/
+Disallow: /*/reg
+Disallow: /*/login/
+Disallow: /*/login
+Disallow: /*/basket/
+Disallow: /*/basket
+Disallow: /*/searchquery/
+Disallow: /*/searchquery
+Disallow: /*/i/Polityka-cookies/13/
+Disallow: /*/i/Polityka-cookies/13
+Disallow: /*/i/Polityka-cookies/13
+Disallow: /*pricefrom*
+Disallow: /*priceto*
+Disallow: /*default*
+Disallow: /*phot*
+Disallow: /*full*
+Disallow: /*f_availability_1*
+Disallow: /*f_availability_2*
+sitemap: /console/integration/execute/name/GoogleSitemap

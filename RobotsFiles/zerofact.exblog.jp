@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tb/
+
+Sitemap: https://zerofact.exblog.jp/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: *
+Disallow: /cache
+Disallow: /configs
+Disallow: /images_
+Disallow: /images_old
+Disallow: /poz
+Disallow: /scripts
+Disallow: /smarty
+Disallow: /temp

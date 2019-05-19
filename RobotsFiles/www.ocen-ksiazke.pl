@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/
+Disallow: /wp-includes/
+#Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Sitemap: http://www.ocen-ksiazke.pl/sitemap.xml

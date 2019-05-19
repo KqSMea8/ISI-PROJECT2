@@ -1,0 +1,13 @@
+Sitemap: https://miropak.pl/sitemap_index.xml
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /portfolio-item/przykladowe-wzory/
+Disallow: /portfolio-item/torby-bawelniane-raczki-dlugie/
+Disallow: /portfolio-item/torby-bawelniane-raczki-krotkie/
+Disallow: /portfolio-item/torby-bawelniane-szyte-na-zamowienie/
+Disallow: /portfolio-item/torby-z-polipropylenu-eko1/
+Disallow: /portfolio-item/torby-z-polipropylenu-eko2/
+Disallow: /portfolio-item/torby-z-polipropylenu-eko3/
+Disallow: /portfolio-item/torby-z-polipropylenu-eko4/
+Disallow: /portfolio-item/torby-z-polipropylenu-szyte-na-zamowienie/

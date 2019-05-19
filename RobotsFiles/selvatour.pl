@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin/
+Disallow: /wp-content/cache/
+Disallow: /wp-trackback
+Disallow: /wp-feed
+Disallow: /feed/
+Disallow: /comments/feed/
+Disallow: /wp-comments
+Disallow: */trackback
+Disallow: */comments
+Disallow: /*.php
+Disallow: /?s=*
+Disallow: /*?replytocom
+Disallow: ?replytocom
+Disallow: ?turl
+
+Host: selvatour.pl
+Sitemap: http://selvatour.pl/sitemap_index.xml

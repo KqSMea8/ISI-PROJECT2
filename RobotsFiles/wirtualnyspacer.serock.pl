@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /aktualizacja/
+Disallow: /api/
+Disallow: /ckeditor/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /skory/
+Disallow: /tmp/
+Disallow: /szukaj2.php
+Disallow: /szukaj2.php*
+Disallow: /redir,szukaj2
+Disallow: *redir,szukaj2*
+Disallow: /rss_news.php
+Disallow: /redir,rss_news
+Disallow: /rss_cooliris.php
+Disallow: /redir,rss_cooliris
+Disallow: /redir:szukaj2
+Disallow: *redir:szukaj2*
+

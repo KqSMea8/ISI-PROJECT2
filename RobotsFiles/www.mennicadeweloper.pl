@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /error-404
+Disallow: /mennica-portal-web
+Disallow: /mennica-portal-theme
+Disallow: /mennica-portal-jsp-hook
+Disallow: /mennica-portal-language-hook
+Disallow: /marketplace-portlet
+Disallow: /admin
+Sitemap: https://www.mennicadeweloper.pl/sitemap.xml

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Crawl-delay: 10
+Disallow: /cgi-bin/
+Disallow: /phpSitemapNG/
+Disallow: wyklad.pdf
+Sitemap: http://marcin.rudzki.net//sitemap.xml
+

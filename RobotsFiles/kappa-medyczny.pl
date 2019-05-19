@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /recommend_shop
+Disallow: /currency
+Disallow: /productsCompare
+Disallow: /product_options
+Disallow: /stNavigationFrontend
+Disallow: /producer
+Disallow: /invoice
+Disallow: /order
+Disallow: /invoicePdf/*
+Disallow: /orderPdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /*.php$
+Disallow: /*.php$
+Disallow: /paypal
+

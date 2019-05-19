@@ -1,0 +1,16 @@
+User-agent: *
+Allow: aktualnosci.html
+Allow: galeria/lista_galerii.html
+Allow: o_firmie.html
+Allow: referencje.html
+Allow: uslugi.html
+Allow: realizacje.html
+Allow: klienci.html
+Allow: kontakt.html
+Allow: /
+Disallow: /about.php
+Disallow: /clients.php
+Disallow: /contact.php
+Disallow: /implementations.php
+Disallow: /services.php
+Disallow: /admin

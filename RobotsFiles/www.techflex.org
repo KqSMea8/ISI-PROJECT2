@@ -1,0 +1,89 @@
+User-agent: *
+
+# Directories
+Disallow: /404/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /dev/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /install/
+# Disallow: /images/
+# Disallow: /js/
+Disallow: /lib/
+####Disallow: /media/
+Disallow: /pkginfo/
+Disallow: /private/
+Disallow: /shell/
+Disallow: /var/
+Disallow: /vendor/
+
+# Paths (clean URLs)
+Disallow: /index.php/
+Disallow: /catalog/category/view/
+Disallow: /catalog/category/menu/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product_compare/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /magento/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /report/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+Disallow: /home/
+Disallow: /de/customer/
+Disallow: /en/customer/
+Disallow: /pl/customer/
+Disallow: /es/customer/
+Disallow: /fr/customer/
+Disallow: /it/customer/
+Disallow: /nl/customer/
+Disallow: /de/checkout/
+Disallow: /en/checkout/
+Disallow: /pl/checkout/
+Disallow: /es/checkout/
+Disallow: /fr/checkout/
+Disallow: /it/checkout/
+Disallow: /nl/checkout/
+
+# Files
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+# Paths (no clean URLs)
+Disallow: /*?sid=*
+Disallow: /*?SID=*
+####Disallow: /*.js$
+####Disallow: /*.css$
+Disallow: /*.php
+Disallow: /*.php?*
+Disallow: /*?SID=
+
+Disallow: /*.git$
+Disallow: /*.sql$
+Disallow: /*.tgz$
+Disallow: /*?xaf26a*
+
+#Allow
+Allow: /images/
+Allow: /js/
+Allow: /skin/
+Allow: /skin/frontend/default/theme427/ajax/
+Allow: /skin/frontend/default/theme427/
+Allow: /skin/frontend/default/
+Allow: /skin/frontend/

@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="">
+<head>
+<title>Error 404 - OpenSource and free software</title>   <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Free software, for personal as well as commercial use. Systems for checking the position of the website in Google, checking links, PHP editor, systems for sending newsletters from the server as well as from a private computer, control sum generators." />
+<meta name="keywords" content="php software, C# software, newsletter, mailings, google items, link checking, php editor, image conversion, icon extraction, password generator, email extractor, checksum generator" />
+<link rel="stylesheet" href="http://phpbluedragon.eu/stylesmenu.css" />
+<script src="http://phpbluedragon.eu/jquery-latest.min.js" type="text/javascript"></script>
+<script src="http://phpbluedragon.eu/script.js"></script>
+<link href="http://phpbluedragon.eu/css/bootstrap.min.css" rel="stylesheet" />
+<link href="http://phpbluedragon.eu/css/bootstrap-theme.min.css" rel="stylesheet" />
+<script src="http://phpbluedragon.eu/js/bootstrap.min.js"></script>
+<link rel="shortcut icon" href="http://phpbluedragon.eu/favicon.ico" />
+<style>
+html, body
+{
+/*font-family: 'Open Sans', sans-serif;*/
+padding: 0px;
+margin: 0px;
+}
+
+.container
+{
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header
+{
+width: 200px;
+float: left;
+font-family: 'Open Sans', sans-serif;
+}
+
+.menu
+{
+max-width: 700px;
+float: right;
+}
+
+@media (max-width: 799px)
+{
+.menu
+{
+float: none;
+clear: both;
+}
+}
+
+h1
+{
+color: #49A049;
+padding: 0px;
+/*padding-left: 5px;*/
+font-weight: normal;
+font-family: 'Open Sans', sans-serif;
+}
+
+img
+{
+max-width: 100%;
+height: auto;
+}
+
+div.DownloadRow
+{
+border: solid 1px #DDDDDD;
+border-radius: 5px;
+border-left: solid 5px #1B809E;
+border-right: solid 5px #1B809E;
+padding: 10px;
+text-align: center;
+}
+
+.btn-file {
+position: relative;
+overflow: hidden;
+}
+.btn-file input[type=file] {
+position: absolute;
+top: 0;
+right: 0;
+min-width: 100%;
+min-height: 100%;
+font-size: 100px;
+text-align: right;
+filter: alpha(opacity=0);
+opacity: 0;
+outline: none;
+background: white;
+cursor: inherit;
+display: block;
+}
+
+.RowColor1
+{
+background-color: #F9F9F9;
+padding: 5px;
+}
+
+.RowColor2
+{
+background-color: #ffffff;
+padding: 5px;
+}
+
+.RowColor3
+{
+background-color: #ffffff;
+padding: 5px;
+font-weight: bold;
+}
+
+a, a:hover
+{
+color: #0389cf;
+}
+
+h1, h2, h3, h4
+{
+color: #000000;
+}
+
+ul.PaginationClass { margin:4px 0; padding:0px; height:100%; overflow:hidden; font:12px 'Tahoma'; list-style-type:none; }
+ul.PaginationClass li { float:left; margin:0px; padding:0px; margin-left:5px; }
+ul.PaginationClass li a { color:black; display:block; text-decoration:none; padding:7px 10px 7px 10px; }
+ul.PaginationClassA li a { color:#FFFFFF; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+ul.PaginationClassB li a { color:#ffffff; border:solid 1px #B6B6B6; padding:6px 9px 6px 9px;
+background: rgba(73, 160, 73,1);
+background: -moz-linear-gradient(top, rgba(73, 160, 73,1) 0%, rgba(50, 145, 50,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(73, 160, 73,1)), color-stop(100%, rgba(50, 145, 50,1)));
+background: -webkit-linear-gradient(top, rgba(73, 160, 73,1) 0%, rgba(50, 145, 50,1) 100%);
+background: -o-linear-gradient(top, rgba(73, 160, 73,1) 0%, rgba(50, 145, 50,1) 100%);
+background: -ms-linear-gradient(top, rgba(73, 160, 73,1) 0%, rgba(50, 145, 50,1) 100%);
+background: linear-gradient(to bottom, rgba(73, 160, 73,1) 0%, rgba(50, 145, 50,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#207ce5', GradientType=0 );}
+ul.PaginationClassB li:hover a { background: rgba(241,231,103,1);
+background: -moz-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(241,231,103,1)), color-stop(100%, rgba(254,182,69,1)));
+background: -webkit-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -o-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -ms-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: linear-gradient(to bottom, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645', GradientType=0 );}
+ul.PaginationClassB li.current a { background: rgba(241,231,103,1);
+background: -moz-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(241,231,103,1)), color-stop(100%, rgba(254,182,69,1)));
+background: -webkit-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -o-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -ms-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: linear-gradient(to bottom, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645', GradientType=0 ); }
+
+.preblock
+{
+padding: 10px;
+background-color: #F5F5F5;
+border-radius: 10px;
+}
+
+/*.breadcrumb
+{
+background-color: #E5E4E2;
+}*/
+
+.breadcrumb {
+padding: 8px 15px;
+margin-bottom: 20px;
+list-style: none;
+background-color: #27A2CF;
+border-radius: 4px;
+}
+
+.breadcrumb > li > a {
+color: #ffffff;
+}
+
+.breadcrumb > li {
+display: inline-block;
+}
+
+.breadcrumb > li + li:before {
+padding: 0 5px;
+color: #ffffff;
+content: "/\00a0";
+}
+
+.breadcrumb > .active {
+color: #ffffff;
+}
+
+.panel {
+border-color: #27A2CF;
+}
+
+.panel > .panel-heading {
+background-image: none;
+background-color: #27A2CF;
+color: #ffffff;
+}
+
+.carousel-inner img {
+margin: auto;
+}
+
+.carousel-control.left, .carousel-control.right {
+background-image: none
+}
+
+#slides{
+color: #f5f5f5;
+background-color: #f5f5f5 !important;
+}
+
+.carousel{
+padding-top: 10px;
+padding-bottom: 10px;
+color: #f5f5f5;
+background-color: #f5f5f5 !important;
+}
+
+.carousel .item{
+color: #f5f5f5;
+background-color: #f5f5f5;
+}
+
+div.ApacheButtonMain
+{
+/* float: left; */
+}
+
+div.ApacheButtonLeft
+{
+float: left;
+background-image: linear-gradient(#5D5D5D, #4E4E4E);
+padding: 2px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 4px 0px 0px 4px;
+text-shadow: 1px 1px 2px #3A3A3A;
+color: #ffffff;
+}
+
+div.ApacheButtonBlue
+{
+float: left;
+background-image: linear-gradient(#1384C4, #0172B2);
+padding: 2px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 0px 4px 4px 0px;
+text-shadow: 1px 1px 2px #3A3A3A;
+color: #ffffff;
+}
+
+div.ApacheButtonOrange
+{
+float: left;
+background-image: linear-gradient(#F68243, #E67233);
+padding: 2px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 0px 4px 4px 0px;
+text-shadow: 1px 1px 2px #3A3A3A;
+color: #ffffff;
+}
+
+div.ApacheButtonRed
+{
+float: left;
+background-image: linear-gradient(#DB654F, #CA543E);
+padding: 2px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 0px 4px 4px 0px;
+text-shadow: 1px 1px 2px #3A3A3A;
+color: #ffffff;
+}
+
+div.ApacheButtonGreen
+{
+float: left;
+background-image: linear-gradient(#4EC820, #3FB911);
+padding: 2px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 0px 4px 4px 0px;
+text-shadow: 1px 1px 2px #3A3A3A;
+color: #ffffff;
+}
+/*
+#cssmenu
+{
+background-color: #000000;
+}
+
+#cssmenu ul li a
+{
+color: #ffffff;
+}
+
+#cssmenu ul li a:active
+{
+color: #ffffff;
+}
+*/
+</style>
+<script language="JavaScript">
+function DeteleInfo(URL,Comunicate)
+{
+if(confirm(Comunicate))
+{
+window.location = URL;
+}
+}
+</script>
+<script src="http://phpbluedragon.eu/CookieAlert/CookieAlert_1_1.min.js"></script>
+<script>
+CookieAlert.init({
+style: 'light',
+position: 'top',
+opacity: '1',
+displayTime: 0,
+text: 'This site uses cookies. Use of the site signifies your agreement to the write or read by your browser settings.'
+});
+</script>
+</head>
+<body>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17091837-12', 'auto');
+ga('send', 'pageview');
+
+</script>
+<div style="width: 100%; border-bottom: solid 3px #0389cf; padding-top: 5px; background-color: #000000;">
+<div class="container">
+<div class="header" style="padding-top: 7px;">
+<div style="float: left;"><a href="http://phpbluedragon.eu/" title="phpBlueDragon"><img src="http://phpbluedragon.eu/logo2.png" width="35" height="30" /></a></div>
+<div style="float: left;">&nbsp;&nbsp;</div>
+<div style="float: left; margin-top: 4px;"><a href="http://phpbluedragon.eu/" style="font-weight: normal; font-size: 20px; text-decoration: none; color: #ffffff;">phpBlueDragon</a></div>
+</div>
+<div class="menu">
+<div id="cssmenu">
+<ul>
+
+<li class="active"><a href="http://phpbluedragon.eu/">Home</a></li>
+<li ><a href="http://phpbluedragon.eu/documentation/">Documentation</a></li>
+<li ><a href="http://phpbluedragon.eu/download">Download</a></li>
+<li ><a href="http://phpbluedragon.eu/opensource/">OpenSource</a></li>
+<li ><a href="http://phpbluedragon.eu/about-author/">Author</a></li>
+<li ><a href="http://phpbluedragon.eu/contact/">Contact</a></li>
+
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container" style="margin-top: 10px;">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="border-radius: 10px;">
+<!-- Indicators -->
+
+<!-- Wrapper for slides -->
+<div class="carousel-inner">
+<div class="item active">
+<a href="http://phpbluedragon.eu/documentation/phpbluedragon-editor"><img src="http://phpbluedragon.eu/info/en_tabbededitor.png" alt="phpBlueDragon Editor"></a>
+</div>
+<div class="item">
+<a href="http://phpbluedragon.eu/documentation/phpbluedragon-mailer"><img src="http://phpbluedragon.eu/info/en_phpbluedragon.png" alt="phpBlueDragon Mailer"></a>
+</div>
+<div class="item">
+<a href="http://phpbluedragon.eu/documentation/phpbluedragon-hrefsystem"><img src="http://phpbluedragon.eu/info/en_hrefsystem.png" alt="phpBlueDragon HrefSystem"></a>
+</div>
+</div>
+<!-- Left and right controls -->
+<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+ </div>
+
+<div style="width: 100%; background-color: #ffffff; padding-top: 5px; padding-bottom: 5px;">
+<div class="container">
+
+<ol class="breadcrumb">
+<li><a href="http://phpbluedragon.eu/">Home</a></li>
+<li class="active">Error 404</li>
+</ol><h1>Error 404</h1><p class="text-center"><img src="http://phpbluedragon.eu/images/error-404.png" class="img-responsive" style="width: 256px; margin: 0 auto;" /></p><p class="text-center" style="font-size: 16px; font-weight: bold;">Error 404 - This page does not exist.</p>
+
+<br /><br /><br /><br /></div>
+</div>
+
+<div style="width: 100%; background-color: #27313D; border-top: solid 3px #0389cf;">
+<div class="container" style="margin-top: 5px;">
+<div style="padding: 5px; color: #A6A299;">
+Copyright &copy; 2015-2019 - by <a href="http://en.lukasz.sos.pl" target="_blank" style="color: #ffffff;">Lucas SOS</a>
+|
+<a href="http://phpbluedragon.eu/about-author"style="color: #ffffff;">About the Author</a>
+|
+<a href="http://phpbluedragon.eu/tag" style="color: #ffffff;">Tags</a>
+|
+<a href="http://phpbluedragon.eu/blog" style="color: #ffffff;">Blog</a>
+|
+<a href="http://phpbluedragon.eu/links" style="color: #ffffff;">Links</a>
+|
+<a href="http://phpbluedragon.eu/login" style="color: #ffffff;">Login</a>        </div>
+</div>
+</div>
+</body>
+</html>

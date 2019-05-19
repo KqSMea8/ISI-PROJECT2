@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 30
+
+Disallow: */article/figure/powerpoint
+Disallow: */search
+Disallow: */article/metrics
+Disallow: */user
+Sitemap: https://journals.plos.org/sitemaps/sitemap-index.xml
+

@@ -1,0 +1,23 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /o-obci/zakladni-informace/
+Disallow: /o-gminie/fotogaleria/akce-2015/
+Disallow: /pro-turisty/jizdni-rady-/
+Disallow: /o-gminie/fotogaleria/akce-2014/
+Disallow: /o-gminie/fotogaleria/akce-2013/
+Disallow: /o-gminie/fotogaleria/akce-2012/
+Disallow: /o-gminie/fotogaleria/akce-2008-2011/
+Disallow: /urad-2/uredni-deska/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /o-obci/zakladni-informace/
+Disallow: /o-gminie/fotogaleria/akce-2015/
+Disallow: /pro-turisty/jizdni-rady-/
+Disallow: /o-gminie/fotogaleria/akce-2014/
+Disallow: /o-gminie/fotogaleria/akce-2013/
+Disallow: /o-gminie/fotogaleria/akce-2012/
+Disallow: /o-gminie/fotogaleria/akce-2008-2011/
+Disallow: /urad-2/uredni-deska/
+Sitemap: http://www.bukovec.cz/sitemap.xml
+

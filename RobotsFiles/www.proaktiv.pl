@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /UserFiles/
+Disallow: /admin/
+Disallow: /fckeditor/
+Disallow: /flagi/
+Disallow: /imieniny/
+Disallow: /!umowa_licencyjna.txt
+Disallow: /_config.php
+Disallow: /_config_moduly.php
+Disallow: /_function.php
+Disallow: /_sciezka.php
+Disallow: /class.configmagik.php
+Disallow: /form.php
+Disallow: /index.php?idz_do=sklep&pokaz_koszyk=1
+Disallow: /index.php?idz_do=sklep&zarejestruj=1
+Disallow: /nowy1/
+
+Disallow: /tempkl/
+Disallow: /tempkl/quickrk
+Disallow: /szablony/
+Disallow: /nowy/gallery.html
+Disallow: /nowy/gallery/1-Pro-Aktiv.html

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /stash/index
+Disallow: /request/create
+Disallow: /cron/*
+Disallow: /*/currency/*
+Disallow: /*/website-layout/*
+Disallow: /*/website_layout/*
+Disallow: /*/limit/*
+Disallow: /*/order/*
+Disallow: /*/display/*
+Disallow: /*/redirect/*
+Disallow: /apidocs/*

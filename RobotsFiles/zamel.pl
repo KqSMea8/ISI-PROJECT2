@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /invoices/
+Disallow: /archive/
+Disallow: /temp/
+Disallow: /xml/
+Disallow: /app/
+Disallow: /cms/
+Disallow: /piwik/

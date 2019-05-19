@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="language" content="pl" />
+<meta http-equiv="x-ua-compatible" content="IE=10">
+<link rel="stylesheet" type="text/css" href="/themes/classic/standart/css/reseter.css" />
+<link rel="stylesheet" type="text/css" href="/themes/classic/standart/css/default.css" />
+<link rel="stylesheet" type="text/css" href="/themes/classic/design/css/styles.css" />
+<script type="text/javascript" src="/assets/f74796a2/jquery.min.js"></script>
+<script type="text/javascript" src="/themes/classic/standart/js/default.js"></script>
+<script type="text/javascript" src="/themes/classic/design/js/app1.js"></script>
+<script type="text/javascript" src="/themes/classic/external/jquery_ui/jquery_ui.js"></script>
+<script type="text/javascript" src="/themes/classic/external/jquery_effect_animate/jquery_effect_animate.js"></script>
+<script type="text/javascript" src="/themes/classic/external/jquery_cookie/jquery_cookie.js"></script>
+<script type="text/javascript" src="/themes/classic/external/check/jquery.custom_radio_checkbox.js"></script>
+<title>
+Strona Glowna - Expandi        </title>
+<link href="http://expandi.net/themes/classic/design/img/logo_expandi_mini.gif" rel="SHORTCUT ICON">
+<link href="https://fonts.googleapis.com/css?family=Habibi&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-292262-6']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/themes/classic/design/css/styleIE8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/themes/classic/standart/css/reseterIE7.css" />
+<link rel="stylesheet" type="text/css" href="/themes/classic/design/css/styleIE7.css" />
+<![endif]-->
+
+</head>
+
+<body>
+<div id="header" class='shadow'>
+<div id="header_in">
+<a id="logo" class='logo_standart' href="http://expandi.net/pl">
+<img title="expandi" alt="expandi" src="/themes/classic/design/img/logo_ex.jpg" />
+</a>
+<div id="menu">
+<ul id="yw0">
+<li class="item_master master_1"><a class="link_master"><div class='name'>NASZA OFERTA</div></a></li>
+<li class="item_master master_3"><a class="link_master" href="/pl/AboutUs.html"><div class='name'>O NAS</div></a></li>
+<li class="item_master master_3"><a class="link_master" href="/pl/Contact.html"><div class='name'>KONTAKT</div></a></li>
+</ul>                </div>
+<div id="toolbar">
+<div id="action">
+<div id="lang">
+<div id="selected">
+
+
+<label class='chose' hreflang='en'>English</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="content">
+<div class="separator"></div>
+<div id="content_in" class='home'>
+<div id="slider">
+<div id="scroll">
+<div class='elem active' key='0'>
+<a href='http://expandi.net/pl/product/BusinessIntelligence.html'>
+<img src='http://expandi.net/themes/classic/design/img/slider/business_intelligence.jpg' />
+<div class='title'>
+<div class='spec_font'>Business Intelligence 2.0</div>
+</div>
+<div class='back'>
+<div style='display:none;'>
+<div class='spec_font'>Wszystkie KPI w jednym miejscu. Prosta obsluga</div>
+<div class='spec_font'>i mobilny dostep. Koniec czekania na raporty.</div>
+</div>
+</div>
+<div class='desc'>
+<div class='spec_font'>Wszystkie KPI w jednym miejscu. Prosta obsluga</div>
+<div class='spec_font'>i mobilny dostep. Koniec czekania na raporty.</div>
+<div class='mov spec_font'>&raquo;</div>
+</div>
+</a>
+</div>
+
+<div class='elem' key='1'>
+<a href='http://expandi.net/pl/product/MobileEnterprise.html'>
+<img src='http://expandi.net/themes/classic/design/img/slider/mobile_enterprise.jpg' />
+<div class='title'>
+<div class='spec_font'>Mobile Enterprise</div>
+</div>
+<div class='back'>
+<div style='display:none;'>
+<div class='spec_font'>Wykorzystaj urzadzenia mobilne i dedykowane</div>
+<div class='spec_font'>aplikacje, aby zwiekszyc efektywnosc dzialania</div>
+</div>
+</div>
+<div class='desc'>
+<div class='spec_font'>Wykorzystaj urzadzenia mobilne i dedykowane</div>
+<div class='spec_font'>aplikacje, aby zwiekszyc efektywnosc dzialania</div>
+<div class='mov spec_font'>&raquo;</div>
+</div>
+</a>
+</div>
+
+<div class='elem' key='2'>
+<a href='http://expandi.net/pl/product/NetMonitorBankingReview.html'>
+<img src='http://expandi.net/themes/classic/design/img/slider/netmonitor_banking_review.jpg' />
+<div class='title'>
+<div class='spec_font'>NetMonitor Banking</div>
+<div class='spec_font'>Review</div>
+</div>
+<div class='back'>
+<div style='display:none;'>
+<div class='spec_font'>Sledz na biezaco opinie konsumentow o bankach</div>
+<div class='spec_font'>w Polsce i ich produktach</div>
+</div>
+</div>
+<div class='desc'>
+<div class='spec_font'>Sledz na biezaco opinie konsumentow o bankach</div>
+<div class='spec_font'>w Polsce i ich produktach</div>
+<div class='mov spec_font'>&raquo;</div>
+</div>
+</a>
+</div>
+
+<div class='elem' key='3'>
+<a href='http://expandi.net/pl/product/NetMonitor.html'>
+<img src='http://expandi.net/themes/classic/design/img/slider/social_media_monitoring.jpg' />
+<div class='title'>
+<div class='spec_font'>Social Media</div>
+<div class='spec_font'>Monitoring</div>
+</div>
+<div class='back'>
+<div style='display:none;'>
+<div class='spec_font'>Dbaj o reputacje, poznaj opinie konsumentow</div>
+<div class='spec_font'>i podnies efektywnosc dzialan marketingowych</div>
+</div>
+</div>
+<div class='desc'>
+<div class='spec_font'>Dbaj o reputacje, poznaj opinie konsumentow</div>
+<div class='spec_font'>i podnies efektywnosc dzialan marketingowych</div>
+<div class='mov spec_font'>&raquo;</div>
+</div>
+</a>
+</div>
+
+
+</div>
+</div>
+<div id="menusli">
+<div class='panel'>
+<div class='bu' key='3'> </div>
+<div class='bu' key='2'> </div>
+<div class='bu' key='1'> </div>
+<div class='bu active' key='0'> </div>
+</div>
+</div>
+
+<div id="description">
+<div class="row first">
+<div class="mas spec_font">Tworzymy aplikacje i systemy</div>
+<div class="sub spec_font">dzialajace w chmurze lub on-premise</div>
+</div>
+<div class="row li_1">
+<div class="title spec_font">Analizujace dane</div>
+<div class="text spec_font" style='width:85%'>Oszczedzaj czas i zamieniaj wiedze na profity. Wykrywaj automatycznie zagrozenia i okazje.</div>
+<div class="text fing">
+<div class='fi_1'>WIECEJ</div>
+<div class='fi_2'>&raquo;</div>
+</div>
+<div class="pic analize">
+<img />
+</div>
+</div>
+<div class="row li_2">
+<div class="title spec_font">Zwiekszajace efektywnosc dzialania</div>
+<div class="text spec_font" style='width:85%'>Wykorzystaj rozwiazania mobilne i analize danych. Podnies efektywnosc i przyspiesz realizacje celow biznesowych.</div>
+<div class="text fing">
+<div class='fi_1'>WIECEJ</div>
+<div class='fi_2'>&raquo;</div>
+</div>
+<div class="pic efficiency">
+<img />
+</div>
+</div>
+<div class="row li_3">
+<div class="title spec_font">Zwiekszajace sprzedaz i zadowolenie klientow</div>
+<div class="text spec_font" style='width:85%'>Klienci generuja nieprzerwany strumien danych. Skorzystaj z tej wiedzy, aby lepiej ich zrozumiec i zaoferowac im dokladnie to, czego potrzebuja.</div>
+<div class="text fing">
+<div class='fi_1'>WIECEJ</div>
+<div class='fi_2'>&raquo;</div>
+</div>
+<div class="pic sale">
+<img />
+</div>
+</div>
+</div>
+
+<div class="box_1" id="brands">
+<div class="header">
+<div class="decoration_left"></div>
+<div class="title">
+<label>WYBRANI KLIENCI</label>
+</div>
+<div class="more">
+
+</div>
+<div class="decoration_right"></div>
+</div>
+<div class="content">
+<div id="slider_brand"></div>
+</div>
+<div class="footer"></div>
+</div>
+
+<div id="talk">
+<div class="he_1 spec_font">
+Nasze najnowsze publikacje
+</div>
+<div>
+<div class='left_h left_def'>
+<div></div>
+</div>
+<div class='talk_vision'>
+<div class='talk_pres'>
+<div class='el'>
+<img  src="http://expandi.net/themes/classic/design/img/page_2_pl.jpg">
+<a href='http://expandi.net/pl/product/BusinessIntelligenceDocument.html?doc=1'>
+<div class='tex'>
+Dlaczego i jak nalezy wlaczyc dane w proces decyzyjny, aby odniesc najwieksze korzysci?
+<div class='side_left'> </div>
+</div>
+</a>
+</div>
+<div class='el'>
+<img src="http://expandi.net/themes/classic/design/img/page_3_pl.jpg">
+<a href='http://expandi.net/pl/product/BusinessIntelligenceDocument.html?doc=3'>
+<div class='tex'>
+Szesc pytan, dzieki ktorym dowiesz sie czy powinienes zmienic obecny system Business Intelligence
+<div class='side_left'> </div>
+</div>
+</a>
+</div>
+<div class='el'>
+<img src="http://expandi.net/themes/classic/design/img/page_5_pl.jpg">
+<a href='http://expandi.net/pl/product/MobileEnterpriseDocument.html?doc=1'>
+<div class='tex'>
+Jak rozwiazania mobilne pomagaja zwiekszyc sprzedaz?
+<div class='side_left'> </div>
+</div>
+</a>
+</div>
+<div class='el'>
+<img src="http://expandi.net/themes/classic/design/img/page_4_pl.jpg">
+<a href='http://expandi.net/pl/product/MobileEnterpriseDocument.html?doc=2'>
+<div class='tex'>
+Trzy sposoby na zwiekszenie efektywnosci dzialania dzieki aplikacjom mobilnym
+<div class='side_left'> </div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class='right_h_s right_def'>
+<div> </div>
+</div>
+</div>
+</div>
+<div id='elem_scroll'></div>
+<div id='elem_scroll_demo'></div>
+
+</div>        </div>
+
+<div id="footer">
+<div id="footer_in">
+<div id="offered">
+<div class="col_1">
+<label class='mas'><a href="/pl/DedicatedSoftware.html">DEDYKOWANE OPROGRAMOWANIE</a></label>
+<ul>
+<li><a href="/pl/DedicatedSoftware.html#analysis">Aplikacje i systemy analizujace dane</a></li>
+<li><a href="/pl/DedicatedSoftware.html#analysis">Aplikacje i systemy analizy Big Data</a></li>
+<li><a href="/pl/DedicatedSoftware.html#effective">Aplikacje mobilne</a></li>
+<li><a href="/pl/DedicatedSoftware.html#sale">Automatyzacja i wsparcie procesow marketingu</a></li>
+<li><a href="/pl/DedicatedSoftware.html#effective">Automatyzacja i wsparcie procesow sprzedazy</a></li>
+<li><a href="/pl/DedicatedSoftware.html#effective">Automatyzacja procesow biznesowych</a></li>
+<li><a href="/pl/DedicatedSoftware.html#effective">Integracja systemow</a></li>
+<li><a href="/pl/DedicatedSoftware.html#analysis">Monitoring systemow i przewidywanie zagrozen</a></li>
+<li><a href="/pl/DedicatedSoftware.html#sale">Systemy personalizacji i segmentacji klientow</a></li>
+<li><a href="/pl/DedicatedSoftware.html#analysis">Systemy wyszukiwania informacji i laczenia faktow</a></li>
+<li><a href="/pl/DedicatedSoftware.html#sale">Zarzadzanie cyklem zycia klienta</a></li>
+</ul>
+<label class='mas'><a href="/pl/product/BusinessIntelligence.html">PRODUKTY</a></label>
+<ul>
+<li><a href="/pl/product/BusinessIntelligence.html">Business Intelligence 2.0</a></li>
+<li><a href="/pl/product/NetMonitorBankingReview.html">NetMonitor Banking Review</a></li>
+<li><a href="/pl/product/NetMonitor.html">NetMonitor Individual</a></li>
+<li><a href="/pl/product/MobileEnterprise.html">Mobile Enterprise</a></li>
+</ul>
+</div>
+<div class="col_2">
+<label class='mas'><a href="/pl/Issues.html">ZAGADNIENIA</a></label>
+<ul>
+<li><a href="/pl/Issues.html#marketing">Mobile Enterprise</a></li>
+<li><a href="/pl/Issues.html#marketing">Automatyzacja marketingu</a></li>
+<li><a href="/pl/Issues.html#sale">Generowanie wartosciowych leadow</a></li>
+<li><a href="/pl/Issues.html#ceo_2">Machine 2 Machine - uwolnij wartosc biznesowa</a></li>
+<li><a href="/pl/Issues.html#marketing_2">Monitoring i analiza opinii w Social Media</a></li>
+<li><a href="/pl/Issues.html#bl_3">Monitoring i analiza otoczenia konkurencyjnego</a></li>
+<li><a href="/pl/Issues.html#operation">Monitorowanie ryzyka oraz zgodnosci z wymogami</a></li>
+<li><a href="/pl/Issues.html#ceo">Odzyskanie czasu i zasobow dzieki automatyzacji dzialan</a></li>
+<li><a href="/pl/Issues.html#it">Outsourcing aplikacji</a></li>
+<li><a href="/pl/Issues.html#marketing_3">Personalizacja i mikrosegmentacja</a></li>
+<li><a href="/pl/Issues.html#ceo">Real-time Dashboard z mobilnym dostepem</a></li>
+<li><a href="/pl/Issues.html#ceo">Revenue Performance Management</a></li>
+<li><a href="/pl/Issues.html#sale">System wsparcia sprzedazy i Sales Force Automation</a></li>
+<li><a href="/pl/Issues.html#bl_3">Wydobycie wartosci z danych (Big Data)</a></li>
+<li><a href="/pl/Issues.html#bl">Wykrywanie okazji oraz zagrozen</a></li>
+<li><a href="/pl/Issues.html#bl_2">Zwiekszenie Customer Lifetime Value</a></li>
+<li><a href="/pl/Issues.html#sale_2">Zwiekszenie sprzedazy w eCommerce</a></li>
+<li><a href="/pl/Issues.html#marketing_2">Zwiekszenie wartosci z CRM</a></li>
+</ul>
+</div>
+</div>
+<div id="quick_contact">
+<div class="desc">Kontakt</div>
+
+<div class="tel">+48 33 815 04 68</div>
+<div class="ema">office@expandi.net</div>
+
+<div class="com">Expandi sp. z.o.o.</div>
+<div class="add">ul.Cyniarska 38, 43-300 Bielsko-Biala</div>
+</div>
+<div id="quick_menu">
+<div class="row">
+<div class="hed">O NAS</div>
+<div class="inf"><a href="/pl/AboutUs.html">O firmie</a></div>
+</div>
+<div class="row">
+<div class="hed">KONTAKT</div>
+<div class="inf"><a href="/pl/Contact.html">Dane kontaktowe i rejestrowe firmy</a></div>
+</div>
+</div>
+</div>
+<div id="cookie">
+<div id="cookie_in">
+<div id="text">
+<span><a href="/pl/Regulations.html">Polityka Cookies</a></span>
+<div class="copyright">
+Copyright &copy; 2007-2019 Expandi sp. z o.o. All Rights Reserved.
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id='cookie_confirm'>
+<div id='cookie_confirm_in'>
+<span>Nasz serwis uzywa plikow cookies. Kontynuujac korzystanie z serwisu bez zmian ustawien przegladarki, akceptujesz zapisywanie plikow cookies.<br/>Wiecej w  <a href="/pl/Regulations.html">Polityka Cookies</a>.</span>
+<div>OK</div>
+</div>
+</div>
+
+<div id='master_menu_1' class="m_menu">
+<div class="m_menu_in">
+<div class="bo">
+<div class="tit"><a href="/pl/DedicatedSoftware.html">DEDYKOWANE OPROGRAMOWANIE</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#analysis">Aplikacje i systemy analizujace dane</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#analysis">Aplikacje i systemy analizy Big Data</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#effective">Aplikacje mobilne</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#sale">Automatyzacja i wsparcie procesow marketingu</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#effective">Automatyzacja i wsparcie procesow sprzedazy</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#effective">Automatyzacja procesow biznesowych</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#effective">Integracja systemow</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#analysis">Monitoring systemow i przewidywanie zagrozen</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#sale">Systemy personalizacji i segmentacji klientow</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#analysis">Systemy wyszukiwania informacji i laczenia faktow</a></div>
+<div class="op"><a href="/pl/DedicatedSoftware.html#sale">Zarzadzanie cyklem zycia klienta</a></div>
+</div>
+<div class="bo">
+<div class="tit"><a href="/pl/Issues.html">ZAGADNIENIA</a></div>
+<div class="op"><a href="/pl/Issues.html#marketing">Mobile Enterprise</a></div>
+<div class="op"><a href="/pl/Issues.html#marketing">Automatyzacja marketingu</a></div>
+<div class="op"><a href="/pl/Issues.html#sale">Generowanie wartosciowych leadow</a></div>
+<div class="op"><a href="/pl/Issues.html#ceo_2">Machine 2 Machine - uwolnij wartosc biznesowa</a></div>
+<div class="op"><a href="/pl/Issues.html#marketing_2">Monitoring i analiza opinii w Social Media</a></div>
+<div class="op"><a href="/pl/Issues.html#bl_3">Monitoring i analiza otoczenia konkurencyjnego</a></div>
+<div class="op"><a href="/pl/Issues.html#operation">Monitorowanie ryzyka oraz zgodnosci z wymogami</a></div>
+<div class="op"><a href="/pl/Issues.html#ceo">Odzyskanie czasu i zasobow dzieki automatyzacji dzialan</a></div>
+<div class="op"><a href="/pl/Issues.html#it">Outsourcing aplikacji</a></div>
+<div class="op"><a href="/pl/Issues.html#marketing_3">Personalizacja i mikrosegmentacja</a></div>
+<div class="op"><a href="/pl/Issues.html#ceo">Real-time Dashboard z mobilnym dostepem</a></div>
+<div class="op"><a href="/pl/Issues.html#ceo">Revenue Performance Management</a></div>
+<div class="op"><a href="/pl/Issues.html#sale">System wsparcia sprzedazy i Sales Force Automation</a></div>
+<div class="op"><a href="/pl/Issues.html#bl_3">Wydobycie wartosci z danych (Big Data)</a></div>
+<div class="op"><a href="/pl/Issues.html#bl">Wykrywanie okazji oraz zagrozen</a></div>
+<div class="op"><a href="/pl/Issues.html#bl_2">Zwiekszenie Customer Lifetime Value</a></div>
+<div class="op"><a href="/pl/Issues.html#sale_2">Zwiekszenie sprzedazy w eCommerce</a></div>
+<div class="op"><a href="/pl/Issues.html#marketing_2">Zwiekszenie wartosci z CRM</a></div>
+</div>
+<div class="bo last">
+<div class="tit"><a href="/pl/product/BusinessIntelligence.html">PRODUKTY</a></div>
+<div class="op"><a href="/pl/product/BusinessIntelligence.html">Business Intelligence 2.0</a></div>
+<div class="op"><a href="/pl/product/NetMonitorBankingReview.html">NetMonitor Banking Review</a></div>
+<div class="op"><a href="/pl/product/NetMonitor.html">NetMonitor Individual</a></div>
+<div class="op"><a href="/pl/product/MobileEnterprise.html">Mobile Enterprise</a></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+var baseService = 'http://expandi.net';
+var baseUrl = 'http://expandi.net/pl';
+var baseDomain = 'expandi.net';
+var baseThema = 'classic';
+var isGuest = '1';
+
+/*]]>*/
+</script>
+</body>
+
+
+<script type="text/javascript">
+INCLUDE.T = {
+tel_kom : 'tel. kom.',
+tel : 'tel.',
+faks : 'faks.',
+contact_pls : 'Prosze o kontakt'
+}
+</script>
+
+
+
+<script type="text/javascript">
+
+var google_conversion_id = 1055166283;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1055166283/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</html>

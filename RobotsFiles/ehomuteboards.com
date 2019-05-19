@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /pl/wsparcie-lista/
+Disallow: /pl/produkty-lista/
+Disallow: /pl/realizacje/public-spaces/
+Disallow: /pl/realizacje/restauracja/
+Disallow: /pl/realizacje/szkola/
+Disallow: /pl/realizacje/biuro/
+Disallow: /pl/realizacje/dom/
+Disallow: /pl/panele-scienne-propozycje-zastosowania/panel-eho-wzornictwo/
+Disallow: /pl/panele-scienne-propozycje-zastosowania/panel-scienny-eho/
+Disallow: /pl/panele-scienne-propozycje-zastosowania/panel-scienny/
+Disallow: /pl/panele-3d-nowoczesny-trend-ozdabiania-scian/panel-eho-3d/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://ehomuteboards.com/pl/sitemap.xml.gz

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /*?
+Disallow: /api/
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.css
+Allow: /*.js
+Sitemap: https://www.fxpro.pl/sitemap/pl/sitemap.xml

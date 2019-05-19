@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /app/
+Disallow: /store_closed.html
+Disallow: /index.php?dispatch=product_features*
+Disallow: /wishlist-view
+Disallow: /index.php?dispatch=products.picker*
+Disallow: /index.php?dispatch=orders.search
+Disallow: /index.php?dispatch=tags.summary
+Disallow: /index.php?dispatch=profile*
+Disallow: /index.php?dispatch=events*
+Disallow: /auth-loginform*
+Disallow: /index.php?dispatch=auth.recover_password
+Disallow: /profiles-add-pl*
+Disallow: /checkout-cart
+Disallow: /index.php?dispatch=checkout*
+Disallow: /checkout-checkout
+Disallow: /index.php?dispatch=checkout.cart*
+Disallow: /regulamin-okapykuchenne.html
+Disallow: /index.php?dispatch=auth.login_form*
+

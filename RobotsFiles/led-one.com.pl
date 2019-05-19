@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Admin/
+Disallow: /Edycja
+Disallow: /Logowanie
+Disallow: /Zmiana-hasla
+Allow: /Produkty
+Allow: /Katalog
+Allow: /Kontakt
+Allow: /Regulamin

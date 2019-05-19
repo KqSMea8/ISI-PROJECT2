@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<meta content="" name="keywords" />
+<meta content="" name="description" />
+<title>ArsVision - Digital Agency</title>
+<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="css/style.css" rel="stylesheet" />
+<!--[if lt IE 9]>
+<script src="js/ie.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="page">
+<header class="page-header">
+<div class="container">
+<a class="logo" href="index.html"></a>
+<div class="panel">
+<ul class="contact-details">
+<li>
+hello@ars.vision
+</li>
+<li>
++48 794 079 729
+</li>
+</ul>
+<button class="nav-toggle" type="button"></button>
+</div>
+</div>
+</header>
+<div class="sidebar">
+<div class="sidebar-content flex-container">
+<button class="nav-close" type="button"></button>
+<div class="flex-block">
+<a class="logo" href="index.html"></a>
+</div>
+<div class="flex-block">
+<ul class="sidebar-nav">
+<li>
+<a href="work.html">Work</a>
+</li>
+<li>
+<a href="contact.html">Contact</a>
+</li>
+</ul>
+</div>
+<div class="flex-block">
+<div class="contact-details">
+<div class="dl">
+<div class="dt">
+Talk to us
+</div>
+<div class="dd">
+hello@ars.vision
+</div>
+</div>
+<div class="dl">
+<div class="dt">
+Telephone number
+</div>
+<div class="dd">
++48 794 079 729
+</div>
+</div>
+<div class="dl">
+<div class="dt">
+Address
+</div>
+<div class="dd">
+60-461 Poznan
+</div>
+<div class="dd">
+ul. Teokryta 35
+</div>
+</div>
+<ul class="social">
+<li>
+<a href="https://twitter.com/ars_vision" target="_blank"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://www.facebook.com/Ars-Vision-1094259237291419/" target="_blank"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/10525594" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+<li>
+<a href="https://www.instagram.com/arsvision/" target="_blank"><i class="fa fa-instagram"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="page-body">
+<div class="case welcome-slider">
+<div class="swiper-container" id="slider-1">
+<div class="swiper-wrapper">
+<div class="swiper-slide imgLiquidFill">
+<img alt="Obolon" src="public/slides/obolon.jpg" />
+<div class="caption">
+<div class="title">
+Obolon
+</div>
+<div class="desc">
+1st Ukrainian beer
+</div>
+<a class="btn btn-white" href="obolon.html">See more </a>
+</div>
+</div>
+<div class="swiper-slide imgLiquidFill">
+<img alt="Expo 2017" src="public/slides/expo2017.jpg" />
+<div class="caption">
+<div class="title">
+Expo 2017
+</div>
+<div class="desc">
+Future Energy
+</div>
+<a class="btn btn-white" href="expo2017.html">See more</a>
+</div>
+</div>
+<div class="swiper-slide imgLiquidFill">
+<img alt="Jakub Staszczyk, Attorney at Law" src="public/slides/kancelaria.jpg" />
+<div class="caption">
+<div class="title">
+JS
+</div>
+<div class="desc">
+Jakub Staszczyk, Attorney at Law
+</div>
+<a class="btn btn-white" href="cuba.html">See more</a>
+</div>
+</div>
+<div class="swiper-slide imgLiquidFill">
+<img alt="Brovary product photography" src="public/slides/brovary.jpg" />
+<div class="caption">
+<div class="title">
+Brewery
+</div>
+<div class="desc">
+Brand Photography
+</div>
+<a class="btn btn-white" href="brovary.html">See </a>
+</div>
+</div>
+<div class="swiper-slide imgLiquidFill">
+<img alt="Product photography" src="public/slides/food.jpg" />
+<div class="caption">
+<div class="title">
+Food
+</div>
+<div class="desc">
+Photography
+</div>
+<a class="btn btn-white" href="food.html">See more	  </a>
+</div>
+</div>
+<div class="swiper-slide imgLiquidFill">
+<img alt="soon" src="public/slides/soon.jpg" />
+<div class="caption">
+<div class="title">
+Linivit
+</div>
+<div class="desc">
+Baby wound protection
+</div>
+<span class="btn btn-white" >soming soon</span>
+</div>
+</div>
+</div>
+<div class="swiper-button-prev swiper-button-white">
+<span></span>
+</div>
+<div class="swiper-button-next swiper-button-white">
+<span></span>
+</div>
+</div>
+</div>
+
+<div class="case ourtext">
+<div class="row">
+<div class="ourtext_caption">
+<h2><span class="thin">We are</span> digital agency</h2>
+</div>
+<div class="ourtext_content">
+<h3>and we offer</h3>
+<div class="ourtext_columnitem">
+<ul>
+<li>Business process analysis and automatization</li>
+<li>Customized CRM, ERP  </li>
+<li>E-learning platforms</li>
+<li>E-commerce</li>
+<li>Advanced Web Portals</li>
+<li>Mobile Apps </li>
+<li>Smart devices				</li>
+</ul>
+</div>
+<div class="ourtext_columnitem">
+<ul>
+<li>Art Direction</li>
+<li>Logo, Brand Identity,</li>
+<li>Photography, Illustration,</li>
+<li>Video Advertising</li>
+<li>Motion Graphics (3D)</li>
+<li>Interaction Design</li>
+<li>Graphic</li>
+<li>WEB Design, UI/UX</li>
+</ul>
+</div>
+<div class="ourtext_columnitem">
+<ul>
+<li>Data migration </li>
+<li>Server administration</li>
+<li>IT Audit</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="ourtext_quote">
+<div class="ourtext_quotepad">
+<div class="border">Perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away ...</div>
+<p>Antoine de Saint Exupery</p>
+</div>
+<div class="clear">&#160;</div>
+</div>
+</div>
+</div>
+
+<div class="case clients">
+<div class="row">
+<div class="caption-wrap">
+<h2>
+You may know some of our clients
+</h2>
+</div>
+<div class="clients-list">
+<ul>
+<li>
+<img alt="Obolon" height="200" src="public/clients/logo_obolon.png" width="200" />
+</li>
+<li>
+<img alt="Allegro" height="200" src="public/clients/logo_allegro.png" width="200" />
+</li>
+<li>
+<img alt="Welamx" height="200" src="public/clients/logo_welmax.png" width="200" />
+</li>
+<li>
+<img alt="Szkola policji" height="200" src="public/clients/logo_policja.png" width="200" />
+</li>
+<li>
+<img alt="YES" height="200" src="public/clients/logo_yes.png" width="200" />
+</li>
+<li>
+<img alt="InBev" height="200" src="public/clients/logo_inbev.png" width="200" />
+</li>
+<li>
+<img alt="Kreativia" height="200" src="public/clients/logo_kreativia.png" width="200" />
+</li>
+<li>
+<img alt="OEG" height="200" src="public/clients/logo_oeg.png" width="200" />
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="case feedback">
+<div class="fieldset">
+<form action="emails.php" method="post">
+<input name="email" placeholder="Leave your email address" type="text" /><button type="submit"><i class="fa fa-angle-right"></i></button>
+</form>
+</div>
+<div class="desc">
+For recovering best design innovtion, and business links on the web
+</div>
+</div>
+</div>
+<footer class="page-footer">
+<div class="wrap">
+<div class="row">
+<div class="logo-wrap">
+<a class="logo" href="#"></a>
+</div>
+<div class="contact-details">
+<div class="contact-block">
+<div class="dl">
+<div class="dt">
+Talk to us
+</div>
+<div class="dd">
+<a href="mailto:hello@ars.vision">hello@ars.vision</a>
+</div>
+</div>
+<div class="dl">
+<div class="dt">
+Office
+</div>
+<div class="dd">
+<a href="mailto:office@ars.vision">office@ars.vision</a>
+</div>
+</div>
+</div>
+<div class="contact-block">
+<div class="dl">
+<div class="dt">
+Telephone number
+</div>
+<div class="dd">
++48 794 079 729
+</div>
+</div>
+<div class="dl">
+<div class="dt">
+Address
+</div>
+<div class="dd">
+60-461 Poznan
+</div>
+<div class="dd">
+ul. Teokryta 35
+</div>
+</div>
+</div>
+<div class="contact-block">
+<div class="dl">
+<div class="dt">
+Let's be friends
+</div>
+<ul class="social">
+<li>
+<a href="https://twitter.com/ars_vision" target="_blank"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://www.facebook.com/Ars-Vision-1094259237291419/" target="_blank"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/10525594" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+<li>
+<a href="https://www.instagram.com/arsvision/" target="_blank"><i class="fa fa-instagram"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="copyright">
+(c) 2016 Ars-Vision
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="js/vendor.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
+

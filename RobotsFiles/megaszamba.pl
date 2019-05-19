@@ -1,0 +1,12 @@
+User-agent: Mediapartners-Google
+Disallow: /
+User-agent: Googlebot-News
+Disallow: /
+User-Agent: rogerbot
+Disallow: /
+User-Agent: AhrefsBot
+Disallow: /
+User-Agent: ia_archiver
+Disallow: /
+User-Agent: *
+allow: /

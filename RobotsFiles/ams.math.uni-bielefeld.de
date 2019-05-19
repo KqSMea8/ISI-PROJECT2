@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Allow: /mathscinet/MRAuthorID
+Allow: /mathscinet/search.html
+Crawl-delay: 10
+

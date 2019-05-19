@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /oc-admin/
+
+User-agent: *
+Disallow: /
+user-agent: AhrefsBot
+disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Slurp
+Disallow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: bingbot
+Allow: /

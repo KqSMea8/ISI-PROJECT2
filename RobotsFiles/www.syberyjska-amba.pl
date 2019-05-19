@@ -1,0 +1,3 @@
+User-agent: CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+Disallow: /
+

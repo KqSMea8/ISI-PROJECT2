@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /static/lernsoftware/
+Sitemap: https://www.toll-collect.de/sitemap.xml
+Sitemap: https://www.toll-collect.de/static/de/global_content/sitemap.xml
+

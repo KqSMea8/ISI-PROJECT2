@@ -1,0 +1,1 @@
+Crawl-Delay: 10

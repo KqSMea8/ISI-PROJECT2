@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /2016/wp-admin/
+Allow: /2016/wp-admin/admin-ajax.php
+
+
+Sitemap: http://kacper.woryna.pl/sitemap.xml.gz
+

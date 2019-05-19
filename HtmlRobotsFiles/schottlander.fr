@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="fr"
+<head>
+<meta charset="utf-8">
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<![endif]-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="DCW editions est un editeur de luminaires et de mobilier. Des objets honnetes, bien penses, bien dessines, bien fabriques."/>
+<meta property="og:title" content="DCW editions - Paris" />
+<meta property="og:description" content="DCW editions est un editeur de luminaires et de mobilier. Des objets honnetes, bien penses, bien dessines, bien fabriques."/>
+<meta property="og:image" content="http://dcw-editions.fr/storage/img/app/logos/logo-dcw_black.svg" />
+
+<link rel="icon" type="image/png" href="http://dcw-editions.fr/storage/favicon.png" />
+
+<!--[if lte IE 9]>
+<script src="http://dcw-editions.fr/storage/html5shiv.min.js"></script>
+<![endif]-->
+
+<!-- CSRF Token -->
+<meta id="token" name="csrf-token" content="TNB8hz7ZklGzr0sVsBW6yNiuFf3hhaQpknltVrUD">
+
+<title>DCW editions - Paris</title>
+
+<link rel="stylesheet" href="/css/front.css?id=dd21faea357180ffac12">
+
+</head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29533225-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-29533225-1');
+</script>
+<body>
+<div id="front" v-cloak>
+<transition appear name="fade" mode="out-in">
+<div>
+<component is="site-header" inline-template>
+<div id="header" :class="{'regular-bg': !isHome}">
+<div class="menu-button" @click="toggleJumbo">
+<div class="menu-button__hamburger">
+<div class="barre left short" :class="{'regular-bg': !isHome}"></div>
+<div class="barre left medium" :class="{'regular-bg': !isHome}"></div>
+<div class="barre left" :class="{'regular-bg': !isHome}"></div>
+</div>
+<div class="menu-button__text" :class="{'regular-bg': !isHome}">Menu</div>
+</div>
+
+<div class="logo">
+<a href="/">
+<img class="logo-front-white" src="http://dcw-editions.fr/storage/img/app/logos/logo-dcw_white.svg" alt="">
+<img class="logo-front-black" src="http://dcw-editions.fr/storage/img/app/logos/logo-dcw_black.svg" alt="">
+</a>
+</div>
+</div>
+</component>
+<jumbo-menu inline-template>
+<div id="jumbo-menu" :class="{open: isOpen}">
+<div class="wrapper">
+<ul class="inner-wrapper">
+<div class="header">
+<div class="close" @click="toggleJumbo">
+<div class="close__hamburger">
+<div class="barre left medium regular-bg"></div>
+</div>
+<div class="close__text">Fermer</div>
+</div>
+
+<div class="logo">
+<a href="/">
+<img src="/storage/img/app/logos/logo-dcw_black.svg" alt="">
+</a>
+</div>
+</div>
+
+<div class="content">
+<div class="left-column">
+<div class="links">
+
+<div class="titre">
+<div class="entete">
+<a class="black" href="/collections">Collections</a>
+<img src="/storage/img/app/plus.svg" v-if="!open.collections && isPhone"  alt="" @click="toggleOpenCollections">
+<img src="/storage/img/app/moins.svg" v-if="open.collections && isPhone" alt="" @click="toggleOpenCollections">
+</div>
+<collections v-if="isPhone" :collections="collections"></collections>
+</div>
+<div class="titre"><a class="black" href="/actualites">Actualites</a></div>
+<div class="titre">
+<div class="entete">
+<a class="black" href="/designers">Designers</a>
+<img src="/storage/img/app/plus.svg" v-if="!open.designers && isPhone"  alt="" @click="toggleOpenDesigners">
+<img src="/storage/img/app/moins.svg" v-if="open.designers && isPhone" alt="" @click="toggleOpenDesigners">
+</div>
+<designers v-if="isPhone" :designers="designers"></designers>
+</div>
+<div class="titre"><a class="black" href="/telechargements">Telechargements</a></div>
+
+<div class="titre"><a class="black" href="/projets">Projets</a></div>
+
+<div class="titre"><a class="black" href="/revendeurs">Revendeurs</a></div>
+
+<div class="titre"><a class="black" href="/apropos">A propos</a></div>
+<div class="titre"><a class="black" href="/contact">Contact</a></div>
+
+<div class="choose-lang">
+<div>Choisissez votre langue</div>
+
+<div class="langues">
+<a
+class="langue"
+:class="{selected: isCurrentLanguage('fr')}"
+rel="alternate"
+hreflang="fr"
+href="http://dcw-editions.fr/fr/collection/4/mantisrobots.txt"
+><span>Fr</span></a>
+<a
+class="langue"
+:class="{selected: isCurrentLanguage('en')}"
+rel="alternate"
+hreflang="en"
+href="http://dcw-editions.fr/en/collection/4/mantisrobots.txt"
+><span>En</span></a>
+</div>
+</div>
+
+</div>
+
+<div class="social">
+<div class="pleaseSubscribe">Inscrivez-vous a notre newsletter</div>
+<newsletter theme="black"></newsletter>
+
+<div class="networks">
+Suivez-nous sur :
+<social-networks theme="black"></social-networks>
+</div>
+</div>
+</div>
+
+<typologies v-if="!isPhone" :typologies="typologies"></typologies>
+
+</div>
+</ul>
+</div>
+</div>
+</jumbo-menu>
+
+<component :is="store.state.page" :data="&quot;&quot;" inline-template>
+<div class="content front" :class="store.state.page">
+<div class="page" id="collection">
+<div class="container">
+<div class="breadcrumb">
+<div class="element"><a href="/collections">Collections</a></div>
+<div class="element"><a :href="hrefCollection" v-text="collection.name"></a></div>
+</div>
+
+<div class="titre-page">
+<div class="barre left right regular-bg"></div>
+<h1 class="text">{{collection.name}}</h1>
+<h2 class="subtitle">{{designer}}</h2>
+</div>
+</div>
+
+<div class="entete-collection" v-if="hasPresentation">
+<div class="wrapper">
+<div class="image">
+<img :src="presentation_image" alt="">
+</div>
+<div class="text">
+<div class="titre" v-html="titre"></div>
+<div class="texte" v-html="texte"></div>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="thumbs-list">
+<modele
+v-for="modele in collection.modeles_visibles"
+:key="modele.id"
+:element="modele"
+:title="modele.name">
+</modele>
+</div>
+</div>
+</div>
+</div>
+</component>
+
+<component is="footer-component" inline-template>
+<div id="footer">
+<div class="content">
+<div class="collections">
+<div class="titre">Collections</div>
+
+<div class="liste">
+<div v-for="collection in store.state.collections">
+<a :href="href(collection)" v-text="textLink(collection)"></a>
+</div>
+</div>
+</div>
+
+<div class="sub-menu">
+
+<div class="titre"><a href="/contact">Contact</a></div>
+
+</div>
+
+<div class="social">
+<div class="call">Inscrivez-vous a notre newsletter</div>
+<newsletter></newsletter>
+
+<div class="networks">
+Suivez-nous sur :
+<social-networks theme="white"></social-networks>
+</div>
+
+<div class="mentions"><a href="/mentions">Mentions legales</a></div>
+</div>
+</div>
+</div>
+</component>
+</div>
+</transition>
+</div>
+<!-- Scripts -->
+<script src="/js/front.js?id=2384673965ce80c3b6ce"></script>
+</body>
+</html>
+

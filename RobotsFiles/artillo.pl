@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cart.html
+Disallow: /cart/
+Disallow: /my/
+Disallow: /mymessage/
+Disallow: /myprofile/
+Disallow: /myorder/
+Disallow: /myshop/
+Disallow: /myproducts/
+Disallow: /myfee/
+Disallow: /zamowienie/

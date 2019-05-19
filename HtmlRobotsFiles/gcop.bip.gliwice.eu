@@ -1,0 +1,181 @@
+<!DOCTYPE html><html lang="pl"><head>
+<title>Podstawowe dane - BIP Gliwickie Centrum Organizacji Pozarzadowych</title>
+<meta charset='utf-8' /><meta name="robots" content="noarchive" />
+<meta name="googlebot" content="noarchive" />
+<link rel="StyleSheet" href="/style/5/style.css" type="text/css" />
+<script src='/js/resize.js'></script></head><body><a id="top"></a>
+<ul class="nav">
+<li><a href="#bippod" tabindex="1">Przejdz do menu podmiotowego</a></li>
+<li><a href="#bipprz" tabindex="2">Przejdz do menu przedmiotowego</a></li>
+<li><a href="#biptxt" tabindex="3">Przejdz do tresci</a></li>
+<li><a href="/mapa_serwisu" tabindex="4">Mapa strony</a></li>
+<li><a href="#bipsrch" onclick="setTimeout(function(){ document.googlesearch.q.focus()},100);" tabindex="5">Przejdz do wyszukiwarki</a></li>
+</ul>
+<div class='cookies'>
+<strong>Wazne: nasza strona wykorzystuje pliki <span lang='en'>Cookies</span></strong><br />
+Korzystanie z tego serwisu internetowego bez zmiany ustawien dotyczacych <span lang='en'>Cookies</span> oznacza, ze beda one zapisane w pamieci urzadzenia.<br />
+<a href='http://bip.gliwice.eu/strona=10562'>Wiecej informacji o <span lang='en'>Cookies</span></a>.
+<br />
+<a href='o_biuletynie?cookies'>Zapoznalem sie z informacja (nie wyswietlaj wiecej tego komunikatu)</a>
+</div>
+<div style='margin:20px auto; width:1000px;'>
+<div class='naglowek'>
+<div style="display:table; height:70px;">
+<div style="border:0px solid; width:60px; display:table-cell; vertical-align:top;">
+<a href="http://gcop.bip.gliwice.eu" title="Przejdz na strone glowna serwisu"><img alt="Logo BIP" src="/style/1/images/bip.gif" style="width: 56px; height: 63px; margin-left: 5px; margin-right: 5px;" /></a></div>
+<div style="border:0px solid; width:540px; display:table-cell; vertical-align:top;">
+<h1>
+<strong><a href="http://gcop.bip.gliwice.eu" title="Przejdz na strone glowna serwisu"><span style="font-size:10pt;">biuletyn<br />
+informacji publicznej</span><br />
+<span style="font-size:14pt;">Gliwickie Centrum Organizacji Pozarzadowych</span></a></strong></h1>
+</div>
+<div style="border:0px solid; width:400px; text-align:right; display:table-cell; vertical-align:top;">
+<div>
+<a href="/mapa_serwisu">Mapa serwisu</a> | <a href='http://kontrast.gcop.bip.gliwice.eu/robots.txt'>Wysoki kontrast</a></div>
+<div>
+<div class='skipResize' style='font-size:10pt;'>
+Rozmiar strony:
+<a href='#' title='pomniejszenie elementow na stronie' style='font-size:8pt;' onclick='pomniejsz();'>A-<span class='v_hidden'>pomniejszenie elementow na stronie</span></a>
+<a title='domyslny rozmiar elementow na stronie' style='font-size:11pt;' href='/robots.txt'>A<span class='v_hidden'>domyslny rozmiar elementow na stronie</span></a>
+<a title='powiekszenie elementow na stronie' href='#' style='font-size:14pt;' onclick='powieksz();'>A+<span class='v_hidden'>powiekszenie elementow na stronie</span></a>
+</div></div>
+<div>
+<a id='bipsrch'></a>
+<form name='googlesearch' action='http://gcop.bip.gliwice.eu'>
+<label for='q'>Wyszukaj: </label>
+<input name='q' id='q' value="" />
+<input type='submit' value='szukaj' />
+</form></div>
+</div>
+</div>
+
+<div style="padding:0px; margin:0px; background-image:url('/style/1/images/naglowek.gif'); width:1000px; height:55px;">
+</div>
+
+</div>
+<div class='strona_glowna'>
+<div class='menu_lewe gradient'>
+<a id='bippod'></a><div class='tytul_center'><h2><strong>MENU PODMIOTOWE</strong></h2></div>
+<ul><li class='menu_pod'><a href='/podstawowe_dane'>Podstawowe dane</a></li><li class='menu_pod'><a href='/zakres_dzialania'>Zakres dzialania</a></li><li class='menu_pod'><a href='/struktura_organizacyjna'>Struktura organizacyjna</a></li><li class='menu_pod'><a href='/podstawa_prawna'>Podstawa prawna</a></li><li class='menu_pod'><a href='/dostep_do_informacji_publicznych'>Dostep do informacji publicznych</a></li><li class='menu_pod'><a href='/ponowne_wykorzystywanie_informacji'>Ponowne wykorzystywanie informacji</a></li><li class='menu_pod'><a href='/komunikaty'>Komunikaty</a></li><li class='menu_pod'><a href='/inspektor_ochrony_danych'>Informacja o ochronie danych osobowych</a></li></ul></div>
+<div class='strona_srodek'>
+<div class='strona_tytul'><h2><strong>Podstawowe dane&nbsp;</strong></h2>
+<div style='position:absolute; top:2px; right:0px;'><a id='pdf' href='#' onclick="var c=window.confirm('Czy chcesz wygenerowac pliku PDF z zawartoscia strony ? W zaleznosci od ilosci informacji na stronie moze to chwile potrwac.'); if (c==true) { window.location='/robots.txt,pdf'; }"><img src='/style/1/images/drukuj.gif' alt='wydruk do pliku pdf' style='border:0; width:19px; height:20px;' title='wydruk do pliku pdf [nowe okno]'/></a></div></div><div id='strona_zawartosc' class='strona_zawartosc'><a id='biptxt'></a><!--START--><div style="text-align: justify;">
+<br />
+Biuletyn Informacji Publicznej (BIP) jest urzedowym publikatorem teleinformatycznym, skladajacym sie z ujednoliconego systemu stron w og&oacute;lnodostepnej sieci internetowej. BIP zostal stworzony w celu powszechnego udostepniania informacji publicznych.<br />
+&nbsp;</div>
+<div style="text-align: center;">
+<hr />
+<img src='/pub/jednostki/logo/gcop.png' alt='logo jednostki' title='logo jednostki' width="295" height="269" /></div>
+<p>
+&nbsp;</p>
+<div style="text-align: center;">
+<strong>Gliwickie Centrum Organizacji Pozarzadowych</strong><br />
+ul. Zwyciestwa 1, 44-100 Gliwice<br />
+<br />
+<br />
+<strong>&nbsp; &nbsp;Telefon</strong>.:&nbsp;<div>
+Sekretariat&nbsp; (biuro Dyrektora, administracja), ul. Zwyciestwa 1, II pietro; 32 232-04-77<br />
+Strefa Aktywnosci Spolecznej (SAS), ul. Jagiellonska 21; 32 238-24-55 oraz w CKS &quot;Labedz&quot;, ul. Partyzant&oacute;w 25; 537-037-265</div>
+<div>
+Centrum Organizacji Kulturalnych (COK), ul. Studzienna 6; 32 775-20-53<br />
+Dom Aktywnej Mlodziezy (DAM), ul. Barlickiego 3; 32 335-41-05<br />
+Centrum Wolontariatu (CW), ul. Zwyciestwa 1; 32 775-01-78<br />
+Inkubator Spolecznej Przedsiebiorczosci (ISP), ul. Kosciuszki 35; 32 238-81-67</div>
+<br />
+<strong>&nbsp; &nbsp; fax</strong>:&nbsp;32 232-04-77<br />
+<strong>e-mail</strong>:&nbsp;<a href="mailto:gcop@gcop.gliwice.pl">gcop@gcop.gliwice.pl</a></div>
+<p>
+&nbsp;</p>
+<div style="text-align: center;">
+<strong>Strona internetowa</strong>:&nbsp;<a href="http://www.gcop.gliwice.pl" target="_blank">www.gcop.gliwice.pl</a><br />
+&nbsp;</div>
+<div style="text-align: center;">
+<strong>Godziny pracy</strong>:&nbsp;<p>
+Filie merytoryczne: CW, COK, ISP, SAS&nbsp; od 10.00 do 18.00<br />
+Filia Dom Aktywnej Mlodziezy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; od&nbsp;&nbsp; 6.00 do 21.00<br />
+Administracja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; od&nbsp;&nbsp; 8.00 do 16.00</p>
+</div>
+<hr />
+<div style="text-align: center;">
+<strong>NIP</strong>:&nbsp;631-23-34-122<br />
+<strong>REGON</strong>:&nbsp;277-69-15-41<br />
+<hr />
+</div>
+<div style="text-align: center;">
+<img alt="epuap" src="/pub/html/j/images/epuap.gif" style="width: 159px; height: 80px;" /></div>
+<div style="text-align: center;">
+<a href="http://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw"><strong>Elektroniczna skrzynka podawcza </strong></a></div>
+<div style="text-align: center;">
+<hr />
+<img alt="red" src="/pub/html/um/images/Redakcja.GIF" style="width: 21px; height: 43px;" /><br />
+<strong>Redaktor BIP</strong><br />
+Anita Koczorek<br />
+<br />
+<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;telefon</strong>: 32 232-04-77&nbsp;<br />
+<strong>&nbsp; &nbsp; &nbsp; &nbsp; fax</strong>: 32 232-04-77<br />
+<strong>&nbsp; &nbsp; e-mail</strong>:&nbsp;<a href="mailto:a.szczecina@gcop.gliwice.pl">a.szczecina@gcop.gliwice.pl</a><br />
+<br />
+<a href="/strona=10144"><strong>Instrukcja<br />
+obslugi Biuletynu</strong></a><br />
+<hr />
+<strong>Informacje publiczne, kt&oacute;re nie zostaly opublikowane w BIP sa udostepniane na wniosek zainteresowanego. </strong><br />
+Zasady udostepniania informacji publicznej oraz zakres podlegajacy udostepnieniu okreslone sa w ustawie o dostepie do informacji publicznej (t.j. Dz. U. z 2014 r., poz. 782). Szczeg&oacute;ly <a href="/dostep_do_informacji_publicznych"><strong>-&gt;kliknij </strong></a><br />
+<hr />
+<img alt="logo bip" src="/pub/html/j/images/logo_bip_n.jpg" style="width: 46px; height: 50px;" /><br />
+<strong>Strona gl&oacute;wna BIP</strong><br />
+<a href="http://www.bip.gov.pl/">www.bip.gov.pl</a></div>
+<hr />
+<p>
+<strong>&nbsp;<img alt="par" src="/pub/html/um/images/Paragraf.gif" style="width: 20px; height: 36px;" />&nbsp;</strong><strong>Podstawa prawna Biuletynu Informacji Publicznej</strong></p>
+<div style="text-align: justify;">
+<strong><a href="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20011121198">Ustawa z 6 wrzesnia 2001 roku o dostepie do informacji publicznej </a></strong><strong><a href="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20011121198">(t.j. Dz. U. 2014 poz. 782)</a></strong> w mysl art. 4 naklada m.in. na organy wladzy publicznej obowiazek udostepniania informacji dotyczacych spraw publicznych oraz ustala zasady i tryb udostepniania tych informacji. Na mocy ustawy organy wladzy publicznej oraz grupy samorzadowe i zawodowe maja obowiazek stworzenia internetowego Biuletynu Informacji Publicznej (BIP).<br />
+<br />
+Przepisy wykonawcze:<br />
+<br />
+<strong><a href="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20070100068&amp;min=1">Rozporzadzenie Ministra Spraw Wewnetrznych i Administracji w sprawie Biuletynu Informacji Publicznej z dnia 18 stycznia 2007 r.(Dz.U. z 2007 r. Nr 10, poz.68 )</a></strong><br />
+&nbsp;</div>
+<div style="text-align: justify;">
+<a href="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20120000526"><strong>Rozporzadzenie Rady Ministr&oacute;w z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjnosci, minimalnych wymagan dla rejestr&oacute;w publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagan dla system&oacute;w teleinformatycznych.</strong></a></div>
+</div><br /><br /><!--STOP--></div>
+<div class='menu_prawe gradient'>
+<a id='bipprz'></a><div class='tytul_center'><h2><strong>MENU PRZEDMIOTOWE</strong></h2></div>
+<ul><li class='menu_prz'><a href='/zalatwiane_sprawy'>Zalatwiane sprawy</a></li><li class='menu_prz'><a href='/mienie_i_finanse'>Mienie i finanse</a></li><li class='menu_prz'><a href='/wyniki_kontroli'>Wyniki kontroli</a></li><li class='menu_prz'><a href='/rejestry_i_ewidencje'>Rejestry i ewidencje</a></li><li class='menu_prz'>Ogloszenia</li><li class='podmenu_prz'><a href='/ogloszenia/nabory'>Nabory</a></li><li class='podmenu_prz'><a href='/ogloszenia/oswiadczenia_majatkowe'>Oswiadczenia majatkowe</a></li><li class='podmenu_prz'><a href='/ogloszenia/zamowienia_publiczne'>Zamowienia publiczne</a></li><li class='menu_prz'><a href='/inne_przetargi'>Inne przetargi</a></li></ul></div>
+</div>
+<div style='clear:both;'></div><div style='font-size:8pt; width:1000px;'><div class='menu_lewe'>
+&nbsp;</div>
+<div class='strona_srodek'>
+<div style='float:left;' class='rejestr_zmian'>&nbsp;<a href='o_biuletynie,rejestr_zmian'>rejestr zmian</a>&nbsp;</div><div style='float:right;' class='licznik_odwiedzin'>&nbsp;liczba odslon strony: 376 019&nbsp;</div></div>
+<div class='menu_prawe'>
+&nbsp;</div>
+</div><div style='clear:both;'></div><div class='stopka'>
+<div class='stopka_odstep'></div>
+<div style="display:table; height:100px;">
+<div style="border:0px solid; width:70px; display:table-cell; vertical-align:top;">
+<a href="http://gliwice.eu" target="_blank" title="Przejdz na strone glowna serwisu miejskiego gliwice.eu - link otworzy sie w nowym oknie"><img alt="Logo Samorzadu Gliwice" src="/style/1/images/logo_gliw.gif" style="width: 72px; height: 59px;" /></a></div>
+<div style="border:0px solid; width:430px; display:table-cell; vertical-align:top;font-size:11px;">
+<p>
+Gliwickie Centrum Organizacji Pozarzadowych, ul. Zwyciestwa 1, 44-100 Gliwice</p>
+<p>
+tel. 32 232-04-77, faks 32 232-04-77</p>
+<p>
+<a href='mailto:gcop@gcop.gliwice.pl'>gcop@gcop.gliwice.pl</a></p>
+<p>
+</p>
+</div>
+<div style="border:0px solid; width:120px; display:table-cell; vertical-align:top;">
+</div>
+<div style="border:0px solid; width:220px; display:table-cell; vertical-align:top;font-size:11px;">
+<p>
+Elektroniczna Skrzynka Podawcza</p>
+<p>
+Gliwickiego Centrum Organizacji Pozarzadowych</p>
+<p>
+epuap.gov.pl</p>
+</div>
+<div style="border:0px solid; width:155px; display:table-cell; vertical-align:top;">
+<a href="http://www.epuap.gov.pl" target="_blank" title="Przejdz do portalu EPUAP - link otworzy sie w nowym oknie"><img alt="Logo systemu EPUAP" src="/style/1/images/epuap.gif" style="width: 155px; height: 69px; float: right;" /></a></div>
+</div>
+<div style="clear:both;border:0px solid; text-align:center;">
+</div>
+</div>
+</div></body></html>

@@ -1,0 +1,81 @@
+User-agent: *
+
+Disallow: /config
+Disallow: /controllers
+Disallow: /elements
+Disallow: /helpers
+Disallow: /jobs
+Disallow: /languages
+Disallow: /libraries
+Disallow: /mail
+Disallow: /models
+Disallow: /single_pages
+Disallow: /tools
+
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /common/
+Disallow: /contents/
+Disallow: /dwn/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /lang/
+Disallow: /pdf/
+Disallow: /plugins/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /tmp_pdf/
+
+Allow: /skins/progeSOFT/upl/
+Disallow: /skins/progeSOFT/upl/admin_stuff/
+Disallow: /skins/progeSOFT/upl/dlr_resources/
+Disallow: /skins/progeSOFT/upl/file/
+Disallow: /skins/progeSOFT/upl/img/
+Disallow: /skins/progeSOFT/upl/imgProd_/
+Disallow: /skins/progeSOFT/upl/pc_2008_Pro/
+Disallow: /skins/progeSOFT/upl/pc_2008_Std/
+Disallow: /skins/progeSOFT/upl/pc_2009_Pro/
+Disallow: /skins/progeSOFT/upl/pc_2009_Std/
+Disallow: /skins/
+
+Disallow: /icad/
+Disallow: /mantis/
+
+Disallow: /cz/architecture/icare
+Disallow: /cz/progecad/icare
+Disallow: /de/architecture/icare
+Disallow: /de/progecad/icare
+Disallow: /en/architecture/icare
+Disallow: /en/progecad/icare
+Disallow: /es/architecture/icare
+Disallow: /es/progecad/icare
+Disallow: /fr/architecture/icare
+Disallow: /fr/progecad/icare
+Disallow: /hu/architecture/icare
+Disallow: /hu/progecad/icare
+Disallow: /it/architecture/icare
+Disallow: /it/progecad/icare
+Disallow: /pl/architecture/icare
+Disallow: /pl/progecad/icare
+Disallow: /rs/architecture/icare
+Disallow: /rs/progecad/icare
+Disallow: /ru/architecture/icare
+Disallow: /ru/progecad/icare
+Disallow: /tw/architecture/icare
+Disallow: /tw/progecad/icare
+Disallow: /zh/architecture/icare
+Disallow: /zh/progecad/icare
+
+Disallow: /pl/products?page=trial_req&reset=&dwn=&pid=11&lang=ita
+Disallow: /?gclid=CJSCqfbGsq0CFY1YmAodbnTxkw
+Disallow: /it/?gclid=CJSCqfbGsq0CFY1YmAodbnTxkw
+
+Sitemap: http://www.progesoft.com/dyn/sitemap.xml
+Disallow: /blocks/*.php$
+Disallow: /blocks/*.xml$
+Disallow: /concrete/*.php$
+Disallow: /concrete/*.xml$
+Disallow: /packages/*.php$
+Disallow: /packages/*.xml$
+Disallow: /updates/*.php$
+Disallow: /updates/*.xml$

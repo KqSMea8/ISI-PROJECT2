@@ -1,0 +1,31 @@
+Sitemap: https://www.london-luton.co.uk/sitemap.xml
+User-agent: *
+Disallow: /App_Data/
+Disallow: /bin/
+Disallow: /Handlers/
+Disallow: /corporate/forms
+Disallow: /*tender=*
+Disallow: /*CMSPages*
+Disallow: /*params=*
+Disallow: /*localize=*
+Disallow: /*hstc=*
+Disallow: /*width=*
+Disallow: /*category=
+Disallow: /*returnurl=
+Disallow: /*guid=
+Disallow: /*tag=*
+Disallow: /*page*
+Disallow: /*pclass=/
+Disallow: /CMSFormControls/
+Noindex: /*tender=*
+Noindex: /*CMSPages*
+Noindex: /*returnurl=*
+Noindex: /*category=*
+Noindex: /*params=*
+Noindex: /*localize=*
+Noindex: /*hstc=*
+Noindex: /*width=*
+
+User-agent: CCBot/2.0
+Disallow: /
+

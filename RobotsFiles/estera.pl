@@ -1,0 +1,29 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+Disallow: /*/fav/add
+Disallow: /*/p/comment/add
+Disallow: /*/p/mail/recommend
+Disallow: /*/p/q
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/basket
+Disallow: /*/searchquery
+Disallow: /pl/i/Zwroty-i-reklamacje/7
+Disallow: /pl/i/Pytania-i-odpowiedzi/1
+Disallow: /pl/i/Regulamin/3
+Disallow: /pl/i/Formy-platnosci/10
+Disallow: /Czas-i-koszty-dostawy
+Disallow: /pl/i/Czas-realizacji-zamowienia/5
+Disallow: /pl/i/Polityka-prywatnosci/11
+Disallow: /pl/i/Jak-kupowac/2
+Disallow: /*/default/*
+Disallow: /*/producer/*
+Disallow: /*/new/*
+

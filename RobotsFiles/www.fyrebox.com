@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /dashboard/
+Disallow: /games/
+Sitemap: https://www.fyrebox.com/sitemap.xml
+Sitemap: https://www.fyrebox.com/sitemap-ar.xml
+Sitemap: https://www.fyrebox.com/sitemap-da.xml
+Sitemap: https://www.fyrebox.com/sitemap-de.xml
+Sitemap: https://www.fyrebox.com/sitemap-el.xml
+Sitemap: https://www.fyrebox.com/sitemap-es.xml
+Sitemap: https://www.fyrebox.com/sitemap-fr.xml
+Sitemap: https://www.fyrebox.com/sitemap-he.xml
+Sitemap: https://www.fyrebox.com/sitemap-it.xml
+Sitemap: https://www.fyrebox.com/sitemap-ja.xml
+Sitemap: https://www.fyrebox.com/sitemap-ko.xml
+Sitemap: https://www.fyrebox.com/sitemap-ms.xml
+Sitemap: https://www.fyrebox.com/sitemap-nl.xml
+Sitemap: https://www.fyrebox.com/sitemap-pl.xml
+Sitemap: https://www.fyrebox.com/sitemap-pt.xml
+Sitemap: https://www.fyrebox.com/sitemap-ru.xml
+Sitemap: https://www.fyrebox.com/sitemap-th.xml
+Sitemap: https://www.fyrebox.com/sitemap-tr.xml
+Sitemap: https://www.fyrebox.com/sitemap-vi.xml
+Sitemap: https://www.fyrebox.com/sitemap-zh.xml
+

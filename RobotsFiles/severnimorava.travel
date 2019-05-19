@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /CMSHelp/
+Disallow: /CMSSiteManager/
+Disallow: /CMSPages/
+Disallow: /CMSDesk/
+Disallow: /CMSMessages/
+Disallow: /Admin/
+Sitemap: http://severnimorava.travel/sitemap.xml

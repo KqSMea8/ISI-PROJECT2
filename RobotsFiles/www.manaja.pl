@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /index.php
+Disallow: /cms-old/
+Disallow: /cms-old/pix/top.swf
+Disallow: /index.php?mod=content&path=63
+Disallow: /index.php?mod=content&path=36
+Disallow: /cms-old/form_kontakt.php
+Disallow: /marquee>
+Disallow: /marquee%3E
+Disallow: /index.php?mod=content&path=35&PHPSESSID=3a0c6e5b5d49e46f94a0ba26c1b28b7c
+Disallow: /index.php?mod=content&path=34&PHPSESSID=5029ed095878239433c05fbac7f646cc
+Sitemap: http://www.manaja.pl/sitemap.xml
+Sitemap: http://manaja.pl/sitemap.xml

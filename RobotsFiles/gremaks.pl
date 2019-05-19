@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /.private/
+Disallow: /cl/
+Disallow: /cms/
+Disallow: /cms_de/
+Disallow: /css/
+Disallow: /funkcje/
+Disallow: /grafika/
+Disallow: /js/

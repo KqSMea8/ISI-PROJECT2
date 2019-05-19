@@ -1,0 +1,788 @@
+
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="pl">
+
+<head><meta charset="utf-8" /><title>
+
+Strona, ktorej szukasz nie zostala znaleziona
+
+</title><meta name="description" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /><link rel="icon" type="image/x-icon" href="/SiteCollectionImages/Tauron24/imgs/sh135-favicon.ico" /><meta http-equiv="X-UA-Compatible" content="IE=9" /><link rel="stylesheet" type="text/css" href="/Style%20Library/pl-PL/Themable/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1045/styles/Themable/corev4.css?rev=i8VhYYP670FUc3%2B9UrAmyw%3D%3D"/>
+
+<script type="text/javascript">
+var _fV4UI = true;
+</script>
+<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1045/init.js?rev=%2FA62XXAbgR72bNgOw1fqjw%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=pu9UZF-Ghe2T6RO2nIzmtqODjYVh3BykgFSy5DSIU3YjuUQ-6UI0HRaxi49Es5wCkqSYY7StJZWwVRCWlQmcHmWwyMi_lAGns1ShCVVtq4An0kyOGMEXRL6-88GqO6HlmD5wJ-si6nmfu3CaxFo7RXcIdxU1&amp;t=fffffffff9d85fa6"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+// ]]>
+</script>
+
+
+
+<script src='/Style Library/Tauron24/js/jquery.min.js'></script>
+<link rel="stylesheet" type="text/css" href="/Style Library/Tauron24/css/fonts/fonts.css" /><link rel="stylesheet" type="text/css" href="/Style Library/Tauron24/css/static.css" />
+<!--[if lt IE 9]>
+<script src='/Style Library/Tauron24/js/respond.min.js'></script>
+<![endif]-->
+<script src='/Style Library/Tauron24/js/js.cookie.js'></script>
+<script src='/Style Library/Tauron24/js/jquery.flexslider-min.js'></script>
+<script type="text/javascript">
+if (typeof _IsLoggedIn === 'undefined' || !_IsLoggedIn) {
+$('head').append('<link rel="stylesheet" type="text/css" href="/Style Library/Tauron24/css/sh135fix.css" />');
+}
+</script>
+
+
+<script src='/Style Library/Tauron24/js/jquery-migrate-1.2.1.min.js'></script>
+<script src='/Style Library/Scripts/jquery-ui-1.8.19.customRWD.min.js'></script>
+<script src='/Style Library/Scripts/tauron-forms.js'></script>
+<script src='/Style Library/Scripts/webapps.js'></script>
+<script src='/Style Library/Scripts/jquery.form.min.js'></script>
+<link rel="stylesheet" type="text/css" href="/Style Library/tauron-forms-styles.css" />
+<style type="text/css">
+.s4-ca {
+margin: 0;
+}
+</style>
+
+
+
+<style type="text/css">
+body #s4-ribbonrow {
+min-height: 0 !important;
+height: auto !important;
+}
+</style>
+
+
+<script type="text/javascript" src="/Style Library/Additional/sh531-functions.js"></script><link href="/Style Library/Additional/sh531-style.css" rel="stylesheet" type="text/css" /><link href="/Style Library/Additional/style3.css" rel="stylesheet" type="text/css" /><link href="/Style Library/Additional/formfix.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Style Library/Additional/viewport-units-buggyfill.js"></script><link href="/Style Library/Additional/ogrzewanie-kiosk.css" rel="stylesheet" type="text/css" /><link href="/Style Library/Additional/style.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Style Library/Additional/functions.js"></script><link href="/Style Library/Additional/atosStyles.css" rel="stylesheet" type="text/css" /><link href="/Style Library/Additional/animations.css" rel="stylesheet" type="text/css" /><link href="/Style Library/Additional/heatcalc.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Style Library/Additional/calculatorgaz.js"></script><script type="text/javascript" src="/Style Library/Additional/jquery.hugo-decoded.typewriter.min.js"></script><script type="text/javascript" src="/Style Library/Additional/cieplozimno.js"></script><script type="text/javascript" src="/Style Library/Additional/sh135-heat-calculator.js"></script><script type="text/javascript" src="/Style Library/Additional/ogrzewanie-kiosk.js"></script><link href="/Style Library/Additional/cieplozimno.css" rel="stylesheet" type="text/css" /><link href="/Style Library/Additional/TAURON24-t24style3.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Style Library/Additional/popups.js"></script><script type="text/javascript" src="/Style Library/Additional/lp-heat-30-05.js"></script><link href="/Style Library/Additional/style2.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Style Library/Additional/viewport-units-buggyfill.hacks.js"></script><link href="/Style Library/Additional/t24style3.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/Style Library/Additional/fancybox/jquery.fancybox.js"></script><meta name="Robots" content="noindex,follow" />
+
+<script type="text/javascript" src="//app.freshmail.com/media/js/libs/fmanalytics.js"></script>
+
+<!-- Page-hiding snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-W7JNZ5X':true});</script>
+
+<!-- Modified Analytics tracking code with Optimize plugin -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-68041840-1', 'auto');
+ga('require', 'GTM-W7JNZ5X');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3V9C5K');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 938556267 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-938556267"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'AW-938556267');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128598986-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-128598986-1');
+</script>
+
+
+
+</head>
+
+<body onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();" class="v4master">
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3V9C5K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<form method="post" action="nie-odnaleziono-strony.aspx?404%3bhttp%3a%2f%2fwww.tauron24.pl%3a80%2frobots.txt" id="aspnetForm">
+<div>
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x8F131D1940E7646836A5994CB6E61CBB64061CFF34E591A14DC94D10A31438373C51933B6298AD9FC9223D973B4C6F9D8F5C7369811E33D510211837963BBD19,24 Apr 2019 16:14:51 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyMTk0MzQwMw9kFgJmD2QWAgIBD2QWBAIBD2QWAgIBD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgcPZBYEAgkPZBYCAgEPZBYEZg9kFgICAQ8WAh4HVmlzaWJsZWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFggeE0NsaWVudE9uQ2xpY2tTY3JpcHQFd2phdmFTY3JpcHQ6Q29yZUludm9rZSgnVGFrZU9mZmxpbmVUb0NsaWVudFJlYWwnLDEsIDExMDIxLCAnaHR0cHM6XHUwMDJmXHUwMDJmd3d3LnRhdXJvbjI0LnBsXHUwMDJmZG9tJywgLTEsIC0xLCAnJywgJycpHhhDbGllbnRPbkNsaWNrTmF2aWdhdGVVcmxkHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsZB4MSGlkZGVuU2NyaXB0BSVUYWtlT2ZmbGluZURpc2FibGVkKDEsIDExMDIxLCAtMSwgLTEpZAIFDxYCHwFoZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAQ9kFgQCBQ9kFgICAQ8QFgIfAWhkFCsBAGQCBw9kFgJmD2QWAmYPFCsAA2RkZGQCCw9kFgYCAg9kFgoCAQ9kFgICAQ9kFgICAQ8WAh4EaHJlZgUZL2RvbS9TdHJvbnkvZGxhLWRvbXUuYXNweGQCAw9kFgICAQ9kFgJmDxYCHgtfIUl0ZW1Db3VudAICFgQCAQ9kFgRmDxUCGS9kb20vU3Ryb255L2RsYS1kb211LmFzcHgMc2gxMzUtYWN0aXZlZAIBDxYCHgRUZXh0BQhEbGEgZG9tdWQCAg9kFgRmDxQrAgIFHC9maXJtYS9TdHJvbnkvZGxhLWZpcm15LmFzcHhkZAIBDxYCHw0FCURsYSBmaXJteWQCBQ9kFgQCAQ9kFgJmDxYCHwwCBRYOZg9kFgJmDxUBDnNoMTM1LW5hdi1tZW51ZAIBD2QWBmYPFQMXc2gxMzUtc3VibWVudS1jb250YWluZXIdL2RvbS9vZmVydGEvU3Ryb255L3N0YXJ0LmFzcHgWc2gxMzUtc3ViLW1lbnUtdHJpZ2dlcmQCAQ8WAh8NBQVQUsSERGQCAw8WAh8NBcUJPGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudSAiPg0KCTxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sdW1uICI+DQoJCTxoNT4NCgkJCVBST0RVS1RZIEVORVJHRVRZQ1pORQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC1wbHVzLWdhei9TdHJvbnkvcHJhZC1wbHVzLWdhei5hc3B4IiA+WllTS0FKIFdJxJhDRUohIC0gUHLEhWQgKyBHYXo8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtei1lbGVrdHJ5a2llbS0yNGgvU3Ryb255L3ByYWQtei1lbGVrdHJ5a2llbS0yNGguYXNweCIgPlByxIVkIHogRWxla3RyeWtpZW0gMjRIPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wcmFkLXotc2Vyd2lzYW50ZW0tMjRoL1N0cm9ueS9wcmFkLXotc2Vyd2lzYW50ZW0tMjRoLmFzcHgiID5QcsSFZCB6IFNlcndpc2FudGVtIDI0SDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vc2Vyd2lzYW50LTI0LXBsdXMvU3Ryb255L3Nlcndpc2FudC0yNGgtcGx1cy5hc3B4IiA+UHLEhWQgeiBTZXJ3aXNhbnRlbSAyNEggUExVUzwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC16LWVrby9TdHJvbnkvcHJhZC16LWVrby5hc3B4IiA+UHLEhWQgeiBFa288L2E+PC9saT4NCgkJPC91bD4NCgk8L2Rpdj48ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51LWNvbHVtbiAiPg0KCQk8aDU+DQoJCQlVU8WBVUdJIERPREFUS09XRQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZWZha3R1cmEvU3Ryb255L2UtZmFrdHVyYS16YW1vdy5hc3B4IiA+ZS1GYWt0dXJhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9jaGNlLXpvc3RhYy1rbGllbnRlbS9wcnp5bGFjemVuaWUtcHJhZHUvU3Ryb255L3ByenlsYWN6ZW5pZS1wcmFkdS5hc3B4IiA+UHJ6ecWCxIVjemFuaWUgZW5lcmdpaTwvYT48L2xpPg0KCQk8L3VsPg0KCTwvZGl2PjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj48YSBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2xsYXBzZSIgaHJlZj0iIyI+endpxYQ8L2E+PGRpdiBjbGFzcz0ic2gxMzUtY2xyIj4NCg0KCTwvZGl2Pg0KPC9kaXY+ZAICD2QWBmYPFQMXc2gxMzUtc3VibWVudS1jb250YWluZXIaL2RvbS9nYXovU3Ryb255L3N0YXJ0LmFzcHgWc2gxMzUtc3ViLW1lbnUtdHJpZ2dlcmQCAQ8WAh8NBQNHQVpkAgMPFgIfDQWACTxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUgc2gxMzUtZ2FzIj4NCgk8ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51LWNvbHVtbiBzaDEzNS1nYXMiPg0KCQk8aDUgY2xhc3M9InNoMTM1LWdhcyI+DQoJCQlQUk9EVUtUWSBHQVpPV0UNCgkJPC9oNT48dWw+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtcGx1cy1nYXovU3Ryb255L3ByYWQtcGx1cy1nYXouYXNweCIgPlpZU0tBSiBXScSYQ0VKISAtIEdheiArIFByxIVkPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9nYXotcG9tb2MtMjRoL1N0cm9ueS9nYXotcG9tb2MtMjRoLmFzcHgiID5HYXpQb21vYyAyNEg8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2dhei1kbGEtZG9tdS9TdHJvbnkvZ2F6LWRsYS1kb211LmFzcHgiID5HYXogZGxhIERvbXU8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3Nlcndpc2FudC1nYXpvd3ktMjRoL1N0cm9ueS9zZXJ3aXNhbnQtZ2F6b3d5LTI0aC5hc3B4IiA+U2Vyd2lzYW50IGdhem93eSAyNEg8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3Nlcndpc2FudC1nYXpvd3ktcGx1cy9TdHJvbnkvc2Vyd2lzYW50LWdhem93eS1wbHVzLmFzcHgiID5TZXJ3aXNhbnQgZ2F6b3d5IDI0SCBQTFVTPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9kaXY+PGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gc2gxMzUtZ2FzIj4NCgkJPGg1IGNsYXNzPSJzaDEzNS1nYXMiPg0KCQkJT0ZFUlRBIFogVVJaxIREWkVOSUVNDQoJCTwvaDU+PHVsPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9nYXotei1rb3RsZW0tZ2F6b3d5bS9TdHJvbnkvZ2F6LXota290bGVtLWdhem93eW0uYXNweCIgPkdheiB6IGtvdMWCZW0gKG9mZXJ0YSBkbGEgS3Jha293YSk8L2E+PC9saT4NCgkJPC91bD4NCgk8L2Rpdj48ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPg0KDQoJPC9kaXY+PGEgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sbGFwc2UiIGhyZWY9IiMiPnp3acWEPC9hPjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj4NCjwvZGl2PmQCAw9kFgZmDxUDF3NoMTM1LXN1Ym1lbnUtY29udGFpbmVyIS9kb20vdXJ6YWR6ZW5pYS9TdHJvbnkvc3RhcnQuYXNweBZzaDEzNS1zdWItbWVudS10cmlnZ2VyZAIBDxYCHw0FC1VSWsSERFpFTklBZAIDDxYCHw0FqQc8ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51ICI+DQoJPGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gIj4NCgkJPGg1Pg0KCQkJT0ZFUlRBIFNQRUNKQUxJU1RZQ1pOQQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZm90b3dvbHRhaWthL1N0cm9ueS9mb3Rvd29sdGFpa2EuYXNweCIgPlRBVVJPTiBGb3Rvd29sdGFpa2E8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2tsaW1hdHl6YWNqYS9TdHJvbnkva2xpbWF0eXphY2phLmFzcHgiID5UQVVST04gS2xpbWF0eXphY2phPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9kaXY+PGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gc2gxMzUtc3BlY2lhbCI+DQoJCTxoNSBjbGFzcz0ic2gxMzUtc3BlY2lhbCI+DQoJCQlPR1JaRVdBTklFDQoJCTwvaDU+PHVsPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9rb3RseS1la29ncm9zemVrL1N0cm9ueS9rb3RseS1uYS1wYWxpd28tc3RhbGUuYXNweCIgPktvdMWCeSBuYSBla29ncm9zemVrPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9vZ3J6ZXdhbmllL1N0cm9ueS9vZ3J6ZXdhbmllLmFzcHgiID5Lb3TFgnkgZ2F6b3dlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wb21wYS1jaWVwbGEvU3Ryb255L3BvbXBhLWNpZXBsYS5hc3B4IiA+UG9tcGEgQ2llcMWCYTwvYT48L2xpPg0KCQk8L3VsPg0KCTwvZGl2PjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj48YSBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2xsYXBzZSIgaHJlZj0iIyI+endpxYQ8L2E+PGRpdiBjbGFzcz0ic2gxMzUtY2xyIj4NCg0KCTwvZGl2Pg0KPC9kaXY+ZAIED2QWBGYPFQMAVWh0dHBzOi8vc2tsZXAudGF1cm9uLnBsP3V0bV9zb3VyY2U9dGF1cm9uMjRQTCZ1dG1fbWVkaXVtPW1lbnUmdXRtX2NhbXBhaWduPWVrb2dyb3N6ZWsAZAIBDxYCHw0FCkVLT0dST1NaRUtkAgUPZBYEZg8VAwAsL2RvbS9zdHJlZmEtb2themppL1N0cm9ueS9zdHJlZmEtb2themppLmFzcHgAZAIBDxYCHw0FDVNUUkVGQSBPS0FaSklkAgYPZBYCAgEPFgIfAWhkAgMPZBYCZg8WAh8MAgUWDGYPZBYCZg8VAQBkAgEPZBYGZg8VAyNzaDEzNS1tb2JpbGUtbWVudS1zdWJtZW51LWNvbnRhaW5lch0vZG9tL29mZXJ0YS9TdHJvbnkvc3RhcnQuYXNweCFzaDEzNS1tb2JpbGUtbWVudS1zdWJtZW51LXRyaWdnZXJkAgEPFgIfDQUFUFLEhERkAgMPFgIfDQXeCjxkaXYgY2xhc3M9InNoMTM1LW1vYmlsZS1tZW51LXN1Ym1lbnUgezB9Ij4NCgk8dWw+DQoJCTxsaSBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tY29udGFpbmVyIj48YSBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tdHJpZ2dlciIgaHJlZj0iIyI+UFJPRFVLVFkgRU5FUkdFVFlDWk5FPC9hPjxkaXYgY2xhc3M9InNoMTM1LWlubmVyLXN1Ym1lbnUtYWNjb3JkaW9uLWNvbnRlbnQiPg0KCQkJPHVsPg0KCQkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC1wbHVzLWdhei9TdHJvbnkvcHJhZC1wbHVzLWdhei5hc3B4IiA+WllTS0FKIFdJxJhDRUohIC0gUHLEhWQgKyBHYXo8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtei1lbGVrdHJ5a2llbS0yNGgvU3Ryb255L3ByYWQtei1lbGVrdHJ5a2llbS0yNGguYXNweCIgPlByxIVkIHogRWxla3RyeWtpZW0gMjRIPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wcmFkLXotc2Vyd2lzYW50ZW0tMjRoL1N0cm9ueS9wcmFkLXotc2Vyd2lzYW50ZW0tMjRoLmFzcHgiID5QcsSFZCB6IFNlcndpc2FudGVtIDI0SDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vc2Vyd2lzYW50LTI0LXBsdXMvU3Ryb255L3Nlcndpc2FudC0yNGgtcGx1cy5hc3B4IiA+UHLEhWQgeiBTZXJ3aXNhbnRlbSAyNEggUExVUzwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC16LWVrby9TdHJvbnkvcHJhZC16LWVrby5hc3B4IiA+UHLEhWQgeiBFa288L2E+PC9saT4NCgkJCTwvdWw+DQoJCTwvZGl2PjwvbGk+PGxpIGNsYXNzPSJzaDEzNS1pbm5lci1zdWJtZW51LWFjY29yZGlvbi1jb250YWluZXIiPjxhIGNsYXNzPSJzaDEzNS1pbm5lci1zdWJtZW51LWFjY29yZGlvbi10cmlnZ2VyIiBocmVmPSIjIj5VU8WBVUdJIERPREFUS09XRTwvYT48ZGl2IGNsYXNzPSJzaDEzNS1pbm5lci1zdWJtZW51LWFjY29yZGlvbi1jb250ZW50Ij4NCgkJCTx1bD4NCgkJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2VmYWt0dXJhL1N0cm9ueS9lLWZha3R1cmEtemFtb3cuYXNweCIgPmUtRmFrdHVyYTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vY2hjZS16b3N0YWMta2xpZW50ZW0vcHJ6eWxhY3plbmllLXByYWR1L1N0cm9ueS9wcnp5bGFjemVuaWUtcHJhZHUuYXNweCIgPlByennFgsSFY3phbmllIGVuZXJnaWk8L2E+PC9saT4NCgkJCTwvdWw+DQoJCTwvZGl2PjwvbGk+DQoJPC91bD4NCjwvZGl2PmQCAg9kFgZmDxUDI3NoMTM1LW1vYmlsZS1tZW51LXN1Ym1lbnUtY29udGFpbmVyGi9kb20vZ2F6L1N0cm9ueS9zdGFydC5hc3B4IXNoMTM1LW1vYmlsZS1tZW51LXN1Ym1lbnUtdHJpZ2dlcmQCAQ8WAh8NBQNHQVpkAgMPFgIfDQXaCTxkaXYgY2xhc3M9InNoMTM1LW1vYmlsZS1tZW51LXN1Ym1lbnUgezB9Ij4NCgk8dWw+DQoJCTxsaSBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tY29udGFpbmVyIj48YSBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tdHJpZ2dlciIgaHJlZj0iIyI+UFJPRFVLVFkgR0FaT1dFPC9hPjxkaXYgY2xhc3M9InNoMTM1LWlubmVyLXN1Ym1lbnUtYWNjb3JkaW9uLWNvbnRlbnQiPg0KCQkJPHVsPg0KCQkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC1wbHVzLWdhei9TdHJvbnkvcHJhZC1wbHVzLWdhei5hc3B4IiA+WllTS0FKIFdJxJhDRUohIC0gR2F6ICsgUHLEhWQ8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2dhei1wb21vYy0yNGgvU3Ryb255L2dhei1wb21vYy0yNGguYXNweCIgPkdhelBvbW9jIDI0SDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZ2F6LWRsYS1kb211L1N0cm9ueS9nYXotZGxhLWRvbXUuYXNweCIgPkdheiBkbGEgRG9tdTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vc2Vyd2lzYW50LWdhem93eS0yNGgvU3Ryb255L3Nlcndpc2FudC1nYXpvd3ktMjRoLmFzcHgiID5TZXJ3aXNhbnQgZ2F6b3d5IDI0SDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vc2Vyd2lzYW50LWdhem93eS1wbHVzL1N0cm9ueS9zZXJ3aXNhbnQtZ2F6b3d5LXBsdXMuYXNweCIgPlNlcndpc2FudCBnYXpvd3kgMjRIIFBMVVM8L2E+PC9saT4NCgkJCTwvdWw+DQoJCTwvZGl2PjwvbGk+PGxpIGNsYXNzPSJzaDEzNS1pbm5lci1zdWJtZW51LWFjY29yZGlvbi1jb250YWluZXIiPjxhIGNsYXNzPSJzaDEzNS1pbm5lci1zdWJtZW51LWFjY29yZGlvbi10cmlnZ2VyIiBocmVmPSIjIj5PRkVSVEEgWiBVUlrEhERaRU5JRU08L2E+PGRpdiBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tY29udGVudCI+DQoJCQk8dWw+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9nYXotei1rb3RsZW0tZ2F6b3d5bS9TdHJvbnkvZ2F6LXota290bGVtLWdhem93eW0uYXNweCIgPkdheiB6IGtvdMWCZW0gKG9mZXJ0YSBkbGEgS3Jha293YSk8L2E+PC9saT4NCgkJCTwvdWw+DQoJCTwvZGl2PjwvbGk+DQoJPC91bD4NCjwvZGl2PmQCAw9kFgZmDxUDI3NoMTM1LW1vYmlsZS1tZW51LXN1Ym1lbnUtY29udGFpbmVyIS9kb20vdXJ6YWR6ZW5pYS9TdHJvbnkvc3RhcnQuYXNweCFzaDEzNS1tb2JpbGUtbWVudS1zdWJtZW51LXRyaWdnZXJkAgEPFgIfDQULVVJaxIREWkVOSUFkAgMPFgIfDQWfCDxkaXYgY2xhc3M9InNoMTM1LW1vYmlsZS1tZW51LXN1Ym1lbnUgezB9Ij4NCgk8dWw+DQoJCTxsaSBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tY29udGFpbmVyIj48YSBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tdHJpZ2dlciIgaHJlZj0iIyI+T0ZFUlRBIFNQRUNKQUxJU1RZQ1pOQTwvYT48ZGl2IGNsYXNzPSJzaDEzNS1pbm5lci1zdWJtZW51LWFjY29yZGlvbi1jb250ZW50Ij4NCgkJCTx1bD4NCgkJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2ZvdG93b2x0YWlrYS9TdHJvbnkvZm90b3dvbHRhaWthLmFzcHgiID5UQVVST04gRm90b3dvbHRhaWthPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9rbGltYXR5emFjamEvU3Ryb255L2tsaW1hdHl6YWNqYS5hc3B4IiA+VEFVUk9OIEtsaW1hdHl6YWNqYTwvYT48L2xpPg0KCQkJPC91bD4NCgkJPC9kaXY+PC9saT48bGkgY2xhc3M9InNoMTM1LWlubmVyLXN1Ym1lbnUtYWNjb3JkaW9uLWNvbnRhaW5lciI+PGEgY2xhc3M9InNoMTM1LWlubmVyLXN1Ym1lbnUtYWNjb3JkaW9uLXRyaWdnZXIiIGhyZWY9IiMiPk9HUlpFV0FOSUU8L2E+PGRpdiBjbGFzcz0ic2gxMzUtaW5uZXItc3VibWVudS1hY2NvcmRpb24tY29udGVudCI+DQoJCQk8dWw+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9rb3RseS1la29ncm9zemVrL1N0cm9ueS9rb3RseS1uYS1wYWxpd28tc3RhbGUuYXNweCIgPktvdMWCeSBuYSBla29ncm9zemVrPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9vZ3J6ZXdhbmllL1N0cm9ueS9vZ3J6ZXdhbmllLmFzcHgiID5Lb3TFgnkgZ2F6b3dlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wb21wYS1jaWVwbGEvU3Ryb255L3BvbXBhLWNpZXBsYS5hc3B4IiA+UG9tcGEgQ2llcMWCYTwvYT48L2xpPg0KCQkJPC91bD4NCgkJPC9kaXY+PC9saT4NCgk8L3VsPg0KPC9kaXY+ZAIED2QWBGYPFQMAVWh0dHBzOi8vc2tsZXAudGF1cm9uLnBsP3V0bV9zb3VyY2U9dGF1cm9uMjRQTCZ1dG1fbWVkaXVtPW1lbnUmdXRtX2NhbXBhaWduPWVrb2dyb3N6ZWsAZAIBDxYCHw0FCkVLT0dST1NaRUtkAgUPZBYEZg8VAwAsL2RvbS9zdHJlZmEtb2themppL1N0cm9ueS9zdHJlZmEtb2themppLmFzcHgAZAIBDxYCHw0FDVNUUkVGQSBPS0FaSklkAgcPZBYCAgEPDxYCHwFnZBYCZg9kFgICAQ9kFgICAQ9kFgYCAQ9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBRkvZG9tL1N0cm9ueS9kbGEtZG9tdS5hc3B4ZGQCAw9kFgICAQ8PFgQfDQUIRGxhIGRvbXUfDgUZL2RvbS9TdHJvbnkvZGxhLWRvbXUuYXNweGRkAgUPZBYCAgEPDxYCHw0FL1N0cm9uYSwga3TDs3JlaiBzenVrYXN6IG5pZSB6b3N0YcWCYSB6bmFsZXppb25hZGQCCQ9kFgQCAQ9kFgJmDxYCHwwCBRYOZg9kFgJmDxUBDnNoMTM1LW5hdi1tZW51ZAIBD2QWBmYPFQMXc2gxMzUtc3VibWVudS1jb250YWluZXIdL2RvbS9vZmVydGEvU3Ryb255L3N0YXJ0LmFzcHgWc2gxMzUtc3ViLW1lbnUtdHJpZ2dlcmQCAQ8WAh8NBQVQUsSERGQCAw8WAh8NBcUJPGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudSAiPg0KCTxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sdW1uICI+DQoJCTxoNT4NCgkJCVBST0RVS1RZIEVORVJHRVRZQ1pORQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC1wbHVzLWdhei9TdHJvbnkvcHJhZC1wbHVzLWdhei5hc3B4IiA+WllTS0FKIFdJxJhDRUohIC0gUHLEhWQgKyBHYXo8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtei1lbGVrdHJ5a2llbS0yNGgvU3Ryb255L3ByYWQtei1lbGVrdHJ5a2llbS0yNGguYXNweCIgPlByxIVkIHogRWxla3RyeWtpZW0gMjRIPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wcmFkLXotc2Vyd2lzYW50ZW0tMjRoL1N0cm9ueS9wcmFkLXotc2Vyd2lzYW50ZW0tMjRoLmFzcHgiID5QcsSFZCB6IFNlcndpc2FudGVtIDI0SDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vc2Vyd2lzYW50LTI0LXBsdXMvU3Ryb255L3Nlcndpc2FudC0yNGgtcGx1cy5hc3B4IiA+UHLEhWQgeiBTZXJ3aXNhbnRlbSAyNEggUExVUzwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC16LWVrby9TdHJvbnkvcHJhZC16LWVrby5hc3B4IiA+UHLEhWQgeiBFa288L2E+PC9saT4NCgkJPC91bD4NCgk8L2Rpdj48ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51LWNvbHVtbiAiPg0KCQk8aDU+DQoJCQlVU8WBVUdJIERPREFUS09XRQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZWZha3R1cmEvU3Ryb255L2UtZmFrdHVyYS16YW1vdy5hc3B4IiA+ZS1GYWt0dXJhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9jaGNlLXpvc3RhYy1rbGllbnRlbS9wcnp5bGFjemVuaWUtcHJhZHUvU3Ryb255L3ByenlsYWN6ZW5pZS1wcmFkdS5hc3B4IiA+UHJ6ecWCxIVjemFuaWUgZW5lcmdpaTwvYT48L2xpPg0KCQk8L3VsPg0KCTwvZGl2PjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj48YSBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2xsYXBzZSIgaHJlZj0iIyI+endpxYQ8L2E+PGRpdiBjbGFzcz0ic2gxMzUtY2xyIj4NCg0KCTwvZGl2Pg0KPC9kaXY+ZAICD2QWBmYPFQMXc2gxMzUtc3VibWVudS1jb250YWluZXIaL2RvbS9nYXovU3Ryb255L3N0YXJ0LmFzcHgWc2gxMzUtc3ViLW1lbnUtdHJpZ2dlcmQCAQ8WAh8NBQNHQVpkAgMPFgIfDQWACTxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUgc2gxMzUtZ2FzIj4NCgk8ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51LWNvbHVtbiBzaDEzNS1nYXMiPg0KCQk8aDUgY2xhc3M9InNoMTM1LWdhcyI+DQoJCQlQUk9EVUtUWSBHQVpPV0UNCgkJPC9oNT48dWw+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtcGx1cy1nYXovU3Ryb255L3ByYWQtcGx1cy1nYXouYXNweCIgPlpZU0tBSiBXScSYQ0VKISAtIEdheiArIFByxIVkPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9nYXotcG9tb2MtMjRoL1N0cm9ueS9nYXotcG9tb2MtMjRoLmFzcHgiID5HYXpQb21vYyAyNEg8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2dhei1kbGEtZG9tdS9TdHJvbnkvZ2F6LWRsYS1kb211LmFzcHgiID5HYXogZGxhIERvbXU8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3Nlcndpc2FudC1nYXpvd3ktMjRoL1N0cm9ueS9zZXJ3aXNhbnQtZ2F6b3d5LTI0aC5hc3B4IiA+U2Vyd2lzYW50IGdhem93eSAyNEg8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3Nlcndpc2FudC1nYXpvd3ktcGx1cy9TdHJvbnkvc2Vyd2lzYW50LWdhem93eS1wbHVzLmFzcHgiID5TZXJ3aXNhbnQgZ2F6b3d5IDI0SCBQTFVTPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9kaXY+PGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gc2gxMzUtZ2FzIj4NCgkJPGg1IGNsYXNzPSJzaDEzNS1nYXMiPg0KCQkJT0ZFUlRBIFogVVJaxIREWkVOSUVNDQoJCTwvaDU+PHVsPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9nYXotei1rb3RsZW0tZ2F6b3d5bS9TdHJvbnkvZ2F6LXota290bGVtLWdhem93eW0uYXNweCIgPkdheiB6IGtvdMWCZW0gKG9mZXJ0YSBkbGEgS3Jha293YSk8L2E+PC9saT4NCgkJPC91bD4NCgk8L2Rpdj48ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPg0KDQoJPC9kaXY+PGEgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sbGFwc2UiIGhyZWY9IiMiPnp3acWEPC9hPjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj4NCjwvZGl2PmQCAw9kFgZmDxUDF3NoMTM1LXN1Ym1lbnUtY29udGFpbmVyIS9kb20vdXJ6YWR6ZW5pYS9TdHJvbnkvc3RhcnQuYXNweBZzaDEzNS1zdWItbWVudS10cmlnZ2VyZAIBDxYCHw0FC1VSWsSERFpFTklBZAIDDxYCHw0FqQc8ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51ICI+DQoJPGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gIj4NCgkJPGg1Pg0KCQkJT0ZFUlRBIFNQRUNKQUxJU1RZQ1pOQQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZm90b3dvbHRhaWthL1N0cm9ueS9mb3Rvd29sdGFpa2EuYXNweCIgPlRBVVJPTiBGb3Rvd29sdGFpa2E8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2tsaW1hdHl6YWNqYS9TdHJvbnkva2xpbWF0eXphY2phLmFzcHgiID5UQVVST04gS2xpbWF0eXphY2phPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9kaXY+PGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gc2gxMzUtc3BlY2lhbCI+DQoJCTxoNSBjbGFzcz0ic2gxMzUtc3BlY2lhbCI+DQoJCQlPR1JaRVdBTklFDQoJCTwvaDU+PHVsPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9rb3RseS1la29ncm9zemVrL1N0cm9ueS9rb3RseS1uYS1wYWxpd28tc3RhbGUuYXNweCIgPktvdMWCeSBuYSBla29ncm9zemVrPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9vZ3J6ZXdhbmllL1N0cm9ueS9vZ3J6ZXdhbmllLmFzcHgiID5Lb3TFgnkgZ2F6b3dlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wb21wYS1jaWVwbGEvU3Ryb255L3BvbXBhLWNpZXBsYS5hc3B4IiA+UG9tcGEgQ2llcMWCYTwvYT48L2xpPg0KCQk8L3VsPg0KCTwvZGl2PjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj48YSBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2xsYXBzZSIgaHJlZj0iIyI+endpxYQ8L2E+PGRpdiBjbGFzcz0ic2gxMzUtY2xyIj4NCg0KCTwvZGl2Pg0KPC9kaXY+ZAIED2QWBGYPFQMAVWh0dHBzOi8vc2tsZXAudGF1cm9uLnBsP3V0bV9zb3VyY2U9dGF1cm9uMjRQTCZ1dG1fbWVkaXVtPW1lbnUmdXRtX2NhbXBhaWduPWVrb2dyb3N6ZWsAZAIBDxYCHw0FCkVLT0dST1NaRUtkAgUPZBYEZg8VAwAsL2RvbS9zdHJlZmEtb2themppL1N0cm9ueS9zdHJlZmEtb2themppLmFzcHgAZAIBDxYCHw0FDVNUUkVGQSBPS0FaSklkAgYPZBYCAgEPFgIfAWhkAgMPZBYCZg8WAh8MAgUWDmYPZBYCZg8VAQ5zaDEzNS1uYXYtbWVudWQCAQ9kFgZmDxUDF3NoMTM1LXN1Ym1lbnUtY29udGFpbmVyHS9kb20vb2ZlcnRhL1N0cm9ueS9zdGFydC5hc3B4FnNoMTM1LXN1Yi1tZW51LXRyaWdnZXJkAgEPFgIfDQUFUFLEhERkAgMPFgIfDQXFCTxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUgIj4NCgk8ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51LWNvbHVtbiAiPg0KCQk8aDU+DQoJCQlQUk9EVUtUWSBFTkVSR0VUWUNaTkUNCgkJPC9oNT48dWw+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtcGx1cy1nYXovU3Ryb255L3ByYWQtcGx1cy1nYXouYXNweCIgPlpZU0tBSiBXScSYQ0VKISAtIFByxIVkICsgR2F6PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wcmFkLXotZWxla3RyeWtpZW0tMjRoL1N0cm9ueS9wcmFkLXotZWxla3RyeWtpZW0tMjRoLmFzcHgiID5QcsSFZCB6IEVsZWt0cnlraWVtIDI0SDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcHJhZC16LXNlcndpc2FudGVtLTI0aC9TdHJvbnkvcHJhZC16LXNlcndpc2FudGVtLTI0aC5hc3B4IiA+UHLEhWQgeiBTZXJ3aXNhbnRlbSAyNEg8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3Nlcndpc2FudC0yNC1wbHVzL1N0cm9ueS9zZXJ3aXNhbnQtMjRoLXBsdXMuYXNweCIgPlByxIVkIHogU2Vyd2lzYW50ZW0gMjRIIFBMVVM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL3ByYWQtei1la28vU3Ryb255L3ByYWQtei1la28uYXNweCIgPlByxIVkIHogRWtvPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9kaXY+PGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gIj4NCgkJPGg1Pg0KCQkJVVPFgVVHSSBET0RBVEtPV0UNCgkJPC9oNT48dWw+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2VmYWt0dXJhL1N0cm9ueS9lLWZha3R1cmEtemFtb3cuYXNweCIgPmUtRmFrdHVyYTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vY2hjZS16b3N0YWMta2xpZW50ZW0vcHJ6eWxhY3plbmllLXByYWR1L1N0cm9ueS9wcnp5bGFjemVuaWUtcHJhZHUuYXNweCIgPlByennFgsSFY3phbmllIGVuZXJnaWk8L2E+PC9saT4NCgkJPC91bD4NCgk8L2Rpdj48ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPg0KDQoJPC9kaXY+PGEgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sbGFwc2UiIGhyZWY9IiMiPnp3acWEPC9hPjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj4NCjwvZGl2PmQCAg9kFgZmDxUDF3NoMTM1LXN1Ym1lbnUtY29udGFpbmVyGi9kb20vZ2F6L1N0cm9ueS9zdGFydC5hc3B4FnNoMTM1LXN1Yi1tZW51LXRyaWdnZXJkAgEPFgIfDQUDR0FaZAIDDxYCHw0FgAk8ZGl2IGNsYXNzPSJzaDEzNS1zdWJtZW51IHNoMTM1LWdhcyI+DQoJPGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudS1jb2x1bW4gc2gxMzUtZ2FzIj4NCgkJPGg1IGNsYXNzPSJzaDEzNS1nYXMiPg0KCQkJUFJPRFVLVFkgR0FaT1dFDQoJCTwvaDU+PHVsPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9wcmFkLXBsdXMtZ2F6L1N0cm9ueS9wcmFkLXBsdXMtZ2F6LmFzcHgiID5aWVNLQUogV0nEmENFSiEgLSBHYXogKyBQcsSFZDwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZ2F6LXBvbW9jLTI0aC9TdHJvbnkvZ2F6LXBvbW9jLTI0aC5hc3B4IiA+R2F6UG9tb2MgMjRIPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9nYXotZGxhLWRvbXUvU3Ryb255L2dhei1kbGEtZG9tdS5hc3B4IiA+R2F6IGRsYSBEb211PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9zZXJ3aXNhbnQtZ2F6b3d5LTI0aC9TdHJvbnkvc2Vyd2lzYW50LWdhem93eS0yNGguYXNweCIgPlNlcndpc2FudCBnYXpvd3kgMjRIPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9zZXJ3aXNhbnQtZ2F6b3d5LXBsdXMvU3Ryb255L3Nlcndpc2FudC1nYXpvd3ktcGx1cy5hc3B4IiA+U2Vyd2lzYW50IGdhem93eSAyNEggUExVUzwvYT48L2xpPg0KCQk8L3VsPg0KCTwvZGl2PjxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sdW1uIHNoMTM1LWdhcyI+DQoJCTxoNSBjbGFzcz0ic2gxMzUtZ2FzIj4NCgkJCU9GRVJUQSBaIFVSWsSERFpFTklFTQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vZ2F6LXota290bGVtLWdhem93eW0vU3Ryb255L2dhei16LWtvdGxlbS1nYXpvd3ltLmFzcHgiID5HYXogeiBrb3TFgmVtIChvZmVydGEgZGxhIEtyYWtvd2EpPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9kaXY+PGRpdiBjbGFzcz0ic2gxMzUtY2xyIj4NCg0KCTwvZGl2PjxhIGNsYXNzPSJzaDEzNS1zdWJtZW51LWNvbGxhcHNlIiBocmVmPSIjIj56d2nFhDwvYT48ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPg0KDQoJPC9kaXY+DQo8L2Rpdj5kAgMPZBYGZg8VAxdzaDEzNS1zdWJtZW51LWNvbnRhaW5lciEvZG9tL3VyemFkemVuaWEvU3Ryb255L3N0YXJ0LmFzcHgWc2gxMzUtc3ViLW1lbnUtdHJpZ2dlcmQCAQ8WAh8NBQtVUlrEhERaRU5JQWQCAw8WAh8NBakHPGRpdiBjbGFzcz0ic2gxMzUtc3VibWVudSAiPg0KCTxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sdW1uICI+DQoJCTxoNT4NCgkJCU9GRVJUQSBTUEVDSkFMSVNUWUNaTkENCgkJPC9oNT48dWw+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudGF1cm9uMjQucGwvZG9tL2ZvdG93b2x0YWlrYS9TdHJvbnkvZm90b3dvbHRhaWthLmFzcHgiID5UQVVST04gRm90b3dvbHRhaWthPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnRhdXJvbjI0LnBsL2RvbS9rbGltYXR5emFjamEvU3Ryb255L2tsaW1hdHl6YWNqYS5hc3B4IiA+VEFVUk9OIEtsaW1hdHl6YWNqYTwvYT48L2xpPg0KCQk8L3VsPg0KCTwvZGl2PjxkaXYgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sdW1uIHNoMTM1LXNwZWNpYWwiPg0KCQk8aDUgY2xhc3M9InNoMTM1LXNwZWNpYWwiPg0KCQkJT0dSWkVXQU5JRQ0KCQk8L2g1Pjx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20va290bHktZWtvZ3Jvc3play9TdHJvbnkva290bHktbmEtcGFsaXdvLXN0YWxlLmFzcHgiID5Lb3TFgnkgbmEgZWtvZ3Jvc3plazwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vb2dyemV3YW5pZS9TdHJvbnkvb2dyemV3YW5pZS5hc3B4IiA+S290xYJ5IGdhem93ZTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50YXVyb24yNC5wbC9kb20vcG9tcGEtY2llcGxhL1N0cm9ueS9wb21wYS1jaWVwbGEuYXNweCIgPlBvbXBhIENpZXDFgmE8L2E+PC9saT4NCgkJPC91bD4NCgk8L2Rpdj48ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPg0KDQoJPC9kaXY+PGEgY2xhc3M9InNoMTM1LXN1Ym1lbnUtY29sbGFwc2UiIGhyZWY9IiMiPnp3acWEPC9hPjxkaXYgY2xhc3M9InNoMTM1LWNsciI+DQoNCgk8L2Rpdj4NCjwvZGl2PmQCBA9kFgRmDxUDAFVodHRwczovL3NrbGVwLnRhdXJvbi5wbD91dG1fc291cmNlPXRhdXJvbjI0UEwmdXRtX21lZGl1bT1tZW51JnV0bV9jYW1wYWlnbj1la29ncm9zemVrAGQCAQ8WAh8NBQpFS09HUk9TWkVLZAIFD2QWBGYPFQMALC9kb20vc3RyZWZhLW9rYXpqaS9TdHJvbnkvc3RyZWZhLW9rYXpqaS5hc3B4AGQCAQ8WAh8NBQ1TVFJFRkEgT0tBWkpJZAIGD2QWAgIBDxYCHwFoZAIGD2QWAgIBEBYCHwALKwQBZGQCCA9kFgYCAQ9kFgICAQ9kFgJmDxYCHw0FyQo8ZGl2IGlkPSJTSDEzNS1GT09URVIiPjxkaXYgY2xhc3M9InNoMTM1LXBhZ2UiPjxkaXYgY2xhc3M9InNoMTM1LWZvb3Rlci1jb2x1bW4tY29udGFpbmVyIj48ZGl2IGNsYXNzPSJzaDEzNS1mb290ZXItY29sdW1uIj48aDM+T2ZlcnRhPC9oMz4NCjx1bD48bGk+PGEgaHJlZj0iL2RvbSI+RGxhIGRvbXU8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvZmlybWEiPkRsYSBmaXJteTwvYT48L2xpPjwvdWw+PC9kaXY+DQo8ZGl2IGNsYXNzPSJzaDEzNS1mb290ZXItY29sdW1uIj48aDM+UG9tb2M8L2gzPg0KPHVsPjxsaT48YSBocmVmPSIvZG9tL3BvbW9jL1N0cm9ueS9wb21vYy5hc3B4Ij5QeXRhbmlhIGkgb2Rwb3dpZWR6aTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9kb20vcHJhZC16LWVsZWt0cnlraWVtLTI0aC9TdHJvbnkvd3liaWVyei1yZWdpb24uYXNweCI+RG9rdW1lbnR5PC9hPjwvbGk+PC91bD48L2Rpdj4NCjxkaXYgY2xhc3M9InNoMTM1LWNsciI+wqA8L2Rpdj48L2Rpdj4NCjxkaXYgY2xhc3M9InNoMTM1LWZvb3Rlci1jb2x1bW4tY29udGFpbmVyIHNoMTM1LXNlY29uZCI+PGRpdiBjbGFzcz0ic2gxMzUtZm9vdGVyLWNvbHVtbiI+PGgzPk9ic8WCdWdhIEtsaWVudGE8L2gzPg0KPHVsPjxsaT48YSBocmVmPSIvZG9tL3N0cmVmYS1rbGllbnRhL1N0cm9ueS9rb250YWt0LmFzcHgiPktvbnRha3Q8L2E+PC9saT4NCjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnRhdXJvbi5wbC9Eb20vT2JzbHVnYS1LbGllbnRhL3B1bmt0eS1vYnNsdWdpLWtsaWVudGEvU3Ryb255L3B1bmt0eS1vYnNsdWdpLWtsaWVudGEuYXNweCIgdGFyZ2V0PSJfYmxhbmsiPlB1bmt0eSBPYnPFgnVnaSBLbGllbnRhPC9hPjwvbGk+PC91bD48L2Rpdj4NCjxkaXYgY2xhc3M9InNoMTM1LWZvb3Rlci1jb2x1bW4gc2gxMzUtbGFzdCI+PGgzPlpuYWpkxbogbmFzPC9oMz4NCjx1bD48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RhdXJvbnBvbHNrYWVuZXJnaWE/ZnJlZj10cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvU2l0ZUNvbGxlY3Rpb25JbWFnZXMvVGF1cm9uMjQvaW1ncy9zaDEzNS1mYWNlYm9vay5wbmciIGFsdD0iIiAvPjwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3VzZXIvVGF1cm9uVFYiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL1NpdGVDb2xsZWN0aW9uSW1hZ2VzL1RhdXJvbjI0L2ltZ3Mvc2gxMzUteW91dHViZS5wbmciIGFsdD0iIiAvPjwvYT48L2xpPjwvdWw+PC9kaXY+DQo8ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPsKgPC9kaXY+PC9kaXY+DQo8ZGl2IGNsYXNzPSJzaDEzNS1jbHIiPsKgPC9kaXY+PC9kaXY+PC9kaXY+DQpkAgMPZBYCAgEPZBYCZg8WAh8NBXw8ZGl2IGNsYXNzPSJzaDEzNS1mb290ZXItbWlkZGxlIj4NCiAgICA8aW1nIHNyYz0iL1NpdGVDb2xsZWN0aW9uSW1hZ2VzL1RhdXJvbjI0L2ltZ3Mvc2gxMzUtY3NldG9lLnBuZyIgYWx0PSIiIC8+DQrCoDwvZGl2Pg0KZAIFD2QWAgIBD2QWAmYPFgIfDQXwBDxkaXYgY2xhc3M9InNoMTM1LWxvd2VyLWZvb3RlciI+PGRpdiBjbGFzcz0ic2gxMzUtcGFnZSI+PGRpdiBjbGFzcz0ic2gxMzUtZm9vdGVyLW1lbnUiPjxhIGhyZWY9Imh0dHA6Ly93d3cudGF1cm9uLnBsL3BvbGl0eWthLXByeXdhdG5vc2NpL1N0cm9ueS9wb2xpdHlrYS1wcnl3YXRub3NjaS5hc3B4Ij5Qb2xpdHlrYSBwcnl3YXRub8WbY2k8L2E+IMKgPGltZyBjbGFzcz0ic2gxMzUtc2VwYXIiIHNyYz0iL1NpdGVDb2xsZWN0aW9uSW1hZ2VzL1RhdXJvbjI0L2ltZ3Mvc2gxMzUtZm9vdGVyLW1lbnUtc2VwYXJhdG9yLnBuZyIgYWx0PSIiIC8+wqAgPGEgaHJlZj0iaHR0cDovL3d3dy50YXVyb24ucGwvIj5QcnplamTFuiBkbyBzZXJ3aXN1IFRBVVJPTiA8aW1nIHNyYz0iL1NpdGVDb2xsZWN0aW9uSW1hZ2VzL1RhdXJvbjI0L2ltZ3Mvc2gxMzUtZm9vdGVyLWFycm93LnBuZyIgYWx0PSIiIC8+PC9hPiA8L2Rpdj4NCjxkaXYgY2xhc3M9InNoMTM1LWNvcHlyaWdodCI+PHA+Q29weXJpZ2h0IMKpIDIwMTUgVEFVUk9OIFBvbHNrYSBFbmVyZ2lhPGJyIC8+V3N6ZWxraWUgcHJhd2EgemFzdHJ6ZcW8b25lIDwvcD48L2Rpdj4NCjxkaXYgY2xhc3M9InNoMTM1LWNsciI+wqA8L2Rpdj48L2Rpdj48L2Rpdj4NCmQYAwVTY3RsMDAkUGxhY2VIb2xkZXJIZWFkZXIkUGxhY2VIb2xkZXJCcmVhZGNydW1icyRTaXRlTWFwVGF1cm9uMjRNYWlsJE11bHRpVmlld1NpdGVNYXAPD2QCAWQFJGN0bDAwJGN0bDQ4JE11bHRpVmlld0dvb2dsZUFuYWx5dGljcw8PZAIBZAUkY3RsMDAkY3RsNDYkTXVsdGlWaWV3R29vZ2xlQW5hbHl0aWNzDw9kZmSjdavJXeN+1+1jujXdqPp9tKkFaw==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var g_presenceEnabled = true;var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fdom", webLanguage: 1045, currentLanguage: 1045, webUIVersion:4,pageListId:"{8f15bdd6-2240-4610-97e9-a280b90155eb}",pageItemId:18, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};//]]>
+</script>
+
+<script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+
+
+
+
+
+<div id="s4-ribbonrow" class="s4-pr s4-ribbonrowhidetitle">
+
+</div>
+
+<div id="s4-workspace">
+<div id="s4-bodyContainer">
+
+<div class="s4-notdlg">
+<div id="s4-statusbarcontainer" class="s4-notdlg">
+<div id="pageStatusBar" class="s4-status-s1"></div>
+</div>
+</div>
+<div id="ctl00_MSO_ContentDiv">
+<div class="s4-notdlg">
+<div id="SH135-COOKIES">
+<!--  INFORMACJA O POLITYCE PRYWATNOSCI. TZW. CIASTECZKA -->
+<div class="sh135-page">
+<p>Serwis wykorzystuje pliki cookies. Korzystanie z serwisu oznacza zgode na ich zapis lub odczyt zgodnie z ustawieniami przegladarki. <a href="/dom/Strony/polityka-cookies.aspx" rel="nofollow" target="_blank">Czytaj wiecej.</a></p>
+<a href="#" id="SH135-DONT-SHOW-COOKIES" class="sh135-close">
+<img src="/SiteCollectionImages/Tauron24/imgs/sh135-close.png" alt="" /></a>
+<div class="sh135-clr"></div>
+</div>
+</div>
+
+<div id="SH135-HEADER" class="sh135-new-header">
+<!-- HEADER STRONY -->
+<div class="sh135-header-container">
+
+
+<div class="sh135-page">
+<a href="/dom/Strony/dla-domu.aspx" id="ctl00_PlaceHolderHeader_PlaceHolderHeaderLogo_HomeLinkMain_aHome" class="sh135-logo">
+<img src="/SiteCollectionImages/Tauron24/imgs/sh135-logo.jpg" alt="TAURON" />
+</a>
+</div>
+
+
+
+
+<div class="sh135-header-top">
+<!--  PASEK KTORY ZNAJDUJE SIE NAD LOGIEM I MENU -->
+<div class="sh135-page">
+<div class="sh135-menu-top">
+
+<ul>
+
+<li>
+<a href='/dom/Strony/dla-domu.aspx' class='sh135-active'>
+Dla domu
+</a>
+</li>
+
+<li>
+<a href='/firma/Strony/dla-firmy.aspx' class=''>
+Dla firmy
+</a>
+</li>
+
+</ul>
+
+
+<div class="sh135-clr"></div>
+</div>
+<div class="sh135-login">
+<a href="http://www.tauron.pl/Dom/Obsluga-Klienta/moje-konto-klienta/Strony/konto-Klienta.aspx" target="_blank">Zaloguj do eBOK
+</a>
+</div>
+<div class="sh135-clr"></div>
+</div>
+</div>
+
+
+<div class="sh135-header-bottom">
+<div class="sh135-page">
+<div class="sh135-menu-bottom">
+
+<ul class='sh135-nav-menu'>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/oferta/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+PRAD
+</a>
+<div class="sh135-submenu ">
+<div class="sh135-submenu-column ">
+<h5>
+PRODUKTY ENERGETYCZNE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Prad + Gaz</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-elektrykiem-24h/Strony/prad-z-elektrykiem-24h.aspx" >Prad z Elektrykiem 24H</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-serwisantem-24h/Strony/prad-z-serwisantem-24h.aspx" >Prad z Serwisantem 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-24-plus/Strony/serwisant-24h-plus.aspx" >Prad z Serwisantem 24H PLUS</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-eko/Strony/prad-z-eko.aspx" >Prad z Eko</a></li>
+</ul>
+</div><div class="sh135-submenu-column ">
+<h5>
+USLUGI DODATKOWE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/efaktura/Strony/e-faktura-zamow.aspx" >e-Faktura</a></li><li><a href="https://www.tauron24.pl/dom/chce-zostac-klientem/przylaczenie-pradu/Strony/przylaczenie-pradu.aspx" >Przylaczanie energii</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/gaz/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+GAZ
+</a>
+<div class="sh135-submenu sh135-gas">
+<div class="sh135-submenu-column sh135-gas">
+<h5 class="sh135-gas">
+PRODUKTY GAZOWE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Gaz + Prad</a></li><li><a href="https://www.tauron24.pl/dom/gaz-pomoc-24h/Strony/gaz-pomoc-24h.aspx" >GazPomoc 24H</a></li><li><a href="https://www.tauron24.pl/dom/gaz-dla-domu/Strony/gaz-dla-domu.aspx" >Gaz dla Domu</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-24h/Strony/serwisant-gazowy-24h.aspx" >Serwisant gazowy 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-plus/Strony/serwisant-gazowy-plus.aspx" >Serwisant gazowy 24H PLUS</a></li>
+</ul>
+</div><div class="sh135-submenu-column sh135-gas">
+<h5 class="sh135-gas">
+OFERTA Z URZADZENIEM
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/gaz-z-kotlem-gazowym/Strony/gaz-z-kotlem-gazowym.aspx" >Gaz z kotlem (oferta dla Krakowa)</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/urzadzenia/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+URZADZENIA
+</a>
+<div class="sh135-submenu ">
+<div class="sh135-submenu-column ">
+<h5>
+OFERTA SPECJALISTYCZNA
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/fotowoltaika/Strony/fotowoltaika.aspx" >TAURON Fotowoltaika</a></li><li><a href="https://www.tauron24.pl/dom/klimatyzacja/Strony/klimatyzacja.aspx" >TAURON Klimatyzacja</a></li>
+</ul>
+</div><div class="sh135-submenu-column sh135-special">
+<h5 class="sh135-special">
+OGRZEWANIE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/kotly-ekogroszek/Strony/kotly-na-paliwo-stale.aspx" >Kotly na ekogroszek</a></li><li><a href="https://www.tauron24.pl/dom/ogrzewanie/Strony/ogrzewanie.aspx" >Kotly gazowe</a></li><li><a href="https://www.tauron24.pl/dom/pompa-ciepla/Strony/pompa-ciepla.aspx" >Pompa Ciepla</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class=''>
+<a href='https://sklep.tauron.pl?utm_source=tauron24PL&utm_medium=menu&utm_campaign=ekogroszek' class=''>
+EKOGROSZEK
+</a>
+
+</li>
+
+<li class=''>
+<a href='/dom/strefa-okazji/Strony/strefa-okazji.aspx' class=''>
+STREFA OKAZJI
+</a>
+
+</li>
+
+
+</ul>
+
+
+<div class="sh135-clr"></div>
+</div>
+<div class="sh135-mobile-menu-container">
+<a href="" class="sh135-mobile-menu-trigger"></a>
+<div class="sh135-mobile-menu">
+
+<ul class=''>
+
+<li class='sh135-mobile-menu-submenu-container'>
+<a href='/dom/oferta/Strony/start.aspx' class='sh135-mobile-menu-submenu-trigger'>
+PRAD
+</a>
+<div class="sh135-mobile-menu-submenu {0}">
+<ul>
+<li class="sh135-inner-submenu-accordion-container"><a class="sh135-inner-submenu-accordion-trigger" href="#">PRODUKTY ENERGETYCZNE</a><div class="sh135-inner-submenu-accordion-content">
+<ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Prad + Gaz</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-elektrykiem-24h/Strony/prad-z-elektrykiem-24h.aspx" >Prad z Elektrykiem 24H</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-serwisantem-24h/Strony/prad-z-serwisantem-24h.aspx" >Prad z Serwisantem 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-24-plus/Strony/serwisant-24h-plus.aspx" >Prad z Serwisantem 24H PLUS</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-eko/Strony/prad-z-eko.aspx" >Prad z Eko</a></li>
+</ul>
+</div></li><li class="sh135-inner-submenu-accordion-container"><a class="sh135-inner-submenu-accordion-trigger" href="#">USLUGI DODATKOWE</a><div class="sh135-inner-submenu-accordion-content">
+<ul>
+<li><a href="https://www.tauron24.pl/dom/efaktura/Strony/e-faktura-zamow.aspx" >e-Faktura</a></li><li><a href="https://www.tauron24.pl/dom/chce-zostac-klientem/przylaczenie-pradu/Strony/przylaczenie-pradu.aspx" >Przylaczanie energii</a></li>
+</ul>
+</div></li>
+</ul>
+</div>
+</li>
+
+<li class='sh135-mobile-menu-submenu-container'>
+<a href='/dom/gaz/Strony/start.aspx' class='sh135-mobile-menu-submenu-trigger'>
+GAZ
+</a>
+<div class="sh135-mobile-menu-submenu {0}">
+<ul>
+<li class="sh135-inner-submenu-accordion-container"><a class="sh135-inner-submenu-accordion-trigger" href="#">PRODUKTY GAZOWE</a><div class="sh135-inner-submenu-accordion-content">
+<ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Gaz + Prad</a></li><li><a href="https://www.tauron24.pl/dom/gaz-pomoc-24h/Strony/gaz-pomoc-24h.aspx" >GazPomoc 24H</a></li><li><a href="https://www.tauron24.pl/dom/gaz-dla-domu/Strony/gaz-dla-domu.aspx" >Gaz dla Domu</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-24h/Strony/serwisant-gazowy-24h.aspx" >Serwisant gazowy 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-plus/Strony/serwisant-gazowy-plus.aspx" >Serwisant gazowy 24H PLUS</a></li>
+</ul>
+</div></li><li class="sh135-inner-submenu-accordion-container"><a class="sh135-inner-submenu-accordion-trigger" href="#">OFERTA Z URZADZENIEM</a><div class="sh135-inner-submenu-accordion-content">
+<ul>
+<li><a href="https://www.tauron24.pl/dom/gaz-z-kotlem-gazowym/Strony/gaz-z-kotlem-gazowym.aspx" >Gaz z kotlem (oferta dla Krakowa)</a></li>
+</ul>
+</div></li>
+</ul>
+</div>
+</li>
+
+<li class='sh135-mobile-menu-submenu-container'>
+<a href='/dom/urzadzenia/Strony/start.aspx' class='sh135-mobile-menu-submenu-trigger'>
+URZADZENIA
+</a>
+<div class="sh135-mobile-menu-submenu {0}">
+<ul>
+<li class="sh135-inner-submenu-accordion-container"><a class="sh135-inner-submenu-accordion-trigger" href="#">OFERTA SPECJALISTYCZNA</a><div class="sh135-inner-submenu-accordion-content">
+<ul>
+<li><a href="https://www.tauron24.pl/dom/fotowoltaika/Strony/fotowoltaika.aspx" >TAURON Fotowoltaika</a></li><li><a href="https://www.tauron24.pl/dom/klimatyzacja/Strony/klimatyzacja.aspx" >TAURON Klimatyzacja</a></li>
+</ul>
+</div></li><li class="sh135-inner-submenu-accordion-container"><a class="sh135-inner-submenu-accordion-trigger" href="#">OGRZEWANIE</a><div class="sh135-inner-submenu-accordion-content">
+<ul>
+<li><a href="https://www.tauron24.pl/dom/kotly-ekogroszek/Strony/kotly-na-paliwo-stale.aspx" >Kotly na ekogroszek</a></li><li><a href="https://www.tauron24.pl/dom/ogrzewanie/Strony/ogrzewanie.aspx" >Kotly gazowe</a></li><li><a href="https://www.tauron24.pl/dom/pompa-ciepla/Strony/pompa-ciepla.aspx" >Pompa Ciepla</a></li>
+</ul>
+</div></li>
+</ul>
+</div>
+</li>
+
+<li class=''>
+<a href='https://sklep.tauron.pl?utm_source=tauron24PL&utm_medium=menu&utm_campaign=ekogroszek' class=''>
+EKOGROSZEK
+</a>
+
+</li>
+
+<li class=''>
+<a href='/dom/strefa-okazji/Strony/strefa-okazji.aspx' class=''>
+STREFA OKAZJI
+</a>
+
+</li>
+
+
+<li><a target="_blank" class="sh135-highlighted" href="http://eobsluga.tauron.pl/Strony/start.aspx">Zaloguj do eBOK</a></li>
+
+</ul>
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="sh135-breadcrumbs">
+<div class="sh135-page">
+<div class="sh135-breadcrumbs-container">
+
+<a id="ctl00_PlaceHolderHeader_PlaceHolderBreadcrumbs_SiteMapTauron24Mail_ctl01_HyperlinkRoot" href="/dom/Strony/dla-domu.aspx"><img src="/SiteCollectionImages/Tauron24/imgs/sh135-home-icon.png" style="border-width:0px;" /></a>
+
+<img alt="" src="/SiteCollectionImages/Tauron24/imgs/sh135-right-arrow-breadcrumbs.png" />
+
+<a id="ctl00_PlaceHolderHeader_PlaceHolderBreadcrumbs_SiteMapTauron24Mail_ctl03_HyperlinkNode" href="/dom/Strony/dla-domu.aspx">Dla domu</a>
+<img alt="" src="/SiteCollectionImages/Tauron24/imgs/sh135-right-arrow-breadcrumbs.png" />
+
+<span id="ctl00_PlaceHolderHeader_PlaceHolderBreadcrumbs_SiteMapTauron24Mail_ctl05_LabelCurrentNode">Strona, ktorej szukasz nie zostala znaleziona</span>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+</div>
+
+<div class="sh135-header-fixed">
+<!-- HEADER, KTORY ODPALA SIE PO ZJECHANIU WIDOKU PONIZEJ PEWNEGO MOMENTU. W TYM PRZYPADKU GDY ZNIKNIE HEADER GORNY -->
+<div class="sh135-page">
+<a href="#" class="sh135-logo-mini">
+<img src="/SiteCollectionImages/Tauron24/imgs/sh135-logo-fixed.png" alt="" />
+</a>
+<div class="sh135-menu-bottom">
+
+<ul class='sh135-nav-menu'>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/oferta/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+PRAD
+</a>
+<div class="sh135-submenu ">
+<div class="sh135-submenu-column ">
+<h5>
+PRODUKTY ENERGETYCZNE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Prad + Gaz</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-elektrykiem-24h/Strony/prad-z-elektrykiem-24h.aspx" >Prad z Elektrykiem 24H</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-serwisantem-24h/Strony/prad-z-serwisantem-24h.aspx" >Prad z Serwisantem 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-24-plus/Strony/serwisant-24h-plus.aspx" >Prad z Serwisantem 24H PLUS</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-eko/Strony/prad-z-eko.aspx" >Prad z Eko</a></li>
+</ul>
+</div><div class="sh135-submenu-column ">
+<h5>
+USLUGI DODATKOWE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/efaktura/Strony/e-faktura-zamow.aspx" >e-Faktura</a></li><li><a href="https://www.tauron24.pl/dom/chce-zostac-klientem/przylaczenie-pradu/Strony/przylaczenie-pradu.aspx" >Przylaczanie energii</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/gaz/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+GAZ
+</a>
+<div class="sh135-submenu sh135-gas">
+<div class="sh135-submenu-column sh135-gas">
+<h5 class="sh135-gas">
+PRODUKTY GAZOWE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Gaz + Prad</a></li><li><a href="https://www.tauron24.pl/dom/gaz-pomoc-24h/Strony/gaz-pomoc-24h.aspx" >GazPomoc 24H</a></li><li><a href="https://www.tauron24.pl/dom/gaz-dla-domu/Strony/gaz-dla-domu.aspx" >Gaz dla Domu</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-24h/Strony/serwisant-gazowy-24h.aspx" >Serwisant gazowy 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-plus/Strony/serwisant-gazowy-plus.aspx" >Serwisant gazowy 24H PLUS</a></li>
+</ul>
+</div><div class="sh135-submenu-column sh135-gas">
+<h5 class="sh135-gas">
+OFERTA Z URZADZENIEM
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/gaz-z-kotlem-gazowym/Strony/gaz-z-kotlem-gazowym.aspx" >Gaz z kotlem (oferta dla Krakowa)</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/urzadzenia/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+URZADZENIA
+</a>
+<div class="sh135-submenu ">
+<div class="sh135-submenu-column ">
+<h5>
+OFERTA SPECJALISTYCZNA
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/fotowoltaika/Strony/fotowoltaika.aspx" >TAURON Fotowoltaika</a></li><li><a href="https://www.tauron24.pl/dom/klimatyzacja/Strony/klimatyzacja.aspx" >TAURON Klimatyzacja</a></li>
+</ul>
+</div><div class="sh135-submenu-column sh135-special">
+<h5 class="sh135-special">
+OGRZEWANIE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/kotly-ekogroszek/Strony/kotly-na-paliwo-stale.aspx" >Kotly na ekogroszek</a></li><li><a href="https://www.tauron24.pl/dom/ogrzewanie/Strony/ogrzewanie.aspx" >Kotly gazowe</a></li><li><a href="https://www.tauron24.pl/dom/pompa-ciepla/Strony/pompa-ciepla.aspx" >Pompa Ciepla</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class=''>
+<a href='https://sklep.tauron.pl?utm_source=tauron24PL&utm_medium=menu&utm_campaign=ekogroszek' class=''>
+EKOGROSZEK
+</a>
+
+</li>
+
+<li class=''>
+<a href='/dom/strefa-okazji/Strony/strefa-okazji.aspx' class=''>
+STREFA OKAZJI
+</a>
+
+</li>
+
+
+</ul>
+
+
+<div class="sh135-clr"></div>
+</div>
+<div class="sh135-mobile-menu-container">
+<!-- MENU MOBILNE -->
+<a href="" class="sh135-mobile-menu-trigger"></a>
+<div class="sh135-mobile-menu">
+
+<ul class='sh135-nav-menu'>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/oferta/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+PRAD
+</a>
+<div class="sh135-submenu ">
+<div class="sh135-submenu-column ">
+<h5>
+PRODUKTY ENERGETYCZNE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Prad + Gaz</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-elektrykiem-24h/Strony/prad-z-elektrykiem-24h.aspx" >Prad z Elektrykiem 24H</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-serwisantem-24h/Strony/prad-z-serwisantem-24h.aspx" >Prad z Serwisantem 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-24-plus/Strony/serwisant-24h-plus.aspx" >Prad z Serwisantem 24H PLUS</a></li><li><a href="https://www.tauron24.pl/dom/prad-z-eko/Strony/prad-z-eko.aspx" >Prad z Eko</a></li>
+</ul>
+</div><div class="sh135-submenu-column ">
+<h5>
+USLUGI DODATKOWE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/efaktura/Strony/e-faktura-zamow.aspx" >e-Faktura</a></li><li><a href="https://www.tauron24.pl/dom/chce-zostac-klientem/przylaczenie-pradu/Strony/przylaczenie-pradu.aspx" >Przylaczanie energii</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/gaz/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+GAZ
+</a>
+<div class="sh135-submenu sh135-gas">
+<div class="sh135-submenu-column sh135-gas">
+<h5 class="sh135-gas">
+PRODUKTY GAZOWE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/prad-plus-gaz/Strony/prad-plus-gaz.aspx" >ZYSKAJ WIECEJ! - Gaz + Prad</a></li><li><a href="https://www.tauron24.pl/dom/gaz-pomoc-24h/Strony/gaz-pomoc-24h.aspx" >GazPomoc 24H</a></li><li><a href="https://www.tauron24.pl/dom/gaz-dla-domu/Strony/gaz-dla-domu.aspx" >Gaz dla Domu</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-24h/Strony/serwisant-gazowy-24h.aspx" >Serwisant gazowy 24H</a></li><li><a href="https://www.tauron24.pl/dom/serwisant-gazowy-plus/Strony/serwisant-gazowy-plus.aspx" >Serwisant gazowy 24H PLUS</a></li>
+</ul>
+</div><div class="sh135-submenu-column sh135-gas">
+<h5 class="sh135-gas">
+OFERTA Z URZADZENIEM
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/gaz-z-kotlem-gazowym/Strony/gaz-z-kotlem-gazowym.aspx" >Gaz z kotlem (oferta dla Krakowa)</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class='sh135-submenu-container'>
+<a href='/dom/urzadzenia/Strony/start.aspx' class='sh135-sub-menu-trigger'>
+URZADZENIA
+</a>
+<div class="sh135-submenu ">
+<div class="sh135-submenu-column ">
+<h5>
+OFERTA SPECJALISTYCZNA
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/fotowoltaika/Strony/fotowoltaika.aspx" >TAURON Fotowoltaika</a></li><li><a href="https://www.tauron24.pl/dom/klimatyzacja/Strony/klimatyzacja.aspx" >TAURON Klimatyzacja</a></li>
+</ul>
+</div><div class="sh135-submenu-column sh135-special">
+<h5 class="sh135-special">
+OGRZEWANIE
+</h5><ul>
+<li><a href="https://www.tauron24.pl/dom/kotly-ekogroszek/Strony/kotly-na-paliwo-stale.aspx" >Kotly na ekogroszek</a></li><li><a href="https://www.tauron24.pl/dom/ogrzewanie/Strony/ogrzewanie.aspx" >Kotly gazowe</a></li><li><a href="https://www.tauron24.pl/dom/pompa-ciepla/Strony/pompa-ciepla.aspx" >Pompa Ciepla</a></li>
+</ul>
+</div><div class="sh135-clr">
+
+</div><a class="sh135-submenu-collapse" href="#">zwin</a><div class="sh135-clr">
+
+</div>
+</div>
+</li>
+
+<li class=''>
+<a href='https://sklep.tauron.pl?utm_source=tauron24PL&utm_medium=menu&utm_campaign=ekogroszek' class=''>
+EKOGROSZEK
+</a>
+
+</li>
+
+<li class=''>
+<a href='/dom/strefa-okazji/Strony/strefa-okazji.aspx' class=''>
+STREFA OKAZJI
+</a>
+
+</li>
+
+
+</ul>
+
+
+</div>
+</div>
+<div class="sh135-clr"></div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+
+
+
+<div class="s4-ca" id="SH135-CONTENT">
+<!-- page content loads from the pages and pages layout -->
+
+<div>
+<div class="sh135-404-background"><img src="/SiteCollectionImages/Tauron24/imgs/sh135-404-background.jpg" alt=""/> <div class="sh135-content-container"><div class="sh135-top-outer"><div class="sh135-top-inner"><div class="sh135-page"><h1>Strona, ktorej</h1>
+<div class="sh135-clr"></div>
+<h2>szukasz nie zostala</h2>
+<div class="sh135-clr"></div>
+<h2 class="sh135-second">znaleziona</h2>
+<div class="sh135-clr"></div>
+<a href="/dom/Strony/dla-domu.aspx">POWROT DO STRONY GLOWNEJ </a> </div></div></div></div></div>
+</div>
+
+
+</div>
+
+
+<div class="s4-notdlg">
+
+
+<div id="SH135-FOOTER"><div class="sh135-page"><div class="sh135-footer-column-container"><div class="sh135-footer-column"><h3>Oferta</h3>
+<ul><li><a href="/dom">Dla domu</a></li>
+<li><a href="/firma">Dla firmy</a></li></ul></div>
+<div class="sh135-footer-column"><h3>Pomoc</h3>
+<ul><li><a href="/dom/pomoc/Strony/pomoc.aspx">Pytania i odpowiedzi</a></li>
+<li><a href="/dom/prad-z-elektrykiem-24h/Strony/wybierz-region.aspx">Dokumenty</a></li></ul></div>
+<div class="sh135-clr"> </div></div>
+<div class="sh135-footer-column-container sh135-second"><div class="sh135-footer-column"><h3>Obsluga Klienta</h3>
+<ul><li><a href="/dom/strefa-klienta/Strony/kontakt.aspx">Kontakt</a></li>
+<li><a href="http://www.tauron.pl/Dom/Obsluga-Klienta/punkty-obslugi-klienta/Strony/punkty-obslugi-klienta.aspx" target="_blank">Punkty Obslugi Klienta</a></li></ul></div>
+<div class="sh135-footer-column sh135-last"><h3>Znajdz nas</h3>
+<ul><li><a href="https://www.facebook.com/tauronpolskaenergia?fref=ts" target="_blank"><img src="/SiteCollectionImages/Tauron24/imgs/sh135-facebook.png" alt="" /></a></li>
+<li><a href="https://www.youtube.com/user/TauronTV" target="_blank"><img src="/SiteCollectionImages/Tauron24/imgs/sh135-youtube.png" alt="" /></a></li></ul></div>
+<div class="sh135-clr"> </div></div>
+<div class="sh135-clr"> </div></div></div>
+
+
+
+
+<div class="sh135-footer-middle">
+<img src="/SiteCollectionImages/Tauron24/imgs/sh135-csetoe.png" alt="" />
+</div>
+
+
+
+
+<div class="sh135-lower-footer"><div class="sh135-page"><div class="sh135-footer-menu"><a href="http://www.tauron.pl/polityka-prywatnosci/Strony/polityka-prywatnosci.aspx">Polityka prywatnosci</a>  <img class="sh135-separ" src="/SiteCollectionImages/Tauron24/imgs/sh135-footer-menu-separator.png" alt="" />  <a href="http://www.tauron.pl/">Przejdz do serwisu TAURON <img src="/SiteCollectionImages/Tauron24/imgs/sh135-footer-arrow.png" alt="" /></a> </div>
+<div class="sh135-copyright"><p>Copyright (c) 2015 TAURON Polska Energia<br />Wszelkie prawa zastrzezone </p></div>
+<div class="sh135-clr"> </div></div></div>
+
+
+
+
+</div>
+
+
+<div id="DeveloperDashboard" class="ms-developerdashboard">
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<input type="text" name="__spDummyText1" style="display: none;" size="1" />
+<input type="text" name="__spDummyText2" style="display: none;" size="1" />
+<div id="ctl00_panelZone">
+<div style='display:none' id='hidZone'></div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;var _fV4UI = true;var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/sp.core.js?rev=7ByNlH%2BvcgRJg%2BRCctdC0w%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/ScriptResx.ashx?culture=pl%2Dpl&amp;name=SP%2ERes&amp;rev=SzWCXxgriecmjOi5O%2BNrjA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/sp.ui.dialog.js?rev=IuXtJ2CrScK6oX4zOTTy%2BA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/sp.runtime.js?rev=9sKdsC9N6p2BiRk3313M7Q%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/sp.js?rev=%2FLlKIPQWhhq9mRi404xe%2FA%3D%3D"></' + 'script>');
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1045\u002fcore.js?rev=0OcYPCa9dAHl\u00252FHxEKW55Zg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=k\u00252B4HtUzT9\u00252B3mSycgD7gPaQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=w4iP7lFIpTavLXlEmM2S0A\u00253D\u00253D");RegisterSodDep("inplview", "core.js");</script>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+if (jQuery('#dialogTitleSpan').html() != null) {
+if (jQuery('#dialogTitleSpan').html().indexOf("Wymagane logowanie") !== -1) {
+jQuery('.ms-dlgTitle').css('background', 'none').css('background-color', 'rgb(39, 46, 116)').css('height', '69px');
+jQuery('.ms-dlgTitleText').css('font-family', '"Titillium Web"').css('font-weight', '600').css('font-size', '23px').css('padding-left', '21px').css('padding-top', '17px');
+jQuery('.ms-dlgBorder').css('border', '2px solid rgb(39, 46, 116)');
+jQuery('.ms-dlgContent').css('border', 'none');
+jQuery('#dialogTitleSpan').html('<img src="https://www.tauron24.pl/Style%20Library/Tauron24/css/images/login_lock.png" style="width: 32px; height: 32px; vertical-align: sub; padding-right: 6px;" alt="">Wymagane logowanie');
+}
+}
+});
+</script>
+</body>
+</html>
+

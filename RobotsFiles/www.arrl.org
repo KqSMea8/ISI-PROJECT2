@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /files/file/protected
+Disallow: /attachments/download
+Disallow: /admin
+Disallow: /ad_upload
+Disallow: /vec_upload
+Disallow: /advertising-upload.php
+Disallow: /vec-upload.php
+Disallow: /results-database
+Crawl-delay: 5
+

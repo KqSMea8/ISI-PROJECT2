@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /engine/
+Disallow: /files/
+Disallow: /templates_c/
+Disallow: /templates/
+Disallow: /template/
+Disallow: /mailer/

@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /nlstatic/
+Disallow: /faq/calendar/co-to-jest-kalendarz-zamowien
+Disallow: /faq/owner/jak-dzialaja-rabaty-dla-opiekuna
+Disallow: /faq/cashbox/kto-to-jest-aktywny-kasjer
+Disallow: /faq/order/jak-zamawiac-zrzutkowo
+Disallow: /faq/order/jak-rozliczyc-zamowienie
+Disallow: /faq/order/jak-zamawiac-ze-wspolna-kasa
+Disallow: /faq/groups/jaka-jest-rola-administratora-grupy-
+Disallow: /faq/gropu.order.basic
+Disallow: /faq/groups/jaka-jest-rola-managera-grupy-
+Disallow: /faq/cashbox/jaka-jest-rola-kasjera-w-grupie
+Disallow: /faq/topten
+Disallow: /faq/cashbox/jak-stworzyc-wspolna-kase
+Disallow: /faq/order/jak-zamawiac-grupowo-ze-wspolna-kasa
+Disallow: /faq/groups/co-to-jest-grupa
+Disallow: /faq/order/jak-otworzyc-zamowienie
+Disallow: /faq/restaurateurs/co-to-jest-stan-realizacji-zamowienia
+Disallow: /public/do-you-have-account/individual
+Disallow: /faq/owner/kto-to-jest-opiekun-zamowienia
+Disallow: /faq/order-realization/co-zrobic--gdy-restauracja-odmawia-przyjecia-lub-anuluje-zamowienia
+Disallow: /faq/owner/jaka-jest-rola-opiekuna-w-procesie-zamawiania
+Disallow: /faq/groups/jakie-sa-uprawnienia-w-grupie-
+Disallow: /faq/cashbox/co-to-jest-kasa
+Disallow: /public/restaurants/search
+Disallow: /faq/order/co-to-jest-zamowienie-grupowe
+Disallow: /faq/order/jak-otworzyc-zamowienie-grupowe
+Disallow: /faq/order/jak-usunac-lub-zmienic-wybrane-wczesniej-danie
+Disallow: /faq/owner/jaka-jest-rola-opiekuna-w-procesie-zamawiania
+Disallow: /a
+Allow: /
+
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /web_login.php
+Disallow: /mailto.php
+Disallow: /pdf/produkt_pdf.php
+Disallow: /web_login.php
+Disallow: /produkt_param_txt.php
+Disallow: /zaproponuj_cene_produktu.php
+Disallow: /towar_na_zamowienie_info.php
+Disallow: /produkt_n.php
+Disallow: /ogloszenie_2014_1.php
+Disallow: /doc/projekt82/

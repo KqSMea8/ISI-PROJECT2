@@ -1,0 +1,20 @@
+User-agent: yahoo-mmcrawler
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: asterias
+Disallow: /
+
+User-agent: yahoo-blogs/v3.9
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /popup*
+Disallow: /new/
+
+User-agent: *
+Disallow: /popup*
+Disallow: /new/
+

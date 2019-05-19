@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /am/
+Disallow: /awareklama/
+Disallow: /cutelem/
+Disallow: /d55/
+Disallow: /errors/
+Disallow: /fo/
+Disallow: /goko/
+Disallow: /ico/
+Disallow: /lejery/
+Disallow: /Library/
+Disallow: /licz01/
+Disallow: /marekk/
+Disallow: /oferty/
+Disallow: /pipe/
+Disallow: /pngs/
+Disallow: /prace1/infofor/
+Disallow: /prace1/infoprod/
+Disallow: /prace1/kate/
+Disallow: /prace1/rtb/
+Disallow: /prl/
+Disallow: /projekty/
+Disallow: /sth/
+

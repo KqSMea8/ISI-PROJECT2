@@ -1,0 +1,4 @@
+User-agent: *
+index,follow: /
+
+

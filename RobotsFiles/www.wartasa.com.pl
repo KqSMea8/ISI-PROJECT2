@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow:  /gfx/wartasa/_thumbs/pl/defaultaktualnosci/
+Disallow: /logowanie/
+Disallow: /wyszukiwarka/
+User-agent: Fasterfox
+Disallow: /

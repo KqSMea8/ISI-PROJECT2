@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+Disallow: /*?
+Sitemap: http://thermosfera.pl/sitemap.xml
+Sitemap: http://thermosfera.pl/thermosfera.pl/html/sitemap.xml
+Sitemap: https://thermosfera.pl/thermosfera.pl/html/sitemap.xml

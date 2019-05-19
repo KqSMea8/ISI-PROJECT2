@@ -1,0 +1,147 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html>
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="author" content="Sebastian Duchowicz - www.spacedesign.pl" />
+<meta name="generator" content="Interaktywna Polska - www.interaktywnapolska.pl" />
+<meta name="language" content="pl" />
+
+<link href="/css/normalize.css" rel="stylesheet" type="text/css" />
+<link href="/css/formalize.css" rel="stylesheet" type="text/css" />
+<link title="styles1" href="/css/css-main.css" type="text/css" rel="stylesheet">
+<link title="styles2" href="/css/css-main-cont.css" type="text/css" rel="alternate stylesheet">
+<link href="/css/animate.css" type="text/css" rel="stylesheet">
+
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7]>
+<p class=chromeframe>Twoja przegladarka jest <em>antyczna!</em> <a href="http://browsehappy.com/">Zmien na nowoczesna przegladarke</a> lub <a href="http://www.google.com/chromeframe/?redirect=true">zainstaluj Google Chrome Frame</a>.</p>
+<![endif]-->
+<title>404 Not Found</title>
+
+<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+
+
+</head>
+
+<body class="layout-right">
+
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+<!-- jak ma byc jasny sidebar to usuwasz "dark i dajesz inne logo ponizej" -->
+<div class="sidebarcol dark">
+<div class="sidebarcol-in">
+<a class="logo" href="/"><img src="/img/sidebar/_b_herb_sidebar.png" /></a>
+<!-- <a class="logo" href=""><img src="/img/sidebar/herb_sidebar.png" /></a> -->
+<div class="sd-menu">
+<!-- jest 12 roznych markerow
+gicon-1.png
+gicon-1-sm.png
+numery od 1 do 12
+-->
+<div class="md-c-in clearfix">
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+
+<div class="body-wrapper">
+<div class="content-wrapper">
+
+<div class="md-content clearfix">
+<!-- ############################################################################################################################################ -->
+<div class="news-one">
+<h1>404 Not Found</h1>
+<p>Nie znaleziono - serwer nie odnalazl zasobu wedlug podanego URL ani niczego co by wskazywalo na istnienie takiego zasobu w przeszlosci</p>
+</div>
+
+<!-- ############################################################################################################################################ -->
+</div><!-- / md-content -->
+
+</div>
+</div>
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+
+
+
+<? /*?>
+<script src="http://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
+<script type="text/javascript">
+function initialize() {
+var $latitude = document.getElementById('latitude');
+var $longitude = document.getElementById('longitude');
+var latitude = 49.98239917962166
+var longitude = 20.06026268005371;
+var zoom = 17;
+
+var LatLng = new google.maps.LatLng(latitude, longitude);
+
+var mapOptions = {
+zoom: zoom,
+center: LatLng,
+panControl: false,
+zoomControl: false,
+scaleControl: true,
+mapTypeId: google.maps.MapTypeId.ROADMAP
+}
+
+var map = new google.maps.Map(document.getElementById('subm_marker_map'),mapOptions);
+
+var marker = new google.maps.Marker({
+position: LatLng,
+map: map,
+title: 'Drag Me!',
+draggable: true
+});
+
+google.maps.event.addListener(marker, 'dragend', function(marker){
+var latLng = marker.latLng;
+$latitude.value = latLng.lat();
+$longitude.value = latLng.lng();
+});
+
+}
+$(document).ready(function() {
+initialize();
+});
+</script>
+<? */ ?>
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesnt work if you view the page via file: -->
+<!--[if lt IE 9] >
+<script src="/js/html5shiv.js"></script>
+<script src="/js/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/js/jquery.formalize.min.js"></script>
+<script type="text/javascript" src="/js/site_scripts.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$("a[rel^='prettyPhoto[photo]']").prettyPhoto({
+theme: 'pp_default', /* pp_default, light_rounded / dark_rounded / light_square / dark_square / facebook */
+counter_separator_label: ' z ', /* The separator for the gallery counter 1 "of" 2 */
+animation_speed: 'fast', /* fast/slow/normal */
+autoplay_slideshow: false,
+allow_resize: true,
+show_title: false,
+social_tools: ''
+});
+
+});
+</script>
+</body>
+</html>

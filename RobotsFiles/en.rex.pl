@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /check/
+Disallow: /contao/
+Disallow: /system/
+Disallow: /templates/
+Disallow: /share/index.php
+Disallow: /contao-check.php
+Disallow: /flash.php
+Disallow: /README.md
+Disallow: /tl_files/pdf/*
+Disallow: /files/rex-serwis/pdf/*
+Disallow: /mediraty.html
+Disallow: /szukaj.html
+Disallow: /start.html
+Disallow: /pliki-cookies.html
+Allow: /assets/

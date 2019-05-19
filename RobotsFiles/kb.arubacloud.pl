@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /cmspages/
+Disallow: /cmshelp/
+Disallow: *?lang
+Disallow: /mobile.aspx
+Disallow: /mobile/
+Disallow: /de/
+Disallow: /es/
+Disallow: /cz/
+Disallow: /getattachment/
+Disallow: /en/changelog/mobile-application.aspx
+Disallow: /footer.*
+Disallow: /topreminder.*

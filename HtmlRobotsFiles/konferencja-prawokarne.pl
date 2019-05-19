@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="robots" content="noindex">
+</head>
+<body>
+<script>
+function createCookie(name,value,days) {
+if (days) {
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";
+}
+
+createCookie('vjs','2270372846',60);
+</script><form id="repost" method="post" action=""></form>
+<script>
+if((document.cookie.indexOf('vjs=') !== -1))
+location.reload();
+</script>
+<h1>Dostep do tej strony jest mozliwy tylko z przegladarki z wlaczona obsluga JavaScript i casteczek.</h1>
+<h1>Access to this website is possible only using browser with JavaScript and Cookies enabled.</h1>
+<h2>Jesli jestes wlascicielem tej strony to mozesz wylaczyc ten wymog w dziale blokada braku JavaScript w panelu hostingu</h2>

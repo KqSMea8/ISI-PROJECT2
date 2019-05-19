@@ -1,0 +1,12 @@
+User-agent:	*
+Disallow:	/cake/
+Disallow:	/app/
+Disallow:	/Aplikacja/
+Disallow:	/Wylogowanie/
+Disallow:	/Nowa-opinia/
+Disallow:	/Informacja/
+Disallow:	/Przekieruj/
+Disallow:	/reviews/
+Disallow:	/Szukaj/
+Disallow:	/Opinie/Za/
+Disallow:	/Opinie/Przeciw/

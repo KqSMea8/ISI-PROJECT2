@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /zapisz-sie-do-newslettera/
+Disallow: /szukaj-na-stronie/
+Disallow: /wyniki-szukania/
+Disallow: /kategoria/
+Disallow: /trasy/
+Disallow: /reklama/
+Disallow: /nc/wyniki-szukania/
+Disallow: /wiadomosci/artykul/darlowko-i-darlowo-dla-aktywnych-turystow-poznaj-najciekawsze-trasy-piesze-i-rowerowe/

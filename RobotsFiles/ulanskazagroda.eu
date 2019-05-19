@@ -1,0 +1,34 @@
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: *
+Allow: /
+
+User-agent: ZumBot
+Disallow: /
+User-agent: Muso
+Disallow: /
+User-agent: Attributor
+Disallow: /
+User-agent: DMCAForce
+Disallow: /
+User-agent: Riddler
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Magic
+Disallow: /
+User-agent: YisouSpider
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: Baiduspider+
+Disallow: /
+User-agent: BUbiNG
+Disallow: /
+

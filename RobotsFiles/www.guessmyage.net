@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /forum/
+Disallow: /report-photo.php
+Disallow: /guess.php
+Disallow: /photochooser.php
+Disallow: /old-v1/
+Disallow: /premium-error.php
+Disallow: /instagram.php

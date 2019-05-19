@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /koszyk.php
+Disallow: /Nape/
+Disallow: /_lib/
+Disallow: /ad_server/
+Disallow: /ajax/
+Disallow: /ankiety/
+Disallow: /eCard/
+Disallow: /edoc_d/
+Disallow: /edoc_p/
+Disallow: /enl/
+Disallow: /fc/
+Disallow: /forum/
+Disallow: /funct/
+Disallow: /gifts/
+#Disallow: /grafika/
+#Disallow: /images/
+#Disallow: /img/
+#Disallow: /img_enl/
+#Disallow: /img_pub/
+#Disallow: /img_pub_edu/
+#Disallow: /img_s/
+#Disallow: /img_tm/
+#Disallow: /img_tmp/
+Disallow: /suggestion_box/
+Disallow: /szukaj/
+Disallow: /przyklady/
+
+User-agent: Googlebot
+Disallow: /*.xml$
+Disallow: /*.txt$
+Disallow: /*.gz$
+Disallow: /*.tar$
+Disallow: /*.zip$
+#Disallow: /*.gif$
+#Disallow: /*.jpg$
+

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+noindex,nofollow
+
+

@@ -1,0 +1,6 @@
+# robots.txt for https://www.financialservices.man.eu
+User-agent: *
+Disallow:
+Sitemap: https://www.financialservices.man.eu/sitemap_domain.xml
+
+

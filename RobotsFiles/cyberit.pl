@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /albums/
+Allow: /cache/
+Allow: /cache_html/
+Disallow: /themes/
+Disallow: /zp-core/
+Disallow: /zp-data/
+Disallow: /page/search/
+Disallow: /uploaded/
+Disallow: /backup/

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /allegro/
+Disallow: /publiker/
+Disallow: /webmonitor/
+Disallow: /mailing/
+Disallow: /parser/
+Disallow: /new/
+Disallow: /mobilna/
+Disallow: /kontakt/
+Disallow: /kursy/
+Disallow: /kohana/
+Disallow: /taxi/
+Disallow: /m/
+Disallow: /smarty/
+Disallow: /jot-jot/
+Disallow: /auto/

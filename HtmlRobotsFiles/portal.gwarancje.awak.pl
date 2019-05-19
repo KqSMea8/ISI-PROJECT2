@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html>
+<head>
+<title>Default Page</title>
+<base href="HTTP://portal.gwarancje.awak.pl/" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="/_NF/system/NConsole.css">
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/themes/flick/jquery-ui.css">
+<link rel="stylesheet" href="resources/css/screen.css">
+<link rel="stylesheet" href="resources/css/page.css">
+<link rel="stylesheet" href="resources/css/tables.css">
+<link rel="stylesheet" href="resources/css/calendar.css">
+<script type="text/javascript" src="/_NF/js/jquery.js"></script>
+<script type="text/javascript" src="/_NF/js/NConsole.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+<script type="text/javascript" src="resources/js/lib.js"></script>
+<script type="text/javascript" src="resources/js/calendar_db.js"></script>
+<script type="text/javascript" src="resources/js/overlay.min.js"></script>
+</head>
+<body>
+<div class="x-line-horizontal1">
+</div>
+<div class="x-page">
+<div class="x-header">
+<div class="x-panel1">
+<h1><a href="http://portal.gwarancje.awak.pl/">AWAK Sp. z o. o.</a><br />
+</h1>
+</div>
+<div class="x-panel2">
+<ul>
+<li><a href="/start.htm" >Glowna</a></li><li><a href="/kontakt.htm" >Kontakt</a></li><li><a href="http://www.gwarancje.awak.pl" >Global</a></li>                    </ul>
+<div class="x-corner-right"></div>
+</div>
+<div class="x-panel3">
+<ul>
+
+<li><a href="PL/index.htm" class='active'><img src='/resources/images/flags/PL.gif' border='0' style='margin-top:9px;' title='PL' alt='PL'></a></li>                    </ul>
+<div class="x-corner-right"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div id="footer">
+<div class="bg">
+<div id="footer_text">Copyright &copy; 2002-2018<strong>&nbsp;<span style="font-size:12px;">ICOPAL AWAK Sp. z o.o.</span></strong><span style="font-size:12px;"><br />
+ul. Dobiezynska 56, 64-320 Buk, Polska, tel. +48 61 810 88 39, fax +48 61 810 88 38,</span>&nbsp;email: awak@<span style="font-size:12px;">bmigroup.com</span></div>
+<div id="created_by"><a href="http://www.webvisor.pl" target="_blank">Created by Webvisor</a></div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='http://www.icopal.pl/cookies/cookie.js'></script>
+
+<link rel="Stylesheet" href="http://www.icopal.pl/cookies/style.css" type="text/css" />
+
+<div class='cookieWindow' id='acceptCookies'>
+Serwis wykorzystuje pliki cookie (ciasteczka). Mozesz okreslic warunki przechowywania lub dostepu do plikow cookies w ustawieniach Twojej przegladarki.<a href='http://www.icopal.pl/index.php?page=polityka-cookies' target='_blank' style='color:#f1f1f1;'>Polityka cookies &raquo;</a>
+<a href='javascript:void(null);' onmousedown='acceptCookie();' class='accept'>X</a>
+</div></body>
+</html>
+

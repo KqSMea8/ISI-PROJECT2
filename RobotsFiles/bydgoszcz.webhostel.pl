@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /images/*
+Disallow: /includes/
+Disallow: /manage/
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /install/
+Disallow: /kontakt/
+Disallow: /?s=
+Allow: /rss/$
+Sitemap: http://bydgoszcz.webhostel.pl/sitemap.xml.gz

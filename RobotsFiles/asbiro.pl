@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/*
+Disallow: /wp-content/uploads/invoice/*
+Disallow: /wp-content/uploads/proforma/*
+Disallow: /wp-content/uploads/ticket/*
+Disallow: /wp-content/uploads/bwkd/*
+Disallow: /wp-content/uploads/invoices/*
+Disallow: /wp-content/uploads/meals/*
+Disallow: /wp-content/uploads/groups/*
+Disallow: /wp-content/uploads/group-lists/*
+Disallow: /wp-content/uploads/hotel/*
+Disallow: /wp-content/uploads/temp/*
+Disallow: /wp-content/uploads/elearning/*
+Disallow: /wp-content/uploads/id_cards/*

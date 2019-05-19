@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /login/
+Disallow: /tag*
+Disallow: /search/
+Disallow: /kalkulator?*
+Disallow: /aktywacja-konta/
+Disallow: /panel-klienta/
+Disallow: /page/show/47/
+Sitemap: http://vikersonn.eu/sitemap.xml

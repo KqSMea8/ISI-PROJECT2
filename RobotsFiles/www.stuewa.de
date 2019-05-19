@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /typo3
+Disallow: /typo3conf
+Disallow: /t3lib
+Disallow: /uploads
+Disallow: /fileadmin
+Sitemap: http://www.stuewa.de/index.php?eID=dd_googlesitemap

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administracja/
+Disallow: /admin/
+Disallow: /download/
+Disallow: /ext/
+Disallow: /includes/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /temp/
+Allow: /sitemap.xml
+Allow: /reviews.php

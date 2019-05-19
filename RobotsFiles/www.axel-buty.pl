@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /ru
+Disallow: /cz
+Disallow: /de
+Disallow: /pl/public/wyszukiwarka
+Disallow: /pl/public/kolekcje/archiwum
+Disallow: /pl/public/logowanie
+Disallow: /pl/public/rejestracja
+Disallow: /pl/public/kolekcje/poprzednie-kolekcje
+Disallow: /pl/public/kolekcje/jesien-2009
+Disallow: /pl/public/kolekcje/lato-2009
+Disallow: /pl/public/kolekcje/wiosna-2009
+Disallow: /pl/public/kolekcje/zima-2009

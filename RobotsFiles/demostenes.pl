@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /images/
+Disallow: /adodb5/
+Disallow: /class/
+Disallow: /css/
+Disallow: /gfx/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /langs/
+Disallow: /lightbox/
+Disallow: /panel/
+Disallow: /php/
+Allow: /

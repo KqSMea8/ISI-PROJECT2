@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: /nieuzywane/
+Disallow: /archiwum/
+Disallow: /x/
+Disallow: /ckeditor/
+Disallow: /pliki/
+Disallow: /rozklady/
+Disallow: /test/
+Disallow: /testy/
+Disallow: /zdjecia/
+Disallow: /naglowek0.php
+Disallow: /naglowek1.php
+Disallow: /stopka.php
+Disallow: /do_pobrania.php

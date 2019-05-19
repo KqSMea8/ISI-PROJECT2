@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /katalog/product/podglad*
+Disallow: /*?p=*=*
+Allow: /*?p=*
+Disallow: /*?ajaxcatalog=true&p=*=*
+Allow: /*?ajaxcatalog=true&p=*
+Disallow: /*?*
+
+

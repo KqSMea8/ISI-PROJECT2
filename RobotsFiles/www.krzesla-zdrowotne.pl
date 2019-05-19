@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /core/
+Disallow: /core
+Disallow: /import/money-stock/
+Disallow: /import/money-stock
+Disallow: /import/money-order-status
+Disallow: /import/money-order-status/
+Disallow: /newsletter-subscriber/add
+Disallow: /newsletter-subscriber/add/

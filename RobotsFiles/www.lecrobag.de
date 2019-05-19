@@ -1,0 +1,913 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="" lang="" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base href=""/>
+<title>LE CROBAG / HOME</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="http://www.lecrobag.de/favicon.ico?v=2" />
+<link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'/>
+
+<link rel="stylesheet" type="text/css" href="http://www.lecrobag.de/wp-content/themes/sandbox/css/reset.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lecrobag.de/wp-content/themes/sandbox/css/development.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lecrobag.de/wp-content/themes/sandbox/css/jquery.fancybox.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="http://www.lecrobag.de/wp-content/themes/sandbox/css/style.css?v=4" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lecrobag.de/wp-content/themes/sandbox/css/responsive.css?v=3" media="all" />
+
+<!--[if IE]>
+<link href="wp-content/themes/sandbox/css/style.ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link href="wp-content/themes/sandbox/css/style.ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery.ui.js"></script>
+<script type="text/javascript" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery.touchwipe.1.1.1.js"></script>
+<script type="text/javascript" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery-touchhandler.v2.js"></script>
+<script type="text/javascript" class="default-js" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/jquery.steps.min.js"></script>
+<script type="text/javascript" class="default-js" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/lib.js"></script>
+<script type="text/javascript" class="default-js" src="http://www.lecrobag.de/wp-content/themes/sandbox/js/default.js?v115"></script>
+</head>
+<body class="home ">
+<a class="topanchor" name="top"></a>
+<div id="pagename" class="hidden">home</div>
+<div id="bg_image_asoc" class="hidden">http://www.lecrobag.de/wp-content/uploads/background-images/lecrobag</div>
+<div id="main-wrapper">
+
+<div id="background-wrapper">
+<div id="background-inner">
+<img src="http://www.lecrobag.de/wp-content/uploads/background-images/lecrobag_bg_large_1.jpg" id="background" />
+</div>
+</div>
+
+
+<div id="header-wrapper" class="navi-0">
+
+<div id="header-background" class="shadow-04">
+
+</div>
+<div id="header">
+<div id="menu">
+<a class="mobile_home" href="http://www.lecrobag.de/home.html">HOME</a>
+<ul id="level-1" class="level-1">
+<li class="home">
+<a class="menuitem first" href="http://www.lecrobag.de/home.html">HOME</a>
+</li>
+<li class="news">
+<a class="menuitem " href="http://www.lecrobag.de/news.html">NEWS</a>
+</li>
+<li class="produkte">
+<a class="menuitem" href="http://www.lecrobag.de/produkte.html">PRODUKTE</a>
+<div class="submenu">
+<ul class="level-2" id="level-2-3">
+<li>
+<a class="menuitem croissants first" href="http://www.lecrobag.de/produkte/croissants.html">Croissants</a>
+</li>
+<li>
+<a class="menuitem baguettes" href="http://www.lecrobag.de/produkte/baguettes.html">Baguettes</a>
+</li>
+<li>
+<a class="menuitem ficelle" href="http://www.lecrobag.de/produkte/ficelle.html">Ficelle</a>
+</li>
+<li>
+<a class="menuitem salate" href="http://www.lecrobag.de/produkte/salate.html">Salate</a>
+</li>
+<li>
+<a class="menuitem suesses" href="http://www.lecrobag.de/produkte/suesses.html">Susses</a>
+</li>
+<li>
+<a class="menuitem kaffeespezialitaeten" href="http://www.lecrobag.de/produkte/kaffeespezialitaeten.html">Kaffeespezialitaten</a>
+</li>
+<li>
+<a class="menuitem pain" href="http://www.lecrobag.de/produkte/pain.html">Pain</a>
+</li>
+<li>
+<a class="menuitem exklusiv last" href="http://www.lecrobag.de/produkte/exklusiv.html">Exklusiv</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="shops">
+<a class="menuitem " href="http://www.lecrobag.de/shops.html">SHOPS</a>
+</li>
+<li class="unternehmen">
+<a class="menuitem l-hidden" href="http://www.lecrobag.de/unternehmen.html">UNTERNEHMEN</a>
+<a class="menuitem m-hidden s-hidden xs-hidden" href="http://www.lecrobag.de/unternehmen/philosophie.html">UNTERNEHMEN</a>
+<div class="submenu">
+<ul class="level-2 " id="level-2-5">
+<li>
+<a class="menuitem philosophie first" href="http://www.lecrobag.de/unternehmen/philosophie.html">Philosophie</a>
+</li>
+<li>
+<a class="menuitem geschichte" href="http://www.lecrobag.de/unternehmen/geschichte.html">Geschichte</a>
+</li>
+<li>
+<a class="menuitem fakten" href="http://www.lecrobag.de/unternehmen/fakten.html">Fakten & Zahlen</a>
+</li>
+<li>
+<a class="menuitem shopkonzepte" href="http://www.lecrobag.de/unternehmen/shopkonzepte.html">Shopkonzepte</a>
+</li>
+<li>
+<a class="menuitem fuehrungsgrundsaetze" href="http://www.lecrobag.de/unternehmen/fuehrungsgrundsaetze.html">Fuhrungsgrundsatze</a>
+</li>
+<li>
+<a class="menuitem hygiene last" href="http://www.lecrobag.de/hygiene.html">Hygiene</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="franchise">
+<a class="menuitem l-hidden" href="http://www.lecrobag.de/franchise.html">FRANCHISE</a>
+<a class="menuitem m-hidden s-hidden xs-hidden" href="http://www.lecrobag.de/franchise/selbststaendigkeit.html">FRANCHISE</a>
+</li>
+<li class="karriere">
+<a class="menuitem last l-hidden" href="http://www.lecrobag.de/karriere.html">KARRIERE</a>
+<a class="menuitem last m-hidden s-hidden xs-hidden" href="http://www.lecrobag.de/karriere/stellenangebote.html">KARRIERE</a>
+<div class="submenu">
+<ul class="level-2 " id="level-2-6">
+<li>
+<a class="menuitem stellenangebote first" href="http://www.lecrobag.de/karriere/stellenangebote.html">Stellenangebote</a>
+</li>
+<li>
+<a class="menuitem personalentwicklung" href="http://www.lecrobag.de/karriere/personalentwicklung.html">Personalentwicklung</a>
+</li>
+<li>
+<a class="menuitem ausbildung" href="http://www.lecrobag.de/karriere/ausbildung.html">Ausbildung</a>
+</li>
+
+<li>
+<a class="menuitem bewerbungsformular last" href="http://www.lecrobag.de/karriere/bewerbungsformular.html">Bewerbungsformular</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="mobile-add l-hidden">
+
+<div class="curent-language de">
+
+</div>
+
+<div class="chooser de"">
+<a class="de" href="http://www.lecrobag.de/de/home.html">Deutsch</a>
+<a class="en" href="http://www.lecrobag.de/en/home.html">English</a>
+<a class="fr" href="http://www.lecrobag.de/fr/home.html">Francais</a>
+<a class="pl" href="http://www.lecrobag.de/pl/home.html">Polski</a>
+<a class="ru last" href="http://www.lecrobag.de/ru/home.html">Russkiy</a>
+</div>
+
+<div class="info">
+<a class="menuitem first " href="mailto:mail@lecrobag.de">Kontakt</a>
+<a class="menuitem" href="http://www.lecrobag.de/datenschutz.html">Datenschutz</a>
+<a class="menuitem" href="http://www.lecrobag.de/impressum.html">Impressum</a>
+</div>
+
+</li>
+</ul>
+
+</div>
+<div id="menu-toggle">
+<span>MENU</span>
+</div>
+</div>
+</div>
+
+<div id="additional-header-wrapper">
+<div id="language-chooser">
+<div class="current">
+<img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/de.png" alt="Deutsch"/><span class="txt">Deutsch</span>
+<div class="clr"></div>
+</div>
+<div class="chooser shadow-01">
+<a href="http://www.lecrobag.de/de/home.html"><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/de.png" alt="Deutsch"/><span class="txt">Deutsch</span><span class="clr"></span></a>
+<a href="http://www.lecrobag.de/en/home.html"><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/en.png" alt="English"/><span class="txt">English</span><span class="clr"></span></a>
+<a href="http://www.lecrobag.de/fr/home.html"><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/fr.png" alt="Francais"/><span class="txt">Francais</span><span class="clr"></span></a>
+<a href="http://www.lecrobag.de/pl/home.html"><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/pl.png" alt="Polski"/><span class="txt">Polski</span><span class="clr"></span></a>
+<a href="http://www.lecrobag.de/ru/home.html"><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/ru.png" alt="Russkiy" style="
+opacity: 0.8;
+width: 22px;
+padding-left: 1px;
+padding-top: 4px;
+"><span class="txt">Russkiy</span><span class="clr"></span></a>
+</div>
+</div>
+<div id="hide-content"></div>
+</div>
+<div id="content-wrapper">
+
+
+
+
+<div id="content">
+<div class="raster float text l-has-2 m-has-1 s-has-1 xs-has-1"><div class="inner ">
+<div class="fit"><div class="inner">
+<div id="left-col">
+
+<!-- PRODUCTS -->
+<div class="product-wrapper shadow-01 small-default-container" >
+<div class="headline-wrapper">
+<div class="headline">
+<h2>bon appetit !</h2>
+<h3><span class="bullet">&nbsp;</span><a href="http://www.lecrobag.de/produkte">Produkte</a><span class="bullet">&nbsp;</span></h3>
+</div>
+</div>
+<div class="custom-slider border" id="home-product-slider">
+
+<script>
+
+function getOptions() {
+return {
+"width" : function(_opt) { console.log(_opt); return _opt.ref.width(); },
+"visible": 1,
+"arrows": true,
+"navi": false,
+"cookie": true
+};
+};
+
+jQuery(window).bind('resize', function() {
+jQuery('#home-product-slider').css({'opacity':'0'});
+});
+
+jQuery(window).bind('resize', Client.ResizeDebouncer(function(){
+jQuery('#home-product-slider').css({'opacity':'1'});
+app.slider.setOne(jQuery('#home-product-slider'),getOptions());
+},333));
+
+Slider.options.push(getOptions());
+
+jQuery('#home-product-slider').touchhandler({
+wipeLeft: function() {
+app.slider.animate(jQuery('#home-product-slider'),'right');
+},
+wipeRight: function() {
+app.slider.animate(jQuery('#home-product-slider'),'left');
+},
+preventDefault: false
+});
+
+</script>
+
+<div class="slider-wrapper">
+<div class="slider">
+<div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/rucola-parmesan.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/ficelle_rucola_s.jpg"
+alt="Rucola-Parmesan <br />Ficelle" />
+<h2>Rucola-Parmesan</h2>
+<h3><br />Ficelle</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/scharfe-salami.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/ficelle_salami_s.jpg"
+alt="Scharfe Salami <br />Ficelle" />
+<h2>Scharfe Salami</h2>
+<h3><br />Ficelle</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/leerdammer.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/ficelle_leerdamer_s.jpg"
+alt="Leerdammer <br />Ficelle" />
+<h2>Leerdammer</h2>
+<h3><br />Ficelle</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/serrano.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/ficelle_serrano_s.jpg"
+alt="Serrano <br />Ficelle" />
+<h2>Serrano</h2>
+<h3><br />Ficelle</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/leerdammer-kochschinken.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/08/Ficelle_Ka|ese_Schinken_L.jpg"
+alt="Leerdammer-Kochschinken <br/>Ficelle" />
+<h2>Leerdammer-Kochschinken</h2>
+<h3><br/>Ficelle</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/paris.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2016/04/Ficelle-Paris_3_Chavroux-2.png"
+alt="Paris <br />Ficelle" />
+<h2>Paris</h2>
+<h3><br />Ficelle</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/toast-rucola-parmesan.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2016/04/Toast_RuccoParmesan2.png"
+alt="Rucola Parmesan <br />Ficelle Toast" />
+<h2>Rucola Parmesan</h2>
+<h3><br />Ficelle Toast</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/toast-salami-kase.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2016/04/Toast_Salami-Kase2.png"
+alt="Leerdammer - scharfe Salami <br />Ficelle Toast" />
+<h2>Leerdammer - scharfe Salami</h2>
+<h3><br />Ficelle Toast</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/ficelle/toast-leerdammer-kochschinken.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2016/04/Toast_Leerdammer-Schinken1.png"
+alt="Leerdammer-Kochschinken <br />Ficelle Toast" />
+<h2>Leerdammer-Kochschinken</h2>
+<h3><br />Ficelle Toast</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/butter-croissant.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/buttercroissant_s.jpg"
+alt="Butter-croissant " />
+<h2>Butter-croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/schoko-croissant.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2013/06/S_schokocroissant.jpg"
+alt="Pain au chocolat
+Schoko-Croissant " />
+<h2>Pain au chocolat
+Schoko-Croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/marzipan-croissant.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/marzipancroissant_s.jpg"
+alt="Marzipan-Croissant " />
+<h2>Marzipan-Croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/nuss-nougat-croissant.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/nussnougatcroissant_s.jpg"
+alt="Nuss-Nougat-Croissant " />
+<h2>Nuss-Nougat-Croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/schinken-kase-croissant.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/03/Kase_Schinken_2014_s1.jpg"
+alt="Schinken-Kase-Croissant " />
+<h2>Schinken-Kase-Croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/wurst-croissant.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/03/Wurst_2014_s1.jpg"
+alt="Wurst-Croissant " />
+<h2>Wurst-Croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/croissants/kaese-buttercroissant-2.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2015/04/Kase-Buttercroissant.png"
+alt="Kase-<br>Butter-croissant " />
+<h2>Kase-<br>Butter-croissant</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/finlandaise_veggie.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2016/04/Finlandaise-VEGGIE_Freisteller_klein2.png"
+alt="Veggie Finlandaise" />
+<h2>Veggie</h2>
+<h3>Finlandaise</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/tomate-mozzarella.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/baguette_mozarellatomate_s.jpg"
+alt="Tomate-Mozzarella Baguette" />
+<h2>Tomate-Mozzarella</h2>
+<h3>Baguette</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/pute-honig-senf-sauce.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/baguette_pute_s.jpg"
+alt="Truthahnbrust Baguette" />
+<h2>Truthahnbrust</h2>
+<h3>Baguette</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/ei.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/08/Finlandaise_Ei_l.jpg"
+alt="Ei Finlandaise" />
+<h2>Ei</h2>
+<h3>Finlandaise</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/gouda.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/08/Finlandaise_Gouda_L.jpg"
+alt="Gouda Finlandaise" />
+<h2>Gouda</h2>
+<h3>Finlandaise</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/gouda-kochschinken.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2015/02/Baguette_KaeseSchink_2.png"
+alt="Gouda-Kochschinken Baguette" />
+<h2>Gouda-Kochschinken</h2>
+<h3>Baguette</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/huhnchen-curry-mango-sauce.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/baguette_huhncurry_s.jpg"
+alt="Huhnchen Baguette" />
+<h2>Huhnchen</h2>
+<h3>Baguette</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/gouda-salami.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/finlandaise_goudasalami_s.jpg"
+alt="Gouda-Salami Finlandaise" />
+<h2>Gouda-Salami</h2>
+<h3>Finlandaise</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/salami.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/finlandaise_salami_s.jpg"
+alt="Salami Finlandaise" />
+<h2>Salami</h2>
+<h3>Finlandaise</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/baguettes/basilikumtofu-tomate.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/08/Tofu_Baguette__L.jpg"
+alt="Basilikumtofu Tomate Baguette" />
+<h2>Basilikumtofu Tomate</h2>
+<h3>Baguette</h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/apfeltasche.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/apfeltasche_s.jpg"
+alt="Apfeltasche " />
+<h2>Apfeltasche</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/quarktasche.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/quarktasche_s.jpg"
+alt="Quarktasche " />
+<h2>Quarktasche</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/blueberry-muffin.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/lcb_blueberry_s.jpg"
+alt="Blueberry Muffin " />
+<h2>Blueberry Muffin</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/double-choc-muffin.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/lcb_doublechoc_s.jpg"
+alt="Double Choc Muffin " />
+<h2>Double Choc Muffin</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/vanille-creme-chocolat.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/04/Vanille_Choc_WEB_s.jpg"
+alt="Vanille-Creme-Chocolat " />
+<h2>Vanille-Creme-Chocolat</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/pecannuss-tasche.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2014/04/Pecanuss_Web_s.jpg"
+alt="Pecannuss-Tasche " />
+<h2>Pecannuss-Tasche</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/brownie.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/brownie_s.jpg"
+alt="Brownie " />
+<h2>Brownie</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/pudding-rosinen-schnecke.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/puddingrosinenschnecke_s.jpg"
+alt="Pudding-Rosinen-Schnecke " />
+<h2>Pudding-Rosinen-Schnecke</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/butter-franzbrotchen.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/franzbroetchen_s.jpg"
+alt="Butter-Franzbrotchen " />
+<h2>Butter-Franzbrotchen</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/cookies.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/cookie_s.jpg"
+alt="Cookies " />
+<h2>Cookies</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/suesses/donut-gezuckert.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/donuts_s.jpg"
+alt="Donut gezuckert " />
+<h2>Donut gezuckert</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/salate/nudelsalat.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2018/05/Nudelsalat.jpg"
+alt="Pot Pasta Siziliana " />
+<h2>Pot Pasta Siziliana</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/salate/huhnchenbrust-salat.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2018/05/salade-caeser-web.jpg"
+alt="Salade Caesar " />
+<h2>Salade Caesar</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/salate/garten-salat.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2018/05/salade-jardin_web.jpg"
+alt="Salade Jardin " />
+<h2>Salade Jardin</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/salate/bauern-salat.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2018/05/salade-grecque_web.jpg"
+alt="Salade Grecque " />
+<h2>Salade Grecque</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/tee.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/tee_s.jpg"
+alt="Tee " />
+<h2>Tee</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/kakao.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2017/01/Kakao_fr_3.png"
+alt="Kakao " />
+<h2>Kakao</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/caramel-macchiato.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2013/06/S_Latte_marzipancroissant_s.jpg"
+alt="Latte Macchiato " />
+<h2>Latte Macchiato</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/cappuccino.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2017/01/cappuccino_l2-1.jpg"
+alt="Cappuccino " />
+<h2>Cappuccino</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/kaffee.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2013/06/S_Kaffee1.jpg"
+alt="Kaffee " />
+<h2>Kaffee</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/espresso.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2017/01/espresso_fr_3.png"
+alt="Espresso " />
+<h2>Espresso</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/kaffeespezialitaeten/milchkaffee.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2016/11/Milchkaffee-Freigestellt.png"
+alt="Milchkaffee " />
+<h2>Milchkaffee</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/pain/baguette.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2015/02/Baguette1_12.png"
+alt="Baguette " />
+<h2>Baguette</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/pain/finlandaise.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2015/02/Finlandaise1_1.png"
+alt="Finlandaise " />
+<h2>Finlandaise</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/pain/ficelle.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2015/02/Ficelle1_12.png"
+alt="Ficelle " />
+<h2>Ficelle</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/kartoffelgratin-gemuse.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/gratin_kartoffelgem_s.jpg"
+alt="Kartoffelgratin Gemuse " />
+<h2>Kartoffelgratin Gemuse</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/kartoffelgratin-spinat.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/gratin_kartoffelspin_s.jpg"
+alt="Kartoffelgratin Spinat " />
+<h2>Kartoffelgratin Spinat</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/nudelauflauf-broccoli-schinken.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/nudel_broccoschink_s.jpg"
+alt="Nudelauflauf Broccoli-Schinken " />
+<h2>Nudelauflauf Broccoli-Schinken</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/nudelauflauf-salami-paprika.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/nudel_salamipaprika_s.jpg"
+alt="Nudelauflauf Salami-Paprika " />
+<h2>Nudelauflauf Salami-Paprika</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/orangesaft-frisch-gepresst.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/osaft_s.jpg"
+alt="Orangesaft, frisch gepresst " />
+<h2>Orangesaft, frisch gepresst</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/smoothie-brombeer.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/smoothie_brombeer_s.jpg"
+alt="Smoothie Brombeer " />
+<h2>Smoothie Brombeer</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/smoothie-erdbeer.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/smoothie_erdbeer_s.jpg"
+alt="Smoothie Erdbeer " />
+<h2>Smoothie Erdbeer</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div><div class="element">
+<a href="http://www.lecrobag.de/produkte/exklusiv/spaghettini-all-arrabiata.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/spaghetti_arrab_s.jpg"
+alt="Spaghettini all' Arrabiata " />
+<h2>Spaghettini all' Arrabiata</h2>
+<h3></h3>
+<div class="clr"></div>
+</a>
+</div>							</div>
+</div>
+<div class="init-content-wrapper">
+
+</div>
+</div>
+
+</div>
+
+<!-- JOBS -->
+<div class="red-wrapper shadow-01 small-default-container">
+
+<a class="s-hidden m-hidden xs-hidden" href="http://www.lecrobag.de/karriere/stellenangebote.html">
+<h2>Stellenangebote !</h2>
+<h3><span class="bullet">&nbsp;</span>karriere<span class="bullet">&nbsp;</span></h3>
+<span class="text">teamplayer gesucht !</span>
+</a>
+
+<a class="l-hidden" href="http://www.lecrobag.de/karriere/stellenangebote.html">
+<h2>Stellenangebote !</h2>
+<h3><span class="bullet">&nbsp;</span>karriere<span class="bullet">&nbsp;</span></h3>
+<span class="text">teamplayer gesucht !</span>
+</a>
+
+</div>
+
+<!-- SOCIAL DESKTOP -->
+<div class="s-hidden m-hidden xs-hidden facebook-wrapper shadow-01">
+<a href="https://www.facebook.com/lecrobag" target="_blank">
+<img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/jaimmmh.png"/>
+</a>
+</div>
+
+<!-- SOCIAL MOBILE -->
+<div class="l-hidden shadow-01 small-default-container">
+<div class="headline-wrapper">
+<div class="headline">
+<h2>Folge Uns !</h2>
+<h3><span class="bullet">&nbsp;</span>Le Crobag<span class="bullet">&nbsp;</span></h3>
+</div>
+</div>
+<div class="border">
+<a href="https://www.facebook.com/lecrobag" target="_blank">
+<img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/jaimmmh.png"/>
+</a>
+<div class="social-links">
+<a href="https://www.facebook.com/lecrobag" target="_blank">
+<img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/responsive/facebook@2x.png"/>
+</a>
+<a href="https://www.twitter.com/lecrobag" target="_blank">
+<img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/responsive/twitter@2x.png"/>
+</a>
+<a href="https://www.instagram.com/lecrobag" target="_blank">
+<img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/responsive/instagram@2x.png"/>
+</a>
+</div>
+<div class="clr"></div>
+</div>
+</div>
+
+</div>
+</div></div>
+<div class="fit"><div class="inner">
+<div id="right-col">
+
+<!-- SHOP LINK BOX -->
+<div class="lecrobag-wrapper shadow-01">
+<a class="s-hidden m-hidden xs-hidden" href="http://www.lecrobag.de/shops.html"><img style="width: 300px; height: 215px;" src="http://www.lecrobag.de/wp-content/uploads/2017/08/WEB-Shops-300x215_LCB.png"/></a>
+<a class="l-hidden" href="http://www.lecrobag.de/shops.html"><img style="width: 100%; height: auto;" src="http://www.lecrobag.de/wp-content/uploads/2017/08/WEB-Shops-300x215_LCB.png"/></a>
+</div>
+
+<!-- COMPANY DESKTOP -->
+<div class="s-hidden m-hidden xs-hidden bonjour-wrapper shadow-01 custom-tooltip" title="Salut -- Alles uber uns">
+<a href="http://www.lecrobag.de/unternehmen.html">
+<img src="http://www.lecrobag.de/wp-content/uploads/2012/09/bonjour.png"/>					</a>
+</div>
+
+<!-- COMPANY MOBILE -->
+<div class="l-hidden red-wrapper small-default-container">
+<a class="l-hidden" href="http://www.lecrobag.de/unternehmen/philosophie.html">
+<h2>Philosophie !</h2>
+<h3><span class="bullet">&nbsp;</span>Unternehmen<span class="bullet">&nbsp;</span></h3>
+<div class="bonjour_2x"></div>
+</a>
+</div>
+
+
+<div class="clr"></div>
+
+
+<!-- NEWS -->
+<div class="news-wrapper shadow-01 small-default-container">
+<div class="headline-wrapper">
+<div class="headline">
+<h2>BIENVENUE !</h2>
+<h3><span class="bullet">&nbsp;</span>News<span class="bullet">&nbsp;</span></h3>
+</div>
+</div>
+<div class="border">
+<div class="news-item"><a href="http://www.lecrobag.de/news/ostern-2019.html">
+<h2>Friede, Freude, Eier suchen!</h2>
+<h3>21.04.2019</h3>
+<span>
+Joyeuses Paques! Unsere diesjahrige Oster-Aktion!
+</span>
+<div class="arrow"><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/news_pfeile.png"/></a></div>
+</div>						<div class="clr"></div>
+</div>
+</div>
+
+<!--  CATERING LINK BOX -->
+<div class="lecrobag-wrapper shadow-01">
+<a class="s-hidden m-hidden xs-hidden" target="_blank" href="https://www.lecrobag-catering.de"><img style="width: 300px; height: 215px;" src="http://www.lecrobag.de/wp-content/uploads/2018/03/catering.jpg"/></a>
+<a class="l-hidden" target="_blank" href="https://www.lecrobag-catering.de"><img style="width: 100%; height: auto;" src="http://www.lecrobag.de/wp-content/uploads/2018/03/catering.jpg"/></a>
+</div>
+
+<!-- CONTACT MOBILE -->
+<div class="l-hidden m-hidden red-wrapper small-default-container">
+<a href="mailto:mail@lecrobag.de">
+<h2>Feedback</h2>
+<h3><span class="bullet">&nbsp;</span>Kontakt<span class="bullet">&nbsp;</span></h3>
+<div class="letter_2x"></div>
+</a>
+</div>
+
+</div>
+</div></div>
+</div></div>
+</div>
+
+
+<div class="clr"></div>
+
+</div>
+<div id="footer-wrapper" class="shadow-04">
+<div class="footer-social" id="footer-facebook">
+<a href="https://www.facebook.com/lecrobag" target="_blank">
+<img alt="Facebook" src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/footer-facebook-25.jpg"/>
+</a>
+</div>
+<div class="footer-social" id="footer-instagram">
+<a href="https://www.instagram.com/lecrobag/" target="_blank">
+<img alt="Instagram" src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/footer-instagram-25.jpg"/>
+</a>
+</div>
+<div class="footer-social" id="footer-twitter">
+<a href="https://twitter.com/lecrobag" target="_blank">
+<img alt="Twitter" src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/footer-twitter-25.jpg"/>
+</a>
+</div>
+<div id="footer">
+<div id="footer-press">
+Copyright &copy 2012 <span>LECROBAG.</span>de
+</div>
+<div id="footer-menu">
+<ul id="level-1">
+<li>
+<a class="menuitem first s-hidden m-hidden xs-hidden " href="http://www.lecrobag.de/impressum.html">Impressum</a>
+<a class="menuitem first l-hidden " href="mailto:mail@lecrobag.de">Kontakt</a>
+</li>
+<li>
+<a class="menuitem" href="http://www.lecrobag.de/datenschutz.html">Datenschutz</a>
+</li>
+<li class="sitemap">
+<a class="menuitem" href="http://www.lecrobag.de/sitemap.html">Sitemap</a>
+</li>
+<li>
+<a class="menuitem l-hidden" href="http://www.lecrobag.de/impressum.html">Impressum</a>
+<a class="menuitem s-hidden m-hidden xs-hidden" href="http://www.lecrobag.de/kontakt.html">Kontakt</a>
+</li>
+<a class="totop l-hidden" href="#top"></a>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="tooltip" class="shadow-01"><span></span><img src="http://www.lecrobag.de/wp-content/themes/sandbox/img/layout/tooltip_pfeile.png"/></div>
+
+<script type="text/javascript">
+app.rdetect.detect();
+</script>
+
+</body>
+</html>
+

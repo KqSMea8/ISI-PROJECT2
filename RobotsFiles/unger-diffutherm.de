@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow: /fileadmin/templates
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /*?id=*
+
+User-agent: googlebot  # Google specific settings
+Disallow: /*?tx_indexedsearch
+
+Sitemap: /sitemap.xml
+

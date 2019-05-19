@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-*
+Disallow: /gd-*
+Disallow: /*?*
+

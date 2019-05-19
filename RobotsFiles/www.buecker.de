@@ -1,0 +1,17 @@
+Sitemap: https://www.buecker.de/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /arbeitnehmer.html
+Disallow: /arbeitgeber.html
+Disallow: /selbststaumlndige.html
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /leaseabike.html
+Disallow: /e-bike-leasing_alt.html
+Disallow: /test.html
+

@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<META http-equiv=Content-Type content='text/html; charset=UTF-8'><meta http-equiv='expires' content='0'><link rel=stylesheet type='text/css' href='/domcfg.nsf/cssLogin?ReadForm'>
+<script language="JavaScript" type="text/javascript">
+<!--
+var NN4 = (document.layers) ? true : false;// required for NN4 to reliably capture key eventsif (NN4) document.captureEvents(Event.KEYPRESS)document.onkeypress = function (event) {  checkEnter(event)  return true}function setFormFocus() {	document.forms[0].Username.focus(); 	document.forms[0].Username.select();}//submit the form if the user presses the ENTER keyfunction checkEnter(event){ 		var code = 0		if (NN4) {		code = event.which	} else {		code = window.event.keyCode	}			if (code==13)		document.forms[0].submit()}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" onload="setFormFocus();document.forms[0].autocomplete='off';">
+
+<form method="post" action="/names.nsf?Login" name="_DominoForm">
+<input type="hidden" name="%%ModDate" value="0000037800000000"><table border="0" width="100%" height="70%"><tr><td align="center"><div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td width="53"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="299"><div align="center">
+<input name="Untitled" value="" style="display:none"></div><font color="#2f2f2f" face="Consolas">
+<input name="Untitled2" value="" type="password" style="display:none"></font>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td height=100 width="1%" valign="middle"><img width="124" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<div align="right"><img src="/domcfg.nsf/a5f213b09e138b72052566b20068aa38/$Body/0.5E4?OpenElement&amp;FieldElemFormat=gif" width="32" height="32"></div></td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+Prosze sie zalogowac:</td></tr>
+
+<tr valign="top"><td width="1%" valign="middle"><img width="124" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<div align="right">Nazwa uzytkownika:</div></td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<font face="Courier New">
+<input name="Username" value="" size=20 maxlength=50 autocomplete=off></font></td></tr>
+
+<tr valign="top"><td width="1%" valign="middle"><img width="124" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<div align="right">Haslo:</div></td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<font face="Courier New">
+<input name="Password" value="" type="password" size=20 maxlength=50 autocomplete=off></font></td></tr>
+
+<tr valign="top"><td height=50 width="0%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<br>
+<input type="submit" value="Wejdz"></td></tr>
+</table>
+</td><td width="158"><img src="/domcfg.nsf/a5f213b09e138b72052566b20068aa38/$Body/0.1854?OpenElement&amp;FieldElemFormat=jpg" width="159" height="165"></td></tr>
+</table>
+</div><div align="center"><br>
+<font size="2">
+<input name="RedirectTo" value="/robots.txt" type=hidden></font></td></tr></table>
+</div></form>
+</body>
+</html>
+

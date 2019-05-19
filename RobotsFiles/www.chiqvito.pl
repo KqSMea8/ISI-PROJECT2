@@ -1,0 +1,25 @@
+# robots.txt
+# http://www.chiqvito.pl/
+# Zablokowane katalogi i pliki:
+User-agent: *
+Disallow: /tmp/
+Disallow: /en/portfolio/web-pages/telewizornia
+Disallow: /en/portfolio/web-pages/benhauer
+Disallow: /en/portfolio/web-pages/consulting360
+Disallow: /en/portfolio/web-pages/oshee
+Disallow: /en/portfolio/web-pages/centrum-plus-wholesale
+Disallow: /en/portfolio/web-pages/kwiatowe-klimaty-florist
+Disallow: /pl/portfolio/strony-www/consulting360
+Disallow: /pl/portfolio/strony-www/benhauer
+Disallow: /pl/portfolio/strony-www/telewizornia
+Disallow: /pl/portfolio/strony-www/oshee
+Disallow: /pl/portfolio/strony-www/kwiaciarnia-kwiatowe-klimaty
+Disallow: /pl/portfolio/strony-www/hurtownia-centrum-plus
+Disallow: /pl/portfolio/projekty-e-commerce/salesnet360
+Disallow: /en/portfolio/e-commerce-projects/salesnet360
+Disallow: /en/portfolio/e-commerce-projects
+Disallow: /pl/portfolio/projekty-e-commerce
+Disallow: /en/portfolio/web-pages
+Disallow: /pl/portfolio/strony-www
+Disallow: /en/portfolio
+Disallow: /pl/portfolio

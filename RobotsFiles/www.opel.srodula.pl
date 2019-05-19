@@ -1,0 +1,4 @@
+# Allow all other robots to browse everywhere
+User-agent: *
+Disallow:
+

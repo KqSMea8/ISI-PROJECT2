@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /drafts
+Disallow: /tmp
+Disallow: /sms
+Disallow: /smarty
+Disallow: /errors
+Disallow: /downloads
+Disallow: /apps
+Sitemap: http://www.boardwalk.pl/sitemap.xml

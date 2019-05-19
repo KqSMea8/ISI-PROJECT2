@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /product/
+Disallow: /doctab/
+Disallow: /static/
+Disallow: /maio/
+Disallow: /documents/
+Disallow: /layout/
+Disallow: /embed2/
+Disallow: /content/view/full
+Disallow: /document/download/
+Disallow: /consob_amundi_it_instit/
+Disallow: /consob_amundi_it_retail/
+Disallow: /amundi_it_instit/
+Disallow: /amundi_it_retail/
+Disallow: /fsma_amundi_be_fr_instit/
+Disallow: /fsma_amundi_be_fr_retail/
+Disallow: /amundi_be_fr_instit/
+Disallow: /amundi_be_fr_retail/
+Noindex: /etf_*
+

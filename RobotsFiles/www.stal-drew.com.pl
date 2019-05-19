@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /wp-content/themes/staldrew/
+Allow: /wp-content/themes/staldrew/css/
+Allow: /wp-content/themes/staldrew/fonts/
+Allow: /wp-content/themes/staldrew/images/
+Allow: /wp-content/themes/staldrew/js/
+Allow: /wp-content/
+Allow: /wp-content/plugins/
+Allow: /wp-content/uploads/
+Disallow: /wp-includes/
+Disallow: /administracja/
+Disallow: /wp-content/languages/
+Disallow: /wp-content/themes/twentyfifteen/
+Disallow: /wp-content/themes/twentyfourteen/
+Disallow: /wp-content/themes/twentysixteen/

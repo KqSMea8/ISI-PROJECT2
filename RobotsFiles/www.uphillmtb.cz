@@ -1,0 +1,5 @@
+Sitemap: http://www.uphillmtb.cz/sitemap.xml
+
+User-agent: *
+Disallow: /admin/
+Disallow: /admin.php

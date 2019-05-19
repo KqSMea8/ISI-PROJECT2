@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /scripts/
+Disallow: /temp/
+Disallow: /fbapi/
+Disallow: /facebook-ads-api/
+Disallow: /fa/
+

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/
+Disallow: /wp-includes/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Disallow: */feed/
+Sitemap: http://www.orlik-krynica.pl/page-sitemap.xml

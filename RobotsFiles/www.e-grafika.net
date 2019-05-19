@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<base href="http://www.e-grafika.net/" />
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="lightbox.css" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Grafika komputerowa. Webdesign. Projektowanie stron www." />
+<meta name="keywords" content="grafika komputerowa, grafika, grafika internetowa, webdesign, projektowanie stron www, tworzenie stron www, e-grafika, e-grafika.net, strony internetowe, strony www, tworzenie stron www, projektowanie stron www, php, html, xhtml, css, mysql, javascript, ajax" />
+<meta name="robots" content="index, follow, noimageindex" />
+<meta name="author" content="Maurycy Michalski" />
+<meta name="revisit-after" content="7 days" />
+
+<title>e-grafika.net . webdesign . tworzenie stron www . xhtml . css . php . mysql . javascript . jquery . ajax</title>
+</head>
+
+<body xml:lang="pl">
+
+
+<div id="main">
+
+<div id="header">
+<h2>webdesign . tworzenie stron www . xhtml . css . php . mysql . javascript . jquery . ajax</h2>
+<h1><a href="http://www.e-grafika.net"><span>e-grafika.net</span></a></h1>
+</div>
+
+<div id="columns">
+<div id="menu">
+
+<ul><li><a href="portfolio">portfolio</a></li><li><h5>kontakt</h5></li></ul>
+</div>
+<div id="content">
+
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+
+<br />
+
+<div class="details">
+<strong>Iwona Fischer-Zuziak</strong> - artystka malarka, architekt, prof. malarstwa<br />
+<a href="http://www.iwonazuziak.pl" title="Iwona Fischer-Zuziak - artystka malarka, architekt, prof. malarstwa">www.iwonazuziak.pl</a><br />
+<span class="technika"><h3>grafika</h3>, <h3>xhtml</h3>, <h3>css</h3>, <h3>javascript</h3>, <h3>php</h3>, <h3>cms</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/zuziak.jpg" rel="lightbox[portfolio]" title="Iwona Fischer-Zuziak">
+<img src="works/portfolio/zuziak_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="details">
+<strong>Malopolska OIIB w Krakowie</strong><br />
+<a href="http://www.map.piib.org.pl" title="zobacz strone">www.map.piib.org.pl</a><br />
+<span class="technika"><h3>grafika</h3>, <h3>xhtml</h3>, <h3>css</h3>,<br /><h3>javascript</h3>, <h3>php</h3>, <h3>mysql</h3>, <h3>cms</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/moiib.jpg" rel="lightbox[portfolio]" title="Malopolska OIIB w Krakowie">
+<img src="works/portfolio/moiib_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="details">
+<strong>Projekty Systemowe Departamentu Edukacji i Sportu w ramach POKL</strong><br />
+<a href="http://www.edukacja.wrotamalopolski.pl" title="zobacz strone">www.edukacja.wrotamalopolski.pl</a><br />
+<span class="technika"><h3>xhtml</h3>, <h3>css</h3>, <h3>php</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/3programy.jpg" rel="lightbox[portfolio]" title="Projekty Systemowe Departamentu Edukacji i Sportu w ramach POKL">
+<img src="works/portfolio/3programy_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="details">
+<strong>CEPIC</strong><br />
+<a href="http://www.cepic.eu" title="zobacz strone">www.cepic.eu</a><br />
+<span class="technika"><h3>xhtml</h3>, <h3>css</h3>, <h3>javascript</h3>,<br /><h3>ajax</h3>, <h3>php</h3>, <h3>flash</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/cepic.jpg" rel="lightbox[portfolio]" title="CEPIC">
+<img src="works/portfolio/cepic_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="details">
+<strong>Drukarnia S-Graf</strong><br />
+<span class="technika"><h3>grafika</h3>, <h3>html</h3>, <h3>php</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/drukarnia.jpg" rel="lightbox[portfolio]" title="Drukarnia S-Graf">
+<img src="works/portfolio/drukarnia_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="details">
+KWW <strong>Wspolnota Malopolska</strong><br />
+<span class="technika"><h3>html</h3>, <h3>php</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/wspolnota.jpg" rel="lightbox[portfolio]" title="KWW Wspolnota Malopolska">
+<img src="works/portfolio/wspolnota_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="details">
+Galeria Sztuki <strong>Stare i Nowe</strong><br />
+<span class="technika"><h3>grafika</h3>, <h3>html</h3>, <h3>php</h3></span>
+</div>
+
+<div class="images">
+<div class="image">
+<a href="works/portfolio/galeria.jpg" rel="lightbox[portfolio]" title="Galeria Sztuki 'Stare i Nowe'">
+<img src="works/portfolio/galeria_x.jpg" width="85" height="85" alt="" />
+</a>  </div>
+</div>
+
+</div>
+</div>
+
+<div id="footer">
+<div style="height: 8px; line-height: 8px; width: 50px;"></div>
+<h4>all rights reserved . &copy; e-grafika.net</h4>
+</div>
+</div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://e-grafika.net/piwik/" : "http://e-grafika.net/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://e-grafika.net/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tag -->
+
+</body>
+</html>

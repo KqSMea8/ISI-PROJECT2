@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /inc/
+Disallow: /classes/
+Disallow: /sysplugins/
+Disallow: /functions/
+Disallow: /plugins/
+Disallow: /reports/
+Disallow: /rest-api/
+Disallow: /templates_c/
+Disallow: /tmp_buffer/
+Disallow: /tmp_queue/
+Disallow: /webservices/

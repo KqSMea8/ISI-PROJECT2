@@ -1,0 +1,17 @@
+# robots.txt fuer http://www.maneo.de
+User-Agent: *
+Allow: /
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/typoscript/
+Disallow: /nc/
+Disallow: /t3lib/
+Disallow: /misc/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /*?id=*
+Disallow: /*&type=123
+Sitemap: http://www.maneo.de/sitemap.xml
+
+
+

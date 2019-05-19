@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /ds/index.php5?mod=opis
+
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=58&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=28&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=28&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=33&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=62&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=63&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=biuro&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=28&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=63&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=36&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=57&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=62&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=42&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=33&type=f
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=58&type=q
+Disallow: /ds/index.php5?mod=prezentacje&sub=show&id=42&type=f

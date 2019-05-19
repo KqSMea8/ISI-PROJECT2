@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cookies
+Disallow: /css
+Disallow: /flash
+Disallow: /gm_route
+Disallow: /images
+Disallow: /img
+Disallow: /img_bip
+Disallow: /img_sw
+Disallow: /inc
+Disallow: /js
+Disallow: /logos
+Disallow: /modules
+Disallow: /mpdf
+Disallow: /player
+Disallow: /podstrony
+Disallow: /rss
+Disallow: /tmp
+Disallow: /captcha.php
+Disallow: /drukuj.php
+Disallow: /pdf.php
+Disallow: /polec.php
+

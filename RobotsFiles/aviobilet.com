@@ -1,0 +1,83 @@
+User-Agent: *
+
+Crawl-delay: 5
+
+Disallow: /?p=*
+Disallow: */worldwide$
+Disallow: *smsSettings.php*
+Disallow: *mailSettings.php*
+Disallow: /pay/*
+Disallow: /ru/pay/*
+Disallow: */content/*
+Disallow: */fly-detail/*
+Disallow: *ticket*
+Disallow: *tickets*
+Disallow: */world/*/*/*/*/2*
+Disallow: *himeji*
+Disallow: *ru/subcontent/3444/76/*
+Disallow: *ru/subcontent/3444/65/*
+Disallow: *detail_cardriver.ph*
+Disallow: *rent-a-drive*
+Disallow: *detail_ticket*
+Disallow: /*_openstat
+Disallow: /*gclid=
+Disallow: /*utm_source=
+Disallow: /ticket.php
+Disallow: /airports.php
+Disallow: *customersReport.php
+Disallow: *?date=*
+Disallow: *?rand=*
+Disallow: /test/
+Disallow: *p=*
+Disallow: *c=*
+Disallow: *?ad=*
+Disallow: *?cn=*
+Disallow: *?in=*
+Disallow: *?ib=*
+Disallow: *?r=*
+Disallow: *?d=*
+Disallow: *?lang=*
+Disallow: *?source=*
+Disallow: *?agentKey=*
+Disallow: *company/*
+Disallow: *customersReport.php
+Disallow: *seatsonfire.php
+Disallow: *detail_charter*
+Disallow: *index.php*
+Disallow: *detail_charter*
+Disallow: */niama-stranica*
+Disallow: */payment-fail*
+Disallow: *detailTransfer*
+Disallow: *detail_transfer*
+Disallow: *extrapay*
+Allow: *contents/4/*
+Allow: *contents/2/*
+Allow: *contents/3/*
+Allow: *contents/3449/*
+Allow: *contents/3447/*
+Allow: *contents/3508/*
+Allow: *contents/3509/*
+Allow: *contents/3510/*
+Disallow: *contents/*
+Disallow: /*_escaped_fragment_
+
+Disallow: *star=*
+Disallow: *?ct=*
+Disallow: *&s*
+Disallow: *City_Centre*
+Allow: *places/*/*/$
+
+# Disable evil crawlers
+User-agent: Slurp
+Disallow: /
+User-agent: Mediapartners-Google
+Disallow: /
+User-agent: Yahoo Pipes 1.0
+Disallow: /
+User-agent: 008
+Disallow: /
+User-agent: voltron
+Disallow: /
+
+Sitemap: http://aviobilet.com/maps/sitemap.index.xml
+Host: aviobilet.com

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /home
+Disallow: /res
+Disallow: /*?sessionid
+Disallow: *.jpg$
+Disallow: *.png$
+Disallow: *.pdf$
+Disallow: *.zip$
+Disallow: *.mp3$
+Disallow: *.exe$
+Crawl-Delay: 3

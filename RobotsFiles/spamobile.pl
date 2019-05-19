@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /faq/?PHPSESSID=75516792a2d9b57bc6bc2120a844e462
+Disallow: /onas/?PHPSESSID=d25e3add3e4f06b893f8af1734d31ca4
+Disallow: /rezerwacje/?PHPSESSID=8b190bc6cdf7b76582f9d15cfe8e74c3
+Disallow: /galeria/?PHPSESSID=d25e3add3e4f06b893f8af1734d31ca4
+Disallow: /rezerwacje-online/42/?PHPSESSID=17562805043e555059bfcbe9fa6ae1f5
+Disallow: /rezerwacje-online/74/?PHPSESSID=ebef05727261c43a10242ecd1b285a0b
+Disallow: /rezerwacje-online/68/?PHPSESSID=ebef05727261c43a10242ecd1b285a0b
+Disallow: /rezerwacje-online/58/?PHPSESSID=ebef05727261c43a10242ecd1b285a0b
+Disallow: /rezerwacje-online/38/?PHPSESSID=ebef05727261c43a10242ecd1b285a0b
+Disallow: /promocje/?PHPSESSID=8b190bc6cdf7b76582f9d15cfe8e74c3
+Disallow: /cennik/?PHPSESSID=75516792a2d9b57bc6bc2120a844e462
+Disallow: /kategoria/68/?PHPSESSID=d25e3add3e4f06b893f8af1734d31ca4
+Disallow: /kategoria/83/?PHPSESSID=c22e68cc8c2072f769ba9b91d854d818
+Allow: /faq/
+Allow: /onas/
+Allow: /rezerwacje/
+Allow: /galeria/
+Allow: /rezerwacje-online/
+Allow: /promocje/
+Allow: /cennik/
+Allow: /kategoria/
+

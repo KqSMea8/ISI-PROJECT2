@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /_2013/
+Disallow: /_biznesoweprezenty.pl/
+Disallow: /_blog_nova-pen_pl/
+Disallow: /_konfigurator_nova-pen_pl/
+Disallow: /_mm/
+Disallow: /_old/
+Disallow: /_old_0317/
+Disallow: /_old_joomla/
+Disallow: /_partner_nova-pen_pl/
+Disallow: /_test/
+Disallow: /_vti_cnf/
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+Disallow: /allegro/
+Disallow: /images/
+Disallow: /novaoutlet/
+Disallow: /tmp/
+Sitemap: http://nova-pen.pl/sitemap.xml
+

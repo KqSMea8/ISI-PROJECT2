@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /warsztaty-dla-rodzicow/action~posterboard/
+Disallow: /warsztaty-dla-rodzicow/action~agenda/
+Disallow: /warsztaty-dla-rodzicow/action~oneday/
+Disallow: /warsztaty-dla-rodzicow/action~month/
+Disallow: /warsztaty-dla-rodzicow/action~week/
+Disallow: /warsztaty-dla-rodzicow/action~stream/

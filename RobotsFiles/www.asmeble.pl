@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Sitemap: http://www.asmeble.pl/sitemap2.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_0.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_1.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_2.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_3.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_4.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_5.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_6.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_7.xml
+Sitemap: http://www.asmeble.pl/sitemap_img_8.xml

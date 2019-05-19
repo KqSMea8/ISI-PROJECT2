@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Tikkurila Norge AS - Color styrke</title>
+<base href="http://www.tikkurila.no/">
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="Content-Script-Language" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="Author" content="Tikkurila Oyj">
+<meta name="Copyright" content="Tikkurila Oyj">
+<link href="styles/style.php?f=printer&amp;fontsize=1" rel="stylesheet">
+<link href="styles/style.php?f=blanko&amp;fontsize=1" rel="stylesheet">
+<link href="styles/style.php?f=specs&amp;fontsize=1" rel="stylesheet">
+<link href="styles/calculators.css" rel="stylesheet">
+<link href="acss/p4admin.css" rel="stylesheet">
+<script type="text/javascript" src="ajs/swfobject.js"></script>
+<script type="text/javascript" src="http://www.tikkurila.no/js/tmv11.js"></script>
+<script type="text/javascript" src="//use.typekit.net/mfa4iic.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="ajs/jquery.js"></script>
+<script type="text/javascript" src="js/async_tracker.js?UAinit"></script>
+</head>
+
+<body>
+<script type="text/javascript">
+$(document).ready(function(){
+$('button.acceptcookie').on('click', function(e){
+acceptCookies();
+});
+
+$('a.close-and-accept').on('click', function(e){
+e.preventDefault();
+closePrivacypolicyDetails();
+return false;
+});
+
+function acceptCookies() {
+var d = new Date();
+d.setTime(d.getTime() + (365*24*60*60*1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = 'TIKKURILA_COMDISCLAIMER=1; ' + expires;
+$('div.cookiedisclaimer').hide();
+}
+
+function closePrivacypolicyDetails() {
+$('.privacypolicy-details').removeClass('visible');
+}
+
+function showPrivacypolicyDetails() {
+$('.privacypolicy-details').addClass('visible');
+}
+
+$('a.show-privacypolicy-details').on('click', function(event){
+event.preventDefault();
+showPrivacypolicyDetails();
+return false;
+});
+
+function checkCookieDisclaimerCookie(){
+if (document.cookie.indexOf('TIKKURILA_COMDISCLAIMER') == -1) {
+$('.cookiedisclaimer').show();
+} else {
+$('.cookiedisclaimer').remove();
+}
+}
+checkCookieDisclaimerCookie();
+});
+</script>
+<div class="cookiedisclaimer" style="display:none;">
+<div>
+<span class="tm_text" id="tm_text_cookieDisclaimer_1693">Tikkurila uses cookies to ensure the best possible user experience. If you continue on our site, you will approve the use of cookies.</span>				<button class="acceptcookie">Ok</button>
+</div>
+</div>	<div class="blanko_container">
+<div class="content" id="C4410v13062"><div class="content_image" id="pwd_ci_4794_28fec3d73052456e1dd413ee45781848" align="left"><img alt="Tikkurila" title="Tikkurila" src="files/4794/102/Tikkurila_logo_2014.png" height="102" width="102"></div></div><br class="eoc" style="clear:both"><div class="content" id="C4411v9730"><div class="content_image" id="pwd_ci_4709_b364b09d5cef3c2af3ad3e5334136792" align="center"><img alt="Kilden Performing Arts Centre Kristiansand" title="Kilden Performing Arts Centre Kristiansand" src="files/4709/660/Kilden_Performing_Arts_Centre_Kristiansand.jpg"></div><br><br></div><br class="eoc" style="clear:both"><div class="content" id="C4413v13345"><h2>Velkommen til
+Tikkurila Norge! </h2>
+
+<p>Tikkurila gir forbrukere og fagfolk brukervennlige og miljotilpassede,
+baerekraftig losninger for beskyttelse og glede. Tikkurila Norge AS selger
+Beckers dekoratrive produkter til konsumenter og proffesjonelle brukere, og
+Tikkurila Industriprodukter i det norske markedet.</p>
+
+<p>&nbsp;</p>
+
+<p>Velkommen til
+vare nettsider, der du finner all informasjon om de ulike segmentene.</p><br></div><br class="eoc" style="clear:both"><div class="content" id="C4409v9732"><br><br><br><p align="center"><b>Kontakt oss i Tikkurila Norge AS<br><br></b></p>
+<p align="center">Stanseveiven 25, 0976 Oslo (<a title="Tikkurila Norge AS - Stanseveiven 25, 0976 Oslo" id="pwd_link_307_20004d595a92882eb80c1c69597b12cb" target="_blank" href="https://www.google.fi/maps/place/Tikkurila+Norge+AS/@59.9524854,10.8891503,12z/data=!4m5!1m2!2m1!1sStanseveiven+25,+0976+Oslo!3m1!1s0x464170020744fa0b:0xa3f794b6a4e1cb1a">Kartet</a>)<br><br></p>
+<p align="center">Telefon: 0047-22803290</p>
+<p align="center">Fax: 0047-22803291</p>
+<p align="center"><br>
+<b>For mer informasjon: <br><br></b></p>
+<p align="center">Besok<br><br></p>
+<p align="center"><a href="http://www.beckers.no/">Dekorativ
+eksterior / interiormaling</a></p><p align="center"><a href="http://www.beckers.no/"><br></a></p>
+<p align="center">eller</p><p align="center"><br></p>
+<p align="center"><a href="http://www.tikkurila.se/" target="_blank">Industrimaling</a></p>
+<p align="center">&nbsp;
+</p><br></div><br class="eoc" style="clear:both"><div class="content" id="C4412v9727"><br><br><br><br><br><br>
+<div style="text-align: center;"><a title="www.tikkurila.com" style="color: grey" id="pwd_link_93_89c7c555b12129bcb9e530259dc7b400" target="_blank" href="http://www.tikkurila.com" class="externallink">www.tikkurila.com</a> - <a title="Tikkurila Group" style="color: grey" id="pwd_link_202_e30a52dd8a3cb2de10334bbd76e430a2" target="_blank" href="http://www.tikkurilagroup.com">www.tikkurilagroup.com</a><br></div></div><br class="eoc" style="clear:both"><div class="content" id="C4414v9736"><script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-3575774-19']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+</script></div><br class="eoc" style="clear:both">	</div>
+</body>
+</html>

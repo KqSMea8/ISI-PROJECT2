@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /downloads/
+Disallow: /webdownload.php
+Disallow: /fileadmin/cockpit_temp/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/tmp/
+Disallow: /bibliotheque/
+Disallow: /bibliothek/
+Disallow: /bibliotek/
+Disallow: /koenyvtar/
+Disallow: /library/
+Disallow: /bibliotheek/
+Disallow: /fileadmin/app-documents/
+Disallow: /anforderung-preisliste/
+Disallow: /berechnungsprogramm/

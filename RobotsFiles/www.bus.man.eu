@@ -1,0 +1,6 @@
+# robots.txt for https://www.bus.man.eu
+# 25.04.2016
+User-agent: *
+Disallow:
+Sitemap: https://www.bus.man.eu/sitemap_domain.xml
+

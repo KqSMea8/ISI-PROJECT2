@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /adm/
+Disallow: /code/
+Disallow: /geo/
+Disallow: /logs/
+Disallow: /marek/
+Disallow: /mrtg/
+Disallow: /nasiona/
+Disallow: /phpmailer/
+Disallow: /prima/
+Disallow: /reiter/
+Disallow: /test/

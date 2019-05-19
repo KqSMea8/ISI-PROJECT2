@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /FCKeditor/
+Disallow: /grafika/
+Disallow: /images/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /NOWA_WWW/
+Disallow: /nowawww/
+Disallow: /nowawww3/
+Disallow: /ztg33/

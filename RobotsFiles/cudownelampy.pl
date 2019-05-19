@@ -1,0 +1,9 @@
+Sitemap: https://www.cudownelampy.pl/sitemap.xml
+User-agent: *
+Disallow: /www.mikrofirmy.pl
+Disallow: /pl_strona-glowna*
+Disallow: /pl_regulamin,36.html
+Disallow: /*View*
+Disallow: /*?
+Disallow: /www.mikrofirmy.pl
+Disallow: /www.mikrofirmy.pl*/

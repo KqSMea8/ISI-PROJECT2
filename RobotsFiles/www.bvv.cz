@@ -1,0 +1,9 @@
+Sitemap: http://www.bvv.cz/sitemap.xml
+User-agent: *
+Disallow: /_prw_/
+Disallow: /_sys_/
+Disallow: /_ajax_/
+Disallow: /_edit_/
+Disallow: /admin/
+Disallow:
+

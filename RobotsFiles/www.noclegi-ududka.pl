@@ -1,0 +1,1 @@
+<div class='option'><b class='red'>NOTICEEXCEPTION</b> - Informacje o wyjatku <br /><br />  <b>Wiadomosc</b> <ul><li>Undefined index:  robots.txt</li></ul> <b>Wiersz</b> <ul><li> 102</li></ul> <b>Plik</b> <ul><li> /include/library/Exceptions/Exceptions.php</li></ul> </div>

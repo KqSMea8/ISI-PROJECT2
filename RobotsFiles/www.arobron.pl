@@ -1,0 +1,1 @@
+User-agent: *Disallow: /adminDisallow: /account.phpDisallow: /advanced_search.phpDisallow: /checkout_shipping.phpDisallow: /create_account.phpDisallow: /login.phpDisallow: /login.phpDisallow: /password_forgotten.phpDisallow: /popup_image.phpDisallow: /shopping_cart.phpUser-agent: Googlebot-ImageDisallow: /

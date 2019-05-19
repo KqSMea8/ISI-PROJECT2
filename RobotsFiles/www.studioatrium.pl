@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /zestawienia/*
+Disallow: /przedstawiciele/*
+Disallow: /*refsite
+Disallow: /*searchcat
+Disallow: /*/szukaj/*
+Disallow: /index.php?module=ajax*
+Disallow: /parter/*
+Disallow: /piwnica/*
+Disallow: /pietro/*
+Disallow: /pietro2/*
+Disallow: /poddasze/*
+Disallow: /Zamowienie*
+Disallow: /zamowienie*
+Disallow: /baza-wiedzy?search=*
+Disallow: /usytuowanie/*
+User-agent: Baiduspider
+Disallow: /
+User-Agent: MJ12bot
+Disallow:

@@ -1,0 +1,12 @@
+
+
+
+
+
+
+Sitemap: http://www.targowek.info/sitemap.xml
+Sitemap: http://www.targowek.info/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

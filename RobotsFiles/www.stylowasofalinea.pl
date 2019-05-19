@@ -1,0 +1,10 @@
+Sitemap: sitemap.xml
+Allow: /
+Disallow: /pl/produkt/1708$
+Disallow: /pl/produkt/art-90sg-b-t-1$
+Disallow: /pl/produkt/1708
+Disallow: /producer,7.html
+Disallow: /pl/produkt/krzeslo_1-1
+Disallow: /meble_nowoczesne,9,show_produkt,594.html
+Disallow: /pl/produkt/mademoiselle
+Disallow: /pl/produkt/liu-1

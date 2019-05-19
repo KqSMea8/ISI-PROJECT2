@@ -1,0 +1,7 @@
+# Robots.txt file from https://www.functionalfoodscenter.net
+
+Sitemap: https://www.functionalfoodscenter.net/sitemap.xml
+
+User-agent: *
+Disallow:
+

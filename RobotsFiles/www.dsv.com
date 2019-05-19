@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: http://www.dsv.com/sitemap.xml
+
+Disallow: /test/
+
+Disallow: /local-offices/
+

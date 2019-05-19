@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /cp/
+Disallow: /add.php
+Disallow: /modify.php
+Disallow: /upgrade.php
+Disallow: /tell_friend.php
+Disallow: /send_pwd.php
+Disallow: /sendmail.php
+Disallow: /review.php
+Disallow: /trackclick.php
+Disallow: /bad_link.php
+Disallow: /captcha.php
+Disallow: /login.php
+Disallow: /rss.php
+

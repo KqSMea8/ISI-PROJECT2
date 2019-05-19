@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /fckeditor/
+Disallow: /img/
+Disallow: /foto/
+Disallow: /js/
+Disallow: /language/
+Disallow: /pliki/
+Disallow: /_save.php
+Allow: /

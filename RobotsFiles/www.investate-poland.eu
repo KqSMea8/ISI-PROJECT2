@@ -1,0 +1,1 @@
+przekieruj na glowna

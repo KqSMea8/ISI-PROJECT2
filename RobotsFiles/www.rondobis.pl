@@ -1,0 +1,10 @@
+Sitemap: http://www.rondobis.pl/sitemap.xml
+User-agent: *
+Allow: .js
+Allow: .css
+Disallow: /_files
+Disallow: /_fonts
+Disallow: /_images_cms
+Disallow: /_modules
+Disallow: /_scripts
+Disallow: /_sql

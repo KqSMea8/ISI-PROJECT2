@@ -1,0 +1,16 @@
+Sitemap: https://www.techworld.com.au/sitemap-index.xml
+User-agent: *
+Disallow: /article/preview/
+Disallow: /8456/
+Disallow: /taxonomy/term/
+Disallow: /user/check_email_exists/
+
+User-agent: bingbot
+Crawl-delay:2
+
+User-agent: Yandex
+Crawl-delay:4
+
+User-agent: AhrefsBot
+Crawl-delay:4
+

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /prezentacje3d/dlaczego-warto-korzystac-z-prezentacji-obrotowych/
+Disallow: /prezentacje3d/portfolio/budowa/
+Disallow: /prezentacje3d/klienci/page/2/
+Allow: /wp-admin/admin-ajax.php
+

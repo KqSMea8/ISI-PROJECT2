@@ -1,0 +1,25 @@
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-de.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-en.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-fr.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-es.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-pl.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-ru.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-tr.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-vi.xml
+Sitemap:http://www.berliner-hebammenverband.de/share/sitemap-ar.xml
+
+User-agent: *
+Disallow: /check/
+Disallow: /contao/
+Disallow: /system/
+Disallow: /templates/
+Disallow: /vendor/
+Disallow: /share/index.php
+Disallow: /build.xml
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /README.md
+Allow: /system/cron/cron.txt
+Allow: /system/modules/*/assets/
+Allow: /system/modules/*/html/
+

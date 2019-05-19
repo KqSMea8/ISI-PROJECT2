@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /blocks
+Disallow: /config
+Disallow: /controllers
+Disallow: /css
+Disallow: /elements
+Disallow: /helpers
+Disallow: /jobs
+Disallow: /js
+Disallow: /languages
+Disallow: /libraries
+Disallow: /mail
+Disallow: /models
+Disallow: /single_pages
+Disallow: /tools
+Disallow: /updates
+
+Noindex: /polityka-prywatnosci
+Sitemap: https://eltech.net.pl/sitemap.xml

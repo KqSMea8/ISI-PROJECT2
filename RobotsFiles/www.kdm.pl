@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /.smieci
+Disallow: /!snow
+Disallow: /baneriada
+Disallow: /nowa
+Disallow: /biblioteka
+Disallow: /cgi-bin
+Disallow: /dodaj
+Disallow: /form
+Disallow: /forumnews
+Disallow: /layout
+Disallow: /licz
+Disallow: /odnosniki
+Disallow: /openx
+Disallow: /openx_old
+Disallow: /panel
+Disallow: /promowani
+Disallow: /publicystyka_old
+Disallow: /stowarzyszenie
+Disallow: /tech
+Disallow: /tmp
+Allow: /
+

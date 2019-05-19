@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /panel
+Disallow: /panel/
+Disallow: /konto
+Disallow: /konto/
+Disallow: /powiadomienia-i-prywatnosc
+Disallow: /powiadomienia-i-prywatnosc/
+
+Sitemap: https://www.pasazer.com/sitemaps/airlines_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/flight_views_3.xml
+Sitemap: https://www.pasazer.com/sitemaps/flight_views_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/flight_views_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/countries_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/cities_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/forum_categories_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/news_6.xml
+Sitemap: https://www.pasazer.com/sitemaps/news_5.xml
+Sitemap: https://www.pasazer.com/sitemaps/news_4.xml
+Sitemap: https://www.pasazer.com/sitemaps/news_3.xml
+Sitemap: https://www.pasazer.com/sitemaps/news_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/news_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/routes_3.xml
+Sitemap: https://www.pasazer.com/sitemaps/routes_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/routes_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/special_offers_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/forum_topics_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_visits_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_timeline_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_rates_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_friends_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_album_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_2.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_visits_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_timeline_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_rates_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_friends_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_album_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/profiles_1.xml
+Sitemap: https://www.pasazer.com/sitemaps/airports_1.xml
+
+

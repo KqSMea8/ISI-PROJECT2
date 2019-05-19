@@ -1,0 +1,131 @@
+User-agent: *
+Disallow: */toto/files/ # toto
+Disallow: *ticketinfo.htm # toto
+Disallow: *periodGroupAllEvents # time filter
+Disallow: *wintickets.htm # toto
+Disallow: *allbets.htm # toto
+Disallow: *batchhome.htm # packet bets toto
+Disallow: *drawinfo.htm # toto
+Disallow: *pooldistr.htm # toto
+Disallow: *draws.htm? # toto
+Disallow: *betinfo.htm # toto
+Disallow: *myaccount # restricted
+Disallow: */toto/*/home.htm?
+Disallow: *search*
+Disallow: *username*
+Disallow: *forgottenpassword.htm
+Disallow: *?r*
+Disallow: *loginpage.htm
+Disallow: *login.htm
+Disallow: *logout.htm
+Disallow: *payment
+Disallow: *finstakes.htm?r
+Disallow: *withdraw.htm
+Disallow: *withdraw2.htm
+Disallow: *viewtopic.php
+Disallow: *live/*?
+Disallow: *printbet.htm
+Disallow: *sportstatext.htm
+Disallow: *viewprofile
+Disallow: *&u=*
+Disallow: *?u=*
+Disallow: *folder=
+Disallow: *[object%20Object]
+Disallow: *view=
+Disallow: *start=
+Disallow: *deposit.htm
+Disallow: *deposit2.htm
+Disallow: */extensions.htm?
+Disallow: */client.htm?
+Disallow: *forgottenpassword.htm
+Disallow: *updateseance.htm
+Disallow: *changepassword.htm
+Disallow: *jsessionid
+Disallow: */live/stream/
+Disallow: */live/animation/
+
+User-agent: Yandex
+Disallow: */toto/files/ # toto
+Disallow: *ticketinfo.htm # toto
+Disallow: *periodGroupAllEvents # time filter
+Disallow: *wintickets.htm # toto
+Disallow: *allbets.htm # toto
+Disallow: *batchhome.htm # packet bets toto
+Disallow: *drawinfo.htm # toto
+Disallow: *pooldistr.htm # toto
+Disallow: *draws.htm? # toto
+Disallow: *betinfo.htm # toto
+Disallow: *myaccount # restricted
+Disallow: */toto/*/home.htm?
+Disallow: *search*
+Disallow: *join.htm
+Disallow: *username*
+Disallow: *forgottenpassword.htm
+Disallow: *?r*
+Disallow: *loginpage.htm
+Disallow: *login.htm
+Disallow: *logout.htm
+Disallow: *payment
+Disallow: *finstakes.htm?r
+Disallow: *withdraw.htm
+Disallow: *withdraw2.htm
+Disallow: *viewtopic.php
+Disallow: *live/*?
+Disallow: *printbet.htm
+Disallow: *sportstatext.htm
+Disallow: *viewprofile
+Disallow: *&u=*
+Disallow: *?u=*
+Disallow: *folder=
+Disallow: *[object%20Object]
+Disallow: *view=
+Disallow: *start=
+Disallow: *deposit.htm
+Disallow: *deposit2.htm
+Disallow: */extensions.htm?
+Disallow: */client.htm?
+Disallow: *forgottenpassword.htm
+Disallow: *updateseance.htm
+Disallow: *changepassword.htm
+Disallow: *jsessionid
+Disallow: */live/stream/
+Disallow: */live/animation/
+Clean-param: isLogoutByTimeout
+Clean-param: jsessionid
+Clean-param: pref
+Clean-param: from
+Clean-param: menu
+Clean-param: nodeNameCode
+Clean-param: originId
+Clean-param: _ga
+Clean-param: openedMarkets
+Clean-param: fc
+Clean-param: bets4safe
+Clean-param: ban_tree_list
+Clean-param: ban_tree_id
+Clean-param: ban_sport_id
+Clean-param: sport
+Clean-param: t
+Clean-param: f
+Clean-param: p
+Clean-param: sid
+Clean-param: utm_source
+Clean-param: utm_medium
+Clean-param: utm_content
+Clean-param: utm_campaign
+Clean-param: dateFilterSelector
+Clean-param: form_name
+Clean-param: searchQuery
+Clean-param: sportMenu1762822Minimized
+Clean-param: sportMenu1762800Minimized
+Clean-param: sportMenu1763083Minimized
+Clean-param: sportMenuMinimized
+Clean-param: expandedPopular
+Clean-param: expandedId
+Crawl-delay: 2
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:

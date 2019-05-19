@@ -1,0 +1,4 @@
+#  Disallow all robots from this directory structure.
+User-agent: *
+Disallow: /
+

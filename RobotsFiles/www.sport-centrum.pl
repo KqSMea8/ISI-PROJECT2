@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /public/admin/
+Disallow: /public/ajax/
+Disallow: /public/cache/
+Disallow: /public/flash/
+Disallow: /public/fonts/
+Disallow: /public/gfx/
+Disallow: /public/images/
+Disallow: /public/public/
+Disallow: /public/scripts/
+Disallow: /public/styles/

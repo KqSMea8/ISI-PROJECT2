@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Noindex: /toployality/
+Noindex: *tmpl=component
+Noindex: *option=com_ajax
+Noindex: */component/osdownloads/

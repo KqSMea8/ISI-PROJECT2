@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+
+host: dom-polski.org
+Sitemap: http://dom-polski.org/sitemap.xml
+
+

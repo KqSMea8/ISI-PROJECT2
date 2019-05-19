@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /image/
+Disallow: /img/
+Disallow: /mpdf/
+Disallow: /phpmailer/
+Disallow: /panel/
+Disallow: /lightbox/
+Disallow: /inc/
+Disallow: /tmp/
+Disallow: /zdjecia-naglowek/
+Disallow: /pliki/

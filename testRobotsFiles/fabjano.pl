@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /images
+Disallow: /fixed.js
+Disallow: /focus.js
+Disallow: /okienko.js
+Disallow: /prezentacja.css
+Disallow: /projekt.css
+Disallow: /projekt1.css
+Disallow: /validate_form.js

@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/extensions/
+Disallow: /wp-content/languages/
+Disallow: /wp-content/logs/
+Disallow: /wp-content/uploads/
+Disallow: /cgi-bin/
+Disallow: /logo_mail/
+Disallow: /wp-activate.php

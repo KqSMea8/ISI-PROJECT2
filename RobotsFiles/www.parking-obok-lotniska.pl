@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /datafiles/
+Disallow: /images/
+Disallow: /systemfiles/
+Disallow: /banery/
+Disallow: /reklamy/
+Disallow: /partnerzy/
+Disallow: index2.php

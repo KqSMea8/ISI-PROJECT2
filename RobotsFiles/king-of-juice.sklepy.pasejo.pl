@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /koszyk/
+Disallow: /zamowienia/
+Disallow: /profil/
+Disallow: /logowanie/
+Disallow: /wyloguj/
+Disallow: /reset-hasla/
+Disallow: /rejestracja/

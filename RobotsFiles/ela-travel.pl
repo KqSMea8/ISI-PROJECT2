@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kalendarz/action~posterboard/
+Disallow: /kalendarz/action~agenda/
+Disallow: /kalendarz/action~oneday/
+Disallow: /kalendarz/action~month/
+Disallow: /kalendarz/action~week/
+Disallow: /kalendarz/action~stream/
+Disallow: /kalendarz/action~undefined/
+Disallow: /kalendarz/action~http:/
+Disallow: /kalendarz/action~default/
+Disallow: /kalendarz/action~poster/
+Disallow: /kalendarz/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
+User-agent: *
+Allow: /https://ela-travel.pl/package/wycieczka-do-grodna-i-druskiennik/
+
+Sitemap: https://ela-travel.pl/sitemap.xml.gz
+

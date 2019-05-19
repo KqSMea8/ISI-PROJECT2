@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /css/
+Disallow: /files/
+Disallow: /images/
+Disallow: /fpdf/
+Disallow: /gfx/
+Disallow: /js/
+Disallow: /maszyny_max/
+Disallow: /menu/
+Disallow: /picture_library/
+Disallow: /plesk-stat/
+Disallow: /SpryAssets/

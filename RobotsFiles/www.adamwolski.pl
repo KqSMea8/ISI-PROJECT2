@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /logs/
+Disallow: /tmp/

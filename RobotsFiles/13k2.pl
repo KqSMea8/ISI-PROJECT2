@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /core/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /functions/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/

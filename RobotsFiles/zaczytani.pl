@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: /koszyk
+Disallow: /logowanie
+Disallow: /rejestracja
+Disallow: /twoje_dane
+Disallow: /twoje_zamowienia
+Disallow: /zamowienie
+Disallow: /odzyskiwanie_hasla
+Disallow: /poinformuj_znajomego
+Disallow: /fragment
+Disallow: /recenzja
+Disallow: /koszyk*
+Disallow: /logowanie*
+Disallow: /rejestracja*
+Disallow: /twoje_dane*
+Disallow: /twoje_zamowienia*
+Disallow: /zamowienie*
+Disallow: /odzyskiwanie_hasla*
+Disallow: /poinformuj_znajomego*
+Disallow: /fragment*
+Disallow: /recenzja*

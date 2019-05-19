@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /index.php?action=buy_now*
+Disallow: /redirect.php*
+Disallow: /create_account.php
+Disallow: /password_forgotten.php
+Disallow: /login.php
+Disallow: /account_edit.php
+Disallow: /account_history.php
+Disallow: /tell_a_friend.php
+Disallow: /reviews.php
+Disallow: /newsletter.php
+Disallow: /index.php?manufacturers_id*

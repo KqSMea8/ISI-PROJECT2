@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /*
+Disallow: /*jsessionid*
+Disallow: /bs/*
+Disallow: /b/*
+Disallow: /solr*
+Disallow: /obsluga/wyniki-wyszukiwania*
+Disallow: /obsluga/niedostepnosc-forum*
+

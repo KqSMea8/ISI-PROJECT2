@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /user/
+Disallow: /search
+Disallow: /recommend_shop
+Disallow: /newsletter
+Disallow: /currency
+Disallow: /productsCompare
+Disallow: /product_options
+Disallow: /stNavigationFrontend
+Disallow: /producer
+Disallow: /navigation
+Disallow: /invoice
+Disallow: /order
+Disallow: /orderPdf/*
+Disallow: /invoicePdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /product/recommendProducts/
+Disallow: /product/attachmentList/
+Disallow: /basket/
+Disallow: /stAccessoriesFrontend/
+Disallow: /*.php$
+Disallow: /paypal
+

@@ -1,0 +1,45 @@
+Sitemap: https://www.partybiz.pl/sitemap.xml
+
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /libs/
+Disallow: /pear/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: *sort=
+Disallow: lista.php?a=search&szukaj[name]=
+Disallow: login.php
+Disallow: koszyk.php
+Disallow: zamowienie.php
+Disallow: rejestracja.php
+Disallow: regulamin
+Disallow: program-lojalnosciowy
+Disallow: polityka-prywatnosci
+Disallow: program-partnerski
+
+User-agent: BLEXBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: TwengaBot
+Disallow: /
+User-agent: 008
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: WotBox
+Disallow: /
+User-agent: Sosospider
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: ZumBot
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+
+User-Agent: MJ12bot
+Crawl-Delay: 5

@@ -1,0 +1,10 @@
+
+User-agent: *
+Sitemap: https://o-ring.info/sitemap.xml
+Disallow: /en/home/search/
+Disallow: /nl/home/search/
+Disallow: /pl/home/search/
+Disallow: /de/home/suche/
+Disallow: /fr/home/search/
+Disallow: /nl-be/home/search/
+

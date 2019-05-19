@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /lang
+Disallow: /lib
+Disallow: /myaccount
+Disallow: /bots
+

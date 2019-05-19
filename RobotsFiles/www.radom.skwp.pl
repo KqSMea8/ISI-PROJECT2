@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /apps/
+Disallow: /apps2/
+Disallow: /css/
+Disallow: /gallery/
+Disallow: /gallery_galeria/
+Disallow: scaleImage.php
+Disallow: save_picture.php
+Disallow: /files/
+Disallow: /editor/
+Disallow: /filmy/

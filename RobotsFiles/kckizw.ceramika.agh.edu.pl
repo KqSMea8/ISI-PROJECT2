@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /Forma/
+Disallow: /krzemiany/
+Disallow: /Publikacje_ksiazkowe/
+Disallow: /test/
+Disallow: /zadania/
+Disallow: /xzadania/
+Disallow: /x2zadania/
+Disallow: /Tresc/Dydaktyka/Metody_Badan_Strukturalnych_TC/INSTRUKCJA_IR_LAB.pdf
+Disallow: /Tresc/Dydaktyka/Metody_Badan_Strukturalnych_TC/Materialy_dodatkowe
+Disallow: /tajne/
+Disallow: /tajne/poufne/

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /ckeditor/
+Disallow: /images/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /tmp/
+Disallow: /index.php/
+Sitemap: http://www.leoprojekt.pl/sitemap.xml

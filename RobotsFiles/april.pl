@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /AT/
+Disallow: /b_b.html/
+Disallow: /baner/
+Disallow: /bt-pm400oem/
+Disallow: /cenniki/
+Disallow: /colorbox/
+Disallow: /datash/
+Disallow: /docupen700/
+Disallow: /download/
+Disallow: /e-facktory.pl/
+Disallow: /eviews5/
+Disallow: /gify/
+Disallow: /ico-e-factory/
+Disallow: /images/
+Disallow: /intel/
+Disallow: /latarki/
+Disallow: /lists/
+Disallow: /mrtg/
+Disallow: /phpMyAdmin/
+Disallow: /qwe/
+Disallow: /reklama/
+Disallow: /rs232b/
+Disallow: /torby-2010/
+Disallow: /torby_2012/
+Disallow: /xxxxxx-duble2012-04/
+Allow: /
+
+

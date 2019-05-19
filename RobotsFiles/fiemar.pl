@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /xmlrpc.php
+Disallow: /wp-admin/
+Disallow: /wp-load.php
+Disallow: /?themeoption=ustawienia
+Disallow: /obowiazek-informacyjny/
+Disallow: /polityka-prywatnosci/
+Disallow: /en/
+Disallow: /de/
+Disallow: /cs/
+Sitemap: http://www.fiemar.pl/sitemap_index.xml

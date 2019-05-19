@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+Disallow: /*/lot/getimages
+Disallow: /*/vehicle/search/makes
+Disallow: /*/vehicle/search/models
+Disallow: /*/vehicle/search/yearsFrom
+Disallow: /*/account/autocomplete_city
+Disallow: /*/account/*
+Disallow: /*/live-auctions/view
+Disallow: /*/lot/*
+Disallow: /*/lot-get/*
+Disallow: /*/howToBuy/rating
+Disallow: /*/min/*
+
+User-Agent: *
+Sitemap: https://abetter.bid/sitemap.xml
+
+
+

@@ -1,0 +1,32 @@
+User-agent: *
+
+# Disable access to Discovery search and filters
+Disallow: /jspui/discover
+Disallow: /jspui/search-filter
+Disallow: /jspui/displaystats
+Disallow: /jspui/advanced-search
+Disallow: /xmlui/
+
+
+# This should be the FULL URL to your HTML Sitemap.
+# Make sure to replace "[dspace.url]" with the value of your 'dspace.url' setting in your dspace.cfg file.
+Sitemap: http://repozytorium.uwb.edu.pl/jspui/htmlmap
+
+# If you have configured DSpace (Solr-based) Statistics to be publicly accessible,
+# then you likely do not want this content to be indexed
+# Disallow: /displaystats
+
+# Uncomment the following line ONLY if sitemaps.org or HTML sitemaps are used
+# and you have verified that your site is being indexed correctly.
+# Disallow: /browse
+
+# You also may wish to disallow access to the following paths, in order
+# to stop web spiders from accessing user-based content:
+#Disallow: /advanced-search
+#Disallow: /contact
+#Disallow: /feedback
+#Disallow: /forgot
+#Disallow: /login
+#Disallow: /register
+#Disallow: /search
+

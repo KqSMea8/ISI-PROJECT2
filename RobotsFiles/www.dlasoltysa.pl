@@ -1,0 +1,2 @@
+gfhdhrtUser-agent: *
+Allow: /

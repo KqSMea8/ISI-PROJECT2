@@ -1,0 +1,2 @@
+Disallow:
+#meble-kuchennepoznan.pl

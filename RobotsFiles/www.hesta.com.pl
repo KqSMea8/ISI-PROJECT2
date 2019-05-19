@@ -1,0 +1,10 @@
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive\.org_bot
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+

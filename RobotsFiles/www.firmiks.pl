@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /javascript/
+Disallow: /administrator/
+Disallow: /components/
+Disallow: /moduly/
+Disallow: /template/
+Disallow: /system/
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.firmy.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.branze.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.produkty.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.lokalizacja.miasta.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.lokalizacja.gminy.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.lokalizacja.powiaty.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.lokalizacja.wojewodztwa.txt
+Sitemap: http://www.firmiks.pl/sitemaps/sitemap.slowa_kluczowe.txt

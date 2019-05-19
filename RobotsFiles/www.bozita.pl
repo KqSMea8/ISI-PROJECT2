@@ -1,0 +1,11 @@
+User-agent: *
+sitemap: http://www.bozita.pl/sitemap.xml
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /data/
+Disallow: /macroScripts/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /usercontrols/
+Disallow: /xslt/

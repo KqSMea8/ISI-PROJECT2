@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /?
+Disallow: /feed
+Disallow: /*/*/feed
+Disallow: /trackback
+Disallow: /*/*/trackback
+Disallow: /index.php?
+Disallow: /index.php/
+Disallow: /*.php$
+Disallow: /*.css$
+Disallow: /date/
+Disallow: /.errordocs/
+Disallow: /7dcine/
+Disallow: /_db_backups/
+Disallow: /cgi/
+Disallow: /mr-lee0086/
+Disallow: /stats/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: http://www.xd-cinema.com/sitemap.xml
+Sitemap: http://www.xd-cinema.com/sitemap.xml.gz
+
+User-agent: msnbot
+Crawl-delay: 5

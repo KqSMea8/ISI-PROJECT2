@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /admin/
+Allow: /
+Disallow: header1_fv8.swf
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: ScoutJet
+Disallow: /

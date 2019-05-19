@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /edit/
+Disallow: /edit.php/
+Disallow: /iv-admin/
+Disallow: /iv-includes/
+Disallow: /cache/

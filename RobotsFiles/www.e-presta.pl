@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /component/
+Disallow: /kategorie.html
+Disallow: /kategorie/
+Disallow: /dostawcy
+Disallow: /promocje
+Disallow: /producenci
+Disallow: /logowanie
+Disallow: /odzyskiwanie-hasla
+Disallow: /najczesciej-kupowane
+Disallow: /nowe-produkty
+Disallow: /sklepy
+Disallow: /szybkie-zakupy
+Disallow: /szukaj
+Disallow: /porownanie-produktow
+Disallow: /potwierdzenie-newslettera
+Disallow: /sledzenie-zamowienia-gosc
+Disallow: /kontakt
+Disallow: /?*
+

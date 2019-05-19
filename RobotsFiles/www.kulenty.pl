@@ -1,0 +1,57 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+Sitemap: https://www.kulenty.pl/sitemap.xml
+
+User-agent: *
+Disallow: /galeria/apteki/*/thumbs/
+Disallow: /galeria/biura/*/thumbs/
+Disallow: /galeria/biurka/*/thumbs/
+Disallow: /galeria/inne-realizacje/*/thumbs/
+Disallow: /galeria/klasyczne/*/thumbs/
+Disallow: /galeria/lazienki/*/thumbs/
+Disallow: /galeria/mala/*/thumbs/
+Disallow: /galeria/nowoczesne/*/thumbs/
+Disallow: /galeria/projekty/*/thumbs/
+Disallow: /galeria/szafy/*/thumbs/
+Disallow: /galeria/szkoly/*/thumbs/
+
+Disallow: /panel/
+Disallow: /agd/
+Disallow: /andrzej/
+Disallow: /baza/
+Disallow: /Dane/
+Disallow: /demo/
+Disallow: /dokumenty/
+Disallow: /dora/
+Disallow: /Ecru/
+Disallow: /elro/
+Disallow: /gosc/
+Disallow: /Grzegorz/
+Disallow: /jakub/
+Disallow: /jarek/
+Disallow: /julita/
+Disallow: /kasia/
+Disallow: /klient/
+Disallow: /kredyty/
+Disallow: /kulenty/
+Disallow: /lukowinfo/
+Disallow: /OLD/
+Disallow: /Optima/
+Disallow: /panel/
+Disallow: /pawel/
+Disallow: /plytacd/
+Disallow: /Polbank/
+Disallow: /Polaczenie bezporednie/
+Disallow: /proba/
+Disallow: /programy/
+Disallow: /projekty/
+Disallow: /pub/
+Disallow: /reklama/
+Disallow: /skroty/
+Disallow: /tv/
+Disallow: /wizytowki/
+Disallow: /wymiana/
+Disallow: /zagiel/
+Disallow: /zalaczniki/
+Disallow: /zalaczniki_do_umow/

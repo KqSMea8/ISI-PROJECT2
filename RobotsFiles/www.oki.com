@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /OKI/SAIYOU/bbs
+Disallow: /OKI/Cng/CTI/JIS/partner/only
+Disallow: /OKI/SBG/Spaceif
+Disallow: /OKI/TBG/service
+Disallow: /OKI/DBG/foundry
+Disallow: /OKI/DBG/intranet
+Disallow: /OKI/DBG/lsimode
+Disallow: /OKI/DBG/japanese/dealer
+Disallow: /OKI/DBG/japanese/casio
+Disallow: /OKI/RDG/JIS/java/GlobalJava
+Disallow: /OKI/NSG/partners
+Disallow: /OKI/TBG/partners
+Disallow: /OKI/NSG/VoIPmembers
+Disallow: /OKI/SSG/JIS/SOL/kinei
+Disallow: /OKI/NSG/JIS/PROD/ADSL
+Disallow: /OKI/SSG/JIS/SOL/shinkin
+Disallow: /OKI/DBG/japanese/products/data/asiclibrary
+Disallow: /OKI/SSC/NTTDATA
+Disallow: /OKI/DBG/ipdata
+Disallow: /OKI/FSC/usr
+Disallow: /OKI/DBG/ongenuser
+Disallow: /OKI/sisc
+Disallow: /jp/info/2012/0701
+Disallow: /robots.txt
+

@@ -1,0 +1,85 @@
+#EMAKINA - SFCC - EXCLUDE PARAMETERS FROM BEING CRAWLED
+#12122018-v.01
+
+User-agent: *
+Disallow: /*?sz=*
+Disallow: /*&sz=*
+Disallow: /*?switchpipeline=*
+Disallow: /*&switchpipeline=*
+Disallow: /*?StoreID=*
+Disallow: /*&StoreID=*
+Disallow: /*?original=*
+Disallow: /*&original=*
+Disallow: /*?locale=*
+Disallow: /*&locale=*
+Disallow: /*?lang=*
+Disallow: /*&lang=*
+Disallow: /*?id=*
+Disallow: /*&id=*
+Disallow: /*?format=*
+Disallow: /*&format=*
+Disallow: /*?fdid=*
+Disallow: /*&fdid=*
+Disallow: /*?dwcont=*
+Disallow: /*&dwcont=*
+Disallow: /*?country=*
+Disallow: /*&country=*
+Disallow: /*?category=*
+Disallow: /*&category=*
+Disallow: /*?cgid=*
+Disallow: /*&cgid=*
+Disallow: /*?self=*
+Disallow: /*&self=*
+Disallow: /*?cid=*
+Disallow: /*&cid=*
+Disallow: /*?pid=*
+Disallow: /*&pid=*
+Disallow: /*prefv*
+Disallow: /*prefn*
+Disallow: /*filterPanel=*
+Disallow: /*search?q=
+
+# Pipeline Requests
+Disallow: */GiftCert-Purchase
+Disallow: */COShipping-GetApplicableShippingMethodsJSON
+Disallow: */Product-GetSetItem
+Disallow: */GiftCert-ShowMiniCart
+Disallow: */COShipping-SelectShippingMethod
+Disallow: */Cart-UpdateVariationValue
+Disallow: */Cart-AddProduct
+Disallow: */Compare-AddProduct
+Disallow: */COBilling-ResetPaymentForms
+Disallow: */Product-Detail
+Disallow: */Checkout-VerifyAddress
+Disallow: */StoreInventory-Inventory
+Disallow: */Checkout-SetShippingMethod
+Disallow: */COShippingMultiple-AddEditAddressJSON
+Disallow: */COBilling-SelectCreditCard
+Disallow: */Cart-AddBonusProduct
+Disallow: */Product-GetAvailability
+Disallow: */Product-GetBonusProducts
+Disallow: */StoreInventory-SetPreferredStore
+Disallow: */Checkout-UpdateShippingMethods
+Disallow: */Product-Show
+Disallow: */COBilling-UpdateSummary
+Disallow: */Compare-RemoveProduct
+Disallow: */Order-LoadMore
+Disallow: */Stores-GetPosition
+Disallow: */Cart-UpdateShippingValue
+Disallow: */Product-Productnav
+Disallow: */Cart-MiniAddProduct
+Disallow: */Page-Include
+Disallow: */Page-Show
+Disallow: */Resources-Load
+Disallow: */Product-Variation
+Disallow: */Favorites-Start
+Disallow: */Account-RegisterOpen
+Disallow: */Login-LoginForm
+Disallow: */Cart-SubmitForm
+Disallow: */CustomerService-Submit
+Disallow: */SendToFriend-Start
+Disallow: */CustomerService-Show
+#END
+
+Sitemap: https://www.omron-healthcare.com/sitemap_index.xml
+Sitemap: https://www.omron-healthcare.com/sitemap_0.xml

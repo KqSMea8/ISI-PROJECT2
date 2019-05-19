@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin-pdf/
+Disallow: /de/palety
+Disallow: /de/palety.html
+Disallow: /de/agb.html
+Disallow: /de/danke
+Disallow: /de/danke.html
+Disallow: /de/dziekujemy
+Disallow: /de/dziekujemy.html
+Disallow: /uk/thankyou
+Disallow: /se/thankyou
+Disallow: /no/thankyou
+Disallow: /fi/thankyou
+Disallow: /fr/thankyou
+Disallow: /se/start2
+Disallow: /fr/start2
+Disallow: /no/start2
+Disallow: /fi/start2
+Disallow: /uk/start2
+Disallow: /de/start2
+Disallow: /start3
+

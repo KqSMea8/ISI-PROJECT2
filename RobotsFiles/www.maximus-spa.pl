@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /en/prices/
+Disallow: /en/gallery/
+Disallow: /en/contact/?*
+Disallow: /en/regulations/?*
+Disallow: /de/pakete/?*
+Disallow: /en/wellness-rehabilitation-prices/?*
+Disallow: /en/polityka-prywatnosci/?*
+Disallow: /de/housordnung/?*
+Disallow: /de/preisliste/?*
+Disallow: /galeria/2-2/?*
+Disallow: /de/wellness-und-reha/?*
+Disallow: /de/wellness-und-reha-preistliste/?*
+Disallow: /de/kontakt/?*
+Disallow: /de/fotogalerie/1-2-2/?*

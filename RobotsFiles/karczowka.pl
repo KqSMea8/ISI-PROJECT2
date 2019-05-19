@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Disallow: /search/
+Disallow: /author/
+Disallow: /kategoria/
+Disallow: /etykieta/
+Disallow: /2014/
+Disallow: /2015/
+Disallow: /2016/
+Disallow: /2017/
+Disallow: /2018/
+Disallow: /2019/
+Disallow: /2020/
+Allow: /wp-content/uploads/
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: http://karczowka.pl/sitemap.xml

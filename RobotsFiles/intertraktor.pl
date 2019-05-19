@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: */?cPath=
+Disallow: */&sort=
+Disallow: */?show=
+Disallow: /intertraktor-m-58.html
+Disallow: /password_forgotten.php
+Disallow: /price_list.php
+Disallow: /closet.php
+Disallow: /-c-_1393.html?cPath=_1393
+Allow: /

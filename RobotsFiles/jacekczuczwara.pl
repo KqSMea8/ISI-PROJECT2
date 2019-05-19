@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<title>Szkola Nauki Jazdy Prestiz Namyslow</title>
+
+<!-- Bootstrap -->
+<link href="http://jacekczuczwara.pl/wp-content/plugins/rocket-maintenance-mode/css/public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="http://jacekczuczwara.pl/wp-content/plugins/rocket-maintenance-mode/css/public/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+
+<link href="http://jacekczuczwara.pl/wp-content/plugins/rocket-maintenance-mode/views/themes/default/assets/css/style.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!--n2css--><script type='text/javascript' src='http://jacekczuczwara.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://jacekczuczwara.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+
+<script src="http://jacekczuczwara.pl/wp-content/plugins/rocket-maintenance-mode/css/public/bootstrap/js/bootstrap.min.js"></script>
+
+<script src="http://jacekczuczwara.pl/wp-content/plugins/rocket-maintenance-mode/views/themes/default/assets/js/jquery.countdown.min.js"></script>
+
+
+
+
+
+
+</head>
+<body>
+<div id="wrapper" class="theme-default">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 col-md-12 col-lg-12">
+<div id="logo">
+<img src="" />
+</div>
+<h1>Szkola Nauki Jazdy Prestiz</h1>
+<div id="content">
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<script>
+/*
+Subscription form
+*/
+jQuery(function ($) {
+$('.success-message').hide();
+$('.error-message').hide();
+
+ajax_url = "http://jacekczuczwara.pl/wp-admin/admin-ajax.php";
+
+$('.mm-form').submit(function() {
+var postdata = $('.mm-form').serialize();
+$.ajax({
+type: 'POST',
+url: ajax_url + '?action=wpmmp_c_soon_store_email',
+data: postdata,
+dataType: 'json',
+success: function(json) {
+if(json.valid == 0) {
+$('.success-message').hide();
+$('.error-message').hide();
+$('.error-message').html(json.message);
+$('.error-message').fadeIn();
+}
+else {
+$('.error-message').hide();
+$('.success-message').hide();
+$('.subscribe form').hide();
+$('.success-message').html(json.message);
+$('.success-message').fadeIn();
+}
+}
+});
+return false;
+});
+});
+</script>              <span>
+
+<span>
+
+
+
+
+
+
+</span>
+
+</span>        </div>
+
+</div>
+</div>
+
+<script>
+jQuery(function ($) {
+$('#countdown').countdown( '', function(event) {
+var $this = $(this).html(event.strftime(''
++ '<span>%D</span> days '
++ '<span>%H</span> hr '
++ '<span>%M</span> min '
++ '<span>%S</span> sec'));
+});
+
+setTimeout(function(){
+
+$('.progress .bar').each(function() {
+var me = $(this);
+var perc = me.attr("data-percentage");
+
+var current_perc = 0;
+
+var progress = setInterval(function() {
+if (current_perc>=perc) {
+clearInterval(progress);
+} else {
+current_perc +=1;
+me.css('width', (current_perc)+'%');
+}
+
+me.text((current_perc)+'%');
+
+}, 50);
+
+});
+
+},300);
+
+});
+
+
+</script>
+
+
+<style>
+body{
+background-color: #ffffff;
+color: ;
+}
+
+body *{
+color: ;
+}
+
+a{
+color: ;
+}
+
+.success-message, .error-message {
+padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+color: #8e8e8e !important;
+}
+
+</style>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /ts/
+Disallow: /*v=*
+Disallow: /*x=*
+

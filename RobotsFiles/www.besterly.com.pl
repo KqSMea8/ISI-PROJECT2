@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /images/
+Disallow: /indexFiles/
+Disallow: /rut/
+Disallow: /nbproject/
+Disallow: /rut/
+Disallow: /searchFiles/
+Disallow: /default.css
+Allow: /index.php
+Allow: /odkazy.php
+Allow: /podpora.php
+Allow: /sitemap.xml
+Request-rate: 30/1m

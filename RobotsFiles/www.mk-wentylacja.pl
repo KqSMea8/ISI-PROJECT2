@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /?osprzet-wentylacyjny,132,2
+Disallow: /?czerpnie-wyrzutnie,148
+Disallow: /?wentylatory,137&bViewAll=true&bViewAll=*
+Disallow: /?wentylatory,137&bViewAll=true
+Disallow: /?wnemostaty-nawiewniki-kratki-zawory,136,2&sSort=name
+Disallow: /?elastyczne-przewody-wentylacyjne,130&sSort=
+Disallow: /?filtry,150&bViewAll=true
+Disallow: /?kanaly-wentylacyjne

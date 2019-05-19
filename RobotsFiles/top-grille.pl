@@ -1,0 +1,34 @@
+Sitemap: http://www.top-grille.pl/sitemap_pl.xml
+User-agent: *
+#Disallow: /user
+#Disallow: /basket
+#Disallow: /search
+Disallow: /recommend_shop
+#Disallow: /newsletter
+Disallow: /currency
+Disallow: /productsCompare
+Disallow: /product_options
+Disallow: /stNavigationFrontend
+Disallow: /navigation
+Disallow: /invoice
+Disallow: /order
+Disallow: /invoicePdf/*
+Disallow: /orderPdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /webpage/polityka-prywatnosci.html
+
+Allow: /product/recommendProducts/id/283/id_category/35/id_producer/8/product_list/1
+Allow: /product/recommendProducts/id/336/id_category/74/id_producer/3/product_list/1
+Allow: /product/recommendProducts/id/398/id_category/30/id_producer/3/product_list/1
+Allow: /product/recommendProducts/id/14/id_category/6/id_producer/3/product_list/1
+Allow: /product/recommendProducts/id/105/id_category/14/id_producer/3/product_list/1
+
+Disallow: /product/recommendProducts/*
+allow: /webpage/regulamin.html
+allow: /webpage/polityka-prywatnosci.html
+Disallow: /*.php$
+Disallow: /*.php$
+Disallow: /paypal
+Disallow: /basket/setProduct/product_id/*

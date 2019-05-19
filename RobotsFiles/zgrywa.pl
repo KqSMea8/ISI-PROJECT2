@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /1/
+Disallow: /10/
+Disallow: /11/
+Disallow: /12/
+Disallow: /13/
+Disallow: /14/
+Disallow: /15/
+Disallow: /16/
+Disallow: /17/
+Disallow: /18/
+Disallow: /19/
+Disallow: /20/

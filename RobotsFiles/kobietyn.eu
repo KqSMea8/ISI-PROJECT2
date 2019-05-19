@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /kontakt/
+Disallow: /logowanie.php
+Disallow: /*login.php
+Disallow: /*admin
+Disallow: /*includes
+Disallow: /*.php$
+Disallow: /polityka-cookies.pdf
+Disallow: /praca-kontra-dziecko/
+Disallow: /czy-warto-byc-perfekcyjna-pania-domu/
+Disallow: /wszystkie-odcienie-piekna-jak-polki-postrzegaja-swoja-urode/
+
+
+
+Sitemap: http://kobietyn.eu/sitemap.xml

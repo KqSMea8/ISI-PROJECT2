@@ -1,0 +1,19 @@
+#User-agent: *
+#Disallow: http://www.fajnewesele.pl/index.php/fw_cms/index/smid/20
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/246
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/category/page/all/pokaz_wszystkie.html
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/141
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/254
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/198
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/category/cat/4
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/300%20
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/155
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/162
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/170
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/category/cat/6
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/category/cat/2
+#Disallow: http://www.fajnewesele.pl/aktualnosci/f-xbc-body-mesotherapy-fusion,
+#Disallow: http://www.fajnewesele.pl/index.php/homepage/index/home.html
+#Disallow: http://www.fajnewesele.pl/index.php/fs_home/product/id/24/papier_toaletowy_slubny__just_married_.html
+#Disallow: http://www.fajnewesele.pl/index.php/fw_cms/index/s
+

@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /Admin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache
+Disallow: /wp-content/uploads/*/*/*.pdf
+Disallow: /wp-content/uploads/*/*/*.xlsx
+Disallow: /partners/
+Disallow: /export/
+Disallow: /uploaded/
+Disallow: /SERVER/
+Disallow: /404/
+Disallow: /*?ref=
+Disallow: /*?A=
+Disallow: /*?B=
+Disallow: /*?SubAffiliateID=
+Disallow: /*?no_redirect=true
+Disallow: /*?tag=
+Disallow: /*?tg=
+Disallow: /*aw.aspx?
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+Allow: /*?A=
+Allow: /*?B=
+Allow: /*?SubAffiliateID=
+Allow: /*?tag=
+Allow: /*?tg=
+Allow: /*aw.aspx?
+
+Sitemap: https://www.fortrade.com/sitemap.xml

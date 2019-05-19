@@ -1,0 +1,49 @@
+# www.robotstxt.org/
+# https://developers.google.com/webmasters/control-crawl-index/
+
+User-agent: *
+Disallow: /feedback/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /typo3temp/Cache
+Disallow: /typo3temp/core-update
+Disallow: /typo3temp/locks
+Disallow: /typo3temp/pics
+Disallow: /typo3temp/compressor
+Disallow: /typo3temp/InstallToolSessions
+Disallow: /typo3temp/logs
+Disallow: /typo3temp/sprites
+Disallow: /fileadmin/user_upload/hiddenDocuments/
+
+Allow: /typo3conf/ext/ondigotemplate/Resources/Public/Gfx/
+
+Sitemap: https://www.tropical-islands.de/sitemap_pages_de.xml
+Sitemap: https://www.tropical-islands.de/sitemap_pages_en.xml
+Sitemap: https://www.tropical-islands.de/sitemap_pages_pl.xml
+
+Sitemap: https://www.tropical-islands.de/karriere/sitemap/
+Sitemap: https://www.tropical-islands.de/en/career/sitemap/
+Sitemap: https://www.tropical-islands.de/karriere/sitemaps/geschichten/
+
+Sitemap: https://www.tropical-islands.de/news-sitemap/
+Sitemap: https://www.tropical-islands.de/en/news-sitemap/
+Sitemap: https://www.tropical-islands.de/pl/news-sitemap/
+
+Sitemap: https://www.tropical-islands.de/events-sitemap/
+Sitemap: https://www.tropical-islands.de/en/events-sitemap/
+Sitemap: https://www.tropical-islands.de/pl/events-sitemap/
+
+Sitemap: https://www.tropical-islands.de/press-sitemap/
+Sitemap: https://www.tropical-islands.de/en/press-sitemap/
+Sitemap: https://www.tropical-islands.de/pl/press-sitemap/
+
+Sitemap: https://www.tropical-islands.de/mice-events-sitemap/
+Sitemap: https://www.tropical-islands.de/en/mice-events-sitemap/
+Sitemap: https://www.tropical-islands.de/pl/mice-events-sitemap/
+
+Sitemap: https://www.tropical-islands.de/kids-news-sitemap/
+Sitemap: https://www.tropical-islands.de/en/kids-news-sitemap/
+Sitemap: https://www.tropical-islands.de/pl/kids-news-sitemap/
+
+Sitemap: https://www.tropical-islands.de/ecki-sitemap/

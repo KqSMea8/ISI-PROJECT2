@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Ideas &amp; Solutions </title>
+<base href='http://www.i-s.hu/'>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="All">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="Author" content="MarketingHelp Kft.">
+<meta name="Generator" content="Talas Krisztian">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta name="searchtitle" content="is">
+<meta name="classification" content="is">
+<meta name="copyright" content="MarketingHelp Kft.">
+<meta name="country" content="Hungary">
+<meta name="content-language" content="hu, hun, hungarian">
+<meta name="revisit-after" content="3 days">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" type="text/css" href="css.css">
+<script type="text/javascript" src="js/swfobject.js"></script>
+<SCRIPT language="JavaScript" type="text/javascript">
+<!--
+function ujablak($url,$meret) {
+w=window.open($url,"kos",$meret);
+w.focus();
+}
+//-->
+</SCRIPT>
+</head>
+<body><div id="base">
+<div id="content">
+<div id="content_content">
+<div class="nopage" onClick="location.href='about-us';">
+</div>
+
+
+<div class="menu_about_us" onClick="location.href='about-us';">
+</div>
+
+<div class="menu_ideas_we_have" onClick="location.href='ideas-we-have';">
+</div>
+
+
+<div class="menu_solutions_we_offer" onClick="location.href='solutions-we-offer';">
+</div>
+
+<div class="menu_ideas_to_download" onClick="location.href='ideas-to-download';">
+</div>
+
+<div class="menu_contact_us" onClick="location.href='contact-us';">
+</div>
+
+<div class="i_and_s" onClick="location.href='http://www.i-s.hu';">
+<div id="righttext">
+<h4>Ideas &amp; Solutions</h4>
+<div id="righttext2">Leading thoughts for<br>
+pharmaceuticals and medical<br>
+devices in non-core and<br>
+middle-income markets
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+<div id="copyright">
+<div id="copyright_content">
+(c) Ideas &amp; Solutions<br>
+All rights reserved
+</div>
+</div>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-15205569-8']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script></body>
+</html>

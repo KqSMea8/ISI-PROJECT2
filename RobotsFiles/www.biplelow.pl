@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /dokumenty/
+Disallow: /flash/
+Disallow: /images/
+Disallow: /img/
+Disallow: /img_bip/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /kopie/
+Disallow: /logos/
+Disallow: /modules/
+Disallow: /player/
+Disallow: /rss/
+Disallow: /tmp/
+Disallow: /zdjecia/

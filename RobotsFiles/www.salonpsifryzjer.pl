@@ -1,0 +1,4 @@
+Sitemap: http://www.salonpsifryzjer.pl/sitemap.xml
+
+User-agent: *
+Crawl-Delay: 300

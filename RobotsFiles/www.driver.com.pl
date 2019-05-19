@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: */admin/
+Disallow: */application/
+Disallow: */ckeditor/
+Disallow: */kcfinder/
+Disallow: */lang/
+Disallow: */library/
+Disallow: */mpdf/
+Disallow: */tinymce/
+Disallow: */plugins/

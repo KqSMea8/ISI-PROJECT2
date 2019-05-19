@@ -1,0 +1,4 @@
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+

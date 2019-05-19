@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/plugins/
+Disallow: /author/
+Disallow: /cathegory/*
+Disallow: /wp-content/cache/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /blog/author/
+Disallow: /archives/
+Disallow: /20*
+Disallow: /trackback/
+
+User-agent: AhrefsBot
+disallow: /
+User-agent: MJ12bot
+Disallow: /

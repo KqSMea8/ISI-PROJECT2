@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.nqa.com/en-gb/sitemap.xml
+Sitemap: https://www.nqa.com/en-us/sitemap.xml
+Sitemap: https://www.nqa.com/cs-cz/sitemap.xml
+Sitemap: https://www.nqa.com/en-za/sitemap.xml
+Sitemap: https://www.nqa.com/it-it/sitemap.xml
+Sitemap: https://www.nqa.com/tr-tr/sitemap.xml
+Sitemap: https://www.nqa.com/bg-bg/sitemap.xml
+Sitemap: https://www.nqa.com/es-es/sitemap.xml
+Sitemap: https://www.nqa.com/en-cy/sitemap.xml
+Sitemap: https://www.nqa.com/en-me/sitemap.xml
+Sitemap: https://www.nqa.com/nl-nl/sitemap.xml
+Sitemap: https://www.nqa.com/fr-ca/sitemap.xml
+Sitemap: https://www.nqa.com/en-ca/sitemap.xml
+Sitemap: https://www.nqa.com/es-pe/sitemap.xml
+Sitemap: https://www.nqa.com/es-mx/sitemap.xml
+Sitemap: https://www.nqa.com/en-in/sitemap.xml
+Sitemap: https://www.nqa.com/en-ph/sitemap.xml
+Sitemap: https://www.nqa.com/en-id/sitemap.xml
+Sitemap: https://www.nqa.com/en-my/sitemap.xml
+Sitemap: https://www.nqa.com/ko-kr/sitemap.xml
+Sitemap: https://www.nqa.com/en-th/sitemap.xml
+Sitemap: https://www.nqa.com/en-pk/sitemap.xml
+Sitemap: https://www.nqa.com/en-si/sitemap.xml
+Sitemap: https://www.nqa.com/en-bd/sitemap.xml

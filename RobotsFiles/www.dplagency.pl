@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /tmp/
+Disallow: /include/
+Disallow: /STARA_WWW/
+Disallow: /ALLEGRO/
+Disallow: /landingpage/
+Disallow: /doc/

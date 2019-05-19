@@ -1,0 +1,21 @@
+User-agent: *
+Sitemap: http://myslowiczanin.pl/sitemap.xml
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /dokumenty/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /pliki/
+Disallow: /plugins/
+Disallow: /pobierz/
+Disallow: /rokdownload/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+

@@ -1,0 +1,10 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /najnowsze.xml
+
+User-agent: upday
+Allow: */feed
+
+Sitemap: https://tvn24bis.pl/sitemap/sitemap.xml

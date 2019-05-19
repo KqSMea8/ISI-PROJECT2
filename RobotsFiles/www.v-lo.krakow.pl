@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /set-language
+Allow: /
+

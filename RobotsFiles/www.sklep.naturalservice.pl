@@ -1,0 +1,67 @@
+User-agent: *
+
+Disallow: /*orderby=
+Disallow: /*orderway=
+Disallow: /*tag=
+Disallow: /*id_currency=
+Disallow: /*search_query=
+Disallow: /*back=
+Disallow: /*utm_source=
+Disallow: /*utm_medium=
+Disallow: /*utm_campaign=
+Disallow: /*n=
+Disallow: /*controller=addresses
+Disallow: /*controller=address
+Disallow: /*controller=authentication
+Disallow: /*controller=cart
+Disallow: /*controller=discount
+Disallow: /*controller=footer
+Disallow: /*controller=get-file
+Disallow: /*controller=header
+Disallow: /*controller=history
+Disallow: /*controller=identity
+Disallow: /*controller=images.inc
+Disallow: /*controller=init
+Disallow: /*controller=my-account
+Disallow: /*controller=order
+Disallow: /*controller=order-opc
+Disallow: /*controller=order-slip
+Disallow: /*controller=order-detail
+Disallow: /*controller=order-follow
+Disallow: /*controller=order-return
+Disallow: /*controller=order-confirmation
+Disallow: /*controller=pagination
+Disallow: /*controller=password
+Disallow: /*controller=pdf-invoice
+Disallow: /*controller=pdf-order-return
+Disallow: /*controller=pdf-order-slip
+Disallow: /*controller=product-sort
+Disallow: /*controller=search
+Disallow: /*controller=statistics
+Disallow: /*controller=attachment
+Disallow: /*controller=guest-tracking
+
+Disallow: /*classes/
+Disallow: /*config/
+Disallow: /*download/
+Disallow: /*mails/
+Disallow: /*modules/
+Disallow: /*translations/
+Disallow: /*tools/
+
+Disallow: /logowanie
+Disallow: /moje-konto
+
+Allow: /modules/*.css$
+Allow: /modules/*.js$
+Allow: /modules/*.png$
+Allow: /modules/*.jpg$
+Allow: /modules/*.jpeg$
+Allow: /modules/*.gif$
+Allow: /themes/*.css$
+Allow: /themes/*.js$
+Allow: /themes/*.png$
+Allow: /themes/*.jpg$
+Allow: /themes/*.jpeg$
+Allow: /themes/*.gif$
+

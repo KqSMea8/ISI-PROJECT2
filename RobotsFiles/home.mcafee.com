@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /Error.aspx
+Disallow: /Root/MyAccount.aspx
+Disallow: /Root/SecureRedirect.aspx
+Disallow: /Secure/Payment/
+Disallow: /Secure/PartnerAutoLogin.aspx
+Disallow: /Secure/Protected/
+Disallow: /StaticGenericPage.aspx
+Disallow: /SupportPages/
+Disallow: /UIDesign/
+Disallow: /UserControls/
+Disallow: /WebServices/
+Disallow: /*.axd$
+Disallow: /ScriptResource.axd
+Disallow: /WebResource.axd
+Disallow: /Foresee/
+Disallow: /Mobile/
+Disallow: /RedeemPromo/
+Sitemap: https://home.mcafee.com/Sitemap.xml
+

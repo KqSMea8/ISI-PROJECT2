@@ -1,0 +1,5 @@
+Disallow: /cgi-bin/
+Disallow: /ftp/
+Disallow: /subdom/
+Disallow: /KOX_EVENTS/
+

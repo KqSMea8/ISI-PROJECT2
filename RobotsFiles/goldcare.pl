@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /en/component/easybookreloaded/easybookreloaded
+Disallow: /en/component/easybookreloaded/entry/add
+Disallow: /component/easybookreloaded/easybookreloaded
+Disallow: /component/easybookreloaded/entry/add
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /plugins/
+Disallow: /tmp/
+Sitemap: http://goldcare.pl/sitemap.xml

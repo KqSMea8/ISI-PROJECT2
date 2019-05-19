@@ -1,0 +1,10 @@
+]User-agent: *
+Disallow: /_developer/
+Disallow: /_kopie_zapasowe/
+Disallow: /_materialy/
+Disallow: /_screenon/
+Disallow: /screenon.pl/
+Disallow: /[kopie_serwisow]/
+Disallow: /_materialy_na_strone/
+Disallow: /_projekty/
+Disallow: /_vantopol.com.pl/

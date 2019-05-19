@@ -1,0 +1,26 @@
+User-agent: HenryTheMiragoRobot
+Disallow: /
+
+User-agent: Mirago
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /misc/cookies
+
+User-agent: *
+Disallow: /misc/default
+
+User-agent: *
+Disallow: /misc/rental
+
+User-agent: *
+Disallow: /misc/specific
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.barenbrug.pl/sitemap.xml
+

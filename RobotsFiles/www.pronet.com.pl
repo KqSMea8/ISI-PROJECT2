@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /deny/
+Disallow: /webdav/
+Disallow: /captcha/
+Disallow: /scripts/
+Disallow: /sigma/
+Disallow: /madex/
+Disallow: /sgn/
+Disallow: /images/
+Disallow: /session.php
+Disallow: /admin.php
+Disallow: /*.phtml

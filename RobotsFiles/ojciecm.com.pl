@@ -1,0 +1,6 @@
+User-Agent: *
+
+Allow: /wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /readme.html
+

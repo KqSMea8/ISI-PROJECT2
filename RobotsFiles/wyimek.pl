@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /_notes/
+Disallow: /send.php
+Disallow: /beta/
+Disallow: /mail/
+Disallow: /OFF/
+Disallow: /BM/
+Disallow: /blog/
+Disallow: /adlet.pl/

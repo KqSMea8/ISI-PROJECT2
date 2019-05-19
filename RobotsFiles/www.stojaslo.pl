@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /libs/
+Disallow: /old/
+
+Sitemap: http://www.stojaslo.pl/sitemap.xml

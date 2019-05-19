@@ -1,0 +1,108 @@
+########################################################################################
+##################### Creare's robots.txt file for Magento websites ####################
+########################################################################################
+
+User-agent: *
+Allow: /
+#Disallow: /
+
+#######################################
+############### SITEMAP ###############
+#######################################
+
+Sitemap: http://www.sportking.pl/sportking_sitemap.xml
+
+
+#######################################
+################ PAGES ################
+#######################################
+
+Disallow: /polityka-cookies/
+Disallow: /regulamin/
+
+
+#######################################
+##### MAGENTO DIRECTORIES & FILES #####
+#######################################
+
+##### Directories #####
+
+Disallow: /404/
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /magento/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /stats/
+Disallow: /var/
+
+##### Paths (clean URLs) #####
+
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product/gallery/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /control/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+Disallow: /*utm_source=
+Disallow: /*utm_medium=
+Disallow: /*utm_campaign=
+Disallow: /*gclid=
+
+##### Files #####
+
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+#######################################
+######## QUERY STRING BLOCKER #########
+#######################################
+
+#Uncomment if your site is a brand new un-cached site.
+
+#Disallow: /*?*
+
+
+#######################################
+#### WORDPRESS DIRECTORIES & FILES ####
+#######################################
+
+##### Uncomment if using Wordpress in subdirectory #####
+
+#Disallow: /blog/wp-content/upgrade/
+#Disallow: /blog/wp-admin/
+#Disallow: /blog/wp-includes/
+
+
+#######################################
+########### SCREAMING FROG ############
+#######################################
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.bmp$
+Disallow: /*.xml$
+Disallow: /*.css$
+Disallow: /*.js$

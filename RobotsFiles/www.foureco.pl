@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cache
+Disallow: /css
+Disallow: /flash
+Disallow: /js
+Disallow: /pics
+Disallow: /mod/*
+Disallow: /*printpage*
+Disallow: /*printpdf*
+Disallow: /*kalendarium/2*
+Allow: /pics/_realizacje
+Sitemap: http://www.foureco.pl/sitemap.xml

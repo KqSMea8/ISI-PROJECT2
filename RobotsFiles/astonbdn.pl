@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /*?*
+Disallow: /*?
+Allow: /wp-content/uploads
+Allow: /wp-content/themes

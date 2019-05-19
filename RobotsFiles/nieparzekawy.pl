@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*company/view?id*
+Disallow: /*company/
+Disallow: /*praktyki-staze?category=*
+Disallow: /*praktyki-staze?city=*
+Disallow: /*agreement/*
+Disallow: /*agreement/save?*
+Disallow: /*company/assign?id=*
+Disallow: /*user/login
+Disallow: /*user/register
+Disallow: /*company/manage
+Disallow: /*internship/create

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /download/
+Disallow: /cache/
+Disallow: /files/
+Disallow: /ucp.php
+Disallow: /mcp.php
+Disallow: /memberlist.php
+Disallow: /config.php
+Disallow: /cron.php
+Disallow: /faq.php
+Disallow: /report.php
+Sitemap: http://www.forum.opp.pl/sitemap.xml

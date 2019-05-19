@@ -1,0 +1,22 @@
+Sitemap: //poker.williamhill.com/sitemap.xml
+# Disallow some matrix defaults
+User-agent: *
+Disallow: /_designs/
+Disallow: /*?sq_content_src=
+Disallow: /*_recache
+Disallow: /*_edit
+Disallow: /*_admin
+Disallow: /*_login
+Disallow: /*_performance
+Disallow: /*_design
+Disallow: /*_web_services
+Disallow: /cz/
+Disallow: /it/
+Disallow: /sh/
+Disallow: /preview/
+Disallow: /loader/
+Disallow: /christmas-calendar/
+Disallow: /new-player-journey/
+Disallow: /*?l=*
+Disallow: /*?aff_*
+

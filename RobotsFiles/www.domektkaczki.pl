@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /?s=
+Disallow: ?comments=
+Disallow: /trackback/
+Disallow: /privkey.pem
+Disallow: /fullchain.pem

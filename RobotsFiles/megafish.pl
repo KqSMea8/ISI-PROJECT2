@@ -1,0 +1,199 @@
+# 2018-05-02 Cenobitz.com -- stworzenie pliku robots.txt
+User-agent: *
+# Private pages
+Disallow: /*orderby=
+Disallow: /*orderway=
+Disallow: /*tag=
+Disallow: /*id_currency=
+Disallow: /*search_query=
+Disallow: /*back=
+Disallow: /*n=
+Disallow: /*controller=addresses
+Disallow: /*controller=address
+Disallow: /*controller=authentication
+Disallow: /*controller=cart
+Disallow: /*controller=discount
+Disallow: /*controller=footer
+Disallow: /*controller=get-file
+Disallow: /*controller=header
+Disallow: /*controller=history
+Disallow: /*controller=identity
+Disallow: /*controller=images.inc
+Disallow: /*controller=init
+Disallow: /*controller=my-account
+Disallow: /*controller=order
+Disallow: /*controller=order-opc
+Disallow: /*controller=order-slip
+Disallow: /*controller=order-detail
+Disallow: /*controller=order-follow
+Disallow: /*controller=order-return
+Disallow: /*controller=order-confirmation
+Disallow: /*controller=pagination
+Disallow: /*controller=password
+Disallow: /*controller=pdf-invoice
+Disallow: /*controller=pdf-order-return
+Disallow: /*controller=pdf-order-slip
+Disallow: /*controller=product-sort
+Disallow: /*controller=search
+Disallow: /*controller=statistics
+Disallow: /*controller=attachment
+Disallow: /*controller=guest-tracking
+# Directories
+Disallow: */classes/
+Disallow: */config/
+Disallow: */download/
+Disallow: */mails/
+Disallow: */modules/
+Disallow: */translations/
+Disallow: */tools/
+# Files
+Disallow: /*pl/odzyskiwanie-hasla
+Disallow: /*pl/adres
+Disallow: /*pl/adresy
+Disallow: /*pl/logowanie
+Disallow: /*pl/koszyk
+Disallow: /*pl/rabaty
+Disallow: /*pl/historia-zamowien
+Disallow: /*pl/dane-osobiste
+Disallow: /*pl/moje-konto
+Disallow: /*pl/sledzenie-zamowienia
+Disallow: /*pl/pokwitowania
+Disallow: /*pl/zamowienie
+Disallow: /*pl/szukaj
+Disallow: /*pl/szybkie-zakupy
+Disallow: /*pl/sledzenie-zamowienia-gosc
+Disallow: /*pl/potwierdzenie-zamowienia
+# CENOBITZ hack
+User-agent: SemrushBot
+Disallow: /
+User-agent: ezooms
+Disallow: /
+User-agent: proximic
+Disallow: /php/
+# Block MJ12bot as it is just noise
+User-agent: MJ12bot
+Disallow: /
+# Block Ahrefs
+User-agent: AhrefsBot
+Disallow: /
+
+# Block Sogou
+User-agent: sogou spider
+Disallow: /
+
+# Block SEOkicks
+User-agent: SEOkicks-Robot
+Disallow: /
+
+# Block BlexBot
+User-agent: BLEXBot
+Disallow: /
+
+# Block SISTRIX
+User-agent: SISTRIX Crawler
+Disallow: /
+
+# Block Uptime robot
+User-agent: UptimeRobot/2.0
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+# Block Ezooms Robot
+User-agent: Ezooms Robot
+Disallow: /
+
+# Block Perl LWP
+User-agent: Perl LWP
+Disallow: /
+
+# Block BlexBot
+User-agent: BLEXBot
+Disallow: /
+
+# Block netEstate NE Crawler (+http://www.website-datenbank.de/)
+User-agent: netEstate NE Crawler (+http://www.website-datenbank.de/)
+Disallow: /
+
+# Block WiseGuys Robot
+User-agent: WiseGuys Robot
+Disallow: /
+
+# Block Turnitin Robot
+User-agent: Turnitin Robot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Turnitin Bot
+Disallow: /
+
+User-agent: TurnitinBot/3.0 (http://www.turnitin.com/robot/crawlerinfo.html)
+Disallow: /
+
+User-agent: TurnitinBot/3.0
+Disallow: /
+
+# Block Heritrix
+User-agent: Heritrix
+Disallow: /
+
+# Block pricepi
+User-agent: pimonster
+Disallow: /
+User-agent: Pimonster
+Disallow: /
+
+# Block Searchmetrics Bot
+User-agent: SearchmetricsBot
+Disallow: /
+
+# Block Eniro
+User-agent: ECCP/1.0 (search@eniro.com)
+Disallow: /
+
+# Block YandexBot
+User-agent: Yandex
+Disallow: /
+
+# Block Baidu
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+User-agent: Mozilla/5.0 (compatible; Baiduspider/3.0; +http://www.baidu.com/search/spider.html)
+User-agent: Mozilla/5.0 (compatible; Baiduspider/4.0; +http://www.baidu.com/search/spider.html)
+User-agent: Mozilla/5.0 (compatible; Baiduspider/5.0; +http://www.baidu.com/search/spider.html)
+User-agent: Baiduspider/2.0
+User-agent: Baiduspider/3.0
+User-agent: Baiduspider/4.0
+User-agent: Baiduspider/5.0
+Disallow: /
+
+# Block SoGou
+User-agent: Sogou Spider
+Disallow: /
+
+# Block Youdao
+User-agent: YoudaoBot
+Disallow: /
+
+# Block Nikon JP Crawler
+User-agent: gsa-crawler (Enterprise; T4-KNHH62CDKC2W3; gsa_manage@nikon-sys.co.jp)
+Disallow: /
+
+# Block  MegaIndex.ru
+User-agent: MegaIndex.ru/2.0
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaIndex.ru
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+

@@ -1,0 +1,9 @@
+Sitemap: http://www.sagalara.com.pl/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /xml/
+Disallow: /script/
+Disallow: /js/
+Disallow: /style/
+Disallow: *.pdf*
+Disallow: *.swf*

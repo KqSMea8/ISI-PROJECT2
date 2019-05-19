@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /feed/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: ?wptheme=
+Allow: /wp-content/uploads/
+Sitemap: http://tolhaje.pl/sitemap.xml

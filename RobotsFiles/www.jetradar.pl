@@ -1,0 +1,16 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /searches/
+Disallow: /new_searches/
+Disallow: /hotels/
+
+Sitemap: https://www.jetradar.pl/sitemaps/sitemap_index.xml
+
+
+

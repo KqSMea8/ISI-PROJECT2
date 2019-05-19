@@ -1,0 +1,15 @@
+User-Agent: *
+
+Disallow: /rd.php
+Disallow: /rd2.php
+Disallow: /rd3.php
+Disallow: /rd4.php
+Disallow: /rd5.php
+Disallow: /rd/rd.2018.php
+Disallow: /rd/rd5.php
+Disallow: /rd/rd6.php
+Disallow: /mailform.php
+Disallow: /site2017stat/
+Disallow: /prez2017stat/
+Disallow: /showpic.php
+

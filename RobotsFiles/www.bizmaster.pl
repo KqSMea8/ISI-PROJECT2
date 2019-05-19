@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /stuff/
+Disallow: /blog/Account/*.*
+Disallow: /blog/search.aspx
+Disallow: /blog/error404.aspx
+Disallow: /blog/archive.aspx
+Disallow: /forum/people/
+Disallow: /forum/people.php
+Sitemap: http://www.bizmaster.pl/sitemap_index.xml

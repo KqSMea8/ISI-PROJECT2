@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /mobile/games/
+Disallow: /mob/
+Disallow: /tmp/
+Allow: /
+
+

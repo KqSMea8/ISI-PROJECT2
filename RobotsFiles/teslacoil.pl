@@ -1,0 +1,33 @@
+User-agent: *
+
+Disallow: /adm/
+Disallow: /cache/
+Disallow: /docs/
+Disallow: /files/
+Disallow: /helpmod/
+Disallow: /includes/
+Disallow: /kosz/
+Disallow: /language/
+Disallow: /maps/
+Disallow: /mchat/
+Disallow: /news/
+Disallow: /slu_1982/
+Disallow: /store/
+Disallow: /styles/
+Disallow: /common.php
+Disallow: /config.php
+Disallow: /cron.php
+Disallow: /faq.php
+Disallow: /mchat.php
+Disallow: /mcp.php
+Disallow: /memberlist.php
+Disallow: /posting.php
+Disallow: /regulamin.php
+Disallow: /report.php
+Disallow: /search.php
+Disallow: /style.php
+Disallow: /ucp.php
+Disallow: /uzytkownicy
+Disallow: /viewonline.php
+
+Sitemap: http://teslacoil.pl/sitemapindex.xml.gz

@@ -1,0 +1,35 @@
+User-Agent: Googlebot
+Allow: .js
+Allow: .css
+
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /wp-content/themes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/upgrade
+Disallow: /wp-content/themes_backup
+Disallow: /wp-content/cache
+Disallow: /xmlrpc.php
+Disallow: /template.html
+Disallow: /wp-comments
+Disallow: /cgi-bin
+Disallow: /trackback
+Disallow: /feed
+Disallow: /comments
+Disallow: /comment-page
+Disallow: /replytocom=
+Disallow: /author
+Disallow: /?author=
+Disallow: /tag
+Disallow: /?feed=
+Disallow: /?s=
+Disallow: /?se=
+Allow: /wp-admin/admin-ajax.php
+
+sitemap: https://www.archibald.pl/post-sitemap.xml
+sitemap: https://www.archibald.pl/page-sitemap.xml
+sitemap: https://www.archibald.pl/upmore_branch-sitemap.xml
+sitemap: https://www.archibald.pl/upmore_news-sitemap.xml

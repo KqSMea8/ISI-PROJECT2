@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Sitemap: http://boko.net.pl/sitemap.xml
+

@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /dk/*
+Allow: /en/*
+Allow: /fi/*
+Allow: /se/*
+Allow: /de/*
+Allow: /ch/*
+Allow: /pt/*
+Allow: /pl/*
+Allow: /fr/*
+Allow: /br/*
+Disallow: /at/*
+
+Sitemap: https://www.euroclinix.net/dk/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/en/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/se/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/fi/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/de/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/ch/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/pt/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/pl/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/fr/sitemap-index.xml
+Sitemap: https://www.euroclinix.net/br/sitemap-index.xml

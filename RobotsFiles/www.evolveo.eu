@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /cx*
+
+Disallow: /hx*
+
+Disallow: /ex*
+
+Disallow: /rx*
+Disallow: /px*
+

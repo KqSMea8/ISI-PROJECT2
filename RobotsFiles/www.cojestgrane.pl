@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: http://cojestgrane.pl/sitemap
+Disallow: /edytuj-profil/
+Disallow: /logout-profil/
+Disallow: /dodaj-profil/
+Disallow: /login-profil/
+Disallow: /edytuj-profil/
+Disallow: /haslo-profil/
+Disallow: /miasto/
+Disallow: /wydarzenie/
+Disallow: /miejsce/

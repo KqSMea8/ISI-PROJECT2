@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /buttons/
+Disallow: /forum/
+Disallow: /functions/
+Disallow: /images/
+Disallow: /img/
+Disallow: /kuszotv/
+Disallow: /mcms/
+Disallow: /podstrony/
+Disallow: /scripts/
+Disallow: /temp/
+Disallow: /typer/
+Disallow: /typer_a/
+Disallow: /xsl/
+Disallow: /chat.php

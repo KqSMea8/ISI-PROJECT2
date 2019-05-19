@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /signup
+Disallow: /de/signup
+Disallow: /en/signup
+Disallow: /pl/signup
+Disallow: /de/anmeldung

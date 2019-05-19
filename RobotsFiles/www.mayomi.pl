@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /application/
+Disallow: /doc/
+Disallow: /design/
+Disallow: /cache/
+Disallow: /min/
+Disallow: /upload/
+Disallow: /serialization/
+Allow: /design/_gallery/

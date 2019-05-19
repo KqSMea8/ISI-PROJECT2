@@ -1,0 +1,13 @@
+# robots.txt for http://coppermine-gallery.net/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /demo/cpg13x/
+Disallow: /demo/cpg14x/faq.php
+Disallow: /demo/cpg14x/register.php
+Disallow: /demo/cpg14x/login.php
+Disallow: /demo/cpg14x/search.php
+Disallow: /images/
+Disallow: /style/
+Disallow: /wiki/
+

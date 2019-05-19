@@ -1,0 +1,19 @@
+Sitemap: https://www.scoreboard.com/sitemap.xml
+
+User-agent: *
+Disallow: /standings/
+Disallow: /bracket/
+Disallow: /redirect/
+Disallow: /x/
+
+User-agent: SmartViper
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /standings/
+Disallow: /bracket/
+Disallow: /redirect/
+Disallow: /x/
+Allow: /game/
+
+

@@ -1,0 +1,1 @@
+wedliny tradycyjne, polskie, Warszawa, mazowieckie, Legionowo, Polska, szynka, kielbasa, boczek, wedzonka, producent wedlin, staropolski smak, tradycyjne, bez konserwantow, bez barwnikow, wedzarnia, masarnia, hurtownia, Rarytas, Rarytasy, Mazowsze,

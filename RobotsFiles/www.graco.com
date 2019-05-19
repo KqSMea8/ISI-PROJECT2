@@ -1,0 +1,27 @@
+User-agent: *
+Crawl-delay: 6
+Disallow: /index-files/
+Disallow: /index-files.html
+Disallow: /products/index-pages.html
+Disallow: /products/index-pages/
+Disallow: /zns/
+Disallow: /zns.html
+Disallow: /znos/
+Disallow: /znos.html
+Disallow: /request-info/
+Disallow: /global/*
+Disallow: /language-masters/*
+Disallow: /dam/ipad/
+Disallow: /dam/workday/
+Disallow: /workday/
+Disallow: /Internet/T_PDB.nsf/
+Disallow: /Internet/T_MainSite.nsf/
+Disallow: /Internet/T_CCenter.nsf/
+Disallow: /Internet/T_Corp.nsf/
+Disallow: */product.*
+Disallow: */homeowner/how-to-buy/tipselector/*
+Disallow: */search?q=*
+Disallow: */products/ad/graco-partner-news.html
+Disallow: */products/ad/graco-partner-news/*
+Sitemap: https://www.graco.com/content/dam/graco/root/sitemap.xml
+

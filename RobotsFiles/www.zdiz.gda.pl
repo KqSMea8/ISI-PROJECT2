@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /js/
+Disallow: /lib/
+Disallow: /assets/
+Disallow: /translation/
+Disallow: /zdizgdansk/CHAPTER_76060.asp?soid=1D48EC8591BE4D91820E874C88132B96
+Disallow: /zdizgdansk/chapter_76018.asp
+Disallow: /chapter_76214.asp
+Disallow: /kontakt/referent-ds-inzynierii-ruchu-w-dziale-inzynierii-ruchu,a,3264
+Disallow: /drogi/zamkniecie-rury-t1-tunelu-pod-martwa-wisla,a,3266
+Disallow: /kontakt/specjalista-ds-uzgodnien-1-etat-umowa-na-czas-zastepstwa,a,3229
+Disallow: /drogi/prace-serwisowe-w-tunelu-pod-martwa-wisla,a,3255
+Disallow: /kontakt/referent-ds-uzgodnien-1-etat,a,3228
+Disallow: /kontakt/inspektor-ds-utrzymania-zieleni-w-dziale-utrzymania-zieleni,a,3242

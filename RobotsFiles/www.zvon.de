@@ -1,0 +1,18 @@
+# robots.txt fuer https://www.zvon-mobil.de/
+User-agent: *
+Disallow: /bluepage/
+Disallow: /cfg/
+Disallow: /cjob/
+Disallow: /dump/
+Disallow: /ext/
+Disallow: /fnt/
+Disallow: /frml/
+Disallow: /inc/
+Disallow: /log/
+Disallow: /templ/
+Disallow: /logs/
+Disallow: /usage/
+
+SITEMAP: https://www.zvon-mobil.de/sitemap.xml
+
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /users/
+Disallow: /contact/
+Disallow: /blog/
+Disallow: /terms/
+Disallow: /help/
+Disallow: /register/
+Disallow: /login/
+Disallow: /lp/
+Disallow: /deleted/
+Disallow: /password/

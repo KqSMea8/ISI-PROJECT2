@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /new/
+Disallow: /informacja

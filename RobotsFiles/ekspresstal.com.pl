@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /actions_admin/
+Disallow: /actions_clients/
+Disallow: /admin/
+Disallow: /config/
+Disallow: /core/
+Disallow: /db/
+Disallow: /lang/
+Disallow: /libraries/
+Disallow: /plugins/
+Disallow: /templates/

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /webEdition/
+Disallow: /__we_thumbs__/
+Disallow: /_struktur/
+Disallow: /_thumbnails_/
+Disallow: /bootstrap-untouched/
+Disallow: /piec_chlebowy/
+Disallow: /sonstiges/
+Disallow: sitemap_siko.xml

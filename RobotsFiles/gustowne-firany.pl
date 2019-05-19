@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /fckeditor
+Disallow: /flagi
+Disallow: /lightbox
+Disallow: /moduly
+Disallow: /szablony
+Disallow: /UserFiles

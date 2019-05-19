@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /witraze/test/
+Disallow: /wycena_joomla/
+Disallow: /witraze/witraze25test/
+Disallow: /cgi-bin/
+Disallow: *.pdf$
+Disallow: *.txt$
+Disallow: *.swf$
+Disallow: /*/album.rss
+Disallow: /*/album.xml
+Disallow: /*/Default.swf
+Disallow: /wsrm/
+Disallow: /test/
+Disallow: /witraze/witrazeinfo2013test/
+Disallow: /witraze/witraze2010/

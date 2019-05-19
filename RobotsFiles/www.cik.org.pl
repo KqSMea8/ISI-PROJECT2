@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /weryfikacja-biura-rachunkowego/weryfikuj
+Disallow: /wniosek-o-program-cik/aplikuj
+Disallow: /wniosek-o-egzamin/aplikuj
+Disallow: /biuro/kontakt/
+Disallow: /prezentacja
+Disallow: /marketingowy-ksiegowy
+Disallow: /documents/
+Disallow: /*.php

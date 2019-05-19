@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /aktualno%C5%9B%C4%872
+Disallow: /mail.php
+Disallow: /kontakt/send-email
+Disallow: /kontakt/Firmowa-strona
+Disallow: /kontakt/zamiana-algorytmu-google
+Disallow: /plakat.jpg
+Allow: /
+Sitemap: http://semstudio.pl/sitemap.xml

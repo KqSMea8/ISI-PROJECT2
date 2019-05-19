@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /*.pdf
+Disallow: /?
+Sitemap: http://www.pol-ukr.com/sitemap.xml
+
+User-agent: Yandex
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /*.pdf
+Disallow: /?
+Host: www.pol-ukr.com

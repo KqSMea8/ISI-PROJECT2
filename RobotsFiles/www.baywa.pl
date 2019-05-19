@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /standortseiten_vorlagen/
+Disallow: /home/anmeldung_zur_veranstaltung/
+Disallow: /kontaktcenter/auswahl/
+Disallow: /kontaktcenter/
+Disallow: /weiterempfehlen/
+Disallow: /fileadmin/user_upload/kampagnen/
+Disallow: /technik/standortseiten_unsere_marken/
+Disallow: /technik/standortseiten_marken_neu/
+Disallow: /technik/standortseiten_unsere_spezialisierungen/
+Disallow: /standort/teststandort
+Disallow: /teststandort
+Disallow: /shop/meinkonto
+Disallow: /shop/passwort_vergessen
+Disallow: /shop/bestellung
+Disallow: /shop/suche
+Disallow: /shop/warenkorb
+Disallow: /esolut_test_module_tools/
+Disallow: /fileadmin/media/relaunch/_GELOESCHT
+Disallow: /*kontaktfrom*
+

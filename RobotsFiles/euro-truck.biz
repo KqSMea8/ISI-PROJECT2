@@ -1,0 +1,93 @@
+
+
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /admin/
+Disallow: /ajaxtabs/
+Disallow: /cgi-bin/
+Disallow: /cookie/
+Disallow: /css/
+Disallow: /email/
+Disallow: /fancybox/
+Disallow: /font/
+Disallow: /font.old/
+Disallow: /fonts/
+Disallow: /forum/
+Disallow: /gfx/
+Disallow: /graph_cache/
+Disallow: /highslide/
+Disallow: /html/
+Disallow: /images/
+Disallow: /include/
+Disallow: /js/
+Disallow: /kategorie/
+Disallow: /lib/
+Disallow: /lightbox/
+Disallow: /makefonts/
+Disallow: /mpdfi/
+Disallow: /patterns/
+Disallow: /plesk-stat/
+Disallow: /poland/
+Disallow: /rss/
+Disallow: /tcpdf/
+Disallow: /tomek/
+Disallow: /unifont/
+Disallow: /upload/
+Disallow: CJKdata.php
+Disallow: conv.php
+Disallow: form.php
+Disallow: form2.php
+Disallow: fpdf.php
+Disallow: fv.php
+Disallow: gif.old.php
+Disallow: gif.php
+Disallow: graph.php
+Disallow: highslide.css
+Disallow: html2fpdf.php
+Disallow: html2fpdfCZEKAJCHWILETERAZJA.php
+Disallow: html2fpdfOLD.php
+Disallow: html2fpdfOLD2.php
+Disallow: html_to_pdf.inc.php
+Disallow: htmltoolkit.old.php
+Disallow: htmltoolkit.php
+Disallow: index2.php
+Disallow: lang.inc.php
+Disallow: load_font.php
+Disallow: main.css
+Disallow: menu-top.php
+Disallow: menu.php
+Disallow: menu_left.php
+Disallow: menu_right.php
+Disallow: menutop.php
+Disallow: menutop2.php
+Disallow: misiek.pdf
+Disallow: mpdf.css
+Disallow: mpdf.php
+Disallow: mpdf_config.php
+Disallow: no_img.gif
+Disallow: no_img2.gif
+Disallow: oferta_email.php
+Disallow: pdf2.old.php
+Disallow: pdf2.php
+Disallow: rss2.xml
+Disallow: rss3.xml
+Disallow: rss_fetch.php
+Disallow: source2doc.php
+Disallow: style.css
+Disallow: style2.css
+Disallow: style5.css
+Disallow: szczegoly_produktu.php
+Disallow: target.js
+Disallow: token.php
+Disallow: token.png
+Disallow: whcookies.js
+
+
+
+
+
+
+# End robots.txt file
+
+

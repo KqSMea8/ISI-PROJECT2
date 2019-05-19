@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /cms
+Disallow: /*_page*
+Disallow: /*page*
+Disallow: /*-gal
+Disallow: /oferta/wszystkie-katalogi
+Disallow: /wstawka-masz-pytania
+Disallow: /wstawka-oryginalne-wydruki
+Disallow: /box-ceramika
+Disallow: /box-promocje
+Disallow: /box-nowosci
+Disallow: /box-odziez
+Disallow: /box-gadzety
+Disallow: /box-dlugopisy
+Disallow: /box-elektronika
+Disallow: /box-slodycze
+Disallow: /box-herbata
+Disallow: /box-portfele
+Disallow: /oferta/gadzety-reklamowe/mydelka-reklamowe-kosmetyka/mydelka-reklamowe-gal
+Disallow: /oferta/gadzety-reklamowe/podrozne/podrozne-gal
+Disallow: /oferta/gadzety-reklamowe/torby-reklamowe-zakupowe/torby-reklamowe-gal
+Disallow: /oferta/gadzety-reklamowe/torby-plecaki/torby,-plecaki-gal
+Disallow: /oferta/gadzety-reklamowe/torby-termoizolacyjne/torby-termoizolacyjne-gal
+Disallow: /oferta/gadzety-reklamowe/kubki-termiczne-termosy/kubki-termiczne-gal
+Disallow: /oferta/gadzety-reklamowe/zegarki-reklamowe-na-reke-/zegarki-reklamowe-na-reke-gal
+Disallow: /oferta/elektronika/akcesoria-usb/akcesoria-usb-gal
+Disallow: /oferta/sport-i-aktywnosc/odziez/odziez-gal
+Disallow: /oferta/sport-i-aktywnosc/akcesoria/akcesoria-gal
+Disallow: /oferta/sport-i-aktywnosc/reczniki-szybkoschnace/reczniki-szybkoschnace-gal
+Disallow: /oferta/gadzety-eventowe/piknik/piknik-gal
+Disallow: /oferta/gadzety-eventowe/bandamki/bandamki-gal
+Disallow: /oferta/gadzety-eventowe/silikonowe/silikonowe-gal
+Disallow: /oferta/gadzety-eventowe/lunch-boxy/lunch-boxy-gal
+Disallow: /*aktualnosci*
+Allow: /
+
+

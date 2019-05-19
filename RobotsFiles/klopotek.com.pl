@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /img/
+Disallow: /krewni/
+Disallow: /Rodowe/
+Disallow: /svwiat_wokovlv_nas/
+Disallow: /50/
+Disallow: /SpotkaniezBenedyktemXVI/

@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /pl/zamow-axence-nvision
+Disallow: /en/orders
+Disallow: /pl/zamow-axence-nvision/warunki-zakupu
+Disallow: /en/orders/purchase-terms
+Disallow: /pl/zamow-axence-nvision/zamow-axence-nvision-7-pro-box
+Disallow: /en/orders/ask-for-the-price-of-axence-nvision
+Disallow: /pl/dziekujemy-za-uzywanie-axence-nettools
+Disallow: /en/thank-you-for-using-axence-nettools
+Disallow: /pl/dziekujemy-za-uzywanie-axence-nvision
+Disallow: /en/thank-you-for-using-axence-nvision
+Disallow: /pl/dofinansowanie-unijne
+Disallow: /NetToolsPro.xml
+Disallow: /NetVision.xml
+Disallow: /nvision.xml
+Disallow: /axence_nvision_free.xml
+
+Disallow: /check/
+Disallow: /contao/
+Disallow: /system/
+Disallow: /templates/
+Disallow: /vendor/
+Disallow: /share/index.php
+Disallow: /build.xml
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /README.md
+Allow: /system/cron/cron.txt
+Allow: /system/modules/*/assets/
+Allow: /system/modules/*/html/
+
+Sitemap: https://axence.net/share/sitemap.xml
+

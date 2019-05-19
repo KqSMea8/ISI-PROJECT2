@@ -1,0 +1,6 @@
+Sitemap: http://www.miloscpo30.net/sitemap.xml
+Sitemap: http://www.miloscpo30.net/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

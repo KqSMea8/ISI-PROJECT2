@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /components/com_virtuemart/shop_image/
+Allow: /components/com_virtuemart/shop_image/product/
+Allow: /components/com_virtuemart/shop_image/product/resized/
+Allow: /components/com_virtuemart/shop_image/category/
+Allow: /components/com_virtuemart/shop_image/category/resized/
+Allow: /components/com_virtuemart/shop_image/product
+Disallow: /components/
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Sitemap: http://alkapask.pl/index.php?option=com_xmap&sitemap=1&view=xml&images=1
+Sitemap: http://alkapask.pl/index.php?option=com_xmap&sitemap=1&view=xml
+

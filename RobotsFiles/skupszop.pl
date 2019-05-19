@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /site/login
+Disallow: /site/Odzyskiwaniehasla
+Disallow: /index.php/cart/
+Disallow: /searchbook
+Disallow: /redirect.php
+Disallow: /logowanie
+Disallow: /pomoc
+Disallow: /sprzedaj
+Disallow: /koszyk
+Disallow: /podstrony/regulamin
+Disallow: /faq-s-3
+Disallow: /regulamin-s-1
+Disallow: /informacja-o-cookies-s-25
+Disallow: /platnosc-i-wysylka-s-21
+Disallow: /index.php?*

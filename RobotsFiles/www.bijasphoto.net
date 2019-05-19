@@ -1,0 +1,102 @@
+
+<!doctype html>
+<html lang="PL">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title> Robert Bijas  -  Fotografia przyrodnicza   </title>
+<meta name="google-site-verification" content="3Misr-ES_LpqnJx9rtISSdJ5IZHaxUBZ5CCLoTHb-Lg" />
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="description" content=" Fotografia przyrodnicza " />
+<meta name="Publisher" content="Robert Bijas " >
+<meta name="Copyright" content="Robert Bijas " >
+<meta name="Keywords" content=" Fotografia Przyrodnicza, Fotografia dzikich zwierzat, Ptaki i ssaki Roztocza, Ssaki Roztocza, Fotografia Nietoperzy " >
+<meta name="Author" content="Robert Bijas " />
+<meta name="Audience" content="All" />
+<meta name="title" content="Robert Bijas  -  Fotografia przyrodnicza ">
+<meta name="revisit-after" content="5 Days" />
+<meta name="robots" content="index,follow,all">
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/ie/animations-ie-fix.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/ie/grids-responsive-old-ie-min.css">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&amp;subset=latin-ext" rel="stylesheet">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/animate.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/animations.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/animsition.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/gallery.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/global.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/grids-responsive-min.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/nav.css">
+<link rel="stylesheet" href="https://www.bijasphoto.net/css/normalize.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>
+$(document).ready(function()
+{
+// No right click
+$(document).bind('contextmenu', function()
+{
+alert('All rights reserved ');
+return false;
+});
+
+});
+</script>
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+<header itemscope itemtype="http://schema.org/WPHeader"><div class="h_title"><a  class="animsition-link" href="https://www.bijasphoto.net">Robert Bijas</a></div><div class="h_sub_title">Fotografia przyrodnicza</div></header>
+<div class="container">
+<nav class="page-navigation clearfix">
+<label class="navigation-toggle" for="input-toggle">
+<span></span>
+<span></span>
+<span></span>
+</label>
+<input type="checkbox" id="input-toggle">
+<ul class="menu">
+<li><a itemprop="url" href="https://www.bijasphoto.net/" ><span itemprop="name"> Strona glowna </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/aktualnosci" ><span itemprop="name"> Aktualnosci </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/oferta" ><span itemprop="name"> Oferta </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/referencje" ><span itemprop="name"> Referencje </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/galeria" ><span itemprop="name"> Galeria </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/autor" ><span itemprop="name"> O autorze </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/kontakt" ><span itemprop="name"> Kontakt </span></a></li>
+<li><a itemprop="url" href="https://www.bijasphoto.net/linki" ><span itemprop="name"> Linki </span></a></li>
+</ul>
+</nav>
+<main>
+
+
+<div class="title"> Witamy! </div>
+
+<article> <p>Witamy! Dziekuje ze zechcieliscie zajrzec na moja strone poswiecona fotografii przyrodniczej i&nbsp;nie tylko. Jestem zwiazany z&nbsp;Roztoczem i&nbsp;jego przyroda. Kazda wolna chwile spedzam w&nbsp;lasach i&nbsp;nad wodami naszego regionu. Tu nigdy nie jest nudno, zawsze mozna znalezc dla siebie ustronne miejsce do odpoczynku. Poza kajakami i&nbsp;wedr&oacute;wka mozna zwiedzac Roztocze i&nbsp;Puszcze Solska rowerem lub saniami, o&nbsp;ile zima dopisze. Na mojej stronie zobaczycie ptaki i&nbsp;ssaki tu wystepujace. Jezeli fotografie komus sie spodobaly to zapraszam do zakupu, moze to byc plik cyfrowy lub wydruk.&nbsp;</p> <p>Goraco zapraszam na Roztocze</p> <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>Robert Bijas</em></p>   </article>
+
+
+
+</main>
+</div> <!-- /.container  -->
+<footer role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+<div id="footer">  All &copy;
+<span itemprop="copyrightYear">2000-2019</span>
+<span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Robert Bijas </span> | <span  itemprop="description">Zadne ze zdjec zamieszczonych na tej stronie nie moze byc kopiowane, publikowane, reprodukowane i wykorzystywane w jakikolwiek sposob bez pisemnej zgody autora.</span>
+</span>
+</div>
+</footer><!-- /.site-footer -->
+<script src="https://www.bijasphoto.net/js/jquery.fancybox.js"></script>
+<script type="text/javascript">
+$("[data-fancybox]").fancybox({
+iframe : {
+css : {
+width : '100%'
+}
+}
+});
+</script>
+
+</body>
+</html>
+
+

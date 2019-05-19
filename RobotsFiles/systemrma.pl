@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /SKRYPTY/
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /crm/
+Disallow: /serwis_light/
+Disallow: /serwis_light_form/
+Disallow: /serwis_light_klient/
+Disallow: /SSL/

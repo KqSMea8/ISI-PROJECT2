@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /zrodla/
+Disallow: /tmp/
+Disallow: /slider/
+Disallow: /meta/
+Disallow: /fitotrony-foto/
+Disallow: /klient/
+
+User-Agent: Googlebot
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /zrodla/
+Disallow: /tmp/
+Disallow: /slider/
+Disallow: /meta/
+Disallow: /fitotrony-foto/
+Disallow: /klient/

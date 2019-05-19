@@ -1,0 +1,47 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Allow: /templates/*css$
+Allow: /templates/*js$
+Allow: /templates/*jpg$
+Allow: /templates/*png$
+Allow: /templates/at_showcase/fonts/
+Allow: /media/system/js/*js$
+Allow: /media/mod_languages/images/*gif$
+Allow: /modules/mod_cookiesaccept/*css$
+Allow: /modules/mod_cookiesaccept/img/*png$
+Allow: /modules/mod_bt_googlemaps/tmpl/js/*js$
+Allow: /modules/mod_bt_googlemaps/tmpl/images/*png$
+Allow: /components/com_proforms/js/*js$
+Allow: /components/com_proforms/images/*gif$
+Allow: /components/com_proforms/images/*png$
+Allow: /components/com_xmap/assets/images/*gif$
+Allow: /cache/com_templates/templates/at_showcase/*js$
+Allow: /cache/preview/*jpg$
+Allow: /cache/thumbs/*jpg$
+Allow: /plugins/content/sigplus/engines/boxplus/popup/css/*css$
+Allow: /plugins/content/sigplus/engines/boxplus/slider/css/*css$
+Allow: /plugins/content/sigplus/engines/boxplus/popup/js/*js$
+Allow: /plugins/content/sigplus/engines/boxplus/lang/*js$
+Allow: /plugins/content/sigplus/engines/boxplus/slider/js/*js$
+Allow: /plugins/content/sigplus/css/*css$
+Allow: /plugins/content/sigplus/engines/boxplus/popup/css/*gif$
+Allow: /plugins/content/sigplus/engines/boxplus/popup/css/*png$
+Allow: /plugins/content/sigplus/engines/boxplus/slider/css/*gif$
+
+#Exceptions
+Allow: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+

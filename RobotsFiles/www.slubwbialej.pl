@@ -1,0 +1,20 @@
+User-agent:  *
+# disallow all files in these directories
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: *?replytocom
+Disallow: /comments/feed/
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+

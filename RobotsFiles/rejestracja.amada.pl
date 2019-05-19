@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /uploads/
+Disallow: /typo3conf/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /t3lib/
+Disallow: /fileadmin/CentralData/
+Disallow: /fileadmin/forms/
+Disallow: /fileadmin/extensions/
+Disallow: /fileadmin/html5videoplayer/
+Sitemap: http://www.amada.de/sitemap.xml
+Sitemap: http://www.amada.nl/sitemap.xml
+Sitemap: http://www.amada.ro/sitemap.xml
+Sitemap: http://www.amada.pl/sitemap.xml
+Sitemap: http://www.amada.ru/sitemap.xml
+Sitemap: http://www.sheetworks.de/sitemap.xml
+Sitemap: http://www.lasbend.com/sitemap.xml
+Sitemap: http://www.amada-gebrauchtmaschinen.de
+

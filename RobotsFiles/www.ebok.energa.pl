@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /css
+Disallow: /energa
+Disallow: /flv
+Disallow: /fonts
+Disallow: /images
+Disallow: /include
+Disallow: /js
+Disallow: /photos
+Disallow: /pobierz
+Disallow: /program_lojalnosciowy_test
+Disallow: /swf
+Disallow: /templates
+Disallow: /templates_c
+Disallow: /verify_session

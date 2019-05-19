@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /_admin/
+Disallow: /Adder.html
+Disallow: /adder.html
+Disallow: /Cart.html
+Disallow: /cart.html
+Disallow: /Wyszukiwanie.html
+Disallow: /wyszukiwanie.html
+Disallow: /Rejestracja.html
+Disallow: /rejestracja.html
+Allow: /

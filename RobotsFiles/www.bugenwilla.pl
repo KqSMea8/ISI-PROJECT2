@@ -1,0 +1,10 @@
+sitemap: http://www.bugenwilla.pl/sitemap.xml
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: spbot
+Disallow: /
+

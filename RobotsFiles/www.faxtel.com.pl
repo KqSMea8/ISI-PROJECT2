@@ -1,0 +1,23 @@
+User-agent: *
+Crawl-delay: 40
+
+# Directories
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /shell/
+Disallow: /catalogsearch/
+Disallow: /customer/
+Disallow: /checkout/
+Disallow: /sendfriend/
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /get.php

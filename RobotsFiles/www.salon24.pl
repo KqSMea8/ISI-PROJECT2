@@ -1,0 +1,21 @@
+User-agent: *
+Crawl-delay: 1
+User-agent: MSNBot
+Crawl-delay: 5
+Allow: /
+Disallow: /*-json/
+Disallow: /activate-mail/
+Disallow: /activation/
+Disallow: /contact/
+Disallow: /error*/
+Disallow: /login*/
+Disallow: /logout/
+Disallow: /new-terms*/
+Disallow: /register/
+Disallow: /remind-password*/
+Disallow: /send-activation*/
+Disallow: /templates/
+Disallow: /user-data-js/
+Disallow: /service-search/
+Disallow: /*/search/
+

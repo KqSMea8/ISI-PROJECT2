@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /media/
+Disallow: /swf/
+Disallow: /poczta/
+Disallow: /ssl/
+Disallow: /stats/
+Disallow: /ww/

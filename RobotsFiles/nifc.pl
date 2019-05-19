@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /==old_site==
+Disallow: /==site-test
+Disallow: /==web-test
+Disallow: /==common-test
+Disallow: /==adm-test
+Disallow: /util
+Disallow: /tmp
+Disallow: /pub
+Disallow: /private
+Disallow: /myadmin
+Disallow: /media
+Disallow: /groupware
+Disallow: /groupware_files
+Disallow: /_vti_pvt

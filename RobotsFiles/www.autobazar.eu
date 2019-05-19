@@ -1,0 +1,66 @@
+User-agent: LCC
+Disallow: /
+
+Sitemap: https://www.autobazar.eu/sk/sitemap.xml
+Sitemap: https://www.autobazar.eu/cz/sitemap.xml
+Sitemap: https://www.autobazar.eu/hu/sitemap.xml
+Sitemap: https://www.autobazar.eu/pl/sitemap.xml
+Sitemap: https://www.autobazar.eu/de/sitemap.xml
+Sitemap: https://www.autobazar.eu/uk/sitemap.xml
+Sitemap: https://www.autobazar.eu/it/sitemap.xml
+
+User-agent: *
+Disallow: /switch.php
+Disallow: /y=
+Disallow: /script
+Disallow: /ad.js*
+Disallow: /kml/
+Disallow: /wb/
+Disallow: /sk/sauto/
+Disallow: /__branding/
+Disallow: /__layer/
+Disallow: /_import/
+Disallow: /_include/
+Disallow: /ads/
+Disallow: /ajax/
+Disallow: /acc/
+Disallow: /autovia/
+Disallow: /banner/
+Disallow: /cebia/
+Disallow: /cron/
+Disallow: /chart/
+Disallow: /data/
+Disallow: /elastic/
+Disallow: /software/
+Disallow: /sms/
+Disallow: /scripts/
+Disallow: /moj/
+Disallow: /views/
+Disallow: */print_offers.php
+Disallow: */users.php
+Disallow: */show_num.php
+Disallow: */plate.php
+Disallow: */bids.php
+Disallow: */rate.php
+Disallow: */message.php
+Disallow: */message2.php
+Disallow: */report.php
+Disallow: */error.php
+Disallow: */results.php
+Disallow: */compare.php
+Disallow: /it/
+Allow: /it/index.php
+Disallow: /fr/
+Allow: /fr/index.php
+Disallow: /pl/
+Allow: /pl/index.php
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Wopabot
+Disallow: /
+
+User-agent: Slurp
+Crawl-delay: 10
+

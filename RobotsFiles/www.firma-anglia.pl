@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /images
+Disallow: /js
+Disallow: /opc
+Disallow: /ezcomponents
+Disallow: /pic
+Disallow: /materialy
+Disallow: /lib
+Disallow: /html
+Disallow: /1.php
+Disallow: /2.php
+Disallow: /3.php
+Disallow: /4.php
+Disallow: /5.php
+Disallow: /6.php
+Disallow: /7.php
+Disallow: /back.php
+Disallow: /checkform.php
+Disallow: /podstawowy.php
+Disallow: /podstawowyplus.php
+Disallow: /rozszerzony.php
+Disallow: /rozszerzonyplus.php
+Disallow: /vip.php
+Disallow: /linki.php
+

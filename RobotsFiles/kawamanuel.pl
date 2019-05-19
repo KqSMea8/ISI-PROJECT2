@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cron
+Disallow: /image
+Disallow: /tmp
+Disallow: /js
+Disallow: /inc
+Disallow: /module
+Disallow: /panel
+Disallow: /style
+Disallow: /data

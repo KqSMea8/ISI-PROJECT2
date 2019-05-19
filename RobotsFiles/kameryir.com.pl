@@ -1,0 +1,15 @@
+Sitemap: http://www.kameryir.com.pl/sitemap.xml
+User-agent: *
+Disallow: /vid/
+Disallow: /film/
+Disallow: /templates/
+Disallow: /em/
+Disallow: /panel/
+Disallow: /emi/
+Disallow: /autoinstalator/
+Disallow: /awstats/
+Disallow: /cgi-bin/
+Disallow: /reklama/
+Disallow: /tmp/
+User-agent: Googlebot-Image
+Disallow: /foto/

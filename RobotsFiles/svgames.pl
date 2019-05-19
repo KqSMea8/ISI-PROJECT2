@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /datab
+Disallow: /datab/*
+Disallow: /file
+Disallow: /file/*
+Disallow: /trash
+Disallow: /trash/*
+Disallow: /stkl
+Disallow: /stkl/*

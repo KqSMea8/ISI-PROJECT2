@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /WebResource.axd
+Disallow: /ramanevents/
+Disallow: /resources/no-index/
+Sitemap: /sitemap.aspx
+Sitemap: /cmmsupport/sitemap.xml
+Sitemap: /cmmsupport/knowledgebase/sitemap.xml
+Sitemap: /gaugingsupport/sitemap.xml
+Sitemap: /mtpsupport/sitemap.xml
+Sitemap: /cmmsupport/sitemap.xml
+Sitemap: /supplier/sitemap.xml
+crawl-delay: 3

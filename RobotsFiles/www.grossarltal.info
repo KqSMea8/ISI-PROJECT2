@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+Disallow: /manager/
+Disallow: /pdf-intranet/
+Disallow: /*?wordfence_logHuman*
+Disallow: /*?cf_action*
+Disallow: /*?slideshow*
+Disallow: /*?callback*
+Disallow: /*?PageSpeed*
+Disallow: /*la ng_ red ire ct= de
+Disallow: /*la ng_ red ire ct=en
+Disallow: /*fotolink
+Disallow: /en/accommodation/*/*.html
+Disallow: /blog/sitemap.html
+
+Sitemap: https://www.grossarltal.info/de/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/fr/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/en/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/it/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/nl/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/pl/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/cz/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/hu/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/hr/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/dk/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/ro/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/sk/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/de/service/presse/xml-sitemap.html
+Sitemap: https://www.grossarltal.info/de/imagesitemap.html
+Sitemap: https://www.grossarltal.info/blog/sitemap.xml
+Sitemap: https://www.grossarltal.info/de/unterkuenfte-infrastruktur.xml
+Sitemap: https://www.grossarltal.info/en/accommodation-infrastructure.xml

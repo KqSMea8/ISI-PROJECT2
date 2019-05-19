@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /admin
+Disallow: /ajax
+Disallow: /banners
+Disallow: /error
+Disallow: /footer
+Disallow: /header
+Disallow: /install
+Disallow: /print
+Disallow: /pntables
+Disallow: /config
+Disallow: /docs
+Disallow: /images
+Disallow: /includes
+Disallow: /install
+Disallow: /language
+Disallow: /modules
+Disallow: /pnTemp
+Disallow: /system
+Disallow: /themes
+

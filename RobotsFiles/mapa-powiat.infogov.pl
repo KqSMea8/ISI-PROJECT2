@@ -1,0 +1,23 @@
+
+User-agent: *
+Disallow: /zdrowie.html/
+Disallow: /zabytki.html/
+Disallow: /urzedy.html/
+Disallow: /stacje.html/
+Disallow: /poczta.html/
+Disallow: /parki.html/
+Disallow: /pano-deblin.html/
+Disallow: /palace.html/
+Disallow: /ops.html/
+Disallow: /legenda.html/
+Disallow: /kultura.html/
+Disallow: /koscioly.html/
+Disallow: /kina.html/
+Disallow: /it.html/
+Disallow: /hotele.html/
+Disallow: /gastro.html/
+Disallow: /default.html/
+Disallow: /bankomaty.html/
+Disallow: /banki.html/
+Disallow: /baner.html/
+Disallow: /apteki.html/

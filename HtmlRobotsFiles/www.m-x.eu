@@ -1,0 +1,234 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="ctl00_htmlTag" xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+Untitled Page
+</title><meta id="ctl00_metaDescr" name="description" /><meta id="ctl00_metaKeywords" name="keywords" /><meta http-equiv="X-UA-Compatible" content="IE=9" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<script type="text/javascript" src="/_include/js/matchMedia.js"></script>
+<script type="text/javascript" src="/_include/js/jquery-1.10.2.min.js"></script>
+
+<script type="text/javascript" src="/_include/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/_include/js/jquery.galleryview-1.1.js"></script>
+<script type="text/javascript" src="/_include/js/jquery.timers-1.1.2.js"></script>
+<script type="text/javascript" src="/_include/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="/_include/js/jwplayer.js"></script>
+<link href="/_include/prettyPhoto/css/prettyPhoto.css" type="text/css" rel="stylesheet" /><link rel="Stylesheet" href="/_include/bootstrap-3.3.1/css/bootstrap.min.css" /><link href="/style/contenu.css" type="text/css" rel="stylesheet" /><link href="/style/display.css" type="text/css" rel="stylesheet" /><link rel="Stylesheet" href="/Style/menu.css" /><link rel="Stylesheet" href="/Style/mobile.css" />
+
+<script type="text/javascript" src="/_include/js/global.js" charset="utf-8"></script>
+<script type="text/javascript" src="/_include/bootstrap-3.3.1/js/bootstrap.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/_include/js/respond.min.js" charset="utf-8"></script>
+
+<!-- GOOGLE ANALYTICS -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8894109-1");
+pageTracker._trackPageview();
+} catch (err) { }</script>
+
+
+</head>
+<body>
+<form name="aspnetForm" method="post" action="/robots.txt" id="aspnetForm" class="form">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTY0NDE4NTg2D2QWAmYPDxYCHgpSdWJyaXF1ZUlEKClZU3lzdGVtLkludDY0LCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkBMGQWAgIBD2QWAgIDEGRkFghmD2QWAgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIJFgICCA8WAh4HVmlzaWJsZWhkAgEPEA8WBh4NRGF0YVRleHRGaWVsZAUPTGFuZ0FicmV2aWF0aW9uHg5EYXRhVmFsdWVGaWVsZAUITGFuZ3VlSUQeC18hRGF0YUJvdW5kZ2QQFQYDZnIgA2VuIANkZSADZXMgA2l0IANwbCAVBgExATIBMwE0ATUBNxQrAwZnZ2dnZ2cWAWZkAgUPDxYCHg5fSXNGaWNoZUVudGl0ZWhkFgICAQ8WAh8BAgZkAgkPFgIeBFRleHRlZGSdpd8b17155RkAXXG9BMkWsTUOIKsTMjnViRTE14wsZA==" />
+</div>
+
+<div>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F2DD039B" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAvHkZ+2lSWqJwpLjdDS20eIjTFwL7ZGkkiVtDVfMId4MBdd+RWWNPzCE/Xvur4QFg22C0J7ItyO+CHA3sNDB1amctyuaxrAXQU4e80Tkl4linvaCaOIGmbfdmhOnNc+zEvCGXtx3Y2pRATqJW2nS5+xa8HxfBJwvLJ3kkS3U56FGvNEArQMKiED+buEsIbUJh7LgLyuYr8nzuNlzMTyfu9cKyXltzofathjtc7GE6GpLYoCKpHdWqMl5jEUqwqKYZ1+IDHJmeAGOw0NiEVaiObP" />
+</div>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.m-x.eu/style/IE6.css"/>
+<![endif]-->
+
+
+
+<div class="iMobile hidden-sm hidden-md hidden-lg">
+<div class="container">
+<div class="row">
+<div class="iMobile_Header">
+<div class="iMobile_Menu col-xs-3">
+
+<link rel="stylesheet" type="text/css" href="/_include/ResponsiveMultiLevelMenu/css/component.css" />
+
+<div id="dl-menu" class="dl-menuwrapper">
+<button class="dl-trigger">Open Menu</button>
+
+<ul id="ctl00_UCMenuPrincipalMobile_ulMenu" class="dl-menu">
+
+<li class="liMenuNiveau1" id="li_286"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_MenuNiveau1_286" title="Entreprise" class="MenuNiveau1" href="/fr/entreprise.aspx" target="_self">Entreprise</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_menu_286" class="dl-submenu"><li class="liMenuNiveau2" id="li_775"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_MenuNiveau2_775" title="Notre entreprise" class="MenuNiveau2" href="/fr/MX.aspx" target="_self">Notre entreprise</a></li><li class="liMenuNiveau2" id="li_779"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_MenuNiveau2_779" title="Travailler chez MX" class="MenuNiveau2" href="/fr/MX-emploi.aspx" target="_self">Travailler chez MX</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_menu_779" class="dl-submenu"><li class="liMenuNiveau3" id="li_780"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_MenuNiveau3_780" title="Travailler avec nous" class="MenuNiveau3" href="/fr/Travailler-avec-nous.aspx" target="_self">Travailler avec nous</a></li><li class="liMenuNiveau3" id="li_782"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_MenuNiveau3_782" title="Offres d&#39;emplois" class="MenuNiveau3" href="/fr/Offres-d-emplois.aspx" target="_self">Offres d'emplois</a></li></ul></li><li class="liMenuNiveau2" id="li_789"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl00_MenuNiveau2_789" title="Offres d&#39;emplois" class="MenuNiveau2" href="/fr/offres-emploi-mx.aspx" target="_self">Offres d'emplois</a></li></ul></li>
+<li class="liMenuNiveau1" id="li_643"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl01_MenuNiveau1_643" title="Actualites" class="MenuNiveau1" href="/fr/actualites.aspx" target="_self">Actualites</a></li>
+<li class="liMenuNiveau1" id="li_250"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau1_250" title="Produits" class="MenuNiveau1" href="/fr/produits/default.aspx" target="_self">Produits</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_menu_250" class="dl-submenu"><li class="liMenuNiveau2" id="li_268"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau2_268" title="Chargeurs" class="MenuNiveau2" href="/fr/produits/chargeurs/default.aspx" target="_self">Chargeurs</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_menu_268" class="dl-submenu"><li class="liMenuNiveau3" id="li_790"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_790" title="Chargeurs TX400 series" class="MenuNiveau3" href="/fr/Chargeurs-TX400-series.aspx" target="_self">Chargeurs TX400 series</a></li><li class="liMenuNiveau3" id="li_656"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_656" title="Chargeurs T400 series" class="MenuNiveau3" href="/fr/produits/chargeurs/chargeur-frontal-T400series.aspx" target="_self">Chargeurs T400 series</a></li><li class="liMenuNiveau3" id="li_657"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_657" title="Chargeurs U400 series" class="MenuNiveau3" href="/fr/chargeurs/chargeur-frontal-u400-series.aspx" target="_self">Chargeurs U400 series</a></li><li class="liMenuNiveau3" id="li_755"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_755" title="Chargeurs A100 series" class="MenuNiveau3" href="/fr/produits/chargeurs/a100.aspx" target="_self">Chargeurs A100 series</a></li><li class="liMenuNiveau3" id="li_658"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_658" title="Chargeurs F300 series" class="MenuNiveau3" href="/fr/chargeurs/chargeur-frontal-f300-series.aspx" target="_self">Chargeurs F300 series</a></li><li class="liMenuNiveau3" id="li_659"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_659" title="Chargeurs COMPACT" class="MenuNiveau3" href="/fr/chargeurs/chargeur-frontal/compact.aspx" target="_self">Chargeurs COMPACT</a></li></ul></li><li class="liMenuNiveau2" id="li_269"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau2_269" title="Relevages avant &amp; Masses" class="MenuNiveau2" href="/fr/produits/relevages-avant/default.aspx" target="_self">Relevages avant & Masses</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_menu_269" class="dl-submenu"><li class="liMenuNiveau3" id="li_315"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_315" title="Relevages avant" class="MenuNiveau3" href="/fr/produits/relevages-avant/relevages-avant/default.aspx" target="_self">Relevages avant</a></li><li class="liMenuNiveau3" id="li_650"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_650" title="Masses" class="MenuNiveau3" href="/fr/produits/relevages-avant/masses-espaces-verts/default.aspx" target="_self">Masses</a></li></ul></li><li class="liMenuNiveau2" id="li_270"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau2_270" title="Outils / Accessoires" class="MenuNiveau2" href="/fr/produits/outils-accessoires/default.aspx" target="_self">Outils / Accessoires</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_menu_270" class="dl-submenu"><li class="liMenuNiveau3" id="li_318"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_318" title="Outils chargeurs" class="MenuNiveau3" href="/fr/produits/outils-chargeurs-telescopiques/outils-chargeurs/default.aspx" target="_self">Outils chargeurs</a></li><li class="liMenuNiveau3" id="li_319"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_319" title="Manutention de balles" class="MenuNiveau3" href="/fr/produits/outils-chargeurs-telescopiques/manubal/default.aspx" target="_self">Manutention de balles</a></li><li class="liMenuNiveau3" id="li_321"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_321" title="Godets desileurs" class="MenuNiveau3" href="/fr/produits/outils-chargeurs-telescopiques/godets-desileurs/default.aspx" target="_self">Godets desileurs</a></li><li class="liMenuNiveau3" id="li_322"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_322" title="Outils telescopiques" class="MenuNiveau3" href="/fr/produits/outils-chargeurs-telescopiques/outils-telescopiques/default.aspx" target="_self">Outils telescopiques</a></li><li class="liMenuNiveau3" id="li_729"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_729" title="Outils espaces verts" class="MenuNiveau3" href="/fr/produits/outils-chargeurs-telescopiques/outils-espaces-verts.aspx" target="_self">Outils espaces verts</a></li></ul></li><li class="liMenuNiveau2" id="li_271"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau2_271" title="Equipements " class="MenuNiveau2" href="/fr/produits/equipements/default.aspx" target="_self">Equipements </a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_menu_271" class="dl-submenu"><li class="liMenuNiveau3" id="li_339"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_339" title="Pilotages" class="MenuNiveau3" href="/fr/produits/equipements/pilotages/default.aspx" target="_self">Pilotages</a></li><li class="liMenuNiveau3" id="li_340"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_340" title="Equipements chargeurs agricoles" class="MenuNiveau3" href="/fr/produits/equipements/equipements-chargeurs/default.aspx" target="_self">Equipements chargeurs agricoles</a></li><li class="liMenuNiveau3" id="li_734"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl02_MenuNiveau3_734" title="Equipements chargeurs COMPACT" class="MenuNiveau3" href="/fr/Options-chargeurs-espaces-verts.aspx" target="_self">Equipements chargeurs COMPACT</a></li></ul></li></ul></li>
+<li class="liMenuNiveau1" id="li_274"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl03_MenuNiveau1_274" title="Documentations / Apps" class="MenuNiveau1" href="/fr/documentations/default.aspx" target="_self">Documentations / Apps</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl03_menu_274" class="dl-submenu"><li class="liMenuNiveau2" id="li_399"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl03_MenuNiveau2_399" title="Docs commerciales" class="MenuNiveau2" href="/fr/documentations/prospectus.aspx" target="_self">Docs commerciales</a></li><li class="liMenuNiveau2" id="li_633"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl03_MenuNiveau2_633" title="Applications MX" class="MenuNiveau2" href="/fr/Applications-MX.aspx" target="_self">Applications MX</a></li></ul></li>
+<li class="liMenuNiveau1" id="li_252"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl04_MenuNiveau1_252" title="Etudes tracteurs" class="MenuNiveau1" href="/fr/etudes-tracteurs.aspx" target="_self">Etudes tracteurs</a></li>
+<li class="liMenuNiveau1" id="li_676"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl05_MenuNiveau1_676" title="MX Web TV" class="MenuNiveau1" href="https://www.youtube.com/user/MXWebTV" target="_blank">MX Web TV</a></li>
+<li class="liMenuNiveau1" id="li_253"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl06_MenuNiveau1_253" title="Contacts" class="MenuNiveau1" href="/fr/votre-revendeur.aspx" target="_self">Contacts</a><ul id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl06_menu_253" class="dl-submenu"><li class="liMenuNiveau2" id="li_689"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl06_MenuNiveau2_689" title="Nous ecrire" class="MenuNiveau2" href="/fr/contact/formulaire.aspx" target="_self">Nous ecrire</a></li></ul></li>
+<li class="liMenuNiveau1" id="li_275"><a id="ctl00_UCMenuPrincipalMobile_rpMenu_ctl07_MenuNiveau1_275" title="Espace concessionnaires" class="MenuNiveau1" href="http://mxservicesonline.m-x.eu/EspacePublic/Concessionnaire/Login.aspx?VersionID=1" target="_blank">Espace concessionnaires</a></li>
+</ul>
+
+</div><!--dl-menuwrapper-->
+
+<script src="/_include/ResponsiveMultiLevelMenu/js/modernizr.custom.js"></script>
+<script src="/_include/ResponsiveMultiLevelMenu/js/jquery.dlmenu.js"></script>
+<script>
+$(function () {
+$('#dl-menu').dlmenu({
+animationClasses: { classin: 'dl-animate-in-2', classout: 'dl-animate-out-2' }
+});
+});
+</script>    </div>
+<div class="iMobile_Logo col-xs-6"><a href="/"><img src="/style/images/logo-mx-blanc.png" alt="logo" /></a></div>
+<div class="iMobile_Langues col-xs-3"><select name="ctl00$ddlLangueMobile" id="ctl00_ddlLangueMobile">
+<option selected="selected" value="1">fr </option>
+<option value="2">en </option>
+<option value="3">de </option>
+<option value="4">es </option>
+<option value="5">it </option>
+<option value="7">pl </option>
+
+</select></div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="row">
+<div class="iMobile_Recherche"><div class="moteurRecherche">
+
+<img src="/Style/images/iconrecherche.png" alt="recherche" />
+<input name="ctl00$UC_RechercheMobile$tbRecherche" type="text" id="ctl00_UC_RechercheMobile_tbRecherche" class="tbRecherche" />
+<input type="submit" name="ctl00$UC_RechercheMobile$btnRecherche" value="" id="ctl00_UC_RechercheMobile_btnRecherche" class="btnRecherche" />
+
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$(".tbRecherche").focus(function () {
+$(this).val("");
+});
+});
+</script></div>
+</div>
+</div><!--container-->
+</div>
+
+
+
+<div class="hidden-xs">
+
+<div class="menuPrincipal">
+<div class="container">
+<ul id="ctl00_UCMenuPrincipal2_ulMenu" class="menuNiv1">
+<li class="menuPrincipal_Accueil"><a id="ctl00_UCMenuPrincipal2_hlAccueil" href="http://www.m-x.eu/fr/default.aspx"></a></li>
+
+<li class="liMenuNiveau1" id="li_286"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl00_MenuNiveau1_286" title="Entreprise" class="MenuNiveau1" href="/fr/entreprise.aspx" target="_self">Entreprise</a></li>
+<li class="liMenuNiveau1" id="li_643"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl01_MenuNiveau1_643" title="Actualites" class="MenuNiveau1" href="/fr/actualites.aspx" target="_self">Actualites</a></li>
+<li class="liMenuNiveau1" id="li_250"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl02_MenuNiveau1_250" title="Produits" class="MenuNiveau1" href="/fr/produits/default.aspx" target="_self">Produits</a></li>
+<li class="liMenuNiveau1" id="li_274"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl03_MenuNiveau1_274" title="Documentations / Apps" class="MenuNiveau1" href="/fr/documentations/default.aspx" target="_self">Documentations / Apps</a></li>
+<li class="liMenuNiveau1" id="li_252"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl04_MenuNiveau1_252" title="Etudes tracteurs" class="MenuNiveau1" href="/fr/etudes-tracteurs.aspx" target="_self">Etudes tracteurs</a></li>
+<li class="liMenuNiveau1" id="li_676"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl05_MenuNiveau1_676" title="MX Web TV" class="MenuNiveau1" href="https://www.youtube.com/user/MXWebTV" target="_blank">MX Web TV</a></li>
+<li class="liMenuNiveau1" id="li_253"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl06_MenuNiveau1_253" title="Contacts" class="MenuNiveau1" href="/fr/votre-revendeur.aspx" target="_self">Contacts</a></li>
+<li class="liMenuNiveau1" id="li_275"><a id="ctl00_UCMenuPrincipal2_rpMenu_ctl07_MenuNiveau1_275" title="Espace concessionnaires" class="MenuNiveau1" href="http://mxservicesonline.m-x.eu/EspacePublic/Concessionnaire/Login.aspx?VersionID=1" target="_blank">Espace concessionnaires</a></li>
+</ul>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-3 col-md-3 col-sm-3">
+<div class="logo"></div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6"></div>
+<div class="col-lg-3 col-md-3 col-sm-3 nopadding">
+
+<div class="langues">
+<a title="Francais" class="selected" href="http://www.m-x.eu/fr/default.aspx">fr </a><a title="English" href="http://www.m-x.eu/en/default.aspx">en </a><a title="Deutsch" href="http://www.m-x.eu/de/default.aspx">de </a><a title="Espanol" href="http://www.m-x.eu/es/default.aspx">es </a><a title="Italiano" href="http://www.m-x.eu/it/default.aspx">it </a><a title="Polski" href="http://www.m-x.eu/pl/default.aspx">pl </a>
+</div>
+<div class="moteurRecherche">
+
+<img src="/Style/images/iconrecherche.png" alt="recherche" />
+<input name="ctl00$UC_Recherche$tbRecherche" type="text" id="ctl00_UC_Recherche_tbRecherche" class="tbRecherche" />
+<input type="submit" name="ctl00$UC_Recherche$btnRecherche" value="" id="ctl00_UC_Recherche_btnRecherche" class="btnRecherche" />
+
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$(".tbRecherche").focus(function () {
+$(this).val("");
+});
+});
+</script>
+</div>
+</div><!--row-->
+</div><!--container-->
+</div>
+
+<div id="ctl00_centrale">
+
+
+
+<div class="hidden-xs"></div>
+<div class="hidden-xs"></div>
+
+<div id="ctl00_BandeauCentral_wrapper" class="contenuDiaporama">
+
+<div id="carouselPrincipal" class="carousel slide" data-ride="carousel">
+
+<!-- Wrapper for slides -->
+<div class="carousel-inner" role="listbox">
+
+
+
+</div><!--carousel-inner-->
+
+</div><!--carousel-example-generic-->
+</div>
+
+<script type="text/javascript" src="/UC/UC_Diaporama.js"></script>
+
+
+
+
+
+
+<div class="contenu">
+
+<div class="container">
+
+<p style="width:75%;margin:auto;text-align:center;margin-top:20px"><span id="ctl00_Centre_lblContenu"></span>    <br /><br />
+<a href="javascript:history.back();">Revenir a la page precedente</a></p>
+
+<div class="clear"></div>
+</div>
+
+</div>
+
+
+
+<div class="clear"></div>
+
+</div>
+
+<a href="#" class="back-to-top"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+
+<div class="footer">
+<div class="container">
+
+<div class="clear"></div>
+</div><!--container-->
+</div>
+
+<!--[if IE 6]>
+<div style="position:absolute;z-index:10;left:0;width:500px;height:50px;text-align:center;border:solid 1px red;top:0;" >Site non optimise pour Internet Explorer 6 ou equivalent, <br />Vous devriez mettre a jour votre navigateur.</div>
+<![endif]-->
+
+
+<div id="pageOmbree">
+&nbsp;
+</div>
+</form>
+</body>
+</html>
+

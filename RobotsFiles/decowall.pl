@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /rejestracja
+Disallow: /reset-hasla
+Disallow: /zamowienie
+Disallow: /koszyk
+Disallow: /zamowienia-indywidualne
+Allow: *.css
+Allow: *.js
+Sitemap: http://decowall.pl/sitemap.xml

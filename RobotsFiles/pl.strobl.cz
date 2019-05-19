@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+
+User-agent: *
+Disallow: /intothebasket.php
+
+User-Agent: *
+Disallow: /kosik/
+
+User-Agent: *
+Disallow: /objednavka/
+
+User-Agent: *
+Disallow: /zakaznik/
+
+User-Agent: *
+Disallow: /objednavka-parse.php
+
+Sitemap: https://www.strobl.cz/sitemap.xml

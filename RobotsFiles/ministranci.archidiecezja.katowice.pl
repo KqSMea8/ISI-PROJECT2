@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /cyt/
+Disallow: /dane/
+Disallow: /js/
+Disallow: /kg/
+Disallow: /lightbox/
+Disallow: /przedszkole26/
+Disallow: /baza_animatorow/
+Disallow: /fckeditor/
+Disallow: /persoft/
+Disallow: /player/
+Disallow: /tiny_mce/
+Disallow: /zip/

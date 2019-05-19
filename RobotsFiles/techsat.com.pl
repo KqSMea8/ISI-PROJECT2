@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /*wpmp_switcher*
+Disallow: /*wptouch*
+Disallow: /portfolio-items/serwis-kas-fiskalnych/?*
+Disallow: /portfolio-items/sklep-komputerowy-sferis/?*
+Disallow: /portfolio-items/sprzedaz-kas-fiskalnych/?*
+Disallow: /portfolio-items/internetowy-sklep-komputerowy/?*
+Disallow: /portfolio-items/fotografia-360-stopni-3d/?*
+Disallow: /portfolio-items/serwis-komputerow-i-nawigacji/?*

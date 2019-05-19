@@ -1,0 +1,12 @@
+Sitemap: http://www.sanatis.pl/sitemap.xml
+User-agent: *
+Disallow: /a/
+Disallow: /dokumenty/
+Disallow: /f/
+Disallow: /i/
+Disallow: /o1/
+Disallow: /o2/
+Disallow: /o3/
+Disallow: /panel/
+Disallow: /z/
+Disallow: /zamowienia/

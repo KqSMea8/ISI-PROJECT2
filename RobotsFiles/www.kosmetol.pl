@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /class/
+Disallow: /_oryginalne/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /logowanie.php
+Disallow: /logowanie/
+Disallow: /tmp/
+Disallow: /tinymce/
+Disallow: /kupony.html

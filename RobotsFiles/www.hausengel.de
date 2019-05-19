@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /uploads/
+Disallow: /fileadmin/user_upload/gesichert/hausengel_intern/
+
+Sitemap: https://www.hausengel.de/sitemap.xml

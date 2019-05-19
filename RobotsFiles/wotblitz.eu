@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /*/news/preview/
+Disallow: /*/news/blitz-client/
+Disallow: /*/api/
+Disallow: /*/switch-lang/
+Disallow: /*/metrics/
+Disallow: /*/new-year-2018/items-drop/
+Disallow: /*/404/
+
+User-agent: Yandex
+Disallow: /*/news/preview/
+Disallow: /*/news/blitz-client/
+Disallow: /*/api/
+Disallow: /*/switch-lang/
+Disallow: /*/metrics/
+Disallow: /*/new-year-2018/items-drop/
+Disallow: /*/404/
+

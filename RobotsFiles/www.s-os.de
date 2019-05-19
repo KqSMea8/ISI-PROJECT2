@@ -1,0 +1,10 @@
+# Blocked Bots
+User-agent: MJ12bot
+Disallow: /
+
+# Disallow content
+User-agent: *
+
+# Sitemap URL
+Sitemap: https://www.s-os.de/sitemap.xml
+

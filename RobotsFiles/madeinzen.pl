@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /m/
+Disallow: /me/
+Disallow: /@me$
+Disallow: /@me/
+Disallow: /*/edit$
+Disallow: /*/*/edit$
+Disallow: /r/
+Disallow: /t/
+Allow: /_/
+Allow: /_/api/users/*/meta
+Allow: /_/api/users/*/profile/stream
+Allow: /_/api/posts/*/responses
+Allow: /_/api/posts/*/responsesStream
+Allow: /_/api/posts/*/related
+Sitemap: https://madeinzen.pl/sitemap/sitemap.xml
+

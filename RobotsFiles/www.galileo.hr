@@ -1,0 +1,26 @@
+# robots.txt for http://www.galileo.hr/
+
+User-agent: *
+Disallow: /private/search.aspx
+Disallow: /private/plitvice/searchres*
+Disallow: /private/searchres*
+Disallow: /hotel/searchres*
+Disallow: /cruise_croatia/searchres*
+Disallow: /secure/*
+Disallow: /Secure/*
+Disallow: /*/secure/*
+Disallow: /*/Secure/*
+Disallow: /luxury_accommodation_croatia/searchres*
+Disallow: /luxury_accommodation_croatia/default.aspx
+Disallow: /ScriptResource.axd
+Disallow: /scriptResource.axd
+Disallow: /Plitvice/search*
+Disallow: /plitvice/search*
+Disallow: /*/members
+Disallow: /*/Members
+Disallow: /members/
+Disallow: /specials/
+Disallow: /it/alberghi-croazia/hotels-croazia.aspx
+Disallow: /hotel/search.aspx
+
+Sitemap: http://www.galileo.hr/sitemap.xml

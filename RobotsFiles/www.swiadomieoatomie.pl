@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /cloudcms
+Disallow: /aplikacje
+Disallow: /generate-captcha
+Disallow: /maps/api/js/AuthenticationService.Authenticate
+Disallow: /maps/api/js/QuotaService.RecordEvent
+Disallow: /media
+Disallow: /Media
+Disallow: /*/media
+Disallow: /*/Media
+Disallow: /view
+Disallow: /*/view
+Disallow: /content
+Disallow: */content
+Disallow: /download
+Disallow: */download
+Sitemap: https://swiadomieoatomie.pl/sitemap.xml

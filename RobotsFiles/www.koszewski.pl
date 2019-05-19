@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administracja/
+Disallow: /doc/
+Disallow: /irs/
+Disallow: /a/
+Disallow: /a/szlifierniakamieni/szlifierniakamieni/
+Disallow: /a/szlifowaniekamieni/szlifowaniekamienipolszlachetnych/
+Disallow: /locale/
+Disallow: /phptmpl/
+Disallow: /templates/

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /przetargi/
+Disallow: /fileadmin/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /*?id=*

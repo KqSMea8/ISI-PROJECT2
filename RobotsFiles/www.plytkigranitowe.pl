@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/plytkigranitowe/_thumbs/pl/
+Disallow: /images/
+Disallow: /szablony/
+Disallow: /ajax/
+Disallow: *,list.html
+Disallow: *,wdol.html
+Disallow: *,cena.html
+User-agent: Fasterfox
+Disallow: /

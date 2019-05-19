@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /addfavorites.do
+Disallow: /login.do
+Disallow: /add_comment.do
+Disallow: /submit_create.do
+Disallow: /remindpassword_step2.do
+Disallow: /remindpassword_step3.do
+Disallow: /addFavorites.do
+User-agent: msnbot
+Crawl-delay: 1

@@ -1,0 +1,22 @@
+User-agent: *
+Crawl-Delay: 5
+Disallow: /*?
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /checkout/
+Disallow: /catalogsearch/
+Disallow: /review/
+Disallow: /app/
+Disallow: /downloader/
+Disallow: /images/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /skin/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Sitemap: http://www.novasport.pl/sitemap.xml
+

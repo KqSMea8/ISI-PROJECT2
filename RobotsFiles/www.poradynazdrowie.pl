@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Disallow: maka-typy-rodzaje.html
+Disallow: soki-owocowe.html
+Disallow: soja.html
+Disallow: ekologiczna-czy-zdrowa-zywnosc.html
+Disallow: jak-jesc-zdrowo.html
+Disallow: naturalnie-naturalne-jogurty.html
+Disallow: kasza.html
+Disallow: soki-nektary-i-napoje-owocowe.html
+Disallow: jak-wzmocnic-organizm-na-zime.html

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /senderAdmin/
+Disallow: /studioAdmin/
+Disallow: /wmAdmin/
+Disallow: /admin/
+Disallow: /media/
+Disallow: /SSID/
+Disallow: /camportal/
+Disallow: /mainframe/
+Disallow: /factory/
+Disallow: /common/
+Disallow: /rss/
+Sitemap: /sitemap.xml
+

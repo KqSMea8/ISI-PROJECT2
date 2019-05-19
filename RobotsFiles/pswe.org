@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="pl"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="pl"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="pl"> <![endif]-->
+<!--[if gt IE 8]> <!--> <html class="no-js" lang="pl"> <!--<![endif]-->
+
+<head>
+<title>PSWE</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+<meta name="googlebot" content="index,follow"/>
+<meta name="robots" content="index,follow"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:site_name" content="PSWE" />
+
+
+
+
+<meta property="og:title" content="HOME" />
+<meta property="og:description" content="HOME" />
+
+<meta name="description" content="HOME" />
+
+
+
+
+<link rel="shortcut icon" href="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1340&amp;_CheckSum=-1287183471" type="image/x-icon" />
+<title>PSWE</title>
+
+
+
+<link rel="stylesheet" href="/palio/media/pswe4/jpalio/pswe/view/css/pswe4.css">
+
+<link rel="stylesheet" href="/palio/html.run?_Instance=pswe4&amp;_PageID=500&amp;_CheckSum=-267743972">
+<script type="text/javascript" src="/palio/media/pswe4/jpalio/jquery/js/jquery/min.js"></script>
+<script type="text/javascript" src="/palio/media/pswe4/jpalio/jquery/js/ui/min.js"></script>
+<script type="text/javascript" src="/palio/media/pswe4/jpalio/jquery/js/validate.js"></script>
+<script type="text/javascript" src="/palio/media/pswe4/jpalio/jquery/js/clamp.js"></script>
+<script type="text/javascript" src="/palio/media/pswe4/jpalio/jquery/js/moment.js" ></script>
+<script type="text/javascript" src="/palio/media/pswe4/jpalio/jquery/js/moment-jdateformatparser.js" ></script>
+<script type="text/javascript" src="/palio/html.run?_Instance=pswe4&amp;_PageID=400&amp;_CheckSum=-71230467"></script>
+<link rel="stylesheet" type="text/css" href="/palio/media/pswe4/jpalio/pswe/view/css/jquery-ui.css"/>
+<script type="text/javascript" src="/palio/html.run?_Instance=pswe4&amp;_PageID=463&amp;_CheckSum=-1392558944"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1181&amp;_CheckSum=-2086196682" type="text/javascript"></script>
+<link rel="stylesheet" href="/palio/media/pswe4/jpalio/jquery/css/lightbox.css?_CheckSum=-1496712016" type="text/css" media="screen" />
+
+
+
+
+
+<script type="text/javascript" src="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1278&amp;_CheckSum=-1160485267"></script>
+<link type="text/css" href="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1279&amp;_CheckSum=582325068" rel="stylesheet">
+
+
+</head>
+<body >
+<div id="container">
+<div id="wrapper" class="clearfix">
+<header role="banner">
+<div class="clearfix">
+<a href="/pl/" rel="home"><h1>PSWE</h1></a>
+</div>
+<nav>
+<ul>
+
+
+
+
+
+
+
+
+
+
+
+<li  class="li-selected" ><a href="/pl/home/"  class="selected" >HOME</a></li>
+
+
+
+
+
+<li ><a href="/pl/o-pswe/" >O PSWE</a></li>
+
+
+
+
+
+<li ><a href="/pl/dzialalnosc/" >DZIALALNOSC</a></li>
+
+
+
+
+
+<li ><a href="/pl/linki/" >LINKI</a></li>
+
+
+</ul>
+<form id="search" role="search" method="post" action="/wyniki-wyszukiwania/">
+<input type="text" name="q" placeholder="Wyszukaj">
+<input type="submit" value="">
+</form>
+</nav>
+</header>
+<div id="content" class="clearfix">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="columns">
+<div class="column">
+<div class="tile">
+<h3><span>HOME</span></h3>
+</div>
+<div id="slideshow">
+<div id="slideshow-img1" class="slideshow-img"></div>
+<div id="slideshow-img2" class="slideshow-img"></div>
+</div>
+</div>
+</header>
+
+
+<nav id="breadcrumbs">
+<strong>Ogladasz:</strong>
+<ul>
+<li><a href="/pl/"><img src="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1355&amp;_CheckSum=1324446445" width="16" height="16" alt="" style="margin-top:1px;"></a></li>
+
+
+
+<li><a href="/pl/home/">HOME</a></li>
+
+</ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="posts" class="page wide-max">
+<h4>HOME</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="post">
+<table class="post-table">
+<tr>
+<td>
+
+<header>
+<a href="/pl/home/kim-jestesmy">
+
+
+<h2>KIM JESTESMY?</h2>
+
+
+</a>
+</header>
+
+</td>
+
+</tr>
+</table>
+</article>
+
+
+
+
+
+<article class="post">
+<table class="post-table">
+<tr>
+<td>
+
+<header>
+<a href="/pl/home/co-nas-wyroznia">
+
+
+<h2>CO NAS WYROZNIA?</h2>
+
+
+</a>
+</header>
+
+</td>
+
+</tr>
+</table>
+</article>
+
+
+
+
+
+<article class="post">
+<table class="post-table">
+<tr>
+<td>
+
+<header>
+<a href="/pl/home/czym-sie-kierujemy">
+
+
+<h2>CZYM SIE KIERUJEMY?</h2>
+
+
+</a>
+</header>
+
+</td>
+
+</tr>
+</table>
+</article>
+
+
+
+
+
+<article class="post">
+<table class="post-table">
+<tr>
+<td>
+
+<header>
+<a href="/pl/home/jaka-jest-nasza-geneza">
+
+
+<h2>JAKA JEST NASZA GENEZA?</h2>
+
+
+</a>
+</header>
+
+</td>
+
+</tr>
+</table>
+</article>
+
+
+
+</section>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer role="contentinfo" class="clearfix">
+<table style="width:100%;">
+<tr>
+<td id="copyright">2004 - 2014 &copy; PSWE</td>
+<td id="bottom-menu">
+
+
+
+
+
+<a href="/pl/nota-prawna/">NOTA PRAWNA</a>
+
+
+
+
+
+
+<a href="/zaloguj-sie/">ZALOGUJ</a>
+
+
+
+</td>
+</tr>
+<tr>
+<td id="logos" colspan="2">
+<a target="Luminaris" href="http://luminaris.pl"><span style="margin-left:15px; font-family:Arial; font-size:9px; color:#6f6f6f;">DESIGNED BY<img src="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1354&amp;_CheckSum=-418363890" border="0" style="height:50px; margin-left:-8px;"/></a></span>
+<a target="jPALIO" href="http://jpalio.com" style="margin-left:597px;"><img src="/palio/html.media?_Instance=pswe4&amp;_Option=Palio&amp;_ID=1353&amp;_CheckSum=2133793071" border="0"/></a>
+</td>
+</tr>
+</table>
+</footer>
+</div>
+</div>
+</body>
+</html>

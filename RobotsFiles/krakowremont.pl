@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /blocks/
+Disallow: /concrete/
+Disallow: /config/
+Disallow: /controllers/
+Disallow: /css/
+Disallow: /elements/
+Disallow: /files/
+Disallow: /helpers/
+Disallow: /jobs/
+Disallow: /js/
+Disallow: /languages/
+Disallow: /libraries/
+Disallow: /mail/
+Disallow: /models/
+Disallow: /packages/
+Disallow: /single_pages/
+Disallow: /themes/
+Disallow: /tools/
+Disallow: /updates/
+Disallow: /404/
+Disallow: /404
+Disallow: /referencje/
+Disallow: /referencje
+

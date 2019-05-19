@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /includes/
+Disallow: /banned/
+Disallow: /index_ban.php
+Disallow: /index_red.php
+Disallow: /shipping.php
+Disallow: /conditions.php
+Disallow: /reklamacje.php
+Disallow: /privacy.php

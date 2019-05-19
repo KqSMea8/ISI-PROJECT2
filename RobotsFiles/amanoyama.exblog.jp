@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tb/
+
+Sitemap: https://amanoyama.exblog.jp/sitemap.xml

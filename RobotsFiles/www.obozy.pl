@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /_stare_zimowiskabiz/
+Disallow: /_pdf/
+Disallow: /agent/
+Disallow: /doc/
+Disallow: /dokumenty/
+Disallow: /klient/
+Disallow: /mpdf/
+Disallow: /*pdf

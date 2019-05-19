@@ -1,0 +1,6 @@
+Sitemap: https://alfaconsilium.eu/sitemap.xml
+Sitemap: https://alfaconsilium.eu/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

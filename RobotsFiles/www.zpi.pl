@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /i
+Disallow: /a_mpk2oo_ks
+Disallow: /blad
+Disallow: /download
+Disallow: /includes
+Disallow: /tmp
+Disallow: /images
+Disallow: /install
+Disallow: /mbank
+Disallow: /mbank_com_pl
+Disallow: /0p_contact.php
+Disallow: /account.php
+Disallow: /adser.php
+Disallow: /cookie_usage.php
+Disallow: /crea_a.php
+Disallow: /login.php
+Disallow: /password_forgotten.php
+Disallow: /ulubione_sklepy.php
+Disallow: /shop_reviews.php
+# Disallow: /private

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: https://west-balaton.hu/sitemaps/west-balaton-hu.xml
+

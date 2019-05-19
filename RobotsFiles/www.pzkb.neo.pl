@@ -1,0 +1,42 @@
+]User-agent: *
+Disallow: /aktualizacja.html
+Disallow: /ENGelewacje.html
+Disallow: /ENGindex.html
+Disallow: /ENGkontakt.html
+Disallow: /ENGlogo.html
+Disallow: /ENGmarmury.html
+Disallow: /ENGo nas.html
+Disallow: /ENGoferta.html
+Disallow: /ENGogrod.html
+Disallow: /ENGPinczak.html
+Disallow: /ENGposadzki.html
+Disallow: /ENGreferencje.html
+Disallow: /ENGrzezba.html
+Disallow: /ENGschody.html
+Disallow: /stopka.html
+Disallow: /GERelewacje.html
+Disallow: /GERindex.html
+Disallow: /GERkontakt.html
+Disallow: /GERlogo.html
+Disallow: /GERmarmury.html
+Disallow: /GERo nas.html
+Disallow: /GERoferta.html
+Disallow: /GERogrod.html
+Disallow: /GERPinczak.html
+Disallow: /GERposadzki.html
+Disallow: /GERreferencje.html
+Disallow: /GERrzezba.html
+Disallow: /GERschody.html
+Disallow: /PLelewacje.html
+Disallow: /PLindex.html
+Disallow: /PLkontakt.html
+Disallow: /PLlogo.html
+Disallow: /PLmarmury.html
+Disallow: /PLo nas.html
+Disallow: /PLoferta.html
+Disallow: /PLogrod.html
+Disallow: /PLPinczak.html
+Disallow: /PLposadzki.html
+Disallow: /PLreferencje.html
+Disallow: /PLrzezba.html
+Disallow: /PLschody.html

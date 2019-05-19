@@ -1,0 +1,60 @@
+User-agent: *
+Disallow: *CountryGateway-CheckCountry*
+Disallow: *Wishlist-Add*
+Disallow: *Search-Show*
+Disallow: *store/Sites*
+Disallow: *?q*
+Disallow: /meinkonto*
+Disallow: /warenkorb*
+Disallow: /merkzettel*
+Disallow: /conto*
+Disallow: /winkelwagentje*
+Disallow: /wishlist*
+Disallow: /myaccount*
+Disallow: /koszyk*
+Disallow: /cart*
+Disallow: /mon-compte*
+Disallow: /panier*
+Disallow: *srule*
+Disallow: /add-to-wishlist*
+
+
+Sitemap: https://www.gerryweber.com/de-at/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/de-ch/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/de-de/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/nl-nl/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/pl-pl/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/fr-fr/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/fr-be/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/en-gb/sitemap_index.xml
+Sitemap: https://www.gerryweber.com/en-se/sitemap_index.xml
+
+Sitemap: https://www.samoon.com/de-at/sitemap_index.xml
+Sitemap: https://www.samoon.com/de-ch/sitemap_index.xml
+Sitemap: https://www.samoon.com/de-de/sitemap_index.xml
+Sitemap: https://www.samoon.com/nl-nl/sitemap_index.xml
+Sitemap: https://www.samoon.com/pl-pl/sitemap_index.xml
+Sitemap: https://www.samoon.com/fr-fr/sitemap_index.xml
+Sitemap: https://www.samoon.com/fr-be/sitemap_index.xml
+Sitemap: https://www.samoon.com/en-gb/sitemap_index.xml
+Sitemap: https://www.samoon.com/en-se/sitemap_index.xml
+
+Sitemap: https://www.taifun.com/de-at/sitemap_index.xml
+Sitemap: https://www.taifun.com/de-ch/sitemap_index.xml
+Sitemap: https://www.taifun.com/de-de/sitemap_index.xml
+Sitemap: https://www.taifun.com/nl-nl/sitemap_index.xml
+Sitemap: https://www.taifun.com/pl-pl/sitemap_index.xml
+Sitemap: http://www.taifun.com/fr-fr/sitemap_index.xml
+Sitemap: https://www.taifun.com/fr-be/sitemap_index.xml
+Sitemap: https://www.taifun.com/en-gb/sitemap_index.xml
+Sitemap: https://www.taifun.com/en-se/sitemap_index.xml
+
+Sitemap: https://www.house-of-gerryweber.com/de-at/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/de-ch/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/de-de/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/nl-nl/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/pl-pl/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/fr-fr/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/fr-be/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/en-gb/sitemap_index.xml
+Sitemap: https://www.house-of-gerryweber.com/en-se/sitemap_index.xml

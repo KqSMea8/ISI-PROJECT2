@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /ajax/
+Disallow: /pl/ajax/
+Disallow: /ajax/page/
+Disallow: /pl/ajax/page/
+Disallow: /ajax/form/
+Disallow: /pl/ajax/form/
+Sitemap: http://czarnorzekiski.pl/sitemap.xml

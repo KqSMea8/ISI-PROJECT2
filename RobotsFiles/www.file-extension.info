@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.file-extension.info/sitemaps/sitemap-index.xml

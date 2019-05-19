@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /author/natalia/
+Disallow: /author/admin/
+Disallow: /fullscreen/kenburns/
+Disallow: /mevents/an-event/
+Disallow: /fullscreen/revolution-slider/
+Disallow: /fullscreen/fullscreen-image/
+Disallow: /proofing/habitasse-platea/
+Disallow: /proofing/proofing-disabled/
+Disallow: /proofing/proofing-3-columns/
+Disallow: /proofing/proofing-2-columns/
+Disallow: /proofing/proofing-4-columns/
+Disallow: /fullscreen/kenburns-with-audio/
+Disallow: /fullscreen/slideshow-static-text/
+Disallow: /fullscreen/slideshow-with-audio/
+Disallow: /fullscreen/youtube-without-box/

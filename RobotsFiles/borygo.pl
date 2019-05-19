@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /cms/
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /_Baner/
+Disallow: /_cache/
+Disallow: /images/
+Disallow: /img/
+Disallow: /_Files/
+Disallow: /fonts/
+Disallow: /_lang/
+Disallow: /register/
+Disallow: /upload/
+Allow: /

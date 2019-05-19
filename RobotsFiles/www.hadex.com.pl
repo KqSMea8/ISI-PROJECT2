@@ -1,0 +1,2 @@
+Disallow: /old_page
+

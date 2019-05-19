@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /  #allow everything by default
+Disallow: /fileadmin/templates     #then add restrictions
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: /typo3conf/
+Disallow: /typo3temp/

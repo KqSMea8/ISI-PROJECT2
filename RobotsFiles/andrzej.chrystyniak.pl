@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */kampania/
+Disallow: */allegro/
+Disallow: */ebay/
+Disallow: */nikon/
+Disallow: */rysiek/
+Disallow: */live/

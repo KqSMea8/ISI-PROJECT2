@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /data/
+Disallow: /data/uploads/products/*
+Disallow: /converter/
+

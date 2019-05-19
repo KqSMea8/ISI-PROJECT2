@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /template
+Disallow: /temp
+Allow: /zdjecia
+Allow: /media
+Disallow: /inc
+Allow: /static
+Disallow: /sql_cache
+Disallow: /user
+Sitemap: http://www.arkowcy.pl/mapa_witryny.xml

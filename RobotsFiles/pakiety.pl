@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /index.php?
+Disallow: /wzor.php?
+Disallow: /redirect.php?
+Disallow: /?
+Disallow: /_allegro/
+Disallow: /_tmp/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /min-2.1.3/
+Disallow: /sub/
+Sitemap: http://pakiety.pl/sitemap.xml

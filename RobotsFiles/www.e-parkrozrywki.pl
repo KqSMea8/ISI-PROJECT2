@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin.php
+Disallow: /artykuly.php
+Disallow: /nowosci.php
+Disallow: /artykuly_admin.php
+Disallow: /dodaj/
+Disallow: /pdf/parki_rozrywki.pdf
+Disallow: /js/highslide/graphics/
+Disallow: /js/raty/img
+Disallow: js/ckeditor/

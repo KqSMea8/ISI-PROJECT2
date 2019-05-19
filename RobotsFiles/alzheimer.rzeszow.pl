@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /classes/
+Disallow: /config/
+Disallow: /layout/
+Disallow: /libs/
+Disallow: /maps/
+Disallow: /modules/

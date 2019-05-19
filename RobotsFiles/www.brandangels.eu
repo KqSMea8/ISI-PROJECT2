@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+Sitemap: http://www.brandangels.eu/index.php?xml_sitemap=params=
+

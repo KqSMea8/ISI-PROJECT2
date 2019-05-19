@@ -1,0 +1,9 @@
+User-agent: SentiBot
+Disallow: /
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /original_ceebot.com
+

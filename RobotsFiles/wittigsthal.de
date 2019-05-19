@@ -1,0 +1,5 @@
+# Ganze Site freigeben
+User-agent: *
+Disallow: /visioncontent/
+Disallow: /de/unternehmen/mitarbeiter.html
+# Sitemap: http://www.lausitz.de/sitemap.xml

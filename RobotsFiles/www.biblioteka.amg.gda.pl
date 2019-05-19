@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /en_old/
+Disallow: /kopia/
+Disallow: /losowanie/
+Disallow: /nabytki_import/
+Disallow: /nabytki_nowe/
+Disallow: /nabytki_test/
+Disallow: /statystyka/
+Disallow: /statystyka_2015/
+Disallow: /nowa_testowa/
+Disallow: /sushi/
+Disallow: /virtuaZgoda/
+Disallow: /czytelnia/
+Disallow: /virtuaZgoda/
+Disallow: /trash/

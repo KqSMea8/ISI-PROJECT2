@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /watch
+Disallow: /go
+User-agent: Baiduspider
+Crawl-delay: 30
+User-agent: MSNBot
+Crawl-delay: 7
+User-agent: Bingbot
+Crawl-delay: 7

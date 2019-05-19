@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*/iphone/$
+Disallow: /*/iphone$
+Disallow: /*/mobile/$
+Disallow: /*/mobile$
+Disallow: /*/mobi/$
+Disallow: /*/mobi$
+Disallow: /*/m/$
+Disallow: /*/m$

@@ -1,0 +1,14 @@
+# Sitemap: https://www.hewi.com/sitemap.xml
+
+User-agent: *
+Disallow: /cms/
+
+User-agent: WebReaper
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: EmailCollector
+User-agent: penthesilea
+Disallow: /
+

@@ -1,0 +1,20 @@
+Sitemap: http://www.adventure-zone.info/fusion/sitemap.xml
+
+User-agent: *
+Disallow: /administration/
+Disallow: /forum/attachments/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /infusions/css_navigation_panel/
+Disallow: /infusions/forum_threads_list_panel/
+Disallow: /infusions/forum_threads_panel/
+Disallow: /infusions/latest_articles_panel/
+Disallow: /infusions/member_poll_panel/
+Disallow: /infusions/navigation_panel/
+Disallow: /infusions/online_users_panel/
+Disallow: /infusions/shoutbox_panel/
+Disallow: /infusions/user_info_panel/
+Disallow: /infusions/website_meta_information/
+Disallow: /infusions/welcome_message_panel/
+Disallow: /locale/
+Disallow: /themes/

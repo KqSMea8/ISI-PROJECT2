@@ -1,0 +1,24 @@
+User-agent: *
+Crawl-delay: 30
+Request-rate: 1/1s
+
+User-agent: *
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/pricefrom/*
+Disallow: /*/f_producer_6/*
+Disallow: /*/promotion/*
+Disallow: /*/f_delivery_1/*
+Disallow: /*/news/0*
+Disallow: /*/news/1*
+
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/p/comment/add/
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/
+Disallow: /*/searchquery/

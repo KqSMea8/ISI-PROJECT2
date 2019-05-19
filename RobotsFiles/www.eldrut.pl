@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /flash/
+Disallow: /eng_index.html
+Disallow: /company.html
+Disallow: /offer.html
+Disallow: /offer_szcz.html
+Disallow: /contact.html
+Disallow: /ger_index.html
+Disallow: /firma.html
+Disallow: /angebot.html
+Disallow: /angebot_szcz.html
+Disallow: /ger_kontakt.html
+Allow: /

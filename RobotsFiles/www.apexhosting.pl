@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+Allow: /ords/f?p=*:*:0:*
+Allow: /ords/f?p=*:*:0$
+Allow: /ords/*SITEMAP
+Allow: /ords/dbe/sitemaps/apexutil
+Allow: /ords/frm/sitemap/sitemap
+Allow: /ords/wwv_flow.js_messages*
+Allow: /i/*
+Allow: /$

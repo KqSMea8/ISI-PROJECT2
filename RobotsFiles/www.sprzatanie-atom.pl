@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Sitemap: /sitemap.xml

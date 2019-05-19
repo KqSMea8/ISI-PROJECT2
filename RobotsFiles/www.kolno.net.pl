@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /aaaa/
+Disallow: /foto/
+Disallow: /Liczniki/
+Disallow: /Piotrek/
+Disallow: /Pliki/
+Disallow: /skrypty/
+Disallow: /uroczystosci.php
+Disallow: /wiadomosc.php
+Disallow: /?tresc=pokaz

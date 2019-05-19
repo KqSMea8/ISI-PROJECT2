@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /cookies/
+Disallow: /css/
+Disallow: /files/
+Disallow: /form/
+Disallow: /images/
+Disallow: /javascript/
+Disallow: /news/
+Disallow: /photos/
+Disallow: /private/

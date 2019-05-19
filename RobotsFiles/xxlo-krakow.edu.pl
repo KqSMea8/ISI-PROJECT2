@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: joomla/administrator/
+Disallow: joomla/cache/
+Disallow: joomla/components/
+Disallow: joomla/images/
+Disallow: joomla/includes/
+Disallow: joomla/installation/
+Disallow: joomla/language/
+Disallow: joomla/libraries/
+Disallow: joomla/media/
+Disallow: joomla/modules/
+Disallow: joomla/plugins/
+Disallow: joomla/templates/
+Disallow: joomla/tmp/
+Disallow: joomla/xmlrpc/

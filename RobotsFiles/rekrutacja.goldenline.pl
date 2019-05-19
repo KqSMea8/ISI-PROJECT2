@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /praca/oferta/*/aplikuj
+Disallow: /praca/oferta/*/formularz-aplikacyjny
+Disallow: /oferta/*/formularz-aplikacyjny
+Disallow: /firma/*/zglos
+

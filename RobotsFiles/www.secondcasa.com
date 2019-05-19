@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /cronjobs/
+Disallow: /update_v08/
+Disallow: /pdf/
+Disallow: /secure/
+Disallow: /tmp/
+Disallow: /locale/
+Disallow: /admin/
+Disallow: /admin_secasa/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /includes/
+Disallow: /msg_tmp/
+Disallow: /*.xml.gz$
+Disallow: /*rmap*
+Disallow: /*F=1
+Disallow: /bs/
+Disallow: /el/
+Disallow: /za/
+Disallow: /tr/
+Disallow: /batch/
+Disallow: /dir/
+Disallow: /community/
+Disallow: /*F=1
+Disallow: /*map=1
+Disallow: /*web=1
+Disallow: /*PHPSESSID*
+Disallow: /*page=object*
+
+

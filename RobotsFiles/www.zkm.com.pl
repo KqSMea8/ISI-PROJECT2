@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /go/
+Disallow: http://www.zkm.com.pl/favicon.ico
+Disallow: http://www.zkm.com.pl/o-firmie</p
+Disallow: http://www.zkm.com.pl/pomosty.html
+Disallow: http://www.zkm.com.pl/referencje.html
+Disallow: http://www.zkm.com.pl/media/flash/head/header.swf
+Disallow: http://www.zkm.com.pl/katalog/szlifowanie-profili.html
+Disallow: http://www.zkm.com.pl/getFullPicts
+Disallow: http://www.zkm.com.pl/comments/feed/
+Disallow: http://www.zkm.com.pl/referencje/
+Disallow: http://www.zkm.com.pl/konstrukcje/
+Disallow: http://www.zkm.com.pl/referencje/duze/
+Disallow: http://www.zkm.com.pl/nice.html
+Disallow: http://www.zkm.com.pl/schody-zewnetrzne-i-wewnetrzne.html&Itemid=49

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /_backup/
+Disallow: /css/
+Disallow: /graf/
+Disallow: /images/
+Disallow: /instrukcje/
+Disallow: /js/
+Disallow: /model/
+Disallow: /pass/
+Disallow: /phpmailer/
+Disallow: /pl/
+Disallow: /scss/
+Disallow: /secret/
+Disallow: /videos/

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /projektydomu/

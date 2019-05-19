@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /app/
+Disallow: /blogw/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /downloader/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /kalendarz/
+Disallow: /lib/
+Disallow: /media/
+Disallow: /pkginfo/
+Disallow: /shell/
+Disallow: /skin/
+Disallow: /var/

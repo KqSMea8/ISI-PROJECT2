@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /sklep/_DOCS_/
+Disallow: /sklep/admin/
+Disallow: /sklep/download/
+Disallow: /sklep/includes/
+Disallow: /sklep/pub/
+Disallow: /sklep/temp/
+Disallow: /sklep/tmp/
+Disallow: /sklep/cache/
+Disallow: /sklep/account.php
+Disallow: /sklep/checkout_shipping.php
+Disallow: /sklep/create_account.php
+Disallow: /sklep/login.php
+Disallow: /sklep/password_forgotten.php
+Disallow: /sklep/shopping_cart.php
+Disallow: /sklep/cookie_usage.php

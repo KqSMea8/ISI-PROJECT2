@@ -1,0 +1,18 @@
+#Alle Suchmaschinen wird der Zugang verweigert zu den angegebenen Verzeichnissen
+
+User-agent: *
+
+Disallow: /admin
+Disallow: /data/script
+Disallow: /data/transfer
+Disallow: /data/user
+Disallow: /preview
+
+#e-mail Sammler von der Site fernhalten
+User-agent: EmailCollector
+Disallow: /
+
+
+Sitemap: http://www.leibergmbh.de/de/site/google-sitemap/
+Sitemap: http://www.leibergmbh.de/int/google-sitemap-int/
+

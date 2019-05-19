@@ -1,0 +1,146 @@
+User-agent: dotbot
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: WiseBot
+Disallow: /
+
+User-agent: ConveraCrawler
+Disallow: /
+
+User-agent: Scrubby
+Disallow: /
+
+User-agent: Robozilla
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: asterias
+Disallow: /
+
+User-agent: CsCrawler
+Disallow: /
+
+User-agent: Larbin
+Disallow: /
+
+User-agent: Sproose
+Disallow: /
+
+User-agent: NaverBot
+Disallow: /
+
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: k2spider
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: reloado.com SearchEngine
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Fiddler
+Disallow: /
+
+User-agent: CloudTV
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+Sitemap: https://www.arte.tv/sitemap.xml
+
+User-agent: Googlebot
+Sitemap: https://www.arte.tv/sitemap.xml
+
+User-agent: bingbot
+Crawl-delay: 2 # sets a 2-second timeout
+Sitemap: https://www.arte.tv/sitemap.xml
+
+User-agent: Yandex
+Crawl-delay: 2 # sets a 2-second timeout
+Sitemap: https://www.arte.tv/sitemap.xml
+
+# The default
+User-agent: *
+Crawl-delay: 10
+Sitemap: https://www.arte.tv/sitemap.xml
+

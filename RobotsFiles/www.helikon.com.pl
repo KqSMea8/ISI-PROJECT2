@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /en/
+Disallow: /pl/schowek*
+Disallow: /check/
+Disallow: /contao/
+Disallow: /system/
+Disallow: /vendor/
+Disallow: /share/index.php
+Disallow: /build.xml
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /README.md
+Allow: /system/cron/cron.txt
+Allow: /system/modules/*/assets/
+Allow: /system/modules/*/html/
+Sitemap: http://www.helikon.com.pl/sitemap.xml
+

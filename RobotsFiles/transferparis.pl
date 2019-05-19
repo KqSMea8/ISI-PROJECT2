@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /atrakcje.html
+Disallow: /mobile/
+Disallow: /m/
+Disallow: /muzea.html
+Disallow: /muzea-w-paryzu.html
+Disallow: /Blog%20Posts/new-post-3.html
+Disallow: /car-reviews.html
+Disallow: /zakwaterowanie.html
+Disallow: /contact-us.html
+Disallow: /contact.html

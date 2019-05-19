@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /addons
+Disallow: /settings
+Disallow: /var
+

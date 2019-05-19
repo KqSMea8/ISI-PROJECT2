@@ -1,0 +1,46 @@
+# For syntax checking, see:
+# http://tool.motoricerca.info/robots-checker.phtml
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+#Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /instalator-old/
+Disallow: /instalator/
+Disallow: /1_5/
+
+Allow: /templates/gantry/
+Allow: /templates/gantry/css-compiled/
+Allow: /modules/mod_mb2moduleintabs/css/mb2moduleintabs.css
+Allow: /modules/mod_visitorcounter/mod_visitorcounter.css
+Allow: /modules/mod_cwnews/tmpl/default.css
+Allow: /modules/mod_cwnews/tmpl/style.css
+Allow: /modules/mod_cwnews/cache/
+Allow: /modules/mod_jpanel/assets/css/style.css
+Allow: /modules/mod_rokminievents3/tmpl/css/rokminievents3.css
+Allow: /modules/mod_cookiesaccept/screen.css
+Allow: /modules/mod_cookiesaccept/img/
+Allow: /libraries/gantry/css/grid-responsive.css
+Allow: /libraries/gantry/js/browser-engines.js
+Allow: /libraries/gantry/assets/jui/fonts/
+Allow: /modules/mod_roknavmenu/themes/default/js/
+Allow: /modules/mod_mb2moduleintabs/js/mb2moduleintabs.js
+Allow: /modules/mod_cwnews/js/engine.default.js
+Allow: /modules/mod_jpanel/assets/js/jpanel.min.js
+Allow: /modules/mod_rokminievents3/tmpl/js/rokminievents3.js
+Sitemap: http://mbpmm.pl/index.php?option=com_xmap&sitemap=1&view=xml

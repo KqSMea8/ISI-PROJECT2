@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Sitemap: http://efarmer.mobi/sitemap.xml
+Sitemap: http://efarmer.mobi/page-sitemap.xml
+Sitemap: http://efarmer.mobi/post-sitemap.xml
+

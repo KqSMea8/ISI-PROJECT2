@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta http-equiv="Content-Language" content="hu">
+<meta name="robots" content="index, follow, all">
+<meta name="description" content="" />
+<title></title>
+<link rel="canonical" href="">
+<link href="/public/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<link rel="stylesheet" href="http://www.tiszataviokocentrum.hu/public/css/app.css?v=12">
+
+<link href="http://www.tiszataviokocentrum.hu/public/css/page.css?v=12" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript">LANG_BASE_URL = 'http://www.tiszataviokocentrum.hu/hu/'</script>
+<script type="text/javascript" src="http://www.tiszataviokocentrum.hu/public/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.tiszataviokocentrum.hu/public/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="http://www.tiszataviokocentrum.hu/public/js/Main.js?v=12"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122323913-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-122323913-1');
+</script>
+
+<!-- Facebook Pixel Code --><script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '343030532989937'); fbq('track', 'PageView');</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=343030532989937&ev=PageView&noscript=1"/></noscript><!-- End Facebook Pixel Code -->
+</head><body>
+
+<div class="back-to-top" id="back-to-top">
+<i class="fa fa-chevron-up" aria-hidden="true"></i>
+</div>
+
+<div class="sidemenu">
+<div class="menu_opener"></div>
+<div class="menu_close" id="mainMenuClose"></div>
+
+<div class="langselect hidden-sm hidden-md hidden-lg">
+<ul>
+<li class="active"><a href="">HUN</a></li>
+<li>
+<a href="?lang=2">ENG</a>
+</li>
+<li>
+<a href="?lang=4">POL</a>
+</li>
+</ul>
+</div>
+
+<div class="main_wrapper">
+<ul class="main_menu">
+
+<li
+class="                                 has-sub"
+data-main-id="4"
+data-toggle="tooltip"
+data-placement="left"
+title="Latogatoinknak">
+<div class="icon home"></div>
+<span>Latogatoinknak</span>
+</li>
+<li
+class="                                 has-sub"
+data-main-id="3"
+data-toggle="tooltip"
+data-placement="left"
+title="Okocentrum">
+<div class="icon okocentrum"></div>
+<span>Okocentrum</span>
+</li>
+<li
+class="                                 has-sub"
+data-main-id="2"
+data-toggle="tooltip"
+data-placement="left"
+title="Tisza-To">
+<div class="icon tisza_to"></div>
+<span>Tisza-To</span>
+</li>
+<li
+class="                                 has-sub"
+data-main-id="1"
+data-toggle="tooltip"
+data-placement="left"
+title="Jo helyek">
+<div class="icon jo_helyek"></div>
+<span>Jo helyek</span>
+</li>
+<li
+class="                                 has-sub"
+data-main-id="5"
+data-toggle="tooltip"
+data-placement="left"
+title="Nyilvanossag">
+<div class="icon nyilvanossag"></div>
+<span>Nyilvanossag</span>
+</li>
+
+</ul>
+</div>
+
+<div class="submenu">
+<div class="menu_close" id="subMenuClose"></div>
+
+
+<div class="content" data-main-id="1">
+<div class="title">Jo helyek</div>
+
+<ul>
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/latnivalok">Latnivalok</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/szallashelyek">Szallashelyek</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/vendeglatohelyek-226">Vendeglatohelyek</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/kikotok">Kikotok</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/telepulesterkep-229">Telepulesterkep</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/egyeb-helyek-228">Egyeb helyek</a>
+
+</li>
+
+</ul>
+</div>
+<div class="content" data-main-id="2">
+<div class="title">Tisza-To</div>
+
+<ul>
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/altalanos">Altalanos</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/kozlekedes-a-tavon">Kozlekedes a tavon</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/tisza-tavi-tanosveny-es-vizisetany">Tisza-tavi Tanosveny es Vizisetany</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/strandolas">Strandolas</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/kerekparozas">Kerekparozas</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/horgaszat">Horgaszat</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/i-love-tisza-to">I love Tisza-to</a>
+
+</li>
+
+</ul>
+</div>
+<div class="content" data-main-id="3">
+<div class="title">Okocentrum</div>
+
+<ul>
+
+<li class="has_submenu">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/hireink-215">Hireink</a>
+
+<ul>
+<li>
+<a href="/hirek/archivum" target="_self">Archivum</a>
+</li>
+</ul>
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/rolunk">Rolunk</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/foepulet">Foepulet</a>
+
+</li>
+
+
+<li class="">
+<a href="http://tiszataviokocentrum.hu/vt/ttoc_vt/">Virtualis tura</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/szabadidopark">Szabadidopark</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/fajlista">Fajlista</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/kishajos-kirandulas">Kishajos kirandulas</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/gps-es-csonakturak">GPS-es csonakturak</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/kulonleges-programok-220">Kulonleges programok</a>
+
+</li>
+
+
+<li class="has_submenu">
+<a href="/hu/gallery">Galeria</a>
+
+<ul>
+<li>
+<a href="/hu/gallery/avatasi-unnepseg-2012" target="_self">Avatasi unnepseg 2012</a>
+</li>
+<li>
+<a href="/hu/gallery/rendezvenyek-programok" target="_self">Rendezvenyek, programok</a>
+</li>
+<li>
+<a href="/hu/gallery/a-szabadidoparkban" target="_self">A szabadidoparkban</a>
+</li>
+<li>
+<a href="/hu/gallery/konferenciaterem" target="_self">Konferenciaterem</a>
+</li>
+<li>
+<a href="/hu/gallery/korpanoramas-kilatotorony-7-emelet-" target="_self">Korpanoramas kilatotorony (7. emelet)</a>
+</li>
+<li>
+<a href="/hu/gallery/elvarazsolt-vizi-vilag-jatszoszoba" target="_self">Elvarazsolt Vizi vilag jatszoszoba</a>
+</li>
+<li>
+<a href="/hu/gallery/makrovilag-foldinfo-terem" target="_self">Makrovilag Foldinfo terem</a>
+</li>
+<li>
+<a href="/hu/gallery/ejszakai-erdo-hullok-es-keteltuek-kiallitasa-terrariumokban" target="_self">Ejszakai erdo - hullok es keteltuek kiallitas</a>
+</li>
+<li>
+<a href="/hu/gallery/oriasakvarium" target="_self">Oriasakvarium</a>
+</li>
+<li>
+<a href="/hu/gallery/vidraink" target="_self">Vidraink</a>
+</li>
+<li>
+<a href="/hu/gallery/tisza-to-kepek" target="_self">Tisza-to kepek</a>
+</li>
+<li>
+<a href="/hu/gallery/okocentrum" target="_self">Okocentrum kepek</a>
+</li>
+</ul>
+</li>
+
+
+<li class="has_submenu">
+<a href="http://tiszataviokocentrum.hu/">Kiadvany lapozo</a>
+
+<ul>
+<li>
+<a href="http://katalogus.e-lapozo.hu/okocentrum_esemenynaptar_2019/" target="_blank">Esemenynaptar 2019</a>
+</li>
+<li>
+<a href="http://katalogus.e-lapozo.hu/tisza_tavi_vakacio_2019/" target="_blank">Tisza-tavi Vakacio 2019</a>
+</li>
+</ul>
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/ifjusagi-szallas">Ifjusagi szallas</a>
+
+</li>
+
+</ul>
+</div>
+<div class="content" data-main-id="4">
+<div class="title">Latogatoinknak</div>
+
+<ul>
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/megkozelites">Megkozelites</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/nyitvatartas">Nyitvatartas</a>
+
+</li>
+
+
+<li class="">
+<a href="/hu/latogatoinknak/jegyarak">Jegyarak</a>
+
+</li>
+
+
+<li class="has_submenu">
+<a href="/hu/csoportoknak">Csoportoknak</a>
+
+<ul>
+<li>
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/csoportoknak/egynapos-kirandulasok" target="">Egynapos kirandulasok</a>
+</li>
+<li>
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/csoportoknak/ketnapos-kirandulasok" target="">Ketnapos kirandulasok</a>
+</li>
+<li>
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/csoportoknak/haromnapos-kirandulasok" target="">Haromnapos kirandulasok</a>
+</li>
+<li>
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/csoportoknak/nyari-taborok" target="">Nyari taborok</a>
+</li>
+<li>
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/csoportoknak/kiegeszito-szolgaltatasok" target="">Kiegeszito szolgaltatasok</a>
+</li>
+</ul>
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/belso-terkepek">Belso terkepek</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/kapcsolat-214">Kapcsolat</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/latogatasi-szabalyzat">Latogatasi szabalyzat</a>
+
+</li>
+
+</ul>
+</div>
+<div class="content" data-main-id="5">
+<div class="title">Nyilvanossag</div>
+
+<ul>
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/nyilvanossag/munkatarsaink">Munkatarsaink</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/nyilvanossag/kotelezo-informaciok">Kotelezo informaciok</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/nyilvanossag/mukodteto-szervezetek">Mukodteto szervezetek</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/nyilvanossag/partnerek">Partnerek</a>
+
+</li>
+
+
+<li class="">
+<a href="http://archivum.tiszataviokocentrum.hu/">Archivum</a>
+
+</li>
+
+
+<li class="">
+<a href="http://www.tiszataviokocentrum.hu/hu/nyilvanossag/adatvedelmi-tajekoztato-318">Adatvedelmi Tajekoztato</a>
+
+</li>
+
+</ul>
+</div>
+</div>
+
+<div class="searchbox hidden-sm hidden-md hidden-lg">
+<div class="input-group">
+<input type="text" class="form-control" placeholder="kereses">
+<div class="input-group-btn">
+<button class="btn btn-default" type="submit">
+<i class="fa fa-search"></i>
+</button>
+</div>
+</div>
+</div>
+</div>
+<header>
+<div class="container main">
+<div class="row">
+<div class="col-md-6 col-sm-6">
+<div class="logo">
+<a href="/"></a>
+</div>
+</div>
+<div class="col-md-6 col-sm-6 hidden-xs">
+<div class="topmenu">
+<ul>
+<li class="blind"><a href="?blind=1" class="menu"></a></li>
+<li class="langselect">
+<a href="" class="menu ">HUN</a>
+<div class="dropdown">
+<a href="/?lang=2">ENG</a>
+<a href="/?lang=4">POL</a>
+</div>
+</li>
+<li class="book" data-toggle="tooltip" title="Tisza-tavi elmenyek Poroszlon"><a href="http://katalogus.e-lapozo.hu/okocentrum_esemenynaptar_2019/" target="_blank" class="menu"></a></li>
+<li class="compass" data-toggle="tooltip" title="Virtualis Tura"><a href="/vt/ttoc_vt" class="menu" target="_blank"></a></li>
+</ul>
+
+<div class="searchbox">
+<form action="http://www.tiszataviokocentrum.hu/search" method="post">
+<div class="input-group">
+<input type="text" name="sparams[search_req]" class="form-control" placeholder="">
+<div class="input-group-btn">
+<button class="btn btn-default" type="submit">
+<i class="fa fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>        <div class="row">
+<nav class="header_menu">
+<ul >
+<li >
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/megkozelites" target="">Megkozelites</a>
+</li>
+<li >
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/nyitvatartas" target="">Nyitvatartas</a>
+</li>
+<li >
+<a href="/hu/latogatoinknak/jegyarak" target="_self">Jegyarak</a>
+</li>
+<li >
+<a href="/hu/csoportoknak" target="">Csoportoknak</a>
+</li>
+<li >
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/belso-terkepek" target="_self">Belso terkepek</a>
+</li>
+<li >
+<a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/kapcsolat-214" target="_self">Kapcsolat</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+<div class="container main">
+<div class="main_content main_content_wrapper">
+
+<article class="page">
+<h2>404! A kert oldal nem talalhato!</h2>
+</article>
+</div>
+</div>
+<div class="cookie_layer">
+<div class="text">A weboldalon cookie-kat hasznalunk, amik segitenek minket a leheto legjobb szolgaltatasok nyujtasaban. <a href="/hu/nyilvanossag/adatvedelmi-tajekoztato-318">Tovabb olvasom</a></div>
+<button class="btn" id="cokkie-layer-btn">Elfogadom</button>
+</div>
+<footer>
+<div class="decorpic left"></div>
+<div class="decorpic center_left"></div>
+<div class="decorpic center_right"></div>
+<div class="decorpic right"></div>
+
+<div class="container">
+
+<nav>
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<ul>
+<li class="main"><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek">Jo helyek</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/latnivalok" target="">Latnivalok</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/szallashelyek" target="_self">Szallashelyek</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/vendeglatohelyek-226" target="">Vendeglatohelyek</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/kikotok" target="">Kikotok</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/telepulesterkep-229" target="">Telepulesterkep</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/jo-helyek/egyeb-helyek-228" target="">Egyeb helyek</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3">
+<ul>
+<li class="main"><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to">Tisza-To</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/kozlekedes-a-tavon" target="">Kozlekedes a tavon</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/altalanos" target="">Altalanos</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/tisza-tavi-tanosveny-es-vizisetany" target="_self">Tisza-tavi Tanosveny es Vizisetany</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/strandolas" target="">Strandolas</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/kerekparozas" target="">Kerekparozas</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/horgaszat" target="">Horgaszat</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/tisza-to/i-love-tisza-to" target="_self">I love Tisza-to</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3">
+<ul>
+<li class="main"><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum">Okocentrum</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/hireink-215" target="_self">Hireink</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/rolunk" target="">Rolunk</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/foepulet" target="">Foepulet</a></li>
+<li><a href="http://tiszataviokocentrum.hu/vt/ttoc_vt/" target="_self">Virtualis tura</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/szabadidopark" target="">Szabadidopark</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/fajlista" target="">Fajlista</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/kishajos-kirandulas" target="_self">Kishajos kirandulas</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/gps-es-csonakturak" target="">GPS-es csonakturak</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/okocentrum/kulonleges-programok-220" target="_blank">Kulonleges programok</a></li>
+<li><a href="/hu/gallery" target="_self">Galeria</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3">
+<ul>
+<li class="main"><a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak">Latogatoinknak</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/megkozelites" target="">Megkozelites</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/nyitvatartas" target="">Nyitvatartas</a></li>
+<li><a href="/hu/latogatoinknak/jegyarak" target="_self">Jegyarak</a></li>
+<li><a href="/hu/csoportoknak" target="">Csoportoknak</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/belso-terkepek" target="_self">Belso terkepek</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/kapcsolat-214" target="_self">Kapcsolat</a></li>
+<li><a href="http://www.tiszataviokocentrum.hu/hu/latogatoinknak/latogatasi-szabalyzat" target="">Latogatasi szabalyzat</a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+<div class="row bottom">
+<div class="col-md-3">
+<a href="/" class="logo"></a>
+</div>
+<div class="col-md-9">
+<div class="cp">
+Minden jog fenntartva. Tisza-tavi okocentrum 3388 Poroszlo, Kossuth u. 41. Telefon: 36/553-033; 36/553-074                </div>
+</div>
+</div>
+</div>
+
+</footer>
+</body>
+</html>
+<!--render : 0.010496s-->

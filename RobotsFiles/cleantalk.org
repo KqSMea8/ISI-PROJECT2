@@ -1,0 +1,32 @@
+User-agent: *
+
+Disallow: /smarty
+Disallow: /includes
+Disallow: /my
+Disallow: /templates
+Disallow: /templates_c
+Disallow: /go
+Disallow: /pay
+Disallow: /connect
+Disallow: /files
+Disallow: /pm-feed
+Disallow: /publicoffer
+Disallow: /show_request
+Disallow: /show_request2
+
+Disallow: /blank.html
+
+Disallow: /register?*
+Disallow: /spambots-check?*
+Disallow: /*?utm
+
+Disallow: /antispam-security-apps-releases/*
+Disallow: /blacklists/?record=*
+Disallow: /blacklists/report-ip?cur_rec=*
+Disallow: /spambots-check?record=*
+
+Sitemap: https://cleantalk.org/sitemap.xml
+Sitemap: https://cleantalk.org/sitemap-spam-ip.xml
+
+Host: https://cleantalk.org
+

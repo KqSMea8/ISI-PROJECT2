@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /logowanie
+Disallow: /rejestracja
+Disallow: /logowanie/reset-password
+Disallow: /search/*
+Disallow: /zamowienie/*
+Disallow: /rec/*
+Disallow: /furniture/rate/*
+Disallow: /furniture/get-info/*

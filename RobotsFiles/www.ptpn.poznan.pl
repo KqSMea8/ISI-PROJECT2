@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kalendarz-wydarzen/action~posterboard/
+Disallow: /kalendarz-wydarzen/action~agenda/
+Disallow: /kalendarz-wydarzen/action~oneday/
+Disallow: /kalendarz-wydarzen/action~month/
+Disallow: /kalendarz-wydarzen/action~week/
+Disallow: /kalendarz-wydarzen/action~stream/
+Disallow: /kalendarz-wydarzen/action~undefined/
+Disallow: /kalendarz-wydarzen/action~http:/
+Disallow: /kalendarz-wydarzen/action~default/
+Disallow: /kalendarz-wydarzen/action~poster/
+Disallow: /kalendarz-wydarzen/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

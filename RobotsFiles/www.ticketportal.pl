@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.ticketportal.pl/Home/Sitemap

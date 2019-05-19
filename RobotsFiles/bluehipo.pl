@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /docs/
+Disallow: /examples/
+Disallow: /extras/
+Disallow: /language/
+Disallow: /test/
+Disallow: /test_script/
+Sitemap: http://www.bluehipo.pl/sitemap.xml

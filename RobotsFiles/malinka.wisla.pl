@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /Akterekc
+Disallow: /counter
+Disallow: /forum
+Disallow: /galeriazima
+Disallow: /gbook
+Disallow: /grafika
+Disallow: /include
+Disallow: /inne
+Disallow: /kg
+Disallow: /nphp
+Disallow: /oswietlenie
+Disallow: /scripts
+Disallow: /style
+Disallow: /teksty

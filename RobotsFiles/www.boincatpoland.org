@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: wiki/passwords.php
+Disallow: wiki/LocalSettings.php
+Disallow: wiki/index.php?title=Dyskusja*
+Disallow: /smf/Settings.php
+Disallow: /smf/*.msg*
+Disallow: /smf/*sa=showPosts*
+Disallow: /smf/*prev_next*
+Disallow: /smf/*action=
+Disallow: /smf/*action=printpage*
+Disallow: /smf/*action=recent*
+Disallow: /smf/*action=login*
+Disallow: /smf/*action=register*
+Disallow: /smf/*action=search*
+Disallow: /smf/*action=who*
+Disallow: /smf/*action=post*
+Allow: /
+Crawl-delay: 10
+

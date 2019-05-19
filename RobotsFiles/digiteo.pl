@@ -1,0 +1,33 @@
+Sitemap: http://digiteo.pl/sitemap.xml
+User-agent: googlebot
+Disallow: /adamski/
+Disallow: /adm2/
+Disallow: /admin/
+Disallow: /agata/
+Disallow: /agent/
+Disallow: /auto/
+Disallow: /beta2/
+Disallow: /billion/
+Disallow: /betaskin/
+Disallow: /bip/
+Disallow: /bud/
+Disallow: /bud_php/
+Disallow: /cal/
+Disallow: /catering/
+Disallow: /cheryl/
+Disallow: /cluster/
+Disallow: /cs_double/
+Disallow: /css/
+Disallow: /diet/
+Disallow: /digiteo/
+Disallow: /digiteo2/
+Disallow: /digiteo3/
+Disallow: /energy/
+Disallow: /expo/
+Disallow: /faktury/
+Disallow: /font/
+Disallow: /fontso/
+Disallow: /furs/
+Disallow: /furs2/
+
+

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /ocen,
+Disallow: */komentarze/dodaj,
+Disallow: */komentarze/zglos,
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-1.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-2.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-3.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-4.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-5.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-6.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-7.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-8.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-9.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-10.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-11.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-12.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-13.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-14.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-15.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-16.xml.gz
+Sitemap: https://biznes.interia.pl/sitemap/biznes.interia.pl-siteindex-17.xml.gz
+

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /javacript/
+Disallow: /administrator/
+Disallow: /modules/
+Disallow: /template/
+Disallow: /system/
+Disallow: /pliki/
+Disallow: /media/

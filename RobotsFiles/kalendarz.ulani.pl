@@ -1,0 +1,1 @@
+Dziekujemy za zamowienie. Przy okazji zapraszamy na nowa strone wydawnictwa: <a href="https://wydawnictwo.fine.pl/Numerowany%21+Kalendarz+U%C5%82a%C5%84ski+A.D.+2019,18,p.html">Kalendarz Ulanski 2019</a> i nie tylko

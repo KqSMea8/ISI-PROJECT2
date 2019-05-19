@@ -1,0 +1,17 @@
+# robots.txt for use on d.k.d maintained websites
+#
+# $Id: robots.txt,v 1.4 2006/02/09 09:41:11 dkd-otto Exp $
+#
+
+#User-agent: Sosospider
+#
+
+# Block all agents from indexing the areas definded below
+#User-agent: *
+#
+
+#
+# To keep the load at an acceptable level
+# Currently honored by Yahoo, MS, Inktomi
+Crawl-delay: 1
+

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Allow: /cache/assets/
+Allow: /cache/multithumb_thumbs/
+Disallow: /components/
+Allow: /components/com_virtuemart/fetchscript.php
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Allow: /plugins/system/cdscriptegrator/libraries/highslide/graphics/
+Disallow: /templates/
+Allow: /templates/terma/images/
+Allow: /templates/terma/css/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: /img/
+

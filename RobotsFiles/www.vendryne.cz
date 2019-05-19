@@ -1,0 +1,19 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /obecni-urad/uredni-deska/
+Disallow: /urzad-gminy/tablica-ogloszen/
+Disallow: /samosprava-obce/hlavni-dokumenty-obce-/uzemni-plan/zmena-c-1-up-vendryne/prilohy-ke-zmene-up-c1/
+Disallow: /samosprava-obce/hlavni-dokumenty-obce-/uzemni-plan/zmena-c-1-up-vendryne/
+Disallow: /samosprava-obce/archiv-usneseni-ro-a-zo/usneseni-ro-2010-2014/
+Disallow: /samosprava-obce/archiv-usneseni-ro-a-zo/usneseni-zo-2010-2014/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /obecni-urad/uredni-deska/
+Disallow: /urzad-gminy/tablica-ogloszen/
+Disallow: /samosprava-obce/hlavni-dokumenty-obce-/uzemni-plan/zmena-c-1-up-vendryne/prilohy-ke-zmene-up-c1/
+Disallow: /samosprava-obce/hlavni-dokumenty-obce-/uzemni-plan/zmena-c-1-up-vendryne/
+Disallow: /samosprava-obce/archiv-usneseni-ro-a-zo/usneseni-ro-2010-2014/
+Disallow: /samosprava-obce/archiv-usneseni-ro-a-zo/usneseni-zo-2010-2014/
+Sitemap: https://www.vendryne.cz/sitemap.xml
+

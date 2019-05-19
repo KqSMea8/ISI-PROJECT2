@@ -1,0 +1,20 @@
+# robots.txt for www.trendme.net
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /phpMailer/
+Disallow: /SuperMe/
+Disallow: /HTML/
+Disallow: /showAll.php?*
+Disallow: /komentari-na-modnu-kombinaciju/*
+Disallow: /trendme-modne-kombinacije.html
+Disallow: /trendme-top-modne-kombinacije.html
+Disallow: /tm-modna-kombinacija/*
+Disallow: /2011/02?*
+Disallow: /Nadija/modna-pista/*
+Disallow: /Chanel/trendme-modni-profil/3GnO95tgwr0'3D.htm
+Disallow: /najgledanije-modne-kombinacije/0.htm
+Disallow: /najpopularnije-modne-kombinacije/0.htm
+Sitemap: https://www.trendme.net/sitemap.xml
+
+

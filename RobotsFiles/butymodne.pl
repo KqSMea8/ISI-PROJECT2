@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /show/
+Disallow: /rozmiar-allegro/
+Disallow: /rozmiar-link/
+Disallow: /podobny-produkt/
+Disallow: /basket/
+Disallow: /basket/*
+Disallow: /orders/
+Disallow: /orders/*
+Disallow: /zarejestruj/
+Disallow: /zaloguj/
+Disallow: /basket/show/
+Disallow: /info/regulamin/
+Disallow: /info/polityka-prywatnosci/
+Disallow: /info/zwroty-produktow/
+Disallow: /info/reklamacja-towaru/
+Disallow: /przypomnij-haslo/
+Disallow: /newsletter/
+Disallow: /rozmiar-obraz/
+Disallow: /e/show-similar/
+Disallow: /newsletter/
+Sitemap: https://butymodne.pl/sitemaps/sitemap.xml
+

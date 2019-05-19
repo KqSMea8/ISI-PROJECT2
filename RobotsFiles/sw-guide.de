@@ -1,0 +1,13 @@
+Sitemap: http://sw-guide.de/sitemap.xml
+User-agent: *
+Disallow: /_chcounter/
+Disallow: /_forwarding_noteslinks/
+Disallow: /_mw-doc/
+Disallow: /_mw-uploads/
+Disallow: /_webcontribution/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: */feed/
+Disallow: */trackback/
+Allow: /feed/

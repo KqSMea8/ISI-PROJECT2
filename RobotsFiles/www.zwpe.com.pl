@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /formzamowien.html
+Allow: /ofirmie.html
+Disallow: /thx.html
+Allow: /index.html
+Disallow: /css
+Allow: /pliki/JKZWPEoferta.pdf
+Allow: /oferta.html
+Allow: /wyprzedaze.html
+Allow: /pliki.html
+Disallow: /Kopiakontakt.html
+Allow: /images
+Allow: /certyfikaty.html
+Allow: /produkcja.html
+Allow: /kolorystyka.html
+Allow: /nowosci.html
+Allow: /referencje.html
+User-agent: Googlebot
+Allow: /formkontakt.html
+Allow: /formzamowien.html
+Allow: /ofirmie.html
+Disallow: /thx.html
+Allow: /index.html
+Disallow: /css
+Allow: /pliki/JKZWPEoferta.pdf
+Allow: /oferta.html
+Allow: /wyprzedaze.html
+Allow: /pliki.html
+Disallow: /Kopiakontakt.html
+Allow: /images
+Allow: /certyfikaty.html
+Allow: /produkcja.html
+Allow: /kolorystyka.html
+Allow: /nowosci.html
+Allow: /referencje.html
+
+

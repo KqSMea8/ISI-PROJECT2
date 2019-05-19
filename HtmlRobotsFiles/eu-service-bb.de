@@ -1,0 +1,290 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Enterprise Europe Network - Berlin Brandenburg: </title>
+<base href="http://eu-service-bb.de">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<meta name="description" content="" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="" />
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<META NAME="Content-Language" CONTENT="de">
+<META NAME="Language" CONTENT="German, de, deutsch">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="styles.css?v=3" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" type="text/css" href="css_pirobox/style_2/style.css"/>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.2.custom.min.js"></script>
+<script type="text/javascript" src="js/pirobox_extended.js"></script>
+
+
+
+<script type="text/javascript" src="js/jquery.dimensions.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+
+
+<script type="text/javascript" src="popup/jqModal.js"></script>
+<link rel="stylesheet" type="text/css" href="popup/jqModal.css"/>
+
+
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript" src="js/hoverIntent.js"></script>
+<script>
+$(document).ready(function(){
+$("ul.sf-menu").superfish();
+$().piroBox_ext({
+piro_speed : 900,
+bg_alpha : 0.5,
+piro_scroll : true //pirobox always positioned at the center of the page
+});
+
+jQuery('#list1b').accordion({
+autoheight: false,
+header: 'h6'
+});
+$('#dialog').jqm();
+
+
+
+});
+
+
+</script>
+<!--[if IE 6]><style type="text/css">@import url(ie.css);</style><![endif]-->
+<!--[if IE 7]><style type="text/css">@import url(ie7.css);</style><![endif]-->
+
+
+
+</head>
+<body>
+<div class="wrapper">
+<div class="header"><a href="http://www.eu-service-bb.de"><img src="style/clearpixel.gif" style="height: 208px; width: 990px;"></a></div>
+<div class="style_main_navi">
+<ul class="sf-menu">
+<li><a href="aktuelle_meldungen.php" ><span class="navi-linkspan">Aktuelles</span></a>
+<ul><li><a href="aktuelle_meldungen.php">Aktuelle Meldungen<span class="linkspan"> </span></a>
+<li><a href="newsletter.php">Newsletter<span class="linkspan"> </span></a>
+<li><a href="h2020emaildienst.php">H2020-Emaildienst<span class="linkspan"> </span></a>
+</ul></li><li><a href="leistungen.php" ><span class="navi-linkspan">Leistungen</span></a>
+<ul><li><a href="innovationsservice.php">Innovationsservice<span class="linkspan"> </span></a>
+<li><a href="eu-binnenmarkt.php">EU-Binnenmarkt<span class="linkspan"> </span></a>
+<li><a href="europaeische_partnersuche.php">Partnersuche<span class="linkspan"> </span></a>
+<li><a href="eu-foerderprogramme.php">EU-Forderprogramme<span class="linkspan"> </span></a>
+<li><a href="eu-befragungen.php">EU-Befragungen<span class="linkspan"> </span></a>
+</ul></li><li><a href="eu-programme_und_projekte" ><span class="navi-linkspan">EU-Programme&nbsp;&&nbsp;Projekte</span></a>
+</li><li><a href="veranstaltungen.php" ><span class="navi-linkspan">Unsere&nbsp;Veranstaltungen</span></a>
+</li><li><a href="erfolgsgeschichten.php" ><span class="navi-linkspan">Erfolgsgeschichten</span></a>
+<ul><li><a href="hanffaser_uckermark">Hanffaser Uckermark<span class="linkspan"> </span></a>
+<li><a href="space_structures">Space Structures GmbH<span class="linkspan"> </span></a>
+<li><a href="partnerschaft_im_bereich_gesundheits-it">MD-PART<span class="linkspan"> </span></a>
+</ul></li><li><a href="infobereich.php" ><span class="navi-linkspan">Downloads</span></a>
+</li><li><a href="ueber_uns.php" ><span class="navi-linkspan">Uber&nbsp;uns</span></a>
+<ul><li><a href="unsere_partner">Unsere Partner<span class="linkspan"> </span></a>
+<li><a href="kontakt.php">Kontakt<span class="linkspan"> </span></a>
+</ul></li>
+</ul>
+<div class="lnnav"><a href="http://eu-service-bb.de/">de</a> | <a href="http://eu-service-bb.de/en/ueber_uns.php">en</a> | <a href="http://eu-service-bb.de/pl/ueber_uns.php">pl</a> | <a href="http://eu-service-bb.de/fr/ueber_uns.php">fr</a></div>
+</div>
+
+<div class="hr"><img src="style/clearpixel.gif"></div>
+
+
+<div class="content_full">
+<div class="wide_content">
+
+<div style="margin: auto; border: 1px solid #ff9933; margin-bottom: 20px;">
+<p style="font-size: 15pt; line-height: 120%; font-weight: normal; padding: 20px;">Liebe Website-Besucher,<br><br>
+
+unsere Website <i>www.eu-service-bb.de</i> wird demnachst abgeschaltet. Sie finden unsere Informationen nun zukunftig unter <a href="http://een-bb.de">een-bb.de</a>.<br><br>
+
+Wir freuen uns auf Ihren Besuch!<br>
+Ihr EEN-Team Berlin-Brandenburg
+</p></div>
+
+
+<iframe src="http://www.eu-service-bb.de/ContentSlider2/index.html"  border="0" width="720" height="330" style="border: 0px; padding: 0px;" frameborder="0"></iframe><br />
+<br />
+<h2>&nbsp;Europaweite Kooperationsangebote (bitte anklicken f&uuml;r mehr Infos)</h2>
+<iframe src="http://een.ec.europa.eu/tools/services/STA/Widget/TickerFeed/f3cbfba0-d9a5-464c-981f-fc864596f504?totalItems=10&showItems=10"  border="0" width="720" height="350" style="border: 0px; padding: 0px;" frameborder="0"></iframe><br />
+<br />
+
+<p><small>Diese Seite wurde zuletzt am 03.12.2014 aktualisiert.</small></p>
+</div>
+<div class="rightbar">
+
+<table border=0 cellpadding="0" cellspacing="0" width="230">
+<tr><td colspan=3><img src="style/newsletter-abo.gif"></td></tr>
+<tr>
+<td background="style/rss_left.gif" width="10">&nbsp;</td>
+<td bgcolor="#f7f7f5" width="210"><br>
+
+Bitte registrieren Sie sich hier, wenn Sie unseren aktuellen Newsletter regelmassig per E-Mail erhalten wollen.<br>&nbsp;
+<form method=post action=/robots.txt?registernewsletter>
+Ihre Email-Adresse:<br>
+<input type=text name=nlemail size=15 value="" class=rightfield><br>
+<input type=radio name=nltype value=subscribe checked> Bestellen<br>
+<input type=radio name=nltype value=unsubscribe> Abbestellen<br>
+<input type=submit value="OK" class=rightsubmit>
+
+</form>
+<br>&nbsp;</td>
+
+<td background="style/rss_right.gif" width="10">&nbsp;</td>
+</tr>
+<tr><td colspan=3><img src="style/rss_bottom.gif"></td></tr>
+
+</table>
+
+
+
+
+<br><br>
+
+<table border=0 cellpadding="0" cellspacing="0" width="230">
+<tr><td colspan=3><img src="style/h2020abo.gif"></td></tr>
+<tr>
+<td background="style/rss_left.gif" width="10">&nbsp;</td>
+<td bgcolor="#f7f7f5" width="210"><br>
+
+Bitte registrieren Sie sich hier, wenn Sie an H2020-Informationen zu Ihrer  Branche interessiert sind.<br>
+
+<form method=post action=?registerh2020><input type=checkbox name="hnlrubrik[3]"  value=1><small> Gesundheitswirtschaft</small><br><input type=checkbox name="hnlrubrik[4]"  value=1><small> Energietechnik</small><br><input type=checkbox name="hnlrubrik[5]"  value=1><small> Verkehr, Mobilitat, Logistik</small><br><input type=checkbox name="hnlrubrik[6]"  value=1><small> IKT, Medien, Kreativwirtschaft</small><br><input type=checkbox name="hnlrubrik[7]"  value=1><small> Optik</small><br><input type=checkbox name="hnlrubrik[8]"  value=1><small> Ernahrungswirtschaft</small><br><input type=checkbox name="hnlrubrik[9]"  value=1><small> Metall</small><br><input type=checkbox name="hnlrubrik[10]"  value=1><small> Kunststoffe, Chemie</small><br><input type=checkbox name="hnlrubrik[13]"  value=1><small> Tourismus</small><br><br>
+Ihre Email-Adresse:<br>
+<input type=text name=hnlemail size=15 value="" class=rightfield><br>
+<input type=radio name=hnltype value=subscribe checked> Bestellen<br>
+<input type=radio name=hnltype value=unsubscribe> Abbestellen<br>
+<input type=submit value="OK" class=rightsubmit>
+
+</form>
+<br>&nbsp;</td>
+<td background="style/rss_right.gif" width="10">&nbsp;</td>
+</tr>
+<tr><td colspan=3><img src="style/rss_bottom.gif"></td></tr>
+</table>
+<br><br>
+
+
+
+
+<!-- <a href="https://webgate.ec.europa.eu/smeip/ " target=_blank><img src="img/cosme_banner.jpg"></a>-->
+
+
+<div class="basic"  id="list1b">
+<!--
+<h6><a href="#" class="header">EBSF 2012</a></h6>
+<div><center><p>
+
+
+<a href="ebsf_2012"><img src=images/ebsf2012.jpg></a>
+
+
+</p></center>
+</div>
+-->
+
+<h6><a href="#" class="header">Kooperationsdatenbank</a></h6>
+<div><center><p>
+
+
+
+
+<a href="kooperationsdatenbank.php"><img src="img/koop.jpg"></a>
+
+<script type="text/javascript">
+$().ready(function() {
+$('#dialog').jqm();
+});
+</script>
+
+
+
+
+
+
+
+
+
+</p></center>
+</div>
+
+
+<h6><a href="#" class="header">Ihre Ansprechpartner</a></h6>
+<div>
+
+<div style="float: left;  margin-right: 5px;"><img src="http://download.eu-service-bb.de/apimg/69.jpg" width=60 height=50></div><p style="padding-top: 0px;"><b>Anke Wiegand</b><br>
+<small>Berlin Partner fur Wirtschaft und Technologie GmbH<br></small>
+<small>Tel: +49 (30) 46302-591<br></small>
+<small><a href="mailto:anke.wiegand@berlin-partner.de" style="color: #ffffff; text-decoration: underline;">Email</a></small></p>
+
+<div style="float: left;  margin-right: 5px;"><img src="http://download.eu-service-bb.de/apimg/24.jpg" width=60 height=50></div><p style="padding-top: 0px;"><b>Dajana Pefestorff</b><br>
+<small>Wirtschaftsforderung Land Brandenburg GmbH<br></small>
+<small>Tel: +49 (331) 730 61 -315<br></small>
+<small><a href="mailto:dajana.pefestorff@wfbb.de" style="color: #ffffff; text-decoration: underline;">Email</a></small></p>
+
+<div style="float: left;  margin-right: 5px;"><img src="http://download.eu-service-bb.de/apimg/36.jpg" width=60 height=50></div><p style="padding-top: 0px;"><b>Heike Trusch</b><br>
+<small>IHK Ostbrandenburg<br></small>
+<small>Tel: +49 (335) 5621-1340<br></small>
+<small><a href="mailto:trusch@ihk-ostbrandenburg.de" style="color: #ffffff; text-decoration: underline;">Email</a></small></p>
+
+</div>
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+<table width="730" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td width=20 rowspan=2>&nbsp;</td>
+<td  height=157><a href="http://www.enterprise-europe-network.ec.europa.eu/index_en.htm" target="_blank""	onmouseover="window.status='CIP';  return true;"	onmouseout="window.status='';  return true;"><img src="http://www.eu-service-bb.de/images/footer/footer1.jpg"></a></td>
+<td  height=157><a href="http://www.berlin.de/sen/wirtschaft/" target=_blank><img src="http://www.eu-service-bb.de/img/senwtf.jpg"></a></td>
+<td background="http://www.eu-service-bb.de/images/footer/ec.jpg" width=132 height=157><a href="http://www.mwe.brandenburg.de/" target=_blank><img src="http://www.eu-service-bb.de/img/mwe.jpg"></a></td>
+<td background="http://www.eu-service-bb.de/images/footer/footer3.jpg"  height=157><div style="padding-left: 42px; padding-top: 50px;">
+<br><a href=/datenschutz>Datenschutz</a><br>
+<br><a href=/impressum>Impressum</a><br>
+</div>
+</td>
+
+</tr>
+<tr>
+<td><a href="http://www.berlin-partner.de"	onmouseover="window.status='Berlin Partner fur Wirtschaft und Technologie';  return true;"	onmouseout="window.status='';  return true;">	<img src="http://www.eu-service-bb.de/images/footer/bp.jpg" width="218" height="84" border="0" alt="Berlin Partner"></a></td>
+<td><a href="http://www.ihk-ostbrandenburg.de" target="_blank"	onmouseover="window.status='IHK Ostbrandenburg';  return true;"	onmouseout="window.status='';  return true;">	<img src="http://www.eu-service-bb.de/images/footer/ihk.jpg" width="171" height="84" border="0" alt="IHK Ostbrandenburg"></a></td>
+<td><a href="http://www.zab-brandenburg.de" target="_blank"	onmouseover="window.status='ZAB';  return true;"	onmouseout="window.status='';  return true;">	<img src="http://www.eu-service-bb.de/images/footer/zab.jpg" width="132" height="84" border="0" alt="ZAB"></a></td>
+<td><a href="http://www.twitter.com/bb_europe" target="_blank"	onmouseover="window.status='Twitter';  return true;"	onmouseout="window.status='';  return true;">	<img src="http://www.eu-service-bb.de/images/footer/twitter.jpg" width="199" height="84" border="0" alt="Twitter"></a></td>
+</tr>
+</table>
+
+
+<div class="jqmWindow" id="dialog">
+<div align=right><a href="#" class="jqmClose" style="font-weight: bold; color: #ffffff; text-decoration: none">Video schliessen</a></div>
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/Z6G-7j_fDAw?fs=1&amp;hl=de_DE&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Z6G-7j_fDAw?fs=1&amp;hl=de_DE&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//piwik.shc.eu/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', 37]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript><p><img src="//piwik.shc.eu/piwik.php?idsite=37" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+</html>
+

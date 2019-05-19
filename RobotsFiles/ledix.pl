@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /logs/
+Disallow: /layouts/
+Disallow: /locale/
+Disallow: /install/
+Disallow: /assets/
+Disallow: /cache/

@@ -1,0 +1,2 @@
+Useragent: *
+Disallow: /wp-admin/

@@ -1,0 +1,56 @@
+# robots.txt for http://www.um.oswiecim.pl/
+
+User-agent: *
+
+Disallow: #it
+Disallow: #um
+Disallow: apache
+#Disallow: bip
+Disallow: bugtrack
+#Disallow: centrum
+Disallow: egallery
+#Disallow: fdip
+#Disallow: forum
+Disallow: forum_pliki
+Disallow: intranet
+Disallow: licencje
+Disallow: liczniki
+Disallow: marek
+Disallow: mareks
+#Disallow: mbp
+#Disallow: mp14
+#Disallow: mp16
+#Disallow: mp17
+#Disallow: mp19
+#Disallow: ock
+Disallow: oswiecim
+#Disallow: pl
+Disallow: pl_chemik
+Disallow: pl_dokumenty
+Disallow: pl_filmy
+Disallow: pl_gzo
+Disallow: pl_ikony
+Disallow: pl_images
+Disallow: pl_include
+Disallow: pl_informator
+Disallow: pl_kamery
+Disallow: pl_kopia
+Disallow: pl_news
+#Disallow: pl_pieski
+Disallow: pl_pliki
+Disallow: pl_programy
+Disallow: pl_start
+Disallow: pl_zdjecia
+Disallow: pl1
+Disallow: rekord
+#Disallow: rrr
+Disallow: rs
+Disallow: search
+#Disallow: sok
+Disallow: squid
+Disallow: test
+Disallow: tools
+#Disallow: zhp
+#Disallow: zla
+#Disallow: zopedocs
+

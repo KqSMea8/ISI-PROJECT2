@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /logowanie*
+Disallow: /odzyskiwanie-hasla*
+Disallow: /historia-zamowien*
+Disallow: /pokwitowania*
+Disallow: /adresy*
+Disallow: /dane-osobowe*
+Disallow: /mapa-strony*
+Disallow: /koszyk*
+Disallow: /moje-konto*

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /forecast/?visible=
+Disallow: /?wysijap=
+Disallow: /?ajax_search=
+Disallow: /wp-content/uploads/2017/11/raport-cold-mailing-2017.pdf
+Disallow: /wp-content/uploads/2017/11/cold-mailing-2017-report.pdf
+Disallow: /wp-content/uploads/raport-cold-mailing-2017.pdf
+Disallow: /wp-content/uploads/cold-mailing-2017-report.pdf

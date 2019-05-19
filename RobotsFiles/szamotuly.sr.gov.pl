@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /backup_ftp/
+Disallow: /container/
+Disallow: /download/
+Disallow: /files/
+Disallow: /includes/
+Disallow: /layout/
+Disallow: /panel/
+Disallow: /temp/
+Disallow: /wokanda_dir/

@@ -1,0 +1,7 @@
+# ROBOTS.TXT STOPS BAD BOTS FROM CRAWLING YOUR WEB PAGES
+# PLEASE UPLOAD THIS FILE TO THE SAME FOLDER OF index.html
+
+User-agent: *
+Disallow: /js
+Disallow: *.js
+

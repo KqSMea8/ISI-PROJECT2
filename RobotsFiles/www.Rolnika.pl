@@ -1,0 +1,1 @@
+<meta charset="utf-8" /><form action="" method="post">Podaj link do kategorii na kramp.com: <input name="link" value="" size="150"><br /><input name="submit" type="submit" value="Dodaj produkty z tej kategorii do bazy sklepu"></form><br /><br />

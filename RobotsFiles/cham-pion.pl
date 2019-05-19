@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /allegro/
+Disallow: /crm/
+Disallow: /cennik/
+Disallow: /ajax/
+Disallow: /szukaj/
+Disallow: /regulamin.html
+Disallow: /klient.html
+Disallow: /koszty-dostawy.html
+Disallow: /formy-platnosci.html
+Sitemap: http://www.cham-pion.pl/sitemap.xml

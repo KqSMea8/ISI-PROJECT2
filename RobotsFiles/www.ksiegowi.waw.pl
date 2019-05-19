@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /documents/
+Disallow: /English/
+Disallow: /extdocs/
+Disallow: /extimages/
+Disallow: /old/
+Disallow: /sidebar/
+Disallow: /sp/
+Disallow: /temps/
+Disallow: /wap/
+Disallow: /css/
+Disallow: /img/
+Disallow: /picture_library/
+Disallow: /plesk-stat/
+Disallow: /pliki/
+Disallow: /test/

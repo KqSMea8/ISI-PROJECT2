@@ -1,0 +1,9 @@
+Sitemap: https://www.kreatif.it/sitemap.xml
+
+User-agent: *
+
+Disallow: /assets/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /redaxo/
+Disallow: /usage/

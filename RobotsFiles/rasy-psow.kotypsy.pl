@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /_kp_ripe_stat/
+Disallow: /adm/
+Disallow: /ajax/
+Disallow: /banery/
+Disallow: /c_t__mp-/
+Disallow: /cgi-bin/
+Disallow: /ce/
+Disallow: /chat/
+Disallow: /ckeditor/
+Disallow: /ckefinder/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /highslide/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /mailing/
+Disallow: /modules/
+Disallow: /sql/
+Disallow: /tabcontent/
+Disallow: /tmp/
+Disallow: /xml_data/
+Disallow: /ogloszenia_promowane.php
+Disallow: /box_logowanie.php
+
+# If you disallow a
+User-agent: AntyStatyczny
+Disallow: /

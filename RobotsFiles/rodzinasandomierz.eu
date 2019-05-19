@@ -1,0 +1,6 @@
+Sitemap: http://rodzinasandomierz.eu/sitemap.xml
+Sitemap: http://rodzinasandomierz.eu/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

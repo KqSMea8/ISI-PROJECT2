@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /widgetshtml-*.html$
+Sitemap: https://www.essts.org/sitemap.xml

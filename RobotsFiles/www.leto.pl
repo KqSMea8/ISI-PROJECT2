@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /category
+Disallow: /tag
+Disallow: /author
+Disallow: /trackback
+Disallow: /*trackback
+Disallow: /*trackback*
+Disallow: /*/trackback
+Disallow: /*?*
+Disallow: /*.html/$
+Disallow: /*feed*
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+
+Sitemap: http://leto.pl/i18n-index-sitemap.xml
+Sitemap: http://leto.pl/en/i18n-index-sitemap.xml
+Sitemap: http://leto.pl/sitemap-image.xml
+
+#
+

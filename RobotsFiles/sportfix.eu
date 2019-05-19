@@ -1,0 +1,7 @@
+Sitemap: http://sportfix.eu/sitemap.xml
+Sitemap: http://sportfix.eu/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

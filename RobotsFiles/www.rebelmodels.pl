@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ebook
+Disallow: /Ebook
+Disallow: /pack
+Disallow: /Pack
+Disallow: /pdf
+Disallow: /Pdf
+Disallow: /pdf-code
+Disallow: /Pdf-code

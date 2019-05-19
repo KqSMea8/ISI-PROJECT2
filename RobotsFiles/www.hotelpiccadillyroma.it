@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: https://www.hotelpiccadillyroma.it/sitemap.aspx
+Allow: /
+Disallow: /backoffice.aspx
+Disallow: /Login.aspx
+Disallow: /Admin.aspx
+Disallow: /Staging.aspx
+Disallow: /backoffice/
+Disallow: /Admin/
+Disallow: /Staging/
+Disallow: /tabid/

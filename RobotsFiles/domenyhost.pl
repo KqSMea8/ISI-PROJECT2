@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /logout/
+Sitemap: https://intername.pl/sitemap_index.xml
+Sitemap: https://intername.pl/sitemap.txt
+Sitemap: https://interna.me/sitemap_index.xml
+Sitemap: https://interna.me/sitemap.txt

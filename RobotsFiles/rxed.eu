@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: Yandex
+Disallow: */amp/*
+
+Sitemap: https://rxed.eu/sitemap.xml

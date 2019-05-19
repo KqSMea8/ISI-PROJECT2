@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /mt/
+Disallow: /musiccenter/
+Disallow: /pomoc/
+Disallow: /projekty/
+Disallow: /sm/
+Disallow: /stylstudio/
+Disallow: /tan/
+Disallow: /tan3/
+Disallow: /webs/
+Disallow: /wp-admin/
+Disallow: /fhukontakt/

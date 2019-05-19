@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /manage/
+Disallow: /apiv4/
+Disallow: /apiv3/
+Disallow: /gbpreviewv4/
+Disallow: /pview/
+Disallow: /front/
+Disallow: /back/
+Sitemap: https://www.freestyler.net/front-assets/index-sitemap.xml

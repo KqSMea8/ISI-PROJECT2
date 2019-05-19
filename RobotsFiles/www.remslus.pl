@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /funkcje_php/
+Disallow: /img/
+Disallow: /js/
+Disallow: /old/
+Disallow: /phpmailer/
+Disallow: /slider/
+Allow: /

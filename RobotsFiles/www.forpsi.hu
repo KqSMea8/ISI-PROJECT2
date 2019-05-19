@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.forpsi.hu/sitemap.xml
+
+User-agent: Yandex
+Disallow: /

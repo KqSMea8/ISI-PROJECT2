@@ -1,0 +1,43 @@
+User-agent: Googlebot
+Disallow:
+User-agent: googlebot-image
+Disallow:
+User-agent: *
+Disallow:
+Disallow: /sklep/cgi-bin/
+Disallow: /sklep/app/
+Disallow: /sklep/downloader/
+Disallow: /sklep/catalog/product_compare/
+Disallow: /sklep/catalog/category/view/
+Disallow: /sklep/catalog/product_compare/
+Disallow: /sklep/catalog/category/view/
+Disallow: /sklep/catalog/product/view/
+Disallow: /sklep/catalogsearch/
+Disallow: /sklep/checkout/
+Disallow: /sklep/control/
+Disallow: /sklep/contacts/
+Disallow: /sklep/customer/
+Disallow: /sklep/customize/
+Disallow: /sklep/newsletter/
+Disallow: /sklep/poll/
+Disallow: /sklep/review/
+Disallow: /sklep/sendfriend/
+Disallow: /sklep/tag/
+Disallow: /sklep/wishlist/
+Disallow: /sklep/404/
+Disallow: /sklep/app/
+Disallow: /sklep/cgi-bin/
+Disallow: /sklep/downloader/
+Disallow: /sklep/errors/
+Disallow: /sklep/includes/
+Disallow: /sklep/js/
+Disallow: /sklep/lib/
+Disallow: /sklep/cron.php
+Disallow: /sklep/cron.sh
+Disallow: /sklep/error_log
+Disallow: /sklep/install.php
+Disallow: /sklep/LICENSE.html
+Disallow: /sklep/LICENSE.txt
+Disallow: /sklep/LICENSE_AFL.txt
+Disallow: /sklep/STATUS.txt
+Sitemap: http://www.elno.pl/sitemap.xml

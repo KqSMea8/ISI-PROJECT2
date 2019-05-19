@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-Delay: 5
+Disallow: /text/
+Disallow: *fontsize=*
+Disallow: *c=text*
+Disallow: *printer=1*
+Disallow: /pdfexport/
+Disallow: *pdf=1*
+Disallow: /axml/

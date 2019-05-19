@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /system/
+Disallow: /usercontrols/
+Disallow: /popup/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /dcp/
+Disallow: /error/
+Disallow: /SiteEdit/
+Disallow: /ThermalSiteLayout/
+Disallow: /TTC_Downloadable/
+Disallow: /WcfService1/
+Disallow: /Log/
+Disallow: /products/*/*/?appId=*&msId=*
+Disallow: /products/*/*/index.aspx?appId=*&msId=*
+Disallow: /literature/literature-types.aspx?appId=*&msId=*
+
+Sitemap: http://nventthermal.pl/sitemap.xml

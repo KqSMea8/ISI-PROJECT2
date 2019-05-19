@@ -1,0 +1,19 @@
+Sitemap: http://www.agroteam.pl/sitemap.xml
+
+User-agent: *
+Disallow: *.css
+Disallow: *.js
+Disallow: /_files
+Disallow: /_layout
+Disallow: /_library
+Disallow: /_media
+Disallow: /_modulesAddons
+Disallow: /_tmp
+Disallow: /_vti_pvt
+Disallow: /_vti_txt
+Disallow: /private
+Disallow: /protected
+Disallow: /pub
+Disallow: /stat
+Disallow: /tmp
+Disallow: /admin.php

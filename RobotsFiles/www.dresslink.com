@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /Product-review-spu-*.html
+Disallow: /help-detail-code-*.html
+Disallow: /?*
+Disallow: /*.html&
+Sitemap:https://www.dresslink.com/sitemap.xml
+Sitemap:https://m.dresslink.com/sitemap.xml

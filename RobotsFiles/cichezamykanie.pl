@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /en/
+Disallow: /ru/
+Disallow: /de/
+Disallow: /it/
+Disallow: /product/dampfungssystem-airtic/
+Disallow: /product/ammortizzatore-per-mobili-airtic/
+Disallow: /product/airticbox-slim-2/
+Disallow: /product/airticbox-slim-4/
+Disallow: /product/airticlift-2/
+Disallow: /product/airticlift-4/

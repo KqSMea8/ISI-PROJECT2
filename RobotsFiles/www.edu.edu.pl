@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets
+Disallow: /openx
+Disallow: /user
+Disallow: /info/inf*
+Disallow: /adr/*
+Disallow: /adv/*
+Disallow: /exit*
+Disallow: /*function.getimagesize

@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 15
+Disallow: /admin/
+Disallow: /erp/
+
+Sitemap: https://m.autodachtrager-whispbar.at/sitemap.xml

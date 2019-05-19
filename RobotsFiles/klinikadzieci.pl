@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /app/
+Disallow: /326/alergolog-dzieciecy/
+Disallow: /350/gimnastyka-smyka-gymjunior/
+Disallow: /325/medycyna/
+Disallow: /339/szkola-jezykowa/
+Disallow: /307/logopeda-dzieciecy-warszawa/
+Disallow: /278/szkola-dyslektyka-2/
+Disallow: /351/warsztaty-dla-rodzicow/
+Disallow: /346/przygotowanie-do-edukacji-szkolnej/
+Disallow: /349/szkola-jezykowa-dla-dzieci/
+Disallow: /313/dysleksja-rozwojowa-diagnoza-warszawa-ursynow-terapia-pedagogiczna/
+Disallow: /314/centrum-diagnozy-i-terapii-adhd-autyzm-zespol-aspergera/
+Disallow: /340/kurs-szybkiego-czytania-techniki-szybkiego-czytania-nauka-szybkiego-czytania-warszawa/
+Disallow: /348/szkola-gotowania-dla-dzieci
+Disallow: /263/my-academy-2
+Disallow: /309/integracja-sensoryczna-warszawa-mokotow-ursynow-wilanow-ursus-wlochy-piaseczno-sluzew
+
+Disallow: /klinikadzieci.pl/176/strona-glowna/
+Disallow: /180/terapia-dziecieca/

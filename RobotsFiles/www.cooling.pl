@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /admin/
+Disallow: /awstats/
+Disallow: /cron/
+Disallow: /ext/
+Disallow: /integracja/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /userfiles/
+Disallow: /ww/
+Disallow: /xajax_js/

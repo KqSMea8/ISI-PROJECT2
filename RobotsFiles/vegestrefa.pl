@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: http://www.vegestrefa.pl/sitemap.xml

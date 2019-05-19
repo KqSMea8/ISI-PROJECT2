@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: https://www.technoalpin.com/sitemap.xml
+Sitemap: https://www.technoalpin.com/en/sitemap.xml
+Sitemap: https://www.technoalpin.com/it/sitemap.xml
+Sitemap: https://www.technoalpin.com/fr/sitemap.xml
+Sitemap: https://www.technoalpin.com/es/sitemap.xml
+Sitemap: https://www.technoalpin.com/pl/sitemap.xml
+Sitemap: https://www.technoalpin.com/ru/sitemap.xml
+Sitemap: https://www.technoalpin.com/sk/sitemap.xml
+Sitemap: https://www.technoalpin.com/se/sitemap.xml
+Sitemap: https://www.technoalpin.com/us/sitemap.xml
+Sitemap: https://www.technoalpin.com/cn/sitemap.xml

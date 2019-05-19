@@ -1,0 +1,268 @@
+User-agent: *
+Sitemap: https://www.adriatic.hr/sitemap/sitemap.xml.gz
+Allow: /*/providersprivate/index # Sucelje za iznajmljivace
+Disallow: /*/providersprivate # Sucelje za iznajmljivace
+Disallow: /services/rest/
+Disallow: /services/html/
+Disallow: /demo/
+Disallow: /css/
+Disallow: /sr # Izbaceni jezik
+Disallow: /lt # Izbaceni jezik
+Disallow: /da # Izbaceni jezik
+Disallow: /htmlservice.php* # HTML servisi (entry point)
+Disallow: /frame_new.php* # FRAME servisi (entry point)
+Disallow: /dbg.php* # Debug verzija (entry point)
+Disallow: /*/lastminute/unitLastMinute # Ajax
+Disallow: /*/lastminute/objectLastMinute # Ajax
+Disallow: /*/private/stats # Ajax
+Disallow: /*/private/nearby # Ajax
+Disallow: /*/private/addUnitToCompare # Ajax
+Disallow: /*/private/removeUnitFromCompare # Ajax
+Disallow: /*/search/privateObjectDetails # Ajax
+Disallow: /*/search/privateObjectComments # Ajax
+Disallow: /*/search/privatePricelistAndCalendar # Ajax
+Disallow: /*/about/getadditionalphone # Ajax
+Disallow: /*/hotel/additionalData # Ajax
+Disallow: /*/search/privateajax # Ajax
+Disallow: /*/search/hotelajax* # Ajax
+Disallow: /*/search/lighthouseajax* # Ajax
+Disallow: /*/search/charterajax* # Ajax
+Disallow: /*/search/url* #Ajax
+Disallow: /*/chat/operators # Ajax
+Disallow: /*/private/nearby* # Ajax
+Disallow: /*/private/unitdetails # Ajax
+Disallow: /*/lastminute/charterLastMinute # Ajax
+Disallow: /*/lastminute/singleCharterLastMinute # Ajax
+Disallow: /*/ajax/ #Ajax
+Disallow: /*/search/shortinfo #Ajax
+Disallow: /*/search/mapsearch #Ajax
+Disallow: /*/private/simple # Forma za pretrazivanje
+Disallow: /*/hotel/simple # Forma za pretrazivanje
+Disallow: /*/resort/simple # Forma za pretrazivanje
+Disallow: /*/charter/simple # Forma za pretrazivanje
+Disallow: /*/lighthouse/simple # Forma za pretrazivanje
+Disallow: /*/guide/search # Forma za pretrazivanje
+Disallow: /*/places/* # Forma za pretrazivanje
+Disallow: /*/private/geosearchdata # Geografsko pretrazivanje - JSON
+Disallow: /*/private/showInline # Prikaz jedinice na detaljima objekta
+Disallow: /*/private/reviews # Komentari gostiju na prikazu objekta
+Disallow: /*/calendar/show # Prikaz kalendara
+Disallow: /*/search/privateunit # Prikaz pojedine jedinice na rezultatima pretrazivanja
+Disallow: /*/settings # Auth
+Disallow: /*/login # Auth
+Disallow: /*/subagent/createorder # Auth
+Disallow: /*/subagent/editProfile # Auth
+Disallow: /*/subagent/calculation # Auth
+Disallow: /*/subagent/statistics # Auth
+Disallow: /*/subagent/framegenerator # Auth
+Disallow: /*/subagent/xmlaidgenerator # Auth
+Disallow: /*/subagent/orders # Auth
+Disallow: /*/affiliate/editProfile # Auth
+Disallow: /*/affiliate/framegenerator # Auth
+Disallow: /*/affiliate/stats # Auth
+Disallow: /*/affiliate/xmlaidgenerator # Auth
+Disallow: /*/affiliate/editsite # Auth
+Disallow: /*/recommending/editProfile # Auth
+Disallow: /*/recommending/stats # Auth
+Disallow: /*/recommending/reservations # Auth
+Disallow: /*/recommending/recommendingEmailsAjax* # Ajax
+Disallow: /*/reservation # Rezervacije
+Disallow: /*/sfApply # Login i registracija ajax
+Disallow: /*/browser # Provjera browsera
+Disallow: /*/favorites # Moj izbor
+Disallow: /*/compare # Compare
+Disallow: /*/guestbook/translateReview # Prijevodi komentara
+Disallow: /*/private/translateReview # Prijevodi komentara
+Disallow: /*/lighthouse/advanced # Svjetionici - napredna pretraga
+Disallow: /*/newsletter/subscribe # Newsletter
+Disallow: /*/similar/* # Similar
+Disallow: /*/google/direction
+Disallow: /document/* # PDF voucher
+Disallow: /*/documents/* # PDF voucher
+Disallow: /chat/*
+Disallow: /*/chat
+Disallow: /*/lighthouse/calendar # Ajax
+Disallow: /*/hotel/calendar # Ajax
+Disallow: /*/about/generalinfo # noindex
+Disallow: /*/optionextension* # link za produljenje opcije
+Disallow: /*/private/unfinishedReservation # endpoint za nedovrsenu rezervaciju
+
+User-agent: Yandex
+Sitemap: https://www.adriatic.hr/sitemap/yandex/sitemap.xml.gz
+Allow: /*/providersprivate/index # Sucelje za iznajmljivace
+Disallow: /*/providersprivate # Sucelje za iznajmljivace
+Disallow: /services/rest/
+Disallow: /services/html/
+Disallow: /demo/
+Disallow: /css/
+Disallow: /sr # Izbaceni jezik
+Disallow: /lt # Izbaceni jezik
+Disallow: /da # Izbaceni jezik
+Disallow: /htmlservice.php* # HTML servisi (entry point)
+Disallow: /frame_new.php* # FRAME servisi (entry point)
+Disallow: /dbg.php* # Debug verzija (entry point)
+Disallow: /*/lastminute/unitLastMinute # Ajax
+Disallow: /*/lastminute/objectLastMinute # Ajax
+Disallow: /*/private/stats # Ajax
+Disallow: /*/private/nearby # Ajax
+Disallow: /*/private/addUnitToCompare # Ajax
+Disallow: /*/private/removeUnitFromCompare # Ajax
+Disallow: /*/search/privateObjectDetails # Ajax
+Disallow: /*/search/privateObjectComments # Ajax
+Disallow: /*/search/privatePricelistAndCalendar # Ajax
+Disallow: /*/about/getadditionalphone # Ajax
+Disallow: /*/hotel/additionalData # Ajax
+Disallow: /*/search/privateajax # Ajax
+Disallow: /*/search/hotelajax* # Ajax
+Disallow: /*/search/lighthouseajax* # Ajax
+Disallow: /*/search/charterajax* # Ajax
+Disallow: /*/search/url* #Ajax
+Disallow: /*/chat/operators # Ajax
+Disallow: /*/private/nearby* # Ajax
+Disallow: /*/private/unitdetails # Ajax
+Disallow: /*/lastminute/charterLastMinute # Ajax
+Disallow: /*/lastminute/singleCharterLastMinute # Ajax
+Disallow: /*/ajax/ #Ajax
+Disallow: /*/search/shortinfo #Ajax
+Disallow: /*/search/mapsearch #Ajax
+Disallow: /*/private/simple # Forma za pretrazivanje
+Disallow: /*/hotel/simple # Forma za pretrazivanje
+Disallow: /*/resort/simple # Forma za pretrazivanje
+Disallow: /*/charter/simple # Forma za pretrazivanje
+Disallow: /*/lighthouse/simple # Forma za pretrazivanje
+Disallow: /*/guide/search # Forma za pretrazivanje
+Disallow: /*/places/* # Forma za pretrazivanje
+Disallow: /*/private/geosearchdata # Geografsko pretrazivanje - JSON
+Disallow: /*/private/showInline # Prikaz jedinice na detaljima objekta
+Disallow: /*/private/reviews # Komentari gostiju na prikazu objekta
+Disallow: /*/calendar/show # Prikaz kalendara
+Disallow: /*/search/privateunit # Prikaz pojedine jedinice na rezultatima pretrazivanja
+Disallow: /*/settings # Auth
+Disallow: /*/login # Auth
+Disallow: /*/subagent/createorder # Auth
+Disallow: /*/subagent/editProfile # Auth
+Disallow: /*/subagent/calculation # Auth
+Disallow: /*/subagent/statistics # Auth
+Disallow: /*/subagent/framegenerator # Auth
+Disallow: /*/subagent/xmlaidgenerator # Auth
+Disallow: /*/subagent/orders # Auth
+Disallow: /*/affiliate/editProfile # Auth
+Disallow: /*/affiliate/framegenerator # Auth
+Disallow: /*/affiliate/stats # Auth
+Disallow: /*/affiliate/xmlaidgenerator # Auth
+Disallow: /*/affiliate/editsite # Auth
+Disallow: /*/recommending/editProfile # Auth
+Disallow: /*/recommending/stats # Auth
+Disallow: /*/recommending/reservations # Auth
+Disallow: /*/recommending/recommendingEmailsAjax* # Ajax
+Disallow: /*/reservation # Rezervacije
+Disallow: /*/sfApply # Login i registracija ajax
+Disallow: /*/browser # Provjera browsera
+Disallow: /*/favorites # Moj izbor
+Disallow: /*/compare # Compare
+Disallow: /*/guestbook/translateReview # Prijevodi komentara
+Disallow: /*/private/translateReview # Prijevodi komentara
+Disallow: /*/lighthouse/advanced # Svjetionici - napredna pretraga
+Disallow: /*/newsletter/subscribe # Newsletter
+Disallow: /*/similar/* # Similar
+Disallow: /*/google/direction
+Disallow: /document/* # PDF voucher
+Disallow: /*/documents/* # PDF voucher
+Disallow: /chat/*
+Disallow: /*/chat
+Disallow: /*/lighthouse/calendar # Ajax
+Disallow: /*/hotel/calendar # Ajax
+Disallow: /*/about/generalinfo # noindex
+Disallow: /*/optionextension* # link za produljenje opcije
+Disallow: /*/private/unfinishedReservation # endpoint za nedovrsenu rezervaciju
+Host: https://www.adriatic.hr
+
+User-agent: SeznamBot
+Sitemap: https://www.adriatic.hr/sitemap/seznam/sitemap.xml.gz
+Allow: /*/providersprivate/index # Sucelje za iznajmljivace
+Disallow: /*/providersprivate # Sucelje za iznajmljivace
+Disallow: /services/rest/
+Disallow: /services/html/
+Disallow: /demo/
+Disallow: /css/
+Disallow: /sr # Izbaceni jezik
+Disallow: /lt # Izbaceni jezik
+Disallow: /da # Izbaceni jezik
+Disallow: /htmlservice.php* # HTML servisi (entry point)
+Disallow: /frame_new.php* # FRAME servisi (entry point)
+Disallow: /dbg.php* # Debug verzija (entry point)
+Disallow: /*/lastminute/unitLastMinute # Ajax
+Disallow: /*/lastminute/objectLastMinute # Ajax
+Disallow: /*/private/stats # Ajax
+Disallow: /*/private/nearby # Ajax
+Disallow: /*/private/addUnitToCompare # Ajax
+Disallow: /*/private/removeUnitFromCompare # Ajax
+Disallow: /*/search/privateObjectDetails # Ajax
+Disallow: /*/search/privateObjectComments # Ajax
+Disallow: /*/search/privatePricelistAndCalendar # Ajax
+Disallow: /*/about/getadditionalphone # Ajax
+Disallow: /*/hotel/additionalData # Ajax
+Disallow: /*/search/privateajax # Ajax
+Disallow: /*/search/hotelajax* # Ajax
+Disallow: /*/search/lighthouseajax* # Ajax
+Disallow: /*/search/charterajax* # Ajax
+Disallow: /*/search/url* #Ajax
+Disallow: /*/chat/operators # Ajax
+Disallow: /*/private/nearby* # Ajax
+Disallow: /*/private/unitdetails # Ajax
+Disallow: /*/lastminute/charterLastMinute # Ajax
+Disallow: /*/lastminute/singleCharterLastMinute # Ajax
+Disallow: /*/ajax/ #Ajax
+Disallow: /*/search/shortinfo #Ajax
+Disallow: /*/search/mapsearch #Ajax
+Disallow: /*/private/simple # Forma za pretrazivanje
+Disallow: /*/hotel/simple # Forma za pretrazivanje
+Disallow: /*/resort/simple # Forma za pretrazivanje
+Disallow: /*/charter/simple # Forma za pretrazivanje
+Disallow: /*/lighthouse/simple # Forma za pretrazivanje
+Disallow: /*/guide/search # Forma za pretrazivanje
+Disallow: /*/places/* # Forma za pretrazivanje
+Disallow: /*/private/geosearchdata # Geografsko pretrazivanje - JSON
+Disallow: /*/private/showInline # Prikaz jedinice na detaljima objekta
+Disallow: /*/private/reviews # Komentari gostiju na prikazu objekta
+Disallow: /*/calendar/show # Prikaz kalendara
+Disallow: /*/search/privateunit # Prikaz pojedine jedinice na rezultatima pretrazivanja
+Disallow: /*/settings # Auth
+Disallow: /*/login # Auth
+Disallow: /*/subagent/createorder # Auth
+Disallow: /*/subagent/editProfile # Auth
+Disallow: /*/subagent/calculation # Auth
+Disallow: /*/subagent/statistics # Auth
+Disallow: /*/subagent/framegenerator # Auth
+Disallow: /*/subagent/xmlaidgenerator # Auth
+Disallow: /*/subagent/orders # Auth
+Disallow: /*/affiliate/editProfile # Auth
+Disallow: /*/affiliate/framegenerator # Auth
+Disallow: /*/affiliate/stats # Auth
+Disallow: /*/affiliate/xmlaidgenerator # Auth
+Disallow: /*/affiliate/editsite # Auth
+Disallow: /*/recommending/editProfile # Auth
+Disallow: /*/recommending/stats # Auth
+Disallow: /*/recommending/reservations # Auth
+Disallow: /*/recommending/recommendingEmailsAjax* # Ajax
+Disallow: /*/reservation # Rezervacije
+Disallow: /*/sfApply # Login i registracija ajax
+Disallow: /*/browser # Provjera browsera
+Disallow: /*/favorites # Moj izbor
+Disallow: /*/compare # Compare
+Disallow: /*/guestbook/translateReview # Prijevodi komentara
+Disallow: /*/private/translateReview # Prijevodi komentara
+Disallow: /*/lighthouse/advanced # Svjetionici - napredna pretraga
+Disallow: /*/newsletter/subscribe # Newsletter
+Disallow: /*/similar/* # Similar
+Disallow: /*/google/direction
+Disallow: /document/* # PDF voucher
+Disallow: /*/documents/* # PDF voucher
+Disallow: /chat/*
+Disallow: /*/chat
+Disallow: /*/lighthouse/calendar # Ajax
+Disallow: /*/hotel/calendar # Ajax
+Disallow: /*/about/generalinfo # noindex
+Disallow: /*/optionextension* # link za produljenje opcije
+Disallow: /*/private/unfinishedReservation # endpoint za nedovrsenu rezervaciju
+

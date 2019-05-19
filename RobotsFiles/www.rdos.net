@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /privat
+Disallow: /privat2
+Disallow: /privat3
+Disallow: /privat4
+Disallow: /copies
+Disallow: /linnea
+Disallow: /ratepic
+Disallow: /neanderthal-psychology.htm
+Disallow: /LVU
+Disallow: /vc
+Disallow: /quote-of-the-day
+

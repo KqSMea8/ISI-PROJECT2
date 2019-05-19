@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /download/
+Disallow: /?s=
+Disallow: /news/?s=
+Disallow: /megasearch.php
+Disallow: /*et_right_answer=
+Disallow: /news/wp-login.php
+Disallow: /wp-login.php
+Disallow: /*?to=
+Disallow: /*et_unset_right_answer=
+Disallow: /*replytocom=
+Disallow: /*et_comment_like=
+Disallow: /*et_comment_dislike=
+Disallow: /goout.php
+Disallow: /out.php
+Disallow: /gooutd.php
+Disallow: /send_page_popup.php
+Disallow: /postauthor/
+Disallow: /news/postauthor/
+Disallow: /newsletter/
+Disallow: /disallow/
+Disallow: /download-*.html
+Disallow: /download/*.exe
+Disallow: /download-*.exe
+
+Sitemap: https://usunwirusa.pl/sitemap.xml
+

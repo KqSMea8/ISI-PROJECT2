@@ -1,0 +1,22 @@
+User-agent: *
+Sitemap: http://www.ukrainehotelsonline.com/sitemap.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemapru.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemapde.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemapfr.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemapit.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemapes.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemappl.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemapua.xml
+Sitemap: http://www.ukrainehotelsonline.com/sitemaptr.xml
+Disallow: /cgi-bin
+Disallow: /backups
+Disallow: /errors
+Disallow: /logs
+Disallow: /.htgroup
+Disallow: /.htpasswd
+Disallow: /bho.sql
+Disallow: /ukrainehotelsonline.sql.org
+Disallow: /backform/contact_en.php
+Disallow: /backform/contact_ru.php
+Host: www.ukrainehotelsonline.com
+

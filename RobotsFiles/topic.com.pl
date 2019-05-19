@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /presta2/
+Disallow: /presta3/
+Disallow: /presta4/
+Disallow: /presta5/
+Disallow: /presta6/
+Disallow: /presta7/
+Disallow: /presta8/
+Disallow: /presta9/
+Disallow: /presta10/
+Disallow: /presta20/
+Disallow: /presta2del/
+Disallow: /d2/
+Disallow: /p21/
+Disallow: /de/
+Disallow: /presta_28022017/
+Disallow: /prestaold/
+Disallow: /prestaxxx/
+Disallow: /d/
+Disallow: /oscom2/
+Disallow: /oscom2x/
+

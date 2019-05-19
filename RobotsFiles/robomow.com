@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /*-2014
+Disallow: /nl-NL/14531/
+Disallow: /*/brazil-vs-colombia/
+Disallow: /*/comparison/
+Disallow: /*roboair
+Disallow: /*robowow
+Disallow: /*road-to-berlin
+Disallow: /*?service
+Disallow: */comparison/*

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /content/
+Disallow: /download/
+Disallow: /play/
+Disallow: /campagnes/
+Disallow: /hand-replayer_*
+Disallow: *print=true
+Disallow: *review=summary
+Disallow: /promotions/
+Disallow: /ajax/poker-industry/juicy-games
+Disallow: /*searchString=
+Disallow: /*search=
+Disallow: /runto/
+Disallow: /external-bonus/
+Disallow: /market-pulse/
+Disallow: /admin

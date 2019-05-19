@@ -1,0 +1,25 @@
+# Rules
+User-agent: *
+Disallow: */_layouts/*tibp/
+Disallow: */_layouts/*Tibp/
+Disallow: *.ashx
+Disallow: *search.aspx
+Disallow: *login.aspx
+Disallow: */usermanagement/
+Disallow: */mypage/
+Disallow: */my-page/
+Allow: */_layouts/*tibp/*.js
+Allow: */_layouts/*tibp/*.css
+Allow: */_layouts/*tibp/*.jpg
+Allow: */_layouts/*tibp/*.png
+Allow: */_layouts/*tibp/*.svg
+Allow: */_layouts/*Tibp/*.js
+Allow: */_layouts/*Tibp/*.css
+Allow: */_layouts/*Tibp/*.jpg
+Allow: */_layouts/*Tibp/*.png
+Allow: */_layouts/*Tibp/*.svg
+Allow: */_layouts/*Tibp/Search/ImageHandler.ashx?*
+Allow: */_layouts/*tibp/Search/ImageHandler.ashx?*
+Allow: */downloads/pages/search.aspx
+Allow: */downloads/Pages/search.aspx
+

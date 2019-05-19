@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /icms
+Disallow: /oferta
+Disallow: /js/icms
+Disallow: /css/icms
+Disallow: /store/*
+Disallow: /fpa/*
+Disallow: /tv
+Disallow: /esz

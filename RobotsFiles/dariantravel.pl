@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+Disallow: /.htaccess
+Disallow: /license.txt
+Disallow: /readme.html
+Disallow: */trackback/
+Disallow: /wp-admin/
+Disallow: /wp-content/languages/
+Disallow: /wp-content/mu-plugins/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-includes/
+Disallow: /wp-*.php
+Disallow: /xmlrpc.php
+Disallow: /estat/
+Disallow: /page/
+Disallow: /darian/
+Disallow: /gallery/
+Disallow: /images/
+Disallow: /img.dariantravel.pl/
+Disallow: /uploads/

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow:   /_vti_bin/
+Disallow:   /clienthelp/
+Disallow:   /exchweb/
+Disallow:   /remote/
+Disallow:   /tsweb/
+Disallow:   /aspnet_client/
+Disallow:   /images/
+Disallow:   /_private/
+Disallow:   /_vti_cnf/
+Disallow:   /_vti_log/
+Disallow:   /_vti_pvt/
+Disallow:   /_vti_script/
+Disallow:   /_vti_txt/
+Disallow: /badbottrap/
+Disallow: /guestbookspamtrap/

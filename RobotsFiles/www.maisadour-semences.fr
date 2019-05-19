@@ -1,0 +1,27 @@
+#----------------------------------------------------------------------#
+# robots.txt  -- Template for controling visits by robots.             #
+#                                                                      #
+# Idea here is that a typical domain will have one or more of the      #
+# following subdirectories present (minimally, gif (old), or images    #
+# (present and future), and we want to keep robots out of them.  The   #
+# beta, temp, and test directories are just that; statistics may       #
+# contain stuff related to site usage which shouldn't be indexed by    #
+# robots.                                                              #
+#----------------------------------------------------------------------#
+User-agent: *             # directed at all robots
+Disallow: /cgi-bin        # no access to cgi-bin
+Disallow: /cfusion        # no access to cfusion
+Disallow: /statistics     # no access to statistics subdirectory
+Disallow: /beta           # no access to beta subdirectory
+Disallow: /temp           # no access to temp subdirectory
+Disallow: /test           # no access to test subdirectory
+#Disallow: /images         # access to images =on veut que google indexe
+Disallow: /gif            # no access to gif subdirectory
+Disallow: /.stats
+Disallow: /download
+Disallow: /global/new-index.php
+
+# http://moz.com/products
+User-agent: dotbot
+Disallow: /
+

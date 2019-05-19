@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /results.aspx
+Disallow: /item.aspx
+Disallow: /marketplace/results.aspx
+Disallow: /marketplace/item.aspx
+User-agent: Googlebot
+Disallow: /results.aspx
+Disallow: /item.aspx
+Disallow: /marketplace/results.aspx
+Disallow: /marketplace/item.aspx

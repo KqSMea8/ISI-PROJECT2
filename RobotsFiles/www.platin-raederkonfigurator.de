@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--
+/**
+* jfnetwork GmbH - Consulting & Technologies
+* Ritterstr. 11-17
+* 97318 Kitzingen
+* www.jfnet.de
+*/
+-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Platin Raderkonfigurator</title>
+<script type="text/javascript" src="/js/default.js?r=5ca34d14868d4"></script>
+<link href="/css/default.css?r=5ca34d14868d4" rel="stylesheet" type="text/css">
+<link href="/css/black.css?r=5ca34d14868d4" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajaxPath = "\/ajax", cdnPathImages = "\/\/cdn.raederkonfigurator.pneu.com\/pneu\/", cdnPathLogosWheels = "\/\/cdn.raederkonfigurator.pneu.com\/wheellogos\/", cdnPathLogosTyres = "\/\/cdn.raederkonfigurator.pneu.com\/tyrelogos\/", cdnPathLabels = "\/\/cdn.raederkonfigurator.pneu.com\/label\/", cdnPathCarPerspective = "\/\/cdn.raederkonfigurator.pneu.com\/carPerspective\/", cdnPathCars = "\/\/cdn.raederkonfigurator.pneu.com\/cars\/";
+priceModule.mode = 0;
+priceModule.priceSelector = false;
+priceModule.currencySymbol = "\u20ac";
+priceModule.priceSelectorRendered[priceModule.MODE_CALC_PURCHASE_PRICE] = "";
+priceModule.priceSelectorRendered[priceModule.MODE_CALC_RETAIL_PRICE] = "";
+/* ]]> */
+</script>
+</head>
+<body>
+<div id="shadow">
+<div id="container">
+<div id="border">
+<div class="top column">
+<div id="langContainer"></div>
+<a href="/"><img class="logo" src="/images/logoPlatin.png" alt="Logo" /></a>
+<a class="tip-bottom menu active" href="/robots.txt/complete/" title="KEY::INDEX-TAB-COMPLETE-TIP"><img src="/images/menuComplete.png" /></a><a class="tip-bottom menu" href="/robots.txt/wheels/" title="KEY::INDEX-TAB-WHEELS-ONLY-TIP"><img src="/images/menuWheels.png" /></a><a class="tip-bottom menu" href="/robots.txt/tyres/" title="KEY::INDEX-TAB-TYRES-ONLY-TIP"><img src="/images/menuTyres.png" /></a><a class="tip-bottom menu" href="/robots.txt/certs/" title="KEY::INDEX-TAB-CERT-TIP"><img src="/images/menuCerts.png" /></a>					</div>
+<div class="middle column">
+<div class="nav"><div class="boundary"><div class="active">1.&nbsp;KEY::INDEX-NAV-CAR</div><div class="inactive">2.&nbsp;KEY::INDEX-NAV-WHEEL</div><div class="inactive">3.&nbsp;KEY::INDEX-NAV-TYRE</div><div class="inactive">4.&nbsp;KEY::INDEX-NAV-CART</div></div></div><script type="text/javascript" src="/js/cars.js?r=5ca34d14868d4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+
+var lang = {"notfound":"KEY::CARS-CAR-NOTFOUND","notlongenough":"KEY::CARS-NOTLONGENOUGH","carSearchB":"KEY::CARS-SEARCH-T","carSearchT":"KEY::CARS-SEARCH-B"};
+
+var carsSearchCoc = {"AT":{"carsSearchSettingsCountryName":"Austria","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSAT_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-AT"},"CH":{"carsSearchSettingsCountryName":"Schweiz","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSCH_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-CH"},"CZ":{"carsSearchSettingsCountryName":"\u010cesky","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSCZ_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-CZ"},"ES":{"carsSearchSettingsCountryName":"Espa\u00f1ol","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSES_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-ES"},"FR":{"carsSearchSettingsCountryName":"France","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSFR_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-FR"},"HR":{"carsSearchSettingsCountryName":"Hrvatski","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSHR_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-HR"},"LU":{"carsSearchSettingsCountryName":"Luxemburg","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSLU_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-LU"},"NL":{"carsSearchSettingsCountryName":"Nederlands","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSNL_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-NL"},"PL":{"carsSearchSettingsCountryName":"Polska","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSPL_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-PL"},"RO":{"carsSearchSettingsCountryName":"Romania","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSRO_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-RO"},"SI":{"carsSearchSettingsCountryName":"Sloven\u0161\u010dina","carsSearchSettingsImage":"\/\/cdn.raederkonfigurator.pneu.com\/pneu\/CARSSEARCHSETTINGSSI_Dokument\/330x390-cc-xxxxxx.png","carsSearchSettingsNotice":"KEY::EG-NR-INFO-SI"}};
+
+function searchSwissIdSubmit(e){
+e.preventDefault();
+if (!$('.carsTable:visible').hasClass('ch')) return;
+$.fancybox.showLoading();
+$('input[name="r"]').val(
+"\/robots.txt\/complete\/swissId\/"				+ $('div#searchCar input[name=swissId]').val()
+);
+find();
+}
+
+function searchCocSubmit(e){
+e.preventDefault();
+if ($('#carsTable:visible').is('.de, .ch')) return;
+$.fancybox.showLoading();
+$('input[name="r"]').val(
+"\/robots.txt\/complete\/coc\/"				+ $('div#searchCar input:text').val().replace(/[\*]/g, '-M-').replace(/[\/]/g, '-S-')
+);
+find();
+}
+
+function search(hsn, tsn) {
+$.fancybox.showLoading();
+$('input[name="r"]').val(
+"\/robots.txt\/complete\/hsn\/"				+ hsn + '/' + tsn
+);
+find();
+}
+
+$(document).ready(function(){
+
+
+$("#carsCountrySelect").ddslick({
+data: [{"text":"KEY::COUNTRY-DE","value":"de","selected":true,"imageSrc":"\/images\/flags\/de.png"},{"text":"KEY::COUNTRY-AT","value":"at","selected":false,"imageSrc":"\/images\/flags\/at.png"},{"text":"KEY::COUNTRY-CH","value":"ch","selected":false,"imageSrc":"\/images\/flags\/ch.png"},{"text":"KEY::COUNTRY-CZ","value":"cz","selected":false,"imageSrc":"\/images\/flags\/cz.png"},{"text":"KEY::COUNTRY-ES","value":"es","selected":false,"imageSrc":"\/images\/flags\/es.png"},{"text":"KEY::COUNTRY-FR","value":"fr","selected":false,"imageSrc":"\/images\/flags\/fr.png"},{"text":"KEY::COUNTRY-HR","value":"hr","selected":false,"imageSrc":"\/images\/flags\/hr.png"},{"text":"KEY::COUNTRY-LU","value":"lu","selected":false,"imageSrc":"\/images\/flags\/lu.png"},{"text":"KEY::COUNTRY-NL","value":"nl","selected":false,"imageSrc":"\/images\/flags\/nl.png"},{"text":"KEY::COUNTRY-PL","value":"pl","selected":false,"imageSrc":"\/images\/flags\/pl.png"},{"text":"KEY::COUNTRY-RO","value":"ro","selected":false,"imageSrc":"\/images\/flags\/ro.png"},{"text":"KEY::COUNTRY-SI","value":"si","selected":false,"imageSrc":"\/images\/flags\/si.png"}],
+width: 200,
+imagePosition: "left",
+onSelected: function (data) {
+
+selectLand(data.selectedData.value);
+
+}
+});
+
+$('div#searchCar div.button.coc button').click(searchCocSubmit);
+$('div#searchCar div.button.swissId button').click(searchSwissIdSubmit);
+$('div#searchCar #filterForm').submit(searchCocSubmit);
+});
+
+/* ]]> */
+</script>
+
+<p>KEY::CARS-SELCAR-TEASER</p>
+<div class="box single bLeft cars">
+<div class="top center">
+KEY::CARS-SELCAR-1-HEAD	</div>
+<div class="content center">
+<p>
+KEY::CARS-SELCAR-1-C1		</p>
+<p class="bold">
+KEY::CARS-SELCAR-1-C2		</p>
+<p>
+<select class="selector">
+<option value="/robots.txt/complete/normal/">&nbsp;</option>
+<option value="/robots.txt/complete/normal/ALFA ROMEO/">ALFA ROMEO</option><option value="/robots.txt/complete/normal/ALPINA/">ALPINA</option><option value="/robots.txt/complete/normal/ASTON MARTIN/">ASTON MARTIN</option><option value="/robots.txt/complete/normal/AUDI/">AUDI</option><option value="/robots.txt/complete/normal/BENTLEY/">BENTLEY</option><option value="/robots.txt/complete/normal/BMW/">BMW</option><option value="/robots.txt/complete/normal/BMW M/">BMW M</option><option value="/robots.txt/complete/normal/BORGWARD/">BORGWARD</option><option value="/robots.txt/complete/normal/BUGATTI/">BUGATTI</option><option value="/robots.txt/complete/normal/CADILLAC/">CADILLAC</option><option value="/robots.txt/complete/normal/CHEVROLET/">CHEVROLET</option><option value="/robots.txt/complete/normal/CHRYSLER/">CHRYSLER</option><option value="/robots.txt/complete/normal/CITROEN/">CITROEN</option><option value="/robots.txt/complete/normal/CUPRA/">CUPRA</option><option value="/robots.txt/complete/normal/DACIA/">DACIA</option><option value="/robots.txt/complete/normal/DAEWOO/">DAEWOO</option><option value="/robots.txt/complete/normal/DAIHATSU/">DAIHATSU</option><option value="/robots.txt/complete/normal/DALLARA/">DALLARA</option><option value="/robots.txt/complete/normal/DODGE/">DODGE</option><option value="/robots.txt/complete/normal/DS/">DS</option><option value="/robots.txt/complete/normal/FERRARI/">FERRARI</option><option value="/robots.txt/complete/normal/FIAT/">FIAT</option><option value="/robots.txt/complete/normal/FORD/">FORD</option><option value="/robots.txt/complete/normal/HONDA/">HONDA</option><option value="/robots.txt/complete/normal/HYUNDAI/">HYUNDAI</option><option value="/robots.txt/complete/normal/INFINITI/">INFINITI</option><option value="/robots.txt/complete/normal/ISUZU/">ISUZU</option><option value="/robots.txt/complete/normal/IVECO/">IVECO</option><option value="/robots.txt/complete/normal/JAGUAR/">JAGUAR</option><option value="/robots.txt/complete/normal/JEEP/">JEEP</option><option value="/robots.txt/complete/normal/KIA/">KIA</option><option value="/robots.txt/complete/normal/KTM/">KTM</option><option value="/robots.txt/complete/normal/LADA/">LADA</option><option value="/robots.txt/complete/normal/LAMBORGHINI/">LAMBORGHINI</option><option value="/robots.txt/complete/normal/LANCIA/">LANCIA</option><option value="/robots.txt/complete/normal/LAND ROVER/">LAND ROVER</option><option value="/robots.txt/complete/normal/LEXUS/">LEXUS</option><option value="/robots.txt/complete/normal/MAN/">MAN</option><option value="/robots.txt/complete/normal/MASERATI/">MASERATI</option><option value="/robots.txt/complete/normal/MAYBACH/">MAYBACH</option><option value="/robots.txt/complete/normal/MAZDA/">MAZDA</option><option value="/robots.txt/complete/normal/MCLAREN/">MCLAREN</option><option value="/robots.txt/complete/normal/MERCEDES-BENZ/">MERCEDES-BENZ</option><option value="/robots.txt/complete/normal/MG/">MG</option><option value="/robots.txt/complete/normal/MINI/">MINI</option><option value="/robots.txt/complete/normal/MITSUBISHI/">MITSUBISHI</option><option value="/robots.txt/complete/normal/NISSAN/">NISSAN</option><option value="/robots.txt/complete/normal/OPEL/">OPEL</option><option value="/robots.txt/complete/normal/PEUGEOT/">PEUGEOT</option><option value="/robots.txt/complete/normal/PONTIAC/">PONTIAC</option><option value="/robots.txt/complete/normal/PORSCHE/">PORSCHE</option><option value="/robots.txt/complete/normal/PROTON/">PROTON</option><option value="/robots.txt/complete/normal/RENAULT/">RENAULT</option><option value="/robots.txt/complete/normal/ROLLS-ROYCE/">ROLLS-ROYCE</option><option value="/robots.txt/complete/normal/ROVER/">ROVER</option><option value="/robots.txt/complete/normal/SAAB/">SAAB</option><option value="/robots.txt/complete/normal/SEAT/">SEAT</option><option value="/robots.txt/complete/normal/SKODA/">SKODA</option><option value="/robots.txt/complete/normal/SMART/">SMART</option><option value="/robots.txt/complete/normal/SSANGYONG/">SSANGYONG</option><option value="/robots.txt/complete/normal/STREETSCOOTER/">STREETSCOOTER</option><option value="/robots.txt/complete/normal/SUBARU/">SUBARU</option><option value="/robots.txt/complete/normal/SUZUKI/">SUZUKI</option><option value="/robots.txt/complete/normal/TESLA/">TESLA</option><option value="/robots.txt/complete/normal/TOYOTA/">TOYOTA</option><option value="/robots.txt/complete/normal/VOLKSWAGEN/">VOLKSWAGEN</option><option value="/robots.txt/complete/normal/VOLVO/">VOLVO</option>			</select>
+</p>
+<p class="bold">
+KEY::CARS-SELCAR-1-C6		</p>
+<p>
+<select class="selector">
+<option value="">KEY::CARS-SELCAR-1-C4</option>			</select>
+</p>
+</div>
+</div>
+
+<div class="box double cars" id="searchCar">
+<form action="" method="post" id="filterForm">
+<div class="top" style="position: relative;">
+<input type="hidden" name="a" value="render" />
+<input type="hidden" name="r" value="/robots.txt/complete/normal/" />
+<div class="fLeft pRight">KEY::CARS-SELCAR-DOC-CAPTION</div>
+<div style="position: absolute; right: 130px; top: 1px;"><select id="carsCountrySelect"></select></div>
+
+</div>
+<div class="carsTable content center coc at cz es fr hr lu nl pl ro si" style="display: none;">
+<div id="searchCocImage" class="pl"></div>
+<span>&nbsp;</span>
+<input type="text" name="cocNumber" />
+<div class="button coc"><button type="button"><div class="image icon carBlack"></div>KEY::CARS-CAR-SEARCH</button></div>
+</div>
+<div class="carsTable content center swissId ch" style="display: none;">
+<div id="searchSwissIdImage" class="ch"></div>
+<span>&nbsp;</span>
+<input type="text" name="swissId" />
+<div class="button swissId"><button type="button"><div class="image icon carBlack"></div>KEY::CARS-CAR-SEARCH</button></div>
+</div>
+<div class="content de relative header">
+<div class="fLeft">KEY::CARS-SELCAR-HSN-VIA</div>
+<label>
+<input type="radio" name="hsnSearch" checked="checked" value="new" />
+KEY::CARS-SELCAR-HSN-VIA-NEW			</label>
+<label>
+<input type="radio" name="hsnSearch" value="old" />
+KEY::CARS-SELCAR-HSN-VIA-OLD			</label>
+</div>
+<div class="carsTable content center de relative footer new">
+<div class="searchCocImage"></div>
+<p>KEY::CARS-SELCAR-2-C2</p>
+<p>
+KEY::CARS-SELCAR-2-C3<input type="text" id="cars1zu2" /><br />
+KEY::CARS-SELCAR-2-C4<input type="text" id="cars1zu3" />
+</p>
+<div class="button"><button type="button" id="submit1"><div class="image icon carBlack"></div>KEY::CARS-CAR-SEARCH</button></div>
+</div>
+<div class="content center de relative footer old">
+<div class="searchCocImage"></div>
+<p>KEY::CARS-SELCAR-3-C2</p>
+<p>
+KEY::CARS-SELCAR-3-C3<input type="text" id="cars2zu2" /><br />
+KEY::CARS-SELCAR-3-C4<input type="text" id="cars2zu3" />
+</p>
+<div class="button"><button type="button" id="submit2"><div class="image icon carBlack"></div>KEY::CARS-CAR-SEARCH</button></div>
+</div>
+</form>
+</div>
+</div>
+<div class="bottom column">
+<div class="fLeft">
+</div>
+<div class="fRight">
+<a href="/robots.txt/contact/">KEY::INDEX-NAV-CONTACT</a> | <a href="/robots.txt/imprint/">KEY::INDEX-NAV-IMPRINT</a> | <a href="/robots.txt/privacy/">KEY::INDEX-NAV-PRIVACY</a> | <a href="/robots.txt/usage/">KEY::INDEX-NAV-USAGE</a>						</div>
+</div>
+</div>
+</div>
+</div>
+<div id="preStage"></div>
+<script>
+$('.tip-bottom').tipTip({position: 'bottom'});
+</script>
+</body>
+</html>
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /faq_categories/introduction/
+Disallow: /gallery/
+Disallow: /pages/
+Disallow: /ngg_tag/las-galeras/
+Disallow: /anatomia-szwindlu/
+Disallow: /na-psa-czarnego-urok/
+Disallow: /pietruszka-smierci/
+Disallow: /wyspa-taboga/
+Disallow: /dom-na-palach/

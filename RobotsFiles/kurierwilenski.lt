@@ -1,0 +1,8 @@
+Sitemap: https://kurierwilenski.lt/sitemap.xml
+Sitemap: https://kurierwilenski.lt/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://kurierwilenski.lt/sitemap.xml
+

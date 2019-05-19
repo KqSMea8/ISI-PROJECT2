@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /poland/citifinancial/
+Disallow: /onlineuatpl.citibank.pl/
+
+Sitemap: https://www.online.citibank.pl/sitemap.xml

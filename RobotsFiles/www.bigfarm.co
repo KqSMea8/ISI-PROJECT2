@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /swf/
+Disallow: /otrosjuegos/
+Disallow: /freegames/
+Disallow: /fb/
+Disallow: /banner-games/
+Sitemap: http://www.bigfarm.co/sitemap.xml

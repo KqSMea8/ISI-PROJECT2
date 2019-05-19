@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin
+Disallow: /classes
+Disallow: /config
+Disallow: /gallery
+Disallow: /inc_sito
+Disallow: /ui
+Disallow: /conf
+Disallow: /img_sito
+Disallow: /config
+
+Sitemap: http://www.ferrerolegnoporte.it/sitemap_ita.xml
+Sitemap: http://www.ferrerolegno.com/sitemap_eng.xml
+Sitemap: http://www.ferrerolegno.cz/sitemap_cze.xml
+Sitemap: http://www.ferrerolegno.fr/sitemap_fra.xml
+Sitemap: http://www.ferrerolegno.de/sitemap_deu.xml
+Sitemap: http://www.ferrerolegno.es/sitemap_esp.xml
+Sitemap: http://www.ferrerolegno.pl/sitemap_pol.xml
+Sitemap: http://www.ferrerolegno.ru/sitemap_rus.xml

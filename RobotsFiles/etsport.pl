@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /oproznij_koszyk
+Disallow: /wyloguj
+Disallow: /zamawiam
+Disallow: /lista_uzytkownikow
+Disallow: /szukaj
+Disallow: /moje_dane
+Allow: /
+Disallow: /big
+Disallow: /image
+Disallow: /zapomnialem_hasla
+Disallow: /cart_products
+Disallow: /thumb
+Disallow: /zadaj_pytanie
+Disallow: /zaloguj
+Disallow: /small_thumb
+Disallow: /medium
+Disallow: /detailed_transactions_list
+Disallow: /zmiana_hasla
+Disallow: /polecane
+Disallow: /promocje
+Disallow: /comments/new
+

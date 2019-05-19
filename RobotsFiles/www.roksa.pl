@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /inc/
+Disallow: /external/
+Sitemap: https://www.roksa.pl/sitemapindex.xml
+

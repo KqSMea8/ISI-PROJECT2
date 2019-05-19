@@ -1,0 +1,9 @@
+# Crawlers Setup
+User-agent: *
+Disallow: /control/
+
+Disallow: /captcha/
+
+
+Sitemap: https://www.apertoshop.de/sitemap.xml
+

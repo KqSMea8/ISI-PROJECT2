@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /blocks
+Disallow: /concrete
+Disallow: /config
+Disallow: /controllers
+Disallow: /css
+Disallow: /elements
+Disallow: /helpers
+Disallow: /jobs
+Disallow: /js
+Disallow: /languages
+Disallow: /libraries
+Disallow: /mail
+Disallow: /models
+Disallow: /packages
+Disallow: /page_types
+Disallow: /single_pages
+Disallow: /tools
+Disallow: /index.php/tools
+Disallow: /updates
+
+Sitemap: http://salonynoma.pl/sitemap.xml
+

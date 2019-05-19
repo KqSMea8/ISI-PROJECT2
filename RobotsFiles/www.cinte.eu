@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /imgages/
+Disallow: /style/
+Sitemap: http://www.cinte.eu/sitemap-d7a6d7db0d8fb0377bcc245a1e35353f.txt
+

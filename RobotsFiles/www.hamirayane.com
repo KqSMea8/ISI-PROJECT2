@@ -1,0 +1,23 @@
+User-Agent: *
+Disallow: /App_Data/
+Disallow: /data/
+Disallow: /inc/
+Allow: /
+Sitemap: http://www.hamirayane.com/sitemap/culture.xml
+Sitemap: http://www.hamirayane.com/sitemap/quran.xml
+Sitemap: http://www.hamirayane.com/sitemap/download.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/fa.xml
+Sitemap: http://www.hamirayane.com/sitemap/shop.xml
+Sitemap: http://www.hamirayane.com/sitemap/ebook.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/ar.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/ru.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/ko.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/de.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/jp.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/zh.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/pl.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/fr.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/it.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/tr.xml
+Sitemap: http://www.hamirayane.com/sitemap/download/es.xml
+

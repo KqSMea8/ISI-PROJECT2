@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /broszura/
+Disallow: /regulamin/
+Disallow: /formularz/
+Disallow: /vip/
+Disallow: /wideo/
+Disallow: /animacja/
+Disallow: /zdjecia/
+Disallow: /file/
+Disallow: /eBroszura_vPL_v9.pdf

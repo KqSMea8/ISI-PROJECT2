@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /rodzice/kalendarz-wydarzen/action~posterboard/
+Disallow: /rodzice/kalendarz-wydarzen/action~agenda/
+Disallow: /rodzice/kalendarz-wydarzen/action~oneday/
+Disallow: /rodzice/kalendarz-wydarzen/action~month/
+Disallow: /rodzice/kalendarz-wydarzen/action~week/
+Disallow: /rodzice/kalendarz-wydarzen/action~stream/
+Disallow: /rodzice/kalendarz-wydarzen/action~undefined/
+Disallow: /rodzice/kalendarz-wydarzen/action~http:/
+Disallow: /rodzice/kalendarz-wydarzen/action~default/
+Disallow: /rodzice/kalendarz-wydarzen/action~poster/
+Disallow: /rodzice/kalendarz-wydarzen/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

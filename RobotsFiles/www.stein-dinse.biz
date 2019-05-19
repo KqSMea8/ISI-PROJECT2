@@ -1,0 +1,315 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+# Slow down bots
+User-agent: *
+Crawl-delay: 10
+
+
+# Erstmal alle Bots untersagen
+User-agent: *
+Disallow: /
+
+# Diese Bots freischalten fur alles ausser die unten stehenden Verzeichnisse
+User-agent: googlebot
+User-agent: googlebot-image
+User-agent: googlebot-video
+User-agent: googlebot-mobile
+User-agent: adsbot-google
+User-agent: mediapartners-google
+User-agent: ia_archiver
+User-agent: yahoo-slurp
+User-agent: yahoo-mmcrawler
+User-agent: bingbot
+User-agent: bingpreview
+User-agent: msnbot-media
+User-agent: sistrix
+Disallow: /*XTCsid
+Disallow: /*action=
+Disallow: /*info_message=
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /cache_rsc/
+Disallow: /callback/
+Disallow: /download/
+Disallow: /eliste/eliste_bild.php
+Disallow: /eliste/eliste_artikel.php
+Disallow: /export/
+Disallow: /import/
+Disallow: /inc/
+Disallow: /includes/
+Disallow: /media/
+Disallow: /pub/
+Disallow: /shopstat/
+Disallow: /templates_c/
+Disallow: /account.php
+Disallow: /account_edit.php
+Disallow: /account_history.php
+Disallow: /account_history_info.php
+Disallow: /account_password.php
+Disallow: /address_book.php
+Disallow: /address_book_process.php
+Disallow: /advanced_search.php
+Disallow: /advanced_search_result.php
+Disallow: /checkout_confirmation.php
+Disallow: /checkout_iclear.php
+Disallow: /checkout_payment.php
+Disallow: /checkout_payment_address.php
+Disallow: /checkout_process.php
+Disallow: /checkout_shipping.php
+Disallow: /checkout_shipping_address.php
+Disallow: /checkout_success.php
+Disallow: /cookie_usage.php
+Disallow: /create_account.php
+Disallow: /create_guest_account.php
+Disallow: /display_vvcodes.php
+Disallow: /download.php
+Disallow: /google_sitemap.php
+Disallow: /gv_redeem.php
+Disallow: /gv_send.php
+Disallow: /login.php
+Disallow: /logoff.php
+Disallow: /newsletter.php
+Disallow: /password_double_opt.php
+Disallow: /popup_coupon_help.php
+Disallow: /popup_cvv.php
+Disallow: /popup_image.php
+Disallow: /popup_search_help.php
+Disallow: /print_order.php
+Disallow: /print_product_info.php
+Disallow: /product_reviews.php
+Disallow: /product_reviews_info.php
+Disallow: /product_reviews_write.php
+Disallow: /reviews.php
+Disallow: /send_order.php
+Disallow: /shopping_cart.php
+Disallow: /ssl_check.php
+Disallow: /wpcallback.php
+Disallow: /wsdl_iclear_order.php
+
+
+# Disallow: Sistrix
+User-agent: sistrix
+Disallow: /
+
+# Disallow: Sistrix
+User-agent: SISTRIX Crawler
+Disallow: /
+
+# Disallow: Sistrix
+User-agent: SISTRIX
+Disallow: /
+
+# Disallow: SEOkicks-Robot
+User-agent: SEOkicks-Robot
+Disallow: /
+
+# Disallow: jobs.de-Robot
+User-agent: jobs.de-Robot
+Disallow: /
+
+# Backlink Analysis
+user-agent: AhrefsBot
+disallow: /
+
+# Bot der Leipziger Unister Holding GmbH
+user-agent: UnisterBot
+disallow: /
+
+# http://moz.com/products
+User-agent: dotbot
+Disallow: /
+
+# http://www.searchmetrics.com
+User-agent: SearchmetricsBot
+Disallow: /
+
+# http://www.majestic12.co.uk/projects/dsearch/mj12bot.php
+User-agent: MJ12bot
+Disallow: /
+
+# http://www.domaintools.com/webmasters/surveybot.php
+User-agent: SurveyBot
+Disallow: /
+
+# http://www.seodiver.com/bot
+user-agent: SEOdiver
+disallow: /
+
+# http://openlinkprofiler.org/bot
+User-agent: spbot
+Disallow: /
+
+# http://www.wotbox.com/bot/
+User-agent: wotbox
+Disallow: /
+
+# http://www.opensiteexplorer.org/dotbot
+# http://moz.com/researchtools/ose/dotbot
+User-agent: dotbot
+Disallow: /
+
+# http://www.meanpath.com/meanpathbot.html
+User-agent: meanpathbot
+Disallow: /
+
+# http://www.backlinktest.com/crawler.html
+User-agent: BacklinkCrawler
+Disallow: /
+
+# http://www.brandwatch.com/magpie-crawler/
+User-agent: magpie-crawler
+Disallow: /
+
+# http://filterdb.iss.net/crawler/
+User-agent: oBot
+Disallow: /
+
+User-agent: fr-crawler
+Disallow: /
+
+# http://webmeup-crawler.com
+User-agent: BLEXBot
+Disallow: /
+
+# https://megaindex.com/crawler
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /
+
+# http://www.cloudservermarket.com
+User-Agent: CloudServerMarketSpider
+Disallow: /
+
+# http://www.trendiction.de/de/publisher/bot
+User-Agent: trendictionbot
+Disallow: /
+
+# http://www.exalead.com
+User-agent: Exabot
+Disallow: /
+
+# http://www.career-x.de/bot.html
+User-agent: careerbot
+Disallow: /
+
+# https://www.lipperhey.com/en/about/
+User-agent: Lipperhey-Kaus-Australis
+Disallow: /
+
+User-agent: seoscanners.net
+Disallow: /
+
+User-agent: MetaJobBot
+Disallow: /
+
+User-agent: Spiderbot
+Disallow: /
+
+User-agent: LinkStats
+Disallow: /
+
+User-agent: JobboerseBot
+Disallow: /
+
+User-agent: ICCrawler
+Disallow: /
+
+User-agent: Plista
+Disallow: /
+
+User-agent: Domain Re-Animator Bot
+Disallow: /
+
+# https://www.lipperhey.com/en/about/
+User-agent: Lipperhey-Kaus-Australis
+Disallow: /
+
+# https://turnitin.com/robot/crawlerinfo.html
+User-agent: turnitinbot
+Disallow: /
+
+# http://help.coccoc.com/
+User-agent: coccoc
+Disallow: /
+
+# ubermetrics-technologies.com
+User-agent: um-IC
+Disallow: /
+
+# datenbutler.de
+User-agent: mindUpBot
+Disallow: /
+
+# http://searchgears.de/uber-uns/crawling-faq.html
+User-agent: sg-Orbiter
+Disallow: /
+
+# http://commoncrawl.org/faq/
+User-agent: CCBot
+Disallow: /
+
+# https://www.qwant.com/
+User-agent: Qwantify
+Disallow: /
+
+# http://linkfluence.net/
+User-agent: Kraken
+Disallow: /
+
+# http://www.botje.com/plukkie.htm
+User-agent: plukkie
+Disallow: /
+
+# https://www.safedns.com/searchbot
+User-agent: SafeDNSBot
+Disallow: /
+
+# http://www.haosou.com/help/help_3_2.html
+User-agent: 360Spider
+Disallow: /
+
+# http://www.haosou.com/help/help_3_2.html
+User-agent: HaosouSpider
+Disallow: /
+
+# http://www.moz.com/dp/rogerbot
+User-agent: rogerbot
+Disallow: /
+
+# http://www.openhose.org/bot.html
+User-agent: OpenHoseBot
+Disallow: /
+
+# http://www.screamingfrog.co.uk/seo-spider/
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+# http://thumbsniper.com
+User-agent: ThumbSniper
+Disallow: /
+
+# http://www.radian6.com/crawler
+User-agent: R6_CommentReader
+Disallow: /
+
+User-agent: ImplisenseBot
+Disallow: /
+
+# http://cliqz.com/company/cliqzbot
+User-agent: Cliqzbot
+Disallow: /
+
+# https://www.aihitdata.com/about
+User-agent: aiHitBot
+Disallow: /
+
+# http://www.trendiction.com/en/publisher/bot
+User-Agent: trendictionbot
+Disallow: /
+
+# http://warebay.com/bot.html
+User-agent: WBSearchBot
+Disallow: /

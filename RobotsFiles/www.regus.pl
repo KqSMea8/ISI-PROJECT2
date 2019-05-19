@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /_Controls/
+Disallow: /_controls/
+Disallow: /Ajax.svc/
+Disallow: /ajax.svc/
+Disallow: /api/
+Disallow: /assets
+Disallow: /bundles/
+Disallow: /elq/
+Disallow: /files/
+Disallow: /Files/
+Disallow: /serviceagreement/
+Disallow: /Serviceagreement/
+Disallow: /thankyou*
+Disallow: /Thankyou*
+Disallow: /Zsys/
+Disallow: /zsys/
+Disallow: /*checkout-page*
+Disallow: /*confirmation-page*
+
+Sitemap: http://www.regus.pl/sitemap/sitemap.xml

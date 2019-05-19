@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /dunk/followers
+Disallow: /SouljaBoyTellem/followers
+Disallow: /facebook/app/
+Disallow: /internal/
+Disallow: /dashboard/
+Disallow: /organization/
+
+# Sitemap files
+Sitemap: https://video.ibm.com/sitemap.xml
+Sitemap: https://video.ibm.com/blog/sitemap.xml
+

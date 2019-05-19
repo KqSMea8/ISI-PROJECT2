@@ -1,0 +1,34 @@
+User-Agent: *
+Disallow: /russian/
+Disallow: /spanish/
+Disallow: /german/
+Disallow: /japanese/
+Disallow: /english/
+Disallow: /chinese/
+Disallow: /french/
+Disallow: /italian/
+Disallow: /esloader.php
+Disallow: /testbereich/
+Disallow: /en/testbereich/
+Disallow: /de/testbereich/
+Disallow: /us/testbereich/
+Disallow: /fr/testbereich/
+Disallow: /es/testbereich/
+Disallow: /jp/testbereich/
+Disallow: /it/testbereich/
+Disallow: /cn/testbereich/
+Disallow: /ru/testbereich/
+Disallow: /pl/testbereich/
+Sitemap: http://www.elektrisola.com/en/google-sitemap.html
+Sitemap: http://www.elektrisola.com/de/google-sitemap.html
+Sitemap: http://www.elektrisola.com/us/google-sitemap.html
+Sitemap: http://www.elektrisola.com/fr/google-sitemap.html
+Sitemap: http://www.elektrisola.com/es/google-sitemap.html
+Sitemap: http://www.elektrisola.com/jp/google-sitemap.html
+Sitemap: http://www.elektrisola.com/it/google-sitemap.html
+Sitemap: http://www.elektrisola.com/cn/google-sitemap.html
+Sitemap: http://www.elektrisola.com/ru/google-sitemap.html
+Sitemap: http://www.elektrisola.com/pl/google-sitemap.html
+Allow: /
+
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*print=1* # print pages
+Disallow: /*popup=1* # popup pages
+Disallow: /*zemelapis=rodyti* # map pages
+Disallow: /*zemelapis=slepti* # map pages
+Disallow: /*blok_rakt=1* # search pages
+Disallow: /senas/ # old version soon disappear
+Disallow: /*version=mobile* # mobile version
+Disallow: /TEST
+Sitemap: https://www.statyba.lt/sitemap.xml
+Crawl-delay: 5

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /home-old/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Disallow: */feed/
+Sitemap: http://www.karatelubaczow.pl/sitemap.xml

@@ -1,0 +1,11 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Refresh" content="0; url=http://www.kowart.pl/" />
+<link rel="stylesheet" type="text/css" href="http://kowart.pl/themes/kowart/css/layout.css?m=1499859862" />
+<link rel="stylesheet" type="text/css" href="http://kowart.pl/themes/kowart/css/form.css?m=1294658921" />
+</head>
+<body>
+</body>
+</html>
+

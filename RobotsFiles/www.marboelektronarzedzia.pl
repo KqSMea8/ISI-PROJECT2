@@ -1,0 +1,9 @@
+Sitemap: https://www.marboelektronarzedzia.pl/sitemap.xml
+User-agent: *
+Disallow: /awstats/
+Disallow: /admin/
+Disallow: /15.html
+Disallow: /test.html
+Disallow: /captcha
+Disallow: /email
+Disallow: /imemail

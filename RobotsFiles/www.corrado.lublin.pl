@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_img/
+Disallow: /_style/
+Disallow: /captchainc/
+Disallow: /cgi-bin/
+Disallow: /phpmailer/
+Disallow: /pliki/
+Disallow: /use/
+Disallow: /xeocms/

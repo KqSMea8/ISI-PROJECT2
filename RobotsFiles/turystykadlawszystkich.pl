@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /panel/
+Disallow: /imp_img/
+Disallow: /plima-0.5.2/
+Disallow: /phpmailer/
+Disallow: /formularze/
+Disallow: /g/
+Disallow: /g1/
+Disallow: /img_gas/
+Disallow: /img_kul/
+Disallow: /img_noc/
+Disallow: /img_par/
+Disallow: /img_spo/
+Disallow: /imp_szl/
+Disallow: /img_tra/
+Disallow: /img_tur/
+Disallow: /overlib/
+Disallow: /panel/
+Disallow: /poczta/
+Disallow: /private/
+Disallow: /pub/
+Disallow: /s1/
+Disallow: /s2/
+Disallow: /s3/
+Disallow: /s4/
+Disallow: /s5/
+Disallow: /d1/
+Disallow: /szlaki/
+Disallow: /tdw/
+Disallow: /tmp/
+Disallow: /twarze/
+Disallow: /imprezy_pttk/panel/
+Disallow: /imprezy_pttk/imp_img/
+Disallow: /imprezy_pttk/plima-0.5.2/
+Disallow: /imprezy_pttk/phpmailer/
+Disallow: /imprezy_pttk/formularze/
+
+
+

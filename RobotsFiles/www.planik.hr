@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /cms/
+Disallow: /download/
+Disallow: /fbox/
+Disallow: /images/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /lang/
+Disallow: /lib/
+Disallow: /mobile/
+Disallow: /seo/
+Disallow: /slike/
+Disallow: /booking_iframe.php

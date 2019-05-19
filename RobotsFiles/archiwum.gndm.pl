@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /logowanie/
+Disallow: /pl/logowanie/
+Disallow: /kontakt/
+Disallow: /pl/kontakt/
+Disallow: /allegro/
+Disallow: /pl/allegro/
+Disallow: /users/
+Disallow: /pl/users/
+Sitemap: http://archiwum.gndm.pl/sitemap.xml

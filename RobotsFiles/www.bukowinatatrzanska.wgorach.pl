@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /favicon.ico
+Disallow: /szukaj.php
+Disallow: /dodaj.php
+Disallow: /login.php
+Disallow: /kontakt.php
+Disallow: /wydarzenia.php?id=37
+Disallow: /wydarzenia.php?id=14
+Disallow: /wydarzenia.php?id=18

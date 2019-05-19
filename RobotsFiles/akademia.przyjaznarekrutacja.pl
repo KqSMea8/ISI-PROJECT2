@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /lekcja1.html
+Disallow: /lekcja2.html
+Disallow: /lekcja3.html
+Disallow: /lekcja4.html
+Disallow: /lekcja5.html
+Disallow: /lekcja6.html
+Disallow: /test.html
+Disallow: /test-no-iframe.html
+Disallow: /thank-you-page.html
+Disallow: /dziekujemy.html
+Disallow: /faq.html
+Disallow: /php/

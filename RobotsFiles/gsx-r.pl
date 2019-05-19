@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /moderation.php
+Disallow: /modcp.php
+Disallow: /ratethread.php
+Disallow: /report.php
+Disallow: /reputation.php
+Disallow: /sendthread.php
+Disallow: /usercp.php
+Disallow: /usercp2.php
+Disallow: /newreply.php
+Disallow: /newthread.php
+Disallow: /editpost.php
+Disallow: /private.php
+Disallow: /search.php
+Disallow: /memberlist.php
+Disallow: /showteam.php

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /gallery/
+Disallow: /img/
+Disallow: /js/
+Disallow: /style/
+Disallow: /tmp/
+Disallow: /include/
+Disallow: /send_cart.php
+Disallow: /files/

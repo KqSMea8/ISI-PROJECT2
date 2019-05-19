@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cache/
+Disallow: /pma/
+Disallow: /wp-config.php
+Disallow: /wp-admin/
+Disallow: /js/
+Disallow: /wp-includes/
+Disallow: *?replytocom
+Disallow: *?feed
+Allow: /

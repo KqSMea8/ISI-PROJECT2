@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /backup/
+Disallow: /backup_godziny/
+Disallow: /backup_index/
+Disallow: /gazetaK/
+Disallow: /gfx/
+Disallow: /script/
+Disallow: /styles/
+Disallow: /test/

@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /*?ses
+Disallow: /_
+Disallow: /drukuj/
+Disallow: /ajax/*
+Disallow: /forum/watek/752281,4325,1,fwid,fkid,fstr.html
+Disallow: /forum/watek/752281,4325,fwid,fkid.html
+Disallow: /firma/hydro-mat-s-c-alicja-hypki-i-krzysztof-hypki,1006599,t,id.html
+Disallow: /firma/dekaterm-uslugi-budowlane-piotr-dziubak,656311,t,id.html
+Disallow: /archiwum/tag/jacek-siewiera-wroclaw.html
+Disallow: /artykul/policja-szuka-16-letniej-pauliny-szymlet-z-poznania,1190729,art,t,id,tm.html
+Disallow: /tag/jabeka-beata-wieczorek.html
+Disallow: /tag/marian-berbesz-skazany.html
+Disallow: /tag/marian-berbesz.html
+Disallow: /artykul/philip-morris-international-inwestuje-w-przyszlosc,4754895,art,t,id,tm.html
+Disallow: /artykul/globalna-rewolucja-philip-morris-international,4814319,artgal,t,id,tm.html
+Disallow: /artykul/globalna-kariera-z-philip-morris-international,4852494,artgal,t,id,tm.html
+Disallow: /artykul/philip-morris-international-troszczy-sie-o-swoje-talenty,4905006,art,t,id,tm.html
+Disallow: /artykul/philip-morris-w-polsce-z-prestizowym-certyfikatem-rownych,4932734,art,t,id,tm.html*
+
+
+Disallow: /forum/watek/303645,4213,fwid,fkid.html
+Disallow: /kontakty_adresy/58502,grand-prestige-venecia-palace,id,t.html
+Disallow: /forum/post/zglos/303645,1653034,4213,fwid,fpid,fkid.html
+Disallow: /forum/post/zglos/303645,897486,4213,fwid,fpid,fkid.html
+Disallow: /forum/watek/380395,4213,fwid,fkid.html
+Disallow: /ogloszenie/krawat_wysylka_0zl,78425,czas_0,976,21000163,t,fm,so,pk,ido.html
+Disallow: /archiwum/dramat-w-nowoczesnym-szpitalu-w-polanicy-zdroju-zmarla-29,1907772,art,t,id,tm.html
+Disallow: /mieszkaniec/6692787/
+Disallow: /artykul/philip-morris-international-w-gronie-najlepszych,4657243,art,t,id,tm.html
+
+
+
+
+Sitemap: http://warszawa.naszemiasto.pl/sitemapa/
+Sitemap: http://warszawa.naszemiasto.pl/google_news/
+

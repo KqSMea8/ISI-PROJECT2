@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /1/Strona+g%C5%82%C3%B3wna
+Disallow: /1/strona-glowna
+Disallow: /2/O+nas
+Disallow: /3/Oferta
+Disallow: /1004/Elementy+myte%2C+zdejmowanie+farby
+Disallow: /1005/Rezonatory+ultrad%C5%BAwi%C4%99kowe+-+tubowe
+Disallow: /1006/Szafy+sterownicze
+Disallow: /1007/Zbiorniki+technologiczne
+Disallow: /1008/Zdejmowanie+farb
+Disallow: /1001/Aparatury+badawcze
+Disallow: /1002/Czysta+produkcja
+Disallow: /1003/Dezintegratory
+Disallow: /a
+Disallow: /content/
+Disallow: /component/
+Disallow: /enpel/
+
+Disallow: /czytaj/29
+Disallow: /czytaj/7
+Disallow: /czytaj/36
+Disallow: /czytaj/37

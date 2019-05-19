@@ -1,0 +1,498 @@
+
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=utf-8">
+<META HTTP-EQUIV="Content-Language" CONTENT="pl">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="expires" CONTENT="never">
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<META NAME="viewport" content="width=device-width, initial-scale=1, maximum-scale=1 user-scalable=yes">
+<META NAME="Keywords" CONTENT="UDS Poland">
+<META NAME="Description" CONTENT="UDS Poland">
+<META NAME="Robots" CONTENT="ALL">
+<META NAME="revisit-after" CONTENT="one day">
+<META NAME="distribution" CONTENT="Global">
+<base href="http://www.udspoland.com.pl/">
+<TITLE>UDS Poland</TITLE>
+<link type="text/css" rel="stylesheet" href="css/reset.css">
+<link type="text/css" rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="js/slick/slick-theme.css"/>
+<script type="text/javascript" src="js/cookies.js"></script>
+<script type="text/javascript" src="js/skrypty.js"></script>
+
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="js/slick/slick.min.js"></script>
+
+</head>
+
+
+<link type="text/css" rel="stylesheet" href="css/jquery.mmenu.css" />
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jQuery.mmenu/dist/core/js/jquery.mmenu.min.js"></script>
+
+<script type="text/javascript">
+$(function()
+{
+$('nav#menu').mmenu();
+});
+
+$('document').ready(function(){
+//     if ($.cookie('has_visited') != TRUE){
+$('#popup').trigger('click');
+//       $.cookie('has_visited', TRUE, { expires: 1 }); //this will set the cookie to expire after one day but you could make it longer
+});
+</script>
+
+
+<link rel="stylesheet" href="js/lightbox2/css/lightbox.css" type="text/css" media="screen" />
+
+
+<body>
+
+<div id="calosc">
+
+<div id="blok1">
+<div id="blok1a">
+<div id="blok1b"><img src="img/logo.jpg" border="0"></div>
+<div id="blok1c"><img src="img/1.jpg" align="absmiddle" style="margin-right: 5px;"><font class="n1c1">+48</font> <font class="n1c2">605 551 503</font><img src="img/2.jpg" align="absmiddle" style="margin: 0px 5px 0px 20px"><a href="mailto:udspoland@op.pl?subject=List ze strony www"><font class="n1c3">udspoland@op.pl</font></a></div>
+<div id="blok1c2"><font class="n1c1">Tel.: +48</font> <font class="n1c2">605 551 503</font><br><a href="mailto:udspoland@op?subject=List ze strony www"><font class="n1c3">E-mail: udspoland@op.pl</font></a></div>
+<div id="blok1d">
+<div id="menu_rwd">
+<div class="header"><a href="#menu"></a></div>
+
+<nav id="menu">
+<ul>
+
+
+<li><a href="./" class="menu_rwd">START</a></li>
+
+
+<li><a href="oferta_handlowa.html" class="menu_rwd">Oferta handlowa</a>
+
+
+<ul>
+
+
+<li><a href="uds_214_dla_budownictwa.html" class="menu_rwd">UDS 214 wersja dla budownictwa</a></li>
+
+
+<li><a href="uds_214_dla_strazy_pozarnej.html" class="menu_rwd">UDS 214 wersja dla strazy pozarnej</a></li>
+
+
+<li><a href="uds_211.html" class="menu_rwd">UDS 211</a></li>
+
+
+<li><a href="uds_232.html" class="menu_rwd">UDS 232</a></li>
+
+
+<li><a href="uos_155.html" class="menu_rwd">UOS 155</a></li>
+
+
+<li><a href="upv_r3000.html" class="menu_rwd">UPV R3000</a></li>
+
+
+<li><a href="maszyny_uzywane.html" class="menu_rwd">Maszyny uzywane</a></li>
+
+
+<li><a href="wyposazenie_dodatkowe.html" class="menu_rwd">Wyposazenie dodatkowe</a></li>
+
+
+</ul>
+
+
+</li>
+
+
+<li><a href="serwis_uds.html" class="menu_rwd">Serwis UDS</a>
+
+
+</li>
+
+
+<li><a href="czesci_zamienne.html" class="menu_rwd">Czesci zamienne</a>
+
+
+</li>
+
+
+<li><a href="kontakt.html" class="menu_rwd">Kontakt</a>
+
+
+</li>
+
+
+</ul>
+</nav>
+</div>
+
+<div>
+<ul class="nav-bar">
+
+
+<li><a href="kontakt.html">Kontakt</a>
+
+
+
+
+</li>
+
+
+<li><a href="czesci_zamienne.html">Czesci zamienne</a>
+
+
+
+
+</li>
+
+
+<li><a href="serwis_uds.html">Serwis UDS</a>
+
+
+
+
+</li>
+
+
+<li><a href="oferta_handlowa.html">Oferta handlowa</a>
+
+
+
+
+<ul>
+
+
+<li><a href="uds_214_dla_budownictwa.html">UDS 214 wersja dla budownictwa</a>
+
+
+</li>
+
+
+<li><a href="uds_214_dla_strazy_pozarnej.html">UDS 214 wersja dla strazy pozarnej</a>
+
+
+</li>
+
+
+<li><a href="uds_211.html">UDS 211</a>
+
+
+</li>
+
+
+<li><a href="uds_232.html">UDS 232</a>
+
+
+</li>
+
+
+<li><a href="uos_155.html">UOS 155</a>
+
+
+</li>
+
+
+<li><a href="upv_r3000.html">UPV R3000</a>
+
+
+</li>
+
+
+<li><a href="maszyny_uzywane.html">Maszyny uzywane</a>
+
+
+</li>
+
+
+<li><a href="wyposazenie_dodatkowe.html">Wyposazenie dodatkowe</a>
+
+
+</li>
+
+
+</ul>
+
+
+</li>
+
+
+<li><a href="" class="_activeb">START</a></li>
+
+
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div id="blok2">
+<body style="padding:0px; margin:0px; background-color:#fff;font-family:'MyWebFont', Arial">
+
+<!-- #region Jssor Slider Begin -->
+<!-- Generated by Jssor Slider Maker Online. -->
+<!-- This demo works with jquery library -->
+
+<script type="text/javascript" src="js/jQuery.jssor-slider/jssor.slider.mini.js"></script>
+<!-- use jssor.slider.debug.js instead for debug -->
+<script>
+jQuery(document).ready(function ($) {
+
+var jssor_1_SlideoTransitions = [
+[{b:0,d:600,y:0,e:{y:27}}],
+[{b:0,d:600,y:0,e:{y:27}}],
+[{b:0,d:600,y:0,e:{y:27}}]
+];
+
+var jssor_1_options = {
+$AutoPlay: true,
+$Idle: 4000,
+$CaptionSliderOptions: {
+$Class: $JssorCaptionSlideo$,
+$Transitions: jssor_1_SlideoTransitions,
+$Breaks: [
+[{d:2000,b:1000}]
+]
+},
+$ArrowNavigatorOptions: {
+$Class: $JssorArrowNavigator$
+},
+$BulletNavigatorOptions: {
+$Class: $JssorBulletNavigator$
+}
+};
+
+var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+//responsive code begin
+//you can remove responsive code if you don't want the slider scales while window resizing
+function ScaleSlider() {
+var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+if (refSize) {
+refSize = Math.min(refSize, 1600);
+jssor_1_slider.$ScaleWidth(refSize);
+}
+else {
+window.setTimeout(ScaleSlider, 30);
+}
+}
+ScaleSlider();
+$(window).bind("load", ScaleSlider);
+$(window).bind("resize", ScaleSlider);
+$(window).bind("orientationchange", ScaleSlider);
+//responsive code end
+});
+</script>
+
+<style>
+
+/* jssor slider bullet navigator skin 01 css */
+/*
+.jssorb01 div           (normal)
+.jssorb01 div:hover     (normal mouseover)
+.jssorb01 .av           (active)
+.jssorb01 .av:hover     (active mouseover)
+.jssorb01 .dn           (mousedown)
+*/
+.jssorb01 {
+position: absolute;
+}
+.jssorb01 div, .jssorb01 div:hover, .jssorb01 .av {
+position: absolute;
+/* size of bullet elment */
+width: 12px;
+height: 12px;
+filter: alpha(opacity=70);
+opacity: .7;
+overflow: hidden;
+cursor: pointer;
+border: #000 1px solid;
+}
+.jssorb01 div { background-color: gray; }
+.jssorb01 div:hover, .jssorb01 .av:hover { background-color: #d3d3d3; }
+.jssorb01 .av { background-color: #fff; }
+.jssorb01 .dn, .jssorb01 .dn:hover { background-color: #555555; }
+
+/* jssor slider arrow navigator skin 02 css */
+/*
+.jssora02l                  (normal)
+.jssora02r                  (normal)
+.jssora02l:hover            (normal mouseover)
+.jssora02r:hover            (normal mouseover)
+.jssora02l.jssora02ldn      (mousedown)
+.jssora02r.jssora02rdn      (mousedown)
+*/
+.jssora02l, .jssora02r {
+display: block;
+position: absolute;
+/* size of arrow element */
+width: 55px;
+height: 55px;
+cursor: pointer;
+background: url('img/a02.png') no-repeat;
+overflow: hidden;
+}
+.jssora02l { background-position: -3px -33px; }
+.jssora02r { background-position: -63px -33px; }
+.jssora02l:hover { background-position: -123px -33px; }
+.jssora02r:hover { background-position: -183px -33px; }
+.jssora02l.jssora02ldn { background-position: -3px -33px; }
+.jssora02r.jssora02rdn { background-position: -63px -33px; }
+</style>
+
+<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1600px; height: 550px; overflow: hidden; visibility: hidden;">
+<!-- Loading Screen -->
+
+<div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+<div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+<div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+</div>
+
+<div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1600px; height: 550px; overflow: hidden;">
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/204d1354f43e9239eb0a4d7e17e16503.jpg" />
+
+
+<div data-u="caption" data-t="0" style="position: relative; top: 210px; margin: 0 auto; width: 1200px; height: 150px; background-color: rgba(255,255,255,0.2); font-size: 20px; color: #ffffff; line-height: 30px; text-align: center;"><font class="banner_napis1">AUTORYZOWANY DEALER</font><br><font class="banner_napis2">KOPAREK UDS</font></div>
+
+</div>
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/f4da0eccc2092a568e54d96254bd4670.jpg" />
+
+
+<div data-u="caption" data-t="0" style="position: relative; top: 210px; margin: 0 auto; width: 1200px; height: 150px; background-color: rgba(255,255,255,0.2); font-size: 20px; color: #ffffff; line-height: 30px; text-align: center;"><font class="banner_napis1">UDS 232</font><br><font class="banner_napis2"></font></div>
+
+</div>
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/d2a8a1b174726d32839b789c1737de83.jpg" />
+
+
+<div data-u="caption" data-t="0" style="position: relative; top: 210px; margin: 0 auto; width: 1200px; height: 150px; background-color: rgba(255,255,255,0.2); font-size: 20px; color: #ffffff; line-height: 30px; text-align: center;"><font class="banner_napis1">SERWIS I CZESCI ZAMIENNE UDS</font><br><font class="banner_napis2"></font></div>
+
+</div>
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/c76ac2a34e86c2e374b5656023abfb40.jpg" />
+
+
+<div data-u="caption" data-t="0" style="position: relative; top: 210px; margin: 0 auto; width: 1200px; height: 150px; background-color: rgba(255,255,255,0.2); font-size: 20px; color: #ffffff; line-height: 30px; text-align: center;"><font class="banner_napis1">UDS 211 - wyburzarka kadzi odlewniczych</font><br><font class="banner_napis2"></font></div>
+
+</div>
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/d209c15fb7f707e0a9b45523676b6059.jpg" />
+
+</div>
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/a57e10c0edfc47570384dfc61608e0c0.jpg" />
+
+</div>
+
+
+<div data-p="112.50" style="display: none;">
+<img data-u="image" src="Media/Banner/17c809cea9e41d5b2b28348683ec6a80.jpg" />
+
+
+<div data-u="caption" data-t="0" style="position: relative; top: 210px; margin: 0 auto; width: 1200px; height: 150px; background-color: rgba(255,255,255,0.2); font-size: 20px; color: #ffffff; line-height: 30px; text-align: center;"><font class="banner_napis1">UOS 155 - z wojskowym rodowodem</font><br><font class="banner_napis2"></font></div>
+
+</div>
+
+
+</div>
+<!-- Bullet Navigator -->
+<div data-u="navigator" class="jssorb01" style="bottom:16px;right:16px;">
+<div data-u="prototype" style="width:12px;height:12px;"></div>
+</div>
+<!-- Arrow Navigator -->
+<span data-u="arrowleft" class="jssora02l" style="top:0px;left:8px;width:55px;height:55px;" data-autocenter="2"></span>
+<span data-u="arrowright" class="jssora02r" style="top:0px;right:8px;width:55px;height:55px;" data-autocenter="2"></span>
+</div>
+
+<!-- #endregion Jssor Slider End -->
+</div>
+<div id="blok3"><font class="n3a">Autoryzowany Dealer slowackiej fabryki <span class="n3b">CSM Industry s.r.o.</span></font>
+<br><font class="n3a">producenta m.in. koparek teleskopowych typu UDS.</font></div>
+
+
+<div id="blok4_start">
+
+<p class="naglowek" style="text-align: center;"><br /><span style="text-align: left;">WITAMY NA NASZEJ STRONIE INTERNETOWEJ</span></p>
+<p style="text-align: center;">Jako autoryzowany dealer slowackiej fabryki CSM Industry s.r.o., producenta m.in. koparek teleskopowych typu UDS, <br />mamy przyjemnosc przedstawic Panstwu wyroby finalne fabryki.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Koparki UDS od wielu lat obecne sa na polskim rynku, zdobyly uznanie dzieki swojej niezawodnosci i uniwersalnosci.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Liczne zalety tych koparek potwierdzaja ich uzytkownicy. My postaramy sie, abys Ty do nich dolaczyl.</p>
+<p style="text-align: center;"> </p>
+<p class="naglowek" style="text-align: center;">PRZEKROJ NASZEJ OFERTY</p>
+<div class="tabela_srodek">
+<div class="tabela_start">
+<div class="tabela_start_naglowek">UDS 214</div>
+<div><a href="uds_214_dla_budownictwa.html"><img src="Media/Grafika/start1.jpg" alt="" width="" /></a></div>
+</div>
+<div class="tabela_start">
+<div class="tabela_start_naglowek">UDS 211</div>
+<div><a href="uds_211.html"><img src="Media/Grafika/start2.jpg" alt="" width="" /></a></div>
+</div>
+<div class="tabela_start">
+<div class="tabela_start_naglowek">UDS 232</div>
+<div><a href="uds_232.html"><img src="Media/Grafika/start3.jpg" alt="" width="" /></a></div>
+</div>
+</div>
+<div style="clear: both;"> </div>
+<div class="tabela_srodek">
+<div class="tabela_start">
+<div class="tabela_start_naglowek">UOS 155</div>
+<div><a href="uos_155.html"><img src="Media/Grafika/start4.jpg" alt="" width="" /></a></div>
+</div>
+<div class="tabela_start">
+<div class="tabela_start_naglowek">UPV R3000</div>
+<div><a href="upv_r3000.html"><img src="Media/Grafika/start5.jpg" alt="" width="" /></a></div>
+</div>
+<div class="tabela_start">
+<div class="tabela_start_naglowek">MASZYNY UZYWANE</div>
+<div><a href="maszyny_uzywane.html"><img src="Media/Grafika/start6.jpg" alt="" width="" /></a></div>
+</div>
+</div>
+<div style="clear: both;"> </div></div>
+
+<div id="blok5">
+<div id="blok5_tresc">
+
+<div id="stopka">
+<div id="stopka1">
+<p class="stopka"><img src="Media/Grafika/logo.jpg" alt="" /><br />Autoryzowany Dealer i Serwis Koparek UDS<br /><br />44-230 Czerwionka-Leszczyny, ul. Lesna 11 <br />tel. kom. 0048-605-551-503 <br />tel. kom. 0048-578-434-488 <br />e-mail: <a href="mailto:udspoland@op.pl">udspoland@op.pl</a><br /><br /></p>
+</div>
+<div id="stopka2"><a href="http://www.uds.sk/" target="_blank"><img style="float: right;" src="Media/Grafika/csm-logo.jpg" alt="" /></a></div>
+</div>
+<div style="clear: both"></div>
+
+<div id="stopkab">
+<div id="stopka1"><a href="polityka_plikow_cookies.html"><font style="font-size: 13px; color: #ffffff">Polityka plikow cookies</font></a></div>
+<div id="stopka2" style="text-align: right"><font style="font-size: 13px; color: #ffffff">&copy; udspoland.com.pl</font></div>
+</div>
+
+</div>
+</div>
+
+</div>
+
+
+<script src="js/lightbox2/js/lightbox.js"></script>
+
+
+</body>
+</html>

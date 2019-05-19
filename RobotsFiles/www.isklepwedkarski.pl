@@ -1,0 +1,23 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+User-agent: *
+Disallow: /admin
+Disallow: /*/p/mail/recommend
+Disallow: /*/p/q
+Disallow: /*/pl/p/q
+Allow: /environment/cache/images
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+Disallow: /*/fav/add
+Disallow: /*/p/comment/add
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/basket
+Disallow: /*/searchquery
+Disallow: /*powiadom_znajomego
+Disallow: /pl_PL
+Allow: /
+

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /index.php
+Disallow: /w/
+Disallow: /*&
+Disallow: /index.php/Help
+Disallow: /index.php/MediaWiki
+Disallow: /index.php/Special:
+Disallow: /index.php/Template
+Disallow: /skins/
+Disallow: /fot/
+Disallow: /list.htm

@@ -1,0 +1,57 @@
+# SITEMAP.XML - MUST BE FILLED, OR DELETE IT
+Sitemap: http://artmetic.pl/sitemap.xml
+
+# USER-AGENT
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+
+# DO NOT INDEX DUPLICATE POSTS, COMMENTS AND TRACKBACKS
+Allow: /feed/$
+Disallow: /feed
+Disallow: /comments/feed
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/$
+Disallow: /*/trackback/$
+Disallow: /*/*/feed/$
+Disallow: /*/*/feed/rss/$
+Disallow: /*/*/trackback/$
+Disallow: /*/*/*/feed/$
+Disallow: /*/*/*/feed/rss/$
+Disallow: /*/*/*/trackback/$
+Disallow: /?s=
+Disallow: /search
+
+User-agent: Googlebot
+
+# DO NOT INDEX FILES WITH THIS EXTENSIONS
+Allow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+Disallow: /*?*
+Disallow: /*.txt$
+
+# ALLOW ADSENSE BOT (OPTIONAL)
+User-agent: Mediapartners-Google*
+Disallow:
+
+# ALLOW GOOGLE IMAGES (OPTIONAL)
+User-agent: Googlebot-Image
+Disallow:
+
+# LIMIT Yahoo, MSN AND Noxtrum BOTS (OPTIONAL)
+User-agent: noxtrumbot
+Crawl-delay: 50
+User-agent: msnbot
+Crawl-delay: 30
+User-agent: Slurp
+Crawl-delay: 10
+

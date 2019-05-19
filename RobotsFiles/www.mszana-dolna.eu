@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: http://mszana-dolna.eu/sitemap.xml
+Allow: /
+Disallow: /user-upload/
+Disallow: /calendar/
+Disallow: /editor/
+Disallow: /engine/
+Disallow: /gallery/
+Disallow: /graphics/
+Disallow: /include/
+Disallow: /locale/
+Disallow: /modules/
+Disallow: /plugin/
+Disallow: /csite/
+Disallow: /skin/
+

@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /log/
+Disallow: /forum/auth/
+Disallow: /forum/assets/
+Disallow: /forum/users/
+Disallow: /forum/badges/
+Disallow: /forum/search
+Disallow: /Public/esi/
+Disallow: /api/v1/users/current
+Disallow: /image-server/
+Disallow: /bims/
+Disallow: /users/
+Disallow: /shopData/basket
+Disallow: /shopData/authentication
+Disallow: /shopData/wellness
+Disallow: /shopfiles/shopclient/remote_logging
+Disallow: *?*abTest=*
+Disallow: /shopData/recommended
+Disallow: /shopData/related
+Disallow: *?q=*
+Disallow: *?*version=*
+Disallow: *?*noCache=*
+Allow: /shopData/*?*version=*
+
+Sitemap:  https://www.spreadshirt.pl/sitemaps/sitemap.xml

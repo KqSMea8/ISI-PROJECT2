@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /images/previews/
+Disallow: /images/sections/
+Disallow: /images/modules/
+Disallow: /modules/
+Disallow: /slots/

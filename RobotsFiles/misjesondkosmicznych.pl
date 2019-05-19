@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /szukaj.php
+Disallow: /side-1.php
+Disallow: /side-2.php
+Disallow: /side-3.php
+Disallow: /side-4.php
+Disallow: /newsletter.php
+Disallow: /media.php
+Disallow: /kontakt/
+Disallow: /newsletter/
+Disallow: /errordoc/
+Disallow: /sitemap.xml/

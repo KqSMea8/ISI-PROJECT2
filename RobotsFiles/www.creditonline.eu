@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin.php
+
+Sitemap: https://www.creditonline.eu/sitemap.xml
+

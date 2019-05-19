@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /side/produkter.php
+Disallow: /side/prd.php
+Disallow: /site/ajax/e-maerket.php
+Disallow: /site/pages/guidelines.php
+Disallow: /site/pages/e-maerket.php
+Disallow: /popup/retningslinjer.html
+Disallow: /site/pages/cookie.php
+Disallow: /_
+Disallow: /_*
+Disallow: /_*/
+Disallow: /_*/*
+Disallow: /_*/*/
+Allow: /

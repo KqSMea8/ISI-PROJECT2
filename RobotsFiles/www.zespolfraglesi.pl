@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /assets/css
+Disallow: /assets/fonts
+Disallow: /assets/jPlayer
+Disallow: /assets/js
+Disallow: /assets/php
+Disallow: /deluxe/css
+Disallow: /deluxe/fonts
+Disallow: /deluxe/inc
+Disallow: /deluxe/js
+Disallow: /deluxe/photoshop
+Disallow: /fraglesi2

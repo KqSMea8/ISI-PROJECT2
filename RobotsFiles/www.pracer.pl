@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /images/*
+Disallow: /includes/
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /install/
+Disallow: /kontakt.htm
+Disallow: /?s=
+Allow: /rss/
+Sitemap: http://www.pracer.pl/sitemap.xml.gz

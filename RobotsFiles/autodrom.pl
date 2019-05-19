@@ -1,0 +1,27 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /_private/
+Disallow: /_vti_bin/
+Disallow: /_vti_cnf/
+Disallow: /_vti_log/
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+Disallow: /actions/
+Disallow: /Ajax/
+Disallow: /autodrom/
+Disallow: /bambo/
+Disallow: /bilety/
+Disallow: /cars/
+Disallow: /conf/
+Disallow: /diufer/
+Disallow: /gify/
+Disallow: /gify2/
+Disallow: /images/
+Disallow: /kwali/
+Disallow: /pic/
+Disallow: /pica/
+Disallow: /pole/
+Disallow: /przyc/
+Disallow: /przyci/
+Disallow: /status/
+

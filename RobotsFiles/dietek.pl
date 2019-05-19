@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /administrator/A
+Allow: /cache/
+Allow: /components/
+Allow: /images/
+Allow: /includes/
+Allow: /installation/
+Allow: /language/
+Allow: /libraries/
+Allow: /media/
+Allow: /modules/
+Allow: /plugins/
+Allow: /templates/
+Allow: /tmp/
+Allow: /xmlrpc/
+Sitemap: http://www.dietek.pl/index.php?option=com_xmap&sitemap=1&view=xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /templates/
+Disallow: /phpBB2/
+Disallow: /cgi-bin/
+

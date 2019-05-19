@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Dok1_pliki/
+Disallow: /str/
+Disallow: /sylwester/
+Disallow: /awstats/
+Disallow: /proba/
+Disallow: /cgi-bin/
+Disallow: /kopia01/
+Disallow: /glos/

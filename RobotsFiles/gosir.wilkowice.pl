@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /?strona=login
+Disallow: /?strona=user_
+Disallow: /simple_menu.xml
+Disallow: /simple_
+Disallow: /ratin
+Disallow: /xml
+Disallow: /test
+Disallow: *.xml$
+Disallow: /marquee
+Disallow: /?strona=pilka_nozna&data
+Disallow: /?strona=wydarzenia&podstrona
+Disallow: /?druk&

@@ -1,0 +1,21 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /obcan/volby-2016/
+Disallow: /urad-60/uredni-deska/
+Disallow: /urad-60/uredni-deska/vyhlasky/
+Disallow: /urad-60/uredni-deska/usneseni-ze-zasedani-zastupitelstva/
+Disallow: /urad-60/uredni-deska/smernice/
+Disallow: /urad-60/volba-prezidenta-republiky-2018/
+Disallow: /urad-60/volby-do-zastupitelstva-obce-2018/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /obcan/volby-2016/
+Disallow: /urad-60/uredni-deska/
+Disallow: /urad-60/uredni-deska/vyhlasky/
+Disallow: /urad-60/uredni-deska/usneseni-ze-zasedani-zastupitelstva/
+Disallow: /urad-60/uredni-deska/smernice/
+Disallow: /urad-60/volba-prezidenta-republiky-2018/
+Disallow: /urad-60/volby-do-zastupitelstva-obce-2018/
+Sitemap: https://www.straznnis.cz/sitemap.xml
+

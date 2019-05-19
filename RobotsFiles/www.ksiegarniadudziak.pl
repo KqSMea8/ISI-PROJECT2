@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /S/
+Disallow: /M/
+Disallow: /L/
+Disallow: /akcja/
+Disallow: /koszyk/
+Disallow: /schowek/
+Disallow: /zamowienie/
+Disallow: /logowanie/
+Disallow: /rejestracja/
+Sitemap: http://www.ksiegarniadudziak.pl/sitemap_index.xml
+User-agent: Googlebot
+Crawl-delay: 3
+User-agent: msnbot
+Crawl-delay: 3
+User-agent: Yandex
+Crawl-delay: 3
+User-agent: bingbot
+Crawl-delay: 3
+

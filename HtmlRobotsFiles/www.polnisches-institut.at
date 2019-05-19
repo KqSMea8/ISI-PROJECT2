@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" ><head>    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />    <meta http-equiv="Content-Language" content="de" />	<title>Polnisches Institut Wien</title>	<meta name="description" content="Polnisches Institut Wien" />	<meta name="keywords" content="Polnisches Institut Wien,Polnisches,Institut,Wien,Programm,Kontakt,Uber Polen" />	<meta name="author" content="www.deator.pl" />	<link rel="shortcut icon" type="image/x-icon" href="/img/website/favicon1.ico" />
+<link rel="shortcut icon" type="image/png" href="/img/website/favicon1.png" />
+<link rel="icon" type="image/x-icon" href="/img/website/favicon1.ico" />
+<link rel="icon" type="image/png" href="/img/website/favicon1.png" />	<link rel="stylesheet" type="text/css" media="all" href="/css/reset.css" />				<link rel="stylesheet" type="text/css" media="all" href="/css/website.css" />		<link rel="stylesheet" type="text/css" media="all" href="/css/website_lightbox.css" />	<link rel="stylesheet" type="text/css" media="all" href="/css/datepicker.css" />	<link rel="stylesheet" type="text/css" media="all" href="/js/external/jplayer/skin/blue.monday/jplayer.blue.monday.css" />	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />    <script type="text/javascript" src="/js/external/jquery_website.js" ></script>	<script type="text/javascript" src="/js/iepngfix_tilebg.js" ></script>	<script type="text/javascript" src="/js/utils.js" ></script>	<script type="text/javascript" src="/js/documentReady.js" ></script>   	<script type="text/javascript" src="/js/cycle.js" ></script>  	<script type="text/javascript" src="/js/external/pulsejquery.pulse/pulsejquery.pulse.js" ></script>	<script type="text/javascript" src="/js/external/jplayer/jquery.jplayer.min.js" ></script></head><body>		<div class="all">        <div class="content">			<div class="header">				<h1 class="page_title">					<a href="http://www.polnisches-institut.at/0,0,0,de">						<img src="/img/website/de/page_title_bg.png" alt="Polnisches Institut Wien"  />					</a>				</h1>				<div class="menu_container">
+<ul class="main_menu">
+<li >
+<a href="http://www.polnisches-institut.at/4,3,0,de">Programm</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,48,de">Uber uns</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,26,de">Kontakt</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,88,de">Newsletter</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,111,de">#Moniuszko200</a>
+</li>
+</ul>
+<ul class="lang_menu">
+<li class="active"><a href="http://www.polnisches-institut.at/1,1,0,de,Page_daccueil">de</a></li>
+<li ><a href="http://www.polnisches-institut.at/1,1,0,pl,Maain_paag">pl</a></li>
+</ul>
+</div>
+</div>			<div class="content_conainer">				<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+$('#cycle_fade').cycle({
+next:		'#next_button',
+height:		'380px',
+timeout:	0
+});
+});
+//]]>
+</script>
+<div class="fade_container fade_color_Red1">
+<div id="cycle_fade">
+<img src="http://www.polnisches-institut.at/99,99,0,de?bn=www_png192472800760&amp;ex=png&amp;t=image&amp;mt=image%2Fpng&amp;width=555&amp;height=380&amp;crop=1" alt="Osterkonzert in der Peterskirche" />
+</div>
+<span id="next_button">Nachste</span>
+<div class="fade_hover"></div>
+<div class="fade_bg"></div>
+<div class="fade_content">
+<div class="title"><a href="http://www.polnisches-institut.at/4,3,1233,de,Osterkonzert_in_der_Peterskirche?m=2019-04">Osterkonzert in der Peterskirche</a></div>
+<div class="date"><a href="http://www.polnisches-institut.at/4,3,1233,de,Osterkonzert_in_der_Peterskirche?m=2019-04">25.04.2019</a></div>
+<div class="place"><a href="http://www.polnisches-institut.at/4,3,1233,de,Osterkonzert_in_der_Peterskirche?m=2019-04">Peterskirche, Wien</a></div>
+</div>
+</div>
+<div class="news_show_container">
+<div class="news_show_box">
+<a class="photo right_bite" href="http://www.polnisches-institut.at/4,3,1229,de,Foto_Wien_Soundcheck?m=2019-03"><img src="http://www.polnisches-institut.at/99,99,0,de?bn=nick_cave__1998_klein_www_jpg87253&amp;ex=jpg&amp;t=image&amp;mt=image%2Fjpeg&amp;width=245&amp;height=165&amp;crop=1" alt="Foto Wien: Soundcheck" /><span>&nbsp;</span></a>		<div class="category"></div>
+<div class="title"><a href="http://www.polnisches-institut.at/4,3,1229,de,Foto_Wien_Soundcheck?m=2019-03">Foto Wien: Soundcheck</a></div>
+<div class="date">
+<span class="small_red">28.03.2019</span>
+<span>p_art. Galerie des Polnischen Instituts Wien</span>
+</div>
+<div class="lead">Das Polnische Institut Wien zeigt in der Ausstellung Soundcheck ausgew&auml;hlte Arbeiten der Fotografin Magdalena Blaszczuk. Ihre Leidenschaft sind <a class="read_more" href="http://www.polnisches-institut.at/4,3,1229,de,Foto_Wien_Soundcheck?m=2019-03"> ...&nbsp;<span>&gt;</span></a></div>
+</div>
+<div class="news_show_box">
+<a class="photo right_bite" href="http://www.polnisches-institut.at/4,3,1234,de,Polen_beim_Filmfestival_Crossing_Europe_in_Linz?m=2019-04"><img src="http://www.polnisches-institut.at/99,99,0,de?bn=www_png673781432701&amp;ex=png&amp;t=image&amp;mt=image%2Fpng&amp;width=245&amp;height=165&amp;crop=1" alt="Polen beim Filmfestival Crossing Europe in Linz" /><span>&nbsp;</span></a>		<div class="category">Film</div>
+<div class="title"><a href="http://www.polnisches-institut.at/4,3,1234,de,Polen_beim_Filmfestival_Crossing_Europe_in_Linz?m=2019-04">Polen beim Filmfestival Crossing Europe in Linz</a></div>
+<div class="date">
+<span class="small_red">25.04.2019</span>
+<span>Moviemento, City-Kino, Linz</span>
+</div>
+<div class="lead">Seit 2004 widmet sich das Filmfestival Crossing Europe in Linz programmatisch dem eigenwilligen, zeitgen&ouml;ssischen und gesellschaftspolitischen <a class="read_more" href="http://www.polnisches-institut.at/4,3,1234,de,Polen_beim_Filmfestival_Crossing_Europe_in_Linz?m=2019-04"> ...&nbsp;<span>&gt;</span></a></div>
+</div>
+<div class="news_show_box">
+<a class="photo right_bite" href="http://www.polnisches-institut.at/4,3,1239,de,Hommage_a_Moniuszko?m=2019-05"><img src="http://www.polnisches-institut.at/99,99,0,de?bn=SM_png916010&amp;ex=png&amp;t=image&amp;mt=image%2Fpng&amp;width=245&amp;height=165&amp;crop=1" alt="Hommage a Moniuszko" /><span>&nbsp;</span></a>		<div class="category">Musik</div>
+<div class="title"><a href="http://www.polnisches-institut.at/4,3,1239,de,Hommage_a_Moniuszko?m=2019-05">Hommage a Moniuszko</a></div>
+<div class="date">
+<span class="small_red">05.05.2019</span>
+<span>Palais Niederosterreich, Rittersaal</span>
+</div>
+<div class="lead">Das Konzert steht unter dem Ehrenpatronat von dem Ministerium f&uuml;r Kultur und Nationales Erbe der Republik Polen. Projekt wird aus <a class="read_more" href="http://www.polnisches-institut.at/4,3,1239,de,Hommage_a_Moniuszko?m=2019-05"> ...&nbsp;<span>&gt;</span></a></div>
+</div>
+</div>
+</div>        </div>        <div class="content_right">			<div class="logo"><a class="photo" href="http://www.polnisches-institut.at/0,0,0,de"><img src="/img/website/de/polnisches_institut_wien_logo.png" alt="Polnisches Institut Wien"  /></a></div>			<ul class="right_menu">
+<li >
+<a href="http://www.polnisches-institut.at/3,1,0,de">Mitteilungen</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/6,1,0,de">Empfehlungen</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,57,de">Uber Polen</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,39,de">Partner</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/60,1,0,de">Publikationen</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/7,1,0,de">Fotogalerie</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/4,4,0,de">Archiv</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,82,de">Bibliothek</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,104,de">Impressum</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,106,de">Beschwerden &amp; Vorschlage</a>
+</li>
+<li >
+<a href="http://www.polnisches-institut.at/2,1,110,de">#PL100</a>
+</li>
+</ul>
+
+
+<ul class="right_tool_menu">				<li class="find">					<form
+action="http://www.polnisches-institut.at/"
+method="get"
+id="searchForm"	>
+<fieldset><input type="hidden" name="_token_searchForm" value="1" id="searchForm__token_searchForm"  /><input type="hidden" name="_m" value="Search" id="searchForm__m"  /><input type="hidden" name="_o" value="Website" id="searchForm__o"  /><input type="hidden" name="_langWebsite" value="de" id="searchForm__langWebsite"  />
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+if ($('#searchForm_query').val() != '') {
+showHiddenField('#search_shown_1', '#searchForm_query');
+}
+})
+//]]>
+</script>
+<input type="text" id="search_shown_1" value="Suchen" class="text" onfocus="showHiddenField(this, '#searchForm_query')" />
+<input class="text " type="text" name="query" value="" id="searchForm_query" onblur="if(this.value == '') hideHiddenField(this, '#search_shown_1')" style="display: none;" />
+<input type="submit" class="submit" value="" />
+</fieldset>
+</form>				</li>				<li class="print"><span onclick="window.print();">Drucken</span></li>			</ul>            <div class="recommended">	            <div>					<div class="right_bottom">												<div id="recomended_fade">                                                                                                                                                                                                                						    						</div>												<div class="right_media">							<a class="media_fb" target="_blank" href="http://www.facebook.com/pages/Polnisches-Institut-Wien/137618153006357">Facebook</a> 							<a class="media_yt" target="_blank" href="http://www.youtube.com/user/PLInstitutWien">Youtube</a>                                                                                                                 <a class="media_tw" target="_blank" href="http://twitter.com/PLInst_Wien">Twetter</a> 						</div>					</div>        		</div>    		</div>    	</div>    </div>	<br/>	<br/>	<script type="text/javascript">	//<![CDATA[				try{		$(document).ready(function(){			//refresh session			setInterval(function(){				var x = $.ajax({ url: 'http://www.polnisches-institut.at/999,1,0,de'});			},10*60*1000);		});		}catch(e){}			//]]>	</script>	<script type="text/javascript">
+//<![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-28841146-1");
+pageTracker._trackPageview();
+} catch(err) {}
+//]]>
+</script></body></html>

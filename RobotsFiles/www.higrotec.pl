@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: .js
+Allow: .css
+Allow: /wp-includes/js/*.js
+Allow: /wp-includes/css/*.css
+Allow: /wp-content/plugins/*.js
+Allow: /wp-content/plugins/*.css

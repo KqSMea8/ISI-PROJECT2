@@ -1,0 +1,24 @@
+# Define access-restrictions for robots/spiders
+# http://www.robotstxt.org/wc/norobots.html
+
+# Sitmap lt. http://www.sitemaps.org
+Sitemap: http://www.weishaupt.pl/sitemap.xml
+
+# By default we allow robots to access all areas of our site
+# already accessible to anonymous users
+
+User-agent: *
+Disallow: /ressources
+Disallow: @@
+
+
+# Add Googlebot-specific syntax extension to exclude forms
+# that are repeated for each piece of content in the site
+# the wildcard is only supported by Googlebot
+# http://www.google.com/support/webmasters/bin/answer.py?answer=40367&ctx=sibling
+
+User-Agent: Googlebot
+Disallow: /*sendto_form$
+Disallow: /*folder_factories$
+
+

@@ -1,0 +1,13 @@
+#robots.txt ppntop50.com
+User-agent: Mediapartners-Google*
+Disallow:  /cgi-bin/
+Disallow: /phpadmin/
+Disallow: /sources/
+User-agent: *
+Disallow: /phpadmin/
+Disallow: /sources/
+Disallow: /templates/
+Disallow: /cgi-bin/
+Disallow: /skins/
+Disallow: /logs/
+Disallow: /pr/

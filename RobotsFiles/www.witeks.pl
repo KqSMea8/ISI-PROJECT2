@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /gacl/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /swf/
+Disallow: /useruploads/
+Disallow: /flash/
+Disallow: /szukaj-witeks/
+Disallow: /witeks.konto.zarejestruj/
+Disallow: /polskie.seo.moje.konto.zarejestruj/client/register
+Allow: /styles/
+Allow: /scripts/
+Allow: /
+Sitemap: https://witeks.pl/sitemap.xml

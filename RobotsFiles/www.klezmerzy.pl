@@ -1,0 +1,24 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /admin
+Disallow: /moderation
+Disallow: /cache
+Disallow: /compiled
+Disallow: /components
+Disallow: /config
+Disallow: /controllers
+Disallow: /core
+Disallow: /javascript
+Disallow: /languages
+Disallow: /licence
+Disallow: /models
+Disallow: /plugins
+Disallow: /save
+Disallow: /view
+Disallow: /site/search
+

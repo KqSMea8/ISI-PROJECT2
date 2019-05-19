@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /js/
+Disallow: /xml/
+Disallow: /css/
+Disallow: /img/
+Disallow: /gbook.php
+Disallow: /gbookf.php
+Disallow: /gbooksf.php

@@ -1,0 +1,93 @@
+User-agent: *
+Allow: /modules/properties/total.php
+Allow: /modules/properties/set-view.php
+
+Disallow: /Connections
+Disallow: /includes
+Disallow: /intramedianet
+Disallow: /wheather
+Disallow: /resources
+Disallow: /media/files
+Disallow: /xml
+Disallow: /templates
+Disallow: /modules
+
+Disallow: /legal-note
+Disallow: /es/nota-legal
+Disallow: /ru/yuridicheskaya-nota
+Disallow: /fr/note-lega
+Disallow: /se/lega-anteckning
+Disallow: /no/lega-notat
+Disallow: /nl/nota-legale
+Disallow: /zh/legal-note
+Disallow: /pl/legal-note
+Disallow: /ro/legal-note
+Disallow: /de/rechtshinweis
+Disallow: /nl/colofon
+
+Disallow: /privacy
+Disallow: /es/privacidad
+Disallow: /ru/konfidencialnost
+Disallow: /fr/confidentialite
+Disallow: /se/privatliv
+Disallow: /no/privatliv
+Disallow: /nl/privacy
+Disallow: /zh/privacy
+Disallow: /pl/privacy
+Disallow: /ro/privacy
+Disallow: /de/privatsphare
+Disallow: /nl/privacy
+
+Disallow: /cookies
+Disallow: /es/cookies
+Disallow: /ru/cookies
+Disallow: /fr/cookies
+Disallow: /se/cookies
+Disallow: /no/cookies
+Disallow: /nl/cookies
+Disallow: /zh/cookies
+Disallow: /pl/cookies
+Disallow: /ro/cookies
+Disallow: /de/cookies
+Disallow: /nl/cookies
+
+Disallow: /rss/
+Disallow: /es/rss/
+Disallow: /ru/rss/
+Disallow: /fr/rss/
+Disallow: /se/rss/
+Disallow: /no/rss/
+Disallow: /nl/rss/
+Disallow: /zh/rss/
+Disallow: /pl/rss/
+Disallow: /ro/rss/
+Disallow: /de/rss/
+Disallow: /nl/rss/
+
+Disallow: /customer/
+Disallow: /es/customer/
+Disallow: /ru/customer/
+Disallow: /fr/customer/
+Disallow: /se/customer/
+Disallow: /no/customer/
+Disallow: /nl/customer/
+Disallow: /zh/customer/
+Disallow: /pl/customer/
+Disallow: /ro/customer/
+Disallow: /de/customer/
+Disallow: /nl/customer/
+
+Disallow: /catalogsearch/
+Disallow: /es/catalogsearch/
+Disallow: /ru/catalogsearch/
+Disallow: /fr/catalogsearch/
+Disallow: /se/catalogsearch/
+Disallow: /no/catalogsearch/
+Disallow: /nl/catalogsearch/
+Disallow: /zh/catalogsearch/
+Disallow: /pl/catalogsearch/
+Disallow: /ro/catalogsearch/
+Disallow: /de/catalogsearch/
+Disallow: /nl/catalogsearch/
+
+Sitemap: https://costainvest.com/sitemap-index.xml

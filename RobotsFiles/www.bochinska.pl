@@ -1,0 +1,12 @@
+User-agent: *mmmm
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /html/
+Disallow: /a/
+Disallow: /polityka-prywatnosci
+Disallow: /polityka-prywatnosci/*
+Disallow: /obowiazek-informacyjny
+Disallow: /obowiazek-informacyjny/*
+Disallow: /pma/
+Sitemap: http://www.bochinska.pl/sitemap_index.xml

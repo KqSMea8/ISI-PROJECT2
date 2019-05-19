@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /stopka/
+Disallow: /folio-category/kreacje/
+Disallow: /folio-category/kampanie/
+Disallow: /category/news/
+Disallow: /category/artykul/
+Disallow: /folio/$
+Disallow: /dlaczego-my/
+Disallow: /oferta/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://resultmedia.pl/sitemap_index.xml

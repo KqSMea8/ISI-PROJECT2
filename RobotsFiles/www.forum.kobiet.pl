@@ -1,0 +1,32 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /admin/
+Disallow: /faq.php
+Disallow: /groupcp.php
+Disallow: /login.php
+Disallow: /memberlist.php
+Disallow: /modcp.php
+Disallow: /plusminus.php
+Disallow: /posting,
+Disallow: /posting.php
+Disallow: /privmsg,
+Disallow: /privmsg.php
+Disallow: /profile.php
+Disallow: /search.php
+Disallow: /viewforum,
+Disallow: /viewforum.php
+Disallow: /viewonline.php
+Disallow: /viewtopic,
+Disallow: /viewtopic.php
+Disallow: /index.php?
+Disallow: /member*.html
+Disallow: /report*.html
+Disallow: /report.php
+Disallow: /mods_notice.php
+Disallow: /spelling.php
+Disallow: /plusminus.php
+Disallow: /member*
+Sitemap: http://www.forum.kobiet.pl/sitemaps.xml
+

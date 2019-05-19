@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /core
+Disallow: /include
+Disallow: /js
+Disallow: /new
+Disallow: /OLD
+Disallow: /plugins
+Disallow: /tmp
+Disallow: /upload

@@ -1,0 +1,6 @@
+Sitemap: http://torunska.edu.pl/sitemap.xml
+Sitemap: http://torunska.edu.pl/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

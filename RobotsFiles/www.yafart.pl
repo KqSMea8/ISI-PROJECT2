@@ -1,0 +1,4 @@
+UserAgent: *
+Disallow: *.swf
+Allow: /
+

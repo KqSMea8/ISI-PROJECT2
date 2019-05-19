@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: mm.php?mi=2
+Disallow: mm.php?mi=8
+Disallow: mm_praca.htm
+Disallow: mm_kontakt.htm
+Disallow: mm_kontakt.en.htm
+Disallow: mm_kontakt.de.htm
+Disallow: mm_praca.en.htm
+Disallow: mm_praca.de.htm

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /adm
+Disallow: /classes
+Disallow: /galleries
+Disallow: /includes
+Disallow: /js
+Disallow: /libs
+Disallow: /modules
+Disallow: /photos
+Disallow: /templates

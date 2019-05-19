@@ -1,0 +1,9 @@
+Sitemap: https://www.pol-skone.co.uk/sitemap-en.xml
+Sitemap: https://www.pol-skone.pl/sitemap-pl.xml
+Sitemap: http://www.pol-skone.ru/sitemap-ru.xml
+Sitemap: http://www.pol-skone.de/sitemap-de.xml
+User-agent: *
+Disallow: /system/
+Disallow: /temp/
+Disallow: /jscripts
+Disallow: /js

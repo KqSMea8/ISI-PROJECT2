@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /pdf-generator.html
+Disallow: /nc/pdf-generator.html
+Disallow: /nc/de/pdf-generator.html
+Disallow: /nc/en/pdf-generator.html
+Disallow: /nc/fr/pdf-generator.html
+Disallow: /sandbox/
+Disallow: /de/sandbox/
+Disallow: /en/sandbox/
+
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /images/
+Disallow: /manager/
+Disallow: /core/
+Disallow: /code/
+Disallow: /connections/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+Disallow: /ico/
+Disallow: /static/

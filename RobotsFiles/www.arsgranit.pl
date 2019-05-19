@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /polecamy/
+Disallow: /artykuly/
+Disallow: /polecamy,archiwum
+Disallow: /artykuly,archiwum
+Disallow: /produkty/
+Disallow: /konglomerat,newsy,6,botticino
+Disallow: /trawertyn,newsy,8,zolty
+Disallow: /trawertyn,newsy,7,orzechowy
+Disallow: /galeria-naszych-prac,1,3
+Disallow: /piaskowiec,newsy,1,piaskowiec-na-sciane-i-ogrodzenie
+Disallow: /trawertyn,newsy,3,classic-med--cross-cut
+Disallow: /z-kamienia-zrobimy-wszystko,newsy,6,blat-kuchenne----promocja
+Disallow: /aleria-naszych-prac,2
+Disallow: /produkty,newsy,3,lazienki
+Disallow: /aleria-naszych-prac,2
+Disallow: /index.php?&kid=33
+Disallow: /index.php?&kid=32
+Disallow: /index.php?&kid=31
+Disallow: /index.php?kid=14&id=2
+Disallow: /galeria-naszych-prac,galeria,1
+Disallow: /galeria-naszych-prac/
+Disallow: /z-kamienia-zrobimy-wszystko,newsy,6,blaty-kuchenne-----promocja
+Disallow: /z-kamienia-zrobimy-wszystko,newsy,6,blat-kuchenne----promocja
+

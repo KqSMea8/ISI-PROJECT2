@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /layout/set/print/
+sitemap: /sitemap/lit-LI-sitemap.xml

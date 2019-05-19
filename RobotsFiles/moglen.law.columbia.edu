@@ -1,0 +1,19 @@
+#
+User-Agent: *
+Crawl-delay: 10
+Disallow: twiki/bin/rdiff/
+Disallow: twiki/bin/edit/
+Disallow: twiki/bin/login/
+Disallow: twiki/bin/view/LawContempSoc/
+Disallow: twiki/data/LawContempSoc/
+Disallow: perspectives/discuss/
+Disallow: LIS/discuss/
+Disallow: CPC/discuss/
+Disallow: LCS/discuss/
+Disallow: ELH/baker/
+Disallow: ELH/bakermilsom/
+Disallow: WebStatistics
+Disallow: WebPreferences
+Disallow: WebIndex
+
+

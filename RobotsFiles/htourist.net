@@ -1,0 +1,7 @@
+# /robots.txt
+
+User-Agent: *
+Disallow: /uj/
+Disallow: /ajanlat.php*
+Disallow: /accommodation.php*
+Disallow: /szallasok.php*

@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /*show=*
+Disallow: /*page=1
+Disallow: /*print=1
+Disallow: /tell_a_friend.php
+Disallow: /shopping_cart.php
+Disallow: /product_reviews_write.php
+Disallow: /product_ask_avaliable.php
+Disallow: /login.php
+Disallow: /closet.php
+Disallow: /advanced_search.php
+Disallow: /polityka-cookies-inf-20.html
+Disallow: /polityka-cookies
+Disallow: /-n-3.html?news_id=3
+Disallow: /lewa-zakladka-inf-14.html
+Disallow: /prawa-zakladka-inf-15.html
+Disallow: /sklep-internetowy-regulamin-sklepu-program-sklep-oprogramowanie-sklepy-internetowe-inf-4.html
+
+Sitemap: https://impregnaty.biz.pl/sitemap.xml

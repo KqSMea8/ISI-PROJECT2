@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /konto/
+Disallow: /pl/konto/
+Disallow: /wiadomosci/
+Disallow: /pl/wiadomosci/
+Disallow: /wyniki-wyszukiwania/
+Disallow: /pl/wyniki-wyszukiwania/
+Disallow: /zglaszanie-bledu/
+Disallow: /pl/zglaszanie-bledu/
+Sitemap: http://www.lmax.pl/sitemap.xml

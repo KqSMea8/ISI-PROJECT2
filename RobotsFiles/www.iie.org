@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /~/media/
+Disallow: /*/~/media/
+Disallow: /-/media/
+Disallow: /*/-/media/
+Disallow: /sitecore
+Disallow: /sitecore%20modules
+Disallow: /sitecore_files/
+Disallow: /temp
+Disallow: /upload

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /docs
+Disallow: /register
+Disallow: /login
+Disallow: /webApi
+Disallow: /*?sort*
+Disallow: /*&sort*
+Disallow: /*?filters*
+Disallow: /*&filters*
+Disallow: /*?page*
+Disallow: /*&page*
+Disallow: /*?offset*
+Disallow: /*&offset*

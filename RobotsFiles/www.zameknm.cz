@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /cs/search/
+Disallow: /en/search/
+Disallow: /pl/search/
+
+Sitemap: http://www.zameknm.cz/sitemap.xml

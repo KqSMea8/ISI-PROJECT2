@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /maintenance.html
+Disallow: /nocookies.html
+Disallow: /not_found.html
+Disallow: /download/
+Disallow: /*.js$
+Disallow: /*printFriendly
+Disallow: /*highlightOption
+Disallow: /*SERIES_ID
+Disallow: /*AddID
+Disallow: /*sarja
+Disallow: /innovation/download
+

@@ -1,0 +1,776 @@
+<!DOCTYPE html><!--[if lt IE 7]><html class="ie ie6 lte9 lte8 lte7 noJS"><![endif]--><!--[if IE 7]><html class="ie ie7 lte9 lte8 lte7 noJS"><![endif]--><!--[if IE 8]><html class="ie ie8 lte9 lte8 noJS"><![endif]--><!--[if IE 9]><html class="ie ie9 lte9 noJS"><![endif]--><!--[if gt IE 9]><html class="noJS"><![endif]--><!--[if !IE]><!-->
+<html class="noJS">
+<!--<![endif]--> <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--
+This website is powered by TYPO3 - inspiring people to share!
+TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+Information and contribution at http://typo3.org/
+-->
+
+<base href="/">
+
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="robots" content="index, follow">
+<meta name="language" content="de">
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/stylesheet_8b9c2e8d89.css?1550963771" media="all">
+
+
+
+
+
+
+
+<title>Startseite - Trummer Personal</title>
+<!--
+Gears pre processing unit gFLEX
+
+@author  Michael Stamm
+@author  Christian Rohleder
+@version 2.0.1
+-->
+<meta name="viewport" content="width=1024">
+<meta property="og:title" /><link rel="shortcut icon" type="image/x-icon" href="/fileadmin/trummer/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/fileadmin/trummer/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/fileadmin/trummer/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/fileadmin/trummer/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/fileadmin/trummer/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/fileadmin/trummer/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/fileadmin/trummer/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/fileadmin/trummer/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/fileadmin/trummer/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/fileadmin/trummer/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/fileadmin/trummer/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/fileadmin/trummer/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/fileadmin/trummer/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/fileadmin/trummer/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/fileadmin/trummer/android-chrome-manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/fileadmin/trummer/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/reset.css" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/content.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/flexslider.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/jquery.selectBox.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/multiple-select.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/fileadmin/trummer/all/styles/jqvmap.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/fileadmin/trummer/all/styles/screen.large.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/fileadmin/trummer/all/styles/print.css" />
+<!--[if lt IE 9]><script type="text/javascript" src="/fileadmin/trummer/all/scripts/html5.js"></script><![endif]-->
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.min.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.flexslider.min.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.inview.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.gears.autocompleter.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.selectBox.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.multiple.select.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/gears.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/gears.overlay.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/gears.appendingbox.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/raphael.min.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/scale.raphael.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/paths.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/localization/messages_de.js"></script>
+<script type="text/javascript" src="/fileadmin/trummer/all/scripts/main.js"></script>
+
+
+
+</head>
+<body id="pageId2" class="langDE uaDesktop" data-lang="de" data-remoteaddr="83.11.111.237" >
+
+
+<div id="pageFrame" class="frameBox pageTypeA">
+
+<div id="pageSlide">
+<div class="contentBox"><div class="countryMap"><div id="map"></div><div id="text"></div></div><ul class="countries"><li><a href="/en/" class="noCountry" lang="en"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>INTERNATIONAL</a></li><li><a href="/at/" data-country="austria" lang="at"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Austria</a></li><li><a href="/cz/" data-country="czechRepublic" lang="cz"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Czech</a></li><li><strong><li><a href="/de/" data-country="germany" lang="de"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Germany</a></li></strong></li><li><a href="/hu/" data-country="hungaria" lang="hu"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Hungary</a></li><li><a href="/pl/" data-country="poland" lang="pl"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Poland</a></li><li><a href="/sl/" data-country="slovenia" lang="sl"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Slovenia</a></li></ul><div class="button"><span class="displayTable"><span class="displayTableCell"><span class="icon"><i class="fa"></i></span><span class="buttonText">Germany</span></span></span></div></div>
+</div>
+
+<div class="toolBox"><div class="toolSlide phone">
+<span class="displayTable">
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-phone"></i>
+</span>
+<span class="buttonText">+49 (0)371 26 21 21 011</span>
+</span>
+</span>
+</div>
+<div class="toolSlide mail">
+<span class="displayTable">
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-envelope"></i>
+</span>
+<span class="buttonText"><a href="mailto:office@trummer.eu">office@trummer.eu</a></span>
+</span>
+</span>
+</div></div>
+
+<div class="contentBox">
+<div id="pageHead" class="frameBox">
+<div class="contentBox">
+
+<div id="pageMainNav" class="frameBox">
+<div class="contentBox">
+<div id="pageLogo" class="frameBox">
+<span class="contentBox"><a href="/de/" id="logo"><img src="/fileadmin/trummer/all/images/screen/trummer_logo_deutsch.png" alt="Trummer Personal Service - Logo" title=""></a></span>
+</div>
+<ul data-menu-label="Menu"><li><a href="/de/stellenangebote/">Stellenangebote</a></li><li><a href="/de/branchen/produktion-logistik-handel/">Branchen</a><ul><li><a href="/de/branchen/produktion-logistik-handel/">Produktion, Logistik & Handel</a></li><li><a href="/de/branchen/office-administration/">Office & Administration</a></li><li><a href="/de/branchen/healthcare-gesundheitswesen/">Healthcare - Gesundheitswesen</a></li><li><a href="/de/branchen/bauwirtschaft-bautechnik/">Bauwirtschaft & Bautechnik</a></li><li><a href="/de/branchen/handwerk-technik/">Handwerk & Technik</a></li><li><a href="/de/branchen/engineering-ingenieurdienste/" target="_blank">Engineering - Ingenieurdienste</a></li></ul></li><li><a href="/de/bewerber/allgemeine-informationen/">Bewerber</a><ul><li><a href="/de/bewerber/allgemeine-informationen/">Allgemeine Informationen</a></li><li><a href="/de/bewerber/initiativbewerbung/">Initiativbewerbung</a></li></ul></li><li><a href="/de/kunden/">Kunden</a></li><li><a href="/de/information/servicethemen/">Information</a><ul><li><a href="/de/information/servicethemen/">Servicethemen</a></li><li><a href="/de/information/unternehmen/">Unternehmen</a></li></ul></li><li><a href="/de/kontakt/">Kontakt</a></li><li><a href="/de/standorte/">Standorte</a></li></ul>
+</div>
+</div>
+
+</div>
+</div>
+<div id="pageBody" class="frameBox">
+
+<div class="accept-cookie">
+<div class="contentBox">
+<p>Diese Website verwendet Cookies zur Spracherkennung. Es werden keine Daten an Dritte weitergegben. Weitere Informationen entnehmen Sie bitte unseren <a href="/de/datenschutz/">Datenschutzbestimmungen</a>.</p>
+<button class="button" type="button"><span class="displayTable"><span class="displayTableCell"> <span class="buttonText">Ich habe den Hinweis zur Kenntnis genommen</span></span>
+</span>
+</button>
+</div>
+</div><div class="splashScreen">
+<div class="contentBox">
+<div class="logo">
+<img src="/fileadmin/trummer/all/images/screen/logo-trummer-personal-service-01-01.png" alt="Trummer Personal Service - Logo" />
+</div>
+</div>
+<div class="contentBox fullWidth bgc01">
+<div class="contentBox">
+<div class="countryMap"></div>
+</div>
+</div>
+<div class="contentBox">
+<p class="textAlignCenter invitation">Please select a language: </p>
+<ul class="countries">
+<li><a class="noCountry" href="/en/" data-lang="en">INTERNATIONAL</a></li>
+<li><a data-country="austria" href="/at/" data-lang="at">Austria</a></li>
+<li><a data-country="czechRepublic" href="/cz/" data-lang="cz">Czech</a></li>
+<li><a data-country="germany" href="/de/" data-lang="de">Germany</a></li>
+<li><a data-country="hungaria" href="/hu/" data-lang="hu">Hungary</a></li>
+<li><a data-country="poland" href="/pl/" data-lang="pl">Poland</a></li>
+<li><a data-country="slovenia" href="/sl/" data-lang="sl">Slovenia</a></li>
+</ul>
+</div>
+</div><div class="contentBox fullWidth bgc01"><div class="mainsliderWrapper">
+
+<div class="flexslider mainslider">
+<ul class="slides"><li data-slide-image-small="/fileadmin/trummer/all/assets/images/slider/slider_industry.jpg" data-slide-image-large="/fileadmin/trummer/all/assets/images/slider/slider_industry.jpg" data-branch-logo="/fileadmin/trummer/all/assets/Startseite/banner_industry.png" data-branch-label="Produktion, Logistik &amp; Handel">
+<h2><a href="/de/branchen/produktion-logistik-handel/">Trummer Industry -<br> Expertise im Industrial-Sektor</a></h2>
+</li><li data-slide-image-small="/fileadmin/trummer/all/assets/images/slider/slider_medical.jpg" data-slide-image-large="/fileadmin/trummer/all/assets/images/slider/slider_medical.jpg" data-branch-logo="/fileadmin/trummer/all/assets/Startseite/banner_medical.png" data-branch-label="Healthcare - Gesundheitswesen">
+<h2><a href="/de/branchen/healthcare-gesundheitswesen/">Trummer Medical -<br> Kompetenzen im Gesundheitswesen</a></h2>
+</li><li data-slide-image-small="/fileadmin/trummer/all/assets/images/slider/slider_office.jpg" data-slide-image-large="/fileadmin/trummer/all/assets/images/slider/slider_office.jpg" data-branch-logo="/fileadmin/trummer/all/assets/Startseite/banner_office.png" data-branch-label="Office &amp; Administration">
+<h2><a href="/de/branchen/office-administration/">Trummer Office -<br> Alles rund um das Buro</a></h2>
+</li><li data-slide-image-small="/fileadmin/trummer/all/assets/images/slider/slider_contructiont.jpg" data-slide-image-large="/fileadmin/trummer/all/assets/images/slider/slider_contructiont.jpg" data-branch-logo="/fileadmin/trummer/all/assets/Startseite/banner_construction.png" data-branch-label="Bauwirtschaft &amp; Bautechnik">
+<h2><a href="/de/branchen/bauwirtschaft-bautechnik/">Trummer Construction -<br> Alles rund um den Bau</a></h2>
+</li><li data-slide-image-small="/fileadmin/trummer/all/assets/images/slider/slider_technical.jpg" data-slide-image-large="/fileadmin/trummer/all/assets/images/slider/slider_technical.jpg" data-branch-logo="/fileadmin/trummer/all/assets/Startseite/banner_technical.png" data-branch-label="Handwerk &amp; Technik">
+<h2><a href="/de/branchen/handwerk-technik/">Trummer Technical -<br> Technische Kompetenz auf allen Ebenen</a></h2>
+</li><li data-slide-image-small="/fileadmin/trummer/all/assets/images/slider/slider_engineering.jpg" data-slide-image-large="/fileadmin/trummer/all/assets/images/slider/slider_engineering.jpg" data-branch-logo="/fileadmin/trummer/all/assets/Startseite/banner_engineeringV02.png" data-branch-label="Engineering - Ingenieurdienste">
+<h2><a href="http://www.trummer-engineering.com" title="Trummer Engineering" target="_blank">Trummer Engineering -<br> Planung und Realisation auf hochstem Niveau</a></h2>
+</li></ul>
+</div>
+
+</div></div><div class="contentBox"><div class="gGrid base2 gutter20">
+<div class="gGridItem size1">
+<div class="gGridContent"><h1>Trummer Montage &amp; Personal<br /><span class="colorRed">Der Mensch im Mittelpunkt</span></h1>
+<p>Trummer Personalservice, 1987 gegrundet, ist ein familiengefuhrtes Unternehmen, welches in ganz Zentraleuropa Niederlassungen unterhalt und mit seinen Professionisten europa- und weltweit aktiv ist.</p><a href="de/information/unternehmen/" class="button"><span class="displayTable"><span class="displayTableCell"><span class="icon fa fa-home"></span> <span class="buttonText">Unternehmen</span></span></span></a></div>
+</div>
+<div class="gGridItem size1 lastItem">
+<div class="gGridContent"><p class="imageBox positionRelative">
+<img src="/fileadmin/trummer/all/assets/images/startseite/mensch_mittelpunkt_2.jpg" alt="junger mann vor gebaeuden">
+<span class="decoBoxWrapper">
+
+<span class="decoBox">
+<span class="decoBoxContent">
+<img src="/fileadmin/trummer/all/images/example/Vektor-Smartobjekt(2).png" alt="">
+</span>
+</span>
+
+<span class="decoBox">
+<span class="decoBoxContent">
+<img src="/fileadmin/trummer/all/images/example/OePDL_Logo_Kompakt_89_72.png" alt="">
+</span>
+</span>
+
+<span class="decoBox">
+<span class="decoBoxContent">
+<img src="/fileadmin/trummer/all/images/example/Vektor-Smartobjekt(1).png" alt="">
+</span>
+</span>
+
+</span>
+</p></div>
+</div>
+</div></div><div class="contentBox fullWidth bgc01"><div class="contentBox"><h2>TOP Job&nbsp;<span class="colorRed">Suche</span></h2><div class="tx_jobfair">
+
+
+
+
+
+
+
+<!--
+<div class="contentBox fullWidth">
+<div class="bgBox bgBoxC">
+<div class="contentBox">
+-->
+
+
+
+<table class="vacancies">
+
+<thead>
+<tr>
+<th>Jobbezeichnung</th>
+<th>Branche</th>
+<th>Einsatzland</th>
+<th>Erfahrungsgrad</th>
+<th>Sprachanforderung</th>
+
+<th></th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+
+<td><a href="/de/stellenangebote/details/gas-wasserinstallateurin/">Gas- / Wasserinstallateur/in</a></td>
+
+<td>
+
+
+<span class="label">Branche:&nbsp;</span>
+Bauwirtschaft &amp; Bautechnik
+
+</td>
+<td>
+
+
+
+<span class="label">Einsatzland:&nbsp;</span>
+DE
+
+,
+Freiberg</td>
+
+<td>
+<span class="label">Erfahrungsgrad:&nbsp;</span>
+
+</td>
+
+<td>
+<span class="label">Sprachanforderung:&nbsp;</span>
+
+
+de
+
+
+</td>
+<td class="last">
+<a href="/de/stellenangebote/details/gas-wasserinstallateurin/">
+<span class="icon front"><i class="fa fa-chevron-circle-right"></i></span>
+<span class="icon back"><i class="fa fa-chevron-circle-right"></i></span>
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td><a href="/de/stellenangebote/details/examinierter-krankenschwesterkrankenpfleger/">Examinierte/r Krankenschwester/Krankenpfleger</a></td>
+
+<td>
+
+
+<span class="label">Branche:&nbsp;</span>
+Healthcare - Gesundheitswesen
+
+</td>
+<td>
+
+
+
+<span class="label">Einsatzland:&nbsp;</span>
+DE
+
+,
+Bischofshofen</td>
+
+<td>
+<span class="label">Erfahrungsgrad:&nbsp;</span>
+
+
+Absolvent
+
+</td>
+
+<td>
+<span class="label">Sprachanforderung:&nbsp;</span>
+
+
+de
+
+
+</td>
+<td class="last">
+<a href="/de/stellenangebote/details/examinierter-krankenschwesterkrankenpfleger/">
+<span class="icon front"><i class="fa fa-chevron-circle-right"></i></span>
+<span class="icon back"><i class="fa fa-chevron-circle-right"></i></span>
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td><a href="/de/stellenangebote/details/examinierter-altenpflegerin/">Examinierte/r Altenpfleger/in</a></td>
+
+<td>
+
+
+<span class="label">Branche:&nbsp;</span>
+Healthcare - Gesundheitswesen
+
+</td>
+<td>
+
+
+
+<span class="label">Einsatzland:&nbsp;</span>
+DE
+
+,
+Bischofswiesen</td>
+
+<td>
+<span class="label">Erfahrungsgrad:&nbsp;</span>
+
+
+Absolvent
+
+</td>
+
+<td>
+<span class="label">Sprachanforderung:&nbsp;</span>
+
+
+de
+
+
+</td>
+<td class="last">
+<a href="/de/stellenangebote/details/examinierter-altenpflegerin/">
+<span class="icon front"><i class="fa fa-chevron-circle-right"></i></span>
+<span class="icon back"><i class="fa fa-chevron-circle-right"></i></span>
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td><a href="/de/stellenangebote/details/examinierter-krankenschwesterkrankenpfleger-1/">Examinierte/r Krankenschwester/Krankenpfleger</a></td>
+
+<td>
+
+
+<span class="label">Branche:&nbsp;</span>
+Healthcare - Gesundheitswesen
+
+</td>
+<td>
+
+
+
+<span class="label">Einsatzland:&nbsp;</span>
+DE
+
+,
+Kreischa / Sachsen</td>
+
+<td>
+<span class="label">Erfahrungsgrad:&nbsp;</span>
+
+
+Absolvent
+
+</td>
+
+<td>
+<span class="label">Sprachanforderung:&nbsp;</span>
+
+
+de
+
+
+</td>
+<td class="last">
+<a href="/de/stellenangebote/details/examinierter-krankenschwesterkrankenpfleger-1/">
+<span class="icon front"><i class="fa fa-chevron-circle-right"></i></span>
+<span class="icon back"><i class="fa fa-chevron-circle-right"></i></span>
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td><a href="/de/stellenangebote/details/cnc-fraeserin/">CNC-Fraser/in</a></td>
+
+<td>
+
+
+<span class="label">Branche:&nbsp;</span>
+Produktion, Logistik &amp; Handel
+
+</td>
+<td>
+
+
+
+<span class="label">Einsatzland:&nbsp;</span>
+DE
+
+,
+Dippoldiswalde</td>
+
+<td>
+<span class="label">Erfahrungsgrad:&nbsp;</span>
+
+
+Facharbeiter mit Berufserfahrung
+
+</td>
+
+<td>
+<span class="label">Sprachanforderung:&nbsp;</span>
+
+
+de
+
+
+</td>
+<td class="last">
+<a href="/de/stellenangebote/details/cnc-fraeserin/">
+<span class="icon front"><i class="fa fa-chevron-circle-right"></i></span>
+<span class="icon back"><i class="fa fa-chevron-circle-right"></i></span>
+</a>
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<!--
+</div>
+</div>
+</div>
+-->
+
+
+
+
+
+</div><div class="textAlignCenter"><a class="button" href="/de/stellenangebote/"><span class="displayTable"><span class="displayTableCell"><span class="icon fa fa-suitcase"></span> <span class="buttonText">Alle Stellenangebote</span></span></span></a></div></div></div><div class="contentBox fullWidth"><div class="contentBox"><h2>Schnelleinstieg <span class="colorRed">Branchen</span></h2><div class="quickAccessWrapper"><div class="quickAccess" data-branch="medical">
+<div class="image">
+<img src="/uploads/tx_templavoila/branchenkachel_medical_01.jpg" width="384" height="208"   alt="Branch Medical" >
+</div>
+<div class="content"><h3>Medical</h3><ul class="styled"><li>Diplomkrankenschwestern</li><li>Diplomkrankenpfleger</li><li>OP-Schwestern</li><li>OP-Pfleger</li><li>Physiotherapeuten</li><li>Masseure</li><li>Pflegehelfer</li></ul></div>
+<a class="button" href="/de/branchen/healthcare-gesundheitswesen/" target="_self">
+<span class="displayTableCell">
+<img src="/uploads/tx_templavoila/branch_banner_medical_01.png" width="149" height="37"  class="branchLogo"  alt="field_tr_access_box_logo_alt" >
+</span>
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-angle-right"></i>
+</span>
+</span>
+</a>
+</div><div class="quickAccess" data-branch="industry">
+<div class="image">
+<img src="/uploads/tx_templavoila/branchenkachel_industry_01.jpg" width="384" height="208"   alt="Branch Industry" >
+</div>
+<div class="content"><h3>Industry</h3><ul class="styled"><li>Logistiker</li><li>Hilfsarbeiter</li><li>Produktionsarbeiter</li><li>uvm.</li></ul></div>
+<a class="button" href="/de/branchen/produktion-logistik-handel/" target="_self">
+<span class="displayTableCell">
+<img src="/uploads/tx_templavoila/branch_banner_industry.png" width="156" height="37"  class="branchLogo"  alt="field_tr_access_box_logo_alt" >
+</span>
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-angle-right"></i>
+</span>
+</span>
+</a>
+</div><div class="quickAccess" data-branch="office">
+<div class="image">
+<img src="/uploads/tx_templavoila/branchenkachel_office.jpg" width="384" height="208"   alt="Branch Office" >
+</div>
+<div class="content"><h3>Office</h3><ul class="styled"><li>Telefonisten</li><li>Verkaufer</li><li>Burokaufleute</li><li>Buchhalter</li><li>Bilanzbuchhalter</li><li>Controller</li><li>Webdesigner</li><li>uvm.</li></ul></div>
+<a class="button" href="/de/branchen/office-administration/" target="_self">
+<span class="displayTableCell">
+<img src="/uploads/tx_templavoila/branch_banner_office.png" width="149" height="37"  class="branchLogo"  alt="field_tr_access_box_logo_alt" >
+</span>
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-angle-right"></i>
+</span>
+</span>
+</a>
+</div><div class="quickAccess" data-branch="construction">
+<div class="image">
+<img src="/uploads/tx_templavoila/branchenkachel_construction.jpg" width="384" height="208"   alt="Branch Construction" >
+</div>
+<div class="content"><h3>Construction</h3><ul class="styled" style="font-size: 12px; font-weight: normal;"><li>Maurer</li><li>Kranfahrer</li><li>Baggerfahrer</li><li>Betonierer</li><li>Gipser</li><li>Fassader</li><li>Bauhelfer</li><li>uvm.</li></ul></div>
+<a class="button" href="/de/branchen/bauwirtschaft-bautechnik/" target="_self">
+<span class="displayTableCell">
+<img src="/uploads/tx_templavoila/branch_banner_construction.png" width="179" height="37"  class="branchLogo"  alt="field_tr_access_box_logo_alt" >
+</span>
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-angle-right"></i>
+</span>
+</span>
+</a>
+</div><div class="quickAccess" data-branch="technical">
+<div class="image">
+<img src="/uploads/tx_templavoila/branchenkachel_technical_01.jpg" width="384" height="208"   alt="Branch Technical" >
+</div>
+<div class="content"><div><h3>Technical</h3></div><ul class="styled"><li>Elektriker</li><li>Karosseure</li><li>Schlosser</li><li>Blechschlosser</li><li>Schweisser</li><li>Werkzeugmacher</li><li>Spengler</li><li>Industrieelektriker</li></ul></div>
+<a class="button" href="/de/branchen/handwerk-technik/" target="_self">
+<span class="displayTableCell">
+<img src="/uploads/tx_templavoila/branch_banner_technical.png" width="159" height="37"  class="branchLogo"  alt="field_tr_access_box_logo_alt" >
+</span>
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-angle-right"></i>
+</span>
+</span>
+</a>
+</div><div class="quickAccess" data-branch="engineering">
+<div class="image">
+<img src="/uploads/tx_templavoila/branchenkachel_engineering_01.jpg" width="384" height="208"   alt="Branche Engineering" >
+</div>
+<div class="content"><h3>Engineering</h3><ul class="styled"><li>Testingenieure</li><li>Bauingenieure</li><li>Projektleiter</li><li>Qualitatsplaner</li><li>CAE Ingenieure</li><li>Interne Auditoren</li><li>CADKonstrukteure</li><li>Statiker</li></ul></div>
+<a class="button" href="http://www.trummer-engineering.com" target="_blank">
+<span class="displayTableCell">
+<img src="/uploads/tx_templavoila/branch_banner_engineering.png" width="170" height="43"  class="branchLogo"  alt="field_tr_access_box_logo_alt" >
+</span>
+<span class="displayTableCell">
+<span class="icon">
+<i class="fa fa-angle-right"></i>
+</span>
+</span>
+</a>
+</div></div></div></div><div class="contentBox"><div class="Tx-Formhandler">
+
+<h1>Sie haben <span class="colorRed">Fragen</span> an Trummer Personal?</h1>
+
+<div class="gGrid base2 gutter20">
+<div class="gGridItem firstItem size1">
+<div class="gGridContent">
+<p>
+
+<br />
+<br />
+Zentrale Deutschland
+<br />
+Bahnhofstrasse 24
+<br />
+09111 Chemnitz
+<br />
+<br />
+
+<span class="iconWrapper"> <span class="icon rounded" data-icon="fa-phone"> <i class="fa"></i> </span> <span class="text">+49 (0)371/26 21 21-011</span> </span>
+<br />
+<a class="iconWrapper" href="mailto:team.chemnitz@trummer.eu"> <span class="icon rounded" data-icon="fa-envelope"> <i class="fa"></i> </span> <span class="text">team.chemnitz(at)trummer.eu</span> </a>
+</p>
+<p>
+Hier finden Sie alle Trummer <a href="/de/standorte/">Standorte</a>.
+</p>
+</div>
+</div>
+<div class="gGridItem lastItem size1">
+<div class="gGridContent">
+<form action="/de/" method="POST" name="contact-trummer" id="contact-trummer"><fieldset style="display: none;">
+<input type="hidden" name="id" value="2" />
+<input type="hidden" name="formhandler_tcontact[submitted]" value="1" />
+
+<input type="hidden" name="formhandler_tcontact[randomID]" value="58998f8a3b47f20c63bf1d2f0154e479" />
+
+<input type="hidden" id="removeFile-58998f8a3b47f20c63bf1d2f0154e479" name="formhandler_tcontact[removeFile]" value="" />
+
+<input type="hidden" id="removeFileField-58998f8a3b47f20c63bf1d2f0154e479" name="formhandler_tcontact[removeFileField]" value="" />
+
+<input type="hidden" id="submitField-58998f8a3b47f20c63bf1d2f0154e479" name="formhandler_tcontact[submitField]" value="" />
+
+<input type="hidden"  name="formhandler_tcontact[step-2-next]"  id="ieHiddenField-58998f8a3b47f20c63bf1d2f0154e479" value="1" />
+</fieldset>
+<fieldset>
+<label for="slct2">Thema<span class="sup">*</span></label>
+<select name="formhandler_tcontact[topic]" id="slct2" class="required  singleOption" data-option="single">
+<option value=""></option>
+<option value="Fachpersonal finden" >Fachpersonal finden</option>
+<option value="Job finden" >Job finden</option>
+<option value="Sontiges" >Sontiges</option>
+</select>
+</fieldset>
+<div class="gGrid base2 gutter20">
+<div class="gGridItem firstItem size1">
+<div class="gGridContent">
+<fieldset>
+<label for="slct">Anrede<span class="sup">*</span></label>
+<select name="formhandler_tcontact[salutation]" id="slct" class="required  singleOption" data-option="single">
+<option value=""></option>
+<option value="Frau"  >Frau</option>
+<option value="Herr"  >Herr</option>
+</select>
+</fieldset>
+
+<fieldset>
+<label for="title">Titel</label>
+<input type="text" name="formhandler_tcontact[title]" id="title" value="" />
+</fieldset>
+
+<fieldset>
+<label for="firstname">Vorname<span class="sup">*</span></label>
+<input type="text" name="formhandler_tcontact[firstname]" id="firstname" class="required " value="" />
+</fieldset>
+
+<fieldset>
+<label for="lastname">Nachname<span class="sup">*</span></label>
+<input type="text" name="formhandler_tcontact[lastname]" id="lastname" class="required " value="" />
+</fieldset>
+</div>
+</div>
+<div class="gGridItem lastItem size1">
+<div class="gGridContent">
+<fieldset>
+<label for="company">Firma</label>
+<input type="text" name="formhandler_tcontact[company]" id="company" value="" />
+</fieldset>
+
+<fieldset>
+<label for="recipient">Email-Adresse<span class="sup">*</span></label>
+<input type="text" name="formhandler_tcontact[recipient]" id="recipient" class="required " value="" />
+<input type="text" name="formhandler_tcontact[email]" id="email" />
+</fieldset>
+
+<fieldset>
+<label for="phone">Telefon</label>
+<input type="text" name="formhandler_tcontact[phone]" id="phone" value=""  />
+</fieldset>
+</div>
+</div>
+</div>
+
+<fieldset>
+<label for="message">Ihre Nachricht an uns<span class="sup">*</span></label>
+<textarea name="formhandler_tcontact[message]" id="message" class="required "></textarea>
+</fieldset>
+
+<fieldset>
+<button form="contact-trummer" type="submit" class="button" data-icon="paper-plane"  name="formhandler_tcontact[step-2-next]" >
+<span class="displayTable"> <span class="displayTableCell"> <span class="icon"> <i class="fa"></i> </span> <span class="buttonText">Absenden</span> </span> </span>
+</button>
+</fieldset>
+<p class="mandatoryHint">
+Mit * gekennzeichnete Felder sind Pflichtfelder.
+</p>
+</form>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+<div id="pageFoot" class="frameBox">
+<div class="contentBox">
+
+<div id="pageFootNav" class="frameBox">
+
+<div class="gGrid base4 gutter20">
+<div class="gGridItem firstItem size1">
+<div class="gGridContent"><h3>Navigation</h3><ul><li><span><a href="/de/stellenangebote/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Stellenangebote</a></span></li><li><span><a href="/de/bewerber/allgemeine-informationen/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Bewerber</a></span></li><li class="hideInSmall"><span><a href="/de/kunden/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Kunden</a></span></li><li><span><a href="/de/branchen/produktion-logistik-handel/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Branchen</a></span></li><li><span><a href="/de/information/servicethemen/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Servicethemen</a></span></li><li><span><a href="/de/standorte/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Standorte</a></span></li><li><span><a href="/de/kontakt/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Kontakt</a></span></li></ul></div>
+</div>
+<div class="gGridItem size1">
+<div class="gGridContent"><h3>Rechtshinweis</h3><ul><li><span><a href="/de/impressum/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Impressum</a></span></li><li><a href="/de/datenschutz/"><span class="icon"><i class="fa fa-chevron-circle-right"></i></span>Datenschutz</a></li></ul></div>
+</div>
+<div class="gGridItem size1">
+<div class="gGridContent"><h3>Social Media</h3>
+<ul class="socialLinks">
+<li class="first">
+<a class="textCenterBox" href="https://www.xing.com/companies/trummermontage%26personal/employees" target="_blank">
+Xing
+<span class="icon front"><i class="fa fa-xing"></i></span>
+<span class="icon back"><i class="fa fa-xing"></i></span>
+</a>
+</li>
+<li>
+<a class="textCenterBox" href="https://www.linkedin.com/company/9330835?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A9330835%2Cidx%3A1-1-1%2CtarId%3A1439475517635%2Ctas%3Atrummer%20personal" target="_blank">
+LinkedIn
+<span class="icon front"><i class="fa fa-linkedin"></i></span>
+<span class="icon back"><i class="fa fa-linkedin"></i></span>
+</a>
+</li>
+<li>
+<a class="textCenterBox" href="https://www.facebook.com/pages/Trummer-Montage-Personal-GmbH/405286439520245" target="_blank">
+Facebook
+<span class="icon front"><i class="fa fa-facebook"></i></span>
+<span class="icon back"><i class="fa fa-facebook"></i></span>
+</a>
+</li>
+<li class="last">
+<a class="textCenterBox" href="https://plus.google.com/108586320153397977380/" target="_blank">
+Google Plus
+<span class="icon front"><i class="fa fa-google-plus"></i></span>
+<span class="icon back"><i class="fa fa-google-plus"></i></span>
+</a>
+</li>
+</ul></div>
+</div>
+<div class="gGridItem lastItem size1">
+<div class="gGridContent"><h3>Uber uns</h3>
+<p>Trummer Personalservice GmbH</p>
+<p>Bahnhofstrasse 24<br />D-09111 Chemnitz</p></div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<script type="text/javascript" src="https://herold.adplorer.com/herold.aspx" async></script>
+
+
+<script type="text/javascript">
+/*<![CDATA[*/
+/*TS_inlineFooter*/
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-39109307-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+
+/*]]>*/
+</script>
+
+
+</body>
+</ht

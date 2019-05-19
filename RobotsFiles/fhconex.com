@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /app
+Disallow: /cache
+Disallow: /cgi-bin
+Disallow: /video
+Disallow: /tmp
+Disallow: /tinymce
+Disallow: /skins
+Disallow: /rs-plugin
+Disallow: /fonts
+Disallow: /font
+Disallow: /colorpicker
+Disallow: /bodybg
+Disallow: /pliki
+Disallow: /files
+Disallow: /memberplus

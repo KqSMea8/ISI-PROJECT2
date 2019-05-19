@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /profil/
+Disallow: /pl/profil/
+Sitemap: https://jednooczni.org/sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /images/
+Disallow: /image/
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /strefa/
+Disallow: /partner/
+Disallow: /ankiety/
+Disallow: /branza/
+Disallow: /zinstal/
+Disallow: firmy-poczta-generator.inc

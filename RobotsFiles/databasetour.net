@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /thanks.html
+Disallow: /mailerr.html
+Disallow: /instruction.html
+Disallow: /de/thanks.html
+Disallow: /de/mailerr.html
+Disallow: /ua/thanks.html
+Disallow: /ua/mailerr.html
+Disallow: /fr/thanks.html
+Disallow: /fr/mailerr.html
+Disallow: /pl/thanks.html
+Disallow: /pl/mailerr.html
+Sitemap: http://www.databasetour.net/sitemap.xml
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:

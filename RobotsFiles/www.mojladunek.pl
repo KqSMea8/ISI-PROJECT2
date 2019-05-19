@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /auth/*/
+Disallow: /cron/
+Disallow: /email/
+Disallow: /tracker/
+Disallow: */action/
+Disallow: */agree/
+Disallow: */bets/
+Disallow: */change/
+Disallow: */check/
+Disallow: */checking/simple/
+Disallow: */count/
+Disallow: */delete/
+Disallow: */download/
+Disallow: */legals/
+Disallow: */save/
+Disallow: */suggest/
+Disallow: */request/
+Disallow: */update/
+Host: https://www.my-freights.com
+Sitemap: https://www.my-freights.com/sitemap.xml
+

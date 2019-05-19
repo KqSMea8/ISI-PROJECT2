@@ -1,0 +1,9 @@
+User-agent: *
+allow: /
+allow: /*
+Allow: /index.html
+Allow: /stancje/index.htm
+Allow: /stancje/dostep.htm
+Allow: http://www.i-net.pl
+Allow: http://www.geodezja.pl
+Allow: http:///www.9669.pl

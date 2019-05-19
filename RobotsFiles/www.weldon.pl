@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /doc/
+Disallow: /gfx/
+Allow: /gfx/weldon/*.gif$
+Allow: /gfx/weldon/*.jpg$
+Disallow: /sql/
+Disallow: /tools/
+Disallow: /uzywamy-plikow-cookies/
+Disallow: /de/
+Disallow: /zdjecia/
+Disallow: /pliki/
+User-agent: Fasterfox
+Disallow: /

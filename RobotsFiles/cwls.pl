@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /cked/
+Disallow: /grafika/
+Disallow: /images/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /tmp/
+Disallow: /uploadify/
+Disallow: /NOWA_WWW/

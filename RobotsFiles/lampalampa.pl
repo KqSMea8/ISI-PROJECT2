@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: https://lampalampa.pl/sitemap/0/sitemap-index.xml
+Disallow: /*li_op=
+Disallow: /*tag=
+Disallow: /*search=
+Disallow: /*manufacturer_id=
+Disallow: /*sort=
+Disallow: /*order=
+Disallow: /*limit=
+Disallow: /*filter_name=
+Disallow: /*filter_sub_category=
+Disallow: /*filter_description=
+Disallow: /*tracking=
+Disallow: /index.php?route=account/login
+Disallow: /index.php?route=account/register
+Disallow: /index.php?route=account/return/add

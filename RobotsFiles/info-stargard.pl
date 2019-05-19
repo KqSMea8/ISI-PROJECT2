@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /xautoinstalator/
+Disallow: /private/
+Disallow: /autoinstalator/
+Disallow: test.php
+Disallow: aktpanel_OK.php
+Disallow: http://info-stargard.pl/aktpanel_OK.php
+Disallow: http://info-stargard.pl/akt.php
+Disallow: http://www.info-stargard.pl/aktpanel_OK.php
+Disallow: /moesia

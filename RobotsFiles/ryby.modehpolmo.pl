@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*?sq_content_src=
+Disallow: /*/_recache
+Disallow: /*/_edit
+Disallow: /*/_admin
+Disallow: /*/_login
+Disallow: /*/_performance
+Disallow: /_designs

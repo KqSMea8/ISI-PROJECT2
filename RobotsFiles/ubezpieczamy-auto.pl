@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: /wp-admin/
+Disallow:
+User-agent: googlebot-image
+Disallow: /wp-admin/
+Disallow:
+User-agent: googlebot-mobile
+Disallow: /wp-admin/
+Disallow:
+User-agent: Bingbot
+Disallow: /wp-admin/
+Disallow:
+User-agent: MSNBot
+Disallow: /wp-admin/
+Disallow:
+User-agent: MSNBot-Media
+Disallow: /wp-admin/
+Disallow:
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /
+Disallow: /*.pdf
+
+Sitemap: https://ubezpieczamy-auto.pl/sitemap_index.xml

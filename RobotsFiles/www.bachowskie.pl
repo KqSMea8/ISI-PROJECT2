@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /audio/
+Disallow: /cms/
+Disallow: /images/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /upload/
+Allow: /

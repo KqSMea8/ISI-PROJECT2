@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /public.static/
+Disallow: /public/styles/
+Disallow: /public/js/
+Disallow: /public/images/
+Disallow: logowanie.html
+Disallow: rejestracja.html
+Disallow: moje_dane.html
+Sitemap: http://oxford.pwn.pl/sitemap.xml

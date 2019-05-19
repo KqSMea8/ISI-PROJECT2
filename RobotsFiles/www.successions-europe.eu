@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /App_Code/
+Disallow: /App_GlobalResources/
+Disallow: /css/
+Disallow: /FCKEditor/
+Disallow: /flashvideo/
+Disallow: /flexpage/
+Disallow: /js/
+Disallow: /CmsTextBoxEditDialog.aspx
+Disallow: /FlexPage.asmx
+Disallow: /Global.asax
+Disallow: /StructureEditorService.asmx
+Disallow: /web.config
+Sitemap: SiteMap.ashx

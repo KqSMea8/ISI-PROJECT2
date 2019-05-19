@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /reklama/
+Disallow: /add~/
+Disallow: /liczniki/
+Disallow: /erbon/
+Disallow: /z_eurom/
+Disallow: /z_mat/
+Disallow: /z_simplemn/
+Disallow: /bn/

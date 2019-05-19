@@ -1,0 +1,63 @@
+User-agent: *
+Allow: /zbiorniki.html
+Allow: /uslugi.html
+Allow: /technikaregulacji.html
+Allow: /solaris.html
+Allow: /sirius.html
+Allow: /serwis.html
+Allow: /rury.html
+Allow: /roth.html
+Allow: /partnerzy.html
+Allow: /ogrzewanietradycyjne.html
+Allow: /ogrzewanietbs.html
+Allow: /ogrzewanie.html
+Allow: /oczyszczalniedrenazowe.html
+Allow: /oczyszczalniebezdrenazowe.html
+Allow: /nibesplit.html
+Allow: /nibef2020.html
+Allow: /nibef1340.html
+Allow: /nibef1330.html
+Allow: /nibef1245.html
+Allow: /nibef1240.html
+Allow: /nibef1140.html
+Allow: /nibef1127.html
+Allow: /nibef600p.html
+Allow: /nibef410p.html
+Allow: /nibef310p.html
+Allow: /nibef100p.html
+Allow: /nibe.html
+Allow: /kolektory.html
+Allow: /index.html
+Allow: /hevelius.html
+Allow: /galeria.html
+Allow: /elementyinstalacji.html
+Allow: /danfoss.html
+Allow: /danfossa.html
+Allow: /danfossc.html
+Allow: /danfossl.html
+Allow: /danfossh.html
+Allow: /danfosskb.html
+Allow: /danfossonline.html
+Allow: /danfossdhpaopti.html
+Allow: /danfossdhpax.html
+Allow: /danfossdhhaoptipro.html
+Allow: /danfossdhplopti.html
+Allow: /danfossdhpr.html
+Allow: /danfossdwh.html
+Allow: /danfossdwhextenderopti.html
+Allow: /danfossdwhopti.html
+Allow: /cennik.html
+Allow: /inflex.html
+Disallow: /pdf/*.pdf
+Disallow: /img/*.jpg
+Disallow: /img/*.png
+Disallow: /img/*.swf
+Disallow: /danfoss/*.pdf
+Disallow: /danfoss/*.png
+Disallow: /danfoss/*.jpg
+Disallow: /inflex/*.png
+
+
+
+
+

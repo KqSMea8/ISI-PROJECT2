@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /imagedescription.action2
+Disallow: /checkoutimages.action2
+Disallow: /mybookmarks/addbookmark.action2
+Disallow: /mybookmarks/removebookmark.action2
+Disallow: /*.html.printable
+Disallow: /*?contactPage=*
+Disallow: /*?contactUserId=*
+Disallow: /*?sv.state=*
+Disallow: /*?profiling=*
+Disallow: /*.pdf?properties=*
+Disallow: /*?addToCart=true
+Disallow: /*;jsessionid=*
+Sitemap: http://www.uniflexpolska.pl/sitemapindex.xml

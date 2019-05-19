@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /apps/
+Disallow: /docs/
+Disallow: /project/
+Disallow: /overlay/
+Disallow: /uploads/
+Disallow: /uploads/files/
+Disallow: /programroletowy/

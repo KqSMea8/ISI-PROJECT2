@@ -1,0 +1,23 @@
+# robots.txt for http://www.lyczkowski.net/
+
+User-agent: *
+Disallow: /pdf/
+Disallow: /images/herby/herby/
+Disallow: /images/cover/
+Disallow: /flip/
+
+User-agent: Yandex
+Disallow: /pdf/
+Disallow: /images/herby/herby/
+Disallow: /images/cover/
+Disallow: /flip/
+Disallow: /manifest.json
+Disallow: /sitemap.xml
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /images/cover/twitter-img.png
+
+Host: www.lyczkowski.net
+Sitemap: http://www.lyczkowski.net/sitemap.xml
+Sitemap: http://www.lyczkowski.net/urllist.txt

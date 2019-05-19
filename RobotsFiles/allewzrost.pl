@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /newsletter/zapisz/
+Disallow: /redirect/
+Disallow: /min/
+Disallow: /ofert/
+Disallow: /mini/
+Disallow: /dokonca/
+Disallow: /tytul/
+Disallow: /cena/
+Disallow: /loginkomentarz/
+Disallow: /tresckomentarza/
+Disallow: /datakomentarz/
+Disallow: /statystyki/
+Disallow: /regulamin/
+Disallow: /pp/regulamin/

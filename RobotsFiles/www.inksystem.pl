@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: */?filtr=*
+Disallow: /icc/
+Disallow: */sortby-price/
+Disallow: */sortby-price_down/
+Disallow: */sortby-name/
+Disallow: */sortby-name_down/
+Disallow: */filter/*
+Disallow: /*.doc
+Disallow: /cart_pl/
+Disallow: /thankyou.html
+Disallow: /?s=*
+Disallow: /auth/facebook/
+Disallow: */page-*
+Disallow: /photographic-ink-sale.html
+
+Host: www.inksystem.pl
+Sitemap: http://www.inksystem.pl/sitemap.xml

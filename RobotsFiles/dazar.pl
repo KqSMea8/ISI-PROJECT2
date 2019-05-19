@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /licznik/
+Disallow: /tmp/
+Disallow: /sklep/
+Disallow: /prestashop/
+Disallow: /pub/
+Disallow: /pub2/
+Disallow: /PC/

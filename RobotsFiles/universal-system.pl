@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /img
+Disallow: /master
+Disallow: /php
+Disallow: /vendor
+Disallow: /js
+Disallow: /img/
+Disallow: /master/
+Disallow: /php/
+Disallow: /vendor/
+Disallow: /js/

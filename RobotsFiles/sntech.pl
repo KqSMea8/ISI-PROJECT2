@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /bft/
+Disallow: /biuro/
+Disallow: /calogic/
+Disallow: /casting/
+Disallow: /client/
+Disallow: /furla/
+Disallow: /great_park/
+Disallow: /klient/
+Disallow: /lwnuk/
+Disallow: /mail/
+Disallow: /niezlajazda/
+Disallow: /opus/
+Disallow: /rozne/
+Disallow: /saloni/
+Disallow: /tango/
+Disallow: /wytwornia/

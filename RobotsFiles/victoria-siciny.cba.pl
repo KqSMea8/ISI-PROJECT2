@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /config.php
+Disallow: /administration/
+Disallow: /locale/
+Disallow: /themes/
+Disallow: /print.php
+Disallow: /infusions/latest_comments_panel/
+

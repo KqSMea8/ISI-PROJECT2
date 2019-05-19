@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html  xml:lang="en" lang="en"> <!--<![endif]-->
+<head>
+<title>Solutions for your needs - ESN Engineering Service Network</title>
+<!-- Meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+<meta name="author" content="" />
+<meta name="google-site-verification" content="" />
+<meta property="og:title" content="Solutions for your needs - ESN Engineering Service Network" />
+<meta property="og:url" content="https://www.esngroup.eu:443/robots.txt" />
+<meta property="og:image" content="https://www.esngroup.eu/assets/img/thumb.jpg" />
+<meta property="og:description" content="Solutions for your needs - ESN Engineering Service Network" />
+<link rel="image_src" href="https://www.esngroup.eu/assets/img/thumb.jpg"/>
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://www.esngroup.eu/favicon.ico">
+<!-- CSS Global Compulsory -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://www.esngroup.eu/assets/vendor//bootstrap-3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://www.esngroup.eu/assets/vendor/animation/animate.css" rel="stylesheet">
+<link href="https://www.esngroup.eu/assets/css/ma-helper.css" rel="stylesheet">
+<link href="https://www.esngroup.eu/assets/css/main.css?1556136458" rel="stylesheet">
+<!-- maCoockiEu -->
+<link href="https://www.esngroup.eu/assets/css/lib/maCookieEu.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class="index">
+<!-- header -->
+<!-- NAVBAR -->
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="https://www.esngroup.eu/">
+<img class="visible-xs visible-sm" id="logo-header" src="https://www.esngroup.eu/assets/img//app/logo.jpg" alt="Solutions for your needs - ESN Engineering Service Network">
+<img class="hidden-xs hidden-sm" id="logo-header"   src="https://www.esngroup.eu/assets/img//app/logo_big.png" alt="Solutions for your needs - ESN Engineering Service Network">
+</a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
+<li class=" dropdown" id="company"><a href="https://www.esngroup.eu/3-company" class=" dropdown-toggle " data-toggle="dropdown">Company<b class="caret"></b></a>
+<ul  class="dropdown-menu">
+<li class="liv_1"><a href="https://www.esngroup.eu/38-history" >History</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/12-mission" >Mission</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/13-value" >Our core values</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/14-people" >People</a></li>
+</ul>
+</li>
+<li class=" dropdown" id="Equipment"><a href="https://www.esngroup.eu/4-equipment" class=" dropdown-toggle " data-toggle="dropdown">Equipment<b class="caret"></b></a>
+<ul  class="dropdown-menu">
+<li class="liv_1"><a href="https://www.esngroup.eu/5-labelling" >Labelling</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/33-secondary-packaging" >Secondary packaging</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/34-palletising" >Depaletising & Palletising</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/53-conveyors-amp-devices" >Conveyors & Devices</a></li>
+
+<li class="liv_1"><a href="https://www.esngroup.eu/35-moving" >Moving</a></li>
+</ul>
+</li>
+<li  id="Engineering"><a href="https://www.esngroup.eu/6-engineering" >Engineering</a></li>
+<li  id="support"><a href="https://www.esngroup.eu/7-support" >Support</a></li>
+<li  id="news"><a href="https://www.esngroup.eu/8-news" >News</a></li>
+<li  id="contact"><a href="https://www.esngroup.eu/9-contact" >Contact</a></li>
+<li  id="jobs"><a href="https://www.esngroup.eu/71-jobs" >Jobs</a></li>
+<li class="dropdown"><a href="#" class=" dropdown-toggle " data-toggle="dropdown"><span class="rounded">EN</span></a>
+<ul  class="dropdown-menu">
+<li><a href="fr/robots.txt" >Francaise</a></li>
+<li><a href="it/robots.txt" >Italiano</a></li>
+<li><a href="pl/robots.txt" >Polski</a></li>
+<li><a href="es/robots.txt" >Espagnol</a></li>
+<li><a href="ru/robots.txt" >Russkii</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<!--=== End Header ===-->    <!--=== Slider ===-->
+<!-- Carousel ================================================== -->
+<div id="header" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner">
+<div class="item  active " style="background-image: url('https://www.esngroup.eu//publicnew/slidehp_2.jpg')">
+<div class="text full-screen">
+<div class="container__caption">
+<div ><span>Integrated Solutions</span></div>
+<div style='margin-top:4px'>Improve the quality of global supply</div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.carousel -->
+<!--=== End Slider ===-->
+
+<!-- HEADER -->
+<div class="container">
+<!-- BLOCK 1-->
+<div class="row flex text-block-with-color mv35">
+<div class="col-md-6 col-sm-12 col-md-push-6 relative wow slideInLeft animated">
+
+<img src="https://www.esngroup.eu//publicnew/hp_esn_1.jpg" class="img-responsive fw">
+</div>
+<div class="col-md-6 col-sm-12 col-md-pull-6 flex  wow slideInRight animated">
+<div class="content-block">
+<h2 class="title decorator mb15">Solutions for your needs</h2>
+<p><h5>Our network of specialized engineers, with a solid experience and expert knowledge of each specific machine, is at your disposal to provide all the assistance you may require and meet your specific needs.</h5></p>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<!-- BLOCK 2 -->
+<div class="row flex text-block-with-bg mb35">
+<div class="col-md-7 col-sm-12 relative wow slideInRight animated">
+
+<img src="https://www.esngroup.eu//publicnew/company.jpg" class="img-responsive fw" >
+</div>
+<div class="col-md-5 col-sm-12 flex wow slideInLeft animated">
+<div class="content-block">
+
+<h2 class="title small-decorator mb20">Integration</h2>
+<p><h5>WE OFFER ALL OUR KNOWLEDGE AND EXPERTISE IN ORDER TO IMPROVE YOUR LINE PERFORMANCE&nbsp;</h5></p>
+
+</div>
+</div>
+</div>
+
+<!-- BLOCK 3
+<div class="row text-block-with-image mh0 mv35 hidden" style="background-image: url('assets/images/home/bg-zeta-16-10.jpg')">
+<div class="col-md-4 col-sm-12 ">
+<div class="content-block bg-1 mv25 pf25">
+<h2 class="title decorator mb25">Zeta 16-10</h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis.</p>
+</div>
+</div>
+<div class="col-md-8 col-sm-12">
+<img src="assets/images/home/zeta-16-10.png" alt="Zeta 16-10" class="img-responsive animated fadeIn image">
+</div>
+</div>
+-->
+
+</div><!-- footer -->
+<footer>
+<div class="container pv25">
+<div class="row">
+<div class="col-md-4 col-sm-12">
+<b>(c) 2019 ESN Engineering Service Network</b><br />
+Via Blancanuca, 4- 24047- Treviglio - Bergamo - Italy <br />
+VAT Number: 08459710961 <br>
+
+</div>
+<div class="col-md-4 col-sm-12">
+<i class="fa fa-phone"></i> (+39) 39 0363 44317<br />
+<i class="fa fa-envelope"></i> <a href="mailto:info@esngroup.eu" >info@esngroup.eu</a>
+<br>
+<i class="fa fa-user-secret" aria-hidden="true"></i> <a href="https://www.esngroup.eu/57-privacy" class="color-4">Privacy Policy</a>
+</div>
+<div class="col-md-4 col-sm-12">
+
+<div id="socialBox" class=" pull-right-min-md centered-xs mt25-xs">
+<ul class="socialIcons bigIcons">
+<li><a href="https://plus.google.com/u/0/111614955282614338735"  target="_news"><i class="fa fa-google-plus"></i></a></li>
+<li><a href="https://www.linkedin.com/company/6418429"  target="_news"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+</div><!-- ./social box -->
+
+</div>
+</div>
+</div>
+</footer>
+<div class="cookie_notice" role="status">
+<span>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.&nbsp;
+<a title="Leggi la nostra Informativa sulla privacy" href="https://www.esngroup.eu/57-privacy">Find out more here</a>
+</span>
+<span class="closer" id="cookie_close"><i class="fa fa-times"></i></span>
+</div>
+
+<!-- Le javascript ================================================== -->
+<script type="text/javascript">
+var serverPath		="https://www.esngroup.eu/";
+var urlAjaxHandler 	= "https://www.esngroup.eu/view/ajax/index.php";;//percorso  del contenuto del  dialog
+var website_name	="ESN GROUP";
+var isNewsletterActived="";
+var mySezione		="";
+var serverPathImgSezione=serverPath+'/images/'+mySezione;
+var imageScroll="https://www.esngroup.eu/assets/img/up.png";
+
+</script>
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://www.esngroup.eu/assets/languages/localize.en.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script type="text/javascript" src="https://www.esngroup.eu/assets/vendor/bootstrap-3.3.6/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="https://www.esngroup.eu/assets/vendor//wow-animations/js/wow.min.js"></script>
+<script type="text/javascript" src="https://www.esngroup.eu/assets/vendor/back-to-top.js"></script>
+<script type="text/javascript" src="https://www.esngroup.eu/assets/vendor/notify.min.js"></script>
+<script type="text/javascript" src="https://www.esngroup.eu/assets/vendor/bootbox.min.js"></script>
+<script type="text/javascript" src="https://www.esngroup.eu/assets/vendor/carousel-swipe.js"></script>
+<!-- JS APP  && Page Level -->
+<script type="text/javascript" src="https://www.esngroup.eu/assets/js/app.js"></script>
+<script type="text/javascript" src="https://www.esngroup.eu/assets/js/lib/jquery.maCookieEu.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+App.init();
+App.initWoW();
+$.maCookieEu(this,{
+position    	: "bottom",
+cookie_name 	: "_eu",
+background		: "#838584",
+delete_cookie 	: false,
+}
+);
+$('#myCarouselHP').carousel({
+interval: 200
+})
+
+});
+(function( $ ) {
+
+//Function to animate slider captions
+function doAnimations( elems ) {
+//Cache the animationend event in a variable
+var animEndEv = 'webkitAnimationEnd animationend';
+
+elems.each(function () {
+var $this = $(this),
+$animationType = $this.data('animation');
+$this.addClass($animationType).one(animEndEv, function () {
+$this.removeClass($animationType);
+});
+});
+}
+
+//Variables on page load
+var $myCarousel = $('#myCarousel'),
+$firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
+
+//Initialize carousel
+$myCarousel.carousel();
+
+//Animate captions in first slide on page load
+doAnimations($firstAnimatingElems);
+
+//Pause carousel
+$myCarousel.carousel('pause');
+
+
+//Other slides to be animated on carousel slide event
+$myCarousel.on('slide.bs.carousel', function (e) {
+var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
+doAnimations($animatingElems);
+});
+
+})(jQuery);
+</script>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-54142559-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+

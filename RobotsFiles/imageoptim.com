@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /ImageOptim.tar.bz
+Disallow: /ImageOptim.tbz
+

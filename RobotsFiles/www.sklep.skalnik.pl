@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /phpmailer/
+Disallow: /lightbox/
+Disallow: /inc/
+Disallow: /c/
+Disallow: /shop/
+Disallow: /szukaj-produktow
+Disallow: /wyszukiwarka-zaawansowana
+Noindex: *?filter=
+Noindex: *?set=
+Noindex: *?operation=*
+Disallow: /wiadomosci/

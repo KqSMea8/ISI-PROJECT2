@@ -1,0 +1,7 @@
+# robots.txt for https://www.van.man
+User-agent: *
+Disallow: /dz
+Disallow: /il
+Disallow: /uz
+Sitemap: https://www.van.man/sitemap_domain.xml
+

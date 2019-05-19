@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /content/3-regulamin-sklepu
+Disallow: /moje-konto
+Disallow: /quick-order
+Disallow: /historia-zamowien
+Disallow: /uwierzytelnianie
+Disallow: /content/3-regulamin-sklepu
+Disallow: /content/17-jak-pakujemy-paczki
+Disallow: /*?orderby=
+Disallow: /*&orderby=
+Sitemap: https://neutralizatoryzapachu.pl/sitemap.xml

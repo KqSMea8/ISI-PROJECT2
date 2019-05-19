@@ -1,0 +1,46 @@
+# temporary disable all bots
+# User-agent: *
+
+# good bots: MJ12bot, SeznamBot
+# bad bots:
+
+# User-agent: Yandex
+# Crawl-delay: 2
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Linguee
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /
+
+User-agent: HubSpot
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: *
+Crawl-Delay: 5
+Disallow: /cgi-bin/
+

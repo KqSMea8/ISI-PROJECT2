@@ -1,0 +1,36 @@
+user-agent *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Disallow: /show-error-*
+Disallow: /xmlrpc.php
+Disallow: /trackback/
+Disallow: /comment-page-*
+Disallow: /files/
+Disallow: /wp-login.php
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+
+user-agent: HTTrack
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+
+user-agent: Exabot
+
+Disallow: /
+user-agent: Baiduspider/2.0
+Disallow: /
+user-agent: SemrushBot
+Disallow: /
+user-agent: JikeSpider
+Disallow: /
+

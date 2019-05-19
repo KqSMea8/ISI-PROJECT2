@@ -1,0 +1,40 @@
+User-agent: *
+Disallow: /admin
+Disallow: /config
+
+Disallow: /*?query=*
+Disallow: /*?fallbackOpen.*
+Disallow: /*?r=*
+
+Disallow: /datasources/*
+Disallow: /system/templates/*
+Disallow: /*/system/MyAdvantage.*
+Disallow: /*/system/sharethismail.*
+Disallow: /*/system/eventanmeldung1.*
+Disallow: /*/system/error500.*
+Disallow: /*/system/error404.*
+Disallow: /*/system/Freigabemail.txt
+Disallow: /*/system/Aktivierungsmail.txt
+Disallow: /*/system/Uebersetzungsauftrag.txt
+Disallow: /*/system/Verlaengerunsmail.txt
+Disallow: /*/system/Veranstaltungs-ToDo-CMS.txt
+Disallow: /*/system/Veranstaltungs-ToDo-Mail.txt
+Disallow: /*/system/searchresult.*
+Disallow: /*/system/SPV-Mail.txt
+Disallow: /*/system/Uebersetzungs-Reminder.txt
+Disallow: /*/system/mp_uebersetzer.html
+Disallow: /*/system/mp_freigabeansicht.html
+Disallow: /*/system/mp_SPVmail.html
+Disallow: /*/system/mp_verlaengerung.html
+Disallow: /*/system/mp_freigabemail.html
+Disallow: /*/system/mp_aktivierung.html
+Disallow: /*/system/mp_ac.html
+
+Disallow: /test
+Disallow: /archiv/*
+
+Disallow: *rss*
+
+Sitemap: http://www.advantageaustria.org/sitemap.xml
+Sitemap: http://www.advantageaustria.org/companies.sitemap.xml
+

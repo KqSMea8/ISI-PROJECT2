@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: admin.php
+Disallow: protect.php
+Disallow: /agencja/contact-app/
+Disallow: /biuro/contact-app/
+Disallow: /biuro/contact-app/
+Disallow: /biuro/userpwd.txt
+Disallow: /biuro/common.php
+Disallow: /biuro/login-form.php
+Disallow: /biuro/login.php
+Disallow: /biuro/register.php

@@ -1,0 +1,3 @@
+User-agent: Yandex
+Crawl-delay: 2
+

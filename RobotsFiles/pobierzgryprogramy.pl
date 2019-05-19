@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /?action=changeSortBy
+Disallow: /?action=favorites
+Disallow: /?function.include
+Disallow: /?function.require
+Disallow: /phpNewsletter/
+Disallow: /ADS/
+Disallow: /Adex/
+Disallow: /PobierzGryProgramy.pl/advertsOmg.php
+Disallow: /aucEj9e55v2L4ZL2Zm.php
+Disallow: /auDsVVV5SC89Xx87vt.php
+Disallow: /auFpi2j516JsAl33VQ.php
+Disallow: /lvcEj9e55v2L4ZL2Zm.php
+Disallow: /lvDsVVV5SC89Xx87vt.php
+Disallow: /lvFpi2j516JsAl33VQ.php
+Disallow: /RepairBookingSystem
+Disallow: /blog_adverts
+Disallow: /banner_generate
+

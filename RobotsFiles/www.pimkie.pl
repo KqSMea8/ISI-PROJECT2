@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /p/null
+Disallow: /on/*/Address-Delete
+Disallow: /on/*/Cart-MiniAddProduct
+Disallow: /on/*/COBilling*
+Disallow: /on/*/COSummary-ResetPaymentForms
+Disallow: /on/*/Currency-SetSessionCurrency
+Disallow: /on/*/GiftCert*
+Disallow: /on/*/null
+Disallow: /on/*/Page-Include
+Disallow: /on/*/Page-Show*
+Disallow: /on/*/Product*
+Disallow: /on/*/RedirectURL*
+Disallow: /on/*/Resources-Load
+Disallow: /on/*/Search-GetSuggestions
+Disallow: /on/*/Search-ShowContent*
+Disallow: /on/*/StoreInventory-Inventory
+Disallow: /on/*/Stores*
+Disallow: /on/*/Wishlist*
+Disallow: /*?prefn*
+Disallow: /*?pmax*
+Disallow: /p-*
+
+Sitemap: http://www.pimkie.pl/Sitemap

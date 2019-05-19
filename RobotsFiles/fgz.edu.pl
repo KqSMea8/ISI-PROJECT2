@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /css/
+Disallow: /en/inc/
+Disallow: /grafika/
+Disallow: /inc/
+Disallow: /nmr/
+Disallow: /pl/inc/
+Disallow: /pl/pdfy/
+Disallow: /*.pdf
+Sitemap: http://fgz.edu.pl/sitemap.xml

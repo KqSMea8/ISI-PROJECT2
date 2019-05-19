@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administrator2/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /modules/
+Disallow: /installation/

@@ -1,0 +1,21 @@
+User-Agent: *
+Allow: /
+Disallow: /adv/
+Disallow: /artykuly_do_prasy/
+Disallow: /atesty/
+Disallow: /config/
+Disallow: /download/
+Disallow: /ethm/
+Disallow: /flash_test/
+Disallow: /flv/
+Disallow: /flv1/
+Disallow: /filmy_www/
+Disallow: /INTRANET/
+Disallow: /prasa/
+Disallow: /reklamy/
+Disallow: /rss/
+Disallow: /error-docs/
+Disallow: /head/
+
+User-agent: Ocelli
+Disallow: /

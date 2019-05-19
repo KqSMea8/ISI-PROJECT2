@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /stats/
+Disallow: /DB/
+Disallow: /Flash/
+Disallow: /Admin/
+Disallow: /datafeeds/
+Disallow: /CustomerSupport.aspx
+Disallow: /customersupport.aspx
+Sitemap: https://www.naszyjnikimie.pl/sitemap.xml

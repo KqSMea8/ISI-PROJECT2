@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /allegro/
+Disallow: /daxton/
+Disallow: /flash/
+Disallow: /js/
+Disallow: /rejsy/
+Disallow: /pliki/
+Disallow: /exc/
+Disallow: /prywatnosc.html
+Disallow: /inwestorzy/prywatnosc.html

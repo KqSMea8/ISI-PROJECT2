@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /poczta/
+Disallow: /korty/
+Disallow: /nieruchomosci/
+Disallow: /pv/
+Disallow: /m/
+
+Allow: /templates/jm-minima-ef4/
+Allow: /components/com_djmediatools/layouts/
+Allow: /modules/mod_djmegamenu/assets/
+Allow: /modules/mod_cookiesaccept/

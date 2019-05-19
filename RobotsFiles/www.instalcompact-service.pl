@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: https://www.instalcompact-service.pl/index.php?s=72
+Disallow: https://www.instalcompact-service.pl/index.php?s=27
+Disallow: https://www.instalcompact-service.pl/index.php?s=35
+Disallow: https://www.instalcompact-service.pl/index.php?s=46
+Disallow: https://instalcompact-service.pl/?s=60
+Disallow: https://www.instalcompact-service.pl/index.php?s=59
+Disallow: https://www.instalcompact-service.pl/index.php?s=41
+Disallow: https://www.instalcompact-service.pl/index.php?s=43
+Disallow: https://www.instalcompact-service.pl/index.php?s=73
+Disallow: https://instalcompact-service.pl/page/3/?s=17
+Disallow: https://instalcompact-service.pl/page/4/?w=p&f=35
+Disallow: https://instalcompact-service.pl/page/5/?s=8
+Disallow: https://www.instalcompact-service.pl/index.php?s=34
+Disallow: https://instalcompact-service.pl/page/4/?s=5
+Disallow: https://instalcompact-service.pl/page/2/?s=8
+Disallow: https://www.instalcompact-service.pl/index.php?s=53
+Disallow: https://www.instalcompact-service.pl/index.php?s=31
+Disallow: https://instalcompact-service.pl/page/2/?s=9
+Disallow: https://instalcompact-service.pl/page/5/?s=7
+Disallow: https://instalcompact-service.pl/page/4/?s=4
+Disallow: https://instalcompact-service.pl/page/5/?s=6
+Disallow: https://instalcompact-service.pl/page/4/?s=7
+Disallow: https://www.instalcompact-service.pl/index.php?s=29
+Disallow: https://instalcompact-service.pl/page/3/?s=8&g=1
+Disallow: https://www.instalcompact-service.pl/index.php?s=26
+Disallow: https://instalcompact-service.pl/page/3/?s=5
+
+
+Sitemap: https://instalcompact-service.pl/sitemap.xml

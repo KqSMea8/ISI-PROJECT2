@@ -1,0 +1,44 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+User-agent: *
+Disallow: /*/p/mail/recommend
+Disallow: /*/p/q
+
+Allow:/
+Allow: /environment/cache/images
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+Disallow: /*/fav/add
+
+Disallow: /*/p/comment/add
+Disallow: /mobile
+Disallow: /pl/links
+Disallow: /pl/passremind
+Disallow: /pl/reg
+Disallow: /komentarz-
+Disallow: /powiadom_znajomego-
+Disallow: /pl/searchquery/*
+Disallow: /pl/login
+Disallow: /en_US
+Disallow: /panel
+Disallow: /pl/Koszyk
+Disallow: /panel/favourites
+Disallow: /pl/fav/add/*
+Disallow: /pl/p/q/*
+Disallow: /pl/p/mail/*
+Disallow: /pl/banner
+Disallow: /pl/new
+Disallow: /links
+Disallow: /pl_PL
+Disallow: /pl/promotions
+Disallow: /pl/promotions/*
+Disallow: /pl/new
+Disallow: /pl/producer/Brasil-Moka/2/*
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/basket
+Disallow: /*/searchquery
+

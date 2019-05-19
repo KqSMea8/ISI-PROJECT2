@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /common/recdoc/repertoire_jurisp/bull_9/data/index_9_06_02.htm
+Disallow: /juris/document/document.jsf?*docid=163787*
+Disallow: /juris/document/document.jsf?*docid=163005*
+Disallow: /juris/document/document.jsf?*docid=165441*
+Disallow: /juris/document/document.jsf?*docid=156383*
+Disallow: /juris/document/document.jsf?*num=F-51/14*
+Disallow: /juris/liste.jsf?*language=en&num=F-51/14*
+Disallow: /juris/document/document.jsf?*num=F-51/14*
+Disallow: /juris/liste.jsf?*num=F-51/14*
+Disallow: /common/recdoc/repertoire_jurisp/bull_9/data/index_9_16_01_07_01.htm
+Disallow: /juris/document/document.jsf?*docid=165111*
+Disallow: /juris/document/document.jsf?*docid=171241*Disallow: /juris/document/document.jsf?*num=F-50/14*
+Disallow: /juris/liste.jsf?*language=en&num=F-50/14*
+Disallow: /juris/document/document.jsf?*num=F-50/14*
+Disallow: /juris/celex.jsf?celex=62014FJ0050*
+Disallow: /juris/liste.jsf?*num=F-50/14*
+Disallow: /jcms/jcms/P_101348/
+

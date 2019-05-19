@@ -1,0 +1,20 @@
+Sitemap: http://www.hi-fi.com.pl/index.php?option=com_xmap&view=xml&id=5
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /stryjecki.pl/
+Disallow: /templates/
+Disallow: /piano.pl/

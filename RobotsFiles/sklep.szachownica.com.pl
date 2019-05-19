@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /!stronawww/
+Disallow: /dane/
+Disallow: /intranet/
+Disallow: /Kalendarz/
+Disallow: /moodle29/
+Disallow: /peltst/
+Disallow: /peltst_old/
+Disallow: /piwigo/
+Disallow: /pub/
+Disallow: /si/
+Disallow: /sparkweb/
+Disallow: /tmp/

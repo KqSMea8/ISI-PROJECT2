@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://adwokatwalinska.pl/sitemap.xml
+

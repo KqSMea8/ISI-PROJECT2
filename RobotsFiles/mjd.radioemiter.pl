@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kalendarz-2/action~posterboard/
+Disallow: /kalendarz-2/action~agenda/
+Disallow: /kalendarz-2/action~oneday/
+Disallow: /kalendarz-2/action~month/
+Disallow: /kalendarz-2/action~week/
+Disallow: /kalendarz-2/action~stream/
+Disallow: /kalendarz-2/action~undefined/
+Disallow: /kalendarz-2/action~http:/
+Disallow: /kalendarz-2/action~default/
+Disallow: /kalendarz-2/action~poster/
+Disallow: /kalendarz-2/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

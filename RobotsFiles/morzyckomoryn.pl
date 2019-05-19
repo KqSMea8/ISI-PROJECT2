@@ -1,0 +1,8 @@
+Sitemap: http://niekiepsko.pl/sitemap.xml
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/ # prevents backlinks in plugin folders
+Disallow: /wp-includes/
+Disallow: /search/ 			   # prevents search queries being indexed
+Disallow: /*?s

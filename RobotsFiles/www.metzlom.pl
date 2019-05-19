@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /_notes/
+Disallow: /_private/
+Disallow: /_vti_bin/
+Disallow: /_vti_cnf/
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+Sitemap: http://www.metzlom.pl/sitemap.xml

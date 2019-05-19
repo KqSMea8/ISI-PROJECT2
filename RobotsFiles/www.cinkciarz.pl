@@ -1,0 +1,36 @@
+User-agent: *
+
+Disallow: /porownanie_modeli_rus.html
+Disallow: /porownanie_modeli_eng.html
+Disallow: /porownanie_modeli.html
+Disallow: /technical_break
+Disallow: /articles/view/
+Disallow: /statics/view/
+Disallow: /statics/currency/
+Disallow: /o-nas/centrum-bezpieczenstwa/aml
+Disallow: /o-nas/centrum-bezpieczenstwa/dobre-praktyki
+Disallow: /o-nas/centrum-bezpieczenstwa/bezpieczenstwo
+Disallow: /o-nas/centrum-bezpieczenstwa/zglos-oszustwo
+Disallow: /kantor/regulamin
+Disallow: /kantor/polityka-prywatnosci
+Disallow: /kantor/polityka-cookies
+Disallow: /statics/currency//ajax
+Disallow: /statics/
+Disallow: /eng/statics/
+Disallow: /rus/statics/
+Disallow: /deu/statics/
+Disallow: /bul/statics/
+Disallow: /rum/statics/
+Disallow: /ukr/statics/
+Disallow: /ita/statics/
+Disallow: /marcin-lipka
+Disallow: /analitycy/marcin-lipka
+Disallow: /analitycy/bartosz-grejner
+Disallow: /analysts/marcin-lipka
+Disallow: /analysts/bartosz-grejner
+Disallow: /articles/search
+Disallow: /wa/pe/
+Disallow: /currencies/currency/
+Disallow: /www-api/
+
+Sitemap: https://cinkciarz.pl/sitemap.xml

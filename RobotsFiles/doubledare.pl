@@ -1,0 +1,21 @@
+User-agent: Google
+Disallow: /wp-admin/
+Disallow: /x-portfolio/
+Disallow: /nasze-prace/
+Disallow: /marta-rawecka/
+Disallow: /film-i-animacja/
+Disallow: /colony-fashion-days/
+Disallow: /x-portfolio-tag/
+Disallow: /the_grid/test2/
+Disallow: /x-portfolio/fablab-lodz/
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /x-portfolio/
+Disallow: /nasze-prace/
+Disallow: /marta-rawecka/
+Disallow: /film-i-animacja/
+Disallow: /colony-fashion-days/
+Disallow: /x-portfolio-tag/
+Disallow: /the_grid/test2/
+Disallow: /x-portfolio/fablab-lodz/

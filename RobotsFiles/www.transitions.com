@@ -1,0 +1,9 @@
+user-agent: *
+disallow: http://practicelocator.transitions.com/lookup/index.aspx?language=fr
+disallow: https://www.transitions.com/en-us/mega-menu-pages/find-transitions/
+disallow: http://practicelocator.transitions.com/lookup/index.aspx
+disallow: https://transitions.com/en-us/mega-menu-pages/find-transitions/
+disallow: https://www.transitions.com/geolocation.html
+disallow: http://practicelocator.transitions.com/lookup/index.aspx?style=transitionsvantage.com%2fcss%2fecploc.css&loctype=300000
+disallow: https://transitions.com/geolocation.html
+sitemap: https://www.transitions.com/sitemap.xml

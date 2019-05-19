@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*sLang=
+Disallow: /*our-offer
+Disallow: /*litora-torquent
+Disallow: /*contact-us
+Disallow: /*tents
+Disallow: /*walking-boots
+Disallow: /*high-mountain
+Disallow: /*trekking
+Disallow: /*outdoor-accessories
+Disallow: /files
+Disallow: /templates

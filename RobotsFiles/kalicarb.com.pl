@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /liczniki/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /Katalog/
+Disallow: /pdf/
+Disallow: /praca/
+Disallow: /Private/
+Disallow: /promocje/
+Disallow: /Laip/

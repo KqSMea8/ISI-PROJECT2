@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /css/
+Disallow: /entropybanner/
+Disallow: /foto/
+Disallow: /health/
+Disallow: /images/
+Disallow: /img/
+Disallow: /inne/
+Disallow: /js/
+Disallow: /kicie/
+Disallow: /kwiaty/
+Disallow: /scgi-bin/
+Disallow: /tools/
+Disallow: /txt/
+Disallow: /galerie/

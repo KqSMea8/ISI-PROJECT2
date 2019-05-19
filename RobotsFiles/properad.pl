@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /regulamin
+Disallow: /documents
+Disallow: /documents/regulamin
+Disallow: /kontakt
+Disallow: /users/register
+Disallow: /users/login
+Disallow: /*?sort*
+Disallow: /*&sort*
+Disallow: /*sort:*
+Disallow: /*?filters*

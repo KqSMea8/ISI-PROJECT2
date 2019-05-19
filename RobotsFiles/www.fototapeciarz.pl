@@ -1,0 +1,114 @@
+User-agent: *
+#Disallow: /ajax
+Disallow: /admin
+Disallow: /twoje-zdjecia
+Disallow: /ulubione-zdjecia
+
+User-agent: ZumBot
+User-agent: ZmEu
+User-agent: Zend_Http_Client
+User-agent: YoudaoBot
+User-agent: YodaoBot
+User-agent: YisouSpider
+User-agent: YamanaLab-Robot
+User-agent: xpymep\.exe
+User-agent: www\.integromedb\.org
+User-agent: Wotbot
+User-agent: WEBSITEtheWEB\.COM
+User-agent: WebInDetail\.com
+User-agent: WebCapture
+User-agent: WBSearchBot
+User-agent: visaduhoc\.info
+User-agent: TurnitinBot
+User-agent: The\ Incutio\ XML-RPC\ PHP\ Library
+User-agent: SurveyBot
+User-agent: Speedy
+User-agent: Sosospider
+User-agent: SolomonoBot
+User-agent: Sogou
+User-agent: SocialSearcher
+User-agent: Snoopy
+User-agent: sitebot
+User-agent: sistrix
+User-agent: ShopWiki
+User-agent: SEOENGWorldBot
+User-agent: SemrushBot
+User-agent: searchmetrics
+User-agent: ScreenerBot
+User-agent: rojerbot
+User-agent: Riddler
+User-agent: QuerySeekerSpider
+User-agent: purebot
+User-agent: proximic
+User-agent: ProCogSEOBot
+User-agent: PeoplePal
+User-agent: PagesInventory
+User-agent: OpenWebIndex
+User-agent: Ocelli
+User-agent: NextGenSearchBot
+User-agent: Netseer
+User-agent: netEstate\ NE\ Crawler
+User-agent: NetcraftSurveyAgent
+User-agent: NCBot
+User-agent: MSIE\ or\ Firefox\ mutant
+User-agent: MJ12bot
+User-agent: magpie\-crawler
+User-agent: ltbot
+User-agent: lipperhey
+User-agent: linkdex\.com
+User-agent: lindex\.com
+User-agent: libwww-perl
+User-agent: JikeSpider
+User-agent: Jakarta\ Commons-HttpClient
+User-agent: ip\-web\-crawler\.com
+User-agent: Indy\ Library
+User-agent: gigabot
+User-agent: FTRF\:\ Friendly
+User-agent: Ezooms
+User-agent: EzineArticlesLinkScanner
+User-agent: Exabot
+User-agent: EasouSpider
+User-agent: Dow\ Jones\ Searchbot
+User-agent: dotnetdotcom
+User-agent: dotbot
+User-agent: discoverybot
+User-agent: DinoPing
+User-agent: dataprovider\.com
+User-agent: Curious
+User-agent: CompSpyBot
+User-agent: Comodo-Certificates-Spider
+User-agent: COMODO
+User-agent: CLIPish
+User-agent: Charlotte
+User-agent: CatchBot
+User-agent: Butterfly
+User-agent: brandwatch\.net
+User-agent: Baiduspider
+User-agent: BacklinkCrawler
+User-agent: awcheckBot
+User-agent: aiHitBot
+User-agent: AhrefsBot
+User-agent: Add\ Catalog
+User-agent: accelobot
+User-agent: Aboundex
+User-agent: 80legs
+User-agent: 360Spider
+User-agent: 010
+User-agent: ^Wget
+User-agent: ^SEOstats
+User-agent: ^Python\-urllib
+User-agent: ^python\-requests
+User-agent: ^POGS
+User-agent: ^PHP
+User-agent: ^PEAR
+User-agent: ^Nutch
+User-agent: ^Lynx
+User-agent: ^Java
+User-agent: ^ia_archiver
+User-agent: ^HTTP_Request2
+User-agent: ^HTTP_Request
+User-agent: ^DomainCrawler
+User-agent: ^curl
+Disallow: /
+
+Sitemap: http://www.fototapeciarz.pl/sitemap.xml

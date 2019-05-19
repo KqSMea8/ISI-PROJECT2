@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /oferta.html
+Disallow: /index.html
+Disallow: /portal/promocja-2014v2.swf
+Disallow: /portal/awm-oferta.pdf
+Disallow: /portal/promocjaf4.swf
+Disallow: /zgloszenia-intrastatawmbp.html
+Disallow: /intrastat-awm.html
+Disallow: /hello-world/
+Disallow: /category/uncategorized/
+Disallow: /author/rnowak/

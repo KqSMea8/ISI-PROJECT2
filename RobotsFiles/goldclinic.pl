@@ -1,0 +1,25 @@
+User-agent: *
+# disallow all files in these directories
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Allow: /wp-content/*.jpg$
+Allow: /wp-content/*.gif$
+Allow: /wp-content/*.png$
+Allow: /wp-content/*.css
+Allow: /wp-content/*.js
+Disallow: /archives/
+Disallow: /*?*
+Disallow: *?replytocom
+Disallow: /wp-*
+Disallow: /comments/feed/
+User-agent: Mediapartners-Google*
+Allow: /
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+Sitemap: https://goldclinic.pl/sitemap.xml

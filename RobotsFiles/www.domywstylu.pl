@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /*.pak$
+Disallow: /projekt_do_teczki.php
+Disallow: /rysunki_szczegolowe.php
+Disallow: /various/images/konsultanci/
+Disallow: /polityka-cookie.html
+Disallow: /polityka-prywatnosci.html
+Disallow: /regulamin-zakupow.html

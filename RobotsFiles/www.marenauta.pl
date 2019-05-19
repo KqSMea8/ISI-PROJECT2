@@ -1,0 +1,9 @@
+user-agent: *
+disallow: /lastsecond
+disallow: /lastsecond?*
+disallow: /moreinfo
+disallow: /moreinfo?*
+disallow: /grazie
+disallow: /grazie?*
+disallow: /search
+disallow: /search?*

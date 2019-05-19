@@ -1,0 +1,13 @@
+# Disallow crawling URLs that contain /events/by_tags
+User-agent: *
+Crawl-delay: 10
+Disallow: */by_tags
+Disallow: */2014-global-summit/email
+Disallow: */deepfield-request/
+Disallow: /news-events/email/
+Disallow: */2014-technology-exchange/email
+Disallow: */2015-global-summit/email
+
+User-agent: SemrushBot
+Disallow: /
+

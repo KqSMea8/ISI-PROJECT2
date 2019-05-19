@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Search.aspx/
+Disallow: /search.aspx/
+Sitemap: https://www.prodirectsoccer.com/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/de/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/es/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/fr/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/it/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/nl/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/pl/sitemap.xml
+Sitemap: https://www.prodirectsoccer.com/us/sitemap.xml

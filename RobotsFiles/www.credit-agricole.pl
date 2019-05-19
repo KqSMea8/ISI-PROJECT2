@@ -1,0 +1,6 @@
+Sitemap: https://www.credit-agricole.pl/sitemap.xml
+User-agent: *
+Disallow: /assets/
+Disallow: /upload/
+Disallow: /przedsiebiorstwa/kontakt
+

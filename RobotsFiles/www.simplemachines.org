@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /adsystem/
+Crawl-delay: 15
+
+User-agent: Slurp
+Crawl-delay: 5
+

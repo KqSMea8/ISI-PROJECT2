@@ -1,0 +1,36 @@
+User-agent: *
+
+Disallow: /www/r.php*
+Disallow: /www/b.php*
+Disallow: /www/ajax/index.php*
+Disallow: /www/yahoo/get_hotels.php*
+Disallow: /web/tmp/*
+Disallow: /sy/*
+Disallow: /cu/*
+Disallow: /*_priceasc
+Disallow: /*_pricedesc
+Disallow: /*_nameasc
+Disallow: /*_namedesc
+Disallow: /*_categoryasc
+Disallow: /*_categorydesc
+Disallow: /*_ptsasc
+Disallow: /*_distancedesc
+Disallow: /*_distanceasc
+Disallow: /*_servicesdesc
+Disallow: /*_servicesasc
+Disallow: /*_ptsdesc
+Disallow: /hotels/ski/*forecasts*
+
+Disallow: /online/*
+Disallow: /www/localizacion.php*
+Disallow: /www/customer.php*
+Disallow: /www/hotel_details/*
+Disallow: /*hotelsearch_checkin_day*
+
+
+Disallow: /forum/*order_by*
+Disallow: /*iframe*
+Disallow: /*lang=*
+Disallow: /*gr=*
+Disallow: /*hotelsearch_checkin_day*
+

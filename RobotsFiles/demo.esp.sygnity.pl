@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /nastepnyKrok.do
+Disallow: /wybierzRodzajSprawy.do
+Disallow: /rejestracjaUzytkownika.do
+Disallow: /Wybor%20Jednostki.do
+Disallow: /wyborAdresuJednostki.do
+Disallow: /listaSprawPrzychodzO.do
+Disallow: /listaDoborJednostekWszystkie.do
+Disallow: /listaDoborJednostek.do
+Disallow: /zakonczRejestracjeUzytkownika.do
+Disallow: /stronaglowna.do
+Disallow: /inicjujWizard.do
+Disallow: /pobierzXML.do

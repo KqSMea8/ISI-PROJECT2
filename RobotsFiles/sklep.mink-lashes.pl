@@ -1,0 +1,24 @@
+sitemap: http://sklep.mink-lashes.pl/sitemap.xml
+
+User-agent: *
+Disallow: *store=default&*
+Disallow: *store=base*
+Disallow: *customer
+Disallow: *checkout
+Disallow: *catalogsearch
+Disallow: *product_compare
+Disallow: *?price
+Disallow: *?dlugosc=
+Disallow: *?profil=
+Disallow: *?rodzaj=
+Disallow: *order
+Disallow: *?dir=
+Disallow: ?mode=
+Disallow: *review
+Disallow: *?cat=
+Disallow: *?limit=
+Disallow: *rzesy/
+Disallow: *?grubosc=
+Disallow: *rzesy/
+Disallow: *kleje-do-rzes/
+Disallow: *?___store=

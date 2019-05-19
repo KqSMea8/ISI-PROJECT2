@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /dist
+Disallow: /css
+Disallow: /error-pages
+Disallow: /include
+Disallow: /js
+Disallow: /lib
+Disallow: /polityka-prywatnosci
+Disallow: /polityka-prywatnosci/*
+Disallow: /obowiazek-informacyjny
+Disallow: /obowiazek-informacyjny/*
+Sitemap: http://www.kmmokno.pl/sitemap.xml

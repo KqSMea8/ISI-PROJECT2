@@ -1,0 +1,6 @@
+Sitemap: http://www.szpitale.org/sitemap.xml
+Sitemap: http://www.szpitale.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

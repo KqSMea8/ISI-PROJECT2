@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /administrator/
+allow: /cache/
+Disallow: /components/
+allow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+allow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /bootstrap-3.3.6-dist/

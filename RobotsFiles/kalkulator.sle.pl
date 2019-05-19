@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /index.php?s=123456789
+Disallow: /?s=123456789
+Disallow: /example.php
+Disallow: /test.php
+Disallow: /test2.php
+Disallow: /index.php?s=251212
+Disallow: /?s=251212
+Disallow: /index.php?s=25121213
+Disallow: /?s=25121213
+

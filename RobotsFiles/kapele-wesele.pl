@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /*?
+Disallow: /dla-zespolow
+Disallow: /pomorskie/powiat,sztumski/mikolajki-11
+Disallow: /kujawsko-pomorskie/powiat,brodnicki/jablonowo-11
+Disallow: /dolnoslaskie/powiat,klodzki/stronie-12
+Disallow: /dolnoslaskie/powiat,boleslawiecki/tomaszow-1
+Disallow: /kujawsko-pomorskie/powiat,golubsko-dobrzynski/kowalewo-11
+Disallow: /dolnoslaskie/powiat,zabkowicki/zabkowice-12

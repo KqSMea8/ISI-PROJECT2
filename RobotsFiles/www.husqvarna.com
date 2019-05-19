@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: https://www.husqvarna.com/sitemapindex.xml
+Disallow: /bt/
+Disallow: /WebResource.axd
+Disallow: /webresource.axd
+Disallow: /Image.axd
+Disallow: /image.axd
+Disallow: /CaptchaImage.axd
+Disallow: /captchaimage.axd
+Disallow: /ddocdownload
+Allow: /

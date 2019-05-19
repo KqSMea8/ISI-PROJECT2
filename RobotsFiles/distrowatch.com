@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /kokoku/
+Disallow: /podcast/
+Disallow: phpinfo.php
+Disallow: mika.php
+Disallow: nika.php
+Disallow: updatedb.php
+Disallow: poll-functions.php
+Disallow: review-q.php
+Crawl-Delay: 10
+

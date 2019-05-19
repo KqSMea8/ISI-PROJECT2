@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Disallow: /default.aspx?*
+Allow: /default.aspx
+Allow: /public

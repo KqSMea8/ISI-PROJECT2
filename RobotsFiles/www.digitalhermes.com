@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author
+Disallow: /author*
+Disallow: /author/
+Disallow: /author/*
+Disallow: /forums/user/k-anna-kaczmarskagmail-com/
+Disallow: /forums/
+Disallow: /forums/*

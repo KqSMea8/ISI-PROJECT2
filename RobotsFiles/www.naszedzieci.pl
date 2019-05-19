@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /cache/
+Allow: /components/
+Allow: /images/
+Allow: /includes/
+Disallow: /installation/
+Allow: /language/
+Disallow: /libraries/
+Allow: /media/
+Allow: /modules/
+Allow: /plugins/
+Allow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: /*swf
+Disallow: /*pdf
+Disallow: /*doc
+Disallow: /*exe
+Disallow: /*rar
+Disallow: /product_info.php
+User-agent: Googlebot
+Disallow: /components/com_virtuemart/shop_image/product/
+User-agent: Googlebot-image
+Disallow: /components/com_virtuemart/shop_image/product/
+

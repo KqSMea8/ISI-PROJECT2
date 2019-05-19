@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base href="http://www.megayoga.co.uk/" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="description" content="Music &amp; Art Promoters, Booking Agency, Live Event Management" />
+<meta http-equiv="keywords" content="megayoga" />
+<title>Megayoga</title>
+<link rel="stylesheet" href="media/css/reset.css" media="screen" />
+<link rel="stylesheet" href="media/css/960.css" media="screen" />
+<link rel="stylesheet" href="media/css/styles.css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="Megayoga RSS" href="http://www.megayoga.co.uk/pl/rss" />
+<script type="text/javascript" src="media/js/jquery-1.3.js"></script>
+
+<script type="text/javascript" src="media/js/jquery.cookies.2.0.min.js"></script>
+
+<script type="text/javascript" src="media/js/swfobject.js"></script>
+
+<link rel="stylesheet" media="screen" href="media/js/fumodal/fumodal.css" />
+<script type="text/javascript" src="media/js/fumodal/jquery.fumodal.js"></script>
+
+<link rel="stylesheet" href="media/css/prettyPhoto.css" media="screen" />
+<script type="text/javascript" src="media/js/jquery.prettyPhoto.js"></script>
+
+<link rel="stylesheet" media="screen" href="media/css/sifr.css" />
+<script type="text/javascript" src="media/js/sifr3/sifr.js"></script>
+<script type="text/javascript" src="media/js/sifr3/sifr-config.js"></script>
+
+<link rel="stylesheet" href="media/js/tooltip/jquery.tooltip.css" media="screen" />
+<script type="text/javascript" src="media/js/tooltip/jquery.tooltip.min.js"></script>
+
+</head>
+<body>
+<script type="text/javascript">
+$(function() {
+var ie6 = ($.browser.msie && parseInt($.browser.version) < 7);
+if(ie6) {
+$.fumodal({width:400,
+height:140,
+overlayColor:'#000000',
+backgroundColor:'#ffffff',
+content:'<div id="ie6warning"><img src="media/images/ohdear.jpg" alt="oh dear"/><div id="ie6info"><h3>Oh dear..</h3><p>You are using Internet Explorer 6 or worse.<br />Please upgrade your browser and come back later.<br /><br />What other dumb shit have you done today?</div></div>'
+});
+}
+
+});
+
+</script>
+
+<div id="main" class="container_12">
+<div id="header">
+<div id="logo">
+<a href="http://www.megayoga.co.uk/pl" title="Megayoga Home"><img src="media/images/logo_3.png" alt="Megayoga" /></a>
+</div>
+<div id="banner">
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div id="menu" class="grid_12">
+<ul>
+<li class="news qw"><a href="http://www.megayoga.co.uk/pl/aktualnosci">AKTUALNOSCI</a></li>
+<li class="events qw"><a href="http://www.megayoga.co.uk/pl/imprezy">IMPREZY</a></li>
+<li class="booking qw"><a href="http://www.megayoga.co.uk/pl/booking">BOOKING</a></li>
+<li class="gallery qw"><a href="http://www.megayoga.co.uk/pl/galeria">GALERIA</a></li>
+<li class="videos qw"><a href="http://www.megayoga.co.uk/pl/wideo">KLIPY</a></li>
+<li class="forum qw"><a href="http://megayoga.co.uk/forum" title="megayoga forum">forum</a></li>
+<li class="contact qw"><a href="http://www.megayoga.co.uk/pl/kontakt">KONTAKT</a></li>
+<li class="links qw"><a href="http://www.megayoga.co.uk/pl/linki">LINKI</a></li>
+<li class="about_us qw last"><a href="http://www.megayoga.co.uk/pl/o_nas">O NAS</a></li>
+
+
+
+</ul>
+</div>
+<div id="middle"><div id="sidebar" class="error">&nbsp;</div><div id="content" class="grid_8">
+<h1>This page cannot be found.</h1>
+</div>
+<div id="player" class="grid_3">
+<div id="icons">
+<a href="http://www.megayoga.co.uk/pl/rss" title="rss feed"><img id="rss" src="media/images/rss_icon.png" alt="rss feed" /></a>
+<div id="flags">
+<a class="flag polish" title="polish version" href="pl/robots.txt">wersja angielska</a>
+<a class="flag english" title="english version" href="http://www.megayoga.co.uk/en">wersja angielska</a>
+</div>
+</div>
+<div id="player_wrapper">
+
+</div>
+<p id="player_detach" style="display:none;"><a href="#">Otworz w nowym oknie</a></p>
+<div id="subscribe">
+<h2>Subscribe to our newsletter:</h2>
+<input type="text" name="email" value="" id="email" />
+<input type="button" value="subscribe" id="button_subscribe" />
+<div class="clear"></div>
+<p class="email_error" style="display:none;">Email Invalid</p>
+<p id="thankyou" style="display:none;">Thank you for subscribing.</p>
+</div>
+<div id="side_galleries">
+<h2>GALERIA:</h2>
+<ul>
+<li image_id="817"><a href="http://www.megayoga.co.uk/pl/galeria/s/k44-abradab-gutek-joka-djfeel-x-djbart-wsz-cne" title=""><img src="images/squares/817.jpg" alt="" /></a></li>
+<li image_id="820"><a href="http://www.megayoga.co.uk/pl/galeria/s/k44-abradab-gutek-joka-djfeel-x-djbart-wsz-cne" title=""><img src="images/squares/820.jpg" alt="" /></a></li>
+<li image_id="823"><a href="http://www.megayoga.co.uk/pl/galeria/s/k44-abradab-gutek-joka-djfeel-x-djbart-wsz-cne" title=""><img src="images/squares/823.jpg" alt="" /></a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div id="side_links">
+<div class="side_link_box">
+<img src="media/images/myspace_icon.png" /><h3 class="side_link"><a target="_blank" href="http://myspace.com/megayoga" title="megayoga myspace">MYSPACE</a></h3>
+<div class="clear"></div>
+</div>
+<div class="side_link_box">
+<img src="media/images/facebook_icon.png" /><h3  class="side_link"><a target="_blank" href="http://www.facebook.com/group.php?gid=71373865521" title="megayoga myspace">FACEBOOK</a></h3>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+/* GALLERIES */
+$('#side_galleries li').tooltip({
+delay: 500,
+showURL: false,
+bodyHandler: function() {
+var id = $(this).attr('image_id');
+return '<img src="images/preview/'+id+'.jpg" />';
+}});
+
+/* SUBSCRIBE */
+$("#button_subscribe").click(function() {
+var email = $('#email').val();
+$('#subscribe input').attr('disabled','disabled');
+$('#subscribe .email_error').hide();
+$('#subscribe #thankyou').hide();
+$.post('http://www.megayoga.co.uk/pl/cmsajax/add_user',{email:email},function(result) {
+$('#subscribe input').attr('disabled','');
+if(result.code==1) {
+$('#subscribe .email_error').show();
+} else {
+$('#subscribe #thankyou').show();
+}
+},'json');
+return false;
+})
+});
+</script>
+</div>
+<script type="text/javascript">
+function show_player() {
+$('#player_wrapper').html('<div id="player_main" style="height:200px;"></div>');
+var flashvars = {};
+flashvars.file = 'http://www.megayoga.co.uk/pl/player/playlist';
+flashvars.playlist = "bottom";
+flashvars.showdigits = false;
+flashvars.playlistsize = 180;
+flashvars.backcolor = "000000";
+flashvars.frontcolor = "909090";
+flashvars.resizible = false;
+//flashvars.skin = "media/mediaplayer/stylish.swf";
+var params = {};
+params.wmode = "transparent";
+params.allowScriptAccess = "always";
+var attributes = {};
+attributes.id = "player_main";
+attributes.name = "player_main";
+swfobject.embedSWF("media/mediaplayer/player3.swf", "player_main", "220", "200", "9.0.0","expressInstall.swf", flashvars, params, attributes);
+$('#player_detach').show();
+}
+
+$(function() {
+//window.console.log('player opened:' + $.cookies.get('player_opened'));
+if($.cookies.get('player_opened')=='false' || $.cookies.get('player_opened')==null) {
+show_player();
+}
+$('#player_detach a').click(function() {
+$('#player_detach').hide();
+
+var player_window = window.open('http://www.megayoga.co.uk/pl/player/detached','Megayoga Player','menubar=no,resizable=yes,width=240, height=400,toolbar=no,scrollbars=no,location=yes,statusbar=yes');
+
+$('#player_wrapper').html('');
+$.cookies.set('player_opened',true);
+/*
+var message = '';
+
+for (var key in player_window) {
+message+=(key + ':' + player_window[key]+"\n");
+};
+alert(message);
+*/
+//window.console.log($.cookies.get('player_opened'));
+return false;
+});
+
+$(window).unload(function() {
+//$.cookies.set('player_opened',false);
+return false;
+});
+});
+</script>	<!-- end of #middle div -->
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8008861-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<div id="footer" class="grid_12"></div>
+<!-- end of #main div -->
+</div>
+</body>
+</html>

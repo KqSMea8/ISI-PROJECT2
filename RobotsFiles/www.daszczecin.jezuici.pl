@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /2014/wp-admin/
+Allow: /2014/wp-admin/admin-ajax.php
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~posterboard/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~agenda/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~oneday/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~month/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~week/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~stream/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~undefined/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~http:/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~default/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~poster/
+Disallow: /spokoj-posrod-lez-propozycja-rozwazania/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
