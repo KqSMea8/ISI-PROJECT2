@@ -7,7 +7,7 @@ robot_dir = "../RobotsFiles/"
 # robot_dir = "../testRobotsFiles/"
 from sklearn.linear_model import SGDClassifier
 import pickle
-from .multiprocessingTools import get_job_results_and_show_statistics
+from multiprocessingTools import get_job_results_and_show_statistics
 import multiprocessing as mp
 from multiprocessing import Pool
 import operator
@@ -75,11 +75,13 @@ def load_robots_txt_files(alternate_path = False) -> list():
     pool = mp.Pool(mp.cpu_count())
     jobs = []
     print_lineno()
+    
+    global robot_dir
+    if alternate_path:    
+        robot_dir = "./RobotsFiles/"
 
     for filename in os.listdir(robot_dir):
         print("reading  ",filename)
-        if alternate_path:    
-            robot_dir = "./RobotsFiles/"
         with open(os.path.join(robot_dir,filename), mode="r", encoding="utf8") as robots_txt:
             content = robots_txt.read()
         job = pool.apply_async(_nonblocking_document_processing,(content,))
@@ -101,13 +103,13 @@ def make_doc2vec_model(documents, filenames):
         hs=0)
     return model
 
-def create_vector_model() -> dict():
+def create_vector_model(alternate_path = False) -> dict():
     DATA_MODEL_NAME = "data_model.pickle"
     W2C_MODEL_NAME = "model.w2c"
     W2C_DATA = "data.w2c"
     if not os.path.exists(DATA_MODEL_NAME):
         print("loading data files from scratch")
-        train_X, train_Y = load_robots_txt_files()
+        train_X, train_Y = load_robots_txt_files(alternate_path)
         save_model((train_X,train_Y),DATA_MODEL_NAME)
     else:
         print("loading data files by pickle")
@@ -129,7 +131,7 @@ def create_vector_model() -> dict():
     # return vectorizer, model_X, train_Y
     return model_w2c
 
-def create_document_similarity_model() -> dict():
+def create_document_similarity_model(alternate_path = False) -> dict():
     DATA_MODEL_NAME = "data_model.pickle"
     DICT_MODEL_NAME = "dictSim.pcikle"
     INDEX_NAME = "gensim_index.pickle"
@@ -137,7 +139,7 @@ def create_document_similarity_model() -> dict():
     #initial word tokenization
     if not os.path.exists(DATA_MODEL_NAME):
         print("loading data files from scratch")
-        train_X, train_Y = load_robots_txt_files()
+        train_X, train_Y = load_robots_txt_files(alternate_path)
         save_model((train_X,train_Y),DATA_MODEL_NAME)
     else:
         print("loading data files by pickle")
