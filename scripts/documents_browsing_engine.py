@@ -169,7 +169,7 @@ def doc_similarity_engine(document, n_best = 10):
     document = _preprocess_document(document, is_join = False)
     bow_doc = gensim_dict.doc2bow(document)
     if len(bow_doc) == 0:
-        return False
+        return []
 
     results = index[bow_doc]
     return [(train_Y[i], prob) for i, prob in results[:n_best]]
@@ -191,7 +191,7 @@ class Doc_similarity:
         document = _preprocess_document(document, is_join = False)
         bow_doc = self.gensim_dict.doc2bow(document)
         if len(bow_doc) == 0:
-            return False
+            return []
 
         results = self.index[bow_doc]
         return [(self.train_Y[i], prob) for i, prob in results[:n_best]] 
@@ -207,7 +207,7 @@ def gensim_engine(document, n_best=10):
     try:
         return model.wv.most_similar(positive = positive_document, negative = negative_document)
     except:
-        return False
+        return [] 
 
 class Gensim:
     def __init__(self):
@@ -221,7 +221,8 @@ class Gensim:
         try: 
             return self.model.wv.most_similar(positive = positive_document, negative = negative_document, topn = n_best)
         except:
-            return False
+            return []
+
 def save_model(model, filename):
     print(f"saving {filename}")
     with open(filename, 'wb') as handle:
