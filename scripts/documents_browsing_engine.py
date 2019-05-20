@@ -118,7 +118,7 @@ def create_vector_model(alternate_path = False) -> dict():
 
 def create_document_similarity_model(alternate_path = False) -> dict():
     DATA_MODEL_NAME = "data_model.pickle"
-    DICT_MODEL_NAME = "dictSim.pcikle"
+    DICT_MODEL_NAME = "dictSim.pickle"
     INDEX_NAME = "gensim_index.pickle"
     
     #initial word tokenization
@@ -143,7 +143,7 @@ def create_document_similarity_model(alternate_path = False) -> dict():
     if not os.path.exists(INDEX_NAME):
         print("building index from scratch")
         iterator = tqdm(map(lambda x: gensim_dict.doc2bow(x), train_X)) 
-        index = Similarity(None,corpus = iterator, num_features = len(gensim_dict) + 1, num_best = 100)
+        index = Similarity("gensim_index.models",corpus = iterator, num_features = len(gensim_dict) + 1, num_best = 100)
         save_model(index,INDEX_NAME)
     else:
         print("loading index with pickle")
@@ -158,7 +158,7 @@ def doc_similarity_engine(document, n_best = 10):
     if n_best >= 100:
         raise "Im sorry, I wasn't prepared to give such a big result. please... stop being a programmer, ok?"
     DATA_MODEL_NAME = "data_model.pickle"
-    DICT_MODEL_NAME = "dictSim.pcikle"
+    DICT_MODEL_NAME = "dictSim.pickle"
     INDEX_NAME = "gensim_index.pickle"
     
 
@@ -178,7 +178,7 @@ def doc_similarity_engine(document, n_best = 10):
 class Doc_similarity:
     def __init__(self):
         DATA_MODEL_NAME = "data_model.pickle"
-        DICT_MODEL_NAME = "dictSim.pcikle"
+        DICT_MODEL_NAME = "dictSim.pickle"
         INDEX_NAME = "gensim_index.pickle"
     
         _, self.train_Y = load_model(DATA_MODEL_NAME)
