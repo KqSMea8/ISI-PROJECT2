@@ -128,7 +128,8 @@ class Gui(QWidget):
         results = sorted(results, key = lambda x: x[1], reverse = False)
         for r in results:
             newItem = QListWidgetItem()
-            newItem.setText(r[0])
+            text = open("RobotsFiles/" + r[0], "r").read()
+            newItem.setText(r[0] + " (letters: " + str(len(text)) + ", lines: " + str(text.count("\n")) + ")")
             self.resultList.insertItem(0, newItem)
         self.resultList.setMinimumWidth(self.resultList.sizeHintForColumn(0))
         self.resultList.setMaximumWidth(self.resultList.sizeHintForColumn(0)+20)
@@ -136,7 +137,7 @@ class Gui(QWidget):
     def setFileContent(self, item):
         if item is None:
             return
-        text = open("RobotsFiles/" + item.text(), "r").read().lower()
+        text = open("RobotsFiles/" + item.text()[:item.text().index(" (")], "r").read().lower()
         self.fileContent.setText(self.markQueryWords(self.markFunWords(text), self.queryTextEdit.toPlainText().split(" ")))
 
     def markFunWords(self, text):
