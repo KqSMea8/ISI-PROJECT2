@@ -138,7 +138,7 @@ class Gui(QWidget):
         if item is None:
             return
         text = open("RobotsFiles/" + item.text()[:item.text().index(" (")], "r").read().lower()
-        self.fileContent.setText(self.markQueryWords(self.markFunWords(text), self.queryTextEdit.toPlainText().split(" ")))
+        self.fileContent.setText(self.markQueryWords(self.markFunWords(add_line_numberings(text)), self.queryTextEdit.toPlainText().split(" ")))
 
     def markFunWords(self, text):
         text = text.replace("\n", "<br>")
@@ -155,6 +155,12 @@ class Gui(QWidget):
             text = text.replace(word.lower(), "<font color='red'>" + word.lower() + "</font>")
         return text
 
+    def add_line_numberings(self, text):
+        text_with_line_numbers = ""
+        for n, line in enumerate(text.splitlines()):
+            new_line = "<font color='grey'>" + f"{n:02d}</font>" + line + "\n"
+            text_with_line_numbers += new_line
+        return text_with_line_numbers
 
 def run():
     app = QApplication(sys.argv)
