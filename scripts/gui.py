@@ -60,7 +60,7 @@ class Gui(QWidget):
         vbox2.addWidget(self.recordNumber)
 
         vbox = QVBoxLayout()
-        vbox.addWidget(self.infoLabel, alignment=QtCore.Qt.AlignLeft)
+        #vbox.addWidget(self.infoLabel, alignment=QtCore.Qt.AlignLeft)
         vbox.addLayout(vbox2)
 
         hbox2 = QHBoxLayout()
