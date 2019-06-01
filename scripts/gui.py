@@ -5,7 +5,7 @@ from mock_engine import *
 from documents_browsing_engine import *
 from PyQt5 import QtCore
 from PyQt5.QtCore import pyqtSlot, QByteArray, Qt
-from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QTextEdit, QLabel, QListWidgetItem, QListWidget, QHBoxLayout, QRadioButton, QScrollArea, QSpinBox
 from PyQt5.QtGui import QIcon, QMovie
 from PyQt5 import QtTest
 
@@ -54,8 +54,13 @@ class Gui(QWidget):
         vbox2.addWidget(self.queryTextEdit)
         vbox2.setStretch(1, 0)
 
+        self.recordNumber = QSpinBox()
+        self.recordNumber.setMinimum(10)
+        self.recordNumber.setMaximum(90)
+        vbox2.addWidget(self.recordNumber)
+
         vbox = QVBoxLayout()
-        vbox.addWidget(self.infoLabel, alignment=QtCore.Qt.AlignLeft)
+        #vbox.addWidget(self.infoLabel, alignment=QtCore.Qt.AlignLeft)
         vbox.addLayout(vbox2)
 
         hbox2 = QHBoxLayout()
@@ -114,16 +119,17 @@ class Gui(QWidget):
             # thread = threading.Thread(threadFunction(query, myQueue), daemon=True)
             # thread.start()
             # thread.join()
-            backout = self.docSim.query(query)
+            backout = self.docSim.query(query, self.recordNumber.value())
             #QtTest.QTest.qWait(waitvalue)
             self.setSearchResults(backout)
             # self.movie.stop()
 
     def setSearchResults(self, results):
-        results = sorted(results, key = lambda x: x[1], reverse = True)
+        results = sorted(results, key = lambda x: x[1], reverse = False)
         for r in results:
             newItem = QListWidgetItem()
-            newItem.setText(r[0])
+            text = open("RobotsFiles/" + r[0], "r").read()
+            newItem.setText(r[0] + " (letters: " + str(len(text)) + ", lines: " + str(text.count("\n")) + ")")
             self.resultList.insertItem(0, newItem)
         self.resultList.setMinimumWidth(self.resultList.sizeHintForColumn(0))
         self.resultList.setMaximumWidth(self.resultList.sizeHintForColumn(0)+20)
@@ -131,8 +137,8 @@ class Gui(QWidget):
     def setFileContent(self, item):
         if item is None:
             return
-        text = open("RobotsFiles/" + item.text(), "r").read()
-        self.fileContent.setText(self.markQueryWords(self.markFunWords(text), self.queryTextEdit.toPlainText().split(" ")))
+        text = open("RobotsFiles/" + item.text()[:item.text().index(" (")], "r").read().lower()
+        self.fileContent.setText(self.markQueryWords(self.markFunWords(add_line_numberings(text)), self.queryTextEdit.toPlainText().split(" ")))
 
     def markFunWords(self, text):
         text = text.replace("\n", "<br>")
@@ -146,9 +152,15 @@ class Gui(QWidget):
         if query[-1] == '':
             query = query[:-1]
         for word in query:
-            text = text.replace(word, "<font color='red'>" + word + "</font>")
+            text = text.replace(word.lower(), "<font color='red'>" + word.lower() + "</font>")
         return text
 
+    def add_line_numberings(self, text):
+        text_with_line_numbers = ""
+        for n, line in enumerate(text.splitlines()):
+            new_line = "<font color='grey'>" + f"{n:02d}</font>" + line + "\n"
+            text_with_line_numbers += new_line
+        return text_with_line_numbers
 
 def run():
     app = QApplication(sys.argv)
