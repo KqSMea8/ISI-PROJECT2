@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /resources/downloads/
+Disallow: /resources/system/
+Disallow: /resources/temp/
+Disallow: /tinymce/
+Disallow: /admin/

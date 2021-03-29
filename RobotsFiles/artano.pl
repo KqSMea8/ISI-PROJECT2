@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /Areas/
+Disallow: /cms/
+Disallow: /articles/
+Disallow: /products/
+Disallow: /elvita/Home/sendEmail
+Disallow: / index.php
+Disallow: /ewrol/Home/
+Disallow: /images
+Disallow: /ewrol/Gdzie-kupic-15
+Disallow: /oferta
+Disallow: /kontakt
+Disallow: /o-firmie
+Disallow: /elvita/Produkty/Calcio-Plus-234
+Disallow: /elvita/Produkty/Alga-199
+Disallow: /elvita/Dystrybucja-114
+Disallow: /s,polityka-prywatnosci
+Disallow: /elvita/Produkty/Color-Brix-227
+Disallow: /elvita/Produkty/NPK-19-20-20-230
+Disallow: /cms/Content/Shared/images/

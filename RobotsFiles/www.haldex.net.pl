@@ -1,0 +1,15 @@
+Sitemap: https://www.haldex.com/Sitemap.xml
+Sitemap: https://www.haldex.com/na/Sitemap.xml
+Sitemap: https://www.haldex.com/eu/Sitemap.xml
+User-agent: *
+Disallow: */FilterFic
+Disallow: */ChangeCatalogLanguage
+Disallow: */~/link/
+Disallow: /*.dat$
+Disallow: /*.aspx$
+Disallow: /wpad.dat$
+Disallow: /wp-login.php$
+Disallow: /GlobalSearchPage/Index
+Disallow: /wp-login.php$
+Disallow: /GlobalSearchPage/Index
+Disallow: */Europe/trailer-guide

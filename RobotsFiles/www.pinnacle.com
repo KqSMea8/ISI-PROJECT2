@@ -1,0 +1,6 @@
+# robots.txt for http://www.pinnacle.com/
+User-agent: *
+Disallow: /*/*/Bet/*
+Disallow: /*/*/bet/*
+Disallow: /webapi/*
+

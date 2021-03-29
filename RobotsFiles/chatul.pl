@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /forum/index.php
+Disallow: /viewforum.php?f=13
+Disallow: /viewforum.php?f=61
+Disallow: /viewforum.php?f=84
+Disallow: /viewforum.php?f=92
+Disallow: /viewforum.php?f=93
+Disallow: /admin/
+Disallow: /do/
+Allow: /

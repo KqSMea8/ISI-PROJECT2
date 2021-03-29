@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /wp-content/plugins
+Disallow: /wp-includes
+Disallow: /wp-admin
+Disallow: /*?s=
+Disallow: /*?replytocom=
+Disallow: /*pdf
+Disallow: /*?ga_action=
+Disallow: /*comment-subscriptions*
+Disallow: /*add-to-cart=*

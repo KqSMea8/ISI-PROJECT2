@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /logs/
+Disallow: /cenniki/
+Disallow: /component/
+

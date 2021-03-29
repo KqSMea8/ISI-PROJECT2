@@ -1,0 +1,9 @@
+#
+# robots.txt
+#
+
+# exclude these directories
+User-agent: *
+Disallow: /srv/
+Disallow: /cgi/
+

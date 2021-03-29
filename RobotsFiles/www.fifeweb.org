@@ -1,0 +1,1 @@
+User-agent: * Disallow: /admin/Disallow: /as/Disallow: /dnld/

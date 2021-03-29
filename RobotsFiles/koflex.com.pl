@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /cgi-bin/
+Disallow: /cgi/
+Disallow: /bak/
+Disallow: /build/
+Disallow: /private/
+
+
+
+

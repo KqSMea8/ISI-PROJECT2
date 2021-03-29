@@ -1,0 +1,26 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+Disallow: /*/fav/add
+Disallow: /*/p/comment/add
+Disallow: /*/p/mail/recommend
+Disallow: /*/p/q
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/basket
+Disallow: /*/searchquery
+Disallow: /panel
+Disallow: /pl/panel
+Disallow: /pl/producer
+Disallow: /zwroty-reklamacje
+Disallow: /dostawa
+Disallow: /regulamin
+Disallow: /pl/passremind
+Disallow: /pl/s
+Disallow: /pl/i/Regulamin/3

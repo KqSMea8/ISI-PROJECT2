@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+User-agent: GoogleBot
+Disallow: /a-1-pozycjoner-spawalniczy-hydrauliczny$
+User-agent: GoogleBot
+Disallow: /a-3-prasa-hydrauliczna-ramowa-seria-s$
+User-agent: GoogleBot
+Disallow: /a-4-prasy-hydrauliczne-ramowe-seria-d$
+User-agent: GoogleBot
+Disallow: /a-5-prasa-hydrauliczna-ramowa-seria-l$
+User-agent: GoogleBot
+Disallow: /a-6-prasy-hydrauliczne-ramowe-seria-ciezka-f$
+User-agent: GoogleBot
+Disallow: /a-7-prasa-hydrauliczna-wysiegowa-seria-c$
+User-agent: GoogleBot
+Disallow: /a-8-prasy-bokserki-poziome-prostujace-seria-hv$
+User-agent: GoogleBot
+Disallow: /a-9-prasa-hydrauliczna-bramowa-seria-r$
+User-agent: GoogleBot
+Disallow: /a-10-prasa-hydrauliczna-portalowa-do-prostowania-seria-t$
+User-agent: GoogleBot
+Disallow: /a-11-prasa-hydrauliczna-4-kolumnowa-seria-m$
+User-agent: GoogleBot
+Disallow: /a-12-prasy-hydrauliczne-specjalne$
+

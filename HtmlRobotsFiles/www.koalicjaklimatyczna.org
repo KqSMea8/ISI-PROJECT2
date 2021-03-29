@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head xml:lang="pl" lang="pl">
+<title>Aktualnosci | Aktualnosci</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" xml:lang="pl" lang="pl" content="Koalicja Klimatyczna" />
+<meta name="keywords" xml:lang="pl" lang="pl" content="koalicja klimatyczna, skamielina dnia, rostowski, klimat" />
+<meta name="robots" xml:lang="pl" lang="pl" content="index, follow" />
+<meta name="author" xml:lang="pl" lang="pl" content="Improve.pl" />
+<meta name="author-mail" xml:lang="pl" lang="pl" content="biuro@improve.pl" />
+<meta name="publisher" xml:lang="pl" lang="pl" content="Improve.pl" />
+<meta name="language" xml:lang="pl" lang="pl" content="pl" />
+<meta name="title" xml:lang="pl" lang="pl" content="Aktualnosci | Aktualnosci" />
+
+<link rel="icon" href="/theme/img/favicon.gif" type="image/x-icon" />
+<link rel="shortcut icon" href="/theme/img/favicon.gif" type="image/x-icon" />
+
+<link href="/theme/css/style.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="/theme/js/jquery.js"></script>
+<script type="text/javascript" src="/theme/js/jquery.browser.js"></script>
+<script type="text/javascript" src="/theme/js/jquery.flash.js"></script>
+<script type="text/javascript" src="/theme/js/jquery.lightbox.js"></script>
+<script type="text/javascript" src="/theme/js/global.js"></script>
+<script type="text/javascript" src="/theme/js/minmax.js"></script>
+<script type="text/javascript" src="/theme/js/whcookies.js"></script>
+</head>
+<body xml:lang="pl" lang="pl">
+
+<div id="wrap-bg">
+<div id="wrap">
+<div id="wrap-top">
+
+<a href="/" id="logo"></a>
+
+<form id="form-search" action="lang/pl/action/search/" method="post">
+<fieldset>
+<legend class="display-none">Wyszukiwarka:</legend>
+<input type="text" name="searchKey" value="" class="textSearch" />
+<input type="submit" name="wyslij" value="" class="submitSearch" />
+</fieldset>
+</form>
+<div class="clear"></div>
+
+<ul class="menu-top">
+<li class="menumain menumainactive"><a href="/lang/pl/page/aktualnosci/id/2/" title="Aktualnosci"><span>Aktualnosci</span></a><div id="m2" class="menu1"></div></li><li class="menumain"><a href="/lang/pl/page/monitoring_polityki/id/68/" title="Monitoring polityki"><span>Monitoring polityki</span></a><div id="m68" class="menu1"></div></li><li class="menumain"><a href="/lang/pl/page/dzialania_koalicjantow/id/99/" title="Dzialania Koalicjantow"><span>Dzialania Koalicjantow</span></a><div id="m99" class="menu1"></div></li><li class="menumain"><a href="/lang/pl/page/koalicja_w_mediach/id/83/" title="Koalicja w mediach"><span>Koalicja w mediach</span></a><div id="m83" class="menu1"></div></li><li class="menumain"><a href="/lang/pl/page/patronujemy/id/17/" title="Patronujemy"><span>Patronujemy</span></a><div id="m17" class="menu1"></div></li><li class="menumain"><a href="javascript:void(0);" title="Publikacje"><span>Publikacje</span></a><div id="m3" class="menu1"><ul><li class="first"></li><li><a href="/lang/pl/page/stanowiska_koalicji/id/7/" title="Stanowiska Koalicji">Stanowiska Koalicji</a></li><li><a href="/lang/pl/page/uwagi_do_aktow_prawnych/id/92/" title="Uwagi do aktow prawnych">Uwagi do aktow prawnych</a></li><li><a href="/lang/pl/page/informacje_prasowe/id/33/" title="Informacje prasowe">Informacje prasowe</a></li><li><a href="/lang/pl/page/listy_otwarte/id/100/" title="Listy otwarte">Listy otwarte</a></li><li><a href="/lang/pl/page/materialy_konferencyjne/id/8/" title="Materialy konferencyjne">Materialy konferencyjne</a></li><li><a href="/lang/pl/page/biuletyn_klimatyczny/id/9/" title="Biuletyn klimatyczny">Biuletyn klimatyczny</a></li><li><a href="/lang/pl/page/raporty__analizy__opinie/id/34/" title="Raporty, analizy, opinie">Raporty, analizy, opinie</a></li><li class="last"></li></ul></div></li>				</ul>
+
+<div id="icon-lang">
+
+<div style="margin-top: -5px; float:left; width: 60px; height: 23px;">
+<a href="" title="FaceBook" target="_blank"><img src="/theme/img/icon-facebook.png" width="23" height="23" alt="FaceBook" /></a>
+<a href=""  title="Twitter" target="_blank"><img src="/theme/img/icon-twitter.png" width="23" height="23" alt="Twitter" /></a>
+</div>
+
+<a href="/lang/pl/action/mapsite/" title=""><img src="/theme/img/icon-mapsite.gif" alt="" /></a>
+<a href="/lang/pl/" title="Polski"><img src="/theme/UploadFiles/Image/flags/pl.jpg" alt="Polski" /></a><a href="/lang/ang/" title="Angielski"><img src="/theme/UploadFiles/Image/flags/gb.jpg" alt="Angielski" /></a>				</div>
+</div>
+<div id="wrap-body">
+<div id="wrap-body-bg">
+<div id="column-left">
+
+<!-- Lewe menu -->
+<div class="box">
+<div class="box-top"></div>
+<div class="box-body">
+<div class="box-body-footer">
+<ul id="menu-left"><li><span><a href="/lang/pl/page/o_nas/id/75/" title="O nas">O nas</a></span></li><li><span><a href="/lang/pl/page/opinie/id/98/" title="Opinie">Opinie</a></span></li><li><span><a href="/lang/pl/page/dla_mediow/id/85/" title="Dla mediow">Dla mediow</a></span></li><li><span><a href="http://www.flickr.com/photos/koalicja_klimatyczna/" rel="galeria" title="Galeria">Galeria</a></span></li><li><span><a href="/lang/pl/page/linki/id/16/" title="Linki">Linki</a></span></li><li><span><a href="/lang/pl/page/kontakt/id/71/" title="Kontakt">Kontakt</a></span></li></ul>								</div>
+</div>
+<div class="box-end"></div>
+</div>
+
+<!-- Sonda -->
+
+<!-- Newsletter -->
+<div class="box">
+<div class="box-top"></div>
+<div class="box-body">
+<div class="box-body-footer">
+<div class="box-header">
+<h1 class="box-icon-green"></h1>
+</div>
+<div class="box-content">
+<div class="boxNewsletter"></div>										<form action="/lang/pl/" method="post">
+<fieldset>
+<legend class="display-none">Newsletter:</legend>
+<input type="hidden" name="newsletterAction" value="add" />
+<input type="text" name="newsletterEmail" value="" class="textNewsletter" />
+<br />
+<input type="button" onclick="this.form.newsletterAction.value='add'; this.form.submit();" value="" class="submitNewsletter add" />
+<input type="button" onclick="this.form.newsletterAction.value='del'; this.form.submit();" value="" class="submitNewsletter del" />
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<div class="box-end"></div>
+</div>
+
+<!-- Banery - lewa kolumna -->
+<div class="banner-foto"><a href="http://www.chronmyklimat.pl/wiadomosci" rel="blank" title="ChronmyKlimat.pl"><img src="/theme/UploadFiles/Image/banner/chronmyklimat_samologo.jpg" alt="ChronmyKlimat.pl" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://www.koalicjaklimatyczna.org/lang/pl/page/polecamy/id/17/archiwum/true/stronicowanie/1/view/repowermap___dodaj_swoje_oze_do_mapy_/" rel="blank" title="Repowermap"><img src="/theme/UploadFiles/Image/banner/repowermap_logo.png" alt="Repowermap" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://naukaoklimacie.pl/" rel="blank" title="Nauka o klimacie"><img src="/theme/UploadFiles/Image/banner/Reklamy_2014/naukaoklimacie.png" alt="Nauka o klimacie" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://oweglu.pl/pl/fakty-i-mity" rel="blank" title="O Weglu"><img src="/theme/UploadFiles/Image/banner/Reklamy 2015/oweglu_banerek.jpg" alt="O Weglu" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://www.swietostworzenia.pl/" rel="blank" title="REFA"><img src="/theme/UploadFiles/Image/banner/Reklamy 2015/baner_swietostworzenia1b.jpg" alt="REFA" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://www.stopep.org/" rel="blank" title="Stop Elektrowni Polnoc"><img src="/theme/UploadFiles/Image/banner/stop_elektrowni_polnoc_198.PNG" alt="Stop Elektrowni Polnoc" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://www.koalicjaklimatyczna.org/lang/pl/page/patronujemy/id/17/archiwum/true/stronicowanie/1/view/apel_do_wladz_polski_o_zmiany_prawne_chroniace_powietrze/" rel="blank" title="apel Polskiego Alarmu Smogowego"><img src="/theme/UploadFiles/Image/banner/smog_idzie_po_ciebie_apel_obc_m.png" alt="apel Polskiego Alarmu Smogowego" style="width: 199px;" /></a></div><div class="banner-foto"><a href="http://www.gospodarzzenergia.pl/" rel="blank" title="Gospodarz z energia"><img src="/theme/UploadFiles/Image/banner/Reklamy_2014/logo_gospodarzzenergia.png" alt="Gospodarz z energia" style="width: 199px;" /></a></div>
+</div>
+
+<div id="column-center">
+<div class="NewsIndex opcja1" style="background-color: #3375C2;"><a href="/lang/pl/page/Aktualnosci/id/2/view/radosnych_swiat_wielkanocnych_/" title="Radosnych Swiat Wielkanocnych!"><div class="NewsIndexFoto"><img src="/theme/UploadFiles/Aktualnosci 2018/krolik_niebieski.jpg" style="width:161px;" alt="" /></div><div class="NewsIndexText "><h2 style="color: #FFFFFF;">Radosnych Swiat Wielkanocnych!</h2><span style="color: #FFFFFF;">dodano: 2019-04-18</span><div style="color: #FFFFFF;">Wiosny w przyrodzie i w przyjazni<br />
+W zyciu rodzinnym i w pracy<br />
+Smacznego swieconego jajka<br />
+I mokrego dyngusa<br />
+Szczescia i pogody ducha<br />
+W dalszym dzialaniu na rzecz klimatu<br /></div></div></a></div><div class="box-page">
+<div class="box-page-top"></div>
+<div class="box-page-body">
+<div class="box-page-body-footer">
+<div class="box-page-header">
+<h1 class="box-icon-blue">Aktualnosci</h1>
+</div>
+<div class="box-page-content">
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/postanowienia_cop24_w_kontekscie_miedzynarodowym_i_polskim/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/negotiations_enter_the_final_stage_3.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/postanowienia_cop24_w_kontekscie_miedzynarodowym_i_polskim/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/negotiations_enter_the_final_stage_3.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/postanowienia_cop24_w_kontekscie_miedzynarodowym_i_polskim/"><div class="SubjectNews" style="float: right">Postanowienia COP24 w kontekscie miedzynarodowym i polskim</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-12-14</div>
+<div class="LidoNews" style="float: right">
+Jakie sa najwieksze zagrozenia dla realizacji Porozumienia Paryskiego? Czy udalo sie osiagnac trzy podstawowe cele polskiej prezydencji? Co COP24 oznacza dla Polski?&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/postanowienia_cop24_w_kontekscie_miedzynarodowym_i_polskim/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polskie_miasta__nie_dla_klimatycznej_katastrofy/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/fotografia_2.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polskie_miasta__nie_dla_klimatycznej_katastrofy/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/fotografia_2.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polskie_miasta__nie_dla_klimatycznej_katastrofy/"><div class="SubjectNews" style="float: right">Polskie miasta: NIE dla klimatycznej katastrofy</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-12-05</div>
+<div class="LidoNews" style="float: right">
+Podczas gdy delegaci na COP24 w Katowicach debatuja o roli miast w ochronie klimatu, mieszkancy Gdanska, Wroclawia i Krakowa apeluja do wlodarzy o powstrzymanie globalnej katastrofy.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polskie_miasta__nie_dla_klimatycznej_katastrofy/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/negocjacje_klimatyczne_w_praktyce__warsztaty_/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/negocjacje_bonn_2017.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/negocjacje_klimatyczne_w_praktyce__warsztaty_/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/negocjacje_bonn_2017.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/negocjacje_klimatyczne_w_praktyce__warsztaty_/"><div class="SubjectNews" style="float: right">Negocjacje klimatyczne w praktyce. Warsztaty.</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-11-09</div>
+<div class="LidoNews" style="float: right">
+W drugiej polowie listopada w Katowicach, Wroclawiu, Poznaniu i Warszawie odbeda sie warsztaty &bdquo;W drodze na Szczyt Klimatyczny COP24 w Katowicach. Negocjacje klimatyczne w praktyce&rdquo; w formie przygotowanej przez ekspert&oacute;w gry negocjacyjnej. Uczestnicy spotkan wciela sie w role negocjator&oacute;w i wezma udzial w symulowanych obradach stron Ramowej Konwencji Narod&oacute;w Zjednoczonych.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/negocjacje_klimatyczne_w_praktyce__warsztaty_/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/finanse_i_zrownowazony_rozwoj__konferencja_naukowa/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/wykresy.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/finanse_i_zrownowazony_rozwoj__konferencja_naukowa/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/wykresy.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/finanse_i_zrownowazony_rozwoj__konferencja_naukowa/"><div class="SubjectNews" style="float: right">Finanse i zrownowazony rozwoj. Konferencja naukowa</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-11-08</div>
+<div class="LidoNews" style="float: right">
+Na Uniwersytecie Ekonomicznym we Wroclawiu 13 grudnia 2018 roku odbedzie sie konferencja poswiecona finansom i zr&oacute;wnowazonemu rozwojowi. Obejmie szereg zagadnien zwiazanych z aktualnymi problemami finansowymi, takimi jak zarzadzanie ryzykiem, zr&oacute;wnowazone finansowanie, przejscie do zielonej gospodarki, czy zr&oacute;wnowazony rozw&oacute;j korporacyjny.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/finanse_i_zrownowazony_rozwoj__konferencja_naukowa/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_klimatycznej_katastrofy/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/miasto_petycja_02.png"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_klimatycznej_katastrofy/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/miasto_petycja_02.png&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_klimatycznej_katastrofy/"><div class="SubjectNews" style="float: right">Apel do premiera: NIE dla klimatycznej katastrofy</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-11-06</div>
+<div class="LidoNews" style="float: right">
+Niemal 50 organizacji pozarzadowych i ponad 1100 obywateli apeluje do premiera Mateusza Morawieckiego o powstrzymanie klimatycznej katastrofy. List zostal zlozony niecaly miesiac przed rozpoczeciem 24. Konferencji Stron Ramowej Konwencji Narod&oacute;w Zjednoczonych (COP24) w sprawie zmian klimatu, kt&oacute;ra odbedzie sie Katowicach. Wynik szczytu, na kt&oacute;ry Polska bedzie miec znaczacy wplyw jako jego gospodarz, moze przesadzic o skutecznosci wdrazania polityki klimatycznej w kolejnych l&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_klimatycznej_katastrofy/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/efekty_climathonu_to_az_10_nowych_projektow/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/dsc_9577.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/efekty_climathonu_to_az_10_nowych_projektow/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/dsc_9577.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/efekty_climathonu_to_az_10_nowych_projektow/"><div class="SubjectNews" style="float: right">Efekty Climathonu to az 10 nowych projektow</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-10-29</div>
+<div class="LidoNews" style="float: right">
+50 uczestnik&oacute;w, 24 godziny kreatywnej pracy warsztatowej, 10 nowych projekt&oacute;w i mn&oacute;stwo pozytywnej energii do dzialania dla ochrony klimatu to owoce tegorocznego Climathonu 2018, kt&oacute;ry odbyl sie 26-27 pazdziernika w Krakowie. Gl&oacute;wna nagroda bylo 4000 zlotych.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/efekty_climathonu_to_az_10_nowych_projektow/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/climathon_po_raz_trzeci_w_krakowie_/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/grafika_zal_info_climathon_23102018.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/climathon_po_raz_trzeci_w_krakowie_/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/grafika_zal_info_climathon_23102018.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/climathon_po_raz_trzeci_w_krakowie_/"><div class="SubjectNews" style="float: right">Climathon po raz trzeci w Krakowie!</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-10-24</div>
+<div class="LidoNews" style="float: right">
+Kilkaset miast, kilkadziesiat kraj&oacute;w, r&oacute;zne kontynenty &ndash; wszyscy spotykaja sie na 24 godziny, aby pracowac na rzecz ochrony klimatu. Beda inspirujace wyklady, ciekawe prezentacje, burzliwa praca w grupach, cenny coaching i mentoring oraz rozrywka i konkurs z nagrodami. Rusza 3. edycja Climathonu w Krakowie!&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/climathon_po_raz_trzeci_w_krakowie_/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/wyzwanie_klimatyczne_1_5_stopnia_celsjusza/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/temperatura_wzrost_susza_min.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/wyzwanie_klimatyczne_1_5_stopnia_celsjusza/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/temperatura_wzrost_susza_min.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/wyzwanie_klimatyczne_1_5_stopnia_celsjusza/"><div class="SubjectNews" style="float: right">Wyzwanie klimatyczne 1,5 stopnia Celsjusza</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-10-24</div>
+<div class="LidoNews" style="float: right">
+Instytut na Rzecz Ekorozwoju, Fundacja im. Heinricha B&ouml;lla w Warszawie, Miasto Stoleczne Warszawa, Koalicja Klimatyczna oraz Komitet Prognoz &bdquo;Polska 2000 Plus&rdquo; PAN zapraszaja na miedzynarodowa konferencje &ldquo;Czy mozemy jeszcze zdazyc? 1,5 stopnia Celsjusza jako wyzwanie klimatyczne: Jak zatrzymac wzrost temperatury na tym poziomie?&rdquo; Wydarzenie odbedzie sie 7 listopada 2018, w Panstwowym Muzeum Etnograficznym w Warszawie.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/wyzwanie_klimatyczne_1_5_stopnia_celsjusza/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/trujace_diesle_zalewaja_polske/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/samochod_rura_wydechowa_m.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/trujace_diesle_zalewaja_polske/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/samochod_rura_wydechowa_m.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/trujace_diesle_zalewaja_polske/"><div class="SubjectNews" style="float: right">Trujace diesle zalewaja Polske</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-10-18</div>
+<div class="LidoNews" style="float: right">
+W 2017 roku do Polski trafilo ponad 350&nbsp;000 silnie zanieczyszczajacych powietrze diesli. Wiekszosc z nich ma co najmniej 7 lat i nie posiada filtra DPF, przez co emituja nawet dwunastokrotnie wiecej trujacych tlenk&oacute;w azotu i rakotw&oacute;rczych czastek drobnego pylu niz samochody spelniajace norme EURO 6.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/trujace_diesle_zalewaja_polske/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/tak_sie_zmienia_klimat_w_miastach/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/06_tak_sie_zmienia_klimat_13_10_2018.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/tak_sie_zmienia_klimat_w_miastach/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/06_tak_sie_zmienia_klimat_13_10_2018.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/tak_sie_zmienia_klimat_w_miastach/"><div class="SubjectNews" style="float: right">Tak sie zmienia klimat w miastach</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-10-13</div>
+<div class="LidoNews" style="float: right">
+W te sobote Plac Szczepanski zamienil sie w prawdziwe forum klimatyczne, na kt&oacute;rym kazdy mial mozliwosc wyrazenia swojej opinii na temat globalnego ocieplenia i wplywu tego niebezpiecznego procesu na codzienne zycie. Mieszkancy Krakowa, aktywisci miejscy oraz ekolodzy dyskutowali o tym, co mozemy zrobic, aby zahamowac zmiane klimatu. Haslo przewodnie akcji brzmialo: Tak sie zmienia klimat w miastach!&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/tak_sie_zmienia_klimat_w_miastach/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/jak_chronic_klimat_/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/okladka_poradnik.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/jak_chronic_klimat_/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/okladka_poradnik.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/jak_chronic_klimat_/"><div class="SubjectNews" style="float: right">Jak chronic klimat?</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-07-16</div>
+<div class="LidoNews" style="float: right">
+Dlaczego z wyzwaniem, jakim jest zmiana klimatu, powinnismy sie pilnie zmierzyc juz teraz? Czemu problem dotyczy kazdego z nas, niezaleznie od tego, w jakim regionie swiata mieszka i czym sie zajmuje? Co mozemy zrobic? Na te pytania odpowiada nasz poradnik dla aktywist&oacute;w.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/jak_chronic_klimat_/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_ostroleki_c/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/premiermorawiecki.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_ostroleki_c/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/premiermorawiecki.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_ostroleki_c/"><div class="SubjectNews" style="float: right">Apel do premiera: nie dla Ostroleki C</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-07-12</div>
+<div class="LidoNews" style="float: right">
+Organizacje pozarzadowe apeluja do premiera Mateusza Morawieckiego o wstrzymanie projektu budowy elektrowni weglowej. Eksperci argumentuja, ze Ostroleka C bedzie nierentowna, szkodliwa dla zdrowia i srodowiska oraz zablokuje rozw&oacute;j regionu ostroleckiego.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/apel_do_premiera__nie_dla_ostroleki_c/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/fakty_i_mity_polityki_klimatycznej/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/kominy_wieczor_mniejsze.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/fakty_i_mity_polityki_klimatycznej/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/kominy_wieczor_mniejsze.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/fakty_i_mity_polityki_klimatycznej/"><div class="SubjectNews" style="float: right">Fakty i mity polityki klimatycznej</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-07-11</div>
+<div class="LidoNews" style="float: right">
+Polityka klimatyczna jest tematem budzacym w Polsce kontrowersje. W mediach nadal pojawia sie wiele sprzecznych ze soba komunikat&oacute;w. Jedni m&oacute;wia, ze musimy ograniczac emisje, a inni, ze zmiana klimatu to problem wymyslony. Dlatego w naszej broszurze obalamy popularne mity dotyczace polityki klimatycznej.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/fakty_i_mity_polityki_klimatycznej/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/zdrowie_polakow_zagrozone_przez_zmiane_klimatu/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/wplyw_zmiany_klimatu_na_zdrowie.png"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/zdrowie_polakow_zagrozone_przez_zmiane_klimatu/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/wplyw_zmiany_klimatu_na_zdrowie.png&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/zdrowie_polakow_zagrozone_przez_zmiane_klimatu/"><div class="SubjectNews" style="float: right">Zdrowie Polakow zagrozone przez zmiane klimatu</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-06-14</div>
+<div class="LidoNews" style="float: right">
+Wzrost smiertelnosci z powodu fal upal&oacute;w, coraz wiecej poszkodowanych w wyniku ekstremalnych zjawisk pogodowych czy kilkukrotne zwiekszenie liczby zachorowan na borelioze &ndash; to tylko niekt&oacute;re negatywne skutki zdrowotne zmiany klimatu, jakie odczuja Polacy w najblizszych latach.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/zdrowie_polakow_zagrozone_przez_zmiane_klimatu/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rodziny_pozywaja_ue_za_zmiane_klimatu/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/fotolia_58671941_subscription_monthly_m.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rodziny_pozywaja_ue_za_zmiane_klimatu/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/fotolia_58671941_subscription_monthly_m.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rodziny_pozywaja_ue_za_zmiane_klimatu/"><div class="SubjectNews" style="float: right">Rodziny pozywaja UE za zmiane klimatu</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-05-24</div>
+<div class="LidoNews" style="float: right">
+Rodziny dotkniete skutkami zmiany klimatu zaskarzyly Unie Europejska, domagajac sie uniewaznienia trzech najwazniejszych akt&oacute;w prawnych UE, kt&oacute;re maja zapewnic osiagniecie celu polityki klimatycznej, czyli redukcje GHG do 2030 r. o 40% w por&oacute;wnaniu do 1990 roku. Bezprecedensowy pozew zbiorowy przeciwko Parlamentowi Europejskiemu i Radzie Europejskiej trafil dzisiaj do Sadu Unii Europejskiej, czyli pierwszej instancji w ramach Trybunalu Sprawiedliwosci UE&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rodziny_pozywaja_ue_za_zmiane_klimatu/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ke_proponuje_standardy_efektywnosci_paliwowej_dla_ciezarowek/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/Aktualnosci 2018/ciezarowki_mniejsze.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ke_proponuje_standardy_efektywnosci_paliwowej_dla_ciezarowek/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/Aktualnosci 2018/ciezarowki_mniejsze.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ke_proponuje_standardy_efektywnosci_paliwowej_dla_ciezarowek/"><div class="SubjectNews" style="float: right">KE proponuje standardy efektywnosci paliwowej dla ciezarowek</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-05-18</div>
+<div class="LidoNews" style="float: right">
+Cel na 2025 rok pozwoli wlascicielom samochod&oacute;w ciezarowych zaoszczedzic okolo 5000 euro rocznie na rachunkach za paliwo, wzmocni konkurencyjnosc producent&oacute;w tego rodzaju aut i obnizy emisje CO2 o miliony ton. Biznes i organizacje pozarzadowe apeluja do polskiego rzadu o poparcie propozycji KE.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ke_proponuje_standardy_efektywnosci_paliwowej_dla_ciezarowek/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/czas_zmniejszyc_liczbe_diesli_w_miastach/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/2017_Aktualnosci/fotolia_132942812_subscription_monthly_l.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/czas_zmniejszyc_liczbe_diesli_w_miastach/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/2017_Aktualnosci/fotolia_132942812_subscription_monthly_l.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/czas_zmniejszyc_liczbe_diesli_w_miastach/"><div class="SubjectNews" style="float: right">Czas zmniejszyc liczbe diesli w miastach</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-04-26</div>
+<div class="LidoNews" style="float: right">
+Po europejskich drogach jezdzi ponad 40 milion&oacute;w silnie zanieczyszczajacych diesli. Krajowe organy udzielajace homologacji nie sa zainteresowane zobowiazaniem producent&oacute;w samochod&oacute;w do modernizacji aut. W rezultacie miasta staly sie ostatnia linia obrony w walce o czyste powietrze i rozwiazanie kryzysu wok&oacute;l zdrowia publicznego, kt&oacute;ry powoduje okolo p&oacute;l miliona przedwczesnych zgon&oacute;w rocznie w Europie.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/czas_zmniejszyc_liczbe_diesli_w_miastach/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polska_otrzymala_antynagrode_za_rynek_mocy/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/2017_Aktualnosci/fotolia_131142508_subscription_monthly_m.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polska_otrzymala_antynagrode_za_rynek_mocy/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/2017_Aktualnosci/fotolia_131142508_subscription_monthly_m.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polska_otrzymala_antynagrode_za_rynek_mocy/"><div class="SubjectNews" style="float: right">Polska otrzymala antynagrode za rynek mocy</div></a>
+<div class="DateNews" style="float: right">dodano: 2018-04-17</div>
+<div class="LidoNews" style="float: right">
+Europejczycy wybrali trzy najgorsze formy subsydiowania paliw kopalnych, wskazujac panstwa wspierajace brudna energie w najbardziej spektakularny spos&oacute;b. Polska zdobyla niechlubne drugie miejsce.&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/polska_otrzymala_antynagrode_za_rynek_mocy/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ministrowie_energii_odwrocili_sie_plecami_do_porozumienia_paryskiego/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/2017_Aktualnosci/fotolia_53680702_subscription_monthly_s_kard.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ministrowie_energii_odwrocili_sie_plecami_do_porozumienia_paryskiego/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/2017_Aktualnosci/fotolia_53680702_subscription_monthly_s_kard.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ministrowie_energii_odwrocili_sie_plecami_do_porozumienia_paryskiego/"><div class="SubjectNews" style="float: right">Ministrowie energii odwrocili sie plecami do porozumienia paryskiego</div></a>
+<div class="DateNews" style="float: right">dodano: 2017-12-19</div>
+<div class="LidoNews" style="float: right">
+Rada przyjela stanowisko w sprawie unijnych przepis&oacute;w energetycznych w ramach tzw. pakietu zimowego. Ministrowie wybrali paliwa kopalne zamiast OZE. Elektrownie weglowe beda dalej finansowane z publicznych pieniedzy i to nawet az do 2035 roku. Oslabiono takze propozycje Komisji Europejskiej, dotyczaca zwiekszenia roli energetyki obywatelskiej w transformacji energetycznej.
+&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/ministrowie_energii_odwrocili_sie_plecami_do_porozumienia_paryskiego/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div class="NewsRows">
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rolnicy_straca_przez_rynek_mocy/"><div class="FotoNews" style="float: left"><img src="/theme/UploadFiles/2017_Aktualnosci/fotolia_48603061_subscription_monthly_m.jpg"  style="width:146px;" alt="" /></div></a>
+<!--
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rolnicy_straca_przez_rynek_mocy/"><div class="FotoNews" style="float: left"><img src="/theme/img/icons.php?file=../../theme/UploadFiles/2017_Aktualnosci/fotolia_48603061_subscription_monthly_m.jpg&amp;width=146&amp;crop=1" alt="" /></div></a>
+
+-->
+<a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rolnicy_straca_przez_rynek_mocy/"><div class="SubjectNews" style="float: right">Rolnicy straca przez rynek mocy</div></a>
+<div class="DateNews" style="float: right">dodano: 2017-12-05</div>
+<div class="LidoNews" style="float: right">
+Juz teraz rolnicy placa srednio o 20-450% wyzsze rachunki za prad niz pozostale gospodarstwa domowe. Po wprowadzeniu rynku mocy ceny energii wzrosna o dodatkowe 10-20%. Jutro odbedzie sie trzecie czytanie projektu ustawy, kt&oacute;re przypieczetuje kolejne podwyzki.
+&nbsp; <a href="/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/view/rolnicy_straca_przez_rynek_mocy/" class="NewsMore">&nbsp;&nbsp;&nbsp;</a>									</div>
+</div>
+<div class="clear"></div>
+<div id="stronicowanie"><a href="" class="stronicowanie_back">&laquo; poprzednia</a><div class="pozycje"><a class="StronicowanieActive">&nbsp;1&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/2/">&nbsp;2&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/3/">&nbsp;3&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/4/">&nbsp;4&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/5/">&nbsp;5&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/6/">&nbsp;6&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/7/">&nbsp;7&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/8/">&nbsp;8&nbsp;</a><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/9/">&nbsp;9&nbsp;</a></div><a href="/lang/pl/page/aktualnosci/id/2/lang/pl/archiwum/true/stronicowanie/2/" class="stronicowanie_back">nastepna &raquo;</a></div>
+</div>
+<div id="page-icon">
+<a href="javascript:PagePrint('/lang/pl/page/aktualnosci/id/2/archiwum/true/stronicowanie/1/print/true/');" id="print">Drukuj</a>
+</div>
+</div>
+</div>
+<div class="box-page-end"></div>
+</div>
+
+
+
+</div>
+
+<div id="column-right">
+<!-- Banerki -->
+<div class="box">
+<div class="box-top">
+
+
+</div>
+<div class="box-body">
+<div class="box-body-footer">
+<div class="box-header">
+<h1 class="box-icon-green">Koalicja</h1>
+</div>
+<div class="box-content" style="width: 179px">
+<div class="banner-foto"><a href="http://aerisfuturo.pl/" rel="blank" title="Fundacja Aeris Futuro"><img src="/theme/UploadFiles/Image/banner/faf_logo_rgb_podstawowe_kolor_min_min2.JPG" alt="Fundacja Aeris Futuro" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.clientearth.org/pl/" rel="blank" title="Fundacja ClientEarth Poland"><img src="/theme/UploadFiles/Image/banner/Reklamy 2016/email_polish_logo.jpg" alt="Fundacja ClientEarth Poland" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.fewe.pl" rel="blank" title="Fundacja Efektywnego Wykorzystania Energii"><img src="/theme/UploadFiles/Image/banner/fewe.jpg" alt="Fundacja Efektywnego Wykorzystania Energii" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.zielonaakcja.pl" rel="blank" title="Zielona Akcja"><img src="/theme/UploadFiles/Image/banner/zielona_akcja.jpg" alt="Zielona Akcja" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.fundacjaarka.pl/" rel="blank" title="Fundacja Ekologiczna Arka"><img src="/theme/UploadFiles/Image/banner/arka.jpg" alt="Fundacja Ekologiczna Arka" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.fer.org.pl/" rel="blank" title="Fundacja Ekorozwoju"><img src="/theme/UploadFiles/Image/banner/fer.jpg" alt="Fundacja Ekorozwoju" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.greenpeace.org/poland/" rel="blank" title="Greenpeace"><img src="/theme/UploadFiles/Image/banner/greenpeace.jpg" alt="Greenpeace" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.zmianyklimatu.pl/" rel="blank" title="Fundacja Na Rzecz Zrownowazonego Rozwoju"><img src="/theme/UploadFiles/Image/banner/fnrzr.jpg" alt="Fundacja Na Rzecz Zrownowazonego Rozwoju" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.ine-isd.org.pl/" rel="blank" title="Instytut na rzecz Ekorozwoju"><img src="/theme/UploadFiles/Image/banner/instytut_na_rzecz_ekorozwoju.jpg" alt="Instytut na rzecz Ekorozwoju" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.klubgaja.pl/" rel="blank" title="Klub Gaja"><img src="/theme/UploadFiles/Image/banner/klub_gaja.jpg" alt="Klub Gaja" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.gappolska.org/" rel="blank" title="Fundacja GAP Polska"><img src="/theme/UploadFiles/Image/banner/logo_gap2006_mini_txt.jpg" alt="Fundacja GAP Polska" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.lop.org.pl/" rel="blank" title="Liga Ochrony Przyrody"><img src="/theme/UploadFiles/Image/banner/liga_ochrony_przyrody.jpg" alt="Liga Ochrony Przyrody" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.ekoklub.wroclaw.pl/" rel="blank" title="Polski Klub Ekologiczny - Okreg Dolnoslaski"><img src="/theme/UploadFiles/Image/banner/listek_dolnoslaski_min3.JPG" alt="Polski Klub Ekologiczny - Okreg Dolnoslaski" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><img src="/theme/UploadFiles/Image/banner/listek_gornoslaski_min3.JPG" alt="Polski Klub Ekologiczny - Okreg Gornoslaski" class="float-left margin-no padding-no" /></div><div class="banner-foto"><a href="http://pke-om.most.org.pl/index.html" rel="blank" title="Polski Klub Ekologiczny - Okreg Mazowiecki"><img src="/theme/UploadFiles/Image/banner/listek_mazowiecki_min3.JPG" alt="Polski Klub Ekologiczny - Okreg Mazowiecki" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.pke.gdansk.pl/" rel="blank" title="Polski Klub Ekologiczny Okreg Wschodnio-Pomorski"><img src="/theme/UploadFiles/Image/banner/listek_wschodniopom_min3.JPG" alt="Polski Klub Ekologiczny Okreg Wschodnio-Pomorski" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.zielonasiec.pl/" rel="blank" title="Polska Zielona Siec"><img src="/theme/UploadFiles/Image/banner/polska_zielona_siec.jpg" alt="Polska Zielona Siec" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.eko-unia.org.pl/ekounia/" rel="blank" title="Eko Unia"><img src="/theme/UploadFiles/Image/banner/ekounianowe_min3.PNG" alt="Eko Unia" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://pracownia.org.pl/" rel="blank" title="Pracownia na rzecz wszystkich Istot"><img src="/theme/UploadFiles/Image/banner/pnrwi_logo_mini_3.PNG" alt="Pracownia na rzecz wszystkich Istot" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://sie.most.org.pl/" rel="blank" title="Spoleczny Instytut Ekologiczny"><img src="/theme/UploadFiles/Image/banner/spoleczny_instytut_ekologiczny.jpg" alt="Spoleczny Instytut Ekologiczny" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://wwf.pl/" rel="blank" title="WWF"><img src="/theme/UploadFiles/Image/banner/wwf.jpg" alt="WWF" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.zm.org.pl/" rel="blank" title="Zielone Mazowsze"><img src="/theme/UploadFiles/Image/banner/zielone_mazowsze.jpg" alt="Zielone Mazowsze" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="https://www.ciwf.pl" rel="blank" title="CIWF"><img src="/theme/UploadFiles/Image/banner/Reklamy 2019/ciwf_pol_jpg_min2_jpeg.jpeg" alt="CIWF" class="float-left margin-no padding-no" /></a></div><div class="banner-foto"><a href="http://www.wspolnaziemia.org" rel="blank" title="Wspolna Ziemia"><img src="/theme/UploadFiles/Image/banner/Reklamy 2019/logowz3min.jpg" alt="Wspolna Ziemia" class="float-left margin-no padding-no" /></a></div>									</div>
+</div>
+</div>
+<div class="box-end"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="wrap-body-footer"></div>
+<div id="wrap-footer">
+| created by <a href="http://improve.pl" rel="blank" title="Projektowanie stron internetowych">improve.pl</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1549925-40");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+

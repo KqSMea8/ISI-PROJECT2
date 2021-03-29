@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /stat_add_visit/
+Disallow: /register/
+Disallow: /login/
+Disallow: /cart/
+Disallow: /order/
+Disallow: /orders/
+Disallow: /passrecover/
+Disallow: /ticket/

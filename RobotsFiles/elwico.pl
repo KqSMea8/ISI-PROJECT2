@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /napisz/
+Disallow: /napiszdonas/
+Disallow: /programy_toya/
+Disallow: /programycyfrowe/
+Disallow: /serwistechniczny/
+Disallow: /pakiety-cyfrowe/
+Disallow: /zmiana/
+Disallow: /dokumenty/
+Disallow: /forum/
+Disallow: /poczta/
+Disallow: /~

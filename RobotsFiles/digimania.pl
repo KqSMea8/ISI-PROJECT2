@@ -1,0 +1,80 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /*wyszukiwanie-zaawansowane*
+
+User-agent: *
+Disallow: /*search*
+
+User-agent: *
+Disallow: /*regulamin*
+
+User-agent: *
+Disallow: /*logowanie*
+
+User-agent: *
+Disallow: /*rejestracja*
+
+User-agent: *
+Disallow: /*zamowienie*
+
+User-agent: *
+Disallow: /*5352*
+Disallow: /*5355*
+Disallow: /*spod-lady*
+Disallow: /*1279*
+Disallow: /*,1294,*
+Disallow: /*,1347,*
+Disallow: /*,1348,*
+Disallow: /*,1350,*
+Disallow: /*1346*
+Disallow: /*,1349,*
+Disallow: /*4259*
+Disallow: /*,4254,*
+Disallow: /*4253*
+Disallow: /*4251*
+Disallow: /*4250*
+Disallow: /*,4252,*
+Disallow: /*,1278,*
+Disallow: /*,1276,*
+Disallow: /*4255*
+Disallow: /*4533*
+Disallow: /*4001*
+Disallow: /*4504*
+Disallow: /*3397*
+Disallow: /*,1344,*
+Disallow: /*,4256,*
+Disallow: /*,4258,*
+Disallow: /*4541*
+Disallow: /*4538*
+Disallow: /*4543*
+Disallow: /*4539*
+Disallow: /*4540*
+Disallow: /*4542*
+Disallow: /*4006*
+Disallow: /*4007*
+Disallow: /*,4248,*
+Disallow: /*4002*
+Disallow: /*,4003,*
+Disallow: /*,3658,*
+Disallow: /*,3659,*
+Disallow: /*,3657,*
+Disallow: /*5383*
+Disallow: /*5386*
+Disallow: /*5385*
+Disallow: /*5353*
+Disallow: /*5415*
+Disallow: /*5413*
+Disallow: /*5414*
+Disallow: /*5412*
+Disallow: /*5408*
+Disallow: /*5406*
+Disallow: /*5407*
+Disallow: /*5409*
+Disallow: /*5411*
+Disallow: /*5410*
+Disallow: /*5418*
+Disallow: /*5417*
+Disallow: /*5405*
+Disallow: /*5354*

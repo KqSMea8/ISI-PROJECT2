@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /images/
+Disallow: /cart/cart-form/
+Disallow: /bielizna/rozmiary/
+Disallow: /bielizna/tabela-rozmiarow/
+Disallow: /dessous/rozmiary/
+Disallow: /dessous/tabela-rozmiarow/
+Disallow: /lingerie/rozmiary/
+Disallow: /lingerie/tabela-rozmiarow/
+Disallow: /bielizna/product-not-available/

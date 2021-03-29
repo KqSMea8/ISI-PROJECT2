@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /!/
+Disallow: /Application/
+Disallow: /Custom/
+Disallow: /Languages/
+Disallow: /Library/
+Disallow: /cron/
+Disallow: /logs/
+Disallow: /newsletter/
+Disallow: /xml/
+Disallow: /Layout/
+Disallow: /tmp/
+Allow: /Library/Scripts/
+Allow: /Layout/css/
+Allow: /Layout/gfx/
+Allow: /Layout/fonts/
+Allow: /sitemap.xml

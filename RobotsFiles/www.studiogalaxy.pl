@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /zapytania/
+Disallow: /galeria.php
+Disallow: /limuzyny.html
+Disallow: /wynajemstudia.html
+Disallow: /obrazy/
+Disallow: /muzyka.php
+Disallow: /images/
+Disallow: /thumbs/

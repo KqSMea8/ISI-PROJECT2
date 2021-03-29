@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /uploads
+Disallow: /favourites
+Disallow: /orders
+Disallow: /*noindex
+Disallow: /*search
+Disallow: /informacje/regulamin-sklepu
+Disallow: /informacje/polityka-prywatnosci
+Disallow: /*media/PaintPlaner.swf
+Disallow: /p/*/fototapety/kwiaty/tulipany
+Disallow: /p/*/fototapety/krajobraz/las
+Disallow: /p/*/fototapety/las*
+Disallow: /p/*/fototapety/kwiaty*
+Disallow: /p/*/fototapety/miasta*

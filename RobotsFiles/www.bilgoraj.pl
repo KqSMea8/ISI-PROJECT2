@@ -1,0 +1,12 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /admin/
+Disallow: /administration/
+Disallow: /root/
+Disallow: /private/
+Disallow: /install/
+Disallow: /vendor/
+Sitemap: http://www.bilgoraj.pl/media/site/sitemap.xml.gz

@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /pool/
+allow: /deu/index.php?
+allow: /eng/index.php?
+allow: /esp/index.php?
+allow: /pol/index.php?

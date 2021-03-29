@@ -1,0 +1,10 @@
+Sitemap: https://www.fryzjersklep.pl/sitemap.xml
+User-agent: *
+Disallow: /index.php/regulamin/
+Disallow: /index.php?url=front_strony&id=19
+Disallow: /regulamin.html
+Disallow: /logowanie/przypomnij_haslo.html
+Disallow: /rejestracja/rejestracja.html
+Disallow: /koszyk/
+Disallow: /szukaj-zaawansowane/
+Disallow: /?q=*

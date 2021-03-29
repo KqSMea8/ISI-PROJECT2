@@ -1,0 +1,17 @@
+# Hiving2
+User-agent: *
+Disallow: /admin/
+Disallow: /assetic/
+Disallow: /bundles/
+Disallow: /css/
+Disallow: /defaultavatars/
+Disallow: /fontawesome/
+Disallow: /glyphicons/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Disallow: /swf/
+Disallow: /uploads/
+Disallow: /media/
+Disallow: /survey-end/
+Sitemap: https://www.joinhiving.com/sitemap.xml

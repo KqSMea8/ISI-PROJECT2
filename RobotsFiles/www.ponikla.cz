@@ -1,0 +1,15 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /urad-2/uredni-deska/
+Disallow: /obcan/rezervacni-system/
+Disallow: /obcan/-pohadkovy-les-/
+Disallow: /turista/kantyna-rezervacni-system/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /urad-2/uredni-deska/
+Disallow: /obcan/rezervacni-system/
+Disallow: /obcan/-pohadkovy-les-/
+Disallow: /turista/kantyna-rezervacni-system/
+Sitemap: http://www.ponikla.cz/sitemap.xml
+

@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: http://www.OBD2eShop.com/sitemap.xml
+Disallow: /ajax/
+Disallow: /api_ppec/
+Disallow: /app/
+Disallow: /inc/
+Disallow: /members/
+Disallow: /up/
+Disallow: /zxm2rtq/

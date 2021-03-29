@@ -1,0 +1,20 @@
+User-agent: *
+Allow:	/images/stories/images/certyficate-x509/
+Allow:	/images/stories/images/fs-v6505/
+Disallow: /pliki/openwrt/TD-8970v1/
+Allow:	/pliki/
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+

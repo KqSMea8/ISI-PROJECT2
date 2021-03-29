@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /Drukuj/
+Disallow: /front/
+Disallow: /view/

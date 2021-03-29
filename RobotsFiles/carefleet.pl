@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Carefleet-Mobile.59*
+Disallow: /Start.60*
+Disallow: /Aktualnosci.61*
+Disallow: /Kontakt.62*
+Disallow: /Firma.63*
+Disallow: /Finansowanie.64*
+Disallow: /Zarzadzanie.65*
+Disallow: /Wynajem.66*
+Disallow: /page26*
+Disallow: /*recordid*

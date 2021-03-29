@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /*kup=
+Disallow: /formy_platnosci
+Disallow: /*PHPSESSID=
+Disallow: /*q=
+Disallow: /*x=
+Disallow: /*y=
+Disallow: /*del=
+Disallow: /*ext=
+Disallow: /*body=
+Disallow: /jak_kupowac
+Disallow: /dostawa
+Disallow: /*polec_produkt=
+Disallow: /*typ_listingu=
+Disallow: /*zapytaj=
+Disallow: /*kasa=

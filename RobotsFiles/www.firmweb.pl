@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /polityka-prywatnosci.html
+Disallow: /regulamin.htm
+Disallow: /kontakt.htm
+Disallow: /jak-dodac-wpis.htm
+Disallow: /?action=premium&id=*
+Disallow: /admin/
+Disallow: /?click=*
+Sitemap: http://www.firmweb.pl/files/map.xml
+Sitemap: http://www.firmweb.pl/files/map_cat-0.xml
+Sitemap: http://www.firmweb.pl/files/map_sub-0.xml
+Sitemap: http://www.firmweb.pl/files/map_site-0.xml

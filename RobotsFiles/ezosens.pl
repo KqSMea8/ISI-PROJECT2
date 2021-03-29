@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /api/
+Disallow: /accounts/
+Disallow: /affiliates/js/
+Disallow: /include/
+Disallow: /install/
+Disallow: /plugins/
+Disallow: /merchants/
+Disallow: /samplest_test/
+Disallow: /scripts/

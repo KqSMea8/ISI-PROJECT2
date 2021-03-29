@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /test
+Disallow: /niedozywienie-dzieci/
+Disallow: /objawy-ciazy
+Disallow: /papierosy-a-ciaza
+Disallow: /choroby
+Disallow: *napisz-komentarz*
+Disallow: /terms_of_use/
+Disallow: /privacy_policy/
+Disallow: /contact/
+Disallow: /tamiflu/
+Disallow: /robots.txt

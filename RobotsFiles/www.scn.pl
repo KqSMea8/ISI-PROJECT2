@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /tmp
+Disallow: /private
+Disallow: /logs
+Disallow: /ajax.php
+Disallow: /*kalkulator_kredytowy
+Disallow: /*kalkulator_oplat_dodatkowych
+Disallow: /*kalkulator_rata
+Disallow: /*pl_offer_makler
+Disallow: /*powiadom
+Disallow: /*zmiana_ceny
+Disallow: /*print
+Disallow: /*iframe
+Allow: /

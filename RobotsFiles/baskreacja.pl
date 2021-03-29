@@ -1,0 +1,117 @@
+User-agent: baiduspider
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: msnbot
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: naverbot
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: seznambot
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: Slurp
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: teoma
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /_log/
+Disallow: /amfphp/
+Disallow: /chat/
+Disallow: /class/
+Disallow: /define/
+Disallow: /fpdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /private/
+Disallow: /smarty/
+Disallow: /stat/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: *
+Allow: /
+
+
+

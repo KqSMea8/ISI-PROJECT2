@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /__wp-www/wp-admin/
+Disallow: /__wp-www/wp-includes/
+Disallow: /__wp-www/
+Disallow: /sorin/
+Disallow: /`00^^00'/
+Disallow: /__wp-files/
+Disallow: /00^^app/
+Disallow: /acer5742/
+Disallow: /tmp/
+Disallow: /__wp-www.old/
+Allow: /
+Sitemap: https://nanocraft.pl/sitemap.xml

@@ -1,0 +1,6 @@
+Sitemap: https://krakus.biz/sitemap.xml
+Sitemap: https://krakus.biz/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins
+Disallow: /search/?bbp_search=*
+Disallow: /users/
+Disallow: /?s=*
+Disallow: /live/?item=*
+Disallow: /demo/html/teslathemes/
+Disallow: /amember/thanks
+Disallow: /amember/signup
+Disallow: /amember/signup/*
+Disallow: /amember/*
+User-agent: AhrefsBot
+Disallow:/
+User-agent: SemrushBot
+Disallow:/

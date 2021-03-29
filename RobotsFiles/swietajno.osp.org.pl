@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: data/ads/
+Disallow: data/downloads/
+Disallow: data/email/
+Disallow: data/errors/
+Disallow: data/media/
+Disallow: data/metrics/
+Disallow: data/modules/
+Disallow: data/plugins/
+Disallow: data/skins/
+Disallow: data/stories/
+Disallow: data/synapps/
+Disallow: data/tmp/
+Disallow: data/trash/
+Disallow: data/xml/

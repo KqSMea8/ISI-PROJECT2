@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /faq/regulamin
+Disallow: /faq/polityka-cookies
+Disallow: /faq/reklamacje-i-zwroty
+Disallow: /rejestracja
+Disallow: /logowanie
+Disallow: /cart
+Disallow: /search

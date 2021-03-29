@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /wp-admin/
+Sitemap: http://fumist.eu/sitemap.xml

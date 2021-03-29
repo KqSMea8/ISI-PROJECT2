@@ -1,0 +1,57 @@
+User-agent: Yandex
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-trackback
+Disallow: /wp-feed
+Disallow: /wp-comments
+Disallow: /tag
+Disallow: /archive
+Disallow: */trackback
+Disallow: */comments
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Disallow: /?feed=
+Disallow: /?s=
+Crawl-delay: 10
+Host: upchem.pl
+
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /template.html
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/cache
+Disallow: /wp-trackback
+Disallow: /wp-feed
+Disallow: /wp-comments
+Disallow: /tag
+Disallow: /archive
+Disallow: */trackback
+Disallow: */comments
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Disallow: /?feed=
+Disallow: /?s=
+Crawl-delay: 10
+
+Host: upchem.pl
+Sitemap: http://upchem.pl/sitemap.xml.gz
+Sitemap: http://upchem.pl/sitemap.xml
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+Crawl-delay: 10
+
+User-agent: YandexImages
+Allow: /wp-content/uploads/
+Crawl-delay: 10
+

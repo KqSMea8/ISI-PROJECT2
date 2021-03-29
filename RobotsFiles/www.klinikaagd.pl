@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /wyszukiwarka/
+Disallow: /koszyk/
+Disallow: /panel/
+Disallow: /pds/status/
+Disallow: /pds/statusprzesylki/
+
+Crawl-delay: 40
+User-Agent: MJ12bot
+Disallow: /
+User-Agent: AhrefsBot
+Disallow: /
+User-Agent: YandexBot
+Disallow: /
+User-Agent: Nekstbot
+Disallow: /
+User-Agent: Exabot
+Disallow: /
+User-Agent: TwengaBot
+Disallow: /
+User-Agent: Rogerbot
+Disallow: /
+User-Agent: SemrushBot
+Disallow: /
+User-Agent: DotBot
+Disallow: /
+User-Agent: MegaIndex.ru
+Disallow: /
+User-Agent: BLEXBot
+Disallow: /
+

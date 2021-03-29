@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /unrecognisable/
+Disallow: /imones/siusti/
+Disallow: /en/imones/siusti/
+Sitemap: /sitemap.xml.gz
+

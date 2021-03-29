@@ -1,0 +1,6 @@
+Sitemap: https://tasko.us/sitemap.xml
+Sitemap: https://tasko.us/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

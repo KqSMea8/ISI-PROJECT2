@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /mujportal/
+Disallow: /banner/
+Disallow: /mapa/
+Disallow: /photo/
+Disallow: /*mapa$
+Disallow: /*mapa?
+

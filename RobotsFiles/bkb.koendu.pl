@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: http://bkb.koendu.pl/sitemap.xml
+Disallow: /actions_admin/
+Disallow: /admin/
+Disallow: /doc/
+Disallow: /files/
+Disallow: /libraries/
+Disallow: /plugins/
+Disallow: /templates

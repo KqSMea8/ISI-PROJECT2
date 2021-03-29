@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /prints/?itemtypeids=
+Disallow: /global/
+
+Sitemap: http://sitemaps.deviantart.net/sitemap-index.xml.gz
+

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /restrict/
+Disallow: /r/
+Disallow: /*/r/
+Disallow: /fr/about/
+Disallow: /en/about/
+Disallow: /de/about/
+Disallow: /it/about/
+Disallow: /es/about/
+Disallow: /nl/about/
+Disallow: /pl/about/
+Disallow: /smartsem/
+Disallow: /fr/partners/
+Disallow: /en/partners/
+Disallow: /de/partners/
+Disallow: /it/partners/
+Disallow: /es/partners/
+Disallow: /pl/partners/
+Disallow: /nl/partners/
+Disallow: fr/landing_access
+Disallow: /en/landing_access
+Disallow: /de/landing_access
+Disallow: /it/landing_access
+Disallow: /es/landing_access
+Disallow: /nl/landing_access
+Disallow: /pl/landing_access
+

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /mobile/
+

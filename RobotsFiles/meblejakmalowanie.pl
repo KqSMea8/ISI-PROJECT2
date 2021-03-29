@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /modules/
+Disallow: /en/
+Disallow: controller
+Disallow: n=20
+Disallow: n=50
+Disallow: n=10
+Allow: /modules/*.js
+Allow: /modules/*.css
+Allow: /modules/*.png

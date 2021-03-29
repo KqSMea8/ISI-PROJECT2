@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /cms2/
+Disallow: /js/
+Disallow: /cms/magic/
+Disallow: /js2014/
+Disallow: /functions2014/
+Disallow: /download/umowy/
+Disallow: /download/umowy-pliki/
+Allow: /

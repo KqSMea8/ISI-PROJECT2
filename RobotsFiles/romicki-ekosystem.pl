@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /cart
+Disallow: /classes/
+Disallow: /config/
+Disallow: /download/
+Disallow: /mails/
+Disallow: /translations/
+Disallow: /tools/
+Disallow: /password-recovery
+Disallow: /address
+Disallow: /addresses
+Disallow: /authentication
+Disallow: /discount
+Disallow: /order-history
+Disallow: /identity
+Disallow: /my-account
+Disallow: /order-follow
+Disallow: /order-slip
+Disallow: /order
+Disallow: /search
+Disallow: /quick-order
+Disallow: /guest-tracking
+Disallow: /my-account
+Disallow: /products-comparison.php
+Disallow: ?&p
+Allow: /
+

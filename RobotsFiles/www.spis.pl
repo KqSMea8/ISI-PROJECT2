@@ -1,0 +1,22 @@
+User-agent: *
+Sitemap: http://www.spis.pl/static/pl/xml/sitemap.xml
+Allow: /
+Disallow: /tools-points/
+Disallow: /tools-comments/
+Disallow: /tools-stories/
+Disallow: /tools-watchlist/
+Disallow: /tools-friendswatchlist/
+Disallow: /tools-friendspoints/
+Disallow: /tools-friendscomments/
+Disallow: /tools-friendsstories/
+Disallow: /tools-friendsagreed/
+Disallow: /tools-index/
+Disallow: /tools-popular/
+Disallow: /tools-upcoming/
+Disallow: /tools-tags/
+Disallow: /tools-submit/
+Disallow: /tools-addpoint/
+Disallow: /tools-generatelw/
+Disallow: /tools-generateaw/
+Disallow: /tools-thumbs/
+

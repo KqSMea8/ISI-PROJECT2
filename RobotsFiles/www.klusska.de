@@ -1,0 +1,6 @@
+Sitemap: http://www.klusska.de/sitemap.xml
+Sitemap: http://www.klusska.de/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*.axd$
+Disallow: /LeadGen/LeadContent.aspx

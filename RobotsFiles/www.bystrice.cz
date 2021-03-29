@@ -1,0 +1,33 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /obcan/uzemni-plan/prilohy/
+Disallow: /samosprava-obce/rozpocet-a-zaverecny-ucet/
+Disallow: /obcan/sport-v-obci/
+Disallow: /obecni-urad/uredni-deska/
+Disallow: /gmina-bystrzyca/tablica-ogloszen/
+Disallow: /turista/bystricka-izba/
+Disallow: /samosprava-obce/archiv-usneseni-zo-a-ro/usneseni-zo-2010-2014/
+Disallow: /samosprava-obce/rozpocet-a-zaverecny-ucet-1/rozpoctova-opatreni-2017/
+Disallow: /samosprava-obce/archiv-usneseni-zo-a-ro/usneseni-ro-2010-2014/
+Disallow: /pocasi/test/
+Disallow: /pocasi/
+Disallow: /samosprava-obce/rozpocet-a-zaverecny-ucet-1/rozpoctova-opatreni-2018/
+Disallow: /formular/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /obcan/uzemni-plan/prilohy/
+Disallow: /samosprava-obce/rozpocet-a-zaverecny-ucet/
+Disallow: /obcan/sport-v-obci/
+Disallow: /obecni-urad/uredni-deska/
+Disallow: /gmina-bystrzyca/tablica-ogloszen/
+Disallow: /turista/bystricka-izba/
+Disallow: /samosprava-obce/archiv-usneseni-zo-a-ro/usneseni-zo-2010-2014/
+Disallow: /samosprava-obce/rozpocet-a-zaverecny-ucet-1/rozpoctova-opatreni-2017/
+Disallow: /samosprava-obce/archiv-usneseni-zo-a-ro/usneseni-ro-2010-2014/
+Disallow: /pocasi/test/
+Disallow: /pocasi/
+Disallow: /samosprava-obce/rozpocet-a-zaverecny-ucet-1/rozpoctova-opatreni-2018/
+Disallow: /formular/
+Sitemap: https://www.bystrice.cz/sitemap.xml
+

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /fileadmin/templates/main/js
+Disallow: /fileadmin/templates/main/css
+Disallow: /typo3conf
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.txt$
+Disallow: /*.swf$
+Disallow: /*type=$
+Disallow: /*&type=*
+Disallow: /ajfknba24345324nsadfwsd3223swdf/
+Disallow: /xgrb2qdoibzw4ga08zaxi9r5mj6k31/
+#Disallow: /

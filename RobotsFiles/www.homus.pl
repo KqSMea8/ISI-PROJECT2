@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /pl/koszyk*
+Disallow: /pl/zamowieni*
+Disallow: /pl/client_account*
+Disallow: /pl/klient_logowanie*
+Disallow: /pl/opinie/*/art/*
+Disallow: /pl/art//*
+Disallow: /pl/art/*?wyrazenie=*
+Disallow: /pl/pl/category*
+Disallow: /pl/Menu
+Disallow: /pl/Wyszukiwarka
+Disallow: /pl/Zakupy_hurtowe
+Disallow: /pl/reklamacje
+Disallow: */function.*
+Disallow: *$BASE*

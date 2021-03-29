@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /33-zamowienia.html
+Disallow: /34-moj_koszyk.html
+Disallow: /35-moje_konto.html
+Disallow: /36-zaloguj_sie.html
+Disallow: /search.php
+Disallow: /sklep,klienci,profil.html
+Disallow: /sklep,klienci,rejestracja.html
+Disallow: /sklep,produkty,przechowalnia.html
+Disallow: /sklep,zamowienia,dodaj.html
+Disallow: /sklep,zamowienia,przegladaj.html
+
+User-Agent: Googlebot
+Disallow: /33-zamowienia.html
+Disallow: /34-moj_koszyk.html
+Disallow: /35-moje_konto.html
+Disallow: /36-zaloguj_sie.html
+Disallow: /search.php*
+Disallow: /sklep,klienci,profil.html
+Disallow: /sklep,klienci,rejestracja.html
+Disallow: /sklep,produkty,przechowalnia.html
+Disallow: /sklep,zamowienia,dodaj.html
+Disallow: /sklep,zamowienia,przegladaj.html
+Disallow: /42-regulamin.html
+Disallow: /43-polityka_prywatnosci.html
+Disallow: /44-zwroty_i_reklamacje.html

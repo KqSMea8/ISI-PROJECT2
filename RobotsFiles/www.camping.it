@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /utility/
+Disallow: /mailing/
+Disallow: /commerciale/
+Disallow: /cartine/
+Disallow: /_MyUtility/
+Disallow: /multilingua/
+Disallow: /componenti/
+Disallow: /xbdispatcher/
+Disallow: /adv/
+Disallow: /stat/
+Disallow: /listini/
+Disallow: /it/ricerca/
+Disallow: /facebook/
+Disallow: /WebResource.axd
+Disallow: /ScriptResource.axd
+Sitemap: https://www.camping.it/sitemap.xml
+

@@ -1,0 +1,14 @@
+USER-AGENT: *
+ALLOW: /
+Disallow: /*limit=*
+Disallow: /*order=*
+Disallow: /*dir=asc*
+Disallow: /*dir=desc*
+Disallow: /*/filter/*
+Disallow: /checkout*
+Disallow: /*product_compare*
+Disallow: /catalogsearch/*
+Disallow: /catalog/product/view*
+Disallow: */tag/*
+Disallow: /*obsluga@leddo.pl
+Disallow: /*?options=cart

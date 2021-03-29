@@ -1,0 +1,47 @@
+User-agent: *
+Allow: /
+Disallow: /sklep/
+Disallow: /cd/
+Disallow: /pl/wyszukiwanie/
+Disallow: /en/search/
+Disallow: /de/wyszukiwanie/
+Disallow: /pl/mobile/
+Disallow: /de/mobile/
+Disallow: /en/mobile/
+Disallow: /pl/duety/
+Disallow: /pl/kobiety-vip/
+Disallow: /pl/masaze/
+Disallow: /pl/bi-les/
+Disallow: /pl/pary/
+Disallow: /pl/mezczyzni/
+Disallow: /pl/geje/
+Disallow: /pl/bdsm/
+Disallow: /pl/kluby/
+Disallow: /pl/striptiz/
+Disallow: /en/erotic-sex-duets/
+Disallow: /en/vip-escorts-call-girls/
+Disallow: /en/erotic-massage/
+Disallow: /en/bi-les/
+Disallow: /en/couples/
+Disallow: /en/men/
+Disallow: /en/gay/
+Disallow: /en/bdsm/
+Disallow: /en/escort-agencies/
+Disallow: /en/striptease/
+Disallow: /de/duos/
+Disallow: /de/vip-frauen/
+Disallow: /de/massagen/
+Disallow: /de/bi-les/
+Disallow: /de/paare/
+Disallow: /de/manner/
+Disallow: /de/manner/
+Disallow: /de/schwulen/
+Disallow: /de/schwulen/
+Disallow: /de/bdsm/
+Disallow: /de/agenturen/
+Disallow: /de/striptease/
+#Disallow: /*?
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/2305795.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove
+

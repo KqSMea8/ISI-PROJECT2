@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: http://lycans.pl/sitemap.xml
+Disallow: /test/
+Disallow: /abcsun/
+Disallow: /konkurs/
+Disallow: /memo/
+Disallow: /konkurs/
+Disallow: /mix/
+Disallow: /img/
+Disallow: /tytanbf/
+Disallow: /kwiaty/

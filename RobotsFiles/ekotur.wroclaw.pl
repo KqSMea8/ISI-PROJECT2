@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /boxy/
+Disallow: /cron/
+Disallow: /css/
+Disallow: /js/
+Disallow: /komponenty/
+Disallow: /lang/
+Disallow: /lib/
+Disallow: /log/
+Disallow: /moduly/
+Disallow: /szablony/
+Disallow: /config.php
+Disallow: /offline.php
+Disallow: /site.php

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /buchalter.net.pl/
+Disallow: /cgi-bin/
+Disallow: /egrzanie.pl/
+Disallow: /js/
+Disallow: /Maildir/
+Disallow: /planetalkoholi.pl/
+Disallow: /play/
+Disallow: /pralnialudwik.pl/
+Disallow: /rabbitagency.pl/
+Disallow: /Scripts/
+Disallow: /siol.com.pl/
+Disallow: /styles/
+Disallow: /sylwiafudali.pl/
+Disallow: /ydesign.com.pl/

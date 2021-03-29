@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /siteadmin/
+Disallow: /cache/
+Disallow: /include/
+Disallow: /install/
+Disallow: /language/
+Disallow: /classes/
+Disallow: /scripts/
+Disallow: /addons/
+Disallow: /cron/
+Disallow: /contrib/
+

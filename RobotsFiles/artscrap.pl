@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /tmp
+Disallow: /wp-admin
+Disallow: /wp-includes
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+#User-agent: ia_archiver-web.archive.org
+#Disallow: /
+
+Sitemap: http://artscrap.pl/sitemap.xml

@@ -1,0 +1,27 @@
+User-Agent: *
+Disallow: /wp-content
+Disallow: /author
+Disallow: /author*
+Disallow: /author/
+Disallow: /author/*
+Disallow: /notka/tag/*
+
+User-agent: Twitterbot
+Allow: /wp-content/uploads/*
+
+Allow: /images
+Allow: /archives
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: facebookexternalhit/1.1
+Allow: /
+
+User-Agent: Facebot
+Allow: /
+
+User-Agent: Googlebot-Image
+Disallow: /wp-content
+
+

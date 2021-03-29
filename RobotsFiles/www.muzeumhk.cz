@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: program-menu.html
+Disallow: posta.html
+Disallow: sarka-kricenska.html
+Disallow: pristavba-muzea-na-chlumu.html
+Disallow: dotaznik.html
+Disallow: jiri-sintak.html
+Disallow: pronajem-prostor.html
+Disallow: test-formatovani.html
+Disallow: regionalni-pracoviste-pro-tradicni-lidovou-kulturu.html
+Disallow: muzejninoc.html
+Disallow: oteviraci.html
+Disallow: acta-musei-reginaeahradecensis.html
+Disallow: /*?*fbclid=
+Disallow: /admin
+Sitemap: http://www.muzeumhk.cz/sitemap.xml
+

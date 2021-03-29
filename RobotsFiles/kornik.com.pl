@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*feed
+Disallow: /*?add_to_wishlist=
+Disallow: /*?max_price=
+Disallow: /*?min_price
+Disallow: /*?per_page=
+Disallow: /*?per_row
+Disallow: /*?add-to-cart

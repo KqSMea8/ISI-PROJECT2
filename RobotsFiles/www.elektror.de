@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+
+Sitemap: https://www.elektror.de/de/sitemap.xml
+Sitemap: https://www.elektror.de/at/sitemap.xml
+Sitemap: https://www.elektror.de/en/sitemap.xml
+Sitemap: https://www.elektror.de/pl/sitemap.xml
+Sitemap: https://www.elektror.de/cs/sitemap.xml
+Sitemap: https://www.elektror.de/es/sitemap.xml
+Sitemap: https://www.elektror.de/fr/sitemap.xml
+Sitemap: https://www.elektror.de/it/sitemap.xml
+Sitemap: https://www.elektror.de/nl/sitemap.xml
+Sitemap: https://www.elektror.de/zh/sitemap.xml

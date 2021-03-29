@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /admin/
+Disallow: /modules/
+Disallow: /lib/
+Disallow: /errors/
+Disallow: /maintenance/
+

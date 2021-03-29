@@ -1,0 +1,8 @@
+User-agent: *
+Sitemap: https://www.visittrentino.info/static/sitemaps/sitemapIndex.xml
+Disallow: /static/sitemaps2017/
+Disallow: /de-me/
+Disallow: /de-mo/
+Disallow: /it-s-/
+Disallow: /en-gi/
+Disallow: /*/ajax$

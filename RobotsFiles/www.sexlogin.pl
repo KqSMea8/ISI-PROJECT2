@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /forg/
+Disallow: /aj/
+Disallow: /p/
+Disallow: /flvs/
+Disallow: /opowiadania/
+Disallow: /fstats/
+Disallow: /fstats.php

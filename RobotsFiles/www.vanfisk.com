@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /kancelaria/
+Disallow: /jewellery/
+Disallow: /wena/
+Disallow: /twojagent/
+Disallow: /nowastrona/
+Disallow: /darkmoradas/
+Disallow: /kaszub/
+Disallow: /kpp/
+Disallow: /mailer/
+Disallow: /stajnia/
+Disallow: /targ/
+Disallow: /teletronik/
+Disallow: /wnetrza/
+Disallow: /usernoise/
+Disallow: /zdjecia/

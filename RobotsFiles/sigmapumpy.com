@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /sph/cz
+Disallow: /pl/
+Disallow: /log/
+Disallow: /libs/
+Disallow: /filesDownload/
+Disallow: /eshopNovinky/
+Disallow: /demo/
+Disallow: /crypt/
+Disallow: /config/
+Disallow: /application/
+Disallow: /admin/

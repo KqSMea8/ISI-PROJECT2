@@ -1,0 +1,30 @@
+User-agent: Googlebot-Image
+Allow: /modules/productCatalogue/thumbs/
+Allow: /modules/productCatalogue/upl_images/
+Allow: /thumb/
+Allow: /uploads/
+
+User-agent: *
+Disallow: /admin/
+Disallow: /engine/
+Disallow: /modules/
+Disallow: /tmp/
+Disallow: /uploads/
+Disallow: /thumb/
+Disallow: /backup/
+
+User-agent: Googlebot
+Allow:  /engine/csses/prettyPhoto/prettyPhoto.css
+Allow: /engine/jsscripts/nivo-slider/nivo-slider.css
+Allow: /engine/jsscripts/cart/cart.js
+Allow: /engine/jsscripts/jquery_plugins/jquery-ui-1.10.3.custom.min.js
+Allow: /engine/jsscripts/jquery_plugins/jquery.prettyPhoto.js
+Allow: /engine/csses/jqueryui/redmond/jquery-ui-1.10.3.custom.min.css
+Allow: /engine/jsscripts/jquery_plugins/slick.min.js
+Allow: /engine/csses/colorbox/colorbox.css
+Allow: /engine/jsscripts/jquery_plugins/jquery.placeholder.js
+Allow: /engine/jsscripts/jquery-mega-drop-down-menu/jquery.hoverIntent.minified.js
+Allow: /engine/jsscripts/colorbox/jquery.colorbox-min.js
+Allow: /engine/jsscripts/nivo-slider/jquery.nivo.slider.pack.js
+Allow: /engine/jsscripts/jquery-mega-drop-down-menu/jquery.dcmegamenu.1.3.3.min.js
+Allow: /engine/jsscripts/jquery_plugins/jquery.elevateZoom-3.0.3.min.js

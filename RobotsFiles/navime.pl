@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ozi/
+Disallow: /kml/
+Disallow: /gpx/
+Disallow: /csv/
+Disallow: /staticmap/
+Disallow: /kontakt(na)navime.pl
+Disallow: /tripedit.xhtml
+Allow: /

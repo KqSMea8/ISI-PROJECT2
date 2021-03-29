@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /kurs-nurkowy/brak/kursu,0.html
+Disallow: bledna-strona.html
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /arek/
+Disallow: /allegro/
+Disallow: /download/
+Disallow: /faktura/
+Disallow: /galeria/
+Disallow: /generator_linkow/
+Disallow: /ubezpieczenia_hestia/

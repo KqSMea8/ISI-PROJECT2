@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*/dynamic/
+Disallow: /*/account/
+Disallow: /*/dl/
+Disallow: /widget/
+

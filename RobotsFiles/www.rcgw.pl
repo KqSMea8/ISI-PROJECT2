@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /o-nas/sciezka-i-gra-edukacyjna/
+Disallow: /pl/o-nas/sciezka-i-gra-edukacyjna/
+Disallow: /about/sciezka-i-gra-edukacyjna/
+Disallow: /en/about/sciezka-i-gra-edukacyjna/
+Disallow: /ajax/
+Disallow: /pl/ajax/
+Disallow: /ajax/slider/
+Disallow: /pl/ajax/slider/
+Disallow: /ajax/links/
+Disallow: /pl/ajax/links/
+Disallow: /ajax/zakladki/
+Disallow: /pl/ajax/zakladki/
+Sitemap: http://www.rcgw.pl/sitemap.xml

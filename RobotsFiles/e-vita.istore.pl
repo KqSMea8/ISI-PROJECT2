@@ -1,0 +1,36 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+
+Disallow: /*/fav/add
+Disallow: /*/p/comment/add
+Disallow: /*/p/mail/recommend
+Disallow: /*/p/q
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/basket
+Disallow: /*/searchquery
+Disallow: /pl/basket
+Disallow: /pl/login
+Disallow: /*default/
+Disallow: /pl/index/2
+Disallow: /*tag
+Disallow: /pl/static/regulamin-sklepu.html
+Disallow: /pl/static/polityka-prywatnosci.html
+Disallow: /pl/static/zbieraj-punkty-za-zakupy.html
+Disallow: /pl/static/reklamacje-i-zwroty.html
+Disallow: /pl/i/Odstapienie-od-umowy/21
+Disallow: /pl/i/Partnerzy/14
+Disallow: /pl/i/Punkty-sprzedazy/24
+Disallow: /pl/static/formy-platnosci.html
+Disallow: /pl/i/Certyfikaty/22
+Disallow: /pl/contact
+Disallow: /pl/i/Opinie-o-sklepie/23
+Disallow: /pl/i/Rabaty-i-upusty/12
+Disallow: /*/full*

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /wp-includes
+Disallow: /wp-admin
+Disallow: /wp-content/cache
+Disallow: /wp-trackback
+Disallow: /wp-feed
+Disallow: /archive
+Disallow: /wp-comments
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Sitemap: https://talens.com.pl/sitemap.xml

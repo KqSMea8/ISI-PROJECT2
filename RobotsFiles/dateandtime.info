@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /ru/ajax/
+Disallow: /fr/ajax/
+Disallow: /es/ajax/
+Disallow: /de/ajax/
+Disallow: /it/ajax/
+Disallow: /pt/ajax/
+Disallow: /pl/ajax/
+Disallow: /uk/ajax/
+Disallow: /utils/
+Disallow: /abc/
+Disallow: /404.php
+
+# Direktivy dlia Iandeksa
+
+User-agent: Yandex
+Disallow: /ajax/
+Disallow: /ru/ajax/
+Disallow: /fr/ajax/
+Disallow: /es/ajax/
+Disallow: /de/ajax/
+Disallow: /it/ajax/
+Disallow: /pt/ajax/
+Disallow: /pl/ajax/
+Disallow: /uk/ajax/
+Disallow: /utils/
+Disallow: /abc/
+Disallow: /404.php
+Clean-param: month&year /citysunrisesunset.php
+Clean-param: month&year /ru/citysunrisesunset.php
+Clean-param: month&year /fr/citysunrisesunset.php
+Clean-param: month&year /es/citysunrisesunset.php
+Clean-param: month&year /de/citysunrisesunset.php
+Clean-param: month&year /it/citysunrisesunset.php
+Clean-param: month&year /pt/citysunrisesunset.php
+Clean-param: month&year /pl/citysunrisesunset.php
+Clean-param: month&year /uk/citysunrisesunset.php
+Host: dateandtime.info

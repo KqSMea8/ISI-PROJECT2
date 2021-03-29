@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Gay Sex Simulator - Play Now</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<style>
+
+a {
+font-size: 6em;
+line-height: 2em;
+color: #FFFFFF;
+text-align: center;
+text-decoration: underline;
+}
+
+@media only screen and (max-width: 480px) {
+a {
+font-size: 3em;
+line-height: 1.5em;
+}
+}
+
+body {
+margin: 0px;
+padding: 0px;
+background-color: #000;
+font-size: 100%;
+}
+
+
+video {
+width: 100%;
+float: left;
+}
+</style>
+
+</head>
+<body>
+<a href="https://gaysimulator.com/?cmp=agaytube">
+<video playsinline loop muted autoplay poster="">
+<source src="/video/gay1.mp4" type="video/mp4" />
+<source src="/video/gay1.webm" type="video/webm" />
+</video>
+<div class="text">PLAY NOW</div>
+</a>
+</body>
+</html>

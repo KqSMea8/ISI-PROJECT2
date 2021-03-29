@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: http://www.halfen.com/sitemaps/da-DK.xml
+Sitemap: http://www.halfen.com/sitemaps/de-AT.xml
+Sitemap: http://www.halfen.com/sitemaps/de-CH.xml
+Sitemap: http://www.halfen.com/sitemaps/de.xml
+Sitemap: http://www.halfen.com/sitemaps/en-GB.xml
+Sitemap: http://www.halfen.com/sitemaps/en.xml
+Sitemap: http://www.halfen.com/sitemaps/fr-BE.xml
+Sitemap: http://www.halfen.com/sitemaps/fr-CH.xml
+Sitemap: http://www.halfen.com/sitemaps/fr.xml
+Sitemap: http://www.halfen.com/sitemaps/nl-BE.xml
+Sitemap: http://www.halfen.com/sitemaps/nl-NL.xml
+Sitemap: http://www.halfen.com/sitemaps/sv-SE.xml
+Sitemap: http://www.halfen.com/sitemaps/it.xml
+Sitemap: http://www.halfen.com/sitemaps/pl-PL.xml
+Sitemap: http://www.halfen.com/sitemaps/hu-HU.xml
+Sitemap: http://www.halfen.com/sitemaps/it-CH.xml
+Sitemap: http://www.halfen.com/sitemaps/zh-CN.xml
+Sitemap: http://www.halfen.com/sitemaps/no-NO.xml
+Sitemap: http://www.halfen.com/sitemaps/cs-CZ.xml
+Sitemap: http://www.halfen.com/sitemaps/en-US.xml
+Sitemap: http://www.halfen.com/sitemaps/es-ES.xml
+Sitemap: http://www.halfen.com/sitemaps/fi-FI.xml
+Sitemap: http://www.halfen.com/sitemaps/ru.xml

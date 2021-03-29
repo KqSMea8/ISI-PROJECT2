@@ -1,0 +1,24 @@
+# Ganze Site freigeben
+User-agent: *
+Disallow: /visioncontent/
+
+# D2
+User-agent: SurveyBot
+Disallow: /
+
+User-agent: WebsiteWiki
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: Jakarta Commons-HttpClient
+Disallow: /
+
+User-Agent: AboutUsBot
+Disallow: /
+
+User-agent: Semager
+Disallow: /
+
+# Sitemap: http://

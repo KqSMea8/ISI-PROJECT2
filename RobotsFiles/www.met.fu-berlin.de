@@ -1,0 +1,28 @@
+# robots.txt zu http://www.met.fu-berlin.de/
+
+User-agent: *
+Disallow: /Bikermania/
+Disallow: /BlnUni/
+Disallow: /DataSources/
+Disallow: /Todeskino/
+Disallow: /KNH/
+Disallow: /ZDF/
+Disallow: /css/
+Disallow: /dc.old/
+Disallow: /deutsch/
+Disallow: /dokumentation/
+Disallow: /dump/
+Disallow: /edu/
+Disallow: /english.old/
+Disallow: /errors.old/
+Disallow: /extern.old/
+Disallow: /img/
+Disallow: /intern/
+Disallow: /java/
+Disallow: /old/
+Disallow: /shared/
+Disallow: /staff/
+Disallow: /sweden/
+Disallow: /test/
+Disallow: /texte.old/
+

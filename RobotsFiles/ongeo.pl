@@ -1,0 +1,14 @@
+Host: ongeo.pl
+Sitemap: https://ongeo.pl/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: */module/*
+Disallow: */lib/*
+Disallow: */js/*
+Disallow: */viewmodelpub/*
+Disallow: */viewmodelbiz/*
+Disallow: */viewmodel/*
+Disallow: */articles/*
+Allow: /resources/js/*
+Allow: /resources/js/*/*
+Allow: /resources/js/*/*/*

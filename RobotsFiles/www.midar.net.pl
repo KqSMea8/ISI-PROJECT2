@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /inc/
+Disallow: /adodb5/
+Disallow: /astats/
+Disallow: /adodb5/
+Disallow: /cache/
+Disallow: /class/
+Disallow: /configs/
+Disallow: /css/
+Disallow: /js/
+Disallow: /langs/
+Disallow: /gfx/
+Disallow: /lightbox/
+Disallow: /php/
+Disallow: /smarty/
+Allow: /

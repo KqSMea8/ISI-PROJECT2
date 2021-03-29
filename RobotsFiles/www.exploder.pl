@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /priv/
+Disallow: /listy/
+Disallow: /cw/
+Disallow: /victoria/
+Disallow: /precurs-v1/
+Disallow: /galeria/
+Disallow: /pk/
+Disallow: /2k6/

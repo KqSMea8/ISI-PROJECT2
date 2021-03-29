@@ -1,0 +1,9 @@
+User-agent: *
+Dissalow: /images/
+Dissalow: /pliki/
+Dissalow: /style/
+Disallow: /tpl/
+Disallow: /webalizer/
+Dissalow: /WSPCZ/
+Dissalow: /wystawy/
+Dissalow: /perl/

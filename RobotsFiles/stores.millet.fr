@@ -1,0 +1,4 @@
+Sitemap: http://stores.millet.fr/sitemap.xml
+User-agent: *
+Disallow: /print/
+

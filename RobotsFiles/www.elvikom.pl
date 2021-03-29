@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /testforum/
+Disallow: /adm/
+Disallow: /ads/
+Disallow: /games/
+Disallow: /vogelsinger/
+Disallow: /mm.php
+Disallow: /ads/
+Disallow: /ads/view.php

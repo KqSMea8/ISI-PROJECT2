@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://ubezpieczenia-komunikacyjne.org/sitemap.xml

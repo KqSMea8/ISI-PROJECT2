@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /addon-modules/
+Disallow: /cooler/
+Disallow: /css/
+Disallow: /dyd/
+Disallow: /errors/
+Disallow: /konferencja/
+Disallow: /php/
+Disallow: /rmi/
+Disallow: /search_db/
+Disallow: /stats/
+Disallow: /tech/
+Disallow: /test/
+Disallow: /zaklad/
+Disallow: coolform.php
+Disallow: gora--kontakt-form_mailed.php
+Disallow: obrazek-podglad.php
+Disallow: search.php
+Disallow: search_common_lib.php
+Disallow: search_config.php
+Disallow: search_indexer.php
+Disallow: search_spider.php
+Disallow: search_template.php
+

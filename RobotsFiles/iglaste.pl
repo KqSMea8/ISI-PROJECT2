@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /*add-to-cart=*
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /my-account/
+Allow: /wp-admin/admin-ajax.php
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /budowa-domu-pod-klucz-warszawa.html
+Disallow: /ogrzewanie-podlogowe-warszawa.html
+Disallow: /instalacja-elektryczna-w-domu.html
+Disallow: /elektryka-dla-domu-piaseczno.html
+Disallow: /inteligentny-dom-warszawa.html
+Disallow: /instalacje-wodne-warszawa.html
+Disallow: /wentylacja-domu-piaseczno.html
+Disallow: /instalacje-grzewcze-warszawa.html
+Disallow: /rekuperatory.html
+Disallow: /wentylacja-mechaniczna-w-domu.html

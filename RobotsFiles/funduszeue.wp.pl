@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: */%7B%7B
+

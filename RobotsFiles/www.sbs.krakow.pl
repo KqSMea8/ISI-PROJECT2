@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /gallery.php
+Allow: /index.php
+Allow: /oferta.php
+Allow: /odmiany.php
+Allow: /hodowla.php
+Allow: /start.php
+Allow: /?file=start
+Allow: /?file=oferta
+Allow: /?file=odmiany
+Allow: /?file=hodowla

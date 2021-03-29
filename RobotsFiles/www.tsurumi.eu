@@ -1,0 +1,7 @@
+Sitemap: https://www.tsurumi.eu/sitemap/sitemap.xml
+
+User-agent: *
+Disallow: /SES
+Disallow: /login/
+
+

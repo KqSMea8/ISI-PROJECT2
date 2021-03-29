@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /fileadmin/templates/
+Allow: /fileadmin/templates/page-template/css/
+Allow: /fileadmin/templates/page-template/js/
+Allow: /fileadmin/templates/page-template/images/
+
+Sitemap: https://www.jasna.sk/sitemap.xml
+

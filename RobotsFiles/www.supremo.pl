@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.axd
+Disallow: /CMSPages/
+Disallow: /realizacje/
+Disallow: /Specjalne/
+Disallow: /SupremoPl/
+Disallow: /supremo_pl/
+Disallow: /portfolio/
+Allow: /

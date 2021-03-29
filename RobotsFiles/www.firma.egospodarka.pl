@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /gosp/newcomment
+Disallow: /article/mailtofriend
+Disallow: /article/articleprint
+Disallow: /art/drukuj
+Disallow: /art/polec-znajomemu
+Disallow: /art/plik
+Disallow: /art/comment-ajax
+Disallow: /art/obserwowane
+Disallow: /art/moje-komentarze
+Disallow: /art/podglad
+Disallow: /zlikwidowane/emailmsg/
+Disallow: /zlikwidowane/drukuj/
+Disallow: /kurier/
+Disallow: /niezbednik-firmowy/pkd/drukuj/
+Disallow: /zarobki/*/drukuj
+Disallow: /zus/emailmsg/
+Disallow: /zus/drukuj/
+Disallow: /grupy/przyjaciel.php
+Disallow: /grupy/print.php
+Disallow: /grupy/email.php
+

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /master/en/
+Disallow: /dremelbdb
+Disallow: /external-synced-files
+Sitemap: http://www.dremeleurope.com/sitemaps/index_sitemap.xml
+Sitemap: http://www.dremeleurope.com/sitemaps/index_sitemap_relaunch.xml
+

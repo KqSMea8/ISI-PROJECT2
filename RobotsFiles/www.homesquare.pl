@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /*page-sitemap.xml
+Disallow: /*add-to-cart=*
+Disallow: /?filter_*
+Disallow: /product_order=*
+Disallow: /product_count=*
+Disallow: /page/
+Disallow: /tag-produktu/
+Disallow: /kategoria/architektura-2/
+Disallow: /kategoria/artykuly-homesquare/
+Disallow: /kategoria/bez-kategorii/
+Disallow: /kategoria/design-2/
+Disallow: /kategoria/artykuly-homesquare/designerskie-produkty/
+Disallow: /kategoria/konkursy/
+Disallow: /kategoria/konkursy-homesquare/
+Disallow: /kategoria/pro-artykuly/
+Disallow: /kategoria/produkty-wiersz-1/
+Disallow: /kategoria/produkty-wiersz-2/
+Disallow: /kategoria/profesjonalisci/
+Disallow: /kategoria/profesjonalisci/schuco/
+Disallow: /kategoria/style-wiesz-1/
+Disallow: /kategoria/technologia-2/
+Disallow: /kategoria/wnetrza/
+Disallow: /aranzacja/*/feed
+

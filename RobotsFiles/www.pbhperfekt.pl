@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /classes/
+Disallow: /fonts/
+Disallow: /galleries/
+Disallow: /images/
+Disallow: /include/
+Disallow: /js/
+Disallow: /modules/
+Disallow: /panel/
+Disallow: /uploaded/

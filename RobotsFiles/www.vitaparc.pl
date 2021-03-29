@@ -1,0 +1,3 @@
+user-agent: googlebot
+disallow: /
+

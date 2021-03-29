@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /newsletter/
+Disallow: *.swf
+Disallow: /i/banners/
+Disallow: /ipda/
+Disallow: /download/
+Disallow: /?wyszukiwarka,55
+Disallow: /victor/
+Disallow: /ipda/
+Disallow: /ipda2/
+Disallow: /twisterpower/
+Disallow: /europower_eu/

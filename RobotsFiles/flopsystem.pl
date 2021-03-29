@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /prestashop/
+Disallow: */distributor/
+#Disallow: /livezilla/
+Disallow: /mail1.php
+Allow: /prestashop/js/
+Allow: /smarty/images/
+Allow: /smarty/images/
+Allow: /prestashop/img/
+Allow: /livezilla/image.php
+Allow: /prestashop/themes/floptheme/img/icon/
+Allow: /prestashop/css/

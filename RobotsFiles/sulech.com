@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /cms/img
+Disallow: /cms/admin
+Allow: /dachy-ciesielstwo/wp-content/uploads
+Disallow: /dachy-ciesielstwo/wp-admin
+Disallow: /dachy-ciesielstwo/wp-includes
+Disallow: /dachy-ciesielstwo/wp-content/plugins
+Disallow: /dachy-ciesielstwo/wp-content/cache
+Disallow: /dachy-ciesielstwo/wp-content/themes
+Disallow: /dachy-ciesielstwo/trackback
+Disallow: /dachy-ciesielstwo/comments

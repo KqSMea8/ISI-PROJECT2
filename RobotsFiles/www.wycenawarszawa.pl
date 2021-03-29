@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /contact.html
+Disallow: /contact.php
+Disallow: /thx.html
+Disallow: /form2mail.html
+Disallow: /form2mail.php
+Disallow: /admin.php
+Disallow: /?wycena-gruntow,21
+Disallow: /?linki,29
+Disallow: /?dzielnice-warszawy,5
+Disallow: /?lista-bankow,26

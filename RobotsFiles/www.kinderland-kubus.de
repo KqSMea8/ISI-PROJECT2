@@ -1,0 +1,14 @@
+# robots.txt for kinderland-kubus.de
+User-agent: Googlebot
+User-agent: BingBot
+User-agent: DuckDuckBot
+Disallow: /.cm4all/
+Disallow: *meta_robots-noindex
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /.cm4all/
+Disallow: *meta_robots-noindex
+
+Sitemap: http://kinderland-kubus.de/sitemap.xml
+

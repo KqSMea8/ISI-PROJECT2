@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /komentarze.php
+Disallow: /forum/index.php?
+Disallow: /forum/posting.php
+Disallow: /forum/search.php?
+Disallow: /forum/ucp.php
+Disallow: /forum/mcp.php
+Disallow: /forum/memberlist.php
+Disallow: /forum/faq.php

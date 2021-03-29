@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /oferty/nieruchomosci/
+Disallow: /oferty/praca/
+Disallow: /oferty/obiekty-konferencyjne/
+Disallow: /oferty/komunikaty/
+Disallow: /oferty/szkolenia/
+Disallow: /szukaj.html
+Disallow: /m/
+Disallow: /mobile/
+Sitemap: http://www.propertynews.pl/sitemapindex.xml

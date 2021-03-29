@@ -1,0 +1,12 @@
+User-Agent: MJ12bot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: grapeshot
+Disallow: /
+User-agent: Mail.RU_Bot
+Disallow: /
+User-Agent: SMTBot
+Disallow: /
+User-agent: spbot
+Disallow: /

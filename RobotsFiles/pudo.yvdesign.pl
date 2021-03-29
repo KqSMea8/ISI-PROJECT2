@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-includes/js/jquery/*.js*
+Allow: /wp-includes/images/smilies/*.gif
+Allow: /wp-includes/js/*.js*
+Allow: /wp-includes/images/smilies/*.png
+Allow: /wp-includes/js/jquery/*.js*
+Allow: /wp-content/plugins/lightbox-plus/js/*.js*
+Allow: /wp-content/plugins/flash-album-gallery/admin/js/*.js*

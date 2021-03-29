@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /var/
+Disallow: /libs/
+Disallow: /etc/
+Disallow: /apps/
+Disallow: /home/
+Disallow: /tmp/
+Disallow: /system/
+Allow: /etc/clientlibs/
+Allow: /etc/designs/
+

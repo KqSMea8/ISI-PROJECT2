@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /TED/rss/CustomRSSFeedGenerator/
+Disallow: /TED/error-pages/
+Disallow: /TED/dynamic/ted-js.do

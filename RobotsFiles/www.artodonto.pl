@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /invisalign/
+Disallow: /przewodnikpoimplantach/
+Disallow: /zarejestruj-sie/
+Disallow: /o-nas/
+Disallow: /promocje/
+Disallow: /oferta/nowoczesne-metody-leczenia-prochnicy/artodonto20a-2-2/
+Disallow: /oferta/nowoczesne-metody-leczenia-prochnicy/artodonto27-2/
+Disallow: /oferta/nowoczesne-metody-leczenia-prochnicy/d_23-2/
+Disallow: /oferta/nowoczesne-metody-leczenia-prochnicy/img_2516-2/

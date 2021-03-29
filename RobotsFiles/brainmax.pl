@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /gry/rss.xml
+Disallow: /gry/terapia/rss.xml
+Disallow: /gry/logika/rss.xml
+Disallow: /blog/tag/Noradrenalina/rss.xml
+Disallow: /blog/1/data/rss.xml
+Disallow: /skutecznosc
+Disallow: /zabawa
+Disallow: /wygoda
+Disallow: /blog/tag/Praca/rss.xml
+Disallow: /w-zyciu-codziennym
+Disallow: /w-szkole
+Disallow: /w-pracy
+Disallow: /w-domu
+Disallow: /zaplecze-naukowe

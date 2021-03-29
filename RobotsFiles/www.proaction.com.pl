@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: */feed*
+Disallow: *?p=*
+Disallow: *?s=*
+Disallow: *cookie-policy*
+Disallow: *xmlrpc*
+Disallow: /author
+Disallow: /blog/author
+Disallow: /blog/category/
+Disallow: /blog/kamila-i-konrad/
+Disallow: /blog/kasia-i-rob/
+Disallow: /blog/magdalena-michal-lawendowy-ogrod/
+Disallow: /blog/maja-i-darek/
+Disallow: /blog/monika-i-piotrek/
+Disallow: /blog/search
+Disallow: /blog/test/
+Disallow: /blog/wp-includes/
+Disallow: /category
+Disallow: /search
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Sitemap: http://proaction.com.pl/sitemap.xml
+Sitemap: http://proaction.com.pl/sitemap_images.xml
+

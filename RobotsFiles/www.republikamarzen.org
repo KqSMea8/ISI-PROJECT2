@@ -1,0 +1,6 @@
+Sitemap: http://www.republikamarzen.org/sitemap.xml
+Sitemap: http://www.republikamarzen.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

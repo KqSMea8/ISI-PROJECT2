@@ -1,0 +1,3 @@
+User-Agent: stress-agent
+Disallow: /
+

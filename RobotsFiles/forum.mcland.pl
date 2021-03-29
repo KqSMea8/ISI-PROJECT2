@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /inc/
+Disallow: /cache/
+Disallow: /ckeditor/
+Disallow: /ckeditormini/
+Disallow: /hide/
+Disallow: /images/
+Disallow: /install/
+Disallow: /jscripts/
+Disallow: /mobiquo/

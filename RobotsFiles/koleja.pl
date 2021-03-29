@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+#Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Allow: /modules/mod_yoo_carousel/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/ja_purity/
+Disallow: /templates/rhuk_milkyway/
+Disallow: /templates/system/
+Disallow: /templates/beez/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+

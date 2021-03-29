@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: */wyniki-wyszukiwania
+Disallow: /partscatalogue/ajaxdata.ashx
+Disallow: /partscatalogue/ajaxdata.aspx
+Disallow: /clientcatalogue/ajaxdata.ashx
+Disallow: /clientcatalogue/ajaxdata.aspx
+Disallow: /sandbox/
+Disallow: /sandbox/*
+Disallow: /webshopBezAstera/*
+Disallow: /admins/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /boxcontrols/
+Disallow: /connectors/
+Disallow: /controls/
+Disallow: /customers/
+Disallow: /dodatki/
+Disallow: /dodatki_base/
+Disallow: /frames/
+Disallow: /GoogleExport/
+Disallow: /Handlers/
+Disallow: /images/
+Disallow: /mailtemplate/
+Disallow: /order/
+Disallow: /payments/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /userfiles/
+Disallow: /workshop/
+
+Allow: /Handlers/ArticleImage.ashx
+
+User-agent: Googlebot
+Allow: /dodatki/
+Allow: /images/

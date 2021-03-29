@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://fluxbb.org/sitemap_index.xml.gz
+Disallow: /admin/
+

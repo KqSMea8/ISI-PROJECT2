@@ -1,0 +1,24 @@
+Sitemap: http://www.tradiss.pl/sitemap.xml
+User-agent: *
+Disallow: /abecede/
+Disallow: /config/
+Disallow: /usr/
+Disallow: /ntr/
+Disallow: /admin/
+Disallow: /systemy/
+Disallow: /database/
+Disallow: /users/
+Disallow: /dot/
+Disallow: /ao/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /log/
+Disallow: /_oldsite/
+Disallow: /lib/
+Disallow: /luk/
+Disallow: /ip/
+Disallow: /x.pl/
+Disallow: /forum/
+Disallow: /crm/
+Allow: /
+

@@ -1,0 +1,7 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow:
+User-agent: *
+Crawl-Delay: 3
+Disallow: Sitemap: https://www.ichradec.cz/sitemap.xml
+

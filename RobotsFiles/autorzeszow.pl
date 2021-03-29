@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /bpanel/
+Disallow: /css/
+Disallow: /files/
+Disallow: /images/
+Disallow: /js/
+Disallow: /modeles/
+Disallow: /tpl/
+Disallow: /tpl_c/
+Disallow: /views/

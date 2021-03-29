@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /beniamin/lista
+Disallow: /edit
+Disallow: /hzoneyzpzot/
+Disallow: /profile.
+Disallow: /bookmarkletwindows
+Disallow: /workertest
+Disallow: /1$
+Disallow: /2$
+Disallow: /gamejam
+Disallow: /cxx/
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: msnbot-news
+Disallow: /
+
+User-agent: msnbot-products
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
+

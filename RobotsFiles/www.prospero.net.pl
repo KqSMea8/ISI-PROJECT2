@@ -1,0 +1,10 @@
+Sitemap: http://www.prospero.net.pl/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /http://www.sklepprospero.net.pl
+

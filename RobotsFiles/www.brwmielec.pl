@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /trackback
+Disallow: /feed
+Disallow: /comments
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /*.php$
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads
+Allow: /wp-katalog
+
+Sitemap: http://www.brwmielec.pl/sitemap.xml

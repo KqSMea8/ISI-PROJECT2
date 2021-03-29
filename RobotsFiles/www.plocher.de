@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: https://www.plocher.de/c/
+Disallow: https://www.plocher.de/protected/
+Disallow: /willkommen/impressum/
+Disallow: /willkommen/datenschutz/
+Disallow: /willkommen/weihnachten/
+Disallow: /willkommen/zertifikate/
+Disallow: /willkommen/texte/
+Disallow: /aktuelles/agri-technica-17/
+Disallow: /aktuelles/archiv/
+Disallow: /produkte/plocher-produktliste/
+Disallow: /produkte/wasser/
+Disallow: /produkte/wald/
+Disallow: /produkte/zoo/
+Disallow: /produkte/sport/
+Disallow: /produkte/industrie/
+Disallow: /produkte/plocher-forst/
+Disallow: /produkte/plocher-rottefoderung/
+Disallow: /produkte/plocherkat/
+Disallow: /erfahrungen/presse/
+Disallow: /erfahrungen/kataloge-preislisten/
+Disallow: /erfahrungen/dokumente/
+Disallow: /erfahrungen/videos/
+Disallow: /vertriebspartner/shop/
+Sitemap: https://www.plocher.de/sitemap.xml
+

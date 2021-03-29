@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap:/sitemapxml.asp
+Disallow: /basket.asp
+Disallow: /question.asp
+Disallow: /reguser.asp
+
+

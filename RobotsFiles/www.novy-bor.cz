@@ -1,0 +1,28 @@
+# robots.txt for new webhouse's webs
+# Last modified: 2015-11-18 66:66 CEST
+
+# post publishing - set sitemap and uncomment
+Sitemap: http://www.novy-bor.cz/vismo/sitemap.asp
+User-agent: seznambot
+User-agent: centrumbot
+User-agent: holmes
+User-agent: googlebot
+User-agent: bingbot
+User-agent: msnbot
+Disallow: /VismoOnline_ActionScripts/CaptchaImage.aspx
+Disallow: /VismoOnline_ActionScripts/Image.aspx
+Disallow: /vismo/ZaslatEmailem.asp
+Disallow: /vismo/galerie3.asp
+Disallow: /aa/
+Disallow: /AA/
+Disallow: /vismo/navstevnost.asp
+Disallow: /DE/vismo/navstevnost.asp
+Disallow: /EN/vismo/navstevnost.asp
+Disallow: /IT/vismo/navstevnost.asp
+Disallow: /FR/vismo/navstevnost.asp
+Disallow: /PL/vismo/navstevnost.asp
+
+# new webs @ temporary addressess blocked for indexing by default
+User-agent: * # match all bots
+Disallow: / # keep them out
+

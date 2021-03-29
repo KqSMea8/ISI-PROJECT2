@@ -1,0 +1,275 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+<!DOCTYPE html>
+<!--[if lte IE 9]><html class="no-js IE9 IE" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<head>
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:900" rel="stylesheet">
+
+<meta charset="UTF-8" />
+<title>WOMEN CAN BE PRIESTS</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<script type="text/javascript">
+/* <![CDATA[ */
+document.documentElement.className = document.documentElement.className.replace(new RegExp('(^|\\s)no-js(\\s|$)'), '$1js$2');
+/* ]]> */
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v10.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:site_name" content="WOMEN CAN BE PRIESTS" />
+<meta name="twitter:card" content="summary_large_image" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WOMEN CAN BE PRIESTS &raquo; Feed" href="http://www.womenpriests.org/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.womenpriests.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.womenpriests.org/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.womenpriests.org/wp-content/themes/make-child-theme/css/jquery.fancybox.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='make-google-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3Aregular%2Citalic%2C700&#038;ver=1.9.13#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.womenpriests.org/wp-content/themes/make/css/libs/font-awesome/css/font-awesome.min.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='make-parent-css'  href='http://www.womenpriests.org/wp-content/themes/make/style.css?ver=1.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='make-main-css'  href='http://www.womenpriests.org/wp-content/themes/make-child-theme/style.css?ver=1.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='make-print-css'  href='http://www.womenpriests.org/wp-content/themes/make/css/print.css?ver=1.9.13' type='text/css' media='print' />
+<script type='text/javascript' src='http://www.womenpriests.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.womenpriests.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.womenpriests.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.womenpriests.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.womenpriests.org/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.1.1" />
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-20465777-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+
+<!-- Begin Make Inline CSS -->
+<style type="text/css">
+body,.font-body{font-size:15px;font-size:1.5rem;}#comments{font-size:13px;font-size:1.3rem;}.comment-date{font-size:12px;font-size:1.2rem;}button,.ttfmake-button,input[type="button"],input[type="reset"],input[type="submit"],.site-main .gform_wrapper .gform_footer input.button{font-size:14px;font-size:1.4rem;background-color:#ffffff;}h1:not(.site-title),.font-header,.entry-title{font-size:34px;font-size:3.4rem;font-weight:bold;}h2{font-size:27px;font-size:2.7rem;}h3,.builder-text-content .widget-title{font-size:20px;font-size:2rem;}h4{font-size:18px;font-size:1.8rem;}h5{font-size:15px;font-size:1.5rem;}h6 a{text-decoration:underline;}.site-description,.site-description a,.font-site-tagline{font-weight:bold;}.site-navigation .menu li a,.font-nav,.site-navigation .menu-toggle{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;font-size:1.4rem;font-weight:bold;font-style:normal;text-transform:none;line-height:1.4;letter-spacing:0px;word-spacing:0px;}.site-navigation .menu li.current_page_item > a,.site-navigation .menu .children li.current_page_item > a,.site-navigation .menu li.current-menu-item > a,.site-navigation .menu .sub-menu li.current-menu-item > a{font-weight:bold;}.header-bar,.header-text,.header-bar .search-form input,.header-bar .menu a,.header-navigation .mobile-menu ul.menu li a{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:0px;font-size:0rem;font-weight:normal;font-style:normal;text-transform:none;line-height:0.1;letter-spacing:0px;word-spacing:0px;}.sidebar .widget-title,.sidebar .widgettitle,.sidebar .widget-title a,.sidebar .widgettitle a,.font-widget-title{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:bold;font-style:normal;text-transform:none;line-height:1.6;letter-spacing:0px;word-spacing:0px;}.footer-widget-container .widget-title,.footer-widget-container .widgettitle,.footer-widget-container .widget-title a,.footer-widget-container .widgettitle a{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:bold;font-style:normal;text-transform:none;line-height:1.6;letter-spacing:0px;word-spacing:0px;}.color-primary-text,a,.entry-author-byline a.vcard,.entry-footer a:hover,.comment-form .required,ul.ttfmake-list-dot li:before,ol.ttfmake-list-dot li:before,.entry-comment-count a:hover,.comment-count-icon a:hover{color:#003366;}.color-primary-background,.ttfmake-button.color-primary-background{background-color:#003366;}.color-primary-border{border-color:#003366;}a:hover,a:focus,.entry-author-byline a.vcard:hover,.entry-author-byline a.vcard:focus{color:#dd0202;}.site-header,.site-title,.site-title a,.site-navigation .menu li a{color:#000000;}.site-header-main{background-color:rgba(204, 204, 204, 1);}.site-header .site-title,.site-header .site-title a{color:#003366;}.site-header .site-description{color:#8e2b01;}.site-navigation .menu li a{color:#003366;}.header-bar,.header-bar .search-form input,.header-social-links li:first-of-type,.header-social-links li a{border-color:rgba(255, 255, 255, 1);}.header-bar{background-color:rgba(3, 0, 104, 1);}.site-footer,.site-footer .social-links a{color:#003366;}.site-content{padding-bottom:0;}div.custom-logo{background-image:url("http://www.womenpriests.org/wp-content/uploads/2019/01/cropped-wicr-logo.png");width:281px;}div.custom-logo a{padding-bottom:18.861209964413%;}
+@media screen and (min-width: 800px){.has-left-sidebar.has-right-sidebar .entry-title{font-size:20px;font-size:2rem;}.site-navigation .menu .page_item_has_children a:after,.site-navigation .menu .menu-item-has-children a:after{top:-1px;font-size:10px;font-size:1rem;}.site-navigation .menu .sub-menu li a,.site-navigation .menu .children li a{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:bold;font-style:normal;text-transform:none;line-height:1.4;letter-spacing:0px;word-spacing:0px;}.site-navigation .menu .children .page_item_has_children a:after,.site-navigation .menu .sub-menu .menu-item-has-children a:after{font-size:9px;font-size:0.9rem;}.site-navigation .menu li.current_page_item > a,.site-navigation .menu .children li.current_page_item > a,.site-navigation .menu li.current_page_ancestor > a,.site-navigation .menu li.current-menu-item > a,.site-navigation .menu .sub-menu li.current-menu-item > a,.site-navigation .menu li.current-menu-ancestor > a{font-weight:bold;}.site-navigation ul.menu ul a:hover,.site-navigation ul.menu ul a:focus,.site-navigation .menu ul ul a:hover,.site-navigation .menu ul ul a:focus{background-color:#003366;}.site-navigation ul.menu ul a,.site-navigation .menu ul ul a{color:#1e73be;}.site-navigation .menu .sub-menu,.site-navigation .menu .children{background-color:rgba(217, 204, 226, 1);}}
+</style>
+<!-- End Make Inline CSS -->
+<style type="text/css" id="wp-custom-css">
+/* CAPTION styling*/
+
+#container_img {
+text-align: center;
+float: left;
+padding: 3px;
+margin: 10px;
+}
+a, figure {
+/* To correctly align image, regardless of content height: */
+vertical-align: top;
+/* To horizontally center images and caption */
+text-align: center;
+}
+figcaption {
+display: table-caption;
+caption-side: bottom;
+font-style: italic;
+font-size: 80%;
+}
+figure {
+display: table;
+}
+figure img {
+display: block;
+}
+img:hover {
+transform: scale(1.1);
+-ms-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+-o-transform: scale(1.1);
+}
+img {
+transition: transform 0.2s;
+-webkit-transition: -webkit-transform 0.2s;
+-moz-transition: -moz-transform 0.2s;
+-o-transition: -o-transform 0.2s;
+}
+
+/* BLOCKQUOTE style*/
+
+blockquote p {
+font-size: 1em;
+margin: 2em 20px;
+}
+
+/* TABLE OF CONTENT BOX style */
+
+#toc_box {
+background-color: #6dcc57 ;
+padding: 10px ;
+}
+
+/* Style TABLES (DIVs) */
+
+.rTable {
+display: table;
+width: 100%;
+}
+.rTableRow {
+display: table-row;
+}
+.rTableHeading {
+display: table-header-group;
+background-color: #ddd;
+}
+.rTableCell, .rTableHead {
+display: table-cell;
+padding: 3px 10px;
+border: 1px solid #999999;
+}
+.rTableHeading {
+display: table-header-group;
+background-color: #ddd;
+font-weight: bold;
+}
+.rTableBody {
+display: table-row-group;
+}		</style>
+</head>
+<body class="custom-background wp-custom-logo full-width no-sidebar"		<div id="site-wrapper" class="site-wrapper">
+
+<header data-offset-top="100" data-stuck="100" id="site-header" class="site-header header-layout-3 no-site-tagline" role="banner">
+<div class="top_header clearfix">
+<div class="container">
+<div class="top_left">
+<h1 class="site-title">
+<a href="http://www.womenpriests.org/" rel="home">WOMEN CAN BE PRIESTS</a>
+</h1>
+</div>
+<div class="language_box"></div>
+</div>
+</div>
+<div class="site-header-main">
+<div class="container">
+<div class="site-branding">
+<a href="http://www.womenpriests.org/" class="custom-logo-link" rel="home" itemprop="url"><img width="281" height="53" src="http://www.womenpriests.org/wp-content/uploads/2019/01/cropped-wicr-logo.png" class="custom-logo" alt="WOMEN CAN BE PRIESTS" itemprop="logo" /></a>
+</div>
+
+
+<nav id="site-navigation" class="site-navigation" role="navigation">
+<span class="menu-toggle">Menu</span>
+<div class=" mobile-menu"><ul id="menu-header" class="menu"><li id="menu-item-20120" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-20120"><a href="http://www.womenpriests.org/home/">Home</a>
+<ul class="sub-menu">
+<li id="menu-item-20170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20170"><a href="http://www.womenpriests.org/women-can-be-priests/">Introduction</a></li>
+<li id="menu-item-20177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20177"><a href="http://www.womenpriests.org/strategy-presenters-pack/">Strategy for change</a>
+<ul class="sub-menu">
+<li id="menu-item-20742" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-20742"><a href="http://www.womenpriests.org/reclaim-the-centre-ground/">Reclaim the centre ground</a></li>
+<li id="menu-item-20743" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-20743"><a href="http://www.womenpriests.org/educate-for-change/">Educate for change</a></li>
+<li id="menu-item-20741" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-20741"><a href="http://www.womenpriests.org/breaking-barriers/">Break barriers</a></li>
+<li id="menu-item-20740" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-20740"><a href="http://www.womenpriests.org/promote-integrity/">Promote integrity</a></li>
+</ul>
+</li>
+<li id="menu-item-21370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21370"><a href="http://www.womenpriests.org/languages-on-our-website/">Language sections</a></li>
+<li id="menu-item-20174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20174"><a href="http://www.womenpriests.org/words/womenpriests-org-search-page/">Search this site</a></li>
+<li id="menu-item-20176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20176"><a href="http://www.womenpriests.org/timeline/timeline-overview-2/">Timeline of women in the Church</a></li>
+<li id="menu-item-20178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20178"><a href="http://www.womenpriests.org/overview-of-documentation/">Overview of online collection of texts</a></li>
+</ul>
+</li>
+<li id="menu-item-20167" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-20167"><a href="http://www.womenpriests.org/seven-reasons-for-womens-ordination">Reasons Why</a>
+<ul class="sub-menu">
+<li id="menu-item-20179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20179"><a href="http://www.womenpriests.org/women-can-be-priests-17/">One baptism, one priesthood</a></li>
+<li id="menu-item-20180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20180"><a href="http://www.womenpriests.org/jesus-empowered-women-to-preside-at-the-eucharist/">Jesus empowered women</a></li>
+<li id="menu-item-20182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20182"><a href="http://www.womenpriests.org/women-discriminated-through-prejudice/">Women were barred through prejudice</a></li>
+<li id="menu-item-20183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20183"><a href="http://www.womenpriests.org/women-can-be-priests-18/">Women have been ordained deacon</a></li>
+<li id="menu-item-20184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20184"><a href="http://www.womenpriests.org/women-can-be-priests-5/">Affirmation in latent tradition</a></li>
+<li id="menu-item-20185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20185"><a href="http://www.womenpriests.org/womens-ordination-in-other-christian-churches/">Ecumenical support</a></li>
+<li id="menu-item-20186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20186"><a href="http://www.womenpriests.org/women-can-be-priests-13/">Women too receive the call</a></li>
+</ul>
+</li>
+<li id="menu-item-20169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20169"><a href="http://www.womenpriests.org/arguments-from-scripture-3/">Scripture</a>
+<ul class="sub-menu">
+<li id="menu-item-20187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20187"><a href="http://www.womenpriests.org/was-it-jesus-who-excluded-women-from-ministry/">Debate based on Sacred Scripture</a></li>
+<li id="menu-item-20255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20255"><a href="http://www.womenpriests.org/bible/the-ordination-of-women-and-sacred-scripture-2/">Scripture on Women</a></li>
+<li id="menu-item-20188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20188"><a href="http://www.womenpriests.org/overview-documents-scripture/">Overview documents on Scripture</a></li>
+<li id="menu-item-20189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20189"><a href="http://www.womenpriests.org/courses/inter/inter_intro.asp">How to interpret Scripture</a></li>
+<li id="menu-item-20190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20190"><a href="http://www.womenpriests.org/gospels/default.asp">Gospel formation</a></li>
+</ul>
+</li>
+<li id="menu-item-20171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20171"><a href="http://www.womenpriests.org/has-the-church-never-ordained-women">Tradition</a>
+<ul class="sub-menu">
+<li id="menu-item-20191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20191"><a href="http://www.womenpriests.org/has-the-church-never-ordained-women/">The debate based on Tradition</a></li>
+<li id="menu-item-20192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20192"><a href="http://www.womenpriests.org/tradition/the-ordination-of-women-and-tradition-3/">Women in Church Tradition</a></li>
+<li id="menu-item-20267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20267"><a href="http://www.womenpriests.org/women-deacons/women-deacons-in-ancient-greece/">Ancient women deacons</a></li>
+<li id="menu-item-20259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20259"><a href="http://www.womenpriests.org/mary-priest/the-tradition-of-mary-as-priest-main-documents-2/">devotion to Mary Priest</a></li>
+<li id="menu-item-20257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20257"><a href="http://www.womenpriests.org/mary-magdala/saint-mary-magdalen-3/">Mary of Magdala</a></li>
+</ul>
+</li>
+<li id="menu-item-20172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20172"><a href="http://www.womenpriests.org/theological-arguments-3/">Theology</a>
+<ul class="sub-menu">
+<li id="menu-item-20193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20193"><a href="http://www.womenpriests.org/can-women-not-act-in-the-person-of-christ/">The debate based on Theology</a></li>
+<li id="menu-item-20194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20194"><a href="http://www.womenpriests.org/theology/aqui_gen.asp">St Thomas Aquinas</a></li>
+<li id="menu-item-20195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20195"><a href="http://www.womenpriests.org/theology/overv_th.asp">Medieval Theologians</a></li>
+<li id="menu-item-20196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20196"><a href="http://www.womenpriests.org/theology/overv_t2.asp">Post-Scholastics</a></li>
+<li id="menu-item-20197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20197"><a href="http://www.womenpriests.org/catholic-scholars-pro-and-con/">Scholars Pro &#038; Con</a></li>
+<li id="menu-item-20198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20198"><a href="http://www.womepriests.org/overview-documents-theology/">Overview documents on Theology</a></li>
+</ul>
+</li>
+</ul></div></nav>			<div class="header_right">
+<div class="header_search"><i class="fa fa-search" aria-hidden="true"></i></div>
+<div class="donate"><a href="#model" class="fancybox button">Donate</a></div>
+</div>
+
+<div class="search-box">
+
+<form role="search" method="get" class="search-form" action="http://www.womenpriests.org/">
+<input type="search" class="search-field" id="search-field" placeholder="Search&hellip;" title="Press Enter to submit your search" value="" name="s" aria-label="Search for:">
+<input type="submit" class="search-submit" value="Search" aria-label="Search" role="button">
+</form>
+</div><!--  .search-bar -->
+</div>
+
+</div>
+<div id="model" style="display:none;" class="donate_box">
+<div class="donate_box_inner clearfix">
+<h2>Religion informs lives. We reform religion. Help us transform the lives of countless people around the world who are damaged by religious teachings against gender equality, family planning, and LGBT rights.</h2>
+<p>Join, or gift a Membership in honor or memory of somebody you love. As a thank you, you will receive a complimentary gift of:</p>
+<ul>
+<li>The new e-book by Wijngaards Institute researcher Dr Ally Kateusz, Mary and Early Christian Women (Palgrave: 2019)</li>
+<li>Our Members-only quarterly newsletter with insider news on our projects and events</li>
+</ul>
+<a class="button" href="http://www.wijngaardsinstitute.com/donations/">Join Now</a>
+</div>
+</div><!--modal-->
+</header>
+<div id="site-content" class="site-content">
+<div align="center">
+
+
+
+</div>
+<div class="container">
+

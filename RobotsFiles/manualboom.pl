@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /copywriter/
+Disallow: /blog/privacy-policy/
+Disallow: /blog/disclaimer/
+Disallow: /blog/contact-us/
+Disallow: /blog/about-us/
+Disallow: /ajax/
+Disallow: /answers/add/
+Disallow: /moderator/
+Disallow: /admin/
+Sitemap: http://manualboom.pl/sitemap.xml

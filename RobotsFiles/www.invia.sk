@@ -1,0 +1,28 @@
+User-agent: *
+Sitemap: https://www.invia.sk/direct/gadget_sitemap/sitemap-xml/
+
+Disallow: /admin/
+Disallow: /lastdetail
+
+Disallow: /mda/
+Disallow: /files_mda/
+Disallow: /direct/backend_file/
+Disallow: /ikomunity
+Disallow: /offer
+Disallow: */str-
+Disallow: *str=
+Disallow: *page=
+Disallow: *sort=*
+Disallow: *tour-*
+Disallow: *nl_hotel_id-*
+Disallow: *form_name=search*
+Disallow: *search_form*
+Disallow: *zoom_highlight=icq*
+Disallow: *nl_tour_id-*
+
+Disallow: *nl_country_id*
+Disallow: *nl_meal_id*
+Disallow: *nl_category_id*
+Disallow: *nl_city_id*
+Disallow: *s_fulltext*
+

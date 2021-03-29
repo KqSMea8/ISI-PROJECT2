@@ -1,0 +1,11 @@
+# robots.txt
+User-agent: *
+Disallow: /application/
+Disallow: /dane/
+Disallow: /less/
+Disallow: /menu/
+Disallow: /swf/
+Disallow: /system/
+Disallow: /tmp/
+Disallow: /tools/
+Sitemap: http://www.zyraffa.pl/sitemap1.xml

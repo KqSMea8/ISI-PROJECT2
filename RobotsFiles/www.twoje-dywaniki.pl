@@ -1,0 +1,11 @@
+Disallow: /_advanced_search/index/
+Disallow: /_login/index/
+Disallow: /_login/help/
+Disallow: /_cart/index/
+Disallow: /?cat=18
+Disallow: /?p=201
+Disallow: /?p=418
+Disallow: /?p=584
+Disallow: /?cat=191
+Disallow: /?cat=159
+Disallow: /?p=87

@@ -1,0 +1,24 @@
+User-agent: *
+
+
+
+Disallow: /shop/de/compare
+Disallow: /shop/de/checkout
+Disallow: /shop/de/register
+Disallow: /shop/de/account
+Disallow: /shop/de/address
+Disallow: /shop/de/note
+Disallow: /shop/de/widgets
+Disallow: /shop/de/listing
+Disallow: /shop/de/ticket
+
+
+Allow: /shop/de/widgets/emotion
+
+
+Sitemap: https://www.racetronics.de/shop/de/sitemap_index.xml
+
+
+
+
+

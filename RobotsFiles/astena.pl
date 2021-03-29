@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /public/greybox/
+Disallow: /public/thumbs/
+Disallow: /public/files/
+Disallow: /public/images/
+Disallow: /public/docs/
+Disallow: /public/ckeditor/
+Sitemap: http://astena.pl/public/xml/sitemap.xml

@@ -1,0 +1,13 @@
+Sitemap: https://www.twojpasaz.pl/sitemap.xml
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+Disallow: /_integrations/hurtowniak/
+Disallow: /html/if-header.html
+Disallow: /html/if-footer.html
+Disallow: /beta
+Disallow: /dhtmp
+Disallow: /public/assets/app/jakub
+Disallow: /kopia

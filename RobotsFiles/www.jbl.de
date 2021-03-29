@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /no_robo
+Sitemap: /sitemap_index.xml

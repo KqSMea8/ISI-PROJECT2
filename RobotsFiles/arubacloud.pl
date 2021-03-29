@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: *?download
+Disallow: *?id_link
+Disallow: *?lang
+Disallow: *?rss
+Disallow: /provagratis.aspx
+Disallow: /promo/
+Disallow: /en/promo/
+Disallow: /promo/*
+Disallow: /en/promo/*
+Disallow: *-ok.aspx

@@ -1,0 +1,12 @@
+]User-agent: *
+Disallow: /includes/
+Disallow: /rabaty.php
+Disallow: /email/
+Disallow: /podpis/
+Disallow: /history/
+Disallow: /404.php
+Disallow: /obrabiarki_proma.php
+Disallow: /osprzet_obrabiarek.php
+Disallow: /praca.php
+Disallow: /statystyki.php
+Disallow: /weze_techniczne.php

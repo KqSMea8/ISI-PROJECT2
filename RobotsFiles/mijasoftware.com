@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /test2a/
+Disallow: /wp-admin/
+Disallow: /kwd/
+Disallow: /manaspa/
+Disallow: /what-we-do/
+Disallow: /who-we-are/
+Disallow: /portfolio-cat/
+Disallow: /projects/
+Disallow: /contact/
+Disallow: /en/projects/
+Disallow: /en/portfolio-cat/
+Disallow: /en/what-we-do/
+Disallow: /en/who-we-are/

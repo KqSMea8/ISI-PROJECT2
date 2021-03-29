@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /bis-fr/
+Disallow: /*?*q=*
+Disallow: /*search*text=*
+Disallow: /*/myberner/
+Disallow: /*/ajax*
+Disallow: /*.pdf$
+Disallow: /*/service-center/
+Sitemap: https://shop.berner.eu/cdn21/sitemap21.xml
+Sitemap: https://shop.berner.eu/cdn22/sitemap22.xml
+Sitemap: https://shop.berner.eu/cdn32/sitemap32.xml
+

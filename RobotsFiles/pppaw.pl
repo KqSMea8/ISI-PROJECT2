@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /koszyk/
+Disallow: /moje-konto/
+Disallow: /moje-konto/orders/
+Disallow: /moje-konto/edit-address/
+Disallow: /moje-konto/edit-account/
+Disallow: /moje-konto/lost-password/
+Disallow: /bluzy/

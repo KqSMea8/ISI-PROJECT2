@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /temp/
+Disallow: /tmp/
+Disallow: /static/
+Disallow: /store/
+Disallow: /test/
+Disallow: /forgot/
+Disallow: /signup
+Disallow: /signup?plan=*
+Disallow: /login
+Disallow: /login?plan=*

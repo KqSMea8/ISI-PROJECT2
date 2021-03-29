@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+Disallow: /ulubione/
+Disallow: /cdn-cgi/
+Sitemap: https://www.protefix.pl/sitemaps/sitemap_protefix.pl.xml

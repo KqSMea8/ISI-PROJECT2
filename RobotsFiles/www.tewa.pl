@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+User-agent: MJ12bot
+Disallow: /
+

@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+Disallow: /*/fav/add/
+
+Disallow: /*/p/comment/add/
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/*/default/
+Disallow: /*/searchquery/
+Disallow: /*/desc/
+Disallow: /jak-kupowac
+Disallow: /regulamin
+Disallow: /polityka
+Disallow: /bezpieczenstwo
+Disallow: /czas
+Disallow: /dostawa
+Disallow: /platnosci
+Disallow: /gwarancja
+Disallow: /pl/i/Serwis/13
+Disallow: /pl/i/Reklamacje-i-zwroty/14
+Disallow: /test/
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/

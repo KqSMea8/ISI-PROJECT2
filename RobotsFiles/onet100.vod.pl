@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*zglos-naruszenie.html
+Disallow: /*odpowiedz.html
+Disallow: /*komentuj.html
+Disallow: /*?fb_*
+Disallow: /*dodaj-watek.html
+Disallow: /*watek-odpowiedz.html
+Disallow: /*odpowiedz-cytuj.html
+Disallow: /*td-naruszenie-zasad.html
+Disallow: /*comment.html
+User-agent: Nutch
+Disallow: /
+User-agent: InwegroBot
+Disallow: /
+

@@ -1,0 +1,16 @@
+User-agent:
+Disallow: /forum/*.msg*
+Disallow: /forum/*sa=showPosts*
+Disallow: /forum/*prev_next*
+Disallow: /forum/*action=
+Disallow: /forum/*action=printpage*
+Disallow: /forum/*action=recent*
+Disallow: /forum/*action=help*
+Disallow: /forum/*action=login*
+Disallow: /forum/*action=register*
+Disallow: /forum/*action=search*
+Disallow: /forum/*action=who*
+Disallow: /forum/*action=post*
+Disallow: /forum/*wap2*
+Disallow: /forum/*imode*
+Disallow: /forum/index.php/*

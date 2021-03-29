@@ -1,0 +1,25 @@
+User-Agent: *
+Disallow: /global/
+Disallow: /test/
+Disallow: /test2/
+Disallow: /swf/
+Disallow: /index.swf
+Disallow: /favicon.ico
+Disallow: /favicon.png
+Disallow: /_bot.txt
+Disallow: /_dzienny.txt
+Disallow: /_licznik.txt
+Allow: /index.php
+
+User-Agent: AdsBot-Google
+Disallow: /global/
+Disallow: /test/
+Disallow: /test2/
+Disallow: /swf/
+Disallow: /index.swf
+Disallow: /favicon.ico
+Disallow: /favicon.png
+Disallow: /_bot.txt
+Disallow: /_dzienny.txt
+Disallow: /_licznik.txt
+Allow: /index.php

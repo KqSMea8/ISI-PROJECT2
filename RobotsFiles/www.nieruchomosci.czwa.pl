@@ -1,0 +1,30 @@
+User-agent: *
+
+Disallow: /new/
+Disallow: /config/
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /files/
+Disallow: /images/
+Disallow: /js/
+Disallow: /mailer/
+Disallow: /popup/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /tablica/
+Disallow: /test/
+Disallow: /contact.php
+Disallow: /zglosoferte_old.html
+Disallow: /opis.html
+Disallow: /old_index.php
+Disallow: /kontakt20090114a.php
+Disallow: /certyfikat.html
+Disallow: /old.htaccess
+Disallow: /kontakt_old.php
+Disallow: /style.css
+Disallow: /kredyty.html
+Disallow: /home.html
+Disallow: /zglosoferte.html
+Disallow: /ofirmie.html
+Disallow: /old_kontakt.php
+

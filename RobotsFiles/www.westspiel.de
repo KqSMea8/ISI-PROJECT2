@@ -1,0 +1,15 @@
+
+User-agent: *
+
+Disallow: /print/
+Disallow: /meta/impressum/
+Disallow: /meta/datenschutz/
+
+User-agent: Wget
+Disallow: /typo3temp/
+Disallow: /typo3/
+Disallow: /uploads/
+Disallow: /fileadmin/
+Disallow: /print/
+
+

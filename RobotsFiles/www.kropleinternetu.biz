@@ -1,0 +1,14 @@
+User-agent: *
+Disallow:/regulamin.php
+Disallow:/kod.php
+Disallow:/zrzuty/
+Disallow:/error_400.html
+Disallow:/error_401.html
+Disallow:/error_403.html
+Disallow:/error_404.html
+Disallow:/error_500.html
+Disallow:/error_502.html
+Disallow:/error_503.html
+Disallow:/marbox/
+Disallow:/polityka_prywatnosci_cookies.php
+Disallow:/WygryzankoFREE/

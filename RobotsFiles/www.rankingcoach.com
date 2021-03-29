@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /get_sender_token
+Disallow: /en-gr
+Disallow: /en-it
+Disallow: /en-in
+Disallow: /pt-pt
+Disallow: /es-co
+Disallow: /es-pe
+Disallow: /es-ve
+Disallow: /ja-jp
+Disallow: /*/analysis

@@ -1,0 +1,9 @@
+Sitemap: https://centrummetodykrakowskiej.pl/sitemap.xml
+User-agent: *
+allow: /
+Disallow: /admin/
+Disallow: /szukaj/
+Disallow: /koszyk/
+Disallow: /konto/
+Disallow: /login/
+Disallow: /sklep/

@@ -1,0 +1,13 @@
+# robots.txt for www.luther.de
+
+# InternetSeer spams
+User-Agent: InternetSeer.com
+Disallow: /
+
+User-Agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /stats
+

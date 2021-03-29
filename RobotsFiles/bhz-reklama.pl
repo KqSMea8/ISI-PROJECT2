@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /_admin
+Disallow: /_codes
+Disallow: /_css
+Disallow: /_errors
+Disallow: /_files
+Disallow: /_html
+Disallow: /_images
+Disallow: /_inc
+Disallow: /_js
+Disallow: /_newsletter
+Disallow: /_rss
+Disallow: /allegro
+Disallow: /denbraven
+Disallow: /mailing
+Disallow: /newsletter
+Disallow: /stopka

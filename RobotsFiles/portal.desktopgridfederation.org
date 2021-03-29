@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: http://portal.desktopgridfederation.org/sitemap.xml

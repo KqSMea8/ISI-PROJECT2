@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /admin/
+Disallow: /adminoma/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /installation/
+Disallow: /panel/
+Disallow: /cms/
+Disallow: /conf/
+Disallow: /app/
+

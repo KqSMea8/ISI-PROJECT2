@@ -1,0 +1,26 @@
+Sitemap: https://paleosmak.pl/sitemap.xml
+User-agent: Cliqzbot
+User-agent: Linguee
+Disallow: /
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: AhrefsBot
+User-agent: SEOkicks-Robot
+User-agent: BUbiNG
+User-agent: dotbot
+User-agent: BLEXBot
+Disallow: /forum
+Disallow: /plukanie-zebow
+User-agent: *
+Disallow: /comment-subscriptions
+Disallow: /google_matched_content
+Disallow: /forum/memberlist.php
+Disallow: /?p=
+Disallow: /forum/app.php/feed/topic/
+Disallow: /forum/app.php/feed/forum/
+Disallow: /wp-content/plugins/speed-boost
+Disallow: /%3Cstrong
+Disallow: /brownie-paleo-ciasto-%3Cstrong
+Disallow: /brownie-paleo-%3Cstrong
+Disallow: /rosliny-straczkowe/Oczywi
+

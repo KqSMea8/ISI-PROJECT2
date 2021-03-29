@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+User-agent: URLMetriken
+Disallow: /
+
+Sitemap: http://www.tetra.net/de/de/sitemap_xml
+Sitemap: http://www.tetra.net/de/en/sitemap_xml
+Sitemap: http://www.tetra.net/en/en/sitemap_xml
+Sitemap: http://www.tetra.net/cz/cz/sitemap_xml
+Sitemap: http://www.tetra.net/es/es/sitemap_xml
+Sitemap: http://www.tetra.net/fr/fr/sitemap_xml
+Sitemap: http://www.tetra.net/it/it/sitemap_xml
+Sitemap: http://www.tetra.net/nl/nl/sitemap_xml
+Sitemap: http://www.tetra.net/pl/pl/sitemap_xml
+Sitemap: http://www.tetra.net/ru/ru/sitemap_xml
+Sitemap: http://www.tetra.net/scan/en/sitemap_xml
+Sitemap: http://www.tetra.net/hu/hu/sitemap_xml

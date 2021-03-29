@@ -1,0 +1,6 @@
+Sitemap: http://drfugazi.eu.org/sitemap.xml
+Sitemap: http://drfugazi.eu.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

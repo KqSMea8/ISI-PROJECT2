@@ -1,0 +1,6 @@
+Sitemap: https://moimili.net/sitemap.xml
+Sitemap: https://moimili.net/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

@@ -1,0 +1,14 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: Googlebot
+Disallow:
+User-agent: MSNBot
+Disallow:
+User-agent: Slurp
+Disallow:
+User-agent: baiduspider
+Disallow: /
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+
+

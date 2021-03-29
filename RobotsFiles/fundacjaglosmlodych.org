@@ -1,0 +1,7 @@
+
+Sitemap: https://fundacjaglosmlodych.org/sitemap.xml
+Sitemap: https://fundacjaglosmlodych.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

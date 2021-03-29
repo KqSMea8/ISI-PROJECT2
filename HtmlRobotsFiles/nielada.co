@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="strony www kielce, projekty graficzne kielce" />
+<meta name="description" content="Projektujemy strony www, grafike, logo, layouty, bannery, ulotki, wizytowki. Zapraszamy do biura w centrum kielc." />
+<meta name="robots" content="all" />
+<title>Nie Lada Co - tworzymy identyfikacje wizualne, projekty graficzne, strony www</title>        <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/libraries/slick/slick.min.js">
+<link rel="stylesheet" type="text/css" href="/libraries/slick/slick-theme.css">
+<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+
+<meta name="og:title" content="Nie Lada Co - strony www kielce, projekty graficzne kielce." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://nielada.co"/>
+<meta name="og:description" content="Projektujemy strony www, grafike, logo, layouty, bannery, ulotki, wizytowki. Zapraszamy do biura w centrum kielc." />
+<link rel="shortcut icon" href="/assets/images/favicon/favicon.ico" type="image/x-icon" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/favicon-128x128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/assets/images/favicon/favicon-228x228.png" sizes="228x228" />
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicon/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon-180x180.png" />
+<link rel="mstile" sizes="144x144" href="/assets/images/favicon/mstile-144x144.png" />
+
+</head>
+
+
+<body>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id))
+return;
+js = d.createElement(s);
+js.id = id;
+js.src = 'https://connect.facebook.net/pl_PL/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+attribution="setup_tool"
+page_id="954609934597397"
+theme_color="#00B4AB"
+logged_in_greeting="W czym mozemy pomoc?"
+logged_out_greeting="W czym mozemy pomoc?">
+</div>
+<!-- HEADER -->
+<header class="header  ">
+<!-- NAVIGATIN -->
+<nav class="nav mw">
+<a href="/" class="logo">
+<img src="/resources/img/Logo.svg" alt="logo">
+</a>
+<a href="/" class="html-logo">
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.74 35.62"><defs><style>.cls-1{fill:#00b4ab;}</style></defs><title>Nie</title><polygon class="cls-1" points="5.3 7.33 23.12 34.87 23.19 34.98 29.65 34.98 29.65 0.08 24.35 0.08 24.35 27.16 6.72 0.2 6.65 0.08 0 0.08 0 34.98 5.3 34.98 5.3 7.33"/><rect class="cls-1" x="39.27" y="11.46" width="5.06" height="23.53"/><path class="cls-1" d="M66.24,42.07a12.16,12.16,0,0,0,10.11-4.81l-3.61-2.87a7.46,7.46,0,0,1-6.5,3.39,7.2,7.2,0,0,1-5-2A6.63,6.63,0,0,1,59,31.28H77.25l0-.23c0-.37,0-.9,0-1.57a12.7,12.7,0,0,0-3-8.9A10.81,10.81,0,0,0,66,17.27a11.81,11.81,0,0,0-8.68,3.5,12.24,12.24,0,0,0-3.47,9,12,12,0,0,0,3.5,8.92A12.21,12.21,0,0,0,66.24,42.07ZM66,21.37a5.81,5.81,0,0,1,4.53,1.74,6.76,6.76,0,0,1,1.68,4.27H59a6.73,6.73,0,0,1,2.17-4.19A6.83,6.83,0,0,1,66,21.37Z" transform="translate(-1.59 -6.45)"/><rect class="cls-1" x="39.27" width="5.06" height="5.06"/></svg>
+<svg id="Warstwa_2" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.68 37.87"><defs><style>.cls-1{fill:#00b4ab;}</style></defs><title>Lada</title><polygon class="cls-1" points="20.66 32.46 5.3 32.46 5.3 2.33 0 2.33 0 37.23 20.66 37.23 20.66 32.46"/><path class="cls-1" d="M43.21,38.36a14.86,14.86,0,0,0,.39,2.8l0,.19h4.64l-.07-.3a23.15,23.15,0,0,1-.33-4.52V26.47a9.27,9.27,0,0,0-2.5-6.71c-1.67-1.71-4.15-2.57-7.37-2.57a13.37,13.37,0,0,0-9.6,3.51l-.17.17,2.67,3.19.08.11.2-.2a8.72,8.72,0,0,1,6.38-2.6,6,6,0,0,1,4,1.24A4.39,4.39,0,0,1,43,26.18v.39c-1.67,0-3.17.05-4.46.14a32.89,32.89,0,0,0-4.31.62,13.75,13.75,0,0,0-3.79,1.28A6.88,6.88,0,0,0,28,31a6.56,6.56,0,0,0-1,3.61A7.12,7.12,0,0,0,27.78,38a6,6,0,0,0,2.13,2.3,10.4,10.4,0,0,0,2.74,1.19,10.73,10.73,0,0,0,2.93.4A8.94,8.94,0,0,0,43.21,38.36Zm-6.61-.52A6,6,0,0,1,33.38,37a2.78,2.78,0,0,1-1.25-2.54c0-2.74,3.37-4.12,10-4.12H43v1a6.58,6.58,0,0,1-1.71,4.72A6.19,6.19,0,0,1,36.6,37.84Z" transform="translate(-1.59 -4.11)"/><path class="cls-1" d="M74.73,20.92a10.52,10.52,0,0,0-3.16-2.56,10.17,10.17,0,0,0-4.9-1.17,11.21,11.21,0,0,0-8.52,3.52,12.47,12.47,0,0,0-3.3,8.83,12.64,12.64,0,0,0,3.28,8.86A11.15,11.15,0,0,0,66.72,42a10.94,10.94,0,0,0,4.89-1.14,8.88,8.88,0,0,0,3.27-2.72v3.23h4.91V4.11H74.73ZM72.9,23.87a8.74,8.74,0,0,1,0,11.41,7,7,0,0,1-5.41,2.37,6.67,6.67,0,0,1-5.42-2.37,8.8,8.8,0,0,1-2-5.74,8.73,8.73,0,0,1,2-5.73,6.7,6.7,0,0,1,5.42-2.34A6.91,6.91,0,0,1,72.9,23.87Z" transform="translate(-1.59 -4.11)"/><path class="cls-1" d="M107.87,36.53V26.47a9.28,9.28,0,0,0-2.51-6.71c-1.66-1.71-4.14-2.57-7.36-2.57a13.35,13.35,0,0,0-9.61,3.52l-.16.16,2.66,3.19.09.11.19-.2a8.74,8.74,0,0,1,6.39-2.6,6,6,0,0,1,4,1.24A4.39,4.39,0,0,1,103,26.18v.39c-1.66,0-3.16.05-4.45.14a32.89,32.89,0,0,0-4.31.62,13.43,13.43,0,0,0-3.79,1.28A6.88,6.88,0,0,0,88,31a6.56,6.56,0,0,0-1,3.61A7.12,7.12,0,0,0,87.77,38a6,6,0,0,0,2.12,2.3,10.69,10.69,0,0,0,2.74,1.19,10.84,10.84,0,0,0,2.93.4,9,9,0,0,0,7.64-3.57,14.86,14.86,0,0,0,.39,2.8l0,.19h4.63l-.06-.3A23.15,23.15,0,0,1,107.87,36.53ZM96.59,37.84A6,6,0,0,1,93.36,37a2.79,2.79,0,0,1-1.24-2.54c0-2.74,3.36-4.12,10-4.12H103v1a6.62,6.62,0,0,1-1.7,4.72A6.19,6.19,0,0,1,96.59,37.84Z" transform="translate(-1.59 -4.11)"/></svg>
+<svg id="Warstwa_3" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.92 36.65"><defs><style>.cls-1{fill:#00b4ab;}</style></defs><title>Co</title><path class="cls-1" d="M27.29,32.9a10.34,10.34,0,0,1-9,4.47,11.81,11.81,0,0,1-9.2-3.88,14.12,14.12,0,0,1-3.48-9.73,13.89,13.89,0,0,1,3.55-9.65,12,12,0,0,1,9.27-3.9,11.18,11.18,0,0,1,4.85,1.09,8.89,8.89,0,0,1,3.51,2.84l.14.21,4.19-3.22-.15-.2a12.37,12.37,0,0,0-5.34-4,18.86,18.86,0,0,0-7.2-1.42A18.43,18.43,0,0,0,5.11,10.58,17.6,17.6,0,0,0-.16,23.76,17.71,17.71,0,0,0,18.21,42.14c5.76,0,10.24-2.13,13.32-6.32l.15-.21L27.43,32.7Z" transform="translate(0.16 -5.49)"/><path class="cls-1" d="M48.24,17.1a12.57,12.57,0,0,0-9,3.47,11.85,11.85,0,0,0-3.6,8.88,12,12,0,0,0,3.63,8.92,12.42,12.42,0,0,0,9,3.52,12.57,12.57,0,0,0,9-3.52,12,12,0,0,0,3.64-8.92,11.85,11.85,0,0,0-3.62-8.88A12.64,12.64,0,0,0,48.24,17.1Zm5.43,18.09a6.75,6.75,0,0,1-5.43,2.37,6.73,6.73,0,0,1-5.42-2.37,8.66,8.66,0,0,1-2-5.74,8.55,8.55,0,0,1,2-5.72,6.75,6.75,0,0,1,5.42-2.35,6.77,6.77,0,0,1,5.43,2.35,8.56,8.56,0,0,1,2,5.72A8.65,8.65,0,0,1,53.67,35.19Z" transform="translate(0.16 -5.49)"/><rect class="cls-1" x="64.85" y="31" width="5.06" height="5.06"/></svg>
+</a>
+<ul class="main-menu">
+<li><a href="/portfolio">Portfolio</a></li>
+<li><a href="/about-us">O nas</a></li>
+<li class="services-list-item"><a href="#">Uslugi <img src="/resources/ico/down.svg" class="icon-down" alt="down"></a>
+<ul class="submenu">
+<li class="nav-back-btn"><a href="#" ><img src="/resources/ico/back-arrow.svg" alt="wstecz" class="icon-back"></a></li>
+<li><a href="/projektowanie-stron-internetowych">Strony internetowe</a></li>
+<li><a href="/grafika-i-design">Grafika i design</a></li>
+<li><a href="/reklama-i-promocja-w-internecie">Reklama i promocja</a></li>
+<li><a href="/bannery-reklamowe-i-billboardy">Bannery reklamowe i billboardy</a></li>
+</ul>
+</li>
+<li><a href="/articles">Artykuly</a></li>
+<li><a href="/download">Materialy do pobrania</a></li>
+<li><a href="#contact">Kontakt</a></li>
+</ul>
+<a href="tel:+48 690 550 273" class="nav-phone">+48 690 550 273</a>
+<div id="nav-icon1">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</nav>
+
+<h1 class="mw fs5">NIE LADA <br><span id="typed" class="line-1 anim-typewriter"></span></h1>
+<div class="header-services-list mw">
+<ul>
+<li>Strony internetowe</li>
+<li>Identyfikacja wizualna</li>
+<li>Projekty graficzne</li>
+</ul>
+</div>
+<a href="#services"><img src="/resources/ico/arrow.svg" alt="arrow" id="bounce-arrow" class="animated bounce"></a>
+
+</header>
+<!-- MAIN -->
+<main class="main">
+<!-- SERVICES -->
+<section id="services" class="services">
+<h2>W czym mozemy pomoc?</h2>
+<div class="sv-wrapper mw ">
+<div class="sv-item">
+<img src="/resources/ico/www.svg" alt="ikona internet">
+<p>Internet</p>
+<p>Tworzymy strony i portale internetowe, opracowujemy newslettery, a ponadto oferujemy hosting dla naszych klientow. Projektujemy wyjatkowe, ale przede wszystkim skuteczne witryny w oparciu o najnowsze technologie.</p>
+</div>
+<div class="sv-item">
+<img src="/resources/ico/projekty%20graficzne.svg" alt="ikona projekty graficzne">
+<p>Projekty graficzne</p>
+<p>Kazdy projekt wykonujemy z Nie Lada Zaangazowaniem, bo wiemy, ze nawet najprostsza ulotka ma wplyw na wizerunek naszego klienta. Pomagamy w doborze sposobu reklamy oraz proponujemy nowe rozwiazania.</p>
+</div>
+<div class="sv-item">
+<img src="/resources/ico/ilustracje.svg" alt="ikona ilustracje">
+<p>Ilustracje</p>
+<p>Ogranicza nas wylacznie wyobraznia! Tworzymy autorskie grafiki, ilustracje, dzieki czemu mozemy stworzyc niepowtarzalny styl dla Twojej marki. Swoimi pracami jestesmy w stanie wpasowac sie rowniez w dotychczasowa stylistyke firmy.</p>
+</div>
+<div class="sv-item">
+<img src="/resources/ico/branding.svg" alt="ikona branding">
+<p>Identyfikacja wizualna</p>
+<p>Tworzymy identyfikacje wizualne od podstaw oraz pomagamy istniejacym markom w odswiezeniu wizerunku. Wspolnie mozemy wykreowac wyjatkowe logo, key visual, claim oraz brand hero dla Twojej firmy!</p>
+</div>
+</div>
+</section>
+<!-- Contact BAR -->
+<section class="services-bar">
+<div class="mw">
+<p><span>Tworzymy nie lada design</span> <span><strong>Strony oraz portale internetowe</strong></span> <span>social media</span> <span><strong>logo</strong></span> <span>ilustracje</span></p>
+<div class="img-wrapper">
+<p class="waypoint animated-box">Logo, ulotki, bannery reklamowe, a nawet proste animacje - jestesmy naprawde kreatywnym zespolem!</p>
+<img src="/resources/avatars/Strona%20glowna%20top.svg" alt="top avatar">
+</div>
+</div>
+</section>
+<!-- REALIZATIONS -->
+<section class="realizations">
+<h2>Realizacje</h2>
+<div class="rel-wrapper mw">
+<div class="rel-item">
+<a href="/project/euro-eko-polska-identyfikacja-wizualna"><img src="/uploads/images/euro-eko-polska-identyfikacja-wizualna/305x200-eep-okleina-mini.jpg" alt="Euro Eko Polska identyfikacja wizualna">
+<div class="item-desc hidden">
+<p>Euro Eko Polska identyfikacja wizualna</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/logo-miszel"><img src="/uploads/images/logo-miszel/305x200-miszel-mini.jpg" alt="Logo Miszel">
+<div class="item-desc hidden">
+<p>Logo Miszel</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/ithf-logo"><img src="/uploads/images/ithf-logo/305x200-ithf-logo-mini.jpg" alt="ITHF logo">
+<div class="item-desc hidden">
+<p>ITHF logo</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/sas-katalog"><img src="/uploads/images/sas-katalog/305x200-sas-mini.jpg" alt="Sas katalog">
+<div class="item-desc hidden">
+<p>Sas katalog</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/polanika-billboard"><img src="/uploads/images/polanika-billboard/wizualizacja-mini-billboard-polanika.png" alt="Polanika billboard">
+<div class="item-desc hidden">
+<p>Polanika billboard</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/klucze-kaczorek-koszulki"><img src="/uploads/images/klucze-kaczorek-koszulki/nadruk-na-koszulke-mini.png" alt="Klucze Kaczorek koszulki">
+<div class="item-desc hidden">
+<p>Klucze Kaczorek koszulki</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/mam-target"><img src="/uploads/images/mam-target/wizualizacja-mini.png" alt="mamTarget">
+<div class="item-desc hidden">
+<p>mamTarget</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/dynamika-www"><img src="/uploads/images/dynamika-www/dynamika-1-mini.jpg" alt="Dynamika www">
+<div class="item-desc hidden">
+<p>Dynamika www</p>
+</div></a>
+</div>
+<div class="rel-item">
+<a href="/project/ulotki-max-and-mrau"><img src="/uploads/images/ulotki-max-and-mrau/ulotka-m&m--mini.png" alt="Ulotki Max&Mrau">
+<div class="item-desc hidden">
+<p>Ulotki Max&Mrau</p>
+</div></a>
+</div>
+</div>
+<div class="btn-wrapper">
+<a href="/portfolio" class="btn btn-nlc-green btn-border-green">Zobacz wiecej</a>
+</div>
+</section>
+
+<!-- MEET US -->
+<section class="meet-us">
+<div class="mw">
+<h2>Nie Lada Studio Graficzne</h2>
+<div class="mu-wrapper">
+<div class="mu-text">
+<p><strong>Praca jest nasza pasja.</strong> Tworzymy zgrany zespol specjalistow w swoich dziedzinach (grafika/design/ux, frontend, backend), otwartych na dyskusje, przywiazujacych uwage do szczegolow, dzieki czemu jestesmy w stanie sprostac najbardziej nietypowym zleceniom!</p>
+<div class="btn-wrapper">
+<a href="/about-us" class="btn btn-nlc-green btn-border-green">Poznaj nas</a>
+</div>
+<p>To, co nas wyroznia to indywidualne podejscie do klienta: od drobnych zlecen graficznych, przez przebudowy stron, do tworzenia serwisow internetowych. Zalezy nam na wygodzie i wizerunku naszych klientow. Nie Lada Biuro miesci sie w Kielcach, ale wspolpracujemy z firmami z calego kraju i Europy - because design knows no boundaries! :)</p>
+</div>
+<div class="mu-img"><img src="/resources/avatars/Strona%20glowna%20onas.svg" alt="O nas"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</section>
+
+<!-- CUSTOMERS -->
+<section class="customers">
+<div class="mw">
+<h2>Zaufali nam:</h2>
+<div class="clients-logo-wrapper">
+<!--A  A  B  C  C  D  E  E  F  G  H  I  J  K  L  L  M  N  N  O  O  P  (Q)  R  S  S  T  U  (V)  W  (X)  Y  Z  Z  Z-->
+<img class="client-logo" src="/resources/logos/Active.jpg" alt="Active">
+<img class="client-logo" src="/resources/logos/Amid.jpg" alt="Amid">
+<img class="client-logo" src="/resources/logos/Answear.jpg" alt="Answer">
+<img class="client-logo" src="/resources/logos/Antares.png" alt="Antares">
+<img class="client-logo" src="/resources/logos/Brandzz.png" alt="Brandzz">
+<img class="client-logo" src="/resources/logos/caritas.jpg" alt="Caritas">
+<img class="client-logo" src="/resources/logos/Colombos.png" alt="Colombos Pizza">
+<img class="client-logo" src="/resources/logos/dller.jpg" alt="Dller">
+<img class="client-logo" src="/resources/logos/dynamika.jpg" alt="Dynamika Fitness">
+<img class="client-logo" src="/resources/logos/EEP.png" alt="EEP">
+<img class="client-logo" src="/resources/logos/Ekobox.jpg" alt="Ekobox">
+<img class="client-logo" src="/resources/logos/helloschool.jpg" alt="Hello School">
+<img class="client-logo" src="/resources/logos/Instalpol.jpg" alt="Instalpol">
+<img class="client-logo" src="/resources/logos/KluczeKaczorek.png" alt="Klucze Kaczorek">
+<img class="client-logo" src="/resources/logos/Kwant.jpg" alt="Kwant">
+<img class="client-logo" src="/resources/logos/Lamela.png" alt="Lamela">
+<img class="client-logo" src="/resources/logos/Manufakturakawy.png" alt="Manufaktura Kawy">
+<img class="client-logo" src="/resources/logos/Meest.jpg" alt="Meest">
+<img class="client-logo" src="/resources/logos/Meritum.png" alt="Meritum Stolarka">
+<img class="client-logo" src="/resources/logos/Milenium.svg" alt="Milenium">
+<img class="client-logo" src="/resources/logos/M&M.jpg" alt="Max & Mrau">
+<img class="client-logo" src="/resources/logos/Nitai.png" alt="Nitai">
+<img class="client-logo" src="/resources/logos/Oceanika.jpg" alt="Oceanika">
+<img class="client-logo" src="/resources/logos/OFM.png" alt="Ostroszowicka Fabryka Mebli">
+<img class="client-logo" src="/resources/logos/PiriPiriPizza.png" alt="Pieri Piri Pizza">
+<img class="client-logo" src="/resources/logos/Polanika.jpg" alt="Polanika">
+<img class="client-logo" src="/resources/logos/Samarytanin.png" alt="Opieka Samarytanin">
+<img class="client-logo" src="/resources/logos/SAS.jpg" alt="SAS">
+<img class="client-logo" src="/resources/logos/Toflesz.jpg" alt="Toflesz">
+</div>
+</div>
+</section>
+<section class="footer-avatar mw">
+<p class="waypoint animated-box">Napisz do nas i dolacz do grona naszych zadowolonych klientow</p>
+<img src="/resources/avatars/Strona%20glowna%20nad%20stopka.svg" class="kasia" alt="Kasia :)">
+<img src="/resources/avatars/lapka .svg" alt="" class="lapka">
+</section>
+</main>
+
+<script src="/libraries/typed.min.js" type="text/javascript"></script>
+<script src="/js/index.js"></script>
+<!-- FOOTER -->
+
+<footer id="contact" class="footer">
+<!-- CONTACT -->
+<h2>Kontakt</h2>
+<div class="footer-contact-wrapper mw">
+<section class="contact-form">
+<form id="cf">
+<div class="group">
+<label for="cf-email">Podaj swoj e-mail:</label>
+<input id="cf-email" type="email" name="email" required>
+<span class="highlight"></span>
+<span class="bar"></span>
+</div>
+<div class="group">
+<label for="cf-name">Podaj swoje imie i nazwisko:</label>
+<input id="cf-name" type="text" name="name" required>
+<span class="bar"></span>
+</div>
+<div class="group">
+<label for="cf-message">Tresc wiadomosci:</label>
+<textarea id="cf-message" rows="8" name="message" required></textarea>
+<span class="bar"></span>
+</div>
+<div class="btn-wrapper">
+<div id="recaptcha-widget" data-code=""></div>
+<input type="hidden" id="recaptcha-code" name="recaptcha-code" />
+<input id="register" type="submit" value="Wyslij" id="fcf-submit" class="btn btn-nlc-green btn-border-green disabled" disabled>
+<p class="f-alert fa-positive"></p>
+<p class="f-alert fa-negative"></p>
+</div>
+</form>
+</section>
+<section class="contact-data">
+<div class="fcd-item">
+<img src="/resources/ico/phone.svg" alt="phone icon">
+<div>
+<p class="phone">Telefon:</p>
+<a href="tel:+48690550273">+48 690 550 273</a>
+</div>
+</div>
+<div class="fcd-item">
+<img src="/resources/ico/clock.svg" alt="clock icon">
+<div>
+<p class="time">Godziny pracy:</p>
+<p>Poniedzialek - Piatek <br> 8:00 - 16:00</p>
+</div>
+</div>
+<div class="fcd-item">
+<img src="/resources/ico/envelope.svg" alt="envelope icon">
+<div>
+<p class="email">E-mail:</p>
+<a href="mailto:kontakt@nielada.co">kontakt@nielada.co</a>
+</div>
+</div>
+<div class="fcd-item">
+<img src="/resources/ico/pin.svg" alt="pin icon">
+<div>
+<p class="address">Adres:</p>
+<a href="https://www.google.pl/maps/place/Nie+Lada+Co/@50.8736526,20.6391016,17z/data=!3m1!4b1!4m5!3m4!1s0x4718279691b6f8f3:0x808ed86541975dc5!8m2!3d50.8736492!4d20.6412903?hl=pl" target="_blank" alt="otworz google  maps" rel="noopener">Al. Solidarnosci 15a/34, Kielce</a>
+</div>
+</div>
+
+<div class="fcd-item">
+<a href="https://www.facebook.com/nieladaco/?ref=br_rs" target="_blank" rel="noopener" title="odwiedz Facebook"><img src="/resources/ico/facebook.svg" alt="ikona facebook" class="social-icon"></a>
+<a href="https://www.instagram.com/nieladaco/" target="_blank" rel="noopener" title="odwiedz Instagram"><img src="/resources/ico/instagram.svg" alt="ikona instagram" class="social-icon"></a>
+</div>
+</section>
+</div>
+<!-- COPYRIGHT -->
+<div class="copywright">
+<div class="copy-wrapper mw">
+<p>Wlascicielem marki Nie Lada Co. jest Ecrosio Sp. z o.o.</p>
+<p>Copyright &copy; by Nie Lada Co.</p>
+</div>
+</div>
+</footer>
+
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"  async defer></script>
+<script src="/js//slick.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.waypoints.min.js"></script>
+<script src="/js/scripts.min.js"></script>
+<script type="text/javascript">
+var onloadCallback = function () {
+var verifyCallback = function (response) {
+$('#recaptcha-code').val(response);
+};
+grecaptcha.render('recaptcha-widget', {
+'sitekey': '6Lf1-zcUAAAAAInXWkyzTwdLXlHXJpW-gno2b-_7',
+'callback': verifyCallback,
+'theme': 'dark'
+});
+};
+</script>
+
+</body>
+
+</html>
+

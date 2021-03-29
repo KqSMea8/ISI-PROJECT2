@@ -1,0 +1,43 @@
+User-agent: *
+# Disallow: /*?
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /wishlist/
+Disallow: /admin101
+Disallow: /catalogsearch/
+Disallow: /customer/
+Disallow: /review/product/
+Disallow: /sendfriend/
+Disallow: /enable-cookies/
+Disallow: /LICENSE.txt
+Disallow: /LICENSE.html
+Disallow: /skin/
+Disallow: /js/
+Disallow: /directory/
+Disallow: /checkout/cart/
+Disallow: /onestepcheckout/
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /*?mode*
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+User-agent: Googlebot-image
+Disallow:
+Sitemap: https://www.sneakers.pl/media/sitemap.xml
+

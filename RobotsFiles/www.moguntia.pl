@@ -1,0 +1,27 @@
+User-Agent: *
+Allow: /
+Disallow: /fileadmin/indasia/
+Disallow: /fileadmin/templates/
+Disallow: /fleischerhandwerk/nl-fleischerhandwerk-de/
+Disallow: /foodservice/nl-foodservice-de/
+Disallow: /interner-newsletter/
+Disallow: /interner-newsletter-neues-layout/
+Disallow: /international/mib-news-archiv/
+Disallow: /international/nl-international-de/
+Disallow: /international/nl-international-gb/
+Disallow: /international/nl-international-pl/
+Disallow: /international/nl-international-ru/
+Disallow: /international/food-service-international-de/
+Disallow: /international/food-service-international-gb/
+Disallow: /international/food-service-international-pl/
+Disallow: /international/food-service-international-ru/
+Disallow: /international/produkte/prospektuebersicht-schweiz/
+Disallow: /fileadmin/user_upload/DE/05_International/30_produkte/Prospekte_Schweiz/Konzepte/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /*?id=*
+Disallow: /*&type=98
+
+Sitemap: http://www.moguntia.eu/sitemap.xml

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /ASTM/
+Disallow: /bat/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /FotosOtwarcie/
+Disallow: /images/
+Disallow: /js/
+Disallow: /katalog/
+Disallow: /korczak/
+Disallow: /multiculti/
+Disallow: /PakietAuschwitz/
+Disallow: /SLA/
+Disallow: /theme/
+Disallow: /TMSearch/
+Disallow: /varia/
+Disallow: /zdjecia/
+Disallow: /index_old.html
+Disallow: /index_old2.html
+

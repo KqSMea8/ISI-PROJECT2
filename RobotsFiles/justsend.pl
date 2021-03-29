@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /api/
+Disallow: /index/register/
+Disallow: /index/register
+Disallow: /index/login/
+Disallow: /index/login
+Disallow: /index/register-finish/
+Disallow: /index/register-finish
+Disallow: /admin/
+Disallow: /index/
+Disallow: /files/

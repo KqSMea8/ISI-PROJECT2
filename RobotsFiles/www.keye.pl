@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: ezooms
+Disallow: /
+User-agent: sistrix
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: proximic
+Disallow: /php/

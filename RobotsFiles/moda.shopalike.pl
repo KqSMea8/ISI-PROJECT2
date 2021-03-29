@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /controller/
+Disallow: /img/
+Disallow: /redirect/
+Disallow: /detail/
+Disallow: /group/
+Disallow: /account/
+Disallow: /branding/
+Disallow: /resource/UserFollowResource/
+Disallow: /mdl/

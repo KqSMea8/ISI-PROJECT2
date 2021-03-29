@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /galeria3.php
+Allow: /index.php
+Allow: /galeria2.php
+Allow: /galeria1.php
+Allow: /kontakt.php
+Allow: /partnerzy.php
+Allow: /
+Allow: /o_nas.php
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/

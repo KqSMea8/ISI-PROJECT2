@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /epaper/
+Disallow: /fileadmin/
+Disallow: /nc/
+Disallow: /shop/catalogsearch/
+Disallow: /wyniki-wyszukiwania/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /*/filter/
+Disallow: /*/limit/
+Disallow: /*/sort/
+Disallow: /*?query=
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+Allow: /typo3/sysext/core/Resources/Public/Icons/Flags/
+Allow: /typo3/sysext/core/Resources/Public/JavaScript/Contrib/jquery/
+Sitemap: https://www.denios.pl/sitemap.xml

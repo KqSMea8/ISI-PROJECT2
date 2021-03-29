@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /download
+Disallow: /includes
+Disallow: /temp
+Disallow: /tmp
+Disallow: /images
+Disallow: /img
+Disallow: /propozycja_*.php
+Disallow: /propozycja-*.html

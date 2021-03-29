@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /directory-x
+Disallow: /directory-y
+Disallow: /towar/lista/ulubione
+Disallow: /home/login
+Disallow: /pages/view/14/regulamin
+Disallow: /pages/view/16/polityka-prywatnosci
+Disallow: /pages/view/19/opcje-platnosci
+Disallow: /pages/view/17/koszty-wysylki
+Disallow: /uzytkownik/orders
+Disallow: /*?search=
+Disallow: /*?price=
+Disallow: /*?view=box
+Disallow: /*?view=clasic
+Sitemap:  https://postal.pl/sitemap/xml/all.xml

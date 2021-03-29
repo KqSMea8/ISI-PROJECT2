@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /attachments/
+Crawl-delay: 2
+
+Allow: /templates/*.css
+Allow: /templates/*.gif
+Allow: /templates/*.png
+Allow: /components/com_jcomments/tpl/default/images/*.png
+Allow: /components/com_jcomments/tpl/default/images/*.gif
+Allow: /templates/*.js
+Allow: /components/*.css
+Allow: /components/*.js
+Allow: /media/*.js
+Allow: /media/*.css
+Allow: /plugins/*.css
+Allow: /plugins/*.js
+Allow: /modules/mod_jflanguageselection/tmpl/*.css
+Allow: /media/com_joomfish/default/flags/*.gif
+Allow: /components/com_attachments/media/icons/*.gif
+

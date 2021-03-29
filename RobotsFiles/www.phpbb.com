@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /styles/forum/
+Disallow: /tools/
+

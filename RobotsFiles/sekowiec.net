@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /pl/cennik.html
+Allow: /pl/domki-bieszczady-noclegi.html
+Allow: /pl/galeria-bieszczady-noclegi-domki/
+Allow: /pl/kontakt-domki-letniskowe-w-bieszczadach-sekowiec/
+Allow: /pl/
+Allow: /pl/pole-namiotowe-bieszczady-sekowiec-san-otryt.html
+Disallow: /pl/galeria.html
+Disallow: /pl/strona-glowna.html
+Disallow: /pl/bieszczady.html
+Disallow: /pl/galeria/
+Disallow: /pl/kontakt/
+Sitemap: http://sekowiec.net/de/sitemap.xml
+Sitemap: http://sekowiec.net/en/sitemap.xml
+Sitemap: http://sekowiec.net/pl/sitemap.xml
+

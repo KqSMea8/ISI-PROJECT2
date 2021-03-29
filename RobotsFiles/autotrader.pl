@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /fif.html
+Disallow: /001-TOPBOARD*
+Disallow: /104-RECTANGLE*
+Disallow: /108-FOOTBOARD*
+Disallow: /000-MAINBOARD*
+Disallow: /067-RECTANGLE*
+Disallow: /003-RECTANGLE*
+Disallow: /035-RECTANGLE*
+Disallow: /050-SHORTBOX*
+Disallow: /042-FOOTBOARD*

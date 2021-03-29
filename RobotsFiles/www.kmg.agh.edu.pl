@@ -1,0 +1,6 @@
+UserAgent: *
+Disallow: /mediawiki/
+Disallow: /wiki/Special:Search
+Disallow: /wiki/Special:Random
+
+

@@ -1,0 +1,1 @@
+Disallow: /counter.php

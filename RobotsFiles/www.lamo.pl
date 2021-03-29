@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /www/
+Disallow: /www2/
+Disallow: /kopia/
+Disallow: /images/
+Disallow: /website/
+Disallow: /Chim/
+Disallow: /spis/

@@ -1,0 +1,40 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Allow: /components/*.jpg
+Allow: /components/*.JPG
+Allow: /components/*.js
+Allow: /components/*.JS
+Allow: /components/*.css
+Allow: /components/*.CSS
+Allow: /components/*.gif
+Allow: /components/*.GIF
+Allow: /components/*.png
+Allow: /components/*.PNG
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Allow: /modules/*.jpg
+Allow: /modules/*.JPG
+Allow: /modules/*.js
+Allow: /modules/*.JS
+Allow: /modules/*.css
+Allow: /modules/*.CSS
+Allow: /modules/*.gif
+Allow: /modules/*.GIF
+Allow: /modules/*.png
+Allow: /modules/*.PNG
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /o-firmie
+
+Sitemap: http://www.kotly-witkowski.pl/sitemap.xml
+
+

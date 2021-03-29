@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://torun.jug.pl/sitemap.xml
+

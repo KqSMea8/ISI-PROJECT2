@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /_hurt
+Disallow: /administrator
+#Disallow: /airbags
+#Disallow: /allegro
+#Disallow: /b2b
+#Disallow: /hurt
+Disallow: /hurt-chariot
+Disallow: /icplus-2012
+#Disallow: /icplusenergy
+#Disallow: /mirfog
+#Disallow: /mirfog.co.uk
+Disallow: /old-www
+#Disallow: /pompy-ciepla
+#Disallow: /reklamacje
+#Disallow: /shop
+Disallow: /shop_
+#Disallow: /skup
+#Disallow: /skuptoner
+#Disallow: /taniecieplo
+#Disallow: /www2016
+#Disallow: /zbierajpuste
+
+Sitemap: http://www.icplus.pl/sitemap.xml

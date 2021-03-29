@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /components*
+Disallow: /?___store=
+Disallow: /?&___store=*
+Disallow: /?___c=
+Disallow: /?&___c=*
+Disallow: /?___s=
+Disallow: /?&___s=*
+Disallow: /?size=
+Disallow: /?&size=*
+Disallow: /?pdp_recs=
+Disallow: /?&pdp_recs=*
+Sitemap: https://www.fashionette.de/sitemap.xml

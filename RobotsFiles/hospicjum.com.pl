@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /errordocs
+Disallow: /css
+Disallow: /stats
+Disallow: /images
+Disallow: /SpryAssets
+Disallow: /js
+Disallow: /stats
+Allow: /

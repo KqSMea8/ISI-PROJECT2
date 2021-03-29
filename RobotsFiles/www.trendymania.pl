@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /autofilebackup/
+Disallow: /avatarshop/
+Disallow: /b27a/
+Disallow: /g/
+Disallow: /faktury/
+Disallow: /images/
+Disallow: /img/
+Disallow: /imgnew/
+Disallow: /imgv3/
+Disallow: /kat_pics/
+Disallow: /kolory/
+Disallow: /losowe/
+Disallow: /newsletter/
+Disallow: /podkat_pics/
+Disallow: /podkat2_pics/
+Disallow: /prod_pics/
+Disallow: /prod_tmp/
+Disallow: /tmp/
+Disallow: /wiadomosci_zalaczniki/
+Disallow: /zgloszenia/
+Disallow: /szukaj*
+

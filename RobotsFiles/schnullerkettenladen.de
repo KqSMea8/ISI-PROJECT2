@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /67brav
+Disallow: /ajax
+Disallow: /download
+Disallow: /editors
+Disallow: /email
+Disallow: /media
+Disallow: /pub
+Disallow: /usage
+Disallow: /*login*
+Disallow: /*popup_image*
+Disallow: /*product_reviews_write*
+Disallow: /*shopping_cart*
+Disallow: /*tell_a_friend*
+
+Sitemap: https://schnullerkettenladen.de/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /67brav
+Disallow: /ajax
+Disallow: /download
+Disallow: /editors
+Disallow: /email
+Disallow: /media
+Disallow: /pub
+Disallow: /usage
+Disallow: /*login*
+Disallow: /*popup_image*
+Disallow: /*product_reviews_write*
+Disallow: /*shopping_cart*
+Disallow: /*tell_a_friend*
+
+Sitemap: https://schnullerkettenladen.de/sitemap.xml

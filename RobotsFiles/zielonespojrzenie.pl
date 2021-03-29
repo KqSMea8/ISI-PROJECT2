@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /index.html
+Allow: /oferta.html
+Allow: /portfolio_zielone_spojrzenie.html
+Allow: /blog/index.php
+Allow: /projekt_ogrodu.html
+Allow: /projekty_malej_architektury.html
+Allow: /projekty_oswietlenia.html
+Allow: /projekty_nawodnienia.html
+Allow: /projekt_kolorystyki.html
+Allow: /spotkanieI.html
+Allow: /spotkanieII.html
+Allow: /portfolio.html
+Allow: /informacje.html
+Allow: /realizacje.html
+Allow: /kowalstwo.html
+Allow: /kontakt.html

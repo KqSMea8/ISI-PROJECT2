@@ -1,0 +1,10 @@
+Sitemap: https://www.producencibetonu.pl/sitemap.xml
+User-agent: *
+Disallow: /admin/
+Disallow: /engine/
+Disallow: /modules/
+Disallow: /tmp/
+Disallow: /uploads/
+Disallow: /thumb/
+Disallow: /backup/
+Disallow: /print.php*

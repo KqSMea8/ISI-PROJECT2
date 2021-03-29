@@ -1,0 +1,10 @@
+User-agent: *
+Crawl-delay: 30
+Disallow: /Home/SwitchLanguage/cz$
+Disallow: /Home/SwitchLanguage/en$
+Disallow: /Home/SwitchLanguage/pl$
+Disallow: /Home/SwitchLanguage/de$
+Disallow: /Home/SwitchLanguage/hu$
+Disallow: /Home/SwitchLanguage/ru$
+Disallow: /Home/SwitchLanguage/sk$
+

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /application/
+Disallow: /ceche/
+Disallow: /config/
+Disallow: /errors/
+Disallow: /i18n/
+Disallow: /library/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/

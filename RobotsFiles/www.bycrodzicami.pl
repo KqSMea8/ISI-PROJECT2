@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /*/trackback/$
+User-agent: *
+Disallow: /wp-
+Disallow: /trackback/
+Disallow: /page/
+Disallow: /date/
+Disallow: /comments/
+Disallow: /sklep/

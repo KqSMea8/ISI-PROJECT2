@@ -1,0 +1,21 @@
+https://zabawkiija.pl/sitemaps/sitemap_7154fbe9fe6168b1e5540dcbaddc57d9.xml
+User-agent: *
+Allow: /
+Noindex: *keywords*
+Noindex: *prices*
+Noindex: *producers*
+Noindex: *options*
+Noindex: *utm_source*
+Noindex: *products_time*
+Noindex: *ajax.php*
+Noindex: /wyprzedaze
+Noindex: *0.html*
+Noindex: /persil
+Noindex: /rucanor
+Noindex: /obsessive
+Noindex: /gpl
+Noindex: /xbm
+Noindex: /pono
+Noindex: /gaylainc
+Noindex: /airhogs
+Noindex: */-zabawki*

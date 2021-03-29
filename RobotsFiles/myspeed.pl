@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /blog/category/blog/
+Disallow: /blog/category/dla-doroslych/
+Disallow: /blog/category/dla-mlodziezy/
+Disallow: /blog/category/dla-firm/
+Disallow: /blog/category/dla-dzieci/
+Disallow: /dla-doroslych/blog/
+Disallow: /dla-dzieci/blog/
+Disallow: /dla-mlodziezy/blog/
+Disallow: /blog/tag/blog-2/
+Disallow: /blog/tag/sposoby-nauki-angielskiego/

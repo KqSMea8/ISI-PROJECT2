@@ -1,0 +1,22 @@
+Sitemap: http://www.priorytet.waw.pl/sitemap.xml
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: /components/com_chronocontact/
+Allow: /images/stories/
+Allow: /modules/mod_hot_image_slider/
+Allow: /modules/mod_superfishmenu/
+Allow: /templates/priorytet2.0/css/
+

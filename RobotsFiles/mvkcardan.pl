@@ -1,0 +1,24 @@
+User-Agent: Googlebot
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+
+User-Agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Host: mvkcardan.pl
+Sitemap: http://mvkcardan.pl/index.php?option=com_jmap&view=sitemap&format=xml

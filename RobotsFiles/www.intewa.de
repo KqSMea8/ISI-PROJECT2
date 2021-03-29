@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /                                      # Bot Eingang grundsaetzlich erlauben
+Disallow: /fileadmin/default/templates/       # Ordner ohne Link zum Frontend
+# verbieten, wie
+# templates, css, js.
+Disallow: /t3lib/                             # Hier gibts nix zu sehen
+Disallow: /typo3/                             # Hier gibts nix zu sehen
+Disallow: /typo3conf/                         # Hier gibts nix zu sehen
+Disallow: /typo3temp/                         # Hier gibts nix zu sehen
+Disallow: /*?id=*                             # Abschalten von nicht-realurls
+Disallow: /*&type=123                         # Abschalten von Druck-PDFs
+Disallow: /*&type=272			    # Abschalten von Voransichten fuer PDF
+
+Sitemap: http://www.intewa.de/?id=385   	    # Unsere Sitemap XML
+

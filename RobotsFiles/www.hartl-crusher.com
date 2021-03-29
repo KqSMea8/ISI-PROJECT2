@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /fileadmin/templates/
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: /typo3conf/
+Disallow: /service/gewaehrleistung
+Disallow: /service/gewaehrleistung/
+Disallow: /webshop/index.php/customer/
+Disallow: /webshop/index.php/lieferung
+Disallow: /webshop/index.php/newsletter-subscription
+
+Sitemap: http://www.hartl-crusher.com/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/en/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/us/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/fr/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/it/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/es/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/ru/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/zh/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/pt/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/cs/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/pl/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/ar/sitemap.xml/
+Sitemap: http://www.hartl-crusher.com/fi/sitemap.xml/

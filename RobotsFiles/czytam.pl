@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: https://czytam.pl/sitemap/mapa1.xml
+Sitemap: https://czytam.pl/sitemap/mapa2.xml
+Sitemap: https://czytam.pl/sitemap/mapa3.xml
+Sitemap: https://czytam.pl/sitemap/mapa4.xml
+Sitemap: https://czytam.pl/sitemap/mapa5.xml
+Sitemap: https://czytam.pl/sitemap/mapa6.xml
+Sitemap: https://czytam.pl/sitemap/mapa7.xml
+Sitemap: https://czytam.pl/sitemap/mapa8.xml
+Sitemap: https://czytam.pl/sitemap/mapa9.xml
+Sitemap: https://czytam.pl/sitemap/mapa10.xml
+Sitemap: https://czytam.pl/sitemap/mapa11.xml
+Sitemap: https://czytam.pl/sitemap/mapa12.xml
+Sitemap: https://czytam.pl/sitemap/mapa13.xml
+Sitemap: https://czytam.pl/sitemap/mapa14.xml
+Sitemap: https://czytam.pl/sitemap/mapa15.xml

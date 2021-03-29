@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /fbFix.htm
+Disallow: /*.axd
+Disallow: /produkty,2?search=*
+Noindex: /profil-klienta,6
+Noindex: /zamowienie,4
+Noindex: /zaloguj-14,14
+Sitemap: http://czujniki.com.pl/ShowXml.ashx?id=4

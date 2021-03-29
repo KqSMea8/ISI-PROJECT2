@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Allow: /typo3temp/assets/compressed/
+Disallow: /uploads/
+Disallow: /index.php?*
+Disallow: /fr/*
+
+Sitemap: https://www.nfon.com/sitemap_en.xml
+Sitemap: https://www.nfon.com/sitemap_de.xml
+Sitemap: https://www.nfon.com/sitemap_de_at.xml
+Sitemap: https://www.nfon.com/sitemap_en_gb.xml
+Sitemap: https://www.nfon.com/sitemap_it.xml
+Sitemap: https://www.nfon.com/sitemap_nl.xml
+Sitemap: https://www.nfon.com/sitemap_es.xml
+Sitemap: https://www.nfon.com/sitemap_pt.xml
+Sitemap: https://www.nfon.com/sitemap_hr.xml
+Sitemap: https://www.nfon.com/sitemap_pl.xml
+Sitemap: https://www.nfon.com/sitemap_sk.xml
+Sitemap: https://www.nfon.com/sitemap_sl.xml
+Sitemap: https://www.nfon.com/sitemap_hu.xml
+Sitemap: https://www.nfon.com/sitemap_ro.xml

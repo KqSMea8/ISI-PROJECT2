@@ -1,0 +1,7 @@
+#
+# Added by Google
+# Modify or delete lines below to allow robots to crawl your site.
+# Block all robots
+# User-agent: *
+# Disallow: /
+

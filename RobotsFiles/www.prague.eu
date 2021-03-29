@@ -1,0 +1,11 @@
+#
+# robots.txt
+#
+
+# exclude these directories
+User-agent: *
+Disallow: /adm/
+
+Sitemap: https://www.prague.eu/sitemap.xml
+Sitemap: https://www.prague.eu/sitemapindex.xml
+

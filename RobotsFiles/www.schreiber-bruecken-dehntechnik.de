@@ -1,0 +1,10 @@
+User-agent: *
+Crawl-delay: 5
+
+Disallow: /fileadmin/
+Disallow: /misc/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /kundenlogin/
+

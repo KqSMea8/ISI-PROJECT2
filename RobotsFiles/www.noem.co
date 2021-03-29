@@ -1,0 +1,29 @@
+User-agent:  *
+# disallow all files in these directories
+Disallow: /cgi-bin/
+Disallow: /archives/
+disallow: /*?*
+Disallow: *?replytocom
+Disallow: /comments/feed/
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/ # prevents backlinks in plugin folders
+Disallow: /wp-includes/
+Disallow: /search/ # prevents search queries being indexed
+Disallow: /*?s
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+sitemap: http://noem.co/sitemap-image.xml
+sitemap: http://www.noem.co/sitemap.xml
+

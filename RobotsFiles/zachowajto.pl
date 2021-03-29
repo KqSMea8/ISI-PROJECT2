@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /?do=web-login
+Disallow: /login
+Disallow: /registrace
+Disallow: /reloadXapca.php
+Disallow: /upload
+Disallow: /sem
+Disallow: /searchSuggest.php
+Disallow: /soubory/
+Disallow: /podminky/
+Disallow: /live/podminky/
+Disallow: /podmienky/
+Disallow: /live/podmienky/
+Disallow: /tos/
+Disallow: /live/tos/
+Disallow: /dmca
+Disallow: /contentid
+Disallow: /pornfile/
+Disallow: /kontaktni-formular
+Disallow: /kredit
+Disallow: /kupon
+Disallow: /press/
+

@@ -1,0 +1,22 @@
+User-agent: *
+Sitemap: http://www.wetlina.bernardyni.pl/sitemap.xml
+Disallow: /403.php
+Disallow: /404.php
+Disallow: /adm.php
+Disallow: /bezjs.php
+Disallow: /bbd.php
+Disallow: /edyt_a.php
+Disallow: /edyt_o.php
+Disallow: /licznik
+Disallow: /data
+Disallow: /zdjecia.php
+Disallow: /.htaccess
+Disallow: /style/*
+Disallow: /gal/*.php
+Disallow: /inc/*
+Disallow: /graf/*
+Disallow: /rys/*
+Disallow: /obraz
+Disallow: /napis/*
+Disallow: /czc/*
+

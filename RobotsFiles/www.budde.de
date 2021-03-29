@@ -1,0 +1,28 @@
+User-Agent: *
+Allow: /
+
+Disallow: /docs/
+Disallow: /error/
+Disallow: /cgi-bin/
+
+Disallow: /typo3/
+Disallow: /vendor/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+
+Allow: /fileadmin/_migrated/
+Allow: /fileadmin/_processed_/
+Allow: /fileadmin/user_upload/
+Disallow: /fileadmin/
+
+Allow: /fileadmin/templates/art/
+Allow: /fileadmin/templates/art-global/
+Allow: /fileadmin/templates/download/
+
+Disallow: /uploads/tx_powermail/
+
+Disallow: /*?id=*
+Disallow: /*&type=98
+Disallow: /*&type=100
+Sitemap: https://www.domain.de/sitemap.xml
+Host: www.domain.com

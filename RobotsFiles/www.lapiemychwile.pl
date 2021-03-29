@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /index.php/sample-page/
+Disallow: /index.php/2016/*
+Disallow: /index.php/2017/*
+Disallow: /index.php/author/*
+Disallow: /index.php/category/*
+Disallow: /index.php/portfolio/plener/
+Sitemap: http://www.lapiemychwile.pl/index.php/sitemap_index.xml

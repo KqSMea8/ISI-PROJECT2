@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /allegro/
+Disallow: /cgi-bin/
+Disallow: /flash/
+Disallow: /generator/
+Disallow: /hosting/
+Disallow: /hotmag/
+Disallow: /images/
+Disallow: /mailing/
+Disallow: /newsletter/
+Disallow: /newone/

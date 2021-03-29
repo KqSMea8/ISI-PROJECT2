@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: http://www.skyrunner.pl/sitemap.xml
+Disallow: /Scripts/
+Disallow: /admin/
+Disallow: /poczta/
+Disallow: /jscripts/
+Disallow: /includes/
+Disallow: /fla/
+Disallow: /inc/

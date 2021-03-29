@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /allegro/
+Disallow: /dotproject/
+Disallow: /mailer/
+Disallow: /mailer1/
+Disallow: /office2/
+Disallow: /vtigercrm/
+Disallow: /vtigercrm2/
+Disallow: ogloszenia.php
+Disallow: /stara_strona/*/

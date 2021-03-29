@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /components
+Disallow: /thumb
+Sitemap: https://www.tosvarnsdorf.cz/sitemap.xml
+

@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /index.php?id=4&l=pl
+Disallow: /index.php?id=12&l=pl
+Disallow: /index.php?id=48&l=pl
+Disallow: /index.php?id=49&l=pl
+Disallow: /index.php?id=50&l=pl
+Disallow: /index.php?id=52&l=pl
+Disallow: /index.php?id=51&l=pl
+Disallow: /index.php?id=20&l=pl
+Disallow: /index.php?id=21&l=pl
+Disallow: /index.php?id=23&l=pl
+Disallow: /index.php?id=24&l=pl
+Disallow: /index.php?id=25&l=pl
+Disallow: /index.php?id=26&l=pl
+Disallow: /index.php?id=27&l=pl
+Disallow: /index.php?id=28&l=pl
+Disallow: /index.php?id=29&l=pl
+Disallow: /index.php?id=30&l=pl
+Disallow: /index.php?id=31&l=pl
+Disallow: /index.php?id=32&l=pl
+Disallow: /index.php?id=33&l=pl
+Disallow: /index.php?id=34&l=pl
+Disallow: /index.php?id=35&l=pl
+Disallow: /index.php?id=36&l=pl
+Disallow: /index.php?id=37&l=pl
+Disallow: /index.php?id=38&l=pl
+Disallow: /index.php?id=39&l=pl
+Disallow: /index.php?id=44&l=pl
+Disallow: /index.php?id=42&l=pl
+Disallow: /index.php?id=43&l=pl
+Disallow: /index.php?id=40&l=pl
+Disallow: /index.php?id=54&l=pl
+Disallow: /index.php?id=55&l=pl
+
+

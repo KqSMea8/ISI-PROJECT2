@@ -1,0 +1,24 @@
+User-Agent: *
+Allow: /
+Disallow: /drukarka/
+Disallow: /gfx/
+Disallow: /host/
+Disallow: /index_pliki/
+Disallow: /l/
+Disallow: /lekarz/
+Disallow: /new/
+Disallow: /nowy/
+Disallow: /OLD_images/
+Disallow: /OLD_komunikacja/
+Disallow: /OLD_pomiary/
+Disallow: /OLD_zegary/
+Disallow: /pliki/
+Disallow: /stat/
+Disallow: /sys/
+Disallow: /tablice/
+Disallow: /test/
+Disallow: /wirtual_includes/
+Disallow: /site/static_page/zapytanieOfertowe
+Disallow: /site/?action=sendEmailKontakt&zakladka=kontaktDziekujemy
+Disallow: /galeria15/
+

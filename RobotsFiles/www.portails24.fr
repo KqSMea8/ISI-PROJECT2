@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /js/
+Disallow: /zip.ajax.php
+Disallow: /livechat
+Disallow: /configurator.ajax.php
+
+User-agent: bingbot
+Disallow: /

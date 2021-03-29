@@ -1,0 +1,22 @@
+Sitemap: http://lublinrowerem.pl/sitemap.xml
+Sitemap: http://lublinrowerem.pl/feed
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /search/
+Disallow: /wordpress/cgi-bin/
+Disallow: /wordpress/wp-admin/
+Disallow: /wordpress/wp-includes/
+Disallow: /wordpress/wp-content/plugins/
+Disallow: /wordpress/wp-content/cache/
+Disallow: /wordpress/trackback/
+Disallow: /wordpress/feed/
+Disallow: /wordpress/comments/
+Disallow: /wordpress/search/

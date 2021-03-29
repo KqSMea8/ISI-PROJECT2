@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_generator.html
+Sitemap: http://zdrowiepsychiczne.org/sitemap.xml
+

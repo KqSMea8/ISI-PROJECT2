@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /index.php/
+Disallow: /*?
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /checkout/
+Disallow: /tag/
+Disallow: /catalogsearch/advanced/
+Disallow: /review/
+Disallow: /app/
+Disallow: /downloader/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /media/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /skin/
+Disallow: /var/
+Disallow: /customer/
+Disallow: /catalog/
+Allow: /catalogsearch/result/?q
+

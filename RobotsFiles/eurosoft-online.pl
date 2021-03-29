@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /Problemy_z_wydrukiem,g,4,fg,3,j,3.html
+Disallow: /Czarna_lista_),g,4,fg,5,j,2.html
+Disallow: /Problemy_zwiazane_z_aplikacja_Kasowa,g,4,fg,6,j,3.html
+Disallow: /Problemy_zwiazane_z_aplikacja_Magazynowa,g,4,fg,8,j,3.html
+Disallow: /Aktualizacje,g,6,j,2.html
+Disallow: /Polaczenie_internetowe,g,4,fg,4,j,2.html
+Disallow: /index,j,3.html
+Disallow: /Problemy_ze_sprzetem,g,4,fg,1,j,3.html
+Disallow: /FAQ,g,4,j,2.html
+Disallow: /Program_magazynowy_GMStock,g,2,pg,2,j,3.html
+Disallow: /Nowosci_-_modyfikacje_w_aplikacji,g,4,fg,9,j,3.html
+Disallow: /Program_kasowy_GMPos,g,2,pg,3,j,3.html
+Disallow: /Oferta_produkty,g,2,j,2.html
+Disallow: /System_GMSOFT,g,2,pg,1,j,2.html

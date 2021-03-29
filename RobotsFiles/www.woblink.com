@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cart/
+Disallow: /czytelnicy
+Disallow: /profile/
+Disallow: *detailReviews*
+Disallow: /user/
+Disallow: /info/
+Disallow: /odbierz-prezent/
+Disallow: /payment/
+Disallow: *detailFragments*

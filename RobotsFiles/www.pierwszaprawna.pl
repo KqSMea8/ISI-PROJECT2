@@ -1,0 +1,11 @@
+User-agent: ia_archiver
+User-agent: Scooter
+User-agent: ArchitextSpider
+User-agent: fast
+User-agent: Googlebot
+User-agent: Googlebot-Images
+User-agent: Sidewinder
+User-agent: Slurp
+User-agent: Lycos_Spider_(T-Rex)
+User-agent: Gulliver
+User-agent: WebCrawler

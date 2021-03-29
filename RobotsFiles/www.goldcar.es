@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: */sdr/
+Disallow: */reservas/
+Disallow: */franquicias/
+Disallow: */incidencias/
+Disallow: */w/
+Disallow: /cn/
+Disallow: /*.pdf
+Disallow: /version.json
+Disallow: */free-upgrade/
+Disallow: */regalo-black-friday/
+Disallow: */gdpr/
+Sitemap: https://www.goldcar.es/sitemap.xml

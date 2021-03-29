@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /licznik
+Disallow: /admin
+Disallow: /print.php
+Disallow: /galeria/zdjecia/s/
+Disallow: /galeria/s_obrazek.php
+Disallow: /menu
+Disallow: /ogloszenia/ogloszenie.php

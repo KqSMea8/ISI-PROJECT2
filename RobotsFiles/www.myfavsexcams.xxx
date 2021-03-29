@@ -1,0 +1,9 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+# https://developers.google.com/search/reference/robots_txt
+
+User-agent: *
+Disallow: /out/
+Disallow: /ver*/data/search
+Sitemap: https://www.myfavsexcams.xxx/sitemap.xml
+Sitemap: https://www.myfavsexcams.xxx/blog/sitemap_index.xml

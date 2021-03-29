@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>PHP version not supported</title>
+</head><body>
+<h1>PHP version not supported</h1>
+<p>The requested PHP version is not supported on this server.<br/>
+------------------------------------------------------------------------<br/>
+Die gew&auml;hlte PHP Version ist auf dem Server nicht verf&uuml;gbar.</p>
+</body></html>
+

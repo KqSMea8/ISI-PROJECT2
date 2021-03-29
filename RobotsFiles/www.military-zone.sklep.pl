@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /weryfikator.php*
+Disallow: /wyszukiwarka.html
+Disallow: /skrypty.php
+Disallow: /regulamin.html
+Disallow: /index.php?d=szukaj*
+Disallow: /js*
+Disallow: /index.php?d=rejestracja
+Disallow: /index.php?d=login&ref=konto
+Disallow: /index.php?d=login&akcja=haslo
+Disallow: /index.php?d=login
+Disallow: /index.php?d=koszyk
+Disallow: /i16,pliki-cookies.html

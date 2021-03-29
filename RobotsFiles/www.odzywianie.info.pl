@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /pm/
+Disallow: /*eq-kuchnia*
+Disallow: /*sonda&sonda*
+Disallow: /*&eq%*
+Disallow: /*profil/user*
+Disallow: /*?ajax_pop*
+Disallow: /*.pdf*
+Sitemap: http://www.odzywianie.info.pl/sitemap0.xml
+Crawl-delay: 120

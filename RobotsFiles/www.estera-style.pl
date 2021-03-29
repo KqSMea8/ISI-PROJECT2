@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /Obsluga-klienta
+Disallow: /Kontakt
+Disallow: /Regulamin
+Disallow: /Polityka-prywatnosci
+Disallow: /Reklamacje-zwroty
+Disallow: /Zakupy-hurtowe
+Disallow: /Partnerzy
+Disallow: /Dostawa-towaru
+Disallow: /Koszty-wysylki
+Disallow: /Formy-platnosci
+Disallow: /Termin-wysylki
+Disallow: /Logowanie-strefa-biznesu
+Disallow: /Rejestracja-strefa-biznesu
+Disallow: /Koszyk
+Disallow: /Niedostepne
+Disallow: /Opinie
+Disallow: /Logowanie
+Disallow: /Rejestracja
+
+Sitemap: http://www.estera-style.pl/sitemap.xml

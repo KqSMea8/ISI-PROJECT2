@@ -1,0 +1,13 @@
+Disallow: /pl/login?back=my-account
+Disallow: /pl/order
+Disallow: /pl/content/2-cookies
+Disallow: /pl/content/2-cookies
+Disallow: /pl/manufacturers
+Disallow: /*?author=*
+Disallow: /pl/supplier
+Disallow: /pl/2_luman
+Disallow: /pl/2__luman
+Disallow: /pl/aktualnosci.html?author=1
+Disallow: /pl/aktualnosci/-c1.html
+Disallow: /aktualnosci/aktualno%C5%9Bci-c15.html
+Disallow: /*id_appagebuilder_profiles=*

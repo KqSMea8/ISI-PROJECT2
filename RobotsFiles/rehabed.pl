@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /a/upload/
+Allow: /a/userfiles/
+Disallow: /a/aplikacja/
+Disallow: /a/config/
+Disallow: /a/php/
+Disallow: /a/phpjs/
+Disallow: /a/public/
+
+Disallow: /cgi-bin/
+Disallow: /class/
+Disallow: /css/
+Allow: /gfx/
+Disallow: /js/
+Disallow: /library/
+Disallow: /lozka/
+Disallow: /php/
+Disallow: /website/
+Sitemap: http:/rehabed.pl/sitemap.xml.gz

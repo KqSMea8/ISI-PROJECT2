@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /kopia*
+Disallow: /galeria*
+Disallow: /wyposazenie*
+Disallow: /zamowienie*
+Disallow: /oferta/*
+Disallow: /zls-603-f-diagnostyczny-podnosnik-nozycowy,40
+Disallow: /oferta/podnosniki/podnosniki_parkingowe*
+Disallow: /zh-2200-urzadzenie-do-wymiany-opon-w-samochodach-ciezarowych-14-26-,49
+Disallow: /zt-900-a-urzadzenie-do-wymiany-opon-automat-12-24-pax-inflator,48
+Disallow: /zt-430-urzadzenie-do-wymiany-opon-10-22-,52
+Disallow: /zkh20-6b-mobilny-hydrauliczny-podnosnik-kolumnowy-8-t,58
+Disallow: /zpp-2b-podnosnik-hydrauliczny-dwukolumnowy-3-0-t,56
+Disallow: /zpf-400-e-dwukolumnowy-podnosnik-hydrauliczny-4-t,59
+Disallow: /zpf-306e-hydrauliczny-podnosnik-dwukolumnowy-3-6-t,37
+Disallow: /zpo-605-hydrauliczny-podnosnik-dwukolumnowy-6-5-t,33
+Disallow: /zkh20-4b-mobilny-hydrauliczny-podnosnik-kolumnowy-8-t,53
+Disallow: /zlp-600-mobilny-podnosnik-hydrauliczny-nozycowy-2-t,45
+Disallow: /zpa-412-podnosnik-hydrauliczny-czterokolumnowy-5-5-t,44
+

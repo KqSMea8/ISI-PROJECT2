@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /wp-admin
+#Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+#Disallow: /feed
+Disallow: /comments
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /*.php$
+#Disallow: /*?*
+#Disallow: /*?
+
+Allow: /wp-content/uploads
+Allow: /wp-content/themes/portafortunas
+Allow: /wp-content/plugins/wp-product-review/assets/
+Allow: /wp-content/plugins/uk-cookie-consent/assets/

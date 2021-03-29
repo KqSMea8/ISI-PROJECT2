@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /inc
+Disallow: /rysunki
+Disallow: /script
+Disallow: /style
+Disallow: /inc/funkcje_bazy.inc.php
+Disallow: /inc/funkcje_dolacz.inc.php
+Disallow: /sklep/admin
+Disallow: /sklep/download
+Disallow: /sklep/includes
+Disallow: /sklep/tmp
+Disallow: /sklep/images
+Disallow: /sklep/account.php
+Disallow: /sklep/advanced_search.php
+Disallow: /sklep/checkout_shipping.php
+Disallow: /sklep/checkout_payment.php
+Disallow: /sklep/checkout_process.php
+Disallow: /sklep/create_account.php
+Disallow: /sklep/login.php
+Disallow: /sklep/password_forgotten.php
+Disallow: /sklep/popup_image.php
+Disallow: /sklep/shopping_cart.php
+Disallow: /sklep/product_reviews_write.php
+

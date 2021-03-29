@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/*
+Disallow: /api/*
+Disallow: /recovery/*
+Disallow: /obnova/*
+Sitemap: https://www.travelservice.aero/sitemap.xml
+

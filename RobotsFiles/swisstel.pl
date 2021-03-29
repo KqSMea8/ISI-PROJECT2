@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+Disallow: /pl/login
+Disallow: /pl/reg
+Disallow: /pl/basket/
+Disallow: /pl/passremind
+Disallow: /pl/i/Regulamin/
+Disallow: /pl/i/Bezpieczne-zakupy/
+Disallow: /pl/i/Polityka-prywatnosci/
+Disallow: /pl/i/Zamowienia-hurtowe/
+Disallow: /pl/i/Sposoby-platnosci/
+Disallow: /pl/i/Informacje-o-firmie/
+Disallow: /pl/searchquery/
+Sitemap: /console/integration/execute/name/GoogleSitemap
+

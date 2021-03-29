@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /forum/$
+Allow: /forum/*action=.xml
+Disallow: /forum/*action
+Disallow: /forum/*wap
+Disallow: /forum/*board=*wap
+Disallow: /forum/*topic=*wap
+Disallow: /forum/*;
+Disallow: /forum/*PHPSESSID
+Allow: /forum/*board*.html$
+Allow: /forum/*topic*.html$
+Allow: /forum/index.php$

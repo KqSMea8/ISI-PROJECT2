@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /en/
+Disallow: /pl/
+Disallow: /libraries/
+Disallow: /xajax/
+Disallow: /inc/
+Disallow: /init/
+Disallow: /templates/

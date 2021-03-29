@@ -1,0 +1,21 @@
+# Alle Roboter erlauben
+User-agent: *
+Disallow: /*.sql*
+Disallow: /*OTD*
+Disallow: /typo3conf/
+Disallow: /fileadmin/
+Disallow: /404-seite-nicht-gefunden.html
+Disallow: /typo3conf/ext/mm_multipage/Resources/Private/
+
+Allow: /typo3conf/ext/mm_multipage/Resources/Public/
+Allow: /typo3conf/ext/sr_language_menu/Resources/Public/
+Allow: /fileadmin/img/
+Allow: /fileadmin/layout/
+Allow: /fileadmin/docs/
+Allow: /fileadmin/_migrated/
+Allow: /fileadmin/_processed_/
+Allow: /fileadmin/uploads/
+Allow: /fileadmin/user_upload/
+
+Sitemap: http://peer-span.de/sitemap.xml
+

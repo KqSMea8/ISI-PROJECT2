@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /config/
+Disallow: /configs/
+Disallow: /img/
+Disallow: /img_menu/
+Disallow: /jatym/
+Disallow: /jj_arch/
+Disallow: /jjpdf/
+Disallow: /libs/
+Disallow: /stronywww/
+Disallow: /sw/
+Disallow: /templates/
+Disallow: /templates_c/

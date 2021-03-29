@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /foto/
+Disallow: /foto_mini/
+Disallow: /grafika/
+Disallow: /images/
+Disallow: /panel/
+Allow: /
+Sitemap: http://www.przewodnikpopradze.pl/sitemap.php
+Sitemap: http://www.przewodnikpopradze.pl/sitemap2.php

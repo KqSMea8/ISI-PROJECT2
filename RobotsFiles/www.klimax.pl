@@ -1,0 +1,1 @@
+Error in exception handler: Undefined variable: id (View: /home/neomk23/ftp/app/views/menu/index_main.blade.php) (View: /home/neomk23/ftp/app/views/menu/index_main.blade.php) (View: /home/neomk23/ftp/app/views/menu/index_main.blade.php) in /home/neomk23/ftp/app/storage/views/e469693287baf91f2d47a6f056b9c007:7

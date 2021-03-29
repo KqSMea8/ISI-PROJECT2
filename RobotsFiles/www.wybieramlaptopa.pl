@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /wybor.php
+Disallow: /configuration.php
+Sitemap: https://www.wybieramlaptopa.pl/sitemap.xml.gz

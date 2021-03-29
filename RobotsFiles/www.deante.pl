@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /assets/distro/
+Disallow: /assets/fonts/
+Disallow: /assets/mapka/
+Disallow: /assets/mapka2/
+Disallow: /delete/
+Disallow: /games/
+Disallow: /html/
+Disallow: /images/
+Disallow: /off-foty/
+Disallow: /products/
+Disallow: /tools/

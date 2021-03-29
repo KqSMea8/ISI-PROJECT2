@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /img/
+Disallow: /download/
+Disallow: /v3/
+Disallow: /zs03/
+Disallow: /img/
+Disallow: /allegro/
+
+User-agent: ia_archiver
+Disallow: /

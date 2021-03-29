@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+

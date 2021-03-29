@@ -1,0 +1,22 @@
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /includes/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /application/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /public/
+Disallow: /sites/
+Disallow: /themes/
+Disallow: /system/
+Disallow: /userfiles/
+Disallow: /tmp/
+Disallow: *.swf
+Disallow: *.doc
+Disallow: *.odt
+Disallow: /pliki-cooki-i-polityka-prywatnoci
+

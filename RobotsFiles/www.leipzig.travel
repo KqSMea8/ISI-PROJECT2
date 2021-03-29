@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /fileadmin
+Disallow: /typo3
+Disallow: /typo3conf
+Disallow: /typo3temp
+Disallow: /vendor
+Allow: /fileadmin/mediamanager
+Allow: /typo3temp/assets
+Allow: /typo3conf/ext/template/Resources/Public/daten/1/skins/leipzig.travel
+Allow: /typo3conf/ext/template/Resources/Public/dialogadvtab
+Allow: /typo3conf/ext/template/Resources/Public/oepnv
+Allow: /typo3conf/ext/cc_map/Resources/Public/files/css/map.css
+Allow: /typo3conf/ext/solr/Resources/Public/JavaScript/suggest_controller.js
+Allow: /typo3conf/ext/cc_pdfwatchlist/Resources/Public/Javascript/ajax.pdfwatchlist.js
+Sitemap: https://www.leipzig.travel/sitemap/sitemap.xml
+

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /1043750
+Disallow: /embed
+Disallow: /search
+Disallow: */new/
+Disallow: */rated
+Disallow: */played_all
+Disallow: */played_day
+Disallow: */played_week
+Disallow: */played_month
+Disallow: *html?
+Disallow: /blog
+Disallow: */?languages
+Sitemap: https://www.pomu.pl/sitemap.xml

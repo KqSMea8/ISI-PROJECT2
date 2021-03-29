@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /gfx/*.jpg$
+Allow: /gfx/*.gif$
+Allow: /gfx/*.png$
+Allow: /gfx/*.jpeg$
+Sitemap: https://www.marketymajster.pl/sitemap.xml
+Allow: /szablony/majster/
+Allow: /gfx/majster/_thumbs/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/*.css
+User-agent: Fasterfox
+Disallow: /

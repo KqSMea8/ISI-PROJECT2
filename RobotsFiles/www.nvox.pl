@@ -1,0 +1,14 @@
+User-agent: YandexBot
+Disallow: /
+User-agent: YandexMobileBot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /yii-core/
+Disallow: /admin/
+Disallow: /avde/
+Disallow: /interdigital/
+Disallow: /intranet/
+Disallow: /new/
+Crawl-delay: 5

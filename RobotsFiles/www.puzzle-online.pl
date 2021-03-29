@@ -1,0 +1,3 @@
+404 Not Found<font size='5' color='#000000'><b> B??ny Adres, Zaraz nast?pi Przekierowanie na strone www.puzzle-online.pl...
+<a href='https://www.puzzle-online.pl' target='_top'>[Przejd?]</a></b></font><script language='JavaScript' type='text/javascript'>
+setTimeout("window.location.replace('https://www.puzzle-online.pl')", 1000);</script>

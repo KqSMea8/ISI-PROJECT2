@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /temp/
+Disallow: /installation/
+Disallow: /files/
+Disallow: http://www.mbp.lublin.pl/index.php?option=com_content&task=view&id=119&Itemid=287

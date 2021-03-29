@@ -1,0 +1,1 @@
+User-agent: WebStripperDisallow: /User-agent: WebCopierDisallow: /User-agent: TeleportProDisallow: /User-agent: HTTrackDisallow: /User-agent: wgetDisallow: /Sitemap: http://www.promobaby.pl/sitemap.xml

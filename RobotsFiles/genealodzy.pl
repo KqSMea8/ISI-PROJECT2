@@ -1,0 +1,22 @@
+User-agent: *
+Crawl-delay: 60
+Allow: /ptg.phtml
+Allow: /forum
+Allow: /poszukiwanie-przodkow/
+Allow: /infor.phtml
+Allow: /legiony.phtml
+Allow: /straty.phtml
+Allow: /latin.phtml
+Allow: /sitemap.xml
+Disallow: admin.php
+Disallow: config
+Disallow: header
+Disallow: footer
+Disallow: pntables
+Disallow: /images
+Disallow: /includes
+Disallow: /themes
+Disallow: /pnTemp
+Disallow: /docs
+Disallow: /javascript
+

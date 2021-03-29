@@ -1,0 +1,47 @@
+Sitemap: http://www.mentorgroup.pl/sitemap_index.xml
+
+# global
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */comments/
+Disallow: wp-login.php
+Disallow: wp-signup.php
+Disallow: /stara/
+Disallow: /home/
+Disallow: /crm/
+Disallow: /newsletter/
+
+Allow: */wp-content/themes/mentorgroup/css/
+Allow: */wp-content/themes/mentorgroup/js/
+Allow: */wp-content/themes/mentorgroup/templates/
+Allow: */wp-content/themes/mentorgroup/swfobject/
+Allow: */wp-content/wp-includes/js/
+Allow: */wp-content/themes/mentorgroup/images/
+Allow: */wp-content/uploads/
+Allow: */wp-includes/js/
+Allow: */wp-content/plugins/js_composer/assets/js/js_composer_front.js
+Allow: */wp-content/plugins/interactive-polish-map/style/interactive_polish_map.css
+Allow: */wp-content/plugins/child-pages-shortcode/css/child-pages-shortcode.min.css
+Allow: */wp-content/plugins/advanced-wp-columns/assets/css/awp-columns.css
+Allow: */wp-content/plugins/js_composer/assets/css/lib/isotope.css
+Allow: */wp-content/plugins/interactive-polish-map/js/interactive_polish_map.js
+Allow: */wp-content/plugins/child-pages-shortcode/js/child-pages-shortcode.min.js
+Allow: */wp-content/plugins/js_composer/assets/lib/isotope/dist/isotope.pkgd.min.js
+Allow: */wp-content/plugins/si-contact-form/includes/fscf-scripts.js
+
+Allow: */wp-content/themes/mentorgroup/js/fancybox/jquery.fancybox.css
+Allow: */wp-content/themes/mentorgroup/templates/custom-css.php
+Allow: */wp-content/plugins/child-pages-shortcode/css/child-pages-shortcode.min.css
+Allow: */wp-content/uploads/js_composer/custom.css
+Allow: */wp-includes/js/jquery/jquery-migrate.min.js
+Allow: */wp-content/themes/mentorgroup/js/jquery-ui.js
+Allow: */wp-content/themes/mentorgroup/js/fancybox/jquery.fancybox.pack.js
+Allow: */wp-content/themes/mentorgroup/images/social_dark/twitter.png

@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wishlist/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /checkout/
+Disallow: /review/
+Disallow: /reviews/
+Disallow: /catalogsearch/
+Disallow: /*/reviews
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /sendfriend/
+Disallow: /review/
+
+Disallow: /*?min*
+Disallow: /*?max*
+Disallow: /*?q*
+Disallow: /*?dir*
+Disallow: /*?order*
+Disallow: /*rating*
+Disallow: /*network*
+Disallow: /index.php/
+Disallow: /*?site*
+Sitemap: https://prezentokracja.pl/sitemap_001.xml

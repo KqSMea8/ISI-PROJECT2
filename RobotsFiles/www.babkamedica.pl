@@ -1,0 +1,9 @@
+sitemap: https://babkamedica.pl/sitemap_index.xml
+User-agent: *
+Disallow: /?s=
+Disallow: /search/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /polityka-prywatnosci/
+Disallow: /polityka-cookies/
+Disallow: /regulamin-newsletter/

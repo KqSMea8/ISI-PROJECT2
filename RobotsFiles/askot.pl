@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /?s=
+Disallow: /?orderby=
+Disallow: /?products_per_page=
+Disallow: /?pa_kolor=
+Disallow: /?product_brand=
+SITEMAP: http://askot.pl/sitemap_index.xml

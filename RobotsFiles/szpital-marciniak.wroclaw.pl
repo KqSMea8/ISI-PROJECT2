@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /calendar/
+Disallow: /container/
+Disallow: /download/
+Disallow: /files/
+Disallow: /includes/
+Disallow: /modules/
+Disallow: /panel/
+Disallow: /template/
+Disallow: /cms/
+Disallow: /bip/
+Disallow: /template_s14_1/
+Disallow: /tmp/

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /@BUGI/
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /fckeditor/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /modules/
+Disallow: /newsletter/
+Disallow: /podstrony/
+Disallow: /projekty
+Disallow: /@BUGI/
+Disallow: /upload/pliki_zalogowani/
+Disallow: /upload/zdjecia/zalogowani/

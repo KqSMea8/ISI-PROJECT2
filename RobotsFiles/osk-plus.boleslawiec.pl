@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /*?secCode*
+Disallow: /*?l=
+Disallow: /*&l=
+Disallow: /*?h$
+Disallow: /*?h&
+Disallow: /js
+Disallow: /projekty
+Disallow: *.js
+Disallow: /sites
+Disallow: *.swf

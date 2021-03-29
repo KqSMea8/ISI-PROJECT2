@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /index.php?option
+Sitemap: http://www.riwalpoland.pl/sitemap.xml
+Disallow: /index.php?option=com_content&view=article&id=93

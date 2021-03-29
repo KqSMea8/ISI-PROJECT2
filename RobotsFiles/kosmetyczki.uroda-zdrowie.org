@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://kosmetyczki.uroda-zdrowie.org/sitemap.xml

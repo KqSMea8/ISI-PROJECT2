@@ -1,0 +1,34 @@
+User-agent: *
+
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /wp-icludes/
+Disallow: /trackback/
+Disallow: /archives/
+Disallow: /booking/
+Disallow: /service/
+Disallow: /testimonials/
+Disallow: /bez-kategorii-en/
+Disallow: /free/
+Disallow: /packages/
+Disallow: /events/
+Disallow: /time-line/
+Disallow: /staff/
+Disallow: /blog-3/
+Disallow: /paid/
+Disallow: /news/
+Disallow: /bez-kategorii/
+Disallow: /aktualnosci-pl/
+Disallow: /news-en/
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.php$
+Disallow: /*.pdf$
+Disallow: /pl/booking/
+Disallow: /en/booking/
+

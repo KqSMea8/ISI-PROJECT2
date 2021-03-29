@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /piwik/
+Disallow: /?a=search&q=
+Disallow: /button.php?u=ateista
+Disallow: /?a=out&u=barbarella&go=1
+Disallow: /?a=out&u=masterkamil&go=1
+Disallow: /?a=out&u=miskowscytravel&go=1
+Disallow: /?a=out&u=Fleur&go=1
+Disallow: /?a=out&u=czaplas1987&go=1
+Disallow: /?a=out&u=Sylvieu&go=1
+Disallow: /?a=out&u=Qnezaa&go=1
+Disallow: /?a=out&u=AnetaD&go=1
+Disallow: /?a=out&u=ramonsbis&go=1

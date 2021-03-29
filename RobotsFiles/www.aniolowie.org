@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /colors
+Disallow: /api
+Disallow: /css
+Disallow: /js
+Disallow: /mail
+Disallow: /vendor
+Disallow: /images/assets
+Disallow: /images/patterns

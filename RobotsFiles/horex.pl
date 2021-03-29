@@ -1,0 +1,19 @@
+Sitemap: https://horex.pl/sitemap.xml
+
+User-agent: *
+Disallow: /product_shelf/
+Disallow: /product_usage_picture*
+Disallow: /tag*
+Disallow: /product/search_products*
+Disallow: /product/show*
+Disallow: /order*
+Disallow: /review*
+Disallow: /?awc*
+Disallow: /?,=&amp;awc*
+Disallow: /product_advanced_searcher*
+Disallow: ?smclient
+Disallow: /cart*
+Disallow: /customer*
+Disallow: /*?testpage=*
+Disallow: /plugin/payment*
+Disallow: /z_importu/*

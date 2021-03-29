@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /algraf/
+Disallow: /prefabet/
+Disallow: /bb/
+Disallow: /fckeditor/
+Disallow: /kia/
+Disallow: /mebelux/
+Disallow: /ml/
+Disallow: /mobile/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /dhx/

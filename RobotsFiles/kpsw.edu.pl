@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /include/
+Disallow: /js/
+Disallow: /koszyk/
+Disallow: /karol2/
+Disallow: /modules/
+Disallow: /plany/
+Disallow: /pobierz/

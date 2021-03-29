@@ -1,0 +1,9 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /sdruzeni-2/uredni-deska/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /sdruzeni-2/uredni-deska/
+Sitemap: http://www.jablunkovsko.cz/sitemap.xml
+

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" >
+<head>
+
+<!-- meta http-equiv="content-type" content="text/html; charset=iso-8859-2" />  -->
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-2 />
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="ROBOTS" content="index, follow" />
+<meta name="revisit-after" content="7 Days" />
+<title></title>
+
+<base href="http://www.formydokostki.pl/public" />
+
+<script src="http://www.formydokostki.pl/public/js/default.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="http://www.formydokostki.pl/public/java/menu.js"></script>
+<script type="text/javascript" src="http://www.formydokostki.pl/public/java/flashobject.js"></script>
+<!-- <script type="text/javascript" src="http://www.formydokostki.pl/public/java/prototype.js"></script> -->
+<!-- <script type="text/javascript" src="http://www.formydokostki.pl/public/java/scriptaculous.js?load=effects,builder"></script> -->
+<!-- <script type="text/javascript" src="http://www.formydokostki.pl/public/java/lightbox.js"></script> -->
+<script type="text/javascript" src="http://www.formydokostki.pl/public/java/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.formydokostki.pl/public/java/jquery-ui-1.7.1.custom.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://www.formydokostki.pl/public/css/default.css" />
+<link rel="stylesheet" type="text/css" href="http://www.formydokostki.pl/public/css/error.css" />
+
+<link rel="stylesheet" type="text/css" href="http://www.formydokostki.pl/public/css2/style.css" />
+
+
+
+</head>
+<body>
+
+
+<div id="black_area_omnie">
+
+<strong>Przepraszamy, ale taka strona nie istnieje w naszym serwisie. </strong>
+</div>
+
+
+
+</body>
+</html>

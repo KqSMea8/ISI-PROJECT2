@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: http://eng-us.aerzen.com/
+Disallow: /content/download/
+Disallow: /var/aerzen/cache/
+Disallow: /var/aerzen/log/
+Disallow: /var/aerzen/storage/images/media/ressources_de/newsletter-standards/signatur-boenick/550124-1-ger-DE/Signatur-Boenick_medium.gif
+Disallow: /var/aerzen/storage/images/media/ressources_de/newsletter-standards/signatur-heller/337280-1-ger-DE/Signatur-Heller_medium.jpg
+Disallow: /var/aerzen/storage/images/media/ressources_de/newsletter-standards/signatur-brand/161134-2-eng-GB/Signatur-Brand_medium.gif
+Disallow: /var/cache/
+Disallow: /var/log/
+Disallow: /Media/
+Disallow: /layout/set/popup/
+Visit-time: 0300-0600

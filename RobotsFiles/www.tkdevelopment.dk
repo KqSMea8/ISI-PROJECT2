@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Files/Papirkurv/
+User-agent: *
+Disallow: /Prospekt_2013_Disclaimer-5484.aspx
+Disallow: /Dokumentoversigt_prospekt_2013-5488.aspx
+Disallow: /Prospectus_disclaimer-5487.aspx
+Disallow: /Document_list_Prospectus_2013-5489.aspx
+Disallow: /Filer/Prospekt2013/
+Disallow: /*?cartcmd=*

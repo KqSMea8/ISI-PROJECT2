@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://songkhoe365.vn/sitemap.xml
+Sitemap: https://songkhoe365.vn/post-sitemap.xml
+Sitemap: https://songkhoe365.vn/page-sitemap.xml
+Sitemap: https://songkhoe365.vn/category-sitemap.xml
+User-agent: AhrefsBot
+Disallow: /
+
+

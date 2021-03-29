@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /main/
+Disallow: /env/
+Disallow: /tr/
+Disallow: /tr_tar_w/
+Disallow: /tr_tar_na/
+Disallow: /tr_bat/
+Disallow: /tr_stre_ap/
+Disallow: /ben/
+Disallow: /dop/
+Disallow: /spm/

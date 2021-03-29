@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /index_links4.htm
+Disallow: /index_Links.htm
+Disallow: /gr/index_Links.htm
+Disallow: /index_links3.htm
+Disallow: /maps/fullmaps/
+Disallow: /reservations/
+Allow: /
+
+

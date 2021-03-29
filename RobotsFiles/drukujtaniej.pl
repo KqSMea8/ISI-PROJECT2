@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Allow:: /layouts
+Allow:: /js/bower_components/blueimp-md5/js
+Allow:: /useruploads/images/drukujtaniej_iwareprint_pl
+Disallow: /autoryzacja/zaloguj
+Disallow: /autoryzacja/zarejestruj
+Disallow: /autoryzacja/przypomnij_haslo
+Disallow: /administracja/a_logowanie
+Disallow: /administracja/
+Disallow: /koszyk
+Disallow: /autoryzacja/zaloguj/koszyk/preorder
+Disallow: /koszyk/preorder/
+Disallow: /koszyk/
+Disallow: /produkty/nomet-produkty
+Disallow: /produkty/etykiety_twg
+Disallow: /produkty/s4_-_numery
+Disallow: /produkty/sts_-_numery
+Disallow: /produkty/apator_-_wizytowki
+Disallow: /produkty/trakt_-_karty_katalogowe
+Disallow: /produkty/numery_startowe_-_gmina_nidzica
+Disallow: /produkty/time_keeper_-_numery
+Disallow: /produkty/apator_control_-_wizytowki
+Disallow: /produkty/dyplomy-interhandler
+Disallow: /produkty/allegro
+Disallow: /produkty/entre_-_numery
+Disallow: /produkty/spina_-_instrukcje
+Disallow: /produkty/chip_timing_-_numery
+Disallow: /produkty/pojedyncze_wydruki
+Sitemap: https://drukujtaniej.pl/sitemap.xml
+
+

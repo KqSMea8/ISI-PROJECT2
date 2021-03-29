@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Disallow: /includes
+Disallow: /js
+Disallow: /page
+Disallow: /skin
+Disallow: /system
+Disallow: /templates
+Disallow: /theme

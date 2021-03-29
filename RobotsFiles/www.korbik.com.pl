@@ -1,0 +1,29 @@
+User-agent: *
+Crawl-delay: 120
+Disallow: /
+
+User-agent: Googlebot
+Crawl-delay: 120
+Allow: /index.html
+Allow: /index.htm
+Allow: /index.php
+Allow: /kategoria-produktu/stroje-liturgiczne/
+Allow: /kategoria-produktu/szaty-komunijne/
+Allow: /kategoria-produktu/dla-pielgrzyma/
+Allow: /kategoria-produktu/bestsellery/
+Allow: /kontakt-2/
+Allow: /kategoria-produktu/szaty-komunijne/alby-komunijne/
+Allow: /kategoria-produktu/szaty-komunijne/alby-komunijne/dziewczynki/sukienki-komunijne/
+Allow: /kategoria-produktu/szaty-komunijne/alby-komunijne/dziewczynki/
+Allow: /kategoria-produktu/stuly/
+Allow: /shop-pl/
+Allow: /kategoria-produktu/stroje-liturgiczne/ornaty/
+Allow: /kategoria-produktu/szaty-komunijne/alby-komunijne/chlopcy/
+Allow: /kategoria-produktu/szaty-komunijne/alby-komunijne/chlopcy/
+Allow: /kategoria-produktu/dla-pielgrzyma/koszulki/
+Allow: /shipping-and-delivery/
+Allow: /kategoria-produktu/bestsellery/
+Allow: /kategoria-produktu/szaty-komunijne/alby-komunijne/page/2/
+Allow: /zamowienia-zbiorowe/
+Allow: /shop-pl/page/4/
+

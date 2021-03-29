@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /a
+Disallow: /dzialy/dzial-mediow-elektronicznych-i-pr.html
+Disallow: /dzialy/dzial-promocji_1.html
+Disallow: /dzialy/dzial-programowy.html
+Disallow: /dzialy/dzial-projektow-zewnetrznych.html
+Disallow: /dzialy/dzial-sieci-informacji-miejskiej.html
+Disallow: /dzialy/dzial-rozliczen-i-kadr.html
+Disallow: /dzialy/departament-prawny.html
+Disallow: /dzialy/dzial-wydawniczy.html
+Disallow: /dzialy/dzial-film-commission.html
+Disallow: /dzialy/samodzielne-stanowiska-ds-centrum-kongresowego-ice-i-inwestycji.html
+Disallow: /blad
+Allow: /

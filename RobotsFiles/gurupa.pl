@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /commerce/baskets
+Disallow: /pages/regulamin
+Disallow: /account/sellers/register
+Disallow: /account/sellers/register
+Disallow: /account/users/login
+Disallow: /account/users/register_buyer
+Disallow: /account/users/register_start
+Disallow: /account/users/remind
+Disallow: /pages/faq_buyer
+Disallow: /platnosci
+Disallow: /commerce/baskets/add_to_wishlist
+Disallow: /commerce/baskets/wishlist

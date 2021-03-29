@@ -1,0 +1,10 @@
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: *
+Disallow:
+
+https://www.visitprague.cz/sitemap.xml
+

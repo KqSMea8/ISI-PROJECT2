@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /v3t/
+Disallow: /admin/
+Disallow: /backgrounds/
+Disallow: /css/
+Disallow: /elements/
+Disallow: /getData/
+Disallow: /includes/
+Disallow: /js/

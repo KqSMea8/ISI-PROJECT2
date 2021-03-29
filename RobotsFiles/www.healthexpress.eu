@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /dk/*
+Allow: /ch/*
+Allow: /de/*
+Allow: /pt/*
+Allow: /se/*
+Allow: /fr/*
+Allow: /fi/*
+Allow: /pl/*
+Allow: /br/*
+
+Sitemap: https://www.healthexpress.eu/dk/sitemap.xml
+Sitemap: https://www.healthexpress.eu/ch/sitemap.xml
+Sitemap: https://www.healthexpress.eu/de/sitemap.xml
+Sitemap: https://www.healthexpress.eu/pt/sitemap.xml
+Sitemap: https://www.healthexpress.eu/se/sitemap.xml
+Sitemap: https://www.healthexpress.eu/fr/sitemap.xml
+Sitemap: https://www.healthexpress.eu/fi/sitemap.xml
+Sitemap: https://www.healthexpress.eu/pl/sitemap.xml
+Sitemap: https://www.healthexpress.eu/br/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: http://www.schrott-duesseldorf.de/c/
+Disallow: http://www.schrott-duesseldorf.de/protected/
+Sitemap: http://www.schrott-duesseldorf.de/sitemap.xml
+

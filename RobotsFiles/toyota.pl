@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /sys/
+Disallow: /_migration/
+Disallow: /_working_area/
+Disallow: /api/
+Disallow: /cpadmin/
+Disallow: /my-toyota/content.json
+Disallow: /my-toyota/countries.json
+Disallow: /my-toyota/languages.json
+Disallow: /my-toyota/nmsc-config.json
+Disallow: /my-toyota/nmsc-config-acc.json
+Disallow: /my-toyota/priority.json
+Disallow: /my-toyota/OR - Checkout.json
+Disallow: /my-toyota/preview-nmsc-config.json
+Disallow: /my-toyota/prev-nmsc-config.json
+Disallow: /my-toyota/uat-nmsc-config.json
+Disallow: /osb/
+Disallow: /sso/
+Disallow: /konfigurator/proace-verso
+Disallow: /konfigurator/proace
+Allow: https://hybrid.sites.toyota.pl/#/pl
+Sitemap: https://www.toyota.pl/sitemap.xml

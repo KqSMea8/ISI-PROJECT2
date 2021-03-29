@@ -1,0 +1,250 @@
+#
+# This was an empty robots.txt file that can be used to indicate to
+# WWW robots which parts of a web site should not be indexed.
+#
+# Following page has details on how to setup a robots.txt file and
+# related security issues:
+#
+#   http://www.chami.com/tips/internet/010198I.html
+#
+
+
+# 1. Uncomment following two lines by removing "#" at the beginning to
+# indicate that all robots should stay away from the /cgi-bin/ folder
+
+User-agent: *
+Disallow: /lists.cgi
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: *
+Disallow: /AATW
+
+User-agent: *
+Disallow: /irc
+
+User-agent: *
+Disallow: /cgi-bin/
+
+#User-agent: *
+#Disallow: /A-Infos95/
+
+#User-agent: *
+#Disallow: /A-Infos95-2/
+
+#User-agent: *
+#Disallow: /A-Infos96/
+
+#User-agent: *
+#Disallow: /A-Infos97/
+
+#User-agent: *
+#Disallow: /98/
+
+#User-agent: *
+#Disallow: /99/
+
+#User-agent: *
+#Disallow: /00/
+
+#User-agent: *
+#Disallow: /usr/local/ainfos/www/01/
+
+#User-agent: *
+# Disallow: /usr/local/ainfos/www/02/
+
+
+User-agent: *
+Disallow: 54.86.175.16
+
+User-agent: *
+Disallow: /honey-pot/
+
+
+User-agent: 178.154.243.118
+Disallow: /
+
+User-agent: 178.154.243.*
+Disallow: /
+
+User-agent: Yandex*
+Disallow: /
+
+
+User-agent: blueice3n1.uk.ibm.com
+Disallow: /
+
+User-agent: *.yandex.net
+Disallow: /
+
+User-agent: wfp2.almaden.ibm.com
+Disallow: /
+
+User-agent: *dotnetdotcom.org
+Disallow: /
+
+User-agent: *.ibm.com
+Disallow: /
+
+User-agent: wfp2.almaden.ibm.com
+Disallow: /
+
+User-agent: *ip.fastwebnet.it
+Disallow: /
+
+User-agent: *atlanet.it
+Disallow: /
+
+User-agent: *.albacom.net
+Disallow: /
+
+User-agent: *.albacom.net
+Disallow: /
+
+User-agent: *.msn.com
+Disallow: /
+
+User-agent: *bezeqint.net
+Disallow: /*.jp
+
+User-agent: *seekbot.net
+Disallow: /
+
+#User-agent: msnbot.msn.com
+#Disallow: /
+
+User-agent: *.eutelia.it
+Disallow: /
+
+User-agent: *.red.bezeqint.net
+Disallow: /
+
+User-agent: *.ikoula.com
+Disallow: /
+
+User-agent: *ask.com
+Disallow: /
+
+User-agent: *rima-tde.net
+Disallow: /
+
+User-agent: rima-tde.net
+Disallow: /
+
+User-agent: stocknewsalert.net
+Disallow: /
+
+User-agent: *stocknewsalert.net
+Disallow: /
+
+# 2. Following two lines indicate that robots named "WWW_Robot_Name"
+# should stay away from this site.
+
+User-agent: cust.tele2.fr
+Disallow: /
+
+User-agent: chello.at
+Disallow: /
+
+User-agent: *chello.nl
+Disallow: /
+
+ser-agent: *upc-a.chello.nl
+Disallow: /
+
+User-agent: *chello.at
+Disallow: /
+
+User-agent: *ptr.primarydns.com
+Disallow: /
+
+User-agent: ptr.primarydns.com
+Disallow: /
+
+User-agent: *primarydns.com
+Disallow: /
+
+User-agent: primarydns.com
+Disallow: /
+
+User-agent: *milnerinternet.com
+Disallow: /
+
+User-agent: milnerinternet.com
+Disallow: /
+
+
+User-agent: *.upc-a.chello.nl
+Disallow: /
+
+User-agent: a43062.upc-a.chello.nl
+Disallow: /
+
+User-agent: chello.fr
+Disallow: /
+
+User-agent: *chello.fr
+Disallow: /
+
+User-agent: chello.nl
+Disallow: /
+
+User-agent: *chello.nl
+Disallow: /
+
+User-agent: *msn.com
+Disallow: /
+
+User-agent: msn.com
+Disallow: /
+
+User-agent: *fastweb.it
+Disallow: /
+
+User-agent: fastweb.it
+Disallow: /
+
+User-agent: fastres.net
+Disallow: /
+
+User-agent: *fastres.net
+Disallow: /
+
+User-agent: a2000.nl
+Disallow: /
+
+User-agent: *a2000.nl
+Disallow: /
+
+User-agent: *cust.tele2.fr
+Disallow: /
+
+User-agent: tele2.fr
+Disallow: /
+
+User-agent: *tele2.fr
+Disallow: /
+
+User-agent: *.tele2.fr
+Disallow: /
+
+# User-agent: WWW_Robot_Name
+# Disallow: /
+
+# User-agent: crawlers.looksmart.com
+# Disallow: /
+
+User-agent: *looksmart.com
+Disallow: /
+
+# User-agent: *.looksmart.com
+# Disallow: /
+
+# 3. Following two lines indicate that robots named "WWW_Wanderer_Name"
+# should not index files in the /private/ folder.
+
+#User-agent: WWW_Wanderer_Name
+#Disallow: /private/
+
+

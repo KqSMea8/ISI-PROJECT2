@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /rd-cms/
+Disallow: /rd-conf/
+Disallow: /rd-counts/
+Disallow: /rd-css/
+Disallow: /rd-download/
+Disallow: /rd-gal/
+Disallow: /rd-imgsys/
+Disallow: /rd-inc/
+Disallow: /rd-js/
+Disallow: /rd-pdf/
+Disallow: /rd-php/
+Disallow: /rd-script/
+Disallow: /rd-swf/

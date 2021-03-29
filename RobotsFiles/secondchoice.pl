@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /login.php
+Disallow: /create_account.php
+Disallow: /shopping_cart.php
+Disallow: /advanced_search_result.php?*
+Disallow: /advanced_search.php
+Disallow: /set_products_filter.php?*
+Disallow: /set_products_filter.php
+Disallow: /index.php?cPath=*&clear=*&sort=*&page=*
+Disallow: /contact_us.php

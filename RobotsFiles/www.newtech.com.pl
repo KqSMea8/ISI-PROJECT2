@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /_mail/
+Disallow: /admin/
+Disallow: /szukaj.html?s=*
+Disallow: /*.pdf$
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=1
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=2
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=3
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=4
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=5
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=6
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=7
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=8
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=9
+Disallow: /produkty/czujniki-obecnosci-detekcji/czujniki-fotoelektryczne/?page=10

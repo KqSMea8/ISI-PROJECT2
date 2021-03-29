@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /auth_secure/
+Disallow: /secure/
+Disallow: /checkout/
+Disallow: /cgv/
+Disallow: /mentions/
+Disallow: /eStore-webMaster/localized/common/catalog/product/fragments/
+Disallow: /store_inventory/pop_stock_available.jsp
+Disallow: /store_inventory/pop_stock_main.jsp
+Disallow: /store_inventory/pop_stock_resultStoreInfo.jsp
+Disallow: /store_inventory/pop_stock_resultStoreSearch.jsp
+Disallow: /store_inventory/pop_stock_unavailable.jsp
+Disallow: /store_inventory/stock_store.jsp
+Disallow: /search/search_results.jsp

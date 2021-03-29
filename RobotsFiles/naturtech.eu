@@ -1,0 +1,6 @@
+Sitemap: http://naturtech.eu/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-admin/
+
+

@@ -1,0 +1,20 @@
+sitemap: /sitemap.xml
+User-Agent: *
+Disallow: viewtopic.php
+Disallow: viewforum.php
+Disallow: index.php?
+Disallow: posting.php
+Disallow: groupcp.php
+Disallow: search.php
+Disallow: login.php
+Disallow: privmsg.php
+Disallow: memberlist.php
+Disallow: profile.php
+Disallow: viewonline.php
+Disallow: notice.php
+Disallow: faq.php
+Disallow: common.php
+Disallow: modcp.php
+Disallow: statistics.php
+Disallow: get_stat.php
+

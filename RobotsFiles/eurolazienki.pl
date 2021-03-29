@@ -1,0 +1,50 @@
+User-agent: *
+Allow: /
+
+Disallow: /?utm_source
+Disallow: /*?utm_source
+Disallow: /szukaj
+Disallow: /koszyk
+Disallow: /artykul/polityka-prywatnosci-1098
+Disallow: /artykul/regulamin-1097
+Disallow: /artykul/regulamin-do-24-12-2014-1101
+
+Disallow: /files/file/atlas-paleta-kolor_w.jpg
+Disallow: /files/file/axor-shower-deszczownica-10942000-karta-produktu.pdf
+Disallow: /files/file/axor-starck-organic-bateria-termostatyczna-12715000-karta-produktu.pdf
+Disallow: /files/file/axor-starck-organic-porter-2626000-karta-produktu.pdf
+Disallow: /files/file/enix-libra-soft-karta-katalogowa.pdf
+Disallow: /files/file/enix-libra-soft-tabelka.JPG
+Disallow: /files/file/heatpol-grza_ki.PNG
+Disallow: /files/file/terma-angus-heban-ar2.jpg
+Disallow: /files/file/terma-cyklon-vertical-tabelka.JPG
+Disallow: /files/file/terma-sherwood-vertical-ral2003.jpg
+Disallow: /files/file/terma-sherwood-vertical-tabelka.jpg
+Disallow: /files/file/terma-tabelka.JPG
+Disallow: /files/file/terma-tune-vertical-ar10.JPG
+Disallow: /files/file/terma-tune-vertical-tabelka.JPG
+Disallow: /kategorie/eurolazienki.pl/kategorie/plytki-3686
+Disallow: /shop/images/294925270689c29c5cfb8e1097dc6cd9.jpg
+Disallow: /shop/images/6afcb96dc2b7e69ce9ed8eabf967d55a.jpg
+Disallow: /shop/images/b5a5dada0f414b91d4ff7cb35c64f380.jpg
+Disallow: /shop/images/bbbcd72effcdfde1999625bd066dd07d.jpg
+Disallow: /shop/images/c4755d84eab37837f447bd8cc4d4cc73.jpg
+Disallow: /shop/images/cb4b09d0ae9f1921029588348293b2d7.jpg
+Disallow: /shop/images/fd1302de06763c2fe5456cb8815d9083.jpg
+Disallow: /shop/images/mini/.jpg
+Disallow: /shop/images/mini/0a803476662ca9f0b17accf54b6103da.jpg
+Disallow: /shop/images/mini/0e7fdde2dd35ccae4d6b4795a806a0ec.jpg
+Disallow: /shop/images/mini/5ed3e1c4b337f285fd2f8b7c1e0bf8d7.jpg
+Disallow: /shop/images/mini/86a99f667814d49dc9e43ec190370e34.jpg
+Disallow: /shop/images/mini/addd0571b4f0f6ef4573fd4c2cdd2126.jpg
+Disallow: /shop/images/mini/c4edca911ca5b202d4d7f0ff6ac4ca80.jpg
+Disallow: /shop/images/mini/d1297c42ce383181a54f3dd72336300a.jpg
+Disallow: /strona/1
+Disallow: /strona/149
+Disallow: /strona/2
+Disallow: /strona/3
+Disallow: /strona/4
+Disallow: /strona/5
+
+Sitemap: https://eurolazienki.pl/sitemap.xml
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /sitecore/
+Sitemap: https://www.kometdental.de/sitemap.ashx
+Sitemap: https://www.kometdental.de/en/sitemap.ashx
+Sitemap: https://www.kometdental.de/es/sitemap.ashx
+Sitemap: https://www.kometdental.de/pl/sitemap.ashx
+Sitemap: https://www.kometdental.de/ru/sitemap.ashx
+Sitemap: https://www.kometdental.de/zh/sitemap.ashx
+Sitemap: https://www.brasseler.de/sitemap.ashx
+Sitemap: https://www.cerafusion.de/sitemap.ashx
+

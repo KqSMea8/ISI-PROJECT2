@@ -1,0 +1,18 @@
+User-agent: googlebot
+Disallow: /*.csi
+
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /ru/
+Disallow: /at/
+Disallow: /draft/
+Disallow: /in-depth/
+Disallow: /maa-nr/
+Disallow: /maa-intro/
+Disallow: /av-talent/
+Disallow: /irma/
+Disallow: /DELETED/
+

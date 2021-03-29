@@ -1,0 +1,15 @@
+User-agent: *
+Crawl-Delay: 5
+Disallow: /offer
+
+User-agent: AhrefsBot
+User-agent: BacklinkCrawler
+User-agent: BLEXBot
+User-agent: DotBot
+User-agent: Linguee
+User-agent: MegaIndex
+User-agent: MJ12bot
+User-agent: SemrushBot
+User-agent: SEOkicks
+Disallow: /
+

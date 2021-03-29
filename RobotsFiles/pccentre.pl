@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /news/show/Battle_Rage_?_polska_produkcja_na_Wii/id=17155
+Disallow: /news/show/Halo_3_?_podwojony_XP_juz_niedlugo/id=17140
+Disallow: /news/show/Nowy_crack_do_Windows_Vista/function.require-once
+Disallow: /news/show/Koniec_marzen_?_Haze_wylacznie_na_PlayStation_3/id=17146
+Disallow: /news/show/Cyfrowe_zabezpieczenia_WD_zakwestionowane/function.mysqli-close
+Disallow: /news/show/Nowe_rekordy_swiata_w_benchmarkach_3DMark01/05/id=15200
+Disallow: /article/show/Core_i5/id=17283
+Disallow: /views/
+Disallow: /cache/
+Disallow: /static/report/Zglos_blad/id=
+Disallow: /static/report/Zglos_blad/id=/*
+Allow: /

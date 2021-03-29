@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: /gen/
+Disallow: /inc/
+Disallow: /obrazki/
+Disallow: /themes/
+Disallow: /wsadek/
+Disallow: /WSADek/
+Disallow: /plik.php
+Disallow: /podobne.php

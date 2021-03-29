@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /cms
+Disallow: /themes
+Disallow: /mysite
+Disallow: /extensions
+Disallow: /silverstripe-cache
+Disallow: /Koszyk
+Disallow: /Zamowienie
+Disallow: /tmp
+Disallow: /Pobierz

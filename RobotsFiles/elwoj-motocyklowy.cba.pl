@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: /nieuzywane/
+Disallow: /archiwum/
+Disallow: /testy/
+Disallow: /zdjecia/
+Disallow: /naglowek0.php
+Disallow: /naglowek1.php
+Disallow: /stopka.php

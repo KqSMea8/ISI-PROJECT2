@@ -1,0 +1,12 @@
+User-agent: Googlebot-Image
+Disallow: /wp-content/uploads/2015/04/Promocje-dla-dystrybutorow.png
+Disallow: /wp-content/uploads/2018/11/BENINCA-promocja-BLACK-WEEK-2018.jpg
+Disallow: /wp-content/uploads/2018/06/AAA.png
+Disallow: /wp-content/uploads/2018/05/promocja-BE.TURBO-page-001.jpg
+Disallow: /wp-content/uploads/2015/04/promocja-blachy-do-BILL-GRATIS-page-001.jpg
+Disallow: /wp-content/uploads/2018/03/promocja_wiosenna_BENINCA-page-001.jpg
+Disallow: /wp-content/uploads/2015/04/Promocja-Ferie-2016-z-Beninca-page-001.jpg
+Disallow: /wp-content/uploads/2015/04/Prom2.png
+Disallow: /wp-content/uploads/2015/04/promocja-Hiszpania-2018-page-001.jpg
+Disallow: /wp-content/uploads/2015/04/Document-page-001.jpg
+Disallow: /wp-content/uploads/2015/04/Wakacje-z-BENINCA-2017.jpg

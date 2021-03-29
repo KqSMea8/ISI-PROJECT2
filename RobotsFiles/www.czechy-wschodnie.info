@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /cz/admin
+Disallow: /stat
+Disallow: /stats
+Disallow: /resource/season.php
+Disallow: /sbt/
+Disallow: /detail-strediska/
+Disallow: /resource/oramuj.php
+Disallow: /resource/gpx.php
+Disallow: /resource/cropresize.php
+Disallow: /kartke/
+Disallow: /polec/
+Disallow: /dodaj-komentarz/
+Disallow: /planista-wycieczek/
+Disallow: /account/
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_en.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_de.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_fr.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_nl.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_pl.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_ru.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_es.xml
+Sitemap: http://www.vychodni-cechy.info/google.sitemap_it.xml
+Sitemap: http://www.vychodni-cechy.info/sitemap.xml
+

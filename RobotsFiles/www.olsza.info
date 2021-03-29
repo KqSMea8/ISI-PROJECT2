@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /pesel/
+Disallow: /lotto/
+Disallow: /szkola/
+Disallow: /mith/
+Disallow: /cgi-bin/
+Allow: /km/
+Allow: /
+Disallow: /kamil/
+Disallow: /test2/
+Disallow: /test/
+User-agent: urlm
+Disallow: /
+

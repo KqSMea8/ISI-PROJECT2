@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cron
+Disallow: /engine
+Disallow: /images
+Disallow: /include
+Disallow: /jscripts
+Disallow: /rss
+Disallow: /storage
+Disallow: /styles

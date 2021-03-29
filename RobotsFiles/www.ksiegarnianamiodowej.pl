@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /adodb/
+Disallow: /configs/
+Disallow: /images/
+Disallow: /img/
+Disallow: /mod/
+Disallow: /lib/
+Disallow: /libs/
+Disallow: /locale/
+Disallow: /nowa__/
+Disallow: /pliki/
+Disallow: /templates/
+Disallow: /templates_c/
+Disallow: /tplimg/

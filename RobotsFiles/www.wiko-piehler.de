@@ -1,0 +1,12 @@
+# robots.txt for http://www.wiko-piehler.de
+
+# file created: 14.10.05
+User-agent: *
+Sitemap: http://www.wiko-piehler.de/en/sitemap.xml
+Sitemap: http://www.wiko-piehler.de/de/sitemap.xml
+Sitemap: http://www.wiko-piehler.de/sitemap_pl.xml
+Sitemap: http://www.wiko-piehler.de/es/sitemap.xml
+Sitemap: http://www.wiko-piehler.de/ru/sitemap.xml
+Disallow: /salomon
+
+# file modified: 25.07.07

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /author/
+Disallow: /h/
+Disallow: /tag/
+Disallow: /clients/
+Disallow: /wydarzenie/
+Disallow: /services/
+Disallow: /bwg_gallery/
+Disallow: /bwg_album/
+Disallow: /employees/
+Disallow: /testimonials/
+Disallow: /rezerwacja/
+Disallow: http://dzieciakiwformie.pl/zajecia/nauka-plywania/basen-hotelu-daisy/rezerwacja/
+Disallow: http://dzieciakiwformie.pl/zajecia/nauka-plywania/basen-towarzystwa-sportowego-wisla/rezerwacja/
+Disallow: http://dzieciakiwformie.pl/zajecia/nauka-plywania/basen-uniwersytetu-pedagogicznego/rezerwacja/
+Disallow: http://dzieciakiwformie.pl/zajecia/nauka-plywania/miedzyszkolny-basen-plywacki/rezerwacja/
+Disallow: http://dzieciakiwformie.pl/zajecia/nauka-plywania/kryta-plywalnia-w-niepolomicach/rezerwacja/
+

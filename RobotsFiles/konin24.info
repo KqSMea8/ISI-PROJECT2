@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /pluginv2/
+Disallow: /plugin/
+Disallow: /maps/
+Sitemap: http://konin24.info/sitemap.php
+Sitemap: http://konin24.info/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://www.rhemabooks.org/main-site.xml
+Sitemap: https://www.rhemabooks.org/bible-study.xml
+Sitemap: https://www.rhemabooks.org/articles.xml

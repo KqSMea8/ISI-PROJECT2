@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /EPiServer/CMS/
+Disallow: /Util/
+Disallow: /about-us/who-we-are/our-clients/
+Disallow: /site-map
+Disallow: /web-terms-of-use/
+Disallow: /gleeds-privacy-policy/
+Disallow: /careers/register/
+Disallow: /careers/sign-in/
+Disallow: /globalassets/careers/anti-slavery-and-human-trafficking-policy-2018.pdf
+Disallow: /globalassets/careers/equal-opportunities-policy-2018.pdf
+Disallow: /news-media/news/london-assembly-calls-for-sprinkler-installation-in-tower-blocks
+Disallow: /news-media/news/new-occupational-health-and-safety-standard-introduced
+Disallow: /news-media/news/off-the-shelf-manual-handling-training-a-waste-of-money-says-the-hse
+Disallow: /news-media/news/latest-hse-data-highlights-large-increase-in-fines
+Disallow: /careers/amris-job-vacancies/
+Disallow: /useful-links/error/

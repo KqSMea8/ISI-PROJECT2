@@ -1,0 +1,4 @@
+Sitemap: http://azsport.pl/sitemap.xml
+
+User-agent: *
+Crawl-Delay: 300

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /komunikaty
+Disallow: /profil
+Disallow: /_files
+Disallow: /error
+Disallow: /_error
+Disallow: /_img
+Disallow: /_js
+Disallow: /_xml
+Disallow: /_xsl
+Disallow: /_script
+Disallow: /_swf

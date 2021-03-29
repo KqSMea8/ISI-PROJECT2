@@ -1,0 +1,13 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /mestsky-urad-uredni-deska/
+Disallow: /mestsky-urad-uredni-deska/rozpocet-a-souvisejici-dokumenty/
+Disallow: /mestsky-urad-uredni-deska/volby-do-zastupitelstev-obci-2018/
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /mestsky-urad-uredni-deska/
+Disallow: /mestsky-urad-uredni-deska/rozpocet-a-souvisejici-dokumenty/
+Disallow: /mestsky-urad-uredni-deska/volby-do-zastupitelstev-obci-2018/
+Sitemap: http://www.jablunkov.cz/sitemap.xml
+

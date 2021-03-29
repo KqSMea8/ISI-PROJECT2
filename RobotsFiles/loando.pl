@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /out/*
+Disallow: /user*
+Disallow: /comments*
+Disallow: *?PageSpeed=noscript
+Disallow: *?adWords
+Disallow: /inne-pozyczki*
+Disallow: /kredyty-gotowkowe*
+Disallow: /bank*
+Disallow: /local-firm*
+Sitemap: https://loando.pl/sitemap

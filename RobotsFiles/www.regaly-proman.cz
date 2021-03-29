@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+#User-agent: *
+#Disallow: /js/
+#Disallow: /forms/
+#Disallow: /jstree/
+#Disallow: /plugins/
+#Disallow: /templates/
+
+Sitemap: http://www.regaly-proman.cz/cs/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/bg/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/de/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/en/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/fr/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/hr/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/hu/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/ja/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/mk/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/pl/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/ro/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/ru/sitemap.xml
+Sitemap: http://www.regaly-proman.cz/sr/sitemap.xml

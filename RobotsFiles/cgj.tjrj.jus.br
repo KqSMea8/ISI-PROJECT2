@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /intrav2/
+Disallow: /consultaProcessoWebV2/
+Disallow: /consultaProcessoNome/
+Disallow: /ConsultaDocGedWeb/
+Disallow: /scripts/
+Disallow: /consultaProcessoWebV2/
+Disallow: /consultaPrecatoriosJudiciais/
+Disallow: /consultaVepWeb/
+Disallow: /consultaConselho/
+Disallow: /consultaProcessoNome/
+Disallow: /abreRtf/
+Disallow: /estilos/
+Disallow: /PRECADPET/faces/
+Disallow: /CamarasWeb/
+Disallow: /gedcacheweb/
+

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /mailing/
+Disallow: /mobile/
+Disallow: /newsletter/
+Disallow: /nowosci/
+Disallow: /katalogi/
+Disallow: /kat/
+Disallow: /pliki/
+Disallow: /nc/en/topmenu/katalogi/?pg*
+Disallow: /nc/topmenu/katalogi/?pg*
+Disallow: /aktualnosci/?tx_ttnews*
+Disallow: /en/newsletter/?tx_ttnews*
+Disallow: /*locationData=57%3Att_content%3A901&*
+Disallow: /en/reduktory/konfigurator/
+Disallow: /reduktory/konfigurator/
+Disallow: /tmp/

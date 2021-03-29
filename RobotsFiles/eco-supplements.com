@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /pl/wp-admin/
+Disallow: /de/wp-admin/
+Disallow: /es/wp-admin/
+Disallow: /pt/wp-admin/
+Disallow: /gr/wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/images/wpspin_light.gif
+Allow: /pl/wp-admin/admin-ajax.php
+Allow: /pl/wp-admin/images/wpspin_light.gif
+Allow: /de/wp-admin/admin-ajax.php
+Allow: /de/wp-admin/images/wpspin_light.gif
+Allow: /es/wp-admin/admin-ajax.php
+Allow: /es/wp-admin/images/wpspin_light.gif
+Allow: /pt/wp-admin/admin-ajax.php
+Allow: /pt/wp-admin/images/wpspin_light.gif
+Allow: /gr/wp-admin/admin-ajax.php
+Allow: /gr/wp-admin/images/wpspin_light.gif
+Sitemap: https://eco-supplements.com/sitemap.xml
+Sitemap: https://eco-supplements.com/pl/sitemap.xml
+Sitemap: https://eco-supplements.com/de/sitemap.xml
+Sitemap: https://eco-supplements.com/es/sitemap.xml
+Sitemap: https://eco-supplements.com/pt/sitemap.xml
+Sitemap: https://eco-supplements.com/gr/sitemap.xml
+

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin
+Disallow: /download
+Disallow: /galerie
+Disallow: /img
+Disallow: /pliki_zrodlowe
+Disallow: /tmp
+Disallow: /config.php
+Disallow: /connect_db.php
+Disallow: /funkcje.php
+Disallow: /lo.php
+Disallow: /platnosci.php
+Disallow: /show.php
+Disallow: /sonda.php
+Disallow: /style.php
+Disallow: /index.php/cPath/31
+disallow: /index.php?d=produkt&id=*
+disallow: /index.php?d=szukaj
+

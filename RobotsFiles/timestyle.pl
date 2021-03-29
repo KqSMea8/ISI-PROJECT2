@@ -1,0 +1,25 @@
+User-agent: *
+allow: /
+Disallow: /user
+Disallow: /basket
+Disallow: /search
+Disallow: /recommend_shop
+Disallow: /newsletter
+Disallow: /webpage/kontakt.html
+Disallow: /webpage/polityka-prywatnosci.html
+Disallow: /webpage/prawo-do-odstapienia-od-umowy.html
+Disallow: /webpage/regulamin.html
+Disallow: /currency
+Disallow: /productsCompare
+Disallow: /product_options
+Disallow: /stNavigationFrontend
+Disallow: /producer
+Disallow: /navigation
+Disallow: /invoice
+Disallow: /order
+Disallow: /orderPdf/*
+Disallow: /invoicePdf/*
+Disallow: /stAvailabilityFrontend/showAddOverlay
+Disallow: /stQuestionFrontend/showAddOverlay
+Disallow: /*.php$
+

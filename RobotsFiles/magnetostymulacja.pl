@@ -1,0 +1,9 @@
+Disallow: /tools/*
+Disallow: /_forms/*
+Disallow: /wellness/*
+Disallow: /wellness/*/*
+Disallow: /form_error.htm
+Disallow: /keywords.htm
+Disallow: /mapa.htm
+Disallow: /notfound.htm
+Disallow: /_thx

@@ -1,0 +1,27 @@
+User-agent: *
+Sitemap: http://www.chcemybycrodzicami.pl/sitemap_index.xml
+Disallow: /ginekolodzy$
+Disallow: /ginekolodzy?*
+Disallow: /ginekolodzy/wojewodztwo*
+Disallow: /kliniki$
+Disallow: /kliniki?*
+Disallow: /kliniki/wojewodztwo*
+Disallow: /osrodki$
+Disallow: /osrodki?*
+Disallow: /osrodki/wojewodztwo*
+Disallow: /slowniczek$
+Disallow: /slowniczek?*
+Disallow: /slowniczek/litera*
+Disallow: /wydarzenia$
+Disallow: /wydarzenia?*
+Disallow: /p/kontakt$
+Disallow: /partnerzy
+Disallow: /regulamin-sklepu
+Disallow: /moje-konto
+Disallow: /partnerzy
+Disallow: /koszyk
+Disallow: /*?s=*
+Disallow: /*?sort=date&order=desc&page=*
+Disallow: /*?page=*
+Disallow: /search/
+

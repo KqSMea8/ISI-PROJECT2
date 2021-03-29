@@ -1,0 +1,14 @@
+
+User-agent: *
+
+Disallow: /becas/
+Disallow: /beta/
+Disallow: /Joomla/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+
+
+Sitemap: http://mastermarketingdigital.org/sitemap.xml
+

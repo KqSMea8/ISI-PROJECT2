@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /rejestracja/
+Disallow: /regulamin/
+Disallow: /demo/
+Disallow: /ciastka/
+Disallow: /logowanie/
+Disallow: /zakup/
+Disallow: /kontakt/
+Disallow: /user_account.php
+Disallow: /user_account_delete.php
+Disallow: /lostpass.php
+Disallow: /help_cookies.php
+Disallow: /user_account_delete.php
+Disallow: /help_tos.php

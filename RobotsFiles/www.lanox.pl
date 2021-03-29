@@ -1,0 +1,105 @@
+User-agent: *
+Disallow: /demo
+Disallow: /jarko-bud
+Disallow: /klient
+Disallow: /serwis2
+Disallow: /dworek
+Disallow: /poczta
+Disallow: /seo
+Disallow: /air
+Disallow: /gfx
+Disallow: /mail
+Disallow: /__MAOSX
+Disallow: /UserFiles
+Disallow: /gabi
+Disallow: /inwentaryzacja
+Disallow: /admin
+Disallow: /kreacja
+Disallow: /images
+Disallow: /as
+
+Disallow: /ibiznes
+Disallow: /taboo
+Disallow: /demo-oe
+Disallow: /dom
+Disallow: /dev
+Allow: /
+Disallow: /aag
+Disallow: /dogin
+Disallow: /serwis
+Disallow: /optymalizacja
+Disallow: /testrcc
+Disallow: /domeny
+Disallow: /pomoc
+Disallow: /test
+Disallow: /carlito
+Disallow: /vick
+Disallow: /editor
+Disallow: /_common
+Disallow: /splash
+
+Disallow: /taboo-sklep
+Disallow: /opera
+Disallow: /realizacje
+Disallow: /anacco
+Disallow: /pia
+Disallow: /hipoteka
+Disallow: /files
+
+Disallow: /cgi-bin
+Disallow: /domains
+Disallow: /crm
+
+User-agent: Googlebot
+Allow: /
+Disallow: /demo
+Disallow: /jarko-bud
+Disallow: /klient
+Disallow: /serwis2
+Disallow: /dworek
+Disallow: /poczta
+Disallow: /seo
+Disallow: /air
+Disallow: /gfx
+Disallow: /mail
+Disallow: /__MAOSX
+Disallow: /UserFiles
+Disallow: /gabi
+Disallow: /inwentaryzacja
+Disallow: /admin
+Disallow: /kreacja
+Disallow: /images
+Disallow: /as
+
+Disallow: /ibiznes
+Disallow: /taboo
+Disallow: /demo-oe
+Disallow: /dom
+Disallow: /dev
+Disallow: /aag
+Disallow: /dogin
+Disallow: /serwis
+Disallow: /optymalizacja
+Disallow: /testrcc
+Disallow: /domeny
+Disallow: /pomoc
+Disallow: /test
+Disallow: /carlito
+Disallow: /vick
+Disallow: /editor
+Disallow: /_common
+Disallow: /splash
+
+Disallow: /taboo-sklep
+Disallow: /opera
+Disallow: /realizacje
+Disallow: /anacco
+Disallow: /pia
+Disallow: /hipoteka
+Disallow: /files
+
+Disallow: /cgi-bin
+Disallow: /domains
+Disallow: /crm
+
+

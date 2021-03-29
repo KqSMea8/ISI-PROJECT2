@@ -1,0 +1,39 @@
+Sitemap: http://www.szkoleniafotowoltaika.pl/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /potwierdzenie-wys322ania-pytania.html
+Disallow: /p322atno347263.html
+Disallow: /promocja.html
+Disallow: /potwierdzenie-zg322oszenia.html
+Disallow: /potwierdzenie-wys322ania-zg322oszenia-z-p322atno347ci261.html
+Disallow: /pro347ba-o-wystawienie-faktury-proforma.html
+Disallow: /http://www.fotowoltaika.edu.pl/o-nas/opinie/
+Disallow: /potwierdzenie-zap322aty--zg322oszenia.html
+Disallow: /rezygnacja-z-p322atno347ci.html
+Disallow: /aktualno347ci.html
+Disallow: /1/
+Disallow: /aktualno347ci/
+Disallow: /aktualno347ci
+Disallow: /p322atno347263-oryg.html
+Disallow: /opinie---blog.html
+Disallow: /2/
+Disallow: /opinie---blog/
+Disallow: /opinie---blog
+Disallow: /reklama.html
+Disallow: /icona.html
+Disallow: /sg-11.html
+Disallow: /temp.html
+Disallow: /sg.html
+Disallow: /sg-12.html
+Disallow: /strona-g322oacutewna-magazyn-fotowol.html
+Disallow: /rezygnacja-z-mailingu.html
+Disallow: /strona-g322oacutewna-reklamy.html
+Disallow: /logo.html
+Disallow: /sg-przeroni281ta.html
+Disallow: /sg-2.html
+

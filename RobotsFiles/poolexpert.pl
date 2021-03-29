@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /wyniki-wyszukiwania/
+Disallow: /pl/wyniki-wyszukiwania/
+Disallow: /polityka-cookies/
+Disallow: /pl/polityka-cookies/
+Disallow: /baseny-prywatne/technika-basenowa/ogrzewanie-wody/czesci-i-akcesoria/
+Disallow: /pl/baseny-prywatne/technika-basenowa/ogrzewanie-wody/czesci-i-akcesoria/
+Disallow: /nowosci/
+Disallow: /pl/nowosci/
+Disallow: /proforma/
+Disallow: /pl/proforma/
+Sitemap: https://www.klubben.pl/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*?utm*
+Disallow: /pl/shop/cart/
+Disallow: /en/shop/cart/
+Disallow: /en/customers/signin/
+Disallow: /pl/customers/signin/
+Disallow: /pl/customers/register/
+Disallow: /en/customers/register/
+
+Host: https://polbox.tv
+Sitemap: https://polbox.tv/sitemap.xml
+

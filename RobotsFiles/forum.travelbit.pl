@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /forum2/
+Disallow: /forum/viewtopic.php
+Disallow: /forum/viewforum.php
+Disallow: /forum/index.php?
+Disallow: /forum/posting.php
+Disallow: /forum/search.php?
+Disallow: /forum/ucp.php
+Disallow: /forum/mcp.php
+Disallow: /forum/post

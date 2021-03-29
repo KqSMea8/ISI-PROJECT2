@@ -1,0 +1,22 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+User-agent: *
+Disallow: /checkouts
+Disallow: /orders
+Disallow: /countries
+Disallow: /line_items
+Disallow: /password_resets
+Disallow: /states
+Disallow: /user_sessions
+Disallow: /users
+Disallow: /cart
+Disallow: /login
+Disallow: /contact
+Disallow: /regulamin*
+Disallow: /polityka-prywatnosci
+
+Sitemap: http://www.mamaplus.pl/sitemap_index.xml.gz
+

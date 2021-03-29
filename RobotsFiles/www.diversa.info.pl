@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /zasoby/
+Disallow: /admin/
+Disallow: /import/
+Disallow: /xajax/
+Disallow: /umkimport/
+Disallow: /tmp/
+Disallow: /pear/
+Disallow: /includes/
+Disallow: /libs/
+Disallow: /templates/
+Disallow: /tinymcpuk/

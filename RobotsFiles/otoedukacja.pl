@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /core/
+Disallow: /js/
+Disallow: /library/
+Disallow: /zaloguj.html
+Disallow: /przypomnij_haslo.html
+Disallow: /panel_klienta/
+Sitemap: http://otoedukacja.pl/sitemap.xml

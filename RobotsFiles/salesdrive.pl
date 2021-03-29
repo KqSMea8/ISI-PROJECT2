@@ -1,0 +1,15 @@
+Disallow: /tseny/
+Disallow: /otkd/
+Disallow: /author/
+Disallow: /category/
+Disallow: /feedback/
+Disallow: /direction/
+Disallow: /media_category/
+Disallow: /h2/
+Disallow: /h3/
+Disallow: /h4/
+Disallow: /h5/
+Disallow: /features/reports-old/
+Disallow: /webinar/vebinar-rabota-s-easysurf/
+Disallow: /webinar/individualnaya-prezentatsiya-sistemy-on-lajn/
+Disallow: /?utm_expid

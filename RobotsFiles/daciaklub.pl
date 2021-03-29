@@ -1,0 +1,29 @@
+#
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /kratylos/
+Disallow: /marcin/
+Disallow: /user/
+Disallow: /forum/admin/
+Disallow: /forum/album-mod/
+Disallow: /forum/attach-mod/
+Disallow: /forum/db/
+Disallow: /forum/dbloader/
+Disallow: /forum/cgi-bin/
+Disallow: /forum/includes/
+Disallow: /forum/language/
+Disallow: /forum/pafiledb/
+Disallow: /forum/scripts/
+Disallow: /forum/stat_modules/
+Disallow: /forum/templates/
+Disallow: /forum/tmp/
+Disallow: /forum/xs_mod/
+Disallow: /forum/viewtopic.php?t=17216
+Disallow: http://www.daciaklub.pl/forum/viewtopic.php?t=17216
+Disallow: /forum/viewtopic.php?t=8791
+Disallow: http://www.daciaklub.pl/forum/viewtopic.php?t=8791
+Disallow: /forum/viewtopic.php?t=5686
+Disallow: http://www.daciaklub.pl/forum/viewtopic.php?t=5686
+Disallow: /forum/viewtopic.php?t=13397
+Disallow: http://www.daciaklub.pl/forum/viewtopic.php?t=13397
+

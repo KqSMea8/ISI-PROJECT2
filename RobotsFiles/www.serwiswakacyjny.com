@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /administracja/
+Disallow: /config/
+Disallow: /cron/
+Disallow: /doc/
+Disallow: /import_terminow/
+Disallow: /lib/
+Disallow: /mpdf/
+Disallow: /rejestracja/
+Disallow: /*pdf
+Disallow: /*strona=rez&oferta*
+Disallow: /szukaj*
+Disallow: /*drukuj*

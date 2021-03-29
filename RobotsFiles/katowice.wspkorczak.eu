@@ -1,0 +1,52 @@
+# If the Joomla site is installed within a folder such as at
+# e.g. www.example.com/joomla/ the robots.txt file MUST be
+# moved to the site root at e.g. www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to the disallowed
+# path, e.g. the Disallow rule for the /administrator/ folder
+# MUST be changed to read Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+
+User-agent: Googlebot
+Allow: /templates/rox_right/css/
+Allow: /modules/mod_bt_contentslider/tmpl/css/
+Allow: /media/jui/js/
+Allow: /templates/rox_right/js/
+Allow: /modules/mod_bt_contentslider/tmpl/js/
+Allow: /images/
+Allow: /images/filmoteka_logo.jpg
+Allow: /images/banners/
+Allow: https://maps.googleapis.com/
+Allow: /images/partnerzy_loga/
+Allow: /modules/mod_customizable_social_media_icon_links_sidebar/assets/
+Allow: /templates/rox_right/images/
+Allow: /modules/mod_a4w_infociacho/tmpl/images/
+Allow: /modules/mod_a4w_infociacho/tmpl/css/tenorsans/
+Allow: /modules/mod_a4w_infociacho/tmpl/css/
+Allow: https://www.google.com/maps/
+Allow: /media/com_uniterevolution2/assets/rs-plugin/assets/
+Allow: https://maps.googleapis.com/maps-api-v3/api/js/24/1/
+Allow: https://www.google.com/maps/
+Allow: https://maps.googleapis.com/maps-api-v3/api/js/24/3/
+

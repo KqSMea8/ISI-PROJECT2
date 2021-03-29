@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Disallow: /en/cookies-policy/
+Disallow: /szablony/mddp/
+Disallow: /aktualnosci-baner/
+Disallow: /newsletter/
+Disallow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /*.css$
+Allow: /*.jpg$
+User-agent: Fasterfox
+Disallow: /

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /app/
+Disallow: /ms/
+Disallow: /api/
+Disallow: /cf/
+Disallow: /dynamic/ads/
+Disallow: /google/
+Disallow: /settings/
+Disallow: /salesforce/
+Disallow: /fb/
+Disallow: /facebook/
+Disallow: /file/
+Disallow: /account/
+Disallow: /rd.htm
+Disallow: /redir.htm
+Disallow: /contact.htm
+Disallow: /registerAccount.htm
+Disallow: /email/
+

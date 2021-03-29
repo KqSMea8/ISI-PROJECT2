@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /forgetpassword
+Disallow: /authentication/activate/
+Disallow: /signup/setpassword/
+Disallow: /signup/profile
+Disallow: /signup/goto
+Disallow: /searchproducts
+Disallow: /signup/afterlogingoto
+Disallow: /sendmessage
+Disallow: /compare
+Disallow: /signincallback
+Disallow: /admin
+Disallow: /mycompany
+Disallow: /preview
+Disallow: /profile
+Disallow: /message
+Disallow: /searchcompanies
+Disallow: /searchproducts
+Disallow: /profilemessage/inbox
+Disallow: /en/profilemessage/inbox
+Sitemap: http://www.ecasb.com/sitemap.xml
+

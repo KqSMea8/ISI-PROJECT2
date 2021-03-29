@@ -1,0 +1,2 @@
+user-agent: *
+Disallow: /Projekt/

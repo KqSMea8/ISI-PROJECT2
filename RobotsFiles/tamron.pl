@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/dealer_staff/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Allow: /typo3conf/ext/tamron_fluidpages/Resources/Public/*
+Sitemap: https://www.tamron.eu/uploads/tx_metaseo/sitemap_xml/index-r1.xml.gz

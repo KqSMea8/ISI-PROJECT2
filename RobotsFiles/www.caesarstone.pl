@@ -1,0 +1,4 @@
+# robots.txt for Umbraco
+User-agent: *
+Disallow: /
+

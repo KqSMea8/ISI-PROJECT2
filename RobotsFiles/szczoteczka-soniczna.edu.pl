@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /regulamin/
+Disallow: /polityka-prywatnosci/
+Disallow: /dostawa-i-platnosci/
+Disallow: /gwarancja-i-reklamacje/
+Disallow: /kontakt/
+Disallow: /sklep/koszyk/
+Disallow: /sklep/moje-konto/
+Disallow: /sklep/zamowienie/

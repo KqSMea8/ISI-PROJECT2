@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Blad krytyczny!</title>
+<meta http-equiv="Content-type" content="application/xhtml+xml; charset=utf-8" />
+</head>
+<body>
+<strong>Wystapil blad:</strong>
+<br />
+Wystapil blad!<br /><strong>Informacje dodatkowe:</strong><br />e_warning=2 num=2 msg=mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'vive_grnew'@'localhost'. Account is locked. line=14 file=/home/gramyrazem/public_html/_libs/Db.class.php
+</body>
+</html>
+

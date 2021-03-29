@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /?p=
+Disallow: /%22http:/
+Disallow: /comments/
+Disallow: /feed/
+Disallow: /strona-glowna.html/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /xmlrpc.php?rsd
+Disallow: /2016/

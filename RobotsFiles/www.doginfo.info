@@ -1,0 +1,39 @@
+
+User-agent: Yandex
+Disallow: /account_user/
+Disallow: /for_tests/
+Disallow: /myaccount.php
+Disallow: /myaccount2.php
+Disallow: /userdata.php
+Disallow: /userdata2.php
+Disallow: /dog.php
+Host: www.doginfo.info
+
+User-agent: Googlebot
+Disallow: /account_user/
+Disallow: /for_tests/
+Disallow: /myaccount.php
+Disallow: /myaccount2.php
+Disallow: /userdata.php
+Disallow: /userdata2.php
+Disallow: /dog.php
+
+User-agent: StackRambler
+Disallow: /account_user/
+Disallow: /for_tests/
+Disallow: /myaccount.php
+Disallow: /myaccount2.php
+Disallow: /userdata.php
+Disallow: /userdata2.php
+Disallow: /dog.php
+
+User-agent: *
+Disallow: /account_user/
+Disallow: /for_tests/
+Disallow: /myaccount.php
+Disallow: /myaccount2.php
+Disallow: /userdata.php
+Disallow: /userdata2.php
+Disallow: /dog.php
+
+Sitemap: http://www.doginfo.info/sitemap.xml

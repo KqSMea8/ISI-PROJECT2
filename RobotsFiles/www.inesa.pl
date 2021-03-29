@@ -1,0 +1,27 @@
+Sitemap: http://www.inesa.pl/index.php?option=com_xmap&sitemap=1&view=xml
+User-agent: *
+Disallow: /administrator/
+Disallow: /aktual/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /eserwis/
+Disallow: /html/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /inesa/
+Disallow: /instalki/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /pdf/
+Disallow: /php/
+Disallow: /pliki/
+Disallow: /plugins/
+Disallow: /prezentacja/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+

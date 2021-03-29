@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /eu/en
+Disallow: /apps
+Disallow: /bin
+Disallow: /conf
+Disallow: /etc
+Disallow: /home
+Disallow: /libs
+Disallow: /system
+Disallow: /temp
+Disallow: /var
+Noindex: /eu/en
+Noindex: /apps
+Noindex: /bin
+Noindex: /conf
+Noindex: /etc
+Noindex: /home
+Noindex: /libs
+Noindex: /system
+Noindex: /temp
+Noindex: /var
+Sitemap: https://www.yamaha-motor.eu/eu/en/sitemap.xmlSitemap: https://www.yamaha-motor.eu/at/de/sitemap.xmlSitemap: https://www.yamaha-motor.eu/baltic/en/sitemap.xmlSitemap: https://www.yamaha-motor.eu/be/fr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/ba/bs/sitemap.xmlSitemap: https://www.yamaha-motor.eu/bg/bg/sitemap.xmlSitemap: https://www.yamaha-motor.eu/hr/hr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/cy/en/sitemap.xmlSitemap: https://www.yamaha-motor.eu/cz/cs/sitemap.xmlSitemap: https://www.yamaha-motor.eu/dk/da/sitemap.xmlSitemap: https://www.yamaha-motor.eu/fi/fi/sitemap.xmlSitemap: https://www.yamaha-motor.eu/fr/fr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/de/de/sitemap.xmlSitemap: https://www.yamaha-motor.eu/gr/el/sitemap.xmlSitemap: https://www.yamaha-motor.eu/hu/hu/sitemap.xmlSitemap: https://www.yamaha-motor.eu/ie/en/sitemap.xmlSitemap: https://www.yamaha-motor.eu/it/it/sitemap.xmlSitemap: https://www.yamaha-motor.eu/il/he/sitemap.xmlSitemap: https://www.yamaha-motor.eu/kv/kv/sitemap.xmlSitemap: https://www.yamaha-motor.eu/mk/mk/sitemap.xmlSitemap: https://www.yamaha-motor.eu/me/sr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/nl/nl/sitemap.xmlSitemap: https://www.yamaha-motor.eu/no/nb/sitemap.xmlSitemap: https://www.yamaha-motor.eu/pl/pl/sitemap.xmlSitemap: https://www.yamaha-motor.eu/pt/pt/sitemap.xmlSitemap: https://www.yamaha-motor.eu/rs/sr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/sk/sk/sitemap.xmlSitemap: https://www.yamaha-motor.eu/si/sl/sitemap.xmlSitemap: https://www.yamaha-motor.eu/ch/fr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/ro/ro/sitemap.xmlSitemap: https://www.yamaha-motor.eu/es/es/sitemap.xmlSitemap: https://www.yamaha-motor.eu/se/sv/sitemap.xmlSitemap: https://www.yamaha-motor.eu/tr/tr/sitemap.xmlSitemap: https://www.yamaha-motor.eu/ua/uk/sitemap.xmlSitemap: https://www.yamaha-motor.eu/gb/en/sitemap.xml

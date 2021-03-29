@@ -1,0 +1,20 @@
+User-Agent: *
+Disallow: /auth/*
+Disallow: /personal/*
+Disallow: /registration/*
+Disallow: /search/*
+Disallow: /test/*
+Disallow: */index.php*
+Disallow: /bitrix/*
+Disallow: /wcard/*
+Disallow: /payment/payed/*
+Disallow: /payment/payed/?orderid=*
+Disallow: *?type=
+Disallow: /*?action=BUY&id=*
+Disallow: /*?action=BUY&*&id=*
+Disallow: *?action=ADD2BASKET&id=*
+Disallow: *?id=*&action=BUY*
+Disallow: /*?id=*&action=ADD2BASKET*
+Host: rose-hip.pl
+Sitemap: https://rose-hip.pl/sitemap.xml
+

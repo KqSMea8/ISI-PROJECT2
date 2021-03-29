@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+#Disallow: /modules/
+#Disallow: /plugins/
+Disallow: /tmp/
+
+Sitemap: https://www.laserworld.pl/map/sitemap_poland.xml
+Sitemap: https://www.laserworld.pl/map/sitemap_images_poland.xml
+Sitemap: https://www.laserworld.pl/map/sitemap_video_poland.xml

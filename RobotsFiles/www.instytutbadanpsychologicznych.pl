@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+User-Agent: AhrefsBot
+Disallow: /mobile/
+User-agent: rogerbot
+Disallow: /mobile/
+User-agent: MJ12bot
+Disallow: /mobile/
+Disallow: /images/site/niepubliczn_poradnia_psychologiczna11.png
+
+Sitemap: http://www.instytutbadanpsychologicznych.pl/sitemap.xml

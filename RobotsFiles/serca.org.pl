@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /gaz/
+Disallow: /gazeta/
+Disallow: /gal/
+Disallow: /doc/
+Disallow: /dok/
+Disallow: /fot/
+Disallow: /imprezy/
+Disallow: /sprawozdania/
+Disallow: /download/

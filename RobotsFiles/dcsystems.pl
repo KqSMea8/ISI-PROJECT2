@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /video
+Disallow: /zarzadzanie
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /video/
+Disallow: /zarzadzanie/

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: *.js
+Disallow: /ramka/*
+Disallow: /szukaj.html?
+Disallow: %3Fp%3D*
+

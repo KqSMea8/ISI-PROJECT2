@@ -1,0 +1,36 @@
+User-agent: *
+Crawl-delay: 5
+Sitemap: http://spolecznosc.ingbank.pl/sitemap.xml
+Disallow: /-/forums/forumtopicprintpage
+Disallow: /-/ideas/ideaprintpage
+Disallow: /-/blogs/blogarticleprintpage
+Disallow: /-/tkb/allarticlesprintpage
+Disallow: /-/tkb/articleprintpage
+Disallow: /-/help/faqpage
+Disallow: /yvjhh92749/rss
+Disallow: /-/forums/usersonlinepage
+Disallow: /-/forums/recentpostspage
+Disallow: /*?t:ac=
+Disallow: /*&t:ac=
+Disallow: /-/util/componentrenderpage
+Disallow: /*:lightboxrendercomponent?
+Disallow: /*:lightboxrendercomponent&
+Disallow: /*:lightboxrendercomponent/
+Disallow: /*?ticket=
+Disallow: /*&ticket=
+Disallow: /-/tkb/articlehistorypage
+Disallow: /-/forums/replypage
+Disallow: /-/forums/postpage
+Disallow: /-/notes/composepage
+Disallow: /-/notes/privatenotespage/tab/compose
+Disallow: /-/notes/v1_1/privatenotespage/tab/compose
+Disallow: /-/notifications/notifymoderatorpage
+Disallow: /*nobounce
+Disallow: /auth/
+Disallow: /plugins/common/feature/oauth/
+Disallow: /plugins/common/feature/oauth2sso/
+Disallow: /plugins/common/feature/saml/
+Disallow: /plugins/common/feature/openidconnectsso/
+Disallow: /plugins/common/feature/openidsso/
+
+

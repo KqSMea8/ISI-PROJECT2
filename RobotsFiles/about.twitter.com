@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+User-agent: QuerySeekerSpider ( http://queryseeker.com/bot.html )
+Disallow: /
+

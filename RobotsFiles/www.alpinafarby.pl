@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /media/
+Disallow: /maintenance/
+Disallow: /nc/
+Sitemap: https://www.alpinafarby.pl/?id=246

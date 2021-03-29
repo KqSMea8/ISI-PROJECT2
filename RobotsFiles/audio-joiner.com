@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /download_iframe/
+Disallow: /swf/
+Disallow: /cn/help/how_to_merge_mp3
+Disallow: /cn/legal
+Disallow: /de/legal
+Disallow: /es/legal
+Disallow: /fr/legal
+Disallow: /id/help/how_to_merge_mp3
+Disallow: /id/legal
+Disallow: /it/legal
+Disallow: /ja/help/how_to_merge_mp3
+Disallow: /ja/legal
+Disallow: /ko/help/how_to_merge_mp3
+Disallow: /ko/legal
+Disallow: /pl/legal
+Disallow: /pt/legal
+Disallow: /th/help/how_to_merge_mp3
+Disallow: /th/legal
+Disallow: /tr/legal
+Disallow: /tw/help/how_to_merge_mp3
+Disallow: /tw/legal
+Disallow: /vi/help/how_to_merge_mp3
+Disallow: /vi/legal
+

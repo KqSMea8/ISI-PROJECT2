@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /                                      # Allow bot to enter
+#Disallow: /fileadmin/notimportant/           # Exclude only folders with no
+# link from frontend, like
+# templates, css, js.
+Disallow: /t3lib/                             # Nothing to see here
+Disallow: /typo3/                             # Nothing to see here
+Disallow: /typo3_src/                         # Nothing to see here
+Disallow: /*?id=*                             # Disable non-realurl
+Disallow: /*&type=98                          # Disable print pages
+Disallow: /*?type=1488977975                  # Disable contact-pages
+Disallow: /*?tx_indexedsearch
+
+Sitemap: https://www.stockmeier.com/en/sitemap.xml   # Your Sitemap
+Sitemap: https://www.stockmeier.com/de/sitemap.xml   # Your Sitemap
+

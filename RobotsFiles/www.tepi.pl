@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /order*
+Disallow: /my-account
+Disallow: /cart*
+Disallow: *orderby*
+Disallow: /authentication*
+Disallow: /password-recovery
+Disallow: *?n=*
+Disallow: *search*

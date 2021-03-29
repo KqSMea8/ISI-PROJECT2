@@ -1,0 +1,253 @@
+<!DOCTYPE HTML>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>error404</title><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta name="GENERATOR" content="BLUEPAGE-CMS V3.11.0">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="format-detection" content="telephone=no">
+<base href="https://www.g-h-t.de/">
+<script type="text/javascript" src="//use.typekit.net/ujv6uki.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="img/icon/favicon.ico">
+<link rel="icon" type="image/x-icon" href="img/icon/favicon.ico">
+<link rel="icon" type="image/gif" href="img/icon/favicon.gif">
+<link rel="icon" type="image/png" href="img/icon/favicon.png">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-57x57.png" sizes="57x57">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-60x60.png" sizes="60x60">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-72x72.png" sizes="72x72">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-76x76.png" sizes="76x76">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-114x114.png" sizes="114x114">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-120x120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-128x128.png" sizes="128x128">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-144x144.png" sizes="144x144">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-152x152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="apple-touch-icon" href="img/icon/apple-touch-icon-precomposed.png">
+<link rel="icon" type="image/png" href="img/icon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="img/icon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="img/icon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="img/icon/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="img/icon/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="img/icon/favicon-196x196.png" sizes="196x196">
+<meta name="msapplication-TileImage" content="img/icon/win8-tile-144x144.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-navbutton-color" content="#ffffff">
+<meta name="msapplication-square70x70logo" content="img/icon/win8-tile-70x70.png">
+<meta name="msapplication-square144x144logo" content="img/icon/win8-tile-144x144.png">
+<meta name="msapplication-square150x150logo" content="img/icon/win8-tile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="img/icon/win8-tile-310x150.png">
+<meta name="msapplication-square310x310logo" content="img/icon/win8-tile-310x310.png">
+<link type="text/css" rel="stylesheet" title="default" media="screen,projection" href="https://www.g-h-t.de/css/standard.css">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+<link rel="stylesheet" type="text/css" href="https://www.g-h-t.de/css/desktop.css" media="only screen and (min-width:769px)">
+<link rel="stylesheet" type="text/css" href="https://www.g-h-t.de/css/tablet.css" media="only screen and (max-width:769px)">
+<link rel="stylesheet" type="text/css" href="https://www.g-h-t.de/css/mobile.css" media="only screen and (max-width:399px)">
+<link type="text/css" rel="stylesheet" media="print" href="https://www.g-h-t.de/css/print.css">
+<script type="text/javascript">
+var wwwUrl       = 'https://www.g-h-t.de/';
+var wwwUrlAktiv  = 'https://www.g-h-t.de/de/Error404/';
+var wwwUrlSpielplan  = 'https://www.g-h-t.de/de/Spielplan/';
+var lang         = 'de';
+var mp           = '1105';
+var wArray       = '0.11.110.1105';
+var noPLZ      = 1;
+</script>
+<script src="https://www.g-h-t.de/js/jquery-1.11.2.min.js"></script>
+<script src="https://www.g-h-t.de/js/jquery.scrollTo.min.js"></script>
+<script src="https://www.g-h-t.de/js/inc.responsive.js"></script>
+<script src="https://www.g-h-t.de/js/inc.bluepage.js"></script>
+<script src="https://www.g-h-t.de/js/inc.addon.js"></script>
+<script src="https://www.g-h-t.de/js/jquery.bxslider.min.js" type="text/javascript"></script>
+</head>
+<body id="bluepageBody" class="bluepageBody" lang="de">
+<div id="LightboxBackground"></div>
+<div id="LightboxWindowWrapper"><div id="LightboxWindow"></div></div>
+<div id="bluepageTheaWrapper"><div id="bluepageThea"></div></div>
+<div id="bluepageVKMail"></div>
+<noscript><div id="checkbrowser_js" class="checkbrowser"><div><span class="checkbrowser_content"><img src="img/sys/browsercheck/no_javascript.gif" alt='' height="20" width="20" class="checkbrowser_content_img"><span>[b]JavaScript deaktiviert![/b] Leider ist bei Ihrem Internet-Programm (Browser) kein JavaScript aktiviert. Dies ist aber fur die vollstandige Nutzung der gerade von Ihnen angewahlten Seite notwendig.</span></span></div></div></noscript>
+<script type="text/javascript">createCookie('NoJS','accept',0)</script><div id="bluepageResponsive"><div><img id="ResponsiveHelper" src="img/layout/responsive.png" width="100%" height="1" border="0" alt="0"></div></div><div class="tabletonly"></div><div class="mobileonly"></div><div id="bluepageMobilNavPanel" class="flex"><a href="javascript:void(0);" id="bluepageMobilNavClose"><span>MENU SCHLIESSEN</span></a>
+<div id="bluepageMobilNav"></div><div id="bluepageMobilLang"></div><div id="bluepageMobilKalender"></div><div id="bluepageMobilSearch"></div><div id="bluepageHeadSearchBox"><form method="get" action="de/Suche/" name="headsearch" id="headsearch" onsubmit="if (this.search.value=='') return false;">
+<input type="hidden" name="lg" value="de">
+
+<input type="text" id="bluepagHeadSearchInput" name="search" data-id="qsearch" value='' placeholder='Suchbegriff'>
+
+<button type="submit" value="Suche" name="suche" class="bluepageHeadSearchButton" title="Suche">&nbsp;</button>
+</form>
+</div></div><div id="bluepageContainer" class="flex">
+<div id="bluepageHeadBG"><div><i></i></div></div>
+<div id="bluepageBG" class=""><div></div></div>
+<div id="bluepageHeadSpace"><div></div></div>
+<div id="bluepageHead"><div id="bluepageHeadContent"><a href="de/" class="bluepageHeadLogo"><img src="img/layout/ght.svg" border="0" alt='Gerhart-Hauptmann-Theater Gorlitz-Zittau'></a>
+<div id="MobileBtnBar">
+<a href="javascript:void(0);" id="btnMobileMenu"><span>Navigation</span></a>
+<i></i><i></i><a href="de/Suche/" id="btnMobileSearch" title='Suche'><span>Kontakt</span></a>
+</div><div id="bluepageHeadSubNav"><div id="bluepage_lgnav"><div class="lang"><ul><li><a class="lgnav hover" href="de/Error404/" title=""><img src="img/lang/de.aktiv.svg" width="25" height="15" border="0" alt=''><i>Deutsch</i></a></li><li><a class="lgnav hover" href="pl/Error404/" title=""><img src="img/lang/pl.svg" width="25" height="15" border="0" alt=''><i></i></a></li></ul></div></div><div id="bluepageSubNav"><ul class="ul_SubNav"><li class="subNav"><a class="subNav" href="de/Newsletter/" title='Newsletter'><span>Newsletter</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/IMPRESSUM/" title='Impressum'><span>Impressum</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/AGB/" title='AGB'><span>AGB</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/Datenschutz/" title='Datenschutz'><span>Datenschutz</span></a></li><li class="spacer mobilenone tabletnone"><i>|</i></li>
+<li class="subNav mobilenone tabletnone"><a class="subNav" href="de/Suche/" title='Suche'><span>Suche</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/Mitarbeiter-Login_2/" title='Mitarbeiter-Login'><span>Mitarbeiter-Login</span></a></li></ul></div></div><div id="bluepageHeadNavContainer"><div id="bluepageHeadNav"><ul class="navUL_1" id="ul111"><li id="li1111" class="navLI_1"><a onclick="" class="nav1 hover" href="de/Startseite/"><span>Startseite</span></a></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li100011" class="navLI_1 navSub"><a onclick="" class="nav1 navSub hover" href="de/Spielplan/"><em></em><span>Spielplan</span></a><ul class="navUL_2" id="ul100011"><li id="li100457" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Gesamtes-Repertoire/"><span>Gesamtes Repertoire </span></a></li>
+<li id="li100355" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Premierenuebersicht/"><span>Premierenubersicht</span></a></li>
+<li id="li100017" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Schauspiel/"><span>Schauspiel</span></a></li>
+<li id="li100018" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Musiktheater/"><span>Musiktheater</span></a></li>
+<li id="li100019" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Tanz/"><span>Tanz</span></a></li>
+<li id="li100573" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Konzerte/"><em></em><span>Konzerte</span></a><ul class="navUL_3" id="ul100573"><li id="li100575" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Philharmonische-Konzerte/"><span>Philharmonische Konzerte</span></a></li>
+<li id="li100609" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Unterhaltungskonzerte/"><span>Unterhaltungskonzerte</span></a></li>
+<li id="li100577" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Junge-Konzerte/"><span>Junge Konzerte</span></a></li>
+<li id="li100579" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Kammer-Sonder-Sommerkonzerte/"><span>Kammer-, Sonder- & Sommerkonzerte</span></a></li>
+<li id="li100581" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Alle-Konzerte-im-Ueberblick/"><span>Alle Konzerte im Uberblick</span></a></li>
+</ul></li>
+<li id="li100413" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Sommertheater-2019/"><em></em><span>Sommertheater 2019</span></a><ul class="navUL_3" id="ul100413"><li id="li100603" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Klosterhof-Zittau-/"><span>Klosterhof Zittau</span></a></li>
+<li id="li100601" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Stadthallengarten-Goerlitz-/"><span>Stadthallengarten Gorlitz</span></a></li>
+<li id="li100599" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Waldbuehne-Jonsdorf/"><span>Waldbuhne Jonsdorf</span></a></li>
+</ul></li>
+<li id="li100495" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Schueler-und-Studententage/"><span>Schuler- und Studententage</span></a></li>
+<li id="li100375" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Gastspiele/"><span>Gastspiele</span></a></li>
+<li id="li100353" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Apollo/"><span>Apollo</span></a></li>
+<li id="li100383" class="navLI_2 end"><a onclick="" class="nav2 hover" href="de/Wir-unterwegs/"><span>Wir unterwegs</span></a></li>
+</ul></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li100012" class="navLI_1 navSub"><a onclick="" class="nav1 navSub hover" href="de/Ueber-uns/"><em></em><span>Uber uns</span></a><ul class="navUL_2" id="ul100012"><li id="li100026" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Ensemble-Mitarbeiter/"><em></em><span>Ensemble & Mitarbeiter</span></a><ul class="navUL_3" id="ul100026"><li id="li100359" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Geschaeftsfuehrung-Leitung/"><span>Geschaftsfuhrung & Leitung</span></a></li>
+<li id="li100419" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Musikalische-Leitung/"><span>Musikalische Leitung</span></a></li>
+<li id="li100361" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Ensemble-Musiktheater/"><span>Ensemble Musiktheater</span></a></li>
+<li id="li100357" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Ensemble-Schauspiel/"><span>Ensemble Schauspiel</span></a></li>
+<li id="li100363" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Ensemble-Tanz/"><span>Ensemble Tanz</span></a></li>
+<li id="li100365" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Neue-Lausitzer-Philharmonie-NLP/"><span>Neue Lausitzer Philharmonie (NLP)</span></a></li>
+<li id="li100367" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Opernchor/"><span>Opernchor</span></a></li>
+<li id="li100421" class="navLI_3"><a onclick="" class="nav3 hover" href="de/MarketingOeffentlichkeitsarbeit-amp-Kuenstl.-Betriebsbuero-KBB/"><span>Marketing/Offentlichkeitsarbeit &amp; Kunstl. Betriebsburo (KBB)</span></a></li>
+<li id="li100369" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Regie/"><span>Regie</span></a></li>
+<li id="li100619" class="navLI_3"><a onclick="" class="nav3 hover" href="de/DramaturgieInspizienz/"><span>Dramaturgie/Inspizienz</span></a></li>
+<li id="li100425" class="navLI_3"><a onclick="" class="nav3 hover" href="de/AusstattungBuehnenbild--Kostuem/"><span>Ausstattung/Buhnenbild & Kostum</span></a></li>
+<li id="li100401" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Weitere-Gaeste/"><span>Weitere Gaste</span></a></li>
+</ul></li>
+<li id="li100027" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Spielstaetten-Sitzplaene/"><span>Spielstatten & Sitzplane</span></a></li>
+<li id="li100028" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Freunde--Partner/"><em></em><span>Freunde & Partner</span></a><ul class="navUL_3" id="ul100028"><li id="li100031" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Theatervereine/"><span>Theatervereine</span></a></li>
+<li id="li100032" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Theaterstiftungen/"><span>Theaterstiftungen</span></a></li>
+</ul></li>
+<li id="li100029" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Stellenangebote/"><span>Stellenangebote</span></a></li>
+<li id="li100541" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Vorstaende_2/"><span>Vorstande</span></a></li>
+<li id="li100591" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Ehrenmitglieder/"><span>Ehrenmitglieder</span></a></li>
+<li id="li100465" class="navLI_2 end"><a onclick="" class="nav2 hover" href="de/Mitarbeiterbereich/"><span>Mitarbeiterbereich</span></a></li>
+</ul></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li100013" class="navLI_1 navSub"><a onclick="" class="nav1 navSub hover" href="de/Service-Karten/"><em></em><span>Service & Karten</span></a><ul class="navUL_2" id="ul100013"><li id="li100034" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Theaterkasse/"><span>Theaterkasse</span></a></li>
+<li id="li100035" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Preise-Angebote/"><span>Preise & Angebote</span></a></li>
+<li id="li100036" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Abonnements/"><em></em><span>Abonnements</span></a><ul class="navUL_3" id="ul100036"><li id="li100325" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Abonnements-Busse-Zittau/"><span>Abonnements-Busse Zittau</span></a></li>
+<li id="li100327" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Abonnement-Uebersicht-Goerlitz/"><span>Abonnement-Ubersicht Gorlitz</span></a></li>
+<li id="li100323" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Abonnement-Uebersicht-Zittau/"><span>Abonnement-Ubersicht Zittau</span></a></li>
+</ul></li>
+<li id="li100037" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Downloads/"><span>Downloads</span></a></li>
+<li id="li100038" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Gastronomie/"><span>Gastronomie</span></a></li>
+<li id="li100039" class="navLI_2 end"><a onclick="" class="nav2 hover" href="de/Kostuemverleih/"><span>Kostumverleih</span></a></li>
+</ul></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li100669" class="navLI_1 navSub"><a onclick="" class="nav1 navSub hover" href="de/Theater-amp-Schule/"><em></em><span>Theater &amp; Schule</span></a><ul class="navUL_2" id="ul100669"><li id="li100339" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Mobile-Produktionen/"><span>Mobile Produktionen</span></a></li>
+<li id="li100670" class="navLI_2 end"><a onclick="" class="nav2 hover" href="de/KuBiMobil/"><span>KuBiMobil</span></a></li>
+</ul></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li100441" class="navLI_1 navSub"><a onclick="" class="nav1 navSub hover" href="de/Mehr-Theater/"><em></em><span>Mehr Theater</span></a><ul class="navUL_2" id="ul100441"><li id="li100513" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Trailer/"><em></em><span>Trailer</span></a><ul class="navUL_3" id="ul100513"><li id="li100515" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Trailer-Musiktheater/"><span>Musiktheater</span></a></li>
+<li id="li100527" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Trailer-Schauspiel/"><span>Schauspiel</span></a></li>
+<li id="li100529" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Trailer-Tanz/"><span>Tanz</span></a></li>
+<li id="li100617" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Trailer-Konzert/"><span>Konzert</span></a></li>
+<li id="li100517" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Trailer-Archiv/"><span>Archiv</span></a></li>
+</ul></li>
+<li id="li100585" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Theaterpreis-Verleihung/"><em></em><span>Theaterpreis-Verleihung</span></a><ul class="navUL_3" id="ul100585"><li id="li100589" class="navLI_3"><a onclick="" class="nav3 hover" href="de/Preis-des-Goerlitzer-Theater-und-Musikvereins/"><span>Preis des Gorlitzer Theater- und Musikvereins</span></a></li>
+<li id="li100587" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/Gerhart-Hauptmann-Theater-Zittau-Preis/"><span>Gerhart-Hauptmann-Theater-Zittau-Preis</span></a></li>
+</ul></li>
+<li id="li100665" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Wir-Jsme-Nowi/"><span>Wir Jsme Nowi</span></a></li>
+<li id="li100443" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/Festivals/"><em></em><span>Festivals</span></a><ul class="navUL_3" id="ul100443"><li id="li100667" class="navLI_3"><a onclick="" class="nav3 hover" href="de/ZI-YOU---Fest-der-Festivals/"><span>ZI YOU - Fest der Festivals</span></a></li>
+<li id="li100509" class="navLI_3"><a onclick="" class="nav3 hover" href="de/J-O-S-Festival/"><span>J-O-S  |  Trinationales Theaterfestival  |  D-PL-CZ</span></a></li>
+<li id="li100477" class="navLI_3"><a onclick="" class="nav3 hover" href="de/JugendTheaterTage/"><span>JugendTheaterTage</span></a></li>
+<li id="li100453" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/ViaThea/"><span>ViaThea</span></a></li>
+</ul></li>
+<li id="li100449" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/J-O-S/"><em></em><span>Internationale Projekte</span></a><ul class="navUL_3" id="ul100449"><li id="li100511" class="navLI_3"><a onclick="" class="nav3 hover" href="de/J-O-S-----Aktuelles/"><span>J-O-S  |   Aktuelles</span></a></li>
+<li id="li100535" class="navLI_3"><a onclick="" class="nav3 hover" href="de/J-O-S----Kontakt-Projektkoordinatorin/"><span>J-O-S  |  Kontakt Projektkoordinatorin</span></a></li>
+<li id="li100507" class="navLI_3"><a onclick="" class="nav3 hover" href="de/J-O-S----Unsere-Partnertheater/"><span>J-O-S  |  Unsere Partnertheater</span></a></li>
+<li id="li100501" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/J-O-S----Rueckblick/"><span>J-O-S  |  Ruckblick</span></a></li>
+</ul></li>
+<li id="li100621" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Ballettschule-Theater-Goerlitz/"><span>Ballettschule Theater Gorlitz</span></a></li>
+<li id="li100289" class="navLI_2 navSub"><a onclick="" class="nav2 navSub hover" href="de/TheaterJugendClub_2/"><em></em><span>TheaterJugendClub</span></a><ul class="navUL_3" id="ul100289"><li id="li100624" class="navLI_3"><a onclick="" class="nav3 hover" href="de/TheaterJugendClub-Goerlitz/"><span>TheaterJugendClub Gorlitz</span></a></li>
+<li id="li100625" class="navLI_3 end"><a onclick="" class="nav3 hover" href="de/TheaterJugendClub-Zittau/"><span>TheaterJugendClub Zittau</span></a></li>
+</ul></li>
+<li id="li100291" class="navLI_2 end"><a onclick="" class="nav2 hover" href="de/TheaterSeniorenClub_2/"><span>TheaterSeniorenClub</span></a></li>
+</ul></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li100015" class="navLI_1 navSub"><a onclick="" class="nav1 navSub hover" href="de/Presse/"><em></em><span>Presse</span></a><ul class="navUL_2" id="ul100015"><li id="li100049" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Pressekontakt/"><span>Pressekontakt</span></a></li>
+<li id="li100050" class="navLI_2"><a onclick="" class="nav2 hover" href="de/GerHarT-Die-Theaterzeitung/"><span>GerHarT - Die Theaterzeitung</span></a></li>
+<li id="li100051" class="navLI_2"><a onclick="" class="nav2 hover" href="de/Rezensionen/"><span>Rezensionen</span></a></li>
+<li id="li100331" class="navLI_2 end"><a onclick="" class="nav2 hover" href="de/Pressebereich-Fuer-Journalisten/"><span>Pressebereich (Fur Journalisten)</span></a></li>
+</ul></li>
+<li class="navLI_1_spacer"><i>|</i></li>
+<li id="li1102" class="navLI_1 end"><a onclick="" class="nav1 hover" href="de/KONTAKT/"><span>Kontakt</span></a></li>
+</ul></div></div></div></div><div id="bluepage">
+<div id="fixedHelp"><div></div></div>
+<div id="bluepageInhalt"><div id="bluepageInhaltContent"><div id="bluepageHeadBreadcrumb"><ul class="Breadcrumb"><li><a class="breadcrumb_home" href="de/Startseite/"><span>Startseite</span></a></li><li><i><span>&nbsp;</span></i><a class="aktiv" href="de/Error404/"><span><b>Error404</b></span></a></li></ul></div><div id="bluepage_contenthead"><ul><li><em><span>Error404</span></em><<img src="img/layout/marker_headline.png" border="0" alt=''></li></ul></div>
+<div class="spielplan_content_topspace"></div>
+<div class="bluepage_tab"><div class="bluepage_row"><div class="bluepage_td1"><div class="bluepage_content_topspace"></div><div id="bluepage_content"><div class="templ">
+<a class="templ_anker" name="q7009" id="q7009"></a>
+
+<div class="templ_table topspace bottomspace">
+<div class="templ_tr">
+<div class="templ_td_templ"><h1 class="headline1 h1color_0 mpc">Ups! Dieser Link scheint nicht zu funktionieren...</h1></div>
+</div>
+</div></div>
+<div class="templ_end"><div class="templ_space"></div>
+</div>
+<div class="templ">
+<a class="templ_anker" name="q7010" id="q7010"></a>
+
+<div class="templ_table topspace bottomspace">
+<div class="templ_tr">
+<div class="templ_td_templ"><div class="box_txt">Da hat sich in der Zwischenzeit wohl etwas an unseren Seiten geandert.<br>Falls Sie Ihre gesuchte Information nicht uber unsere Navigation finden,benutzen Sie doch einfach unsere<br><a class="link_in hover" href="de/Suche/" target="_self" title='Lokaler Link Suche'>Suche</a>  oder <a class="link_in hover" href="de/Sitemap/" target="_self" title='Lokaler Link Sitemap'>Sitemap</a> .</div></div>
+</div>
+</div></div>
+<div class="templ_end"><div class="templ_space"></div>
+</div>
+<div class="bluepage_content_bottomspace"></div></div></div><div class="bluepage_td2"><div class="bluepage_aside_content_topspace"></div><div id="bluepageBnrR"><div class="bluepage_bnrL_line"></div>
+<div class="bluepage_bnrR bnr_A"><div class="bluepage_bnr_head bnrhead_A"><div><h3>Unsere neuen Kassenoffnungszeiten in Gorlitz & Zittau</h3></div></div><div class="bluepage_bnr">
+<div class="bluepage_bnr_txt"><div class="bluepage_bnr_txt_innerHTML"><b>Di. bis Fr.    </b>10:00-13:00 Uhr   und 14:00-18:00 Uhr  |<b> Sa.    </b>10:00-12:30 Uhr   <b><br><br></b></div></div>
+</div>
+</div>
+<div class="bluepage_bnr_space"></div>
+<div class="bluepage_bnrL_line"></div>
+<div class="bluepage_bnrR bnr_A"><div class="bluepage_bnr_head bnrhead_A"><div><h3>Downloads</h3></div></div><div class="bluepage_bnr">
+<div class="bluepage_bnr_txt"><div class="bluepage_bnr_txt_innerHTML">Das neue Spielzeitheft, unsere aktuellen Spielplane und die Theaterzeitung GerHarT finden Sie hier<br><a class="link_in hover" href="de/Downloads/" target="_self" title='Lokaler Link Downloads'>Downloads</a> </div></div>
+</div>
+</div>
+<div class="bluepage_bnr_space"></div>
+<div class="bluepage_bnrL_line"></div>
+<div class="bluepage_bnrR bnr_A"><div class="bluepage_bnr_head bnrhead_A"><div><h3> Kartenkauf auf Rechnung </h3></div></div><div class="bluepage_bnr">
+<div class="bluepage_bnr_txt"><div class="bluepage_bnr_txt_innerHTML">Fur den Kartenkauf auf Rechnung nutzen Sie bitte im <a class="link_in hover" href="de/Spielplan/" target="_self" title='Lokaler Link Spielplan'>Spielplan</a>  den Button >>RESERVIERUNG<<.<br></div></div>
+</div>
+</div>
+<div class="bluepage_bnr_space"></div>
+<div class="bluepage_bnr_space"></div>
+</div></div></div></div></div><div id="bluepageInhaltContentBottomSpace"></div>
+</div></div>
+<div id="bluepageBottom">
+<div id="bluepageBottom_innerHTML">
+<div id="bluepageFooter"><div id="bluepageFooterContainer"><ul><li class="l"><div id="bluepageBottom_sponsor"><div>Unsere Partner:</div><a id="spon_bkm" href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerKulturundMedien/beauftragte-fuer-kultur-und-medien.html" target="_blank" title='Beauftragte der Bundesregierung fur Kultur und Medien'><img src="img/sponsoren/bkm.svg" width="122" height="32" border="0" alt='' title='Beauftragte der Bundesregierung fur Kultur und Medien'></a><a id="spon_ksk" href="http://www.spk-on.de/" target="_blank" title='Sparkasse Oberlausitz-Niederschlesien'><img src="img/sponsoren/ksk.png" width="259" height="50" border="0" alt=''></a></div>
+</li><li class="r"><div id="bluepageBottomSubNav" class="SubNav"><ul class="ul_SubNav"><li class="subNav"><a class="subNav" href="de/Newsletter/" title='Newsletter'><span>Newsletter</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/IMPRESSUM/" title='Impressum'><span>Impressum</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/AGB/" title='AGB'><span>AGB</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/Datenschutz/" title='Datenschutz'><span>Datenschutz</span></a></li><li class="spacer mobilenone tabletnone"><i>|</i></li>
+<li class="subNav mobilenone tabletnone"><a class="subNav" href="de/Suche/" title='Suche'><span>Suche</span></a></li><li class="spacer"><i>|</i></li>
+<li class="subNav"><a class="subNav" href="de/Mitarbeiter-Login_2/" title='Mitarbeiter-Login'><span>Mitarbeiter-Login</span></a></li></ul></div>
+<ul id="bluepageBottom_SocialMedia">
+<li><a class="hover" href="http://www.facebook.com/pages/Gerhart-Hauptmann-Theater/112041265558244" target="_blank" title='facebook'><img class="SocialMediaImg" src="img/socialmedia/facebook.svg" width="100" height="40" border="0" alt='facebook' title=''><span>facebook</span></a></li>
+<li><a class="hover" href="http://www.vimeo.com/ghtheater" target="_blank" title='Vimeo'><img class="SocialMediaImg" src="img/socialmedia/vimeo.svg" width="100" height="40" border="0" alt='Vimeo' title=''><span>Vimeo</span></a></li>
+<li><a class="hover" href="http://www.youtube.com/user/ghtheater" target="_blank" title='YouTube'><img class="SocialMediaImg" src="img/socialmedia/youtube.svg" width="100" height="40" border="0" alt='YouTube' title=''><span>YouTube</span></a></li>
+<li><a class="hover" href="https://www.instagram.com/ght_goerlitzzittau/?ref=badge" target="_blank" title='Instagram'><img class="SocialMediaImg" src="img/socialmedia/instagram.svg" width="100" height="40" border="0" alt='Instagram' title=''><span>Instagram</span></a></li>
+</ul>
+</li></ul></div></div>
+</div></div></div></div><div id="privacy-statement"><em></em><div>Diese Website verwendet Cookies. In diesen werden jedoch keine personenbezogenen Inhalte gespeichert. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu <a class="privacy-statement" href="de/Datenschutz/">Weitere Informationen</a></div><div><a class="accepted" href="javascript:setCookieUse('accepted');">VERSTANDEN</a></div></div>
+
+<div id="LightboxFrmlDatenschutz" class="flex"></div>
+<div id="LightboxMMedia" class="flex"><div class="lightboxmmedia_content"></div></div>
+</body></html>

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /site/getOpis/
+Disallow: /site/layouts_kolaz/
+Disallow: /site/layouts_poli/
+Disallow: /site/create_photo/
+Disallow: /site/create_photo_poli/
+Disallow: /site/create_photo_kolaz/
+Disallow: /site/effects/
+Disallow: /site/effects_kolaz/
+Disallow: /site/effects_poli/
+Disallow: /site/corrects/
+Disallow: /site/corrects_poli/
+Disallow: /site/podsumowanie_single/
+Disallow: /site/podsumowanie_poli/
+Disallow: /site/podsumowanie_kolaz/
+Sitemap: https://www.fotonaplotnie.pl/sitemap.xml

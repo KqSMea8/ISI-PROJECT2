@@ -1,0 +1,34 @@
+User-agent: *
+
+Disallow: /foty/katanast/photos/photo_1.html
+Disallow: /i3,rabaty.html
+Disallow: /i7,polityka-prywatnosci.html
+Disallow: /pomoc.html
+Disallow: /i1,wysylki-zwroty.html
+Disallow: /o-sklepie.html
+Disallow: /index.php?d=regulamin
+Disallow: /?d=regulamin
+Disallow: /?p=1
+Disallow: /i2,dostepnosc.html
+Disallow: /logowanie.html
+Disallow: /przypomnienie.html
+Disallow: /index.php?d=kontakt
+Disallow: /gg:372377
+Disallow: /gg:9409753
+Disallow: /skype:bokken_pl?call
+Disallow: /?gclid=CKbhgIe3tJgCFQtJtAod5QbRUw
+Disallow: /index.php?pid=21eb59b1ffc83bd3b3ebe9a86470825a11250
+Disallow: /index.php?pid=49df65577aee0a812232a05cdf235e9311888
+Disallow: /index.php?pid=693efbe69882092a5b3af00f45a298f421212
+Disallow: /index.php?pid=7c42756508399a42fb00d4a7dada029323986
+Disallow: /index.php?pid=a45495faf57b09f3d9b2c18bdfcbed5810984
+Disallow: /index.php?pid=bc9311bfe73f6ed38c83c876c71f004017133
+Disallow: /index.php?pid=c30652d287836ac63af8ad52fd0ddf1e32163
+Disallow: /index.php?pid=c41ef1616dd28d5d1021b3fd07c291b020004
+Disallow: /index.php?pid=d47b0eaf7ce2745dd73467e2d6aabe9c15772
+Disallow: /index.php?pid=d4d35e9490dad1f3a64e844fc02c9d885371
+Disallow: /index.php?pid=d87ecfe4b0cc5338ff12deb82f786a5927509
+Disallow: /index.php?pid=de61aec8d78c080ce01ec4a3238b105930351
+Disallow: /index.php?pid=e9de5ce9583e0224159ff13e1af8285c25645
+Disallow: /index.php?pid=bb75cb451cfb2262b18c45e33239f97e2741
+

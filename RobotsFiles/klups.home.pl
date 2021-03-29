@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /meble/
+Disallow: /firma/
+Disallow: /promocja/
+Disallow: /xinfo/
+Disallow: /temp/
+Disallow: /panel/
+Disallow: /katalog/
+Disallow: /foto/

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /tmp/
+Disallow: /javascript/
+Disallow: /administrator/
+Disallow: /components/
+Disallow: /modules/
+Disallow: /template/
+Disallow: /system/
+Disallow: /pliki/
+Disallow: /media/

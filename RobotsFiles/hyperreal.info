@@ -1,0 +1,174 @@
+User-agent: *
+Crawl-delay: 15
+#
+# MAIN SITE
+#
+# temp
+Disallow: /archiwum/
+#
+# CSS, JS, Images
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+#
+# HELP
+#
+# CSS, JS, Images
+Allow: /help/misc/*.css$
+Allow: /help/misc/*.css?
+Allow: /help/misc/*.js$
+Allow: /help/misc/*.js?
+Allow: /help/misc/*.gif
+Allow: /help/misc/*.jpg
+Allow: /help/misc/*.jpeg
+Allow: /help/misc/*.png
+Allow: /help/modules/*.css$
+Allow: /help/modules/*.css?
+Allow: /help/modules/*.js$
+Allow: /help/modules/*.js?
+Allow: /help/modules/*.gif
+Allow: /help/modules/*.jpg
+Allow: /help/modules/*.jpeg
+Allow: /help/modules/*.png
+Allow: /help/profiles/*.css$
+Allow: /help/profiles/*.css?
+Allow: /help/profiles/*.js$
+Allow: /help/profiles/*.js?
+Allow: /help/profiles/*.gif
+Allow: /help/profiles/*.jpg
+Allow: /help/profiles/*.jpeg
+Allow: /help/profiles/*.png
+Allow: /help/themes/*.css$
+Allow: /help/themes/*.css?
+Allow: /help/themes/*.js$
+Allow: /help/themes/*.js?
+Allow: /help/themes/*.gif
+Allow: /help/themes/*.jpg
+Allow: /help/themes/*.jpeg
+Allow: /help/themes/*.png
+# Directories
+Disallow: /help/includes/
+Disallow: /help/misc/
+Disallow: /help/modules/
+Disallow: /help/profiles/
+Disallow: /help/scripts/
+Disallow: /help/themes/
+# Files
+Disallow: /help/CHANGELOG.txt
+Disallow: /help/cron.php
+Disallow: /help/INSTALL.mysql.txt
+Disallow: /help/INSTALL.pgsql.txt
+Disallow: /help/INSTALL.sqlite.txt
+Disallow: /help/install.php
+Disallow: /help/INSTALL.txt
+Disallow: /help/LICENSE.txt
+Disallow: /help/MAINTAINERS.txt
+Disallow: /help/update.php
+Disallow: /help/UPGRADE.txt
+Disallow: /help/xmlrpc.php
+# Paths (clean URLs)
+Disallow: /help/admin/
+Disallow: /help/comment/reply/
+Disallow: /help/filter/tips/
+Disallow: /help/node/add/
+Disallow: /help/search/
+Disallow: /help/user/register/
+Disallow: /help/user/password/
+Disallow: /help/user/login/
+Disallow: /help/user/logout/
+#
+# TALK
+#
+Disallow: /talk/adm/
+Disallow: /talk/download/
+Disallow: /talk/cache/
+Disallow: /talk/docs/
+Disallow: /talk/files/
+Disallow: /talk/includes/
+Disallow: /talk/language/
+Disallow: /talk/store/
+Disallow: /talk/styles/
+Disallow: /talk/common.php
+Disallow: /talk/config.php
+Disallow: /talk/cron.php
+Disallow: /talk/mcp.php
+Disallow: /talk/memberlist.php
+Disallow: /talk/posting.php
+Disallow: /talk/report.php
+Disallow: /talk/search.php
+Disallow: /talk/style.php
+Disallow: /talk/ucp.php
+Disallow: /talk/viewonline.php
+#
+# KUCHNIA
+#
+Disallow: /wiki/
+#
+# ROBOTY
+Disallow: /wzory/
+Disallow: /kucharz/
+#
+# ADV
+Disallow: /kfasik/
+Disallow: /bannz/
+# the happy end.
+

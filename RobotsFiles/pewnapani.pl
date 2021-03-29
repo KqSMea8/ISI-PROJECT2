@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /linki.html
+Disallow: /szukaj/
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.GIF$
+Disallow: /*.PNG$
+Disallow: /*.JPG$

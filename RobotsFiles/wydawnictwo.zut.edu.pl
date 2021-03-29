@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /apzut
+Disallow: /bazapatentow
+Disallow: /certs
+Disallow: /typo3conf
+Disallow: /typo3temp
+Disallow: /AddressBook
+Disallow: /uci
+Allow: /

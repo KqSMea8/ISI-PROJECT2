@@ -1,0 +1,11 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+
+Sitemap: http://placeterminowo.pl/system/sitemap_index.xml.gz
+
+Disallow: /potwierdzam/
+Disallow: /zglos_sprzeciw/
+

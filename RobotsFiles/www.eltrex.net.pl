@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /actions/
+Disallow: /adm/
+Disallow: /engine/
+Disallow: /libs/
+Disallow: /mail/
+Disallow: /models/
+Disallow: /templates/
+
+User-agent: AhrefsBot
+Disallow: /
+Disallow: /partnerzy,p12.html
+Disallow: /regulamin-sklepu,p2.html
+Disallow: /zwroty-i-gwarancje,p9.html
+Disallow: /regulamin,p2.html
+Disallow: /rejestracja.html
+Disallow: /konto.html
+Disallow: /koszyk.html
+Disallow: /koszty-dostawy,p5.html
+Disallow: /jak-kupowac,p8.html
+Disallow: /czeste-pytania,p11.html
+Disallow: /kontakt,p1.html
+Disallow: /formy-platnosci,p4.html
+Disallow: /dostawa-i-dostepnosc,p10.html
+Disallow: /prywatnosc,p6.html
+Disallow: /reklamacje,p13.html
+Disallow: /zwrot-towaru,p9.html
+Disallow: /ochrona-prywatnosci,p6.html
+Disallow: /jak-kupowac-na-raty,p14.html
+Disallow: /regulamin-do-23-05-2018,p17.html
+Sitemap: https://www.eltrex.net.pl/sitemap.xml
+

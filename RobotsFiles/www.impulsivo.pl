@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /img/
+Disallow: /inc/
+Disallow: /klienci/
+Disallow: /new/
+Disallow: /realizacje/
+Disallow: /referencje/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /content/
+Disallow: /content.swf
+Disallow: /music.swf
+Allow: /

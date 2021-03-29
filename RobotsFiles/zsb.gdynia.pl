@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wydarzenia_zajecia/wydarzenia/action~posterboard/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~agenda/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~oneday/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~month/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~week/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~stream/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~undefined/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~http:/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~default/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~poster/
+Disallow: /wydarzenia_zajecia/wydarzenia/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /bundles/stepvalueportucel/relatorio-e-contas-files/
+Noindex: /bundles/stepvalueportucel/relatorio-e-contas-files/
+

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /piastun62
+Disallow: /z200
+Disallow: /oferta.php
+Disallow: /oferta
+Disallow: /home.php
+Disallow: /kontakt.php
+Disallow: /test
+Disallow: /piastun62.waw.pl
+Disallow: /hp
+Disallow: /baner
+Disallow: /ppl
+Disallow: /virtual
+Disallow: /mapa.php
+Disallow: /o_nas.php
+Disallow: /pppl
+Disallow: /kontakt
+Disallow: /error.php
+Disallow: /o_nas
+Disallow: /logs
+Disallow: /tmp
+Disallow: /wyslij.php
+Disallow: /include
+Disallow: /zaplecze.html
+Disallow: /new
+Allow: /
+

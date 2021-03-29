@@ -1,0 +1,16 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: Googlebot
+Crawl-delay: 10
+Disallow: /search
+Disallow: /account
+Disallow: /login
+
+User-agent: Swiftbot
+Disallow:
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: bingbot
+Disallow: /
+
+
+
+Sitemap: http://www.landtag.sachsen.de/sitemap.xml

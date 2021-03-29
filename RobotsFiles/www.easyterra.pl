@@ -1,0 +1,25 @@
+User-agent: AdsBot-Google-Mobile-Apps
+Crawl-delay: 2
+User-agent: AdsBot-Google
+Crawl-delay: 2
+User-agent: *
+Crawl-delay: 2
+Disallow: /search?*
+Disallow: /book?*
+Disallow: /book/
+Disallow: /booking/
+Disallow: /fp_js_form_validator/
+Disallow: /auth/
+Disallow: /users/
+Disallow: /logs/
+Disallow: /cars/
+Disallow: /mvt/
+Disallow: /locations/
+Disallow: /modal/
+Disallow: /quote.php*
+Disallow: /contact_sent.html*
+Disallow: /csrf_token/
+Disallow: /reviews/
+
+User-agent: SemrushBot
+Disallow: /

@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://www.criteo.com/sitemap_index.xml
+Sitemap: https://www.criteo.com/de/sitemap_index.xml
+Sitemap: https://www.criteo.com/fr/sitemap_index.xml
+Sitemap: https://www.criteo.com/br/sitemap_index.xml
+Sitemap: https://www.criteo.com/jp/sitemap_index.xml
+Sitemap: https://www.criteo.com/kr/sitemap_index.xml
+Sitemap: https://www.criteo.com/es/sitemap_index.xml
+Sitemap: https://www.criteo.com/it/sitemap_index.xml
+Sitemap: https://www.criteo.com/ru/sitemap_index.xml

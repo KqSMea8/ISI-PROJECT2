@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /adm/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /js/
+Disallow: /download/
+Disallow: /upload/
+Disallow: /includes/
+Disallow: /groby/
+Disallow: /www/singers.php

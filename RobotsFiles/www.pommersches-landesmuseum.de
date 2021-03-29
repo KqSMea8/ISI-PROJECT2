@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /newsletter.html
+Disallow: /*newsletter.html$
+Disallow: /plm/impressum.html
+Disallow: /*impressum.html$
+
+

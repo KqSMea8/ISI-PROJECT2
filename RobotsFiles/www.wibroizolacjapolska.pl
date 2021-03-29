@@ -1,0 +1,9 @@
+user-agent: *
+Disallow: /system/
+Disallow: /backup/
+Disallow: /fileman/
+Disallow: /fonts/
+#Disallow: /min/
+Disallow: /tmp/
+#Sitemap files
+#Sitemap: http://www.wibroizolacjapolska.pl/sitemap.xml

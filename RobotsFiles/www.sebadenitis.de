@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /sebaliste/
+Disallow: /gfx/
+Disallow: /cgi-local/
+Disallow: /stats/
+Disallow: /lib32/
+Disallow: /etc/
+Disallow: /bin/
+

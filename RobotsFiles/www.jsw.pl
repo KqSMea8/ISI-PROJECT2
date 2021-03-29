@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /dla-kontrahentow/system-oferty/
+Disallow: /dla-kontrahentow/przetargi/pobierz.php*
+Disallow: /dla-kontrahentow/przetargi/zalaczniki/
+Disallow: /dane_interaktywne/
+Disallow: /fileadmin/
+Disallow: /uploads/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /en/search/
+Disallow: /no_cache/en/search/
+Disallow: /wyszukiwarka/
+Disallow: /no_cache/wyszukiwarka/
+Disallow: /no_cache/
+Disallow: /*?id=*
+Disallow: /*?eID=*
+Disallow: /*?type=*$
+Disallow: /*type=123$
+Disallow: /*type=1$
+

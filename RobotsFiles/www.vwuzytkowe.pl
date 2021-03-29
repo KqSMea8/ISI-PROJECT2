@@ -1,0 +1,21 @@
+### whitelist user agents / pages to visit for app-paths
+
+User-agent: Googlebot
+Allow: /app/
+
+User-agent: Slurp
+Allow: /app/
+
+User-Agent: Bingbot
+Allow: /app/
+
+User-Agent: msnbot
+Allow: /app/
+
+### default block
+User-agent: *
+Disallow: /app/
+Disallow: /*notification
+
+### sitemap
+Sitemap: https://www.vwuzytkowe.pl/sitemap.xml

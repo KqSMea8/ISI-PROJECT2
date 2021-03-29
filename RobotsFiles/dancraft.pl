@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /font/
+Disallow: /nbbags/
+Disallow: /versus/
+Disallow: /vmfiles/
+Disallow: /build/
+Disallow: /dewocjonalia/
+Disallow: /grawerszop/

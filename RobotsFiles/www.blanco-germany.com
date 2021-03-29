@@ -1,0 +1,51 @@
+User-agent: *
+Disallow: /*sink_config__xml_.xml$
+Disallow: /*xml_opk_urls.xml$
+Disallow: /de/data/
+Disallow: /uk/data/
+Disallow: /de_ch/data/
+Disallow: /at/data/
+Disallow: /int/data/
+Disallow: /fr/data/
+Disallow: /fr_ch/data/
+Disallow: /fr_be/data/
+Disallow: /ru/data/
+Disallow: /fl_be/data/
+Disallow: /ua/data/
+Disallow: /es/data/
+Disallow: /nl/data/
+Disallow: /it/data/
+Disallow: /hu/data/
+Disallow: /ro/data/
+Disallow: /en_cn/data/
+Disallow: /zh_cn/data/
+Disallow: /en_us/data/
+Disallow: /en_ca/data/
+Disallow: /fr_ca/data/
+Disallow: /pl/data/
+
+Sitemap: https://www.blanco-germany.com/en/int/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/at/at/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/fr/fr/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/fr_be/fr_be/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/fl_be/fl_be/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/ru/ru/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/ua/ua/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/de_ch/de_ch/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/fr_ch/fr_ch/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/es/es/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/nl/nl/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/it/it/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/pl/pl/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/hu/hu/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/en_us/en_us/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/en_cn/en_cn/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/zh_cn/zh_cn/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/en_ca/en_ca/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/fr_ca/fr_ca/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/uk/uk/xml_sitemap.xml
+Sitemap: https://www.blanco-germany.com/ro/ro/xml_sitemap.xml
+
+
+Sitemap: https://www.blanco-germany.com/de/de/xml-sitemap.xml
+

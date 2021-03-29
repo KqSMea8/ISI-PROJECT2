@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /doc/
+Disallow: /install/
+Disallow: /lib/
+Disallow: /modules/
+Disallow: *?id=5
+Disallow: ?id=
+Allow: /modules/Gallery/
+Disallow: /module_custom/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /tmp/
+Disallow: /modules/babel/redirect.php?newlang=
+Disallow: modules/babel/*
+Allow: /tmp/cache/
+Sitemap: http://www.hotelzieliniec.pl/sitemap.xml
+Sitemap: http://www.hotelzieliniec.pl/sitemap_images.xml

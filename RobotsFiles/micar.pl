@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /panel/
+Disallow: /basen/
+Disallow: /mobile/
+Disallow: /new/
+Disallow: /*phpsessid
+Disallow: /*samochod_detail.php
+Disallow: /*pdf
+Disallow: /*swf
+Allow: /

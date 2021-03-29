@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /cache/
+Disallow: /cache-thumbs/
+Disallow: /cgi-bin/
+Disallow: /edit_area/
+Disallow: /files/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /languages/
+Disallow: /templates/

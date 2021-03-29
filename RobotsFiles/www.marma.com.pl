@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /gfx/*.jpg$
+Allow: /gfx/*.gif$
+Allow: /gfx/*.png$
+Allow: /gfx/*.jpeg$
+Sitemap: https://www.marma.com.pl/sitemap.xml
+Allow: /szablony/marma/
+Allow: /gfx/marma/_thumbs/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/*.css
+User-agent: Fasterfox
+Disallow: /

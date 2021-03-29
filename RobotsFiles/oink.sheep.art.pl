@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /+*
+Disallow: /%2B*
+Disallow: /+edit
+Disallow: /+feed
+Disallow: /+history
+Disallow: /+search
+Disallow: /+hg
+

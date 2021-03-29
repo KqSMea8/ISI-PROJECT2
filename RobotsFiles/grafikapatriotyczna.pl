@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/fav/add/
+Disallow: /*/p/comment/add/
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/
+Disallow: /*/searchquery/
+Disallow: /pl/i/Szczegoly-programu-partnerskiego/16
+Disallow: /pl/i/Szczegoly-wspolpracy-hurtowej/17
+Disallow: /kolekcja-orzel
+Disallow: /kolekcja-husaria
+Disallow: /kolekcja-moro

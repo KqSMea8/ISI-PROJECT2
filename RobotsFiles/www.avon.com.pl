@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /REPSuite/loginMain.page
+Disallow: /PRSuite/custonlineOrderEBrochure.page
+Disallow: /PRSuite/static/nosr/
+Disallow: /REPSuite/
+Disallow: /SLSuite/
+Disallow: /ZMSuite/
+Disallow: /DMSuite/
+Disallow: /CCASuite/

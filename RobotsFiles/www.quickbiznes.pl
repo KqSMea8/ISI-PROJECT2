@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /User-agent: *
+Disallow: /gadmin/
+Disallow: /includes/
+Disallow: /languages/
+Disallow: /templates_c/
+
+User-agent: rogerbot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: Raven
+Disallow: /
+User-agent: twiceler
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: LinkpadBot
+Disallow: /
+User-agent: James BOT - WebCrawler
+Disallow: /
+User-agent: BacklinkCrawler
+Disallow: /
+User-agent: SiteExplorer
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+
+
+

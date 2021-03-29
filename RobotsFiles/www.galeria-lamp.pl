@@ -1,0 +1,36 @@
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+Disallow: /pl/searchquery
+Disallow: /panel/
+Disallow: /pl/login
+Disallow: /pl/i/Regulamin
+Disallow: /galeria-lamp
+Disallow: /pl/basket
+Disallow: /pl/reg
+Disallow: /pl/s
+Disallow: /pl/passremind
+Disallow: /pl/fav
+Disallow: /index
+Disallow: /pl/index
+Disallow: /en_US
+Disallow: /pl/i/Kontakt/2
+Disallow: http://galeria-lamp.pl/pl/i/Kontakt/2
+Disallow: /pl/i/Regulamin/3
+Disallow: http://galeria-lamp.pl/pl/i/Regulamin/3
+User-agent: TwengaBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Mail.RU_Bot
+Disallow: /
+User-agent: bingbot
+Disallow: /
+
+

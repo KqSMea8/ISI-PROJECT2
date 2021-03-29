@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /_myprofile/
+Disallow: /_panel/
+Disallow: /_panel*
+Disallow: /login
+Disallow: /_swf/
+Disallow: /_swf*
+Disallow: /_template/
+Disallow: /BONG*
+Disallow: /cart.php
+Disallow: /koszyk.html
+Disallow: /index.php?show=search
+Disallow: /dodaj_do_koszyka*
+Disallow: /_myprofile/myprofile.php?comm=start
+Sitemap: https://talens.com.pl/sitemap.xml

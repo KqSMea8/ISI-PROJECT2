@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /download/
+Disallow: /lang/EN/download/
+Disallow: /lang/SK/download/
+Disallow: /lang/UA/download/
+Disallow: /pages/cenniki.php
+Disallow: /lang/EN/pages/cenniki.php
+Disallow: /lang/SK/pages/cenniki.php
+Disallow: /lang/UA/pages/cenniki.php

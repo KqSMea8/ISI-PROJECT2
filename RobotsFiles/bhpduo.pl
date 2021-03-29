@@ -1,0 +1,10 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /app_dev.php
+Disallow: /app_dev.php/*
+Disallow: /admin
+Disallow: /admin/*
+Host: https://www.bhpduo.pl
+sitemap: https://www.bhpduo.pl/sitemap.xml

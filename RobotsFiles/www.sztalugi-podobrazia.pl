@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /assets/
+Allow: /assets/0.0.4/css/
+Allow: /assets/0.0.4/img/
+Allow: /assets/0.0.4/js/
+Allow: /assets/favicons/
+Allow: /assets/upload/
+Sitemap: https://www.sztalugi-podobrazia.pl/sitemap.xml
+Sitemap: https://www.sztalugi-podobrazia.pl/sitemap_bookmarks.xml
+Sitemap: https://www.sztalugi-podobrazia.pl/sitemap_blog.xml
+Sitemap: https://www.sztalugi-podobrazia.pl/sitemap_products.xml

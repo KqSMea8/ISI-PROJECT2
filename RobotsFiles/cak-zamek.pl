@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wydarzenia/action~posterboard/
+Disallow: /wydarzenia/action~agenda/
+Disallow: /wydarzenia/action~oneday/
+Disallow: /wydarzenia/action~month/
+Disallow: /wydarzenia/action~week/
+Disallow: /wydarzenia/action~stream/

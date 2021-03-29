@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /core/
+Disallow: /database/
+Disallow: /files/
+Disallow: /img/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /cgi-bin/
+Disallow: /admin.php

@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /lv/user/
+Disallow: /lt/user/
+Disallow: /en/user/
+Disallow: /de/user/
+Disallow: /he/user/
+Disallow: /ru/user/
+Disallow: /fr/user/
+Disallow: /pl/user/
+Disallow: /ee/user/
+Disallow: /ua/user/
+Disallow: /se/user/
+Disallow: /he/person/view
+Disallow: /ee/person/view
+Disallow: /ua/person/view
+Disallow: /lt/person/view
+Disallow: /de/person/view
+Disallow: /pl/person/view
+Disallow: /fr/person/view
+Disallow: /ua/person/view
+Disallow: /se/person/view
+Sitemap: http://sitemap.nekropole.info/index.xml
+

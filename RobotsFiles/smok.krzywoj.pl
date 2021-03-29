@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: */wp-admin/
+Disallow: */wp-includes/
+Disallow: */wp-content/plugins/
+Disallow: */wp-content/cache/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */page/
+Disallow: */comments/
+Disallow: */000-kw_mapa/
+Disallow: */-galerie-xnview/
+Disallow: */-pliki-kml/
+Disallow: */-strona-full-with/
+Disallow: */-video/
+Disallow: */kw_colorbox/
+Disallow: */kw_images/
+Disallow: */kw_slider_top/
+Disallow: */kw_slimbox/
+Disallow: */kw_thickbox/
+Disallow: */kw_tree_menu/
+

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Allow: /modules/mod_jslideshow/
+Allow: /modules/mod_qaccordion/
+Allow: /modules/mod_yj_media_slider/
+Disallow: /plugins/
+Allow: /plugins/system/jcemediabox/
+Disallow: /tmp/
+Disallow: /search.php
+Disallow: /*?*
+Allow: /
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+
+User-agent: *
+Disallow:  /sklepy/
+
+User-agent: *
+Disallow:  /questions/
+
+

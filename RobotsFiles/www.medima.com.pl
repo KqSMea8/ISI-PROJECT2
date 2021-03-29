@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: *.swf$
+Disallow: /admin/
+Disallow: /images/previews/
+Disallow: /images/modules/
+Disallow: /xml/
+Disallow: /files
+Disallow: /pliki
+

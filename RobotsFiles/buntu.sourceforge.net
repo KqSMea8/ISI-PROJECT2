@@ -1,0 +1,6 @@
+user-agent: *
+Disallow: /repos/
+Disallow: /debs/
+
+
+

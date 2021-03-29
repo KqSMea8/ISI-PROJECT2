@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Polonez</title>
+<meta name="keywords" content="0" >
+<meta name="description" content="" >
+<meta name="Generator" content="VIT Computer Solutions - Copyright (C) Content Management Systems. All rights reserved. http://www.vit.ie" />
+<meta name="robots" content="index, follow" />
+<meta http-equiv="expires" CONTENT="Fri, 24 Apr 2020 01:35:35 GMT">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="http://www.polonez.ie/gfx/favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" src="http://www.polonez.ie/js/ciasteczka.js"></script>
+<script type="text/javascript" src="http://www.polonez.ie/js/createjs-2015.11.26.min.js"></script>
+<link rel=StyleSheet href="http://www.polonez.ie/tmp/cache/CSS/5703413e4b6a1bb6b61dadd5fc68e44a.css" type="text/css" title="Default Style" media="screen, print"><script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.polonez.ie/tmp/cache/JS/650f41efffd4de8fe078215e87efdda5.js"></script>
+<script>
+
+/////////////////////////AUTUMN/////////////////////////
+/*
+var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+function init() {
+canvas = document.getElementById("canvas");
+anim_container = document.getElementById("animation_container");
+dom_overlay_container = document.getElementById("dom_overlay_container");
+var comp=AdobeAn.getComposition("E8A3CB122506A24EBD703661B9E1E294");
+var lib=comp.getLibrary();
+var loader = new createjs.LoadQueue(false);
+loader.addEventListener("fileload", function(evt){handleFileLoad(evt,comp)});
+loader.addEventListener("complete", function(evt){handleComplete(evt,comp)});
+var lib=comp.getLibrary();
+loader.loadManifest(lib.properties.manifest);
+}
+function handleFileLoad(evt, comp) {
+var images=comp.getImages();
+if (evt && (evt.item.type == "image")) { images[evt.item.id] = evt.result; }
+}
+function handleComplete(evt,comp) {
+//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+var lib=comp.getLibrary();
+var ss=comp.getSpriteSheet();
+var queue = evt.target;
+var ssMetadata = lib.ssMetadata;
+for(i=0; i<ssMetadata.length; i++) {
+ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+}
+exportRoot = new lib._autumn();
+stage = new lib.Stage(canvas);
+//Registers the "tick" event listener.
+fnStartAnimation = function() {
+stage.addChild(exportRoot);
+createjs.Ticker.setFPS(lib.properties.fps);
+createjs.Ticker.addEventListener("tick", stage);
+}
+//Code to support hidpi screens and responsive scaling.
+function makeResponsive(isResp, respDim, isScale, scaleType) {
+var lastW, lastH, lastS=1;
+window.addEventListener('resize', resizeCanvas);
+resizeCanvas();
+function resizeCanvas() {
+var w = lib.properties.width, h = lib.properties.height;
+var iw = window.innerWidth, ih=window.innerHeight;
+var pRatio = window.devicePixelRatio || 1, xRatio=iw/w, yRatio=ih/h, sRatio=1;
+if(isResp) {
+if((respDim=='width'&&lastW==iw) || (respDim=='height'&&lastH==ih)) {
+sRatio = lastS;
+}
+else if(!isScale) {
+if(iw<w || ih<h)
+sRatio = Math.min(xRatio, yRatio);
+}
+else if(scaleType==1) {
+sRatio = Math.min(xRatio, yRatio);
+}
+else if(scaleType==2) {
+sRatio = Math.max(xRatio, yRatio);
+}
+}
+canvas.width = w*pRatio*sRatio;
+canvas.height = h*pRatio*sRatio;
+canvas.style.width = dom_overlay_container.style.width = anim_container.style.width =  w*sRatio+'px';
+canvas.style.height = anim_container.style.height = dom_overlay_container.style.height = h*sRatio+'px';
+stage.scaleX = pRatio*sRatio;
+stage.scaleY = pRatio*sRatio;
+lastW = iw; lastH = ih; lastS = sRatio;
+stage.tickOnUpdate = false;
+stage.update();
+stage.tickOnUpdate = true;
+}
+}
+makeResponsive(false,'both',false,1);
+AdobeAn.compositionLoaded(lib.properties.id);
+fnStartAnimation();
+}
+*/
+
+/////////////////////////AUTUMN/////////////////////////
+
+/////////////////////////CHRISTMAS/////////////////////////
+/*
+var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+function init() {
+canvas = document.getElementById("canvas");
+anim_container = document.getElementById("animation_container");
+dom_overlay_container = document.getElementById("dom_overlay_container");
+var comp=AdobeAn.getComposition("E8A3CB122506A24EBD703661B9E1E294");
+var lib=comp.getLibrary();
+var loader = new createjs.LoadQueue(false);
+loader.addEventListener("fileload", function(evt){handleFileLoad(evt,comp)});
+loader.addEventListener("complete", function(evt){handleComplete(evt,comp)});
+var lib=comp.getLibrary();
+loader.loadManifest(lib.properties.manifest);
+}
+function handleFileLoad(evt, comp) {
+var images=comp.getImages();
+if (evt && (evt.item.type == "image")) { images[evt.item.id] = evt.result; }
+}
+function handleComplete(evt,comp) {
+//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+var lib=comp.getLibrary();
+var ss=comp.getSpriteSheet();
+var queue = evt.target;
+var ssMetadata = lib.ssMetadata;
+for(i=0; i<ssMetadata.length; i++) {
+ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+}
+exportRoot = new lib.swieta();
+stage = new lib.Stage(canvas);
+//Registers the "tick" event listener.
+fnStartAnimation = function() {
+stage.addChild(exportRoot);
+createjs.Ticker.setFPS(lib.properties.fps);
+createjs.Ticker.addEventListener("tick", stage);
+}
+//Code to support hidpi screens and responsive scaling.
+function makeResponsive(isResp, respDim, isScale, scaleType) {
+var lastW, lastH, lastS=1;
+window.addEventListener('resize', resizeCanvas);
+resizeCanvas();
+function resizeCanvas() {
+var w = lib.properties.width, h = lib.properties.height;
+var iw = window.innerWidth, ih=window.innerHeight;
+var pRatio = window.devicePixelRatio || 1, xRatio=iw/w, yRatio=ih/h, sRatio=1;
+if(isResp) {
+if((respDim=='width'&&lastW==iw) || (respDim=='height'&&lastH==ih)) {
+sRatio = lastS;
+}
+else if(!isScale) {
+if(iw<w || ih<h)
+sRatio = Math.min(xRatio, yRatio);
+}
+else if(scaleType==1) {
+sRatio = Math.min(xRatio, yRatio);
+}
+else if(scaleType==2) {
+sRatio = Math.max(xRatio, yRatio);
+}
+}
+canvas.width = w*pRatio*sRatio;
+canvas.height = h*pRatio*sRatio;
+canvas.style.width = dom_overlay_container.style.width = anim_container.style.width =  w*sRatio+'px';
+canvas.style.height = anim_container.style.height = dom_overlay_container.style.height = h*sRatio+'px';
+stage.scaleX = pRatio*sRatio;
+stage.scaleY = pRatio*sRatio;
+lastW = iw; lastH = ih; lastS = sRatio;
+stage.tickOnUpdate = false;
+stage.update();
+stage.tickOnUpdate = true;
+}
+}
+makeResponsive(false,'both',false,1);
+AdobeAn.compositionLoaded(lib.properties.id);
+fnStartAnimation();
+}
+*/
+
+/////////////////////////CHRISTMAS///////////////////
+
+
+</script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+$("#wysuwane").hover(
+function () {
+$("#wysuwane").stop().animate({right: "0px"}, 1000 );
+},
+function () {
+$("#wysuwane").stop().animate({right: "-310px"}, 1000 );
+}
+);
+
+$(function() {
+slide();
+});
+
+function slide() {
+var item_width = $('.carousel_ul li').outerWidth( true );
+var left_indent = 0 - item_width;
+
+$( '.carousel_ul' ).animate( {'left' : left_indent}, 6000, 'linear', function() {
+$( '.carousel_ul li:last' ).after( $('.carousel_ul li:first') );
+$( '.carousel_ul' ).css( {'left' : '0px'} );
+
+
+slide();
+});
+}
+
+
+$( "#constant_boxes #shoponline a" ).hover(
+function() {
+$( '#constant_boxes #shoponline img' ).css( 'filter','brightness(85%)' );
+}, function() {
+$( '#constant_boxes #shoponline img' ).css( 'filter','brightness(50%)' );
+}
+);
+
+$( "#constant_boxes #ourpartners a" ).hover(
+function() {
+$( '#constant_boxes #ourpartners img' ).css( 'filter','brightness(85%)' );
+//$( '#constant_boxes #ourpartners p' ).css( 'background','rgba(0, 0, 0, 0.3)' );
+}, function() {
+$( '#constant_boxes #ourpartners img' ).css( 'filter','brightness(50%)' );
+//$( '#constant_boxes #ourpartners p' ).css( 'background','none' );
+}
+);
+
+$( "#constant_boxes #mapofshops a" ).hover(
+function() {
+$( '#constant_boxes #mapofshops img' ).css( 'filter','brightness(85%)' );
+}, function() {
+$( '#constant_boxes #mapofshops img' ).css( 'filter','brightness(50%)' );
+}
+);
+
+// When the user scrolls down 20px from the top of the document, show the button
+$(window).scroll(function(){
+if ($(this).scrollTop() > 800) {
+$('#scroolBtn').fadeIn();
+} else {
+$('#scroolBtn').fadeOut();
+}
+});
+
+$('#scroolBtn').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 600);
+return false;
+});
+
+
+});
+
+</script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.5&appId=218975671457695";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.6&appId=218975671457695";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="l_holder_home">
+
+<div id="l_holder_menu">
+<nav>
+<div id="menu-icon"></div>
+<ul class="horizontalMenuList" id="horizontalMenuRoot"><li class=""><a class="" id="loc_200" href="https://www.polonez.ie/en/home.html">Home</a></li><li class=""><a class="" id="loc_242" href="https://www.polonez.ie/en/about-us.html">About us</a><ul><li><a class="" id="loc_250" href="https://www.polonez.ie/en/about-us/gallery1.html">Gallery &nbsp;</a></li></ul></li><li class=""><a class="" id="loc_201" href="https://www.polonez.ie/en/shops-location.html">Shops location</a><ul><li><a class="" id="loc_208" href="https://www.polonez.ie/en/shops-location/dublin.html">Dublin&nbsp;</a></li><li><a class="" id="loc_209" href="https://www.polonez.ie/en/shops-location/bray.html">Bray&nbsp;</a></li><li><a class="" id="loc_356" href="https://www.polonez.ie/en/shops-location/cavan.html">Cavan&nbsp;</a></li><li><a class="" id="loc_258" href="https://www.polonez.ie/en/shops-location/newry.html">Newry&nbsp;</a></li><li><a class="" id="loc_210" href="https://www.polonez.ie/en/shops-location/athlone.html">Athlone&nbsp;</a></li><li><a class="" id="loc_211" href="https://www.polonez.ie/en/shops-location/sligo.html">Sligo&nbsp;</a></li><li><a class="" id="loc_212" href="https://www.polonez.ie/en/shops-location/carlow.html">Carlow&nbsp;</a></li><li><a class="" id="loc_291" href="https://www.polonez.ie/en/shops-location/cork4.html">Cork&nbsp;</a></li><li><a class="" id="loc_344" href="https://www.polonez.ie/en/shops-location/limerick.html">Limerick&nbsp;</a></li><li><a class="" id="loc_222" href="https://www.polonez.ie/en/shops-location/mullingar.html">Mullingar&nbsp;</a></li><li><a class="" id="loc_214" href="https://www.polonez.ie/en/shops-location/naas.html">Naas&nbsp;</a></li><li><a class="" id="loc_241" href="https://www.polonez.ie/en/shops-location/new-ross.html">New Ross&nbsp;</a></li><li><a class="" id="loc_215" href="https://www.polonez.ie/en/shops-location/navan.html">Navan&nbsp;</a></li><li><a class="" id="loc_216" href="https://www.polonez.ie/en/shops-location/tullamore.html">Tullamore&nbsp;</a></li><li><a class="" id="loc_217" href="https://www.polonez.ie/en/shops-location/portlaoise.html">Portlaoise&nbsp;</a></li><li><a class="" id="loc_272" href="https://www.polonez.ie/en/shops-location/galway.html">Galway&nbsp;</a></li></ul></li><li class=""><a class="" id="loc_325" href="https://www.polonez.ie/en/shop-online.html">Shop online</a><ul><li><a class="" id="loc_331" href="https://www.polonez.ie/en/shop-online/beers.html">Beers&nbsp;</a></li><li><a class="" id="loc_332" href="https://www.polonez.ie/en/shop-online/spirits.html">Spirits&nbsp;</a></li><li><a class="" id="loc_333" href="https://www.polonez.ie/en/shop-online/wines.html">Wines&nbsp;</a></li></ul></li><li class=""><a class="" id="loc_293" href="https://www.polonez.ie/en/magazines.html">Magazines</a><ul><li><a class="" id="loc_294" href="https://www.polonez.ie/en/magazines/latest-newspaper.html">Latest Newspaper&nbsp;</a></li></ul></li><li class=""><a class="" id="loc_268" href="https://www.polonez.ie/en/job-offers.html">Job offers</a></li><li class=""><a class="" id="loc_91" href="https://www.polonez.ie/en/contact-us.html">Contact Us</a></li></ul><script>var vitOrgLoc = "robots.txt";</script>
+</nav>
+<a class="topcartmobile" href="/shop-online.html"></a>
+</div>
+
+<div id="l_header_bg">
+<div id="l_header">
+
+<div class="header_left">
+<a href="/" class="logoLink" title="Polonez.ie - Home page"></a>
+<div class="changeLanguage_links"><ul class="languageLinks"><li class="English selected"><a href="https://www.polonez.ie/en/home.html2" alt="English" title="English" ></a></li><li class="Polish"><a href="https://www.polonez.ie/pl/home.html2" alt="Polish" title="Polish" ></a></li></ul></div>			<div class="clear"></div>
+<div id="loginform_top">
+<form method="POST"><input type="hidden" name="logMeIn" value="1"><table class="loginLinksTable"><tr>
+<!--<td class="loginTxt">E-mail:</td>-->
+<td class="loginField"><input value="" type="text" name="vitLogin"></td>
+<!--<td class="passTxt">Password:</td>-->
+<td class="passField"><input value="" type="password" name="vitPass"></td>
+</tr>
+</table><div class="loginButtonHolder"><input class="submit" type="submit" value=""></div></form><div class="otherLinksHolder"><a class="signInLink" href="https://www.polonez.ie/en/members-section/registration.html">Register</a></div>			</div>
+<a class="topcart" href="/shop-online.html"></a>
+
+
+</div>
+
+</div>
+</div>
+
+
+
+
+<div id="l_holderinside">
+
+<div id="l_maincontent">
+
+<div id="l_maincontent_inner_left"></div>
+<div id="l_maincontent_inner">
+
+<div id="l_col1">
+
+<div id="promo_links" style="display: none" >
+<div id="promo_links_inner">
+<div id="promo_links_start_left"></div>
+<div id="promo_links_content">
+</div>
+<div id="promo_links_start_right"></div>
+<div id="promo_links_end">
+<div id="promo_links_end_left"></div>
+<div id="promo_links_end_right"></div>
+</div>
+</div>
+</div>
+
+<div class="clear"></div>
+<div id="l_loginForm_left" class="left_col">					<form method="POST"><input type="hidden" name="logMeIn" value="1"><table class="loginLinksTable"><tr>
+<td class="loginTxt">E-mail:</td>
+<td class="loginField"><input value="" type="text" name="vitLogin"></td>
+</tr>
+<tr>
+<td class="passTxt">Password:</td>
+<td class="passField"><input value="" type="password" name="vitPass"></td>
+</tr>
+</table><div class="loginButtonHolder"><input class="submit" type="submit" value="Login"></div></form><div class="otherLinksHolder"><a class="lostPasswordLink" href="https://www.polonez.ie/en/members-section/forgotten-password.html">Lost Password?</a><a class="signInLink" href="https://www.polonez.ie/en/members-section/registration.html">Register</a></div>					</div>
+<div class="clear"></div>
+
+<div id="promo_articles">
+<div class="bigArticle linkedArticle" id="article_584"><div class="articleListNoTitle" onclick="document.location='https://www.polonez.ie/en/home/shop-online-how-does-it-work-.html'" alt="Shop online - How does it work?" title="Shop online - How does it work?"><p><img alt="" src="/assets/article/f5deaeeae1538fb6c45901d524ee2f98/sklep-alk-3-212.jpg" style="height:300px; width:212px" /></p>
+</div></div><div class="bigArticle linkedArticle" id="article_73"><div class="articleListNoTitle" onclick="document.location='/cooking-recipes.html'" alt="Dish of the week" title="Dish of the week"><p style="text-align:center"><img alt="kucharki_ang_1.jpg" src="/assets/article/d2ddea18f00665ce8623e36bd4e3c7c5/przepisy-ang.jpg" style="height:172px; width:212px" /></p>
+</div></div><div class="bigArticle linkedArticle" id="article_64"><div class="articleListNoTitle" onclick="document.location='/mapa-sklepow.html'" alt=" Link to maps" title=" Link to maps"><div class="map-ireland" style="background: url('/assets/article/ea5d2f1c4608232e07d3aa3d998e5135/mapa-en-o.png') no-repeat">
+<div class="container_star-ireland">
+<div class="star-ireland" style="background: url('/gfx/arrow.png') no-repeat">&nbsp;</div>
+</div>
+</div>
+</div></div><div class="bigArticle linkedArticle" id="article_481"><div class="articleListNoTitle" onclick="document.location='https://www.polonez.ie/en/home/partners.html'" alt="Partners" title="Partners"><p><img alt="" src="/assets/article/9461cce28ebe3e76fb4b931c35a169b0/Bez nazwy-1.jpg" style="height:175px; width:212px" /></p>
+</div></div><div class="bigArticle" id="article_74"><div class="article"><div class="articleListSummary"><p style="text-align: center;">&nbsp;<a style="float: left; display: block; margin: 1px 0 0 10px " href="https://www.facebook.com/pages/polonezie/137072619726266" target="_self"><img align="bottom" height="37" width="87" src="/assets/article/ad61ab143223efbc24c7d2583be69251/facebook_polonez.jpg" alt="facebook_polonez.jpg" /></a><a style="float: left; display: block; " href="http://www.youtube.com/user/Polonez44?feature=mhee" target="_self"><img align="bottom" height="40" width="78" alt="youtube_polonez.jpg" src="/assets/article/ad61ab143223efbc24c7d2583be69251/youtube_polonez.jpg" /></a></p></div></div></div><div class="bigArticle linkedArticle" id="article_831"><div class="articleListNoTitle" onclick="document.location='https://www.polonez.ie/en/home/free-gift-special-offer.html'" alt="Free Gift special offer" title="Free Gift special offer"><p style="text-align:center"><br />
+<span style="font-size:16px"><span style="color:#FF0000"><strong>Free Gift special offer</strong></span></span><br />
+<br />
+<img alt="" src="/assets/freegitfs-212-short.jpg" style="height:38px; width:212px" /></p>
+</div></div><div class="clear"></div>					</div>
+
+</div>
+
+<div id="l_col2">
+
+<div class="breadcrumbs">You are here: <a  href="https://www.polonez.ie/en/home.html/1"></a></div><h1 id="page_title"></h1>
+Sorry. The content you want to see can not be found. File does not exists.
+
+</div>
+
+</div>
+<div id="l_maincontent_inner_right"></div>
+
+<div id="redbox_holder">
+<div id="home_articles">
+<div class="smallArticle" id="article_57"><h2 class="articleListTitle ">Children's Club</h2><div class="article"><div class="articleListSummary"><p style="text-align:center"><a href="http://www.polonez.ie/en/children-s-club.html" target="_self"><img alt="polonezklubdziecka.jpg" src="/assets/article/72b32a1f754ba1c09b3695e0cb6cde7f/childrens-club.png" style="height:70px; width:100px" /></a></p>
+</div></div></div><div class="smallArticle" id="article_4"><h2 class="articleListTitle ">Past events</h2><div class="article"><div class="articleListSummary"><p style="text-align: center;"><a href="http://www.polonez.ie/en/events.html" target="_self"><img alt="polonezwydarzenia.jpg" src="/assets/article/a87ff679a2f3e71d9181a67b7542122c/past-events.png" style="height:70px; width:71px" /></a></p>
+</div></div></div><div class="smallArticle" id="article_54"><h2 class="articleListTitle ">Wholesale on-line<br>for business customers only</h2><div class="article"><div class="articleListSummary"><p style="text-align: center;"><a href="http://shop.polonez.ie" target="_blank"><img alt="koszykimyszka.jpg" src="/assets/article/a684eceee76fc522773286a895bc8436/wholesale-online.png" style="height:70px; width:69px" /></a></p>
+</div></div></div><div class="smallArticle" id="article_56"><h2 class="articleListTitle ">Write to us</h2><div class="article"><div class="articleListSummary"><p style="text-align: center;"><a href="http://polonez.ie/en/napisz-do-nas1.html" target="_self"><img alt="polonezopiniaklientow.jpg" src="/assets/article/9f61408e3afb633e50cdf1b20de6f466/write-to-us.png" style="height:70px; width:71px" /></a></p>
+</div></div></div><div class="clear"></div>				<!--<div id="polishflag_footer"></div>-->
+</div>
+</div>
+
+<div id="constant_boxes_holder">
+<div id="constant_boxes">
+<div class="conboxclass" id="shoponline" >
+<img src="/gfx/p-alkohol.jpg" alt="Shop online" width="222px" height="194px" >
+<a href="/shop-online.html"><p>Polonez alcohol<br>shop online</p></a>
+</div>
+<div class="conboxclass" id="ourpartners" >
+<img src="/gfx/p-our-partners.jpg" alt="Our partners" width="222px" height="194px" >
+<a href="/home/partners.html"><p>Our partners</p></a>
+</div>
+<div class="conboxclass" id="mapofshops" >
+<img src="/gfx/p-find-a-store.jpg" alt="Map of shops" width="222px" height="194px" >
+<a href="/shops-map.html"><p>Map of our shops</p></a>
+</div>
+<div class="conboxclass" id="subscriptions">
+<div class="articleListTitle">Newsletter</div>
+<div><form method="POST" action="/robots.txt" name="emailsForm">
+<input type="hidden" name="actionToDoNewsletter" value="save"><input class="textfield" type="text" name="email" value="Enter your e-mail" onblur="if(this.value=='') this.value='Enter your e-mail';"  onfocus="if(this.value == 'Enter your e-mail') this.value = '';"><br />
+<input type="button" onclick="this.form.submit();" class="submit" value="Subscribe">
+</form>
+</div></div>				</div>
+</div>
+
+<div id="home_sponsors">
+<div class="carousel_inner">
+<ul class="carousel_ul">
+<li><img src="/gfx/loga-stopka/Alpro_Logo.png"></li>
+<li><img src="/gfx/loga-stopka/ba_logo.png"></li>
+<li><img src="/gfx/loga-stopka/balcerzak.png"></li>
+<li><img src="/gfx/loga-stopka/caprio-plus.jpg"></li>
+<li><img src="/gfx/loga-stopka/danio.jpg"></li>
+<li><img src="/gfx/loga-stopka/Danone_Activia.png"></li>
+<li><img src="/gfx/loga-stopka/Gerber_logo.png"></li>
+<li><img src="/gfx/loga-stopka/laciate_logo.png"></li>
+<li><img src="/gfx/loga-stopka/logo_maretti.jpg"></li>
+<li><img src="/gfx/loga-stopka/logo_sante.jpg"></li>
+<li><img src="/gfx/loga-stopka/logo-indykpolu.jpg"></li>
+<li><img src="/gfx/loga-stopka/Logo-K.jpg"></li>
+<li><img src="/gfx/loga-stopka/logo-kupiec.jpg"></li>
+<li><img src="/gfx/loga-stopka/logo-PROFI.jpg"></li>
+<li><img src="/gfx/loga-stopka/Logo-tymbark.png"></li>
+<li><img src="/gfx/loga-stopka/lubella-logo.png"></li>
+<li><img src="/gfx/loga-stopka/naleczowianka_logo.png"></li>
+<li><img src="/gfx/loga-stopka/OSM_Piatnica.jpg"></li>
+<li><img src="/gfx/loga-stopka/prymat.jpg"></li>
+<li><img src="/gfx/loga-stopka/your-healthy-choice.png"></li>
+<li><img src="/gfx/loga-stopka/sokolow.jpg"></li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<div id="menu_bottom_holder">
+<div id="menu_bottom">
+<ul class="verticalMenuList" id="verticalMenuRoot"><li class=""><a class="" id="loc_325" href="https://www.polonez.ie/en/shop-online.html">Shop online</a></li><li class=""><a class="" id="loc_265" href="https://www.polonez.ie/en/careers-in-polonez.html">Careers in Polonez</a></li><li class=""><a class="" id="loc_247" href="https://www.polonez.ie/en/suppliers.html">Suppliers</a></li><li class=""><a class="" id="loc_264" href="https://www.polonez.ie/en/our-warehouse.html">Our warehouse</a></li><li class=""><a class="" id="loc_273" href="https://www.polonez.ie/en/transport1.html">Transport</a></li><li class=""><a class="" id="loc_288" href="https://www.polonez.ie/en/warehouse-and-distribution-centre.html">Warehouse and Distribution Centre</a></li><li class=""><a class="" id="loc_328" href="https://www.polonez.ie/en/events-with-polonez.html">Events with Polonez</a></li></ul><script>var vitOrgLoc = "robots.txt";</script>			</div>
+</div>
+
+<div id="footer_social_holder">
+<div id="footer_social">
+<p>Follow us on:</p>
+<a href="https://www.facebook.com/polonez.ireland/" target="_blank" id="s-facebook"></a>
+<a href="" id="s-youtube"></a>
+</div>
+</div>
+
+<div id="l_footer_outer">
+
+<div id="l_footer">
+
+<div class="foot_left">
+Copyright &copy; 2019 Polonez LTD | Powered by <a href="http://www.vitcms.pl" target="_blank">V.I.T.</a>
+</div>
+
+<div class="foot_right">
+<a href="https://www.polonez.ie/en/shop-online/terms-conditions-of-use.html">Terms of Use</a>&nbsp;<a href="https://www.polonez.ie/en/shop-online/privacy-policy.html">Privacy Policy</a>&nbsp;<a href="https://www.polonez.ie/en/sitemap.html">Sitemap</a>&nbsp;<a href="https://www.polonez.ie/en/contact-us.html">Contact Us</a>
+</div>
+
+</div>
+
+</div>
+</div>
+<div id="wysuwane">
+<div class="fb-page" data-href="https://www.facebook.com/polonez.ireland" data-tabs="timeline" data-width="292" data-height="525" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/polonez.ireland" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/polonez.ireland">Polonez Ireland</a></blockquote></div>
+</div>
+<button id="scroolBtn" title=""></button><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-67872064-1', 'auto');
+ga('send', 'pageview');
+
+</script></body>
+</html>

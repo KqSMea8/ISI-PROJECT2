@@ -1,0 +1,15 @@
+Disallow: /forum/index.php?action=search*
+Disallow: /forum/index.php?action=calendar*
+Disallow: /forum/index.php?action=login*
+Disallow: /forum/index.php?action=register*
+Disallow: /forum/index.php?action=profile*
+Disallow: /forum/index.php?action=stats*
+Disallow: /forum/index.php?action=arcade*
+Disallow: /forum/index.php?action=printpage*
+Disallow: /forum/index.php?PHPSESSID=*
+Disallow: /forum/index.php?*rss*
+Disallow: /forum/index.php?*wap*
+Disallow: /forum/index.php?*wap2*
+Disallow: /forum/index.php?*imode*
+Disallow: /forum/Themes/*
+Disallow: *msg*

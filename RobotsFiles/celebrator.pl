@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /pmode/ini
+Disallow: /pmode/admin
+Disallow: /pmode/przyc
+Disallow: /pmode/menu
+Disallow: /pmode/style
+Disallow: /pmode/reklamy
+Disallow: /ini
+Disallow: /admin
+Disallow: /przyc
+Disallow: /menu
+Disallow: /style
+Disallow: /reklamy
+Disallow: /add

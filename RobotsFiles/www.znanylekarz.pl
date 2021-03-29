@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+Disallow: /stats.php
+Disallow: /ajax.php
+
+User-agent: *
+Disallow: /umow-wizyte/
+Disallow: /ranking-lekarzy/
+Disallow: /lokalizacja/
+Disallow: /rejestracja-lekarz
+Disallow: /przejmij-kontrole/
+Disallow: /logowanie
+Disallow: /logowanie*
+Disallow: /doctor-add
+Disallow: /opinion-form/
+Disallow: /opinion-form/*
+Disallow: /social-connect/*
+Disallow: /zglos-zmiany-profilu/*
+Disallow: /patient-opinions
+Disallow: /availability
+
+User-Agent: AhrefsBot
+Crawl-Delay: 2
+
+User-agent: PiplBot
+Disallow: /

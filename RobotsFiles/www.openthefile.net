@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow:
+
+User-Agent: Googlebot
+Disallow: /advertising/
+Disallow: /ads/
+Disallow: /eula
+Disallow: /m/
+Disallow: /mobile/
+
+Sitemap: https://www.openthefile.net/sitemap.xml
+

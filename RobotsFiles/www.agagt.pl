@@ -1,0 +1,4 @@
+# Don't index Group-Office. This only works if Group-Office is in the document root.
+User-agent: *
+Disallow: /config/
+

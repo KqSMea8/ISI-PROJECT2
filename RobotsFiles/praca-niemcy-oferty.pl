@@ -1,0 +1,14 @@
+Sitemap: http://www.praca-niemcy-oferty.pl/sitemap.xml
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /zapisy/*
+Disallow: /logowanie/
+Disallow: /kandydat/
+Disallow: /*kandydat
+Disallow: /znajomi_wyszukaj/
+Disallow: /* znajomi_wyszukaj
+Disallow: /*?
+User-agent: ia_archiver
+Disallow: /
+

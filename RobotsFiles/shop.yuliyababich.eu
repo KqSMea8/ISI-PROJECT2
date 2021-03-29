@@ -1,0 +1,19 @@
+User-agent: *
+# User-agent: Yandex
+# User-agent: Googlebot
+# User-agent: Slurp
+# User-agent: StackRambler
+# User-agent: Yahoo-MMCrawler
+# User-agent: Googlebot-Image
+
+# Disallow: /
+Disallow: /bin/
+Disallow: /Models/
+Disallow: /Content/
+Disallow: /Scripts/
+Disallow: /images/
+Disallow: /Web References/
+Disallow: /Views/
+Host: www.yuliyababich.eu
+Sitemap: http://www.yuliyababich.eu/sitemap_eu.xml
+

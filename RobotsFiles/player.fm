@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /episodes?q=
+Disallow: /series?q=
+Disallow: /channels?q=
+Disallow: /images
+Sitemap: https://player.fm/servo/sitemaps/sitemap/sitemap.xml.gz
+

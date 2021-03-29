@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /*?
+Disallow: /*url=
+Disallow: /report
+Disallow: /report.php
+
+User-agent: Googlebot
+Disallow: /*?
+
+User-agent: Googlebot-Image
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.png$

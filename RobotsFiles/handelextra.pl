@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Sitemap: https://handelextra.pl/sitemaps/handelextra_sitemap_today.xml.gz
+Sitemap: https://handelextra.pl/sitemaps/handelextra_sitemap_now.xml.gz
+Sitemap: https://handelextra.pl/sitemaps/handelextra_sitemap_do_2018.xml.gz
+Sitemap: https://handelextra.pl/sitemaps/handelextra_sitemap_static.xml.gz
+Sitemap: https://handelextra.pl/sitemaps/handelextra_sitemap_tags.xml.gz
+Disallow: /logowanie
+Disallow: /przypomnij_haslo
+Disallow: /przypomnij-haslo
+Disallow: /user_licencje

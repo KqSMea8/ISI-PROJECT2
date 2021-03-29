@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */*/trackback
+Disallow: */*/feed/*/
+Disallow: */feed
+Disallow: /*?*
+Disallow: /tag
+Host: igg.biz.pl
+
+User-agent: Yandex
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */*/trackback
+Disallow: */*/feed/*/
+Disallow: */feed
+Disallow: /*?*
+Disallow: /tag
+Host: igg.biz.pl
+
+Sitemap: http://igg.biz.pl/page-sitemap.xml

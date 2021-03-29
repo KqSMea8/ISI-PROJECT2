@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+
+
+Sitemap: http://originalhandicraft.org/sitemap.xml.gz
+

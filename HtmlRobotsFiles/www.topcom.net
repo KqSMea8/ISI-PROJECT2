@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+<title>www.topcom.net staat geparkeerd bij Domeinbalie.nl</title>
+<!--<meta name="description" content="PSD to HTML5+CSS3 conversion.">-->
+<!--<meta name="keywords" content="PSD, HTML5, CSS3">-->
+
+<!--// FAVICON //-->
+<link rel="shortcut icon" href="assets/img/favicon.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/bookmark1.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/bookmark2.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/bookmark3.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/img/bookmark4.png"/>
+
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" href="/assets/css/animate.min.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" href="/assets/css/style.css?ver=1.0" type="text/css" media="all"/>
+
+<!--[if lt IE 9]>
+<script src="/assets/js/html5.js"></script>
+<script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+
+<!--// GOOGLE FONT LOADER //-->
+<script>
+var html = document.getElementsByTagName('html')[0];
+html.className += '  wf-loading';
+setTimeout(function () {
+html.className = html.className.replace(' wf-loading', '');
+}, 3000);
+
+WebFontConfig = {
+google: {families: ['Noto Sans:400', 'Montserrat:400', 'Montserrat:400', 'Vidaloka']}
+};
+
+(function () {
+document.getElementsByTagName("html")[0].setAttribute("class", "wf-loading")
+//  NEEDED to push the wf-loading class to your head
+document.getElementsByTagName("html")[0].setAttribute("className", "wf-loading")
+// for IE
+
+var wf = document.createElement('script');
+wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+wf.type = 'text/javascript';
+wf.async = 'false';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(wf, s);
+})();
+</script>
+
+</head>
+<body>
+
+<div class="container">
+<div class="row heading">
+<div class="col-md-12 text-center">
+<h1>U bezoekt www.topcom.net</h1>
+
+<p>Deze domeinnaam staat veilig geparkeerd bij <a href="https://www.domeinbalie.nl">Domeinbalie.nl</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="boxes white">
+<h2>Domeinnaam nog vrij?</h2>
+
+<p>
+Bij Domeinbalie.nl registreert u uw
+domeinnaam al vanaf EUR12,95 per jaar
+(excl. BTW), inclusief <strong><span>vele extra's</span></strong>.
+</p>
+<form method="post" action="https://www.domeinbalie.nl/lounge/Checker/Index">
+<input type="text" class="form-control" name="domain" placeholder="uwgewenstedomeinnaam.nl"/>
+<button class="btn btn-green">
+Controleer beschikbaarheid
+</button>
+</form>
+</div>
+</div>
+<div class="col-md-4">
+<div class="boxes white">
+<img alt="Webhosting vanaf 3,95 per maand" class="vanaf" src="assets/img/vanaf395-150x150.png"/>
+
+<h2>
+Betrouwbare<br>
+webhosting!
+</h2>
+
+<p>
+Binnen <strong>5 minuten</strong> actief op het
+internet, 100% controle via ons
+hosting-panel en uw website wordt
+gehost op <strong>razendsnelle servers</strong> op
+Nederlandse bodem.
+
+<a href="https://www.domeinbalie.nl/webhosting/" class="btn btn-green">Kies een van onze 5
+pakketten</a>
+</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="boxes white small-centered">
+<h2>Onze diensten</h2>
+Bent u
+benieuwd naar wat
+Domeinbalie.nl voor u kan
+betekenen?
+
+<ul class="list-unstyled">
+<li>
+<a target="_blank" href="https://www.domeinbalie.nl/pro/">
+Enterprise solutions
+</a>
+</li>
+
+<li><a target="_blank"
+href="https://www.domeinovername.nl/">Domeinovername.nl</a></li>
+<li>
+<a target="_blank" href="https://www.domeinbalie.nl/domeinnamen/extensies/">
+Domeinnaam extensies
+</a>
+</li>
+
+</ul>
+
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12 text-center">
+<div class="copyright">
+<img alt="Domeinbalie.nl" src="assets/img/logo.png"/><a href="https://www.domeinbalie.nl" class="red">Domeinbalie.nl</a>
+
+<p>
+Samen groeien. Dat is waar we in geloven.
+</p>
+</div>
+</div>
+</div>
+
+</div>
+
+
+<div class="back-to-top"><i class="fa fa-angle-up fa-3x"></i></div>
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="assets/js/jquery-1.11.1.min.js?ver=1"></script>
+<![endif]-->
+<!--[if (gte IE 9) | (!IE)]><!-->
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js?ver=1"></script>
+<!--<![endif]-->
+
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript">
+// fade in .back-to-top
+$(window).scroll(function () {
+if ($(this).scrollTop() > 500) {
+$('.back-to-top').fadeIn();
+} else {
+$('.back-to-top').fadeOut();
+}
+});
+
+// scroll body to 0px on click
+$('.back-to-top').click(function () {
+$('body').animate({
+scrollTop: 0
+}, 1500);
+return false;
+});
+
+$('.boxes').matchHeight();
+</script>
+
+</body>
+</html>

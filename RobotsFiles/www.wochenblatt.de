@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google
+Allow: *
+
+User-Agent: *
+Disallow: /socialmediabar/print/
+Disallow: /ajax/report/article/
+Disallow: /suche/
+
+Sitemap: https://www.wochenblatt.de/googleNewsList.xml
+Sitemap: https://www.wochenblatt.de/sitemap.xml

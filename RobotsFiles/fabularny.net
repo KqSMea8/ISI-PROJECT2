@@ -1,0 +1,40 @@
+User-agent: *
+Disallow: /admin
+Disallow: /banners
+Disallow: /config
+Disallow: /config-old
+Disallow: /error
+Disallow: /header
+Disallow: /footer
+Disallow: /pntables
+Disallow: /images
+Disallow: /includes
+Disallow: /themes
+Disallow: /pnTemp
+Disallow: /docs
+Disallow: /javascript
+
+
+User-agent: msnbot
+Disallow:
+User-agent: Slurp
+Disallow:
+User-agent: Teoma
+Disallow:
+User-agent: rogerbot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Synapse
+Disallow: /
+User-agent: Gecko
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+

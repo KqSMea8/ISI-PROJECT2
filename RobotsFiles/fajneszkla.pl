@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /bootstrap/
+Disallow: /bots/
+Disallow: /cache/
+Disallow: /druczki_pdf/
+Disallow: /inc/
+Disallow: /images/
+Disallow: /kopie/
+Disallow: /language/
+Disallow: /miniatury/
+Disallow: /pdf/
+Disallow: /php/
+Disallow: /rs-plugin/
+Disallow: /templates/
+Disallow: /trash/
+Disallow: /upload_pliki/
+Disallow: /upload_slider/
+

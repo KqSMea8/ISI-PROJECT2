@@ -1,0 +1,26 @@
+# Default modx exclusions
+User-agent: *
+Disallow: /assets/backup/
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /assets/packages/
+Disallow: /assets/tvs/
+Disallow: /install/
+
+Allow: /assets/cache/images/
+Allow: /assets/modules/*.css
+Allow: /assets/modules/*.js
+Allow: /assets/plugins/*.css
+Allow: /assets/plugins/*.js
+Allow: /assets/snippets/*.css
+Allow: /assets/snippets/*.js
+
+Host: www.profesjonalne-pranie.pl
+
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+Sitemap: https://www.profesjonalne-pranie.pl/sitemap.xml

@@ -1,0 +1,67 @@
+Sitemap: https://lilouparis.com/sitemaps/ca/sitemap.xml
+Sitemap: https://lilouparis.com/sitemaps/us/sitemap.xml
+Sitemap: https://lilouparis.com/sitemaps/de/sitemap.xml
+Sitemap: https://lilouparis.com/sitemaps/gb/sitemap.xml
+Sitemap: https://www.lilou.fr/sitemaps/fr/sitemap.xml
+Sitemap: https://www.lilou.pl/sitemaps/pl/sitemap.xml
+
+# Google Image Crawler Setup
+User-agent: Googlebot-Image
+Disallow:
+
+# Crawlers Setup
+User-agent: *
+
+# Directories
+Disallow: /404/
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+#Disallow: /js/
+#Disallow: /lib/
+Disallow: /magento/
+#Disallow: /media/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /scripts/
+Disallow: /shell/
+Disallow: /skin/
+Disallow: /stats/
+Disallow: /var/
+
+# Paths (clean URLs)
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalogsearch/
+#Disallow: /checkout/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+Disallow: /catalog/product/gallery/
+
+# Files
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+# Paths (no clean URLs)
+#Disallow: /*.js$
+#Disallow: /*.css$
+Disallow: /*.php$
+Disallow: /*?SID=

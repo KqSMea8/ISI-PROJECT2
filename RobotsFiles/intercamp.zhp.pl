@@ -1,0 +1,1 @@
+<title>InterCamp Polski Kontyngent | Maintenance Mode</title><div align="center" style="font-family: Verdana; color: black;"><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><h1>Przepraszamy, nasza strona jest obecnie niedostepna</h1>Pracujemy nad nowa strona. Zapraszamy ponownie za kilka dni.</div>

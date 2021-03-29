@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /stats/
+Disallow: /film/
+Disallow: /podstawy.htm
+Disallow: /roznosci.htm
+Disallow: /aktual.htm
+Disallow: /w/
+Disallow: /lutowiec/
+Disallow: /bielsko.htm
+Disallow: /sondy/

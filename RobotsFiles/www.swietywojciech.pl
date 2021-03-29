@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /*.axd
+Disallow: /Specjalne/
+Disallow: /Specjalne
+Disallow: /upload/
+Disallow: /include/
+Disallow: /nr/
+Disallow: /pg/
+Disallow: /pl/
+Disallow: /www/
+Disallow: /zamowienia/
+Disallow: /site/
+Allow: /
+Disallow: /Wyszukiwarka
+Disallow: /Wyszukiwarka/
+Disallow: /Zakupy
+Disallow: /Zakupy/
+Disallow: /admin
+Disallow: /CMSPages/logon.aspx
+
+Sitemap: https://www.swietywojciech.pl/sitemap.xml

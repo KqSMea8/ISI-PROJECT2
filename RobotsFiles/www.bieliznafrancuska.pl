@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+Disallow: /*/fav/add/
+
+Disallow: /*/p/comment/add/
+Disallow: /pl/basket
+Disallow: /pl/reg
+Disallow: /pl/login
+Disallow: /pl/prices
+Disallow: /pl/prices/xls
+Disallow: /pl/passremind
+Disallow: /pl/s
+Disallow: /pl/index/*
+Disallow: /*/regulamin-zakupow/
+Disallow: /regulamin-zakupow/
+Disallow: /*/regulamin-zakupow
+Disallow: /regulamin-zakupow
+
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/
+Disallow: /*/searchquery/
+Disallow: /*/pricefrom/
+Disallow: /*/en_US/
+Disallow: /pricefrom/
+Disallow: /en_US/

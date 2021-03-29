@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kalendarium/action~posterboard/
+Disallow: /kalendarium/action~agenda/
+Disallow: /kalendarium/action~oneday/
+Disallow: /kalendarium/action~month/
+Disallow: /kalendarium/action~week/
+Disallow: /kalendarium/action~stream/
+Disallow: /kalendarium/action~undefined/
+Disallow: /kalendarium/action~http:/
+Disallow: /kalendarium/action~default/
+Disallow: /kalendarium/action~poster/
+Disallow: /kalendarium/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

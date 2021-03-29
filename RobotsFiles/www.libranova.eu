@@ -1,0 +1,4 @@
+# Ten serwis w ogole nie bedzie indeksowany przez roboty:
+User-agent: *
+Disallow: /plold
+/pltest

@@ -1,0 +1,216 @@
+User-agent: *
+Disallow: /Application-areas/Office/
+Disallow: /Archives/
+Disallow: /sv/Archives/
+Disallow: /fi/Archives/
+Disallow: /fr/Archives/
+Disallow: /ru/Archives/
+Disallow: /cz/Archives/
+Disallow: /sk/Archives/
+Disallow: /ie/Archives/
+Disallow: /nz/Archives/
+Disallow: /ee/Archives/
+Disallow: /pl/Archives/
+Disallow: /no/Archives/
+Disallow: /en-GB/Archives/
+Disallow: /da/Archives/
+Disallow: /nl/Archives/
+Disallow: /Application-areas/Retail/TEST/
+Disallow: /Support-center/LED/LED-drivers/
+Disallow: /de/
+
+Disallow: /pre-launch/
+Disallow: /sv/pre-launch/
+Disallow: /fi/pre-launch/
+Disallow: /fr/pre-launch/
+Disallow: /ru/pre-launch/
+Disallow: /cz/pre-launch/
+Disallow: /sk/pre-launch/
+Disallow: /ie/pre-launch/
+Disallow: /nz/pre-launch/
+Disallow: /ee/pre-launch/
+Disallow: /pl/pre-launch/
+Disallow: /no/pre-launch/
+Disallow: /en-GB/pre-launch/
+Disallow: /da/pre-launch/
+Disallow: /nl/pre-launch/
+Disallow: /de//pre-launch/
+
+Disallow: /sv/Walk-of-Light/
+Disallow: /no/Walk-of-Light/
+
+Disallow: /sv/Applikationsomrade/Kontoret/Se-kontoret-i-nytt-ljus/
+Disallow: /sv/Applikationsomrade/Kontoret/Planera-for-flexibilitet/
+Disallow: /sv/Applikationsomrade/Kontoret/Stark-varumarket/
+
+Disallow: /Products/?query=
+Disallow: /sv/Produkter/?query=
+Disallow: /fi/Tuotteet/?query=
+Disallow: /ru/Products/?query=
+Disallow: /cz/Products/?query=
+Disallow: /sk/Products/?query=
+Disallow: /ie/Products/?query=
+Disallow: /nz/Products/?query=
+Disallow: /ee/Products/?query=
+Disallow: /no/Produkter/?query=
+Disallow: /en-GB/Products/?query=
+Disallow: /da/Produkter/?query=
+Disallow: /nl/Producten/?query=
+Disallow: /de/Products/?query=
+Disallow: /fr/Produits/?query=
+Disallow: /pl/Produkty/?query=
+
+Disallow: /products/?query=
+Disallow: /sv/produkter/?query=
+Disallow: /fi/tuotteet/?query=
+Disallow: /ru/products/?query=
+Disallow: /cz/products/?query=
+Disallow: /sk/products/?query=
+Disallow: /ie/products/?query=
+Disallow: /nz/products/?query=
+Disallow: /ee/products/?query=
+Disallow: /no/produkter/?query=
+Disallow: /en-GB/products/?query=
+Disallow: /da/produkter/?query=
+Disallow: /nl/producten/?query=
+Disallow: /de/products/?query=
+Disallow: /fr/produits/?query=
+Disallow: /pl/produkty/?query=
+
+Disallow: /Search/?query=
+Disallow: /sv/Search/?query=
+Disallow: /no/Search/?query=
+Disallow: /da/Search/?query=
+Disallow: /fi/Search/?query=
+Disallow: /ru/Search/?query=
+Disallow: /cz/Search/?query=
+Disallow: /ee/Search/?query=
+Disallow: /en-GB/Search/?query=
+Disallow: /fr/Search/?query=
+Disallow: /ie/Search/?query=
+Disallow: /nz/Search/?query=
+Disallow: /pl/Search/?query=
+Disallow: /sk/Search/?query=
+Disallow: /nl/Search/?query=
+Disallow: /de/Search/?query=
+
+Disallow: /References/?query=
+Disallow: /da/Referencer/?query=
+Disallow: /fi/Referenssikohteita/?query=
+Disallow: /nl/Referenties/?query=
+Disallow: /no/Referanser/?query=
+Disallow: /sv/Referenser/?query=
+Disallow: /ru/References/?query=
+Disallow: /cz/Reference/?query=
+Disallow: /ee/Referentsid/?query=
+Disallow: /en-GB/References/?query=
+Disallow: /fr/Reference/?query=
+Disallow: /ie/references/?query=
+Disallow: /nz/references/?query=
+Disallow: /pl/Referencje/?query=
+Disallow: /sk/references/?query=
+
+
+
+User-agent: SiteSeekerCrawler/1.0
+Disallow: /Application-areas/Office/
+Disallow: /Archives/
+Disallow: /sv/Archives/
+Disallow: /fi/Archives/
+Disallow: /fr/Archives/
+Disallow: /ru/Archives/
+Disallow: /cz/Archives/
+Disallow: /sk/Archives/
+Disallow: /ie/Archives/
+Disallow: /nz/Archives/
+Disallow: /ee/Archives/
+Disallow: /pl/Archives/
+Disallow: /no/Archives/
+Disallow: /en-GB/Archives/
+Disallow: /da/Archives/
+Disallow: /nl/Archives/
+Disallow: /Application-areas/Retail/TEST/
+Disallow: /Support-center/LED/LED-drivers/
+Disallow: /de/
+
+Disallow: /pre-launch/
+Disallow: /sv/pre-launch/
+Disallow: /fi/pre-launch/
+Disallow: /fr/pre-launch/
+Disallow: /ru/pre-launch/
+Disallow: /cz/pre-launch/
+Disallow: /sk/pre-launch/
+Disallow: /ie/pre-launch/
+Disallow: /nz/pre-launch/
+Disallow: /ee/pre-launch/
+Disallow: /pl/pre-launch/
+Disallow: /no/pre-launch/
+Disallow: /en-GB/pre-launch/
+Disallow: /da/pre-launch/
+Disallow: /nl/pre-launch/
+Disallow: /de//pre-launch/
+
+Disallow: /sv/Walk-of-Light/
+Disallow: /no/Walk-of-Light/
+
+Disallow: /sv/Applikationsomrade/Kontoret/Se-kontoret-i-nytt-ljus/
+Disallow: /sv/Applikationsomrade/Kontoret/Planera-for-flexibilitet/
+Disallow: /sv/Applikationsomrade/Kontoret/Stark-varumarket/
+
+
+Disallow: /Products/?query=
+Disallow: /sv/Produkter/?query=
+Disallow: /fi/Tuotteet/?query=
+Disallow: /ru/Products/?query=
+Disallow: /cz/Products/?query=
+Disallow: /sk/Products/?query=
+Disallow: /ie/Products/?query=
+Disallow: /nz/Products/?query=
+Disallow: /ee/Products/?query=
+Disallow: /no/Produkter/?query=
+Disallow: /en-GB/Products/?query=
+Disallow: /da/Produkter/?query=
+Disallow: /nl/Producten/?query=
+Disallow: /de/Products/?query=
+Disallow: /fr/Produits/?query=
+Disallow: /pl/Produkty/?query=
+
+
+Disallow: /Search/?query=
+Disallow: /sv/Search/?query=
+Disallow: /no/Search/?query=
+Disallow: /da/Search/?query=
+Disallow: /fi/Search/?query=
+Disallow: /ru/Search/?query=
+Disallow: /cz/Search/?query=
+Disallow: /ee/Search/?query=
+Disallow: /en-GB/Search/?query=
+Disallow: /fr/Search/?query=
+Disallow: /ie/Search/?query=
+Disallow: /nz/Search/?query=
+Disallow: /pl/Search/?query=
+Disallow: /sk/Search/?query=
+Disallow: /nl/Search/?query=
+Disallow: /de/Search/?query=
+
+Disallow: /references/?query=
+Disallow: /References/?query=
+Disallow: /da/Referencer/?query=
+Disallow: /fi/Referenssikohteita/?query=
+Disallow: /nl/Referenties/?query=
+Disallow: /no/Referanser/?query=
+Disallow: /sv/Referenser/?query=
+Disallow: /ru/References/?query=
+Disallow: /sv/Referenser/?query=
+Disallow: /sv/Referenser/?query=
+Disallow: /cz/Reference/?query=
+Disallow: /ee/Referentsid/?query=
+Disallow: /en-GB/References/?query=
+Disallow: /fr/Reference/?query=
+Disallow: /ie/references/?query=
+Disallow: /nz/references/?query=
+Disallow: /pl/Referencje/?query=
+Disallow: /sk/references/?query=
+
+
+Sitemap: http://www.fagerhult.com/sitemap.xml

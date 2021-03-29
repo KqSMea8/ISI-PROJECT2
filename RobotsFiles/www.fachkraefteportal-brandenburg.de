@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /piwik/
+Sitemap: http://fachkraefteportal-brandenburg.de/sitemap.xml
+

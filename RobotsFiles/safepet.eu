@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /uploads/
+Disallow: /ip_files/
+Disallow: /mpdf/
+Disallow: /ajax/
+Disallow: /admin/
+
+Sitemap: https://safepet.eu/config/sitemap.xml

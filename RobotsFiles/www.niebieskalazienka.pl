@@ -1,0 +1,10 @@
+Sitemap: https://www.mlazienka.pl/sitemap_index.xml
+User-agent: *
+Disallow: /*dodaj.html
+Disallow: /*?utm
+Disallow: /*?lcid=
+Disallow: /pl/szukaj,zaawansowany*
+Disallow: /*porownaj.html?
+Disallow: /*?PRODUCENT
+Disallow: /*?norder=
+Disallow: /*?show=

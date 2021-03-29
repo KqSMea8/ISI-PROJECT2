@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /oferty/przetargi/
+Disallow: /oferty/komunikaty/
+Disallow: /oferty/nieruchomosci/
+Disallow: /oferty/praca/
+Disallow: /oferty/przetargi/
+Disallow: /m/
+Disallow: /mobile/
+Disallow: /szukaj/
+Disallow: /wyszukiwanie.html
+Sitemap: http://www.dlahandlu.pl/sitemapindex.xml

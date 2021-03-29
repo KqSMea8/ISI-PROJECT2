@@ -1,0 +1,17 @@
+User-Agent: *
+Allow: /
+Disallow: *.api
+Disallow: *.woff2?
+Sitemap: https://www.wilderkaiser.info/sitemap.xml
+Sitemap: https://www.wilderkaiser.info/de/accommodations.xml
+Sitemap: https://www.wilderkaiser.info/de/events.xml
+Sitemap: https://www.wilderkaiser.info/de/infrastructure.xml
+Sitemap: https://www.wilderkaiser.info/en/accommodations.xml
+Sitemap: https://www.wilderkaiser.info/en/events.xml
+Sitemap: https://www.wilderkaiser.info/en/infrastructure.xml
+Sitemap: https://www.wilderkaiser.info/nl/accommodations.xml
+Sitemap: https://www.wilderkaiser.info/nl/events.xml
+Sitemap: https://www.wilderkaiser.info/nl/infrastructure.xml
+Sitemap: https://www.wilderkaiser.info/fr/accommodations.xml
+Sitemap: https://www.wilderkaiser.info/fr/events.xml
+Sitemap: https://www.wilderkaiser.info/fr/infrastructure.xml

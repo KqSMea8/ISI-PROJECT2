@@ -1,0 +1,1 @@
+brak strony w serwisie

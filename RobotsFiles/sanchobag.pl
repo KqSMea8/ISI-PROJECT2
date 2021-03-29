@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /example-category/
+Disallow: /example-page/
+Disallow: /asdfghj/
+Disallow: /parts/
+Disallow: /phpmail/
+Sitemap: https://sanchobag.pl/sitemap.xml
+Host: https://sanchobag.pl/

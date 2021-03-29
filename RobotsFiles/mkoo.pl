@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /css/
+Disallow: /doc/
+Disallow: /Grf/
+Disallow: /img/
+Disallow: /inc/
+Disallow: /lib/
+Disallow: /sekretariats/
+Disallow: /zip/
+Disallow: /download/

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: */catalog/coment_add/*
+Disallow: */user/*
+Host: ua-travel.info

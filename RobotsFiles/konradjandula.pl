@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /ariel/
+Disallow: /backup/
+Disallow: /ds/
+Disallow: /lminvestment/
+Disallow: /mailstore/
+Disallow: /newcapital/
+Disallow: /scptl/
+Disallow: /sophos/
+Disallow: /suncapital/
+Disallow: /test/
+Disallow: /index.php
+Disallow: /xmlrpc.php
+
+Sitemap: http://konradjandula.pl/page-sitemap.xml
+sitemap: http://konradjandula.pl/post-sitemap.xml
+sitemap: http://konradjandula.pl/portfolio-sitemap.xml
+sitemap: http://konradjandula.pl/team-sitemap.xml
+sitemap: http://konradjandula.pl/attachment-sitemap.xml

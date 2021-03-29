@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /style/
+Disallow: /admin/
+Disallow: /konfiguracja/
+Disallow: /operacja/
+Disallow: /strona/
+Disallow: /system/
+Disallow: /js/

@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: https://dworzeconline.pl/sitemap.xml
+Disallow: /konto/zarejestruj
+Disallow: /info/wirtualny-dworzec/polityka-prywatnosci
+Disallow: /konto/zaloguj
+Disallow: /bez-konta/zwrot
+Disallow: /info/inne/newsletter
+Disallow: /sprzedaz/
+Disallow: /info/strefa-pasazera/udogodnienia-dla-niepelnosprawnych
+Disallow: /*szukaj/kurs/p-
+Disallow: /api/

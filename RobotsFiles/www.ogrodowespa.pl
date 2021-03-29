@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /?tag
+Disallow: /newsletter
+Disallow: /ankieta
+Disallow: /pobierz-broszury
+Disallow: /zamow-broszure
+Disallow: /sample-page
+Disallow: /ajax
+Allow: /

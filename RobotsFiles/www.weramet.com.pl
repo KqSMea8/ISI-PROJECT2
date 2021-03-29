@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /installation/
+Disallow: /index2.php?option=com_sefservicemap&task=xmlmap&no_html=1
+Disallow: /index2.php?option=com_sefservicemap&task=txtmap&no_html=1

@@ -1,0 +1,25 @@
+User-agent: BLEXBot
+Crawl-Delay: 10
+Disallow: /mestsky-urad/komunitni-planovani/poskytovatele-socialnich-sluzeb/
+Disallow: /osobni-udaje/
+Disallow: /kotlikove-dotace/
+Disallow: /uzitecne-kontakty-1/
+Disallow: /dotace/dotace-mesta-vitkova/socialni-oblast/
+Disallow: /mestsky-urad/uredni-deska/
+Allow: /mestsky-urad/uredni-deska/informace-o-uredni-desce/
+Disallow: /mestsky-urad/verejne-zakazky/vyzva-k-predlozeni-nabidky/
+Allow: /mestsky-urad/uredni-deska/206-2018-doba-zvyseneho-nebezpeci-vzniku-pozaru-na-uzemi-moravskoslezskeho-kraje-2415.html
+
+User-agent: *
+Crawl-Delay: 3
+Disallow: /mestsky-urad/komunitni-planovani/poskytovatele-socialnich-sluzeb/
+Disallow: /osobni-udaje/
+Disallow: /kotlikove-dotace/
+Disallow: /uzitecne-kontakty-1/
+Disallow: /dotace/dotace-mesta-vitkova/socialni-oblast/
+Disallow: /mestsky-urad/uredni-deska/
+Allow: /mestsky-urad/uredni-deska/informace-o-uredni-desce/
+Disallow: /mestsky-urad/verejne-zakazky/vyzva-k-predlozeni-nabidky/
+Allow: /mestsky-urad/uredni-deska/206-2018-doba-zvyseneho-nebezpeci-vzniku-pozaru-na-uzemi-moravskoslezskeho-kraje-2415.html
+Sitemap: https://www.vitkov.info/sitemap.xml
+

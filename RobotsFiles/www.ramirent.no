@@ -1,0 +1,5 @@
+http://ramirent.no/sitemap.xml
+
+User-agent: *
+disallow: /admin/
+disallow: /Bin/RadControls/

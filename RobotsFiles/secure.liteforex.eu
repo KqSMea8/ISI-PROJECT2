@@ -1,0 +1,39 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /?*
+Allow:/platforms.html?*
+
+User-agent: Yandex
+Disallow: /?*
+Allow:/platforms.html?*
+
+Disallow: /manage-panel/
+Disallow: /financial-accounts/
+Disallow: /api/
+Disallow: /api_v1/
+Disallow: /mailing/
+Disallow: /messages/
+Disallow: /meta/
+Disallow: /partners/
+Disallow: /profile/
+Disallow: /trading-accounts/
+Disallow: /translate/
+Disallow: /uwcfs/
+Disallow: /news/$
+Disallow: /*/manage-panel/
+Disallow: /*/financial-accounts/
+Disallow: /*/api/
+Disallow: /*/api_v1/
+Disallow: /*/mailing/
+Disallow: /*/messages/
+Disallow: /*/meta/
+Disallow: /*/partners/
+Disallow: /*/profile/
+Disallow: /*/trading-accounts/
+Disallow: /*/translate/
+Disallow: /*/uwcfs/
+Disallow: /*/news/$
+
+Sitemap: https://www.liteforex.eu/sitemap.xml

@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /szkolenia_en.html
+Disallow: /freeride_en.html
+Disallow: /onas_en.html
+Disallow: /oszymku_en.html
+Disallow: /opeterze_en.html
+Disallow: /okielpie_en.html
+Disallow: /ogrodziu_en.html
+Disallow: /mayrhofen_en.html
+Disallow: /omajce_en.html
+Disallow: /apartamenty_en.html
+Disallow: /de/
+Disallow: /en/
+Disallow: /rus/
+Noindex: /rus/
+Sitemap: http://www.narty-austria.pl/sitemap.xml

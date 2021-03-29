@@ -1,0 +1,52 @@
+User-agent: *
+Disallow: /typo3conf/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /assets/
+Allow: /typo3conf/ext/ppw_sitepackage/Resources/Public
+Disallow: *?id=
+Disallow: *?eID=
+Sitemap: https://www.work-intime.de/sitemap.xml
+Sitemap: https://www.work-intime.de/bg/sitemap-bg.xml
+Sitemap: https://www.work-intime.de/hu/sitemap-hu.xml
+Sitemap: https://www.work-intime.de/pl/sitemap-pl.xml
+Sitemap: https://www.work-intime.de/hr/sitemap-hr.xml
+
+Sitemap: https://www.allgemeine-industriemontagen.de/sitemap.xml
+Sitemap: https://www.allgemeine-industriemontagen.de/bg/sitemap-bg.xml
+Sitemap: https://www.allgemeine-industriemontagen.de/hu/sitemap-hu.xml
+Sitemap: https://www.allgemeine-industriemontagen.de/pl/sitemap-pl.xml
+Sitemap: https://www.allgemeine-industriemontagen.de/hr/sitemap-hr.xml
+
+Sitemap: https://www.work-factory.de/sitemap.xml
+Sitemap: https://www.work-factory.de/bg/sitemap-bg.xml
+Sitemap: https://www.work-factory.de/hu/sitemap-hu.xml
+Sitemap: https://www.work-factory.de/pl/sitemap-pl.xml
+Sitemap: https://www.work-factory.de/hr/sitemap-hr.xml
+
+Sitemap: https://www.star-personaldienste.de/sitemap.xml
+Sitemap: https://www.star-personaldienste.de/bg/sitemap-bg.xml
+Sitemap: https://www.star-personaldienste.de/hu/sitemap-hu.xml
+Sitemap: https://www.star-personaldienste.de/pl/sitemap-pl.xml
+Sitemap: https://www.star-personaldienste.de/hr/sitemap-hr.xml
+
+Sitemap: https://www.brilliant-personaldienste.de/sitemap.xml
+Sitemap: https://www.brilliant-personaldienste.de/bg/sitemap-bg.xml
+Sitemap: https://www.brilliant-personaldienste.de/hu/sitemap-hu.xml
+Sitemap: https://www.brilliant-personaldienste.de/pl/sitemap-pl.xml
+Sitemap: https://www.brilliant-personaldienste.de/hr/sitemap-hr.xml
+
+Sitemap: https://www.power-jobs.de/sitemap.xml
+Sitemap: https://www.power-jobs.de/bg/sitemap-bg.xml
+Sitemap: https://www.power-jobs.de/hu/sitemap-hu.xml
+Sitemap: https://www.power-jobs.de/pl/sitemap-pl.xml
+Sitemap: https://www.power-jobs.de/hr/sitemap-hr.xml
+
+Sitemap: https://www.ideale-jobs-gmbh.de/sitemap.xml
+Sitemap: https://www.ideale-jobs-gmbh.de/bg/sitemap-bg.xml
+Sitemap: https://www.ideale-jobs-gmbh.de/hu/sitemap-hu.xml
+Sitemap: https://www.ideale-jobs-gmbh.de/pl/sitemap-pl.xml
+Sitemap: https://www.ideale-jobs-gmbh.de/hr/sitemap-hr.xml
+
+User-agent: 008
+Disallow: /

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /a/
+Disallow: /assets/
+Disallow: /bower_components/
+Disallow: /css/
+Disallow: /js/
+Disallow: /texture/
+Disallow: /images/
+Disallow: /banners/
+Disallow: /upload/
+Disallow: /showroom/

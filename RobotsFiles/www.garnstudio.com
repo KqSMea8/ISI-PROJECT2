@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /dk/
+Disallow: /download/
+Disallow: /dropsadmin/
+Disallow: /eng/
+Disallow: /fi/
+Disallow: /fonts/
+Disallow: /forum/
+Disallow: /forum_new/
+Disallow: /fpdf/
+Disallow: /invoices/
+Disallow: /newsletter/
+Disallow: /nl/
+Disallow: /no/
+Disallow: /orders/
+Disallow: /pdf/
+Disallow: /phpmailer/
+Disallow: /phpmailer_new/
+Disallow: /phpmailer_old/
+Disallow: /phpmailer_test/
+Disallow: /random_compat/
+Disallow: /se/
+Disallow: /top500/
+
+Sitemap: https://www.garnstudio.com/sitemap.xml

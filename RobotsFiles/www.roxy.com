@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /on/demandware.store/
+Disallow: /search/
+Disallow: /null/
+Disallow: /s/
+Disallow: /wishlist/
+Disallow: /account/
+Disallow: *q=*
+Disallow: *prefn1=*
+Disallow: *prefv1=*
+Disallow: *prefn2=*
+Disallow: *prefv2=*
+Disallow: *prefn3=*
+Disallow: *prefv3=*
+Disallow: *prefn4=*
+Disallow: *prefv4=*
+Disallow: *srule=*
+Disallow: *format=*
+Disallow: *pmax*
+Disallow: *pmin*
+Allow: /on/*RedirectURL-Hostname*
+Allow: /on/*Default-Start*
+Allow: /on/*Home-Show*
+
+Sitemap: https://www.roxy.com/usa-roxy-site_map_index.US.xml
+Sitemap: https://www.roxy.com/en-ca/usa-roxy-site_map_index.CA.xml

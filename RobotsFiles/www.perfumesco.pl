@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login
+Disallow: /regulamin
+Disallow: /regulamin-24
+Disallow: /regulamin-25
+Disallow: /rejestracja
+Disallow: /szukaj
+Disallow: /koszyk
+Disallow: /konto
+Disallow: /zamowienie
+Disallow: /zmien-haslo

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wyniki-wyszukiwania/
+Disallow: /user/
+Disallow: /comments/
+
+Sitemap: /sitemap.xml

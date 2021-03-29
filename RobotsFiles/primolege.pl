@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dist
+Disallow: /backup_old_page
+Disallow: /css
+Disallow: /error-pages
+Disallow: /include
+Disallow: /js
+Disallow: /lib
+Sitemap: http://www.crevo.com.pl/sitemap.xml

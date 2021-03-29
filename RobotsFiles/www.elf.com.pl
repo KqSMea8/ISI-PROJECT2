@@ -1,0 +1,34 @@
+User-Agent: *
+Sitemap: http://www.elf.com.pl/sitemap.xml
+Disallow: /cs
+Disallow: /cs/*
+Disallow: /*.nsf
+Disallow: /services/manageuser
+Disallow: /pages/inscription*/
+Disallow: /myTotal
+Disallow: /forgotPassword.json
+Disallow: /os/content
+Disallow: /cs/ContentServer?pagename=Total_NW
+Disallow: /shared/ccurl
+Disallow: /os/content
+Disallow: /shared/StaticFiles
+Disallow: /cs/Satellite
+Disallow: /cs/login
+Disallow: /cs/Satellite
+Disallow: /lub
+Disallow: /lub/lubroot.nsf
+Disallow: /lub/lubfrancetotal.nsf
+Disallow: /lub/lubroumanie.nsf
+Disallow: /lub/lubusa.nsf
+Disallow: /lub/content
+Disallow: /lub/contenu.nsf
+Disallow: /lub/lubuae.nsf
+Disallow: /lub/lubhungary.nsf
+Disallow: /wex
+Disallow: /wex/lub
+Disallow: /wex/lub/content
+Disallow: /lub/lubfranceelf.nsf
+Disallow: /lub/lubchina.nsf
+Disallow: /lub/lubchinatotal.nsf
+
+

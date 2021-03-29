@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/e-kominy/_thumbs/sklep_oferta/
+Allow: /gfx/e-kominy/pl/media/
+Allow: /gfx/e-kominy/_thumbs/pl/defaultstronaopisowa/
+Allow: /gfx/darco/userfiles/images/
+Disallow: /porownaj-produkty/
+Disallow: /zaloguj-sie/
+Disallow: /sprawdz-swoje-zamowienia/
+Disallow: /twoje-konto/
+Disallow: /polec-znajomemu/
+Disallow: /wyszukiwarka/
+Disallow: /koszyk/
+Disallow: /polityka-cookies/
+Disallow: /filtry-produktow/
+Disallow: /wyszukiwarka-sklepowa/
+Disallow: /ru/
+Disallow: /en/
+User-agent: Fasterfox
+Disallow: /
+

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: http://actigo.pl/sitemap.xml
+Disallow: http://www.actigo.pl/pl/260-kursy/.html
+Disallow: http://www.actigo.pl/pl/260-kursy/1.html
+Disallow: http://www.actigo.pl/pl/260-kursy/2.html
+Disallow: http://www.actigo.pl/pl/260-kursy.html
+Disallow: http://www.actigo.pl/pl/kursy/1.html
+Disallow: http://www.actigo.pl/pl/kursy/2.html
+Disallow: http://www.actigo.pl/pl/kursy/.html

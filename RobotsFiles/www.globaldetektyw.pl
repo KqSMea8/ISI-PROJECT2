@@ -1,0 +1,21 @@
+User-Agent: *
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /wp-admin/
+Disallow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-content/
+Disallow: /wp-content/plugins/limb-gallery
+Disallow: /cache/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+

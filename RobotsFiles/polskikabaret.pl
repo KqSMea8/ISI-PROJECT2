@@ -1,0 +1,1 @@
+User-agent: *Disallow: /admin/Disallow: /cgi-bin/Disallow: /css/Disallow: /downl/Disallow: /htaccess/Disallow: /images/Disallow: /include/Disallow: /js/Disallow: /lang/Disallow: /panels/Disallow: /scripts/Disallow: /theme/

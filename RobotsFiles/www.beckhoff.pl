@@ -1,0 +1,13 @@
+# robots.txt for http://www.beckhoff.com and http://www.beckhoff.de
+
+User-agent: *
+Disallow: /tcatweb/
+Disallow: /search/
+Disallow: /link/
+Disallow: /login/
+Disallow: /software/
+Disallow: /info/
+Disallow: /AutomationUpdate/
+Disallow: /german/crossmedia/building/products/
+Disallow: /english/crossmedia/building/products/
+Disallow: /fr/crossmedia/building/products/

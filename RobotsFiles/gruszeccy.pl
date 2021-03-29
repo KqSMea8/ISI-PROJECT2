@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /index.php?d=regulamin
+Disallow: /index.php?d=koszyk
+Disallow: /index.php?d=login
+Disallow: /index.php?d=subskrypcja
+Disallow: /index.php?d=rejestracja
+Disallow: /index.php?d=szukaj&szukaj
+Disallow: /status-zamowienia.html
+Disallow: /index.php?d=login&ref=konto
+Disallow: /pomoc.html
+Disallow: /regulamin.html
+Disallow: /polityka-prywatnosci.html
+Disallow: /do-pobrania.html
+Disallow: /pobierz/
+Disallow: /p7,t-e-s-t.html
+Disallow: /i2,do-pobrania.html
+Disallow: /i4,status-zamowienia.html
+Disallow: /i5,polityka-prywatnosci.html
+

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /container/
+Disallow: /download/
+Disallow: /files/
+Disallow: /flash/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /panel/
+Disallow: /scripts/
+Disallow: /style/
+Disallow: /old_version/
+Disallow: /nowa/
+Disallow: /shared/

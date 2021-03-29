@@ -1,0 +1,24 @@
+Sitemap: http://www.helpcomp.sklep.pl/sitemap.xml
+
+User-agent: *
+Disallow: /js/
+Disallow: /bat/
+Disallow: /img/
+Disallow: /css/
+Disallow: /strona/
+Disallow: /piemont/
+Disallow: /serwis/
+Disallow: /fastcar/
+Disallow: /stronger/
+Disallow: /allegro/
+Disallow: /tango7/
+Disallow: /sosnameble/
+Disallow: /backup_1012-06-11T19.57/
+Disallow: /mikrostudent/
+Disallow: /chochola/
+Disallow: /stolarstwo
+Disallow: /KWIATOLINA_PLIKI/
+Disallow: /LOCANDA/
+Disallow: /sielska/
+Disallow: /sielsko/
+Disallow: /cennikOffLine/

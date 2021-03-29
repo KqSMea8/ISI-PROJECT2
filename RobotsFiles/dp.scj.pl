@@ -1,0 +1,126 @@
+Sitemap: http://www.duszpasterstwotalent.pl/sitemap.xml
+
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: *
+Disallow: /wp-content/
+Disallow: /fump/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /cgi-bin/
+Disallow: /xmlsrv/
+Disallow: /xmlrpc.php
+Disallow: /author/
+Disallow: /wp-images/
+Disallow: /archives/
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/
+Disallow: /rss/
+Disallow: /wp-blog-header.php
+Disallow: /wp-comments-post.php
+Disallow: /wp-commentsrss2.php
+Disallow: /wp-config.php
+Disallow: /wp-feed.php
+Disallow: /wp-links-opml.php
+Disallow: /wp-login.php
+Disallow: /wp-mail.php
+Disallow: /wp-pass.php
+Disallow: /wp-rdf.php
+Disallow: /wp-register.php
+Disallow: /wp-rss.php
+Disallow: /wp-rss2.php
+Disallow: /wp-settings.php
+Disallow: /wp-trackback.php
+Disallow: /*/print/
+Disallow: /*/feed/
+Disallow: /page/*/
+
+Disallow: /bas-caritas-in-veritate/
+Disallow: /polityka-prywatnosci/
+Disallow: /rejestracja-na-newsletter/
+Disallow: /kalendarz/
+Disallow: /kalendarz-gratis/
+Disallow: /potwierdzenie-rezerwacji-kazimierz/
+Disallow: /potwierdzenie-rezerwacji-kamien/
+Disallow: /bannery-do-pobrania2/
+Disallow: /potwierdzenie-zgloszenia/
+Disallow: /wyniki-wyszukiwania/
+Disallow: /juz-w-systemie/
+Disallow: /potwierdz-rejestracje/
+Disallow: /potwierdzenie-rejestracji/
+Disallow: /rezygnacja/
+Disallow: /rezygnacja-z-listy/
+Disallow: /wyrejestrowany/
+Disallow: /chrzescijanin-jako-pracodawca/
+Disallow: /biuletyn-duszpasterstwa-talent-nr-30/
+Disallow: /wykonane-rejestracje.php
+
+Disallow:	/tag/sercanie/page/3/
+Disallow:	/umiarkowanie-w-zyciu-przedsiebiorcy/imgp0621/
+Disallow:	/inne/page/3/
+Disallow:	/przypowiesc-o-talentach-biblia-i-przedsiebiorcy/2/
+Disallow:	/swiadectwo-przedsiebiorcy-uwolnilem-sie-od-wlasnosci/
+Disallow:	/paray-le-monial/Krakowie
+Disallow:	/od-redakcji/Krakowie
+Disallow:	/tag/wartosci/page/9/
+Disallow:	/pajeczyna-sekt-ekonomicznych-2/comment-page-1/Krakowie
+Disallow:	/etyka-biznesu-2/page/2/www.stoxx.com
+Disallow:	/jak-karol-wojtyla-przeszkadza-nam-w-prowadzeniu-interesow/Krakowie
+Disallow:	/chrzescijanski-model-firmy/Krakowie
+Disallow:	/o-dehon-2/Krakowie
+Disallow:	/dokumenty-nauki-spolecznej-kosciola/Krakowie
+Disallow:	/wszystko-zostalo-wam-powierzone/Krakowie
+Disallow:	/sztuka-rozmawiania/Krakowie
+Disallow:	/tag/wartosci/page/2/www.stoxx.com
+Disallow:	/tag/etyka-biznesu/www.stoxx.com
+Disallow:	/uczciwi-inaczej/Krakowie
+Disallow:	/list-na-boze-narodzenie/Krakowie
+Disallow:	/praca-konsumpcjonizm-i-nowi-ubodzy/Krakowie
+Disallow:	/abc-psychologii-komunikacji/Krakowie
+Disallow:	/10-lecie-duszpasterstwa/Krakowie
+Disallow:	/modlitwa-przedsiebiorcy-pracodawcy/Krakowie
+Disallow:	/modlitwa-przedsiebiorcy-pracodawcy/preghiera-imprenditore.htm
+Disallow:	/liberalizm-i-etyka-biznesu/Krakowie
+Disallow:	/pajeczyna-sekt-ekonomicznych-2/Krakowie
+Disallow:	/czlowiek-z-wizja-zycia/Krakowie
+Disallow:	/etyka-biznesu/Krakowie
+Disallow:	/pomysla-o-niedzieli/Krakowie
+Disallow:	/przedsiebiorcy-dluznicy-jana-pawla-ii/Krakowie
+Disallow:	/blogoslawieni-kierownicy/Krakowie
+Disallow:	/spoleczna-misja-sercanow/3/post.php?post=4768&action=edit&message=1
+Disallow:	/uczyc-sie-czy-nie-uczyc-oto-jest-pytanie/Krakowie
+Disallow:	/tischnerowska-etyka-pracy/Krakowie
+Disallow:	/filozofia-pracy/Krakowie
+Disallow:	/ekonomia-a-lad-moralny/Krakowie
+Disallow:	/przedsiebiorcy---dluznicy-polskiego-papieza/Krakowie
+Disallow:	/teologia-pracy-moralnosc-kapitalu-spolecznego/comment-page-1/Krakowie
+Disallow:	/przedsiebiorcy-o-janie-pawle/Krakowie
+Disallow:	/ktory-czlowiek-bogaty-moze-byc-zbawiony/Krakowie
+Disallow:	/media-o-nas/
+Disallow:	/2007-nr-3-4/page/2/
+Disallow:	/dyskusja/page/2/
+Disallow:	/dyskusja/etyka-biznesu-dyskusja/
+Disallow:	/kronika-2005/
+Disallow:	/kronika-2004/
+Disallow:	/2007-nr-3-4/
+Disallow:	/tag/modlitwa/page/3/
+Disallow:	/czy-firma-moze-byc-sprawiedliwa/
+Disallow:	/leon-dehon-i-dzialalnosc-spoleczna/p-dehon/
+Disallow:	/tag/biznesmen/page/2/
+Disallow:	/spoleczna-misja-sercanow/3/Krakowie
+Disallow:	/teologia-pracy-moralnosc-kapitalu-spolecznego/Krakowie
+Disallow:	/tag/sercanie/page/3/
+Disallow:	/inne/page/3/
+Disallow:	/beatyfikacja-jerzego-popieluszki/
+
+
+
+
+
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*

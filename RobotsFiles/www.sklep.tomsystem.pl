@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Disallow: /*?
+Disallow: /profil-uzytkownika/
+Disallow: /koszyk
+Disallow: /profil-uzytkownika-ustawienia-konta/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+User-agent: Fasterfox
+Disallow: /

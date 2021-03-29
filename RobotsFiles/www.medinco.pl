@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /g50.php
+Disallow: /gelogiq.php
+Disallow: /logiq_400_cl.php
+Disallow: /mysono201.php
+Disallow: /sprzet_aloka.php
+Disallow: /sprzet_imagepoint.php
+Disallow: /sprzet_sonoscape.php
+Disallow: /sprzet_usgfukudaffsonic.php
+Disallow: /toshiba.php

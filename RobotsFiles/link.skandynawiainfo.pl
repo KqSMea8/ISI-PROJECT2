@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /full/*
+Disallow: /st/*
+Disallow: /api/*
+Disallow: /bookmarklet/*
+

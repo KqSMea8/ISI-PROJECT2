@@ -1,0 +1,24 @@
+User-agent: *
+
+
+
+Disallow: /de/compare
+Disallow: /de/checkout
+Disallow: /de/register
+Disallow: /de/account
+Disallow: /de/address
+Disallow: /de/note
+Disallow: /de/widgets
+Disallow: /de/listing
+Disallow: /de/ticket
+
+
+Allow: /de/widgets/emotion
+
+
+Sitemap: https://www.nefal.tv/de/sitemap_index.xml
+
+
+
+
+

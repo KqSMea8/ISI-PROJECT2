@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://www.purepc.pl/sitemap.xml
+

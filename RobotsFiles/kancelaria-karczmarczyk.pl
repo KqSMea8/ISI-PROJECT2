@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /wp-content/themes/lawyeria-lite/style.css?ver=1.0
+Allow: /wp-includes/js/jquery/jquery.js?ver=1.12.4
+Allow: /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3
+Allow: /wp-content/themes/lawyeria-lite/css/jquery.fancybox.css?ver=1.0
+Allow: /wp-includes/js/wp-emoji-release.min.js?ver=4.6.1
+Allow: /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+Allow: /wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20
+Allow: /wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3
+Allow: /wp-content/themes/lawyeria-lite/js/jquery.fancybox.js?ver=1.0
+Allow: /wp-content/themes/lawyeria-lite/js/jquery.masonry.js?ver=1.0
+Allow: /wp-content/themes/lawyeria-lite/js/scripts.js?ver=1.0
+Allow: /wp-includes/js/comment-reply.min.js?ver=4.6.1
+Allow: /wp-includes/js/wp-embed.min.js?ver=4.6.1
+Allow: /wp-content/themes/lawyeria-lite/images/*
+
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-includes/js
+Disallow: /trackback
+Disallow: /category/*/*
+Disallow: */trackback
+Disallow: /*?*
+Disallow: /*?
+Disallow: /*~*
+Disallow: /*~
+

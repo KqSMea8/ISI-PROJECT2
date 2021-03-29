@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /blocks
+Disallow: /concrete
+Disallow: /config
+Disallow: /controllers
+Disallow: /css
+Disallow: /elements
+Disallow: /helpers
+Disallow: /jobs
+Disallow: /js
+Disallow: /languages
+Disallow: /libraries
+Disallow: /mail
+Disallow: /models
+Disallow: /packages
+Disallow: /single_pages
+Disallow: /themes
+Disallow: /tools
+
+Disallow: /updates/concrete5.4.1.1/blocks
+Disallow: /update/concrete5.4.1.1/concrete
+Disallow: /update/concrete5.4.1.1/config
+Disallow: /update/concrete5.4.1.1/controllers
+Disallow: /update/concrete5.4.1.1/css
+Disallow: /update/concrete5.4.1.1/elements
+Disallow: /update/concrete5.4.1.1/helpers
+Disallow: /update/concrete5.4.1.1/jobs
+Disallow: /update/concrete5.4.1.1/js
+Disallow: /update/concrete5.4.1.1/languages
+Disallow: /update/concrete5.4.1.1/libraries
+Disallow: /update/concrete5.4.1.1/mail
+Disallow: /update/concrete5.4.1.1/models
+Disallow: /update/concrete5.4.1.1/packages
+Disallow: /update/concrete5.4.1.1/single_pages
+Disallow: /update/concrete5.4.1.1/themes
+Disallow: /update/concrete5.4.1.1/tools
+

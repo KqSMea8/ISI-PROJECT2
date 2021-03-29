@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /filmy-*-2-*.html
+Disallow: /filmy-*-3-*.html
+Disallow: /filmy-*-4-*.html
+Disallow: /vip-*-2-*.html
+Disallow: /vip-*-3-*.html
+Disallow: /vip-*-4-*.html
+Disallow: /zdjecia-*-2-*.html
+Disallow: /zdjecia-*-3-*.html
+Disallow: /zdjecia-*-4-*.html
+Disallow: /*?
+Disallow: /rules
+Disallow: /contact
+Disallow: /abuse.php
+Disallow: /logowanie.php
+Disallow: /*intro.php
+Disallow: /mobile
+Disallow: /*:8443
+Disallow: /user

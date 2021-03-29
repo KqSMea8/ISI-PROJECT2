@@ -1,0 +1,26 @@
+User-agent: *
+
+Disallow: /2014/
+Disallow: /2015xx/
+Disallow: /administracja/
+Disallow: /api/
+Disallow: /aplikacja/
+Disallow: /ajax/
+Disallow: /bot/
+Disallow: /captcha/
+Disallow: /cache/
+Disallow: /ckeditor/
+Disallow: /ckeditor-3-6/
+Disallow: /class/
+Disallow: /config/
+Disallow: /config_box/
+Disallow: /crypt/
+Disallow: /css/
+Disallow: /js/
+Disallow: /panel/
+Disallow: /phonegap/
+Disallow: /php/
+Disallow: /popup_email/
+Disallow: /szablony/
+Disallow: /trash/
+Disallow: /test/

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /_tmp/
+Disallow: /admin/
+Disallow: /design/
+Disallow: /editor/
+Disallow: /modules/
+Disallow: /index.php/de/
+Disallow: /index.php/en/

@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /files
+Allow: /images/big
+Allow: /images/big/*
+Disallow: /css
+Disallow: /images
+Disallow: /images/*
+Disallow: /images/med
+Disallow: /images/med/*
+Disallow: /images/small
+Disallow: /images/small/*
+Disallow: /img
+Disallow: /img_med
+Disallow: /index.html
+Disallow: /index.html*
+Disallow: /index.html?*
+Disallow: /js
+Disallow: /koszyk
+Disallow: /logowanie
+Disallow: /newsletter
+Disallow: /porownaj
+Disallow: /zaloguj
+Disallow: /zamow
+

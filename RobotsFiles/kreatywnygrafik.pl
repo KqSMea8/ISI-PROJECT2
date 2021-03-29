@@ -1,0 +1,15 @@
+User-agent: ia_archiver
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+User-agent: *
+Noarchive: /
+Disallow: /flash/
+Disallow: /galeria/
+Disallow: /kontakt/
+Disallow: /mainpage/
+Disallow: /omnie/
+Disallow: /portfolio/
+Disallow: /viewer/
+Disallow: /cgi-bin/
+Sitemap: http://www.kreatywnygrafik.pl/mapawitryny.xml

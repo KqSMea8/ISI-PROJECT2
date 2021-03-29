@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_panel/
+Disallow: /PEAR/
+Disallow: /dev/
+Disallow: /doc/
+Disallow: /ajax/
+Disallow: /ajax_include/
+Disallow: /data.inc.php
+Disallow: /*.js$

@@ -1,0 +1,20 @@
+Sitemap: http://zatrzymujeczas.pl/sitemap.xml
+
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /component/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /*wersja-robocza*
+Disallow: /images/*/preview/*

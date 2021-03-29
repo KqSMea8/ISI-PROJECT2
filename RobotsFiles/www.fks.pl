@@ -1,0 +1,29 @@
+Disallow: /admin/
+Disallow: /ads/
+Disallow: /bidgump/
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /daria/
+Disallow: /db/
+Disallow: /dd/
+Disallow: /digo/
+Disallow: /head/
+Disallow: /help/
+Disallow: /inne/
+Disallow: /libs/
+Disallow: /daria/
+Disallow: /matrix/
+Disallow: /members/
+Disallow: /mod/
+Disallow: /modules/
+Disallow: /news/
+Disallow: /phpbb/
+Disallow: /rotfle/
+Disallow: /sklep/
+Disallow: /skrypty/
+Disallow: /templates/
+Disallow: /test/
+Disallow: /uczelnia/
+Disallow: /wsinf/
+
+

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*,p,.html
+Disallow: /,p,*.html
+Disallow: /produktniedostepny/*
+Disallow: /dodjaobserowane.get.*
+Disallow: /upload.check.exec.*
+Disallow: /download/*
+Disallow: /page/*
+Disallow: /order/*
+Disallow: /upload.check.exec.*
+Disallow: /dodjaobserowane.get*
+Disallow: /page.sklep*
+Disallow: /page/regulamin/
+Disallow: /json*
+Disallow: /product/addpack*

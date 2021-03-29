@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /---/
+Disallow: /allegro/
+Disallow: /autoinstalator/
+Disallow: /dsk/books/
+Disallow: /dsk/F-INT/
+Disallow: /dsk/maile/
+Disallow: /kawalkada/
+Disallow: /przerwatech/
+Disallow: /pub/
+Disallow: /sklep/
+Disallow: /test/
+Disallow: /test_sql/
+Disallow: /test2/
+Disallow: /tmp/
+Disallow: /vertigo/
+Disallow: /zamowienie/
+Disallow: /-/baz/
+Disallow: /-/inf/zasady.htm
+Disallow: /-/inf/regulamin.htm
+Disallow: /-/inf/regulamin_kosz.htm
+Disallow: /-/inf/pliki/
+Disallow: /-/dotpay/
+Disallow: /-/images/
+Disallow: /-/rek/
+Disallow: /-/sec/
+Disallow: /-/sitemap/
+Disallow: /-/sitemapant/
+Disallow: /-/social/
+Disallow: /-/tools/
+Disallow: /-/zam/
+
+Sitemap: http://literacki24.pl/-/sitemap-index.xml
+

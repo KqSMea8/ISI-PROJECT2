@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /dane/
+Disallow: /FCKeditor/
+Disallow: /tmp/
+Disallow: /Upload/
+Disallow: /cal/
+Disallow: /tmp/
+Disallow: /STARA_WWW/
+Disallow: /NOWA_WWW/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/

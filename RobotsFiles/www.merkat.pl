@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /inne/
+Disallow: /klikacz/
+Disallow: /private/
+Disallow: /pub/
+Disallow: /tmp/
+Disallow: /test/
+Disallow: /kopia.rar
+Disallow: /prof-install.psd
+Disallow: /urllist.txt
+Disallow: /KATALOG.pdf

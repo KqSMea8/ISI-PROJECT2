@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.artis-konstal.pl/post-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/page-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/portfolio-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/portfolio-item-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/wysijap-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/category-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/post_tag-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/portfolio-item-category-sitemap.xml
+Sitemap: http://www.artis-konstal.pl/portfolio-item-tag-sitemap.xml

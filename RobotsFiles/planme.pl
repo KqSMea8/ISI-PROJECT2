@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /interface
+Disallow: /img
+Disallow: /config
+Disallow: /cache
+Disallow: /style
+Disallow: /tmp
+Disallow: /tpl
+Disallow: /modules

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /*&limit
+Disallow: /*?limit
+Disallow: /*&sort
+Disallow: /*?sort
+Disallow: /*&order
+Disallow: /*?order
+Disallow: /*&search
+Disallow: /*?search
+Disallow: /*checkout/
+Disallow: /*account/
+Disallow: /*product/search
+Disallow: /*affiliate/
+Disallow: /*download/
+Disallow: /admin/
+

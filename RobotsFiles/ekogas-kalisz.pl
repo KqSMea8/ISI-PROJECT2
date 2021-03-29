@@ -1,0 +1,6 @@
+User-agent: *
+Allow: .js
+Allow: .css
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /templates/

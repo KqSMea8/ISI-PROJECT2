@@ -1,0 +1,15 @@
+User-agent: YandexBot
+Disallow: /
+User-agent: YandexMobileBot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /yii-core/
+Disallow: /admin/
+Disallow: /fckeditor/
+Disallow: /doc/
+Disallow: /files/
+Disallow: /download/
+Disallow: /manuals/
+Disallow: /test/

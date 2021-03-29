@@ -1,0 +1,7 @@
+# file robots_http_denied.txt
+User-agent: *
+Allow: /ots/files/
+Allow: /it-press/files/
+Allow: /tourismuspresse/files/
+Allow: /fotoservice2015/files/
+Disallow: /

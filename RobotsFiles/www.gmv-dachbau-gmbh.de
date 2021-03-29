@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /_essentials
+Disallow: /_modules
+Disallow: /_settings
+Disallow: /_templates
+Disallow: /demo
+
+Sitemap: http://www.gmv-dachbau-gmbh.de/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /magnoliaAuthor/
+Disallow: /members/
+Disallow: /member-centre/
+Disallow: /*.asp
+Disallow: /pdf/
+Disallow: /dms/
+Disallow: /eaie/
+Disallow: /PD/
+Sitemap: https://www.eaie.org/sitemaps/sitemap.xml

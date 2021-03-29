@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /open-google-map/
+Disallow: /lightbox-gallery/
+Disallow: /email-subscribed/
+Disallow: /email-unsubscribed/
+Disallow: /footer-v1-2-2-2/
+Disallow: /3rd-child/
+Disallow: /subscription-confirmed-2/
+Disallow: /subscription-confirmed/
+Disallow: /zoom-gallery/
+Disallow: /home-main-test/

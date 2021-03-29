@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /
+Disallow: /categories.php
+Disallow: /brands.php
+Disallow: /reviews.php
+Disallow: /category/
+Disallow: /brand/
+Disallow: /review/
+Disallow: /admin/
+Disallow: /html/
+Disallow: /search.php
+Disallow: /jump.php
+

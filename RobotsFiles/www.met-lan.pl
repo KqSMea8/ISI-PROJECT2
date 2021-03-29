@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /adodb/
+Disallow: /awstats/
+Disallow: /stats/
+Disallow: /syst/
+Disallow: /fckeditor/
+Disallow: /phpmailer/
+Disallow: /js/

@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+# Disallow ajax links for all crawlers
+User-agent: *
+Disallow: /*?*eID=*
+Disallow: /*?*bodyTag=*
+Disallow: /index.php?*id=*
+

@@ -1,0 +1,5 @@
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>/home/portale_www/zend/inkubator.turek.pl/application/modules/index/controllers/ErrorController.php:31:</small><small>string</small> <font color='#cc0000'>'No route matched the request'</font> <i>(length=28)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'>
+<small>/home/portale_www/zend/inkubator.turek.pl/application/modules/index/controllers/ErrorController.php:31:</small><small>string</small> <font color='#cc0000'>'#0 /home/portale_www/zend/inkubator.turek.pl/library/Zend/Controller/Front.php(912): Zend_Controller_Router_Rewrite-&gt;route(Object(Zend_Controller_Request_Http))&#10;#1 /home/portale_www/zend/inkubator.turek.pl/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()&#10;#2 /home/portale_www/zend/inkubator.turek.pl/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()&#10;#3 /home/portale_www/zend/inkubator.turek.pl/public/main.php(31): Zend_Application-&gt;run()&#10;#4 {'...</font> <i>(length=517)</i>
+</pre>

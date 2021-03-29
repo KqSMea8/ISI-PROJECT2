@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /
+User-agent: googlebot
+Disallow: /ewresults/
+Disallow: /popularcar/
+User-agent: google
+Allow: /
+User-agent: bingbot
+Allow: /
+User-agent: bing
+Allow: /
+Sitemap: http://www.exportwagen.eu/sitemap.xml
+

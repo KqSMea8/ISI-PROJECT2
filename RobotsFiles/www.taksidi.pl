@@ -1,0 +1,12 @@
+User-agent: *
+Allow: .js
+Disallow: /min-css
+Disallow: /rejestracja
+Disallow: /logowanie
+Disallow: /rezerwuj
+Disallow: /zapomniane-haslo
+Disallow: /o-nas/regulamin-wyjazdow
+Disallow: /o-nas/do-pobrania
+Disallow: /404
+Disallow: /zouk-marilleva
+Sitemap: http://www.taksidi.pl/sitemap.xml

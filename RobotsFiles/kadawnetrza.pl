@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-content/cache/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /author/
+Disallow: /blog/author/
+Disallow: /archives/
+Disallow: /20*
+Disallow: /trackback/

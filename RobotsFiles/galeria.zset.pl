@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /galeria/albums/
+Allow: /galeria/cache/
+Allow: /galeria/cache_html/
+Disallow: /galeria/themes/
+Disallow: /galeria/zp-core/
+Disallow: /galeria/zp-data/
+Disallow: /galeria/page/search/
+Disallow: /galeria/uploaded/
+Disallow: /galeria/backup/

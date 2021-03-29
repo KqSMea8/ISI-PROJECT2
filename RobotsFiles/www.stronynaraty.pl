@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /PKO
+Disallow: /Boma
+Disallow: /BOMA_GALERIA
+Disallow: /Boma_Probnik
+Disallow: /EatMe
+Disallow: /EatMe2
+Disallow: /itssoon
+Disallow: /ItsSoon

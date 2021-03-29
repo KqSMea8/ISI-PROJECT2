@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow: /Stare_Lipiec2008/
+Disallow: /ankieta/
+Disallow: /ccmail/
+Disallow: /crmluk/
+Disallow: /cynkmet05102008/
+Disallow: /instrukcja/
+Disallow: /kontakty/
+Disallow: /start26082008/
+Disallow: /pm/

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /gfx/menu3.swf
+Disallow: /gfx/
+Disallow: /*.swf$
+Disallow: /*.js$
+Disallow: /images/
+Disallow: /wydruki/
+Disallow: /pliki/
+Disallow: /img/
+Disallow: /Drukarnia-gc/
+Disallow: /Prace/
+Disallow: /kontakt1.php

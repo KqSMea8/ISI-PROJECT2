@@ -1,0 +1,31 @@
+User-agent: *
+
+Disallow: /attach/
+Disallow: /Image/
+Disallow: /media/
+Disallow: /stara_strona_webin/
+Disallow: /paczka_instalacyjna/
+Disallow: /wp-content/uploads/cv
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/uploads/logo
+Disallow: /wp-content/uploads/oferty_pracy
+Disallow: /wp-content/uploads/zapytania_ofertowe
+Disallow: /wp-content/uploads/zapytanie_ofertowe_odp
+Disallow: /wp-content/uploads/ppp
+Disallow: /wp-content/uploads/flags
+
+Disallow: /export-users-from-firm/
+Disallow: /export-cv/
+Disallow: /export-firm-test/
+Disallow: /export-odp-cv/
+Disallow: /export-odp-ppp/
+Disallow: /export-odp-szkolenia/
+Disallow: /export-odp-zo/
+Disallow: /export-oferty-pracy/
+Disallow: /export-ppp/
+Disallow: /export-szkolenia/
+Disallow: /export-zapytania-ofertowe/
+Disallow: /firmy-export-csv/
+Disallow: /export-firm-test/
+Disallow: /test-haszy/

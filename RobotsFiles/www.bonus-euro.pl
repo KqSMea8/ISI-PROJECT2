@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /produkty
+Disallow: /nowy
+Disallow: /undefined
+Disallow: *sSort*
+Disallow: *ViewAll*
+Disallow: /mobile.php
+Disallow: /mobile
+Disallow: /m
+Disallow: /wersja-mobilna
+Disallow: /cookies.php
+Disallow: /foto.php
+Disallow: /,*

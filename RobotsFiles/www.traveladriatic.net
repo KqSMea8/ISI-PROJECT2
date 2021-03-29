@@ -1,0 +1,29 @@
+User-agent: *
+Crawl-delay: 2
+Disallow: /*?
+Disallow: /scripts
+Disallow: */blog
+Disallow: /scripts_v2
+Disallow: /*unit.asp
+Disallow: /*driving_directions
+Disallow: /*payment-methods
+Disallow: /*payment-dynamics
+Disallow: /*search/
+Disallow: /*cart/
+Disallow: /*campeggi-
+Disallow: */Hotel-
+Disallow: */kastel-kambelovac
+Disallow: */kastel-gomilica
+Disallow: */kastel-sucurac
+Disallow: */kastel-stari
+Disallow: */hotel-
+Disallow: */user/hotel
+Disallow: */user/*
+Disallow: /*.asp
+Disallow: /login
+Disallow: /img/
+Disallow: */montenegro/canj
+Disallow: */montenegro/bijela
+Disallow: */special-offer
+
+

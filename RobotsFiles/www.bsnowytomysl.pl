@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /administracja_portalu/
+Disallow: /e107_plugins/
+Disallow: /e107_languages/
+Disallow: /e107_images/
+Disallow: /e107_themes/
+Disallow: /e107_files/
+Disallow: /e107_docs/
+Disallow: /e107_handlers/
+Disallow: /e107_install/
+Disallow: /images/
+Disallow: /print/
+Disallow: /slashfiles/
+Disallow: /wnioski/

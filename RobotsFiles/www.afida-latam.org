@@ -1,0 +1,10 @@
+User-agent: ia_archiver
+Disallow: /
+user-agent: AhrefsBot
+disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /

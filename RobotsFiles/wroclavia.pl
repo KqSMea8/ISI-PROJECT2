@@ -1,0 +1,32 @@
+
+Disallow: /404
+Disallow: /404/
+Disallow: /500
+Disallow: /500/
+Disallow: /activate-new-advantages
+Disallow: /activate-new-advantages/
+Disallow: /bank-account-association
+Disallow: /bank-account-association/
+Disallow: /booking
+Disallow: /booking/
+Disallow: /faq-cashback
+Disallow: /faq-cashback/
+Disallow: /gamepage
+Disallow: /gamepage/
+Disallow: /history
+Disallow: /history/
+Disallow: /how-it-works
+Disallow: /how-it-works/
+Disallow: /intermediate-tc-connect
+Disallow: /intermediate-tc-connect/
+Disallow: /manage-my-credentials
+Disallow: /manage-my-credentials/
+Disallow: /new-password
+Disallow: /new-password/
+Disallow: /personalinfo
+Disallow: /personalinfo/
+Disallow: /search
+Disallow: /search/
+Disallow: /profile
+Disallow: /profile/
+SITEMAP:http://wroclavia.pl/sitemap.xml

@@ -1,0 +1,1 @@
+Blad bazy danych

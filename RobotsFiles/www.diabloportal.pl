@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: config.php
+Disallow: activate.php
+Disallow: /admincp
+Disallow: /live_feed
+Disallow: /templates
+Disallow: /useruploads
+Disallow: /install_update
+Disallow: /includes
+Disallow: /files
+Disallow: /FCKEditor
+Disallow: /language
+Disallow: /js
+Disallow: /api

@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /_mmServerScripts/
+Disallow: /_notes/
+Disallow: /admin/
+Disallow: /Connections/
+Disallow: /css/
+Disallow: /formcheck/
+Disallow: /galeria/min/
+Disallow: /images/
+Disallow: /js/

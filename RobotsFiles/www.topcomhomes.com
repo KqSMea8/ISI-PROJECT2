@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+
+Allow: /components/com_comprofiler/plugin/user/plug_cbfacebookconnect/
+Allow: /components/com_djclassifieds/themes/default/css/
+Allow: /components/com_djclassifieds/assets/
+Allow: /plugins/system/Cookies_Pro/Cookies_Pro/
+Allow: /components/com_djclassifieds/images

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /hu/
+Disallow: /IpPages/
+Disallow: /ippages/
+Disallow: /ssl/
+Disallow: /incident/
+Disallow: /api/
+Disallow: /Templates/Pages/Misc/iis-error-responsive.html
+Disallow: /defence_portal/
+Disallow: /pendler

@@ -1,0 +1,7 @@
+# robots.txt for
+
+User-agent: Mediapartners-Google
+
+User-agent: *
+Sitemap: https://www.rawax.net/sitemap.xml
+

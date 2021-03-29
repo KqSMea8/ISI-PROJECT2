@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /leki_json/
+Disallow: /pl/leki_json/
+Disallow: /ajax-odplatnosc/
+Disallow: /pl/ajax-odplatnosc/
+Disallow: /uaktualnieni-konta/
+Disallow: /pl/uaktualnieni-konta/
+Disallow: /m/
+Disallow: /pl/m/
+Disallow: /m/login/
+Disallow: /pl/m/login/
+Disallow: /m/register/
+Disallow: /pl/m/register/
+Disallow: /indeks-prognozowania-astmy/
+Disallow: /pl/indeks-prognozowania-astmy/
+Disallow: /drpiwowarczyk/
+Disallow: /lekidladzieci24/
+Disallow: /cpll2/
+Disallow: /cpll3/
+Disallow: /cpll4/
+Disallow: /cpll1607/
+Disallow: /cpll1607old/
+
+Sitemap: http://www.lekinfo24.pl/sitemap.xml

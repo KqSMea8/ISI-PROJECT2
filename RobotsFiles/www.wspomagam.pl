@@ -1,0 +1,12 @@
+User-agent: Twiceler
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow:
+

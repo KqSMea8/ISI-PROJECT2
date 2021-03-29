@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /search-dish/
+Disallow: /online/
+Disallow: /user/
+Disallow: /search-place/
+Disallow: /admin
+Disallow: /search-dish
+Disallow: /online
+Disallow: /user
+Disallow: /search-place
+Allow: /

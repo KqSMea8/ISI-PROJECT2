@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /services
+Disallow: /static/sound
+Sitemap: https://battleship-game.org/sitemap.xml

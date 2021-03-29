@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*/mythomann.html
+Disallow: /*/wishlist.html
+Disallow: /*/basket.html
+Disallow: /*/basket/index.html
+Disallow: /*/wishlists/*
+Disallow: /intl/*
+

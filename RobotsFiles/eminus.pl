@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cms_eminus
+Allow: /cms_eminus/requestServer/cropImage.php
+Allow: /cms_eminus/requestServer/files/
+Disallow: /config
+Disallow: /controller
+Disallow: /etc
+Disallow: /include
+Allow: /include/homeContentAjaxRequest.php
+Disallow: /lib
+Disallow: /web/data
+Disallow: /web/demo
+Disallow: /web/content
+Disallow: /web/include
+Disallow: /web/log
+Disallow: /web/templates

@@ -1,0 +1,50 @@
+# robots.txt
+User-agent: *
+Disallow: /service/gui/
+Disallow: /
+Disallow: /app/
+Disallow: /verwaltung/
+
+# sitemap
+Sitemap: https://www.ots.at/sitemap.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2019.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2018.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2017.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2016.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2015.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2014.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2013.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2012.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2011.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2010.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2009.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2008.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2007.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2006.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2005.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2004.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2003.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2002.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2001.xml
+Sitemap: https://www.ots.at/article-sitemap-index-2000.xml
+Sitemap: https://www.ots.at/article-sitemap-index-1999.xml
+Sitemap: https://www.ots.at/article-sitemap-index-1998.xml
+Sitemap: https://www.ots.at/article-sitemap-index-1997.xml
+Sitemap: https://www.ots.at/sitemap-news.xml
+Sitemap: https://www.ots.at/sitemap-aussender.xml
+Sitemap: https://www.ots.at/sitemap-topthemen.xml
+
+# channels
+
+
+# filter
+
+
+# suche
+
+
+# disclaimer
+
+
+# topthemen
+

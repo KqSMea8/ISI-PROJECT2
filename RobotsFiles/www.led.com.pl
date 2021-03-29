@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: cennik-hurt
+Disallow: config
+Disallow: includes
+Disallow: js
+Disallow: stats
+Disallow: test
+Disallow: cenniki.php
+Disallow: cennik_hurtowy.php
+Disallow: sieci
+Disallow: sieci/adm
+Disallow: elektronika
+Disallow: elektronika/adm

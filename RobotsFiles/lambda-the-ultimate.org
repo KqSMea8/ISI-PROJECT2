@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /search/
+Disallow: /user/login
+Disallow: /user/password
+Disallow: /user/register
+Disallow: /comment/reply/
+Disallow: /node/add/
+

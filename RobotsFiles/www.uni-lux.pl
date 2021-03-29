@@ -1,0 +1,34 @@
+User-Agent: *
+Disallow: /errors/
+Disallow: /filtry/
+Disallow: /flowplayer/
+Disallow: /iimcb/
+Disallow: /lb/
+Disallow: /osuszanie.biz/
+Disallow: /sakig/
+Disallow: /serwisy/
+Disallow: /sc/
+Disallow: /sk/
+Disallow: /product_d.php
+Disallow: /product_v.php
+Disallow: /product_v.html
+Disallow: /osuszacze_budowlane2.html
+Disallow: /products_d.php
+Disallow: /osuszacze_budowlane_d.html
+Disallow: /products2.html
+Disallow: /products2.php
+Disallow: /buy2.html
+Disallow: /buy2.php
+Disallow: /foo2.php
+Disallow: /orders2.php
+Disallow: /pic2.php
+Disallow: /orders.php
+Disallow: /orders.html
+Disallow: /securimage/
+Disallow: /p.php
+Disallow: /p.html
+Noindex: /*.txt$
+Noindex: /*.swf$
+
+Sitemap: http://www.uni-lux.eu/sitemap.xml
+

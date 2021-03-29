@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /__admin/
+Disallow: /backend/
+Disallow: /be/
+Disallow: /webservice/
+Disallow: /ws/
+Disallow: /druck_form/
+Disallow: /feedback/
+Disallow: /*?show=
+Disallow: /*?rf=
+Disallow: /*?svid=
+Disallow: /*?paid=
+Disallow: /*?header=
+Disallow: /*?ek_price_show=
+Disallow: /*?link=
+
+Disallow: /motobike/*
+
+
+
+
+

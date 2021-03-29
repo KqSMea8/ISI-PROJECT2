@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /phpmailer/
+Disallow: /fpdf_lib/
+Disallow: /backup/
+Disallow: /lightbox/
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /pliki/*.js$

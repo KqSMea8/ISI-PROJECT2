@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /_admin/
+Disallow: /_esAd/
+Disallow: /errors/
+Disallow: /helpers/
+Disallow: /lib/
+Disallow: /ajax/
+Disallow: /mailings/
+Disallow: /tmp/
+
+User-agent: googlebot
+Disallow: /_admin/
+Disallow: /_esAd/
+Disallow: /errors/
+Disallow: /helpers/
+Disallow: /lib/
+Disallow: /ajax/
+Disallow: /mailings/
+Disallow: /tmp/

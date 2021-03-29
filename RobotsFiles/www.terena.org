@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /about/people/schober.html
+Disallow: /about/people/ttc.php
+Disallow: /activities/campus-bp-old
+Disallow: /private/licenses/
+Disallow: /private/pictures/
+Disallow: /private/movies/
+

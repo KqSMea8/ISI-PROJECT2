@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /nbcbattery/
+Disallow: nbc_battery.php
+
+
+

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Allow: /component/joomgallery/image.raw
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Allow: /templates/sklep/css/
+Disallow: /tmp/
+Allow: /images/
+Allow: /foto/
+Allow: /typy-grzejnikow/
+Allow: /home-categories/
+

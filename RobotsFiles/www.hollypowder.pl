@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /archives/
+Disallow: /author/
+Disallow: /date/
+Disallow: /feed/
+Disallow: /comments/feed/
+Sitemap: https://hollypowder.pl/sitemap_index.xml

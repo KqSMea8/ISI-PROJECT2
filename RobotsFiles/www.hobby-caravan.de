@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /fileadmin/templates/
+Disallow: /uploads/
+Disallow: /404/
+
+
+# Pressebilderseiten in allen Sprachen
+Disallow: /presse/pressebilder/
+Disallow: /en/press/press-photos/
+Disallow: /fr/press/photos-de-presse/
+Disallow: /it/press/fotografie-per-la-stampa/
+Disallow: /pl/prasa/zdjecia-prasowe/
+Disallow: /fi/lehdistoe/lehdistoekuvat/
+Disallow: /nl/press/persfotos/
+
+
+Allow: /typo3conf/ext/nc_provider_main/Resources/Public/
+Allow: /typo3temp/compressor/
+Allow: /typo3temp/*.js
+Allow: /typo3temp/*.js*
+Allow: /typo3temp/*.css
+
+Sitemap: https://www.hobby-caravan.de/sitemap.xml

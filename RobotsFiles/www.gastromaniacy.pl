@@ -1,0 +1,32 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /error404/
+Disallow: /recenzenci
+Disallow: /recenzent/
+Disallow: /tell-
+Disallow: /regulamin.html
+Disallow: /add-new
+Disallow: /edit-
+Disallow: /search
+Disallow: /wyszukiwanie-zaawansowane
+Disallow: /kategorie-artykulow
+Disallow: /polec-artykul-
+Disallow: /opinia/
+Disallow: /opinia-odpowiedz/
+Disallow: /new-user
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /user-home
+Disallow: /user-reset-password-request
+Disallow: /profile/observed
+Disallow: /profile/observed-by
+Disallow: /profile/opinions
+Disallow: /profile/comments
+Disallow: /profile/locales
+Disallow: /profile/newsletter
+Disallow: /profile/change-password
+Disallow: /profile/pakiet-premium
+Disallow: /user-postbox
+Disallow: /wyszukiwanie-zaawansowane

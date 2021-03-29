@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wyszukaj/
+Disallow: /game/add-to-favourites/
+Disallow: /game/report/slug/
+Disallow: /user/
+Disallow: /auth/
+Disallow: /orderBy/
+Disallow: /dodaj-gre
+Disallow: /czat
+Disallow: /bitwy
+Disallow: /dodane/
+Disallow: /ulubione/
+Disallow: /uzytkownik/
+Disallow: /gra-iframe/

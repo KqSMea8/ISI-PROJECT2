@@ -1,0 +1,16 @@
+User-agent: googlebot
+Allow: /
+Disallow: /admin
+Disallow: /zad
+Disallow: /szukaj/*
+Disallow: /dodaj-strone
+Disallow: /admin*
+Disallow: /regulamin
+Disallow: /jak-dodac-wpis
+Disallow: /polityka-prywatnosci
+Disallow: /?action=premium*
+Disallow: /?action=report*
+Disallow: /?click=*
+Disallow: /rules
+Disallow: /rules*
+Disallow: /regulamin*

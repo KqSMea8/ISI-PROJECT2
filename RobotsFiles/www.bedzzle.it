@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /search/q*
+Disallow: /en/search/q*
+Disallow: /es/search/q*
+Disallow: /fr/search/q*
+Disallow: /de/search/q*
+Disallow: /pl/search/q*
+Disallow: /pt/search/q*
+Disallow: /accommodation/markers*
+Disallow: /homepage/*
+Disallow: /ajax/*
+Disallow: /ua/*
+
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Adsbot-Google
+Allow: /

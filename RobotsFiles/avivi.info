@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /bitrix/
+Disallow: /b24apps/
+Disallow: /*?
+Disallow: /*&
+Allow: /bitrix/components/
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+
+Host: http://avivi.info/
+Sitemap: http://avivi.info/sitemap.xml
+

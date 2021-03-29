@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*?
+Disallow: /uploads/
+Disallow: /tmp/
+Disallow: /plugins/
+Disallow: /modules/
+Disallow: /lib/
+Disallow: /doc/
+Disallow: /cgi-bin/
+Disallow: /admin/

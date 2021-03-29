@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /modules/
+Disallow: /mega_upload/
+Disallow: /mega_upload2/
+Disallow: /_arch/
+Disallow: /strefa-gospodarki/
+Disallow: /storage/
+Disallow: /newsletter/
+Disallow: /psd/
+Disallow: /application/
+Disallow: /scripts/
+Disallow: /system/
+Disallow: /likes/unlike.html
+Disallow: /likes/count.html
+Disallow: /likes/like.html
+
+Sitemap: https://www.gospodarz.pl/aktualnosci/sitemap2.xml
+Sitemap: https://www.gospodarz.pl/produkty/sitemap2.xml
+Sitemap: https://www.gospodarz.pl/galleries/sitemap
+Sitemap: https://www.gospodarz.pl/sitemap.xml
+Sitemap: https://www.gospodarz.pl//user/sitemap/2

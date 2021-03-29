@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: spip.php
+Disallow: spip.php?*
+Disallow: 404-not_found.html
+Disallow: /ecrire/
+Disallow: /extensions/
+Disallow: /trad-lang/
+Disallow: /ext/
+Disallow: /tmp/
+Disallow: /lib/
+Disallow: /local/
+Disallow: /IMG/
+Disallow: /images/
+Disallow: /plugins/
+Disallow: /images/
+Disallow: /config/
+Disallow: /prive/
+Disallow: /squelettes/
+Disallow: /squelettes-dist/
+

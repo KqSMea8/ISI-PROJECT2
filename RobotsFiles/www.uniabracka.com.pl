@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /check/
+Disallow: /contao/
+Disallow: /templates/
+Disallow: /share/index.php
+Disallow: /contao-check.php
+Disallow: /flash.php
+Disallow: /README.md
+Disallow: *pdf
+Allow: /assets/

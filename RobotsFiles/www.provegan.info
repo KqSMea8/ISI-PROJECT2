@@ -1,0 +1,33 @@
+User-Agent: *
+Allow: /
+
+Disallow: /*cHash
+Disallow: /fileadmin/ext/
+Disallow: /fileadmin/fluidtemplate/
+
+Disallow: /fileadmin/templates/
+Allow: /fileadmin/templates/css/
+Allow: /fileadmin/templates/js/
+Allow: /fileadmin/templates/img/
+Allow: /fileadmin/templates/fonts/
+
+Disallow: /typo3/
+
+Disallow: /typo3conf/
+Allow: /typo3conf/*/Public/
+
+Disallow: /typo3temp/*
+Allow: /typo3temp/*.css
+Allow: /typo3temp/*.css.*.gzip
+Allow: /typo3temp/*.js
+Allow: /typo3temp/*.js.*.gzip
+Allow: /typo3temp/*.jpg
+Allow: /typo3temp/*.gif
+Allow: /typo3temp/*.png
+
+Disallow: /*?id=* # Deaktiviert non-realurl URLs
+Disallow: /*&type=100 # Deaktiviert Print Seiten
+Disallow: /*&type=98 # Deaktiviert Print Seiten
+Disallow: /print/ # Deaktiviert Print Seiten
+
+Sitemap: https://www.provegan.info/?eID=dd_googlesitemap

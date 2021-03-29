@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /it/ditals/
+
+User-agent: *
+Disallow: /nl/
+
+User-agent: *
+Disallow: /nl
+
+User-agent: AdsBot-Google
+Allow: /it/ditals/

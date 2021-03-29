@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Katedra konstrukci pozemnich staveb [*none - en]</title>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" /> -->
+<meta charset="utf-8">
+<meta name="author" content="Aluminium (http://www.aluminium.cz/)" lang="en" />
+<link rel="stylesheet" href="kps.css" type="text/css" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+
+<style type="text/css">
+
+.lbLoading {
+background: #fff url(images/en/slimbox/loading.gif) no-repeat center;
+}
+#lbPrevLink:hover {
+background: transparent url(images/en/slimbox/prevlabel.gif) no-repeat 0% 15%;
+}
+#lbNextLink:hover {
+background: transparent url(images/en/slimbox/nextlabel.gif) no-repeat 100% 15%;
+}
+#lbCloseLink {
+background: transparent url(images/en/slimbox/closelabel.gif) no-repeat center;
+}</style>
+
+<script type="text/JavaScript" src="js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="js/mootools.js"></script>
+<script type="text/javascript" src="js/slimbox.js"></script>
+<script type="text/JavaScript" src="js/email.js"></script>
+<script type="text/JavaScript" src="js/index.js"></script>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function popup_close(name) {
+ret = 0;
+// z evalu se neda ukoncit funkce proto nejdriv prirazeni a return az mimo
+eval("if (typeof("+name+")=='undefined') ret = 1;");
+if (ret == 1) return;
+eval("if (typeof("+name+".closed)=='undefined') ret = 1;");
+if (ret == 1) return;
+eval ("if ("+name+".closed==true) ret = 1;");
+if (ret == 1) return;
+eval(name+".close();");
+}
+
+function switch_lang2(lmut,what) { //v2.0 - meni divy
+var i;
+var arrDivs = document.getElementsByTagName('div');
+for (i = 0; i < arrDivs.length; i++) {
+if(arrDivs[i].id.substr(0,4) == what) {
+if(arrDivs[i].id.substr(5,2) == lmut) {
+arrDivs[i].style.display = "inline";
+} else {
+arrDivs[i].style.display = "none";
+}
+}
+}
+}
+
+function Menu(name) {
+var j;
+var arrIDs = document.getElementsByTagName('li');
+for (j = 0; j < arrIDs.length; j++) {
+if(arrIDs[j].id.substr(0,1) == name) {
+if(arrIDs[j].style.display =='') {
+arrIDs[j].style.display = 'none';
+} else {
+arrIDs[j].style.display = "";
+}
+}
+}
+}
+
+function externalLinks() {
+if (!document.getElementsByTagName) return;
+var anchors = document.getElementsByTagName("a");
+for (var i=0; i<anchors.length; i++) {
+var anchor = anchors[i];
+if (anchor.getAttribute("href") &&
+anchor.getAttribute("rel") == "external")
+anchor.target = "_blank";
+}
+}
+
+window.onload = externalLinks;
+//-->
+</script>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-35106816-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+</head>
+<body>
+<div id="holder">
+<div id="container">
+<div id="hlavicka">
+<div id="top">
+<div id="top_left">
+<img src="images/foto_fsv.gif" alt="FSv CVUT - foto" width="160" height="117" />
+<img src="images/kps.gif" alt="KPS" width="417" height="64" usemap="#Map" style="padding-bottom:30px; padding-left:120px;" />
+<map name="Map" id="Map"><area shape="rect" coords="30,35,180,60" href="http://www.fsv.cvut.cz" alt="Fakulta stavebni" /><area shape="rect" coords="185,35,300,60" href="http://www.cvut.cz" alt="CVUT v Praze" /></map>
+</div>
+<div id="top_right"><p>Not logged in<br /><a href="index.php?login&amp;error=1&amp;failurl=robots.txt">Login</a> | <a href="index.php?lmut=en&amp;part=help">Help</a><br /><a href="index.php?lmut=cz&amp;failurl=robots.txt">Cesky</a></p></div>
+</div><!-- #top -->
+</div><!-- #hlavicka -->
+
+<div id="obsah">
+<div id="submenu">&nbsp;       <!-- <a href="http://www.cesb.cz/en" rel="external"><img src="images/logo_CESB13_small2.jpg" alt="CESB13" longdesc="http://www.cesb.cz/" width="157" height="56" align="left" /></a>
+<br />&nbsp;<br />-->
+<!--<a href="http://kps.fsv.cvut.cz/upload/NANS2014_pozvanka_prodlouzeni.pdf" rel="external"><img src="images/logo_NANS14.jpg" alt="NANS 2014" width="157" height="71" align="left" /></a> -->
+</div><!-- #submenu -->
+<div id="main">
+<div id="menu"><ul class="menu"><li><a href="index.php?lmut=en&amp;part=katedra">Department info</a></li><li><a href="index.php?lmut=en&amp;part=vyzkum">Research</a></li><li><a href="index.php?lmut=en&amp;part=people">Employees</a></li><li><a href="index.php?lmut=en&amp;part=vyuka">Courses</a></li><li><a href="index.php?lmut=en&amp;part=akce">Events</a></li></ul></div><!-- #menu -->
+<strong>We are sorry, but the requested page does not exist.</strong> (robots.txt)		</div><!-- #main -->
+</div><!-- #obsah -->
+</div><!-- #container -->
+<div id="footer-spacer"></div><!-- #footer-spacer -->
+<div id="footer"><p>Copyright &copy; 2008 - 2019, Katedra konstrukci pozemnich staveb.<br /><a href="mailto:zigler@fsv.cvut.cz?subject=Mail%20z%20webu">zigler(-at-)fsv.cvut.cz</a></p></div><!-- #footer -->
+</div><!-- #holder -->
+</body>
+</html>
+

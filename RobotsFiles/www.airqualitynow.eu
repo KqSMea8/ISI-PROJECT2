@@ -1,0 +1,6 @@
+UserAgent: *
+Disallow: /lang/
+Disallow: /contents/
+Disallow: /results/
+
+

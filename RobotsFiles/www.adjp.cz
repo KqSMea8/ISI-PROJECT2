@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cfg
+Disallow: /css
+Disallow: /data
+Disallow: /js
+Disallow: /layouts
+Disallow: /modules
+Disallow: /plugins
+Disallow: /scripts
+Sitemap: /sitemap.xml

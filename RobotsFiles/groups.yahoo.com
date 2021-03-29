@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /subscribe/
+Disallow: /unsubscribe/
+Disallow: /unbounce
+Disallow: /i
+Disallow: /sdarla
+

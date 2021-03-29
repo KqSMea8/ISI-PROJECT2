@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /wyprobuj-za-darmo.html?demo=discount
+Disallow: /manual/
+Disallow: /web/tpl/landing-pages
+Disallow: /pliki/
+Disallow: /promoc/
+Disallow: /mailing/
+Disallow: /lp/
+Disallow: /docs/
+Disallow: /changelog/
+Disallow: /blog/wp-admin/
+Allow: /blog/wp-admin/admin-ajax.php
+Disallow: /blog/page/
+Disallow: /blog/category/
+Disallow: /blog/tag/
+Disallow: /dokumenty/
+Disallow: /blog/product/
+Disallow: /blog/shop/
+Disallow: /blog/oakley*
+Disallow: /404.html
+Disallow: /blog/wp-content/plugins/onesignal*
+
+Sitemap: https://www.navifleet.pl/sitemap.xml
+Sitemap: https://www.navifleet.pl/blog/sitemap_index.xml

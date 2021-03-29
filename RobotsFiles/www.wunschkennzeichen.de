@@ -1,0 +1,34 @@
+User-agent: lifehacker
+Disallow: /
+User-agent: vice
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+
+# Paths (clean URLs)
+User-agent: *
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+Disallow: /captcha/refresh/
+Disallow: /secret.php
+
+## MAGENTO SEO IMPROVEMENTS
+
+## Do not crawl sub category pages that are sorted or filtered.
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /*?mode*
+Disallow: /*?SID=*
+
+User-agent: Googlebot
+Allow: /checkout/

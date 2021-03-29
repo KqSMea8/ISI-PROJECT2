@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /WebResource.axd
+Disallow: /ScriptResource.axd
+Allow: /
+

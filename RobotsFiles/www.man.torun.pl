@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: regul1.html
+Disallow: regul2.html
+Disallow: cennik.html
+Disallow: zespol.html
+Disallow: dane-teleadresowe.html
+Disallow: mapa.html
+Disallow: Camerimage.html
+Disallow: siec.html
+Disallow: /docs/
+Disallow: cache.html
+Disallow: /archives/
+Disallow: /cgi-bin/
+Disallow: /oferta/domena/blokada/
+Disallow: /oferta/domena/rejestracja-domeny/
+Disallow: /oferta/domena/zmiana-delegacji/
+Disallow: /oferta/domena/wylaczenie-delegacji/
+Disallow: /oferta/hosting/zaloz-konto/
+

@@ -1,0 +1,48 @@
+User-agent: Googlebot
+Disallow:
+User-agent: googlebot-image
+Disallow:
+User-agent: googlebot-mobile
+Disallow:
+User-agent: BUbiNG
+Disallow: /
+User-agent: MSNBot
+Disallow: /
+User-agent: Slurp
+Disallow: /
+User-agent: Teoma
+Disallow: /
+User-agent: twiceler
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-Agent: trendictionbot
+Disallow: /
+User-agent: Gigabot
+Disallow: /
+User-agent: Scrubby
+Disallow: /
+User-agent: Robozilla
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: naverbot
+Disallow: /
+User-agent: yeti
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: asterias
+Disallow: /
+User-agent: yahoo-blogs/v3.9
+Disallow: /
+
+Sitemap: http://stillalive.cochise.pl/sitemap.xml.gz

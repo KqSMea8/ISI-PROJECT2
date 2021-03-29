@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /poczta/
+Disallow: /indexnew.html.old
+Disallow: /.__stara_videoslub.pl./
+Disallow: /awstats/
+Disallow: /wt_data/
+Disallow: /kalendarz/
+Disallow: /.__nowa./
+Disallow: /wtclient.php
+Allow: /
+
+User-Agent: Googlebot
+Disallow: /poczta/
+Disallow: /indexnew.html.old
+Disallow: /.__stara_videoslub.pl./
+Disallow: /awstats/
+Disallow: /wt_data/
+Disallow: /kalendarz/
+Disallow: /.__nowa./
+Disallow: /wtclient.php
+Allow: /

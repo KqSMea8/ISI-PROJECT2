@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /maintenance.html
+Disallow: /not_found.html
+Disallow: /download/
+Disallow: /*.js$
+Disallow: /*printFriendly
+Disallow: /*highlightOption
+Disallow: /innovation/download
+

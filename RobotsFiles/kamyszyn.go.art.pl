@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /feeds
+Allow: /_/rsrc/
+Disallow: /_/
+Sitemap: http://kamyszyn.go.art.pl:80/system/feeds/sitemap
+

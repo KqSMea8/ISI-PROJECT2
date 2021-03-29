@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /classes
+Disallow: /common
+Disallow: /language
+Disallow: /help
+Disallow: /minimods
+Disallow: /modules
+Disallow: /paprotka_old_TODEL
+Disallow: /paprotka_TODEL
+Disallow: /tmp
+Disallow: /warka
+Disallow: /warka2
+Disallow: /_old_provect
+Disallow: /xmlrpc/
+Disallow: /realizacje/
+Disallow: /Lukasz/
+Disallow: /hotpig/
+Disallow: /*?cheap=*
+Disallow: /*?buy=*
+Disallow: /*?sale=*
+Disallow: /*?y=*
+Disallow: /*?u=*
+Disallow: /*?m=*
+
+Sitemap: http://provect.pl/sitemap.xml

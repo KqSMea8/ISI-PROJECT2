@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+User-agent: GoogleBot
+Disallow: /a-4-okolice$
+User-agent: GoogleBot
+Disallow: /a-1-domek$
+User-agent: GoogleBot
+Disallow: /a-2-opinie-naszych-gosci$
+User-agent: GoogleBot
+Disallow: /a-3-cennik$
+User-agent: GoogleBot
+Disallow: /a-15-domek-zrodelko$
+User-agent: GoogleBot
+Disallow: /a-17-domek-skowronek$
+User-agent: GoogleBot
+Disallow: /a-16-domek-dzika-stokrotka$
+
+User-agent: *
+Disallow: /admin/
+Allow: /admin/css/lang-de.jpg
+Allow: /admin/css/lang-pl.jpg
+Allow: /admin/css/lang-en.jpg
+Allow: /admin/css/lang-uk.jpg
+Allow: /admin/css/lang-ru.jpg
+Disallow: /autoload
+Disallow: /templates
+Disallow: /temp

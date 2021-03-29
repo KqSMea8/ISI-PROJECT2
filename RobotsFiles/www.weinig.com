@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /*?id=*
+Disallow: /*?eID=*
+Disallow: /*.zip$
+Disallow: /*.swf$
+Disallow: /awstats/
+Disallow: /fileadmin/.sass-cache/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/demo/
+Disallow: /fileadmin/fonts/
+Disallow: /fileadmin/html/
+Disallow: /fileadmin/sass/
+Disallow: /fileadmin/ts/
+Disallow: /typo3/
+Disallow: /typo3temp/cs/
+Disallow: /typo3temp/GB/
+Disallow: /typo3temp/InstallToolSessions/
+Disallow: /typo3temp/llxml/
+Disallow: /typo3temp/locks/
+Disallow: /typo3temp/logs/
+Disallow: /typo3temp/sprites/
+Disallow: /typo3temp/temp/
+Disallow: /daten/ajax-page-search.html
+Disallow: /impressum
+Disallow: /datenschutz
+
+#Allow: /
+Allow: /typo3conf/ext/news/Resources/Public/Css/news-basic.css
+Allow: /typo3conf/ext/rm_expertsearch/Resources/Public/rm_expertsearch.js?1467116284
+Allow: /typo3temp/compressor/
+Allow: /fileadmin/_processed_/
+Allow: /fileadmin/pics/
+Allow: /typo3conf/ext/
+Sitemap: https://www.weinig.com/sitemap.xml
+

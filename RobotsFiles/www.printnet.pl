@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: *rejestracja=1
+Disallow: *zapomnialem_hasla
+Disallow: *logowanie=1
+Disallow: *wyloguj=1
+Disallow: *wspolpraca=1
+Disallow: *?szukaj=
+Disallow: *?koszyk=1
+Disallow: *?twojekonto=1

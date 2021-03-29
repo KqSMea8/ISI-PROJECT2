@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /its
+Disallow: /admin.php
+Disallow: /config
+Disallow: /header
+Disallow: /footer
+Disallow: /pntables
+Disallow: /referer
+Disallow: /images
+Disallow: /themes
+Disallow: /manual
+Disallow: /docs
+Disallow: /includes
+Disallow: /javascript
+Disallow: /language
+Disallow: /modules/NS-
+Disallow: /pnadodb
+Disallow: /themes
+

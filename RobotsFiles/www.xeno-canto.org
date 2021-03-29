@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /locations.php
+Disallow: /location-map.php
+Disallow: /api/
+Disallow: /embed.php
+Disallow: /browse.php
+Disallow: /download.php
+

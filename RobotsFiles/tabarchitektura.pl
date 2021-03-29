@@ -1,0 +1,13 @@
+User-agent: *
+allow: /
+Disallow: /admin/
+Disallow: /social/
+Disallow: /slides/
+Disallow: /tag/
+Disallow: /category/
+Disallow: /blog-post/
+Disallow: /domy-jednorodzinne/
+Disallow: /tag-gallery/
+Disallow: /blog-post-4/
+Disallow: /blog-post-2/
+Disallow: /blog-post-3/

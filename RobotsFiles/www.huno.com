@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /hoteldisplay.asp
+Disallow: /production/zhotelinfo2.asp
+Disallow: /bookingnew.asp
+Disallow: /prod/book/checkout.asp
+Disallow: /alpha/redirect.asp
+Disallow: /alpha/results.asp
+Disallow: /prod/deals.asp
+Disallow: /alpha/hotel3search.asp
+Disallow: /zhoteledit.asp
+Disallow: /FlightDetailsApplication2/DefaultServerSide.aspx
+Disallow: /alpha/static2.asp
+Disallow: /list/

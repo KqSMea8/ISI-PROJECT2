@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /callback/
+Disallow: /control/
+Disallow: /docs/
+Disallow: /install/
+Disallow: /logs/
+Disallow: /previews/
+Disallow: /zip-files/
+Disallow: /search/
+Disallow: /basket/
+Disallow: /account/
+Disallow: /login/
+Disallow: /create/
+Disallow: /index.php
+Disallow: /mobile/

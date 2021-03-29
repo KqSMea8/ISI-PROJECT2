@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.hotelolsanka.cz/xmlsitemap/sitemap_www_hotelolsanka_cz_cs.xml
+Sitemap: https://www.hotelolsanka.cz/xmlsitemap/sitemap_www_hotelolsanka_cz_de.xml
+Sitemap: https://www.hotelolsanka.cz/xmlsitemap/sitemap_www_hotelolsanka_cz_en.xml
+Sitemap: https://www.hotelolsanka.cz/xmlsitemap/sitemap_www_hotelolsanka_cz_pl.xml
+Sitemap: https://www.hotelolsanka.cz/xmlsitemap/sitemap_www_hotelolsanka_cz_ru.xml

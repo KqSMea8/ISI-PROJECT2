@@ -1,0 +1,26 @@
+User-agent: *
+Allow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Disallow: /trackback/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /zabezpieczony/
+Disallow: /offer/
+Disallow: /cookies-2/
+Disallow: /inspirations/a-inspiration/
+Disallow: /inspirations/b-inspiration/
+Disallow: /inspirations/c-inspiration/
+Disallow: /inspirations/d-inspiration/
+Disallow: /realisations/zabki-2
+Disallow: /inspiration/inspirations/
+Disallow: /contact/
+Disallow: /kontakt/inspiracjon/
+Disallow: /category/bez-kategorii/
+Disallow: /realizacje/podlogi-betonowe-schody/foto-002zabezpieczone/
+Disallow: /realizacje/beton-dekoracyjny-pandomo/foto-013zabezpieczone/
+Disallow: /realizacje/posadzki-pandomo-loft/foto-024zabezpieczone/
+Disallow: /realizacje/posadzki-pandomo-schody/foto-007zabezpieczone/

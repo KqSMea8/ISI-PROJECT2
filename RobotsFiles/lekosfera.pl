@@ -1,0 +1,24 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /imgs/
+Disallow: /login/
+Disallow: /index2.php
+Disallow: /index3.php
+Disallow: /index4.php
+Disallow: /index5.php
+Disallow: /index6.php
+Disallow: /index7.php
+Disallow: /index8.php
+Disallow: /index9.php
+Disallow: /goal.htm
+Disallow: /cart
+Disallow: /forgot
+Disallow: /login
+Disallow: /products
+Disallow: /promo/
+Disallow: /sale
+Disallow: /sale/
+Disallow: /wysylka_gratis_alt.php
+Sitemap: https://lekosfera.pl/sitemap.xml

@@ -1,0 +1,22 @@
+User-agent: rogerbot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: Sogou web spider/3.0
+Disallow: /
+User-agent: Odnosniki
+Disallow: /
+User-agent: Rankivabot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /

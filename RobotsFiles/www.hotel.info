@@ -1,0 +1,73 @@
+#
+# Any other use of robots or failure to obey the robots exclusion standards
+# set forth at <http://www.robotstxt.org/wc/exclusion.html> is strictly
+# prohibited.
+#
+# hotel.info
+
+Sitemap: https://www.hotel.info/en/sitemap-index.xml
+Sitemap: https://www.hotel.info/es/sitemap-index.xml
+Sitemap: https://www.hotel.info/fr/sitemap-index.xml
+Sitemap: https://www.hotel.info/it/sitemap-index.xml
+Sitemap: https://www.hotel.info/nl/sitemap-index.xml
+Sitemap: https://www.hotel.info/pl/sitemap-index.xml
+
+
+
+User-agent: *
+Disallow: /control/
+Disallow: /Booking.aspx
+Disallow: /booking.aspx
+Disallow: /*hs_departure
+Disallow: /*hs_arrival
+Disallow: /*ancel*eservation*.aspx
+Disallow: /*ravel*rranger*tart*age.aspx
+Disallow: /*ustomer/*hange*ata.aspx
+Disallow: /*ustomer/*hange**ail*ubscriptions.aspx
+Disallow: /*ustomer/*og*n.aspx
+Disallow: /*ustomer/*og*ff.aspx
+Disallow: /*ustomer/*ewsletter.aspx
+Disallow: /*ustomer/*eservation*verview.aspx
+Disallow: /*ustomer/*end*assword.aspx
+Disallow: /*orporate*ustomer/*egister.aspx
+Disallow: /*ustomer/*egister.aspx
+Disallow: /*lng=AR
+Disallow: /*lng=BG
+Disallow: /*lng=CA
+Disallow: /*lng=EL
+Disallow: /*lng=ET
+Disallow: /*lng=HE
+Disallow: /*lng=HI
+Disallow: /*lng=HR
+Disallow: /*lng=ID
+Disallow: /*lng=KO
+Disallow: /*lng=LT
+Disallow: /*lng=LV
+Disallow: /*lng=NB
+Disallow: /*lng=SK
+Disallow: /*lng=SL
+Disallow: /*lng=SR
+Disallow: /*lng=TH
+Disallow: /*lng=UK
+Disallow: /Book
+Disallow: /book
+Disallow: /Sign/
+Disallow: /sign/
+Disallow: /Affiliate/Center
+Disallow: /affiliate/Index?
+Disallow: /Affiliate/Index?
+Disallow: /Customer/BookingAgent
+Disallow: /Customer/Profile
+Disallow: /Business/
+Disallow: /business/
+Disallow: /contact?
+Disallow: /Contact?
+Disallow: /*SmallMapImageWithPushPin.ashx*
+Disallow: /*-map.jpg*
+Disallow: /LAC.ashx
+Disallow: /prizedraw/
+Disallow: /api/
+
+User-agent: google-hoteladsverifier
+Disallow:
+

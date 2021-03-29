@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /uploads/
+Disallow: /recommended/
+Disallow: /comments/feed
+Disallow: /contact-filmehd
+Disallow: /n000000cat
+Disallow: /xmlrpc.php

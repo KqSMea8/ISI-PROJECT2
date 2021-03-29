@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /paintings/paintingsPainting/askOwnerQuestion/
+Disallow: /paintings/paintingsPaintingFav/create/
+Disallow: /users/usersUserFav/create/
+Disallow: /en/paintings/paintingsPainting/askOwnerQuestion/
+Disallow: /en/paintings/paintingsPaintingFav/create/
+Disallow: /en/users/usersUserFav/create/
+Disallow: /de/paintings/paintingsPainting/askOwnerQuestion/
+Disallow: /de/paintings/paintingsPaintingFav/create/
+Disallow: /de/users/usersUserFav/create/
+Disallow: /fr/paintings/paintingsPainting/askOwnerQuestion/
+Disallow: /fr/paintings/paintingsPaintingFav/create/
+Disallow: /fr/users/usersUserFav/create/
+Disallow: /it/paintings/paintingsPainting/askOwnerQuestion/
+Disallow: /it/paintings/paintingsPaintingFav/create/
+Disallow: /it/users/usersUserFav/create/
+Disallow: /ru/paintings/paintingsPainting/askOwnerQuestion/
+Disallow: /ru/paintings/paintingsPaintingFav/create/
+Disallow: /ru/users/usersUserFav/create/
+

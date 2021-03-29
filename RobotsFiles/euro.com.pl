@@ -1,0 +1,82 @@
+Sitemap: https://www.euro.com.pl/sitemap-index.xml.gz
+
+User-agent: *
+Disallow: /banner/
+Disallow: /javascript/
+Disallow: /dwr/
+Disallow: /warranty/
+Disallow: /akcesoria/
+Disallow: /biuletyny/
+Disallow: /newsletter/
+Disallow: /zestawy/
+Disallow: /katalog/
+Disallow: /redesign_09/
+Disallow: /upload_module/wysiwyg/
+Disallow: /upload_module/wysiwyg_ole/
+Disallow: /upload_module/events/Regulaminy/
+Disallow: /server-status/
+Disallow: /search/
+Disallow: /search.bhtml
+Disallow: /search.bhtml?*
+Disallow: /search,*
+Disallow: /add-to-cart.bhtml
+Disallow: /cart.bhtml
+# Disallow: /reklamacje.xml
+Disallow: /customer-order-list.bhtml
+Disallow: /customer-account.bhtml
+Disallow: /account-login.bhtml
+Disallow: /status-details.ltr
+Disallow: /warranty-front-view.ltr
+Disallow: /trade-doubler-redirect.ltr
+Disallow: /depositories.bhtml
+Disallow: /shopEvent.ltr
+Disallow: /opinion-abuse.ltr
+# Disallow: /see-also-carousel.ltr
+Disallow: /notify.ltr
+Disallow: /add-and-refresh-cart.ltr
+Disallow: /additional-page-content.ltr
+Disallow: /addToCartJsonTool.ltr
+Disallow: /complaint-view.ltr
+Disallow: /last-search-view.ltr
+Disallow: /last-viewed-single-product.ltr
+Disallow: /log-customer-visit.ltr
+Disallow: /see-also-for-main-page.ltr
+Disallow: /shops-with-product.ltr
+Disallow: /refresh-shops-with-product.ltr
+Disallow: /statics-for-unity.ltr
+Disallow: /userData.ltr
+Disallow: /visitData.ltr
+Disallow: /warrantyEncouragement.ltr
+Disallow: /errorWarning.ltr
+Disallow: /service-front-view.ltr
+Disallow: /productTemplateForFoto.ltr
+Disallow: /searchAutocomplete.ltr
+Disallow: /cmsPageFancy.ltr
+Disallow: /order-status.ltr
+Disallow: /slownik.ltr
+Disallow: /promowane/
+Disallow: /promowane.bhtml
+Disallow: /promowane.bhtml?*
+Disallow: /promowane,*
+
+
+User-agent: AdsBot-Google
+Allow: /search/
+Allow: /search.bhtml
+Allow: /search.bhtml?*
+Allow: /search,*
+Allow: /promowane/
+Allow: /promowane.bhtml
+Allow: /promowane.bhtml?*
+Allow: /promowane,*
+
+User-agent: AdsBot-Google-Mobile
+Allow: /search/
+Allow: /search.bhtml
+Allow: /search.bhtml?*
+Allow: /search,*
+Allow: /promowane/
+Allow: /promowane.bhtml
+Allow: /promowane.bhtml?*
+Allow: /promowane,*
+

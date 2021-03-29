@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /apps/
+Disallow: /a/
+Disallow: /poczta/
+Disallow: /zgloszenia/
+Disallow: /bug/

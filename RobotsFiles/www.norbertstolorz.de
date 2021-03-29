@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: https://www.norbertstolorz.de/c/
+Disallow: https://www.norbertstolorz.de/protected/
+Sitemap: https://www.norbertstolorz.de/sitemap.xml
+

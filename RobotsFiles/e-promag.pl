@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /lexicon/
+Disallow: /shop/findByJsonNumber
+Disallow: /katalog/compare/
+Disallow: /katalog/ajax_product_category
+Disallow: /katalog/ajax_product_subcategory
+Disallow: /katalog/send_comment/
+Disallow: /katalog/clipboard/
+Disallow: /katalog/clipboard-add/
+Disallow: /katalog/compare/
+Disallow: /katalog/isequal/
+Disallow: /panel/
+Disallow: /shop/
+Disallow: /web/var_dump/

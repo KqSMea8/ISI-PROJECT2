@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /preise
+Disallow: /preislisten
+Disallow: /en/preise
+Disallow: /en/preislisten
+Disallow: /es/preise
+Disallow: /es/preislisten
+Disallow: /fr/preise
+Disallow: /fr/preislisten
+Disallow: /pl/preise
+Disallow: /pl/preislisten
+Disallow: /pt/preise
+Disallow: /pt/preislisten
+Disallow: /ru/preise
+Disallow: /ru/preislisten
+Disallow: /tr/preise
+Disallow: /tr/preislisten
+Disallow: /preislisten-ch
+

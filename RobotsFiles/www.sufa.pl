@@ -1,0 +1,4 @@
+;To exclude all robots from the entire server
+User-agent: *
+Disallow: /
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /123/
+Disallow: /logodasmed/
+Disallow: /przewozchorych.pll/
+Disallow: /przewozosobniepelnosprawnych/
+Disallow: /przewozosobniepelnosprawnych1/
+Disallow: /test/
+Disallow: /wspolpraca/
+Disallow: /wynajem/
+Disallow: /wynajem123456789/
+Disallow: /images/

@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Allow: /index.html
+Allow: /dom.html
+Allow: /firma.html
+Allow: /grupowe.html
+Allow: /komunikacja.html
+Allow: /turystyczne.html
+Allow: /zycie.html

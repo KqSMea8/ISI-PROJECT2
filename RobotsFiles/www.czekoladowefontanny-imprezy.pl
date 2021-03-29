@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /send_email.php
+
+

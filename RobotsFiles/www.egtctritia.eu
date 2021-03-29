@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /ajax
+Disallow: /admin
+Disallow: /_jquery
+Disallow: /_bootstrap
+Disallow: /_CMS
+Disallow: /invoice
+Disallow: /_library
+Disallow: /_libraryR

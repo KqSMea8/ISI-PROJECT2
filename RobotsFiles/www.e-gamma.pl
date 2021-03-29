@@ -1,0 +1,57 @@
+User-agent: *
+Disallow: /datenschutzerklarung
+Disallow: /datenschutzerklarung.html
+Disallow: /datenschutzerklarung.htm
+Disallow: /datenschutzerklarung.php
+Disallow: /datenschutzerklaerung
+Disallow: /datenschutzerklaerung.html
+Disallow: /datenschutzerklaerung.htm
+Disallow: /datenschutzerklaerung.php
+Disallow: /datenschutz
+Disallow: /datenschutz.html
+Disallow: /datenschutz.htm
+Disallow: /datenschutz.php
+Disallow: /legal-disclosure
+Disallow: /legal-disclosure.html
+Disallow: /legal-disclosure.htm
+Disallow: /legal-disclosure.php
+Disallow: /legal
+Disallow: /legal.html
+Disallow: /legal.htm
+Disallow: /legal.php
+Disallow: /about-us
+Disallow: /about-us.html
+Disallow: /about-us.htm
+Disallow: /about-us.php
+Disallow: /aboutus
+Disallow: /aboutus.html
+Disallow: /aboutus.htm
+Disallow: /aboutus.php
+Disallow: /about
+Disallow: /about.html
+Disallow: /about.htm
+Disallow: /about.php
+Disallow: /agbs
+Disallow: /agbs.html
+Disallow: /agbs.htm
+Disallow: /agbs.php
+Disallow: /agb
+Disallow: /agb.html
+Disallow: /agb.htm
+Disallow: /agb.php
+Disallow: /imprint
+Disallow: /imprint.html
+Disallow: /imprint.htm
+Disallow: /imprint.php
+Disallow: /impressum
+Disallow: /impressum.html
+Disallow: /impressum.htm
+Disallow: /impressum.php
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: yacybot
+Disallow: /
+
+

@@ -1,0 +1,63 @@
+#
+# robots.txt for TYPO3-BASE
+# version 1.0.0
+#
+
+User-agent: Googlebot
+# Especially for Googlebot
+Disallow: /*?id=*
+Disallow: /*&id=*
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+Disallow: /*?tx_indexedsearch
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3_src*
+Disallow: /typo3cms
+Disallow: /typo3conf/xsd/
+Disallow: /typo3temp/*
+Allow: /typo3temp/*.css
+Allow: /typo3temp/*.css.*.gzip
+Allow: /typo3temp/*.js
+Allow: /typo3temp/*.js.*.gzip
+Allow: /typo3temp/*.jpg
+Allow: /typo3temp/*.gif
+Allow: /typo3temp/*.png
+Disallow: *.log
+Disallow: *.sql
+Disallow: *.sql.gz
+
+#User-agent: Mediapartners-Google
+#For Google-AdSense please uncomment the line above and below
+#Disallow:
+
+User-agent: wget
+User-agent: sitecheck.internetseer.com
+User-agent: Zealbot
+User-agent: MSIECrawler
+User-agent: SiteSnagger
+User-agent: WebStripper
+User-agent: WebCopier
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: WebZIP
+User-agent: HTTrack
+User-agent: k2spider
+User-agent: WebReaper
+# Disable some useless crawler-bots
+Disallow: /
+
+User-agent: *
+# For all bots
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3cms
+Disallow: /typo3conf/xsd/
+
+# Sitemap files
+Sitemap: https://www.dautel.de/sitemap.xml?tx_csseo_view=pages
+

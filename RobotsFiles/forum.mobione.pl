@@ -1,0 +1,37 @@
+User-agent: MediaPartners-Google
+Allow: /
+
+User-agent: *
+Allow: /*.xml
+Allow: /*sitemap
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.gif
+Disallow: /attachments/
+Disallow: /Packages/
+Disallow: /Smileys/
+Disallow: /Sources/
+Disallow: /Themes/
+Disallow: /login/
+Disallow: /*msg
+Disallow: /*profile
+Disallow: /*help
+Disallow: /*search
+Disallow: /*mlist
+Disallow: /*sort
+Disallow: /*recent
+Disallow: /*register
+Disallow: /*groups
+Disallow: /*stats
+Disallow: /*unread
+Disallow: /*topicseen
+Disallow: /*showtopic
+Disallow: /*prev_next
+Disallow: /*imode
+Disallow: /*wap
+Disallow: /*action
+Disallow: /*PHPSESSID
+
+Sitemap: http://forum.mobione.pl/sitemap.xml

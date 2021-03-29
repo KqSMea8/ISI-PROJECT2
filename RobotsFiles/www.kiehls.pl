@@ -1,0 +1,72 @@
+# KIE EAST LAST UPDATE 27-06-2018
+
+User-agent: *
+
+Sitemap: https://www.kiehls.cz/sitemap_0.xml
+Sitemap: https://www.kiehls.ro/sitemap_0.xml
+Sitemap: https://www.kiehls.pl/sitemap_0.xml
+Sitemap: https://www.kiehls.cz/on/demandware.static/Sites-kiehls-emea-Site/Sites-kiehls-emea-Library/default/sitemap/hreflang-cs-cz.xml
+Sitemap: https://www.kiehls.pl/on/demandware.static/Sites-kiehls-emea-Site/Sites-kiehls-emea-Library/default/sitemap/hreflang-pl-pl.xml
+
+Disallow: */contentsearch?
+Disallow: */edit-profile
+Disallow: */passwordreset
+Disallow: */setpassword
+Disallow: */confirmednewpassword
+Disallow: */addresses
+Disallow: */billing
+Disallow: */checkout
+Disallow: */shipping
+Disallow: */register
+Disallow: */wishlist
+Disallow: */orderstatus
+Disallow: */my-account
+Disallow: */cart
+Disallow: */revieworder
+Disallow: */orderconfirmation
+Disallow: */compare
+Disallow: */faq
+Disallow: */404
+Disallow: */search?q=
+
+Disallow: */AccountCustom-**
+Disallow: */Account-**
+Disallow: */Address-**
+Disallow: */AddToCartNotification-**
+Disallow: */Cart-**
+Disallow: */COBilling-**
+Disallow: */COCheckout-**
+Disallow: */COCustomer-**
+Disallow: */Community-**
+Disallow: */Compare-Show
+Disallow: */Content-Get
+Disallow: */COSamples-**
+Disallow: */COShipping-**
+Disallow: */COSummary-**
+Disallow: */COUtils-**
+Disallow: */CustomerService-**
+Disallow: */CustomGift-**
+Disallow: */GeoIP-**
+Disallow: */Home-ErrorNotFound
+Disallow: */LiveChat-LiveAgentSessionTracking
+Disallow: */Login-**
+Disallow: */Loyalty-EnrollUser
+Disallow: */MyAccount-PeopleLikeMe
+Disallow: */Order-Details
+Disallow: */Paymetric-Tokenization
+Disallow: */PeopleLikeMe-**
+Disallow: */Reviews-**
+Disallow: */Search-StoreGridViewMode
+Disallow: */SendToFriend-Start
+Disallow: */Stories-**
+Disallow: */VideoPlayer-**
+Disallow: */Wishlist-**
+
+Disallow: */shipping.html
+Disallow: */privacy-policy/privacy-policy.html
+Disallow: */terms.html
+Disallow: */cookies_cz.html
+Disallow: */cookies_pl.html
+Disallow: */newsletter-privacy-policy-popin/newsletter_privacypolicy.html
+Disallow: */cookies/customer-service-cookie-policy.html
+Disallow: *//production-emea-loreal.demandware.net*

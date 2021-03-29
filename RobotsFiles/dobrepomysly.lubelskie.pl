@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wyszukiwarka/
+Disallow: /gfx/
+Disallow: /widget/
+Disallow: /pdf/
+Disallow: /ajax/
+Disallow: /twoje-konto/
+Disallow: /konta-firmowe/
+Disallow: */pomysl-dodaj.html*
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+User-agent: Fasterfox
+Disallow: /

@@ -1,0 +1,49 @@
+User-Agent: *
+Allow: /
+
+User-agent: stress-agent
+Disallow: /
+User-agent: e-SocietyRobot
+Disallow: /
+User-agent: psbot/0.1
+Disallow: /
+User-agent: ichiro
+Disallow: /
+User-agent: MJ12bot/v1.0.4
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: NPBot
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: AhrefsBot/2.0
+Disallow: /
+User-agent: MJ12bot/v1.4.0
+Disallow: /
+User-agent: sistrix
+Disallow: /
+User-agent: AhrefsBot/3.1
+Disallow: /
+User-agent: AhrefsBot/4.0
+Disallow: /
+User-agent: AhrefsBot/3.0
+Disallow: /
+User-agent: AhrefsBot/5.0
+Disallow: /
+User-agent: SiteBot/0.1
+Disallow: /
+
+Disallow: /bin
+Disallow: /icmsphotos
+Disallow: /icms
+
+
+
+
+
+

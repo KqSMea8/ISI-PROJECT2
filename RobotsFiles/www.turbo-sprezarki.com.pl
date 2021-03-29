@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /polityka-prywatnosci
+Disallow: /polityka-prywatnosci/*
+Disallow: /obowiazek-informacyjny
+Disallow: /obowiazek-informacyjny/*
+
+Sitemap: http://www.turbo-sprezarki.com.pl/sitemap.xml

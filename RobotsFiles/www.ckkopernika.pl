@@ -1,0 +1,20 @@
+User-agent: Mediapartners-Google*
+Disallow:
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Sitemap: http://www.ckkopernika.pl/index.php?option=com_xmap&sitemap=1&view=xml
+Sitemap: http://www.ckkopernika.pl/geositemap.xml
+

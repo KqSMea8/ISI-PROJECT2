@@ -1,0 +1,16 @@
+User-agent: *
+
+Allow: /
+Disallow: /search/
+Disallow: /more*
+Disallow: /*-json/$
+Disallow: /*?ticket=*
+Disallow: /next-posts/
+Disallow: /fb-get*
+Disallow: /post-stats-add/
+Disallow: /ad-mdata/
+Disallow: /ifslot/
+Disallow: /kinetise/
+Disallow: /search-stats-add/
+Disallow: /share-*
+

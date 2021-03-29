@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin
+Disallow: /fadmin
+Disallow: /sbt.php
+Disallow: /associationoutsider/associationoutsider.php
+Disallow: /sender
+Disallow: /doporucit.php
+Disallow: /results/komentovat.php
+Disallow: /results/rezervace.php
+Disallow: /results/kemprezervace.php
+Disallow: /results/uir-detail.php
+Disallow: /komentar.php
+Disallow: /redesign/vybavenost_mapa.php
+Disallow: /redesign/akce_mapa.php
+Disallow: /results/google_route.php
+Disallow: /results/google_route2.php
+Disallow: /results/googlemaps.php
+Disallow: /results/googlemaps2.php
+Disallow: /results/vcard.php
+Disallow: /results/ical.php
+
+Sitemap: http://www.czecot.pl/sitemap.xml

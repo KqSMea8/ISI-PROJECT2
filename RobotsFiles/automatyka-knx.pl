@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /my/
+Disallow: /integrations/
+Disallow: /view/
+Disallow: /ask4price/
+Disallow: /notify/
+Disallow: /order/
+Disallow: /basket/
+Disallow: /compare/
+Disallow: /newsletter/
+Disallow: /recommend/
+Disallow: /popup/
+Crawl-delay: 10

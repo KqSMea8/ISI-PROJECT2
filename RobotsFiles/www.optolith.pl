@@ -1,0 +1,42 @@
+User-agent: *
+
+Disallow: /wp-content/
+Disallow: /wp-icludes/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /category/
+Disallow: /login/
+Disallow: /faq_cat/
+Disallow: /faq-items/
+Disallow: /my-account/
+Disallow: /portfolio_cat/
+Disallow: /shop/
+Disallow: /static-block-items/
+Disallow: /tag/
+Disallow: /tag-produktu/
+Disallow: /author/
+Disallow: /feed/
+
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.php$
+Disallow: /*?postcolor=*
+Disallow: /*?orderby=*
+Disallow: /*?add_to_wishlist=*
+Disallow: /*?paged
+Disallow: /*?count=*
+Disallow: /*?order=*
+Disallow: /*?id=*
+Disallow: /*?ProductId=*
+Disallow: /*?product_tag=*
+Disallow: /*?LangId=*
+Disallow: /*?Name=*
+Disallow: /*?action=*
+Disallow: /*?wpnonce*
+Disallow: /*?Type=*
+Disallow: /*?GroupId=*
+Disallow: /*?ItemId=*
+
+Sitemap: http://www.optolith.pl/page-sitemap.xml

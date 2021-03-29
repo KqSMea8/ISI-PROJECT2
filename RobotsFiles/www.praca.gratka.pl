@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /onclick/
+Disallow: /oferta/kierownik-gazety-przyjmiemy-kazdego-2198286.html
+Disallow: /pracodawca/ogloszenie/1961139.html
+Disallow: /pracownik/szukaj/tresc/partner-1882323.html
+Disallow: /pracodawca/ogloszenie/magazynier-2136406.html*
+Disallow: /pracodawca/ogloszenie/pracownik-biurowy-ogloszenie-z-jarmark-2230965.html*
+Disallow: /pracodawca/ogloszenie/2342101.html*
+Disallow: /*?ses
+Disallow: /_
+Disallow: /pracodawca/ogloszenie/inne-2407492.html
+Disallow: /pracodawca/ogloszenie/konstruktor-odziezy-2435700.html
+Disallow: /pracodawca/ogloszenie/praca-zdalna-poza-telemarketingiem-chetnie-obsluga-sklepu-internetowego-2406498.html
+Disallow: /pracodawca/ogloszenie/sprzedawca-2442638.html
+Disallow: /pracodawca/ogloszenie/doradca-technicznohandlowy-asystent-projektanta-kosztorysant-2608220.html
+Disallow: /oferta/cieslimurarzy-2777321.html
+Disallow: /oferta/cieslimurarzy-2826413.html
+Disallow: /oferta/specjalista-do-spraw-marketingu-i-handlu-2830431.html
+Disallow: /pracodawca/ogloszenie/pracownik-biurowy-ogloszenie-z-jarmark-2274691.html*
+Disallow: /pracodawca/ogloszenie/kierownik-apteki-3198252.html
+Disallow: /pracodawca/ogloszenie/kontroler-biletow-3383930.html*
+Disallow: /pracodawca/ogloszenie/pracownik-lesny-3716343.html*
+Disallow: /pracodawca/ogloszenie/kierowca-c-e-3801175.html*
+

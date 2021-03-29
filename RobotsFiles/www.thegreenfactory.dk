@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /baction/
+Disallow: /products/TellAFriend.aspx
+Disallow: /*?*print
+Disallow: /sesessionservices/

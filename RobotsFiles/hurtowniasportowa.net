@@ -1,0 +1,11 @@
+User-agent:*
+Disallow: /konto/logowanie
+Allow: /*?$
+Disallow: /*?
+Disallow: /blog/tags/
+Disallow: /blog/view/
+Disallow: /blog/list/
+Disallow: /koszyk
+Disallow: /konto/rejestracja
+
+Sitemap: https://hurtowniasportowa.net/sitemap.xml

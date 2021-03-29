@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /include/
+Disallow: /js/
+
+

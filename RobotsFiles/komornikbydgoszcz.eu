@@ -1,0 +1,28 @@
+User-agent: Googlebot
+Allow:/components/com_sppagebuilder/assets/css/animate.min.css
+Allow:/components/com_sppagebuilder/assets/css/font-awesome.min.css
+Allow:/components/com_sppagebuilder/assets/css/sppagebuilder.css
+Allow:/components/com_sppagebuilder/assets/css/sppagecontainer.css
+Allow:/components/com_sppagebuilder/assets/js/sppagebuilder.js
+Allow:/modules/mod_sp_smart_slider/tmpl/nivo_slider/jquery.nivo.slider.pack.js
+Allow:/modules/mod_sp_smart_slider/tmpl/nivo_slider/nivo-slider.css
+Allow:/modules/mod_sp_smart_slider/tmpl/nivo_slider/themes/default/default.css
+Allow:/plugins/system/helix3/assets/css/pagebuilder.css
+Allow:/templates/shaper_helix3/js/bootstrap.min.js
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+
+
+

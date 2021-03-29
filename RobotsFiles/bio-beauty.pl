@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /images/thumbnails/
+Disallow: /skins/
+Disallow: /payments/
+Disallow: /store_closed.html
+Disallow: /core/
+Disallow: /lib/
+Disallow: /install/
+Disallow: /js/
+Disallow: /schemas/
+
+Sitemap: http://www.biobeauty.pl/sitemap.xml
+

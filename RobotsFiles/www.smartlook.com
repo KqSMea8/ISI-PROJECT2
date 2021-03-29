@@ -1,0 +1,17 @@
+User-agent: *
+Disallow:
+Disallow: /demarketing
+Disallow: /app/player
+Disallow: /app/affiliate
+Disallow: /*?*do=fbUp-open
+Sitemap: https://www.smartlook.com/sitemap.xml
+Sitemap: https://www.smartlook.com/pt/sitemap.xml
+Sitemap: https://www.smartlook.com/cs/sitemap.xml
+Sitemap: https://www.smartlook.com/de/sitemap.xml
+Sitemap: https://www.smartlook.com/es/sitemap.xml
+Sitemap: https://www.smartlook.com/fr/sitemap.xml
+Sitemap: https://www.smartlook.com/nl/sitemap.xml
+Sitemap: https://www.smartlook.com/pl/sitemap.xml
+
+
+

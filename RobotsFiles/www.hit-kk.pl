@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: */zamowienia/
+
+
+
+
+

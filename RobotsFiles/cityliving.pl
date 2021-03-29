@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /forum/
+Disallow: /pl/forum/
+Disallow: /forum/
+Disallow: /en/forum/
+Disallow: /wykonczonemieszkanie/
+Disallow: /pl/wykonczonemieszkanie/
+Disallow: /wykonczonemieszkanie/
+Disallow: /en/wykonczonemieszkanie/
+Disallow: /promocjamilanowek/
+Disallow: /pl/promocjamilanowek/
+Disallow: /promocjamilanowek/
+Disallow: /en/promocjamilanowek/
+Sitemap: http://cityliving.pl/sitemap.xml

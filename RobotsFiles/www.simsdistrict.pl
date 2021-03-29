@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /forum/images
+Disallow: /forum/includes
+Disallow: /forum/tmp
+Allow: /
+User-agent: bot
+Disallow: /
+User-agent: bot*
+Disallow: /
+User-agent: robot
+Disallow: /

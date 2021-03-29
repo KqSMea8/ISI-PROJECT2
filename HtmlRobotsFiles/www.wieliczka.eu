@@ -1,0 +1,315 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html>
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="author" content="Sebastian Duchowicz - www.spacedesign.pl" />
+<meta name="generator" content="Interaktywna Polska - www.interaktywnapolska.pl" />
+<meta name="language" content="pl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0,  maximum-scale=1.0, user-scalable=no" />
+
+<link href="/css/normalize.css" rel="stylesheet" type="text/css" />
+<link href="/css/formalize.css" rel="stylesheet" type="text/css" />
+<link title="styles1" href="/css/css-main.css" type="text/css" rel="stylesheet">
+<link title="styles2" href="/css/css-main-cont.css" type="text/css" rel="alternate stylesheet">
+<link href="/css/animate.css" type="text/css" rel="stylesheet">
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7]>
+<p class=chromeframe>Twoja przegladarka jest <em>antyczna!</em> <a href="http://browsehappy.com/">Zmien na nowoczesna przegladarke</a> lub <a href="http://www.google.com/chromeframe/?redirect=true">zainstaluj Google Chrome Frame</a>.</p>
+<![endif]-->
+
+
+<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<script src="/js/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/js/jquery.formalize.min.js"></script>
+<script type="text/javascript" src="/js/site_scripts.js"></script>
+<script type="text/javascript" src="/js/skycons.js"></script>
+<script type="text/javascript" src="/js/jwplayer.js"></script>
+<script type="text/javascript" src="/js/cookie_script.js"></script>
+
+<title>404 Not Found - wieliczka.eu</title>
+</head>
+<!--
+:== clasy dla BODY - w zaleznosci od tego co wybrane w menu glownym ==:
+
+glowna
+podstrona
+informator
+urzad
+biznes
+samorzad
+turystyka
+-->
+
+<body class="samorzad">
+
+<div class="body_wrapper">
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+<div class="header-wrapper-top">
+<div class="header">
+<div class="hd-left">
+<a href="/" class="logo"></a>
+<a href="/" class="logo-text"></a>
+</div>
+<div id="skip-link">
+<a href="#content" class="element-invisible element-focusable">Przejdz do glownej tresci</a>
+<a href="#menumain" class="element-invisible element-focusable">Przejdz do menu</a>
+<a href="#footer" class="element-invisible element-focusable">Przejdz do stopki</a>
+</div>
+<a class="menu-link active" href="">Menu</a>
+<div class="hd-right">
+<div id="menumain" class="menu-main active">
+
+</div>
+</div>
+</div>
+</div>
+<!-- ############################################################################################################################################ -->
+<div class="header-wrapper clearfix">
+<div class="header-belt">
+<div class="hb-in common-shadow">
+<div class="shadow"></div>
+<div class="hb-left">
+
+</div>
+
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- ############################################################################################################################################ -->
+
+<div class="weather-wrapper" style="display:none;">
+<div class="weather-belt">
+<div class="weather-cont">
+<div class="shadow"></div>
+<div class="weather-data">
+<div class="wicon font_weather">
+
+
+<canvas id="icon-weahther" data-weather="cloudy" width="44" height="44"></canvas>
+
+
+</div>
+<div class="temp">
+<span class="descr">temperatura</span>
+<div class="value"><i class="icon-wth-temp"></i>degC</div>
+</div>
+<div class="humidity">
+<div class="percent"><i class="icon-wth-kropla"></i>%</div>
+<span class="descr">wilgotnosc</span>
+</div>
+<div class="wind">
+<div class="speed"><i class="icon-wth-wiatr"></i><span>km/h</span></div>
+<span class="descr">predkosc wiatru</span>
+</div>
+<div class="pressure">
+<div class="hpa"><i class="icon-wth-cisn"></i><span>hPa</span></div>
+<span class="descr">cisnienie</span>
+</div>
+</div>
+<div class="region">
+<p>Pogoda<BR /> w regionie</p>
+</div>
+</div>
+</div>
+</div>
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+
+
+
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+<div class="options-wrapper clearfix">
+<div class="options">
+<div class="shadow common-shadow"></div>
+<div class="shadow-in common-shadow"></div>
+<div class="opt-search opt-r-shadow">
+
+</div>
+
+
+
+</div>
+<div class="clear"></div>
+</div>
+
+
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+
+<div id="content" class="middle-wrapper sidebar-right clearfix">
+<div class="middle clearfix">
+<div class="md-cols clearfix">
+
+<div class="md-col-left">
+<div class="md-content clearfix">
+<!-- ############################################################################################################################################ -->
+<div class="breadcrumb clearfix">
+
+<div class="path">
+
+</div>
+</div>
+<!-- ############################################################################################################################################ -->
+<div class="news-one">
+
+
+
+<h1 class="head sp_size">404 Nie znaleziono</h1>
+<div class="news sp_size">
+<div>
+<p> serwer nie odnalazl zasobu wedlug podanego URL ani niczego co by wskazywalo na istnienie takiego zasobu w przeszlosci</p>
+<br />
+<a href="/">Powrot do strony glownej</a>
+</div>
+
+<div>
+<div>
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm">&nbsp;</p>
+
+<p style="margin-bottom: 0cm">&nbsp;</p>
+</div>
+</div>
+
+<p style="font-size: 10px">&nbsp;</p>		<div class="clear"></div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- ############################################################################################################################################ -->
+</div><!-- / md-content -->
+
+</div><!-- / md-col-left -->
+<!-- ############################################################################################################################################ -->
+<!-- tutaj jest clasa dodatkowa - jezeli wystepuje w kolumnie menu - tyczy sie podstron -->
+<div class="md-col-right submenu">
+<a onclick="sidebarRight_sh();" class="submenu_icon_btn"></a>
+<div class="md-content clearfix">
+
+
+
+
+
+</div>
+</div>
+<!-- / md-col-right -->
+<!-- ############################################################################################################################################ -->
+</div>
+<!-- / cols -->
+<!-- ############################################################################################################################################ -->
+<div class="clear"></div>
+</div>
+<!-- / middle -->
+</div>
+<!-- / middle-wrapper -->
+
+
+
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+<div id="footer" class="footer-wrapper">
+<div class="f-top">
+<div class="f-in clearfix">
+<div class="fleft">
+
+<div class="fsubmenu-cont">
+
+
+</div>
+
+</div>
+<!-- / fleft -->
+<div class="fright">
+<div class="fright-in">
+<div class="fnewsl-cont clearfix">
+
+<div class="clear"></div>
+</div>
+<div class="fmore-info clearfix">
+
+<div class="rpart">
+<div class="social clearfix">
+
+</div>
+<div class="logos clearfix">
+
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<!-- / fright -->
+</div>
+</div>
+<div class="f-btm">
+<div class="f-in">
+<a class="logo" href="index.html"></a>
+<span class="cp sp_size">(c) Urzad Miasta i Gminy Wieliczka</span>
+<a title="projekt i wykonanie: www.interaktywnapolska.pl" href="http://www.interaktywnapolska.pl" target="_blank" class="iap"></a>
+</div>
+</div>
+</div>
+<!-- ############################################################################################################################################ -->
+<!-- ############################################################################################################################################ -->
+
+</div>
+<!-- stats code -->
+<script language="javascript">
+<!--
+var d = new Date();
+var myurl = 'aHR0cDovL3dpZWxpY3prYS5ldS9wbC8yMDExNjUvMC9keXp1cnktcHJ6ZXdvZG5pY3phY2Vnby1yYWR5LW1pZWpza2llai5odG1s';
+var uid = '83b7aca2d46cc95ae86cdca658f8526b';
+document.write('<scr'+'ipt language="JavaScript" src="/cms/stats/stats.js?t='+d.getTime()+'"></scr'+'ipt>');
+//-->
+</script>
+<noscript><img src="/cms-stats/?myurl=aHR0cDovL3dpZWxpY3prYS5ldS9wbC8yMDExNjUvMC9keXp1cnktcHJ6ZXdvZG5pY3phY2Vnby1yYWR5LW1pZWpza2llai5odG1s&t='+d.getTime()+'"></noscript><!-- stats code -->
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+//ANIMOWANE IKONKI POGODY
+var skycons = new Skycons({"resizeClear": true});
+skycons.set("icon-weahther", $('#icon-weahther').attr('data-weather'));
+skycons.play();
+
+//WIADOMOSCI HOT
+$('ul.newsticker').liScroll();
+
+$("a[rel^='prettyPhoto[photo]']").prettyPhoto({
+theme: 'pp_default', /* pp_default, light_rounded / dark_rounded / light_square / dark_square / facebook */
+counter_separator_label: ' z ', /* The separator for the gallery counter 1 "of" 2 */
+animation_speed: 'fast', /* fast/slow/normal */
+autoplay_slideshow: false,
+allow_resize: true,
+show_title: false,
+social_tools: ''
+});
+
+
+});
+</script>
+<script>exIAPCoockie({ c_def_text : true, });</script>
+</body>
+</html>

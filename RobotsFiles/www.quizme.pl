@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /img
+Disallow: /img/ext
+Disallow: /img/main
+Disallow: /img/text
+Disallow: /img/quiz
+Disallow: /img/avatar
+Disallow: /img/bistock
+Disallow: /app/webroot/img
+Disallow: /app/webroot/img/ext
+Disallow: /app/webroot/img/main
+Disallow: /app/webroot/img/text
+Disallow: /app/webroot/img/quiz
+Disallow: /app/webroot/img/avatar
+Disallow: /app/webroot/img/bigstock
+Disallow: /quiz/fb_image_generate
+Disallow: /regulamin_konkursu_ksiazkowego
+Disallow: /regulamin_konkursu_walentynkowego
+Disallow: /pdf
+Disallow: /widget
+Disallow: /app/webroot/pdf
+

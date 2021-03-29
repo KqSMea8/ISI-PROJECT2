@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /wp-content/themes/anew/*.css
+Allow: /wp-content/themes/anew/js/*.js
+Allow: /wp-content/plugins/contact-form-7/includes/css/*.css
+Allow: /wp-content/plugins/contact-form-7/includes/js/*.js
+Allow: /wp-content/plugins/tablepress/js/*.js
+Allow: /wp-content/uploads/*.png
+Allow: /wp-content/uploads/instytucje-pozyczkowe/*.png
+
+User-agent: Slurp
+Disallow: /
+User-agent: Teoma
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /

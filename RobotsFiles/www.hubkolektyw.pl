@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /author/pawel/
+Disallow: /category/aktualnosci/
+Disallow: /galeria/?_gallery=gg-1-1
+Disallow: /galeria/?_gallery=gg-2-7
+Disallow: /galeria/?_gallery=gg-3-10
+Disallow: /galeria/?_gallery=gg-4-13
+Disallow: /galeria/?_gallery=gg-5-16
+Disallow: /galeria/?_gallery=gg-6-19
+Disallow: /galeria/?_gallery=gg-7-22
+Disallow: /galeria/?_gallery=gg-8-27

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /browser/
+Disallow: /medeadm/
+Disallow: /modules/
+Disallow: /new/
+Disallow: /cgi-bin/
+Disallow: /ckeditor/
+Disallow: /UserFiles/
+Disallow: /videos/
+Disallow: /mail/
+Disallow: /img/
+Disallow: /images/
+Disallow: /flowplayer/
+Disallow: /gallery/
+Disallow: /galeria2/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /css/
+Disallow: /FCKeditor/
+Disallow: /forum/
+Disallow: /tiny_mce/
+

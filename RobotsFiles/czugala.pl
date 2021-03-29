@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: admin.php
+Disallow: config
+Disallow: header
+Disallow: footer
+Disallow: pntables
+Disallow: /agro_
+Disallow: /images
+Disallow: /includes
+Disallow: /modules
+Disallow: /pnadodb
+Disallow: /themes
+Disallow: /xantia_
+Disallow: /yappa-ng
+Disallow: /filip
+Disallow: /kuchia
+Disallow: /tmp
+Disallow: /dom_
+Disallow: /pict
+Disallow: /obrusy
+Disallow: /obrusy_oryg
+Disallow: /psycholog
+

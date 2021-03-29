@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /forum/temat/*/cytuj/
+Disallow: /forum/temat/*/odpowiedz/
+Disallow: /profil/*/obserwuj/
+Disallow: przepis/*/dodaj-zdjecia/
+Disallow: /przepisy/dodaj/
+Disallow: /przepis/komentarz/
+
+Sitemap: http://przepisy.net/sitemap/sitemap.xml.gz
+Sitemap: http://przepisy.net/sitemap/sitemap.magazine.xml.gz
+Sitemap: http://przepisy.net/sitemap/sitemap.blogs.xml.gz
+

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /mint/
+Disallow: /labs/
+Disallow: /*/wp-*
+Disallow: /labs/
+Disallow: /muzyczneseo/
+Disallow: /labs/
+Disallow: /muzyka/
+Disallow: /labs/
+Disallow: /stats/
+Disallow: /*/feed/*
+Disallow: /*/*?s=*
+Disallow: /*/*.js$
+Disallow: /*/*.inc$
+Disallow: /transfer/
+Disallow: /*/cgi-bin/*
+Disallow: /*/blackhole/*
+Disallow: /*/trackback/*
+Disallow: /*/xmlrpc.php
+Allow: /*/20*/wp-*
+Allow: /press/feed/$
+Allow: /press/tag/feed/$
+Allow: /*/wp-content/online/*
+Sitemap: http://www.ulares.pl/sitemap_index.xml
+
+User-agent: ia_archiver
+Disallow: /

@@ -1,0 +1,7 @@
+Sitemap: http://magasins.millet.fr/sitemap.xml
+User-agent: *
+Disallow: */print/*
+Disallow: */catalogue/*
+Disallow: *?query=*
+Disallow: *?page=*
+

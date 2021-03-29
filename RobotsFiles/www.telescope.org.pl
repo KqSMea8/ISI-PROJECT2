@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /db/
+Disallow: /lib/
+Disallow: /vendor/
+Disallow: /view/
+Disallow: /tmp/
+Disallow: /temp/
+Sitemap: http://www.telescope.org.pl/sitemap.xml

@@ -1,0 +1,7 @@
+Sitemap: http://dermalift.com.pl/sitemap.xml
+
+User-agent: *
+
+
+
+

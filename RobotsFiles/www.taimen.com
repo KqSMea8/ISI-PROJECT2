@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /products_promotion/
+Disallow: /products_superprice/
+Disallow: /products_last_viewed/
+Disallow: /show_product_desc/
+Disallow: /add_opinion/
+Disallow: /show_opinions/
+Disallow: /flash_player/
+Disallow: /recommend_product/
+Disallow: /products_bestseller/
+Disallow: /products_new/

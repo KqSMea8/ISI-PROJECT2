@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /redakcjawew
+Disallow: /multi
+Disallow: /images
+Disallow: /grafika
+User-agent: MSNBot
+Disallow: /
+User-agent: BSpider
+Disallow: /

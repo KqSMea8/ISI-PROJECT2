@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /menubest.swf
+Disallow: /zamow.php
+Disallow: /en/zamow.php
+Disallow: /en/onas.php
+Disallow: /en/bpodkladki.php
+Disallow: /en/6whatsnew.php
+Disallow: /bzegarki.php
+Disallow: /en/bzestawy.php
+Disallow: /en/jabez.php
+Disallow: /en/bpojemniki.php
+Disallow: /en/bglobusy.php
+Disallow: /skrypt.php
+Disallow: /en/bdokumenty.php
+Disallow: /bglobusy.php
+Disallow: /onas.php
+Disallow: /catalog/Woodessen.pdf
+Disallow: /3tradeshows.php
+Disallow: /4oem.php
+Disallow: /bpodstawki.php
+Disallow: /en/lmento.php
+

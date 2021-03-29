@@ -1,0 +1,42 @@
+User-agent: *
+Disallow:
+
+Disallow: /files/documents/setto_formularz_zamowienia.xls
+Disallow: /files/documents/setto_karta_gwarancyjna.pdf
+Disallow: /files/documents/setto_druk_reklamacyjny.pdf
+Disallow: /files/documents/RODO.pdf
+Disallow: /produkty,victoria-w8,drzwi-jednoskrzydlowe,3,8,16.html
+Disallow: /produkty,victoria-w6,drzwi-jednoskrzydlowe,3,7,15.html
+Disallow: /produkty,victoria,drzwi-jednoskrzydlowe--,3,9,17.html
+Disallow: /produkty,victoria-w8,drzwi-jednoskrzydlowe,3,8,17.html
+Disallow: /instrukcja_setto.pdf
+Disallow: /adresy
+Disallow: /blog/1-glowna
+Disallow: /historia-zamowien
+Disallow: /moje-konto
+Disallow: /logowanie?back=history
+Disallow: /blog/201603
+Disallow: /blog/2014
+Disallow: /blog/201811
+Disallow: /blog/201806
+Disallow: /blog/201508
+Disallow: /blog/2019
+Disallow: /blog/201812
+Disallow: /blog/201412
+Disallow: /blog/201802
+Disallow: /blog/201903
+Disallow: /blog/201810
+Disallow: /blog/2015
+Disallow: /blog/201901
+Disallow: /blog/201803
+Disallow: /blog/201801
+Disallow: /blog/201609
+Disallow: /blog/201808
+Disallow: /blog/201807
+Disallow: /blog/201902
+Disallow: /blog/2016
+Disallow: /blog/2018
+Disallow: /blog/201809
+Disallow: /module/productcomments/default
+Disallow: /logowanie
+

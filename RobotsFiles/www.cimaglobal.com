@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /EPiServer/CMS/
+Disallow: /util/
+Disallow: /Register-for-Business-School
+Disallow: /Register-for-Business-School/*
+Disallow: /en-GB/Register-for-Business-School
+Disallow: /en-GB/Register-for-Business-School/*
+Disallow: Employers/The-value-of-CIMA/Register-now-for-CIMAs-emagazines/The-value-of-CIMA/The-CIMA-difference/*
+Disallow: /en-GB/Employers/The-value-of-CIMA/Register-now-for-CIMAs-emagazines/The-value-of-CIMA/The-CIMA-difference/*
+Disallow: /h-m-m-p/*
+Disallow: /Pages-that-we-will-need-to-bring-back/Old-site-pages1/Old-site-pages/*
+Disallow: /Pages-that-we-will-need-to-bring-back/Old-site-pages1/Old-site-pages*

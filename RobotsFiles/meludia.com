@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin
+Disallow: /wp-login.php
+Disallow: /type/
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /blog/portfolio
+Sitemap: https://www.meludia.com/sitemap_index.xml

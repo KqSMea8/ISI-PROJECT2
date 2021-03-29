@@ -1,0 +1,13 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Atena</title><base href="/"><meta name="title" content="Atena Uslugi Informatyczne i Finansowe SA"><meta name="description" content="Atena - projektuje, wdraza i integruje kompleksowe systemy informatyczne dla biznesu. Specjalizuje sie w produktach dla rynku ubezpieczeniowego."><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" type="image/x-icon" href="favicon.ico"><link href="./assets/loader.css" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><!-- Kod tagu remarketingowego Google --><script type="text/javascript">/* <![CDATA[ */
+var google_conversion_id = 863402312;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="0" width="0" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/863402312/?guid=ON&amp;script=0"/></div></noscript><link href="styles.f4e3bbaf9d483829eabc.bundle.css" rel="stylesheet"/></head><body><app-root><div class="sk-fading-circle"><div class="sk-circle1 sk-circle"></div><div class="sk-circle2 sk-circle"></div><div class="sk-circle3 sk-circle"></div><div class="sk-circle4 sk-circle"></div><div class="sk-circle5 sk-circle"></div><div class="sk-circle6 sk-circle"></div><div class="sk-circle7 sk-circle"></div><div class="sk-circle8 sk-circle"></div><div class="sk-circle9 sk-circle"></div><div class="sk-circle10 sk-circle"></div><div class="sk-circle11 sk-circle"></div><div class="sk-circle12 sk-circle"></div></div></app-root><!-- Google Analytics --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5308039-1', 'auto');
+ga('set', 'allowAdFeatures', false);
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');</script><!-- End Google Analytics --><script type="text/javascript" src="inline.caec092fd1ee22e870ee.bundle.js"></script><script type="text/javascript" src="polyfills.aca1b5e1003d613a85f3.bundle.js"></script><script type="text/javascript" src="vendor.ecb9c5b6283adaa3fcda.bundle.js"></script><script type="text/javascript" src="main.f96dfc3d229bfc470a1f.bundle.js"></script></body></html>

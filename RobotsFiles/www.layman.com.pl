@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_old/
+Disallow: /.cache/
+Disallow: /.engine/
+Disallow: /.libraries/
+Disallow: /.modules/
+Disallow: /.allegro/
+Disallow: /.allegro_new/
+Disallow: /sql/
+Disallow: /stat/

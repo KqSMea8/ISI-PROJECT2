@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow: *.css
+Allow: *.js
+User-Agent: Googlebot
+Allow: .js
+Allow: .css
+Allow: .jpg
+

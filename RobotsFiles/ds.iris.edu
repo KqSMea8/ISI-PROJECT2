@@ -1,0 +1,61 @@
+# Web robot permissions file - please do not delete
+# $Id: robots.txt,v 1.6 2012/05/25 21:47:29 adam Exp $
+# please add items in alphabetical order
+# EPO items are grouped at the end of the list
+
+User-agent: *
+Disallow: /account/
+Disallow: /ANSS/
+Disallow: /BOD/
+Disallow: /bud_stuff/bud/
+Disallow: /bud_stuff/bud_dir/
+Disallow: /calendar/
+Disallow: /cgi-bin/
+Disallow: /chad/
+Disallow: /data/SeismoArchives/
+Disallow: /data_available/
+Disallow: /ds/nodes/dmc/kb/vote/
+Disallow: /DHI/
+Disallow: /files/staff/
+Disallow: /gifs/
+Disallow: /headSlices/
+Disallow: /historical/wwfc/
+Disallow: /HTM/
+Disallow: /images/
+Disallow: /IOU/
+Disallow: /mda/
+Disallow: /media/message_attachments/
+Disallow: /mod_perl/
+Disallow: /perl/
+Disallow: /pbo/
+Disallow: /pub/
+Disallow: /QUACK/
+Disallow: /rick/
+Disallow: /scripts/
+Disallow: /SeismiQuery/bin/
+Disallow: /SeismiQuery/data_avail/
+Disallow: /SeismiQuery/goat/
+Disallow: /servlet/budstat/
+Disallow: /servlet/latency/
+Disallow: /servlet/quackquery/
+Disallow: /Templates/
+Disallow: /tmp/
+Disallow: /TOOLS/
+Disallow: /webdev/
+Disallow: /wilber3/services/
+Disallow: /wilber3/data_request/
+Disallow: /wilber3/find_stations/
+Disallow: /workshops/reimbursement/
+Disallow: /ws/
+Disallow: /amaseis/
+Disallow: /edu/
+Disallow: /eno/
+Disallow: /hq/ssn/events/download/
+Disallow: /__print
+Disallow: *.bak$
+Disallow: *.php$
+Disallow: *.ics$
+Disallow: *.LCK$
+Disallow: *.wsdl$
+Disallow: *.pl$
+

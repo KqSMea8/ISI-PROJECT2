@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /CRM/CIB/Private/
+Disallow: /CRM/SGP/Private/
+Disallow: /CRM/CIB/unauthorized.aspx
+Disallow: /CRM/CIB/send_feedback.aspx
+Disallow: /CRM/contests/SGPCUP/2007/index.aspx
+Disallow: /CRM/unauthorized.aspx
+Disallow: /cz/html/hadanky.htm
+Disallow: /new/index1.asp
+Disallow: /CRM/send_feedback.aspx

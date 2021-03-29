@@ -1,0 +1,5 @@
+Sitemap: https://blog.counter-strike.net/index.php/sitemap.xml
+Sitemap: https://blog.counter-strike.net/index.php/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

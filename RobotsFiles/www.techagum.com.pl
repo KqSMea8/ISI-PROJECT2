@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /app/
+Disallow: /css/
+Disallow: /inc/
+Disallow: /js/
+Disallow: /scr/
+Disallow: /menu/
+Disallow: /mobile/
+Disallow: /pages/
+Disallow: /plugins/
+Disallow: /resources/
+Disallow: /scr/
+Disallow: /slider/
+Disallow: /templates/
+Sitemap: http://kragum.com.pl/sitemap.txt

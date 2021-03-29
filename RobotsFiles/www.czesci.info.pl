@@ -1,0 +1,45 @@
+User-agent: *
+Crawl-delay: 2
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images
+Disallow: /application
+Disallow: /environment
+Disallow: /libraries
+Disallow: /pl/producer
+Disallow: /pl/promotions
+Disallow: /pl/basket
+Disallow: /pl/fav/add
+Disallow: /pl/links
+Disallow: /pl/passremind
+Disallow: /pl/reg
+
+Disallow: /komentarz-
+Disallow: /powiadom_znajomego-
+Disallow: /pl/banner
+Disallow: /pl/p/mail
+Disallow: /pl/login
+Disallow: /panel
+Disallow: /en_US
+Disallow: /pl/new
+Disallow: /pl_PL
+Disallow: /pl/p/mail/recommend
+Disallow: /pl/p/q
+Disallow: /links
+Disallow: *?currency=*
+Disallow: /pl/i/Reklamacje-i-zwroty/14
+Disallow: /pl/i/Gwarancja/12
+Disallow: /pl/i/Czas-realizacji-zamowien/6
+Disallow: /pl/i/Koszty-dostawy/8
+Disallow: /pl/i/Faktury-i-paragony/11
+Disallow: /pl/i/Regulamin/2
+Disallow: /pl/contact
+Disallow: /pl/i/Informacje-o-firmie/16
+Disallow: /pl/i/Serwis/13
+Allow: /
+Disallow: /*/reg
+Disallow: /*/login
+Disallow: /*/basket
+Disallow: /*/searchquery
+

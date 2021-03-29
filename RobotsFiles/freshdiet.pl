@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /favicon
+Disallow: */logo-2/*
+Disallow: */logo-zdrofit/*
+Disallow: */logo-newbody/*
+Disallow: */tabs/*
+Disallow: */head-fd/*
+Disallow: */head-fd2/*
+Disallow: */logo-pure/*
+Disallow: /Team/
+Disallow: */client/*
+Disallow: */smitha-iino/*
+Disallow: */testimonial/*
+Disallow: /?toggletabs_category=tabs
+Disallow: */header-foto-prepare/*
+Disallow: */title-bar-img/*
+Disallow: */freshdiet-na-fb-3/*
+
+Sitemap: http://freshdiet.pl/sitemap.xml.gz

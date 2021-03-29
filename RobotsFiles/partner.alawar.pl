@@ -1,0 +1,1 @@
+Host: partner.alawar.pl

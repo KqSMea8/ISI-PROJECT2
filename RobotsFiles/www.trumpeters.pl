@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /cache/
+Disallow: /download/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /styles/
+Disallow: /common.php
+Disallow: /config.php
+Disallow: /memberlist.php
+Disallow: /posting.php
+Disallow: /search.php
+Disallow: /ucp.php
+Disallow: /viewonline.php

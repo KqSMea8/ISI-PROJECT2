@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /*.php*
+Disallow: /cart*
+Disallow: /checkout*
+Disallow: /member*
+Disallow: /payment*
+Disallow: /tracking*
+Disallow: /affiliate/
+Disallow: /terms-conditions.html
+Disallow: /search/
+Disallow: /*/search/
+Disallow: /ar/
+Sitemap: https://www.rcmoment.com/sitemap.xml

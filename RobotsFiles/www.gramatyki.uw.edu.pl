@@ -1,0 +1,4 @@
+# Welcome!
+User-agent: *
+Disallow:
+

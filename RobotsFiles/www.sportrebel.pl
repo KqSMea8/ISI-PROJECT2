@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /koszyk
+Disallow: /basket
+Disallow: /zamowienie*
+Disallow: /order*
+Disallow: /kontakt/formularz
+Disallow: /contact/form
+Disallow: /profil*
+Disallow: /profile*
+Disallow: /szukaj*
+Disallow: /search*
+Allow: /

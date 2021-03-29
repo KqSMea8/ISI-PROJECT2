@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /user/
+Disallow: /css/
+Disallow: /js/
+Disallow: /rss
+Disallow: /images/
+Disallow: /view/
+Disallow: /ad/
+Disallow: /adview/
+Disallow: /wused-cars
+Disallow: /wojeta-auta
+Disallow: /wbrugt-bil
+Disallow: /wgebrauchtwagen
+Disallow: /w%CE%BC%CE%B5%CF%84%CE%B1%CF%87%CE%B5%CE%B9%CF%81%CE%B9%CF%83%CE%BC%CE%AD%CE%BD%CE%B1-%CE%B1%CF%85%CF%84%CE%BF%CE%BA%CE%AF%CE%BD%CE%B7%CF%84%CE%B1
+Disallow: /w%CE%BC%CE%B5%CF%84%CE%B1%CF%87%CE%B5%CE%B9%CF%81%CE%B9%CF%83%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B1%CF%85%CF%84%CE%BF%CE%BA%CE%B9%CE%BD%CE%B7%CF%84%CE%B1
+Disallow: /wautos
+Disallow: /wcoches
+Disallow: /woccasion
+Disallow: /whasznaltauto
+Disallow: /wmobil-bekas
+Disallow: /wauto-usate
+Disallow: /w%E4%B8%AD%E5%8F%A4%E8%BB%8A
+Disallow: /w%EC%9E%90%EB%8F%99%EC%B0%A8
+Disallow: /wtweedehands
+Disallow: /wbrukt-bil
+Disallow: /wsamochody
+Disallow: /wcarros
+Disallow: /wauto
+Disallow: /w%D0%B0%D0%B2%D1%82%D0%BE
+Disallow: /wojazdene-auta
+Disallow: /wbegagnade-bilar
+Disallow: /w%E0%B8%A3%E0%B8%96
+Disallow: /wikinciel-araba
+Disallow: /wmua-ban-xe-oto
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+

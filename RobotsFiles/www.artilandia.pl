@@ -1,0 +1,1 @@
+Sklep nieczynny. Przepraszamy!

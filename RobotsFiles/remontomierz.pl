@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /admin/*
+Disallow: /project/*
+Disallow: /projekt/*
+Disallow: /planer/kosztorys/*
+Disallow: /zmien-haslo
+Disallow: /info/*
+Disallow: /rejestracja
+Disallow: /logowanie
+Disallow: /wylogowanie
+Disallow: /przywracanie-hasla
+Disallow: /zmien-haslo
+Disallow: /wyslij-link-aktywacyjny
+Disallow: /set_new_password
+Disallow: /set_new_password
+Disallow: /verify_email
+Disallow: /verification_failed
+Disallow: /verify
+Disallow: /signin_fb
+

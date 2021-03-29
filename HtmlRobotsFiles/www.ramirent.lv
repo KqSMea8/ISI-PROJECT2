@@ -1,0 +1,519 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<base href="https://www.ramirent.lv/"></base>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="stylesheet" type="text/css" media="screen" href="bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="style/ramirent_country.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="style/jquery.bxslider.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="style/bebas_neuebold.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="style/print.css" media="print" />
+</head>
+<body>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-56164494-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+<script type="text/javascript">
+var contentlocale = 'lv_LV';
+var contentlang = '';
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+
+!function(f,b,e,v,n,t,s)
+{
+if(f.fbq)return;n=f.fbq=function()
+{
+n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)
+};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)
+}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '287027608567509');
+
+fbq('track', 'PageView');
+
+</script>
+<noscript>
+<img height="1" width="1" src="https://www.facebook.com/tr?id=287027608567509&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<div class="mobile-nav-overlay"></div>
+<div class="wrapper">
+<div id="cookies-alert" class="bottom">
+<div class="row">
+<div class="col-md-12">
+<div class="col-md-10">
+<p>Si vietne izmanto sikfailus, lai uzlabotu apmekletaju pieredzi un izsekotu vietnu apmeklejumus.  <a href="privacy">Vairak informacijas</a></p>
+</div>
+<div class="col-md-2">
+<button class="accept btn btn-default">Es piekritu</button>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid no-padding">
+<header id="header" class="site-header padding">
+<!-- Top bar -->
+<div class="row top-bar">
+<div class="col-xs-3 pull-right text-right no-padding">
+<div class="searchbox">
+<form action="/meklesana" method="post">
+<input type="text" id="inputSearch" placeholder="Meklesana" name="query" value="" />
+<input class="submit" type="submit" value="" />
+</form>
+</div>
+</div>
+<div class="col-xs-2 pull-right text-center no-padding">
+<div id="top-cart">
+<a href="/grozs">
+Grozs ir tukss
+</a>
+</div>
+</div>
+<div class="col-xs-3 pull-right text-center no-padding">
+<div id="langbar">
+<ul>
+<li><a href="/majas"><small>Latviesu</small></a></li>
+<li><a href="/glavnaja"><small>Russkii</small></a></li>
+<li><a href="/home"><small>English</small></a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-xs-4 pull-right text-right">
+<a class="choose-link" href="#" onclick="showCountryList('countrypopup');return false;">
+Izvelieties valsti
+<img class="choose" src="images/base/light-blue-bg-arrow.png">
+</a>
+<div id="countrypopup" style="display:none">
+<div class="close">
+<a href="#" onclick="showCountryList('countrypopup');return false;">x</a>
+</div>
+<ul>
+<li style="background: transparent url(images/lang/global.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.com">Ramirent PLC</a></li>
+<li style="background: transparent url(images/lang/ee_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.ee">Igaunija</a></li>
+<li style="background: transparent url(images/lang/lv_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.lv">Latvija</a></li>
+<li style="background: transparent url(images/lang/lt_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.lt">Lietuva</a></li>
+<li style="background: transparent url(images/lang/fi_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.fi">Somija</a></li>
+<li style="background: transparent url(images/lang/se_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.se">Zviedrija</a></li>
+<li style="background: transparent url(images/lang/no_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.no">Norvegija</a></li>
+<li style="background: transparent url(images/lang/pl_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.pl">Polija</a></li>
+<li style="background: transparent url(images/lang/cz_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.cz">Cehijas</a></li>
+<li style="background: transparent url(images/lang/sk_s.gif) no-repeat 0px 4px;"><a href="http://www.ramirent.sk">Slovakija</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Logo & Navigation -->
+<div class="row logo-navigation-bar">
+<div class="col-xs-9 col-sm-3 no-padding">
+<div class="row">
+<div class="col-xs-3 col-sm-2 language-nav">
+<a class="language-nav-toggle langauge-nav-icon" id="language-nav-mobile" href="#"></a>
+<img class="triangle-left" src="images/base/triangle_white.png" alt="">
+</div>
+<div class="col-xs-9 col-sm-10 col-md-12 logo no-padding text-center">
+<a href="/majas">
+<img src="images/base/ramirent-logo.png" alt="Ramirent">
+</a>
+</div>
+</div>
+</div>
+<div class="col-xs-3 col-sm-9 main-navigation no-padding">
+<nav>
+<div class="navbar navbar-default">
+
+<a id="toggle-main-menu-mobile" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"></a>
+<a id="mobile-cart" class="" href="/grozs"></a>
+<img class="triangle-right" src="images/base/triangle_white.png" alt="">
+<div id="navbar" class="navbar-collapse collapse no-transition">
+<ul class="nav navbar-nav">
+<li>
+<a href="/par_mums">Par mums</a>
+</li>
+<li>
+<a href="/produkti">Produkti</a>
+</li>
+<li>
+<a href="/nomas_katalogs">Nomas risinajumi</a>
+</li>
+<li>
+<a href="/galerija">Galerija</a>
+</li>
+<li>
+<a href="/nomas_punkti">Nomas punkti</a>
+</li>
+<li>
+<a href="/kontakti">Kontakti</a>
+</li>
+<li class="visible-xs"><a href="/jaunumi">link_news</a></li>
+</ul>
+<div class="mobile-nav-search">
+<div class="searchbox">
+<form action="/meklesana" method="post">
+<input type="text" id="inputSearch" placeholder="Meklesana" name="query" value="" />
+<input class="submit" type="submit" value="" />
+</form>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+
+<!-- Country Navigation -->
+<div id="country-navigation" class="country-navigation">
+<div class="country-navigation-header">
+<img src="images/base/more-than-machines.png" alt="More Than Machines" title="More Than Machines">
+</div>
+<div class="country-navigation-body">
+<ul class="vertical-list">
+<li style="background: transparent url(images/lang/global.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.com">Ramirent PLC</a></li>
+<li style="background: transparent url(images/lang/ee_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.ee">Igaunija</a></li>
+<li style="background: transparent url(images/lang/lv_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.lv">Latvija</a></li>
+<li style="background: transparent url(images/lang/lt_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.lt">Lietuva</a></li>
+<li style="background: transparent url(images/lang/fi_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.fi">Somija</a></li>
+<li style="background: transparent url(images/lang/se_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.se">Zviedrija</a></li>
+<li style="background: transparent url(images/lang/no_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.no">Norvegija</a></li>
+<li style="background: transparent url(images/lang/pl_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.pl">Polija</a></li>
+<li style="background: transparent url(images/lang/cz_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.cz">Cehijas</a></li>
+<li style="background: transparent url(images/lang/sk_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.sk">Slovakija</a></li>
+</ul>
+</div>
+</div>
+</header>
+</div>
+<div id="body-part" class="container-fluid">
+<div class="row hidden-xs">
+<!-- Main image slider -->
+<div class="col-md-8">
+<ul id="slider">
+<li style="background-image: url('https://www.ramirent.lv/content/banner/front_big/00/46/4644.jpg');">
+<a href="http://darbadrosiba.ramirent.lv/" target="_blank" >
+<div class="slide-content">
+<h2>Padarisim darba vidi drosaku</h2>
+<p>Apskatities ka pielietot darba dro&scaron;ibas metodes</p>
+</div>
+</a>
+</li>
+<li style="background-image: url('https://www.ramirent.lv/content/banner/front_big/00/46/4663.jpg');">
+<a href="http://ramirent-ts.lv/" target="_blank" >
+<div class="slide-content">
+<h2>Pagaidu telpu risinajumi</h2>
+<p>Iepazisties ar musu jaunajiem pagaidu telpu risinajumiem</p>
+</div>
+</a>
+</li>
+<li style="background-image: url('https://www.ramirent.lv/content/banner/front_big/00/75/7536.jpg');">
+<a href="http://www.ramirent.lv/par_mums/rami_risku_nodrosinajums">
+<div class="slide-content">
+<h2>UZZINAT VAIRAK</h2>
+<p>No 2017.gada 1.decembra iznomajot tehniku PRIVATPERSONAM tiek pievienots RamiRisk pakalpojums</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<!-- News -->
+<div class="col-md-4 news-list">
+<h3>Jaunumi</h3>
+<ul class="vertical-list">
+<li>
+<div class="row">
+<div class="col-sm-3 col-md-4 date">23.04.2019</div>
+<div class="col-sm-9 col-md-8">
+<a href="/jaunumi/darba-laiks-maija-792">Darba laiks maija!</a>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<div class="col-sm-3 col-md-4 date">11.04.2019</div>
+<div class="col-sm-9 col-md-8">
+<a href="/jaunumi/darba-laiks-lieldienas-786">DARBA LAIKS LIELDIENAS!</a>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<div class="col-sm-3 col-md-4 date">26.03.2019</div>
+<div class="col-sm-9 col-md-8">
+<a href="/jaunumi/pievienojies-ramirent-komandai-jelgava-782">Pievienojies RAMIRENT komandai JELGAVA!</a>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<div class="col-sm-3 col-md-4 date">05.03.2019</div>
+<div class="col-sm-9 col-md-8">
+<a href="/jaunumi/aicinam-darba-nomas-punkta-vaditaju-781">Aicinam darba NOMAS PUNKTA VADITAJU!</a>
+</div>
+</div>
+</li>
+</ul>
+<br>
+<a class="archive" href="/jaunumi">Jaunumu arhivs >></a>
+</div>
+</div>
+<div class="row main-content">
+<div class="col-xs-12 col-sm-8">
+<div id="tabs">
+<ul class="desktop-tabs">
+<li>
+<a href="/produkti">Produkti</a>
+</li>
+<li><a href="/nomas_punkti_mb" >Kontakti</a></li>
+<li><a href="/atsauces_link" >Atsauces</a></li>
+<li><a href="/produktu_katalogs"  target="_blank">Produktu katalogs</a></li>
+<li><a href="/pagaidu_telpu_risinajumi" >Pagaidu telpu risinajumi</a></li>
+</ul>
+<div id="accordion">
+<h3><a href="/produkti">Produkti</a></h3>
+<div class="tab-content" id="tabs-1">
+<div class="container-fluid inner-content">
+<div class="row">
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/buvniecibas-instrumenti-12">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/37/3792.png" alt="Buvniecibas instrumenti">
+</div>
+<h4>Buvniecibas instrumenti</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/darza-tehnika-21">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/47/4779.png" alt="Darza tehnika">
+</div>
+<h4>Darza tehnika</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/elektroiekartas-17">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/37/3793.png" alt="Elektroiekartas">
+</div>
+<h4>Elektroiekartas</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/kompresori-23">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/47/4766.png" alt="Kompresori">
+</div>
+<h4>Kompresori</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/ekskavatori-un-iekraveji-11">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/37/3791.png" alt="Ekskavatori un iekraveji">
+</div>
+<h4>Ekskavatori un iekraveji</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/blietesanas-tehnika-un-veltni-22">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/77/7721.png" alt="Blietesanas tehnika un veltni">
+</div>
+<h4>Blietesanas tehnika un veltni</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/pacelaji-14">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/37/3796.png" alt="Pacelaji">
+</div>
+<h4>Pacelaji</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/moduli-15">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/47/4723.png" alt="Moduli">
+</div>
+<h4>Moduli</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/sastatnes-un-aluminija-torni-13">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/37/3795.png" alt="Sastatnes un aluminija torni">
+</div>
+<h4>Sastatnes un aluminija torni</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/veidni-un-drosiba-20">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/47/4778.png" alt="Veidni un drosiba">
+</div>
+<h4>Veidni un drosiba</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/transportesanas-darbariki-24">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/47/4786.png" alt="Transportesanas darbariki">
+</div>
+<h4>Transportesanas darbariki</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/silditaji-16">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/00/77/7720.png" alt="Silditaji">
+</div>
+<h4>Silditaji</h4>
+</a>
+</div>
+<div class="single col-xs-12 col-md-4 no-padding">
+<a href="/produkti/buvgruzu-novadcaurules-25">
+<div class="image">
+<img src="https://www.ramirent.lv/content/productcategory/base/01/03/10321.jpg" alt="Buvgruzu novadcaurules">
+</div>
+<h4>Buvgruzu novadcaurules</h4>
+</a>
+</div>
+</div>
+</div>
+</div>
+<h3><a href="/nomas_punkti_mb">Kontakti</a></h3>                 <h3><a href="/atsauces_link">Atsauces</a></h3>                 <h3><a href="/produktu_katalogs" target="_blank">Produktu katalogs</a></h3>                 <h3><a href="/pagaidu_telpu_risinajumi">Pagaidu telpu risinajumi</a></h3>              </div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 color-banners">
+<a class="banner-button darkblue" href="https://www.ramirent.lv/go.php?id=129" >KA IZNOMAT?</a>
+<a class="banner-button lightblue" href="https://www.ramirent.lv/go.php?id=130" >CENAS</a>
+<a class="banner-button yellow" href="https://www.ramirent.lv/go.php?id=143" >INSTRUKCIJAS</a>
+<a class="banner-button green" href="https://www.ramirent.lv/go.php?id=152" target="_blank">Drosaks buvlaukums</a>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer">
+<div class="wrapper">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-2 no-padding">
+
+<!-- Country Navigation -->
+<div id="country-navigation" class="country-navigation">
+<div class="country-navigation-header">
+<a class="language-nav-toggle" id="language-nav-mobile" href="#" style="float:right;">
+<img src="images/base/close.png" alt="">
+</a>
+<img src="images/base/more-than-machines.png" alt="More Than Machines" title="More Than Machines">
+</div>
+<div class="country-navigation-body">
+<ul class="vertical-list">
+<li style="background: transparent url(images/lang/global.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.com">Ramirent PLC</a></li>
+<li style="background: transparent url(images/lang/ee_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.ee">Igaunija</a></li>
+<li style="background: transparent url(images/lang/lv_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.lv">Latvija</a></li>
+<li style="background: transparent url(images/lang/lt_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.lt">Lietuva</a></li>
+<li style="background: transparent url(images/lang/fi_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.fi">Somija</a></li>
+<li style="background: transparent url(images/lang/se_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.se">Zviedrija</a></li>
+<li style="background: transparent url(images/lang/no_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.no">Norvegija</a></li>
+<li style="background: transparent url(images/lang/pl_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.pl">Polija</a></li>
+<li style="background: transparent url(images/lang/cz_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.cz">Cehijas</a></li>
+<li style="background: transparent url(images/lang/sk_s.gif) no-repeat  0% 50%;"><a href="http://www.ramirent.sk">Slovakija</a></li>
+</ul>
+</div>
+</div>
+<div class="padding">
+<a class="language-nav-toggle" id="language-nav-mobile" href="#" style="float:right;">
+<img src="images/base/icon_language_menu.png" alt="">
+</a>
+<img src="images/base/more-than-machines.png" alt="More Than Machines" title="More Than Machines">
+</div>
+</div>
+<div class="col-sm-3">
+<p class="larger">
+<b>Kontakti</b>
+<br> Piedrujas iela 15
+<br> Riga LV-1073
+<br> .
+<br> <a href="mailto:.">.</a>
+</p>
+</div>
+<div class="col-sm-3 desktop-language-select">
+<p>
+<strong>Nomas punkti</strong>
+<br>
+<select class="dealer-select">
+<option value="">Izvelieties nomas punktu</option>
+<option value="/nomas_punkti/piedrujas_de21">Piedrujas</option>
+<option value="/nomas_punkti/skanstes_de37">Skanstes</option>
+<option value="/nomas_punkti/mukusalas_de53">Mukusalas</option>
+<option value="/nomas_punkti/tukums_de38">Tukums</option>
+<option value="/nomas_punkti/sigulda_de36">Sigulda</option>
+<option value="/nomas_punkti/gulbene_de55">Gulbene</option>
+<option value="/nomas_punkti/jelgava_de16">Jelgava</option>
+<option value="/nomas_punkti/valmiera_de39">Valmiera</option>
+<option value="/nomas_punkti/jekabpils_de15">Jekabpils</option>
+<option value="/nomas_punkti/saldus_de54">Saldus</option>
+<option value="/nomas_punkti/kuldiga_de17">Kuldiga</option>
+<option value="/nomas_punkti/rezekne_de23">Rezekne</option>
+<option value="/nomas_punkti/daugavpils_de13">Daugavpils</option>
+<option value="/nomas_punkti/ventspils_de40">Ventspils</option>
+<option value="/nomas_punkti/liepaja_de18">Liepaja</option>
+</select>
+</p>
+</div>
+<div class="col-sm-4 copyright">
+<ul class="horisontal-list clearfix">
+<li><a href="/lapas_karte">Lapas karte</a></li>
+<li><a href="/dokumenti">Dokumenti</a></li>
+<li><a href="/vietnes_noteikumi">Vietnes noteikumi</a></li>
+<li><a href="/privacy">Privatuma politika</a></li>
+</ul>
+<div class="some-links">
+<a href="https://www.ramirent.lv/go.php?id=63" ><img src="https://www.ramirent.lv/content/banner/icon/00/05/590.png" alt="" /></a>                                                                        </div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="scripts/external/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/external/jquery.bxslider.js"></script>
+<script type="text/javascript" src="scripts/default.view.js"></script>
+<script type="text/javascript" src="scripts/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="scripts/external/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="scripts/c_funkt.js"></script>
+<script type="text/javascript" src="scripts/functions/general.js"></script>
+<script type="text/javascript" src="scripts/main.js"></script>
+<script type="text/javascript" src="scripts/locale/lv_LV.js"></script>
+<!--[if lt IE 9]><script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]--></body>
+</html>

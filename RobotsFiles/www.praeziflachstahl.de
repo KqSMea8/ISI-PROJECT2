@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /typo3
+Disallow: /typo3_src-6.2.14
+Disallow: /navigations-boxen.html
+Disallow: /fehlerseite-404.html
+Disallow: /footer-social-media-icons.html
+
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=1
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=2
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=3
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=4
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=5
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=6
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=7
+Sitemap:  http://www.praeziflachstahl.de/?eID=dd_googlesitemap&L=8
+

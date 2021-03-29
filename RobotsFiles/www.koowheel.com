@@ -1,0 +1,10 @@
+User-agent: MJ12bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Applebot
+Disallow: /
+User-agent: SeznamBot
+Disallow: /
+User-agent: DotBot
+Disallow: /

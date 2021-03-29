@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~posterboard/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~agenda/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~oneday/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~month/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~week/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~stream/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~undefined/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~http:/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~default/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~poster/
+Disallow: /spotkania-autorskie-w-rudzie-slaskiej/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

@@ -1,0 +1,6 @@
+Sitemap: https://www.owakacje.pl/sitemap.xml
+
+User-agent: MJ12bot
+Disallow: /
+
+

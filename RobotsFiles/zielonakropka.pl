@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Allow:  /plugins/system/imageeffectck/assets/imageeffectck.css
+Allow: /plugins/system/jqueryeasy/jquerynoconflict.js
+Allow: /plugins/content/plg_yasig/plg_yasig/slimbox2.css
+Allow: /plugins/content/plg_yasig/plg_yasig/slimbox2.js
+Allow:  /plugins/system/edsanimate/assets/edsanimate.js
+Allow: /plugins/system/edsanimate/assets/jquery.ba-throttle-debounce.min.js
+Allow:  /plugins/editors-xtd/edsanimate/assets/animo.min.js
+Allow: /plugins/editors-xtd/edsanimate/assets/animate-animo.css
+Allow:  /plugins/system/edsanimate/assets/edsanimate.site.js
+Allow: /plugins/system/edsanimate/assets/viewportchecker.js
+Disallow: /tmp/
+Disallow: /images/client/
+

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://www.kuwi.europa-uni.de/sitemap.xml
+Disallow: /resources/
+

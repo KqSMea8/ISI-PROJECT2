@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /kodyrabatowe/przejdz-do-kuponow/*
+Disallow: /out/*
+Disallow: /OUT/*
+Disallow: /Out/*
+Disallow: /kodyrabatowe/search?*
+Disallow: /*?*theme*
+Disallow: /*?*Theme*
+Disallow: /*?*PageSpeed*
+Disallow: /*?*Pagespeed*
+Disallow: /*?*pagespeed*
+Disallow: /*?*Custom*
+Disallow: /*?*custom*
+Disallow: /*?*ModPagespeed*
+Disallow: /*?*modpagespeed*
+Disallow: /*?*Modpagespeed*
+Disallow: /*?*modPagespeed*
+Disallow: /*?*replytocom*
+Disallow: /*?*shop_slug*
+Disallow: /*?*parent_slug*
+Disallow: /*?*slug*
+Disallow: /ajaxs/*
+Disallow: /deals/*
+Sitemap: https://www.fakt.pl/kodyrabatowe/sitemap.xml
+

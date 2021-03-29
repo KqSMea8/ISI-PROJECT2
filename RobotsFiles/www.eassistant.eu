@@ -1,0 +1,8 @@
+User-agent: *
+#Sitemap: http://www.eassistant.eu/index.php?id=34
+#Sitemap: http://www.tbksoft.com/index.php?id=201
+#Sitemap: http://www.gwj.de/index.php?id=217
+# Disallow: /uploads/
+# Disallow: /fileadmin/
+# Disallow: /typo3*/
+

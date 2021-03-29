@@ -1,0 +1,9 @@
+# Robots.txt
+User-agent: *
+Disallow: /assets/
+Disallow: /connectors/
+Disallow: /core/
+Disallow: /manager/
+Disallow: /setup/
+
+

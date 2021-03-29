@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /mxp_theme/
+Disallow: /wp-content/themes/mxp_base_theme/mxp_theme/
+Disallow: /mxp_box/
+

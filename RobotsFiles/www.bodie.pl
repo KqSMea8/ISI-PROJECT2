@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ckeditor/
+Disallow: /system/
+Disallow: /newsletter
+Disallow: /polityka-prywatnosci
+Disallow: /*ord=*
+Disallow: /*szukaj?*
+Disallow: /*?ty=*
+Disallow: /*?pl=*

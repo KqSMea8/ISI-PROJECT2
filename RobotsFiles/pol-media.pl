@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /tworzeniestron/
+Disallow: /architekci/
+Disallow: /images/
+Disallow: /inc/
+Disallow: /jsp/
+Disallow: /nowe/
+Disallow: /ogrodzenia/
+Disallow: /phamera/
+Disallow: /phamera.pl/
+Disallow: /procek/
+Disallow: /pvcu/
+Disallow: /rogowkaeu/
+Disallow: /rogowkieu/
+Disallow: /rydultowycompl/
+Disallow: /szkodygornicze/
+Disallow: /xx/
+Disallow: /cgi-bin/
+

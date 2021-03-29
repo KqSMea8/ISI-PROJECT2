@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /thankyou.html
+Disallow: /pl/dziekujemy.html
+Disallow: /pl/newsy/list2.html
+Disallow: /pl/newsy/list3.html
+Disallow: /news/list2.html
+Disallow: /news/list3.html
+Disallow: /articles/list2.html
+Disallow: /nsl
+Disallow: /suppforeng.swf
+Disallow: /suppforpl.swf
+Disallow: /xspf_player?playlist_url=/pl5.xspf

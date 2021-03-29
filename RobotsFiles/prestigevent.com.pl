@@ -1,0 +1,44 @@
+User-agent: *
+Allow: /
+
+Disallow: /*en/realizacje_*
+Disallow: /*es/realizacje_*
+
+
+Disallow: /en/realizacje_obrobki-blacharskie_52.html
+Disallow: /en/realizacje_abakus-krakow_14.html
+Disallow: /en/realizacje_tkmaxx-gdansk_15.html
+Disallow: /de/realizacje_agawa-debno_34.html
+Disallow: /en/realizacje_lidl-leczna_35.html
+Disallow: /de/realizacje_krakmed-krakow_16.html
+Disallow: /de/realizacje_lidl-leczna_35.html
+Disallow: /de/realizacje_obrobki-blacharskie_52.html
+Disallow: /de/realizacje_lidl-starachowice_36.html
+Disallow: /en/realizacje_lidl-starachowice_36.html
+Disallow: /de/realizacje_domek-jednorodzinny-brzesko_7.html
+Disallow: /en/realizacje_domek-jednorodzinny-brzesko_7.html
+Disallow: /de/realizacje_mieszkanie-prywatne-tarnow_32.html
+Disallow: /en/realizacje_dworek-prywatna-inwestycja_28.html
+Disallow: /de/realizacje_robotics-inventions-gromnik_9.html
+Disallow: /de/realizacje_hotel-kazimierski-janowiec_11.html
+Disallow: /de/realizacje_ericpol-buma-krakow_8.html
+Disallow: /de/realizacje_perfectgym-fitness-krakow_12.html
+Disallow: /en/realizacje_grupa-azoty-tarnow_10.html
+Disallow: /en/realizacje_szpital-rydygiera-krakow_29.html
+Disallow: /de/realizacje_dom-jednorodzinny-krakow_24.html
+Disallow: /en/realizacje_mieszkanie-prywatne-tarnow_32.html
+Disallow: /en/realizacje_dom-jednorodzinny-krakow_24.html
+Disallow: /de/realizacje_szpital-w-nowej-debie_2.html
+Disallow: /en/realizacje_hotel-hilton-spa-krynica_17.html
+Disallow: /en/realizacje_inkubator-przedsiebiorczosci-strzelce-opolskie_19.html
+Disallow: /de/realizacje_domek-jednorodzinny-wegrzce-wielkie_18.html
+Disallow: /de/realizacje_okregowa-izba-radcow-prawnych-krakow_25.html
+Disallow: /en/realizacje_budynek-wielorodzinny-ul-stanczyka-krakow_13.html
+Disallow: /de/realizacje_b4b-copmlex-office-bonarka-krakow_20.html
+Disallow: /en/realizacje_can-pack-s-a-brzesko_23.html
+Disallow: /en/realizacje_okregowa-izba-radcow-prawnych-krakow_25.html
+Disallow: /en/realizacje_zaklad-ubezpieczen-spolecznych-strzelce-opolskie_33.html
+Disallow: /de/realizacje_zaklad-ubezpieczen-spolecznych-strzelce-opolskie_33.html
+Disallow: /en/realizacje_c-h-3-stawy-w-katowicach_21.html
+Disallow: /de/realizacje_budynek-wielorodzinny-ul-stanczyka-w-krakowie_31.html
+Disallow: /en/realizacje_budynek-wielorodzinny-ul-stanczyka-w-krakowie_31.html

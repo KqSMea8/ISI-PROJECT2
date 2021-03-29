@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Sitemap: https://www.hotel-sonnblick.at/sitemap.xml
+Sitemap: https://www.hotel-sonnblick.at/rooms.xml
+Sitemap: https://www.hotel-sonnblick.at/packages.xml

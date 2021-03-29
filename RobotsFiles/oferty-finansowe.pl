@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /l/
+Disallow: /about-us-1
+Disallow: /about-us-2
+Disallow: /coming-soon
+Disallow: /contact-us-option-1
+Disallow: /contact-us
+Disallow: /faqs
+Disallow: /galleries
+Disallow: /grid
+Disallow: /pricing-boxes
+Disallow: /shortcode-button
+Disallow: /user
+Disallow: /services
+Disallow: /shortcode-get-html
+Disallow: /user/
+Disallow: /kredyty_dla_firm.php
+Disallow: /wybor_rachunku_maklerskiego.php
+Disallow: /porownaj_konta.php
+Disallow: /banki.php
+Disallow: /konsolidacyjne.php
+

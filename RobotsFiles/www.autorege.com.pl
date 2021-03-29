@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /witaj-swiecie/
+Disallow: /feed/
+Disallow: /oferta/naprawa-silnikow/$
+Disallow: /category/*
+Disallow: /author/*
+Disallow: /o-firmie/
+Disallow: /comments/
+Disallow: /?p=

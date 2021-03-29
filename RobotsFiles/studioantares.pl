@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /js/*
+Disallow: /css/
+Disallow: /oferta-2.php
+Disallow: /oferta-handlowe.php
+Disallow: /oferta-gastronomiczne.php
+Disallow: /oferta-namioty.php
+Disallow: /oferta-promocyjne.php
+Disallow: /oferta-reklamowe.php
+Disallow: /meble-wystawiennicze.php

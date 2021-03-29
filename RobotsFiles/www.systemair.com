@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /*/client/*
+Disallow: /*/Client/*
+Disallow: /cart/*
+Disallow: /Cart/*
+Disallow: /*/cart/*
+Disallow: /*/Cart/*
+Disallow: /*/esales/prices$
+Disallow: /*/Esales/prices$
+Disallow: /*/Esales/Prices$
+Disallow: /*/esales/Prices$
+Disallow: /*/find/*
+Disallow: /*/Find/*
+Disallow: /*/logout$
+Disallow: /*/Logout$
+Disallow: /*/login$
+Disallow: /*/Login$

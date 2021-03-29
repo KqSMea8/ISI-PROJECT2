@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.paragon-software.com/xmlsitemap.xml
+
+Allow: /rsssitemap.xml
+Allow: /htmlsitemap.htm
+
+

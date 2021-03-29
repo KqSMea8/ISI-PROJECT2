@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /administrator/
+Disallow: /images/
+Disallow: /media/
+Disallow: /pub/
+Disallow: /strona/
+Disallow: /templates/
+Disallow: /tomek/
+Sitemap: https://www.for-bi.pl/sitemap_index.xml

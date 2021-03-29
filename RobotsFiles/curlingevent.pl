@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /add
+Disallow: /api
+Disallow: /config
+Disallow: /css
+Disallow: /edit
+Disallow: /js
+Disallow: /organizer
+Disallow: /templates
+Disallow: /upload
+
+Disallow: /img/gallery
+Disallow: /img/icons
+Disallow: /img/media
+Disallow: /img/og
+Disallow: /img/organizer
+Disallow: /img/partner
+Disallow: /img/themes
+Disallow: /img/poster/min

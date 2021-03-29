@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /error-404/
+Disallow: /pl/error-404/
+Disallow: /error-404/
+Disallow: /en/error-404/
+Disallow: /nie_znaleziono_strony/
+Disallow: /bg/nie_znaleziono_strony/
+Sitemap: http://www.vitroflora.pl/sitemap.xml

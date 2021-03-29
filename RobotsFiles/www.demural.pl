@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /koszyk
+Disallow: /logowanie
+Disallow: /resetowanie-hasla
+Disallow: /szukaj/
+Disallow: /zdjecie/
+Disallow: /ulubione
+Disallow: /reload
+Disallow: /mirror
+Disallow: /add_to_favorite/
+Sitemap: https://demural.pl/site_map.xml

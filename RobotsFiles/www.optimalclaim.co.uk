@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /lt
+Allow: /en
+Allow: /pl
+Allow: /hu
+Allow: /
+
+

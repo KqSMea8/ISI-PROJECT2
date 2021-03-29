@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /sitecore/
+Disallow: /tradelink/
+Sitemap: http://www.aem.dinex.dk/sitemap?sc_device=feed
+

@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: # empty Disallow instruction SHOULD be there
+Host: shop.powerz.co
+Sitemap: http://shop.powerz.co/it/sitemap.xml
+Sitemap: http://shop.powerz.co/sitemap.xml
+Sitemap: http://shop.powerz.co/en/sitemap.xml
+Sitemap: http://shop.powerz.co/fr/sitemap.xml
+Sitemap: http://shop.powerz.co/pl/sitemap.xml
+Sitemap: http://shop.powerz.co/cz/sitemap.xml
+Sitemap: http://rubberexpansionjoints.eu/it/sitemap.xml
+

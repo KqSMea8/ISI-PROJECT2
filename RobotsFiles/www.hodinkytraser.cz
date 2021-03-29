@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-Agent: MJ12bot
+Disallow:
+
+Sitemap: http://www.hodinkytraser.cz/sitemap.xml.gz
+
+

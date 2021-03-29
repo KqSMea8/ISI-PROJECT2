@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /muzyka/
+Disallow: /inne/
+Disallow: /grafika/
+Disallow: /test/
+Disallow: /video/
+Disallow: /nowa/
+Disallow: /prezentacja/
+Disallow: /pogrzeby/

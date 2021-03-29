@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_new/
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /clients/
+Disallow: /css/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /tmp/
+Disallow: /video/

@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /calendar.php
+Disallow: /editpost.php
+Disallow: /members/list/
+Disallow: /misc.php
+Disallow: /newreply.php
+Disallow: /newthread.php
+Disallow: /printthread.php
+Disallow: /private.php
+Disallow: /register.php
+Disallow: /report.php
+Disallow: /search.php
+Disallow: /showgroups.php
+Disallow: /admin/
+Disallow: /mod/
+Disallow: /online.php
+Disallow: /subscription.php
+Disallow: /threadrate.php
+Disallow: /poll.php
+Disallow: /attachment.php
+Disallow: /avatar.php
+Disallow: /faq.php
+Disallow: /usercp.php
+Disallow: /profile.php
+Sitemap: http://forum.mjakmama24.pl/sitemap_index.xml.gz
+

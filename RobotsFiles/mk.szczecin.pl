@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /stara/foto_report.html
+Disallow: /galeria_06/
+Disallow: /stara/foto_ludzie_4.html
+Disallow: /stara/foto_ludzie_5.html
+Disallow: /galeria_04/
+Disallow: /kaletki/kaletki.html
+Disallow: /galeria_08/
+Disallow: /stara/foto_ludzie_7.html
+Disallow: /stara/foto_miasto_2.html
+Disallow: /stara/foto_report_9.html
+Disallow: /stara/foto_stock_2.html
+Disallow: /stara/foto_stock.html
+Disallow: /stara/foto_report_7.html
+Disallow: /stara/foto_ludzie_3.html
+Disallow: /galeria_02/
+Disallow: /stara/foto_natura.html
+Disallow: /stara/foto_ludzie.html
+Disallow: /stara/foto_miasto.html
+Disallow: /stara/foto_natura_2.html
+Disallow: /galeria_03/
+Disallow: /stara/foto_ludzie_9.html
+Disallow: /stara/foto_ludzie_8.html
+Disallow: /galeria_05/
+Disallow: /galeria_07/
+Disallow: /stara/foto_report_8.html
+Allow: /
+Disallow: /stara/foto_report_2.html
+Disallow: /stara/foto_report_3.html
+Disallow: /stara/foto_ludzie_2.html
+Disallow: /galeria_01/
+Disallow: /stara/foto_ludzie_6.html
+Disallow: /stara/foto_report_5.html
+Disallow: /stara/foto_report_6.html
+Disallow: /stara/foto_report_4.html
+
+

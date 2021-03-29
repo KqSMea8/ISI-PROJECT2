@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /?s=*
+Disallow: /*?ckattempt
+Disallow: /*.html
+Disallow: /blue-water/
+Disallow: /all-inclusive/
+Disallow: /2017-rejs-szczecin-kopenhaga-malmo/
+Disallow: /szczecin-kopenhaga-malmo-2017/
+Disallow: /rejs-kopenhaga/
+Disallow: /2017-rejs-morski-szczecin-kopenhaga-malmo/
+Disallow: /2017-rejs-szczecin-amsterdam/
+Disallow: /rejs-amsterdam/
+Disallow: /2017-szczecin-amsterdam/
+Disallow: /17-09-01-10-2016-plyniemy-na-fiordy/
+Disallow: /sezon-2016/

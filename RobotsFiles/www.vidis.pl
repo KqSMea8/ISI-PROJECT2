@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*.php/carts/
+Disallow: /*.php/favourite/
+Disallow: /*.php/search/*/advanced/
+

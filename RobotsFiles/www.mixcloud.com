@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /4090634/
+Disallow: /buy/
+Disallow: /oauth/
+Disallow: /short/
+Disallow: /pigeon/
+
+Sitemap: http://sitemaps.mixcloud.com/sitemap.xml
+

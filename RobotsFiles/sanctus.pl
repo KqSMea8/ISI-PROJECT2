@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /bloki/
+Disallow: /default/
+Disallow: /formularze/
+Disallow: /foto/
+Disallow: /gfx/
+Disallow: /include/
+Disallow: /languages/
+Disallow: /menu/
+Disallow: /modules/
+Disallow: /phpmyadmin/
+Disallow: /styles/
+Disallow: /test/

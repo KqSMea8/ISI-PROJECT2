@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /logs/
+Disallow: /tmp/
+Sitemap: http://www.kalisz-kamerzysta.pl/sitemap.xml

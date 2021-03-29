@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /component/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Allow:    /plugins/content/jw_disqus/tmpl/
+Allow:    /cache/ppgallery/
+Allow:    /plugins/content/ppgallery/
+Allow:    /images/

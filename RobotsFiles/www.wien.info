@@ -1,0 +1,53 @@
+# By default we allow robots to access all areas of our site
+# already accessible to anonymous users
+
+User-agent: *
+Disallow: /article.asp
+Disallow: /UseItinerary.asp
+Disallow: /PanoramaOverview.asp
+Disallow: /recommend$
+Disallow: /empfehlen$
+Disallow: /feedback$
+Disallow: */add-to-trip
+Disallow: */@@add-to-trip
+Disallow: /myvienna
+
+Disallow: /de/hotel/search
+Disallow: /de/hotel/suche
+Disallow: /en/hotel/search
+Disallow: /en/hotel/suche
+Disallow: /it/hotel/search
+Disallow: /it/hotel/suche
+Disallow: /fr/hotel/search
+Disallow: /fr/hotel/suche
+Disallow: /es/hotel/search
+Disallow: /es/hotel/suche
+Disallow: /hu/hotel/search
+Disallow: /hu/hotel/suche
+Disallow: /ru/hotel/search
+Disallow: /ru/hotel/suche
+Disallow: /pl/hotel/search
+Disallow: /pl/hotel/suche
+Disallow: /ro/hotel/search
+Disallow: /ro/hotel/suche
+Disallow: /cs/hotel/search
+Disallow: /cs/hotel/suche
+Disallow: /ja/hotel/search
+Disallow: /ja/hotel/suche
+Disallow: /ar/hotel/search
+Disallow: /ar/hotel/suche
+
+Sitemap: https://www.wien.info/de/sitemap.xml
+Sitemap: https://www.wien.info/en/sitemap.xml
+Sitemap: https://www.wien.info/it/sitemap.xml
+Sitemap: https://www.wien.info/fr/sitemap.xml
+Sitemap: https://www.wien.info/es/sitemap.xml
+Sitemap: https://www.wien.info/hu/sitemap.xml
+Sitemap: https://www.wien.info/ru/sitemap.xml
+Sitemap: https://www.wien.info/pl/sitemap.xml
+Sitemap: https://www.wien.info/ro/sitemap.xml
+Sitemap: https://www.wien.info/cs/sitemap.xml
+Sitemap: https://www.wien.info/ja/sitemap.xml
+Sitemap: https://www.wien.info/ar/sitemap.xml
+
+

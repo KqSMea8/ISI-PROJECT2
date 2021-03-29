@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /tag/gadzety-reklamowe/
+Disallow: /tag/agencja-reklamowa/
+Disallow: /tag/folia/
+Disallow: /tag/folia-samochodowa/
+Disallow: /tag/folie-okienne/
+Disallow: /tag/folie-scienne/
+Disallow: /tag/fotoobrazy/
+Disallow: /tag/fototapety/
+Disallow: /tag/inne/
+Disallow: /tag/oklejanie-maszyn/
+Disallow: /tag/oklejanie-samochodow/
+Disallow: /tag/reklama/
+Disallow: /tag/reklama-na-samochodzie/
+Disallow: /tag/zdjecia-wielkoformatowe/
+Disallow: /tag/zmiana-koloru-auta/
+Disallow: /2016/10/
+Disallow: /2016/11/
+Disallow: /category/oklejanie-samochodow/
+Disallow: /category/dekoracje-wnetrz/
+Disallow: /category/bez-kategorii/
+Disallow: /author/visualprowp/
+

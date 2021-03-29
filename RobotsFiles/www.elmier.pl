@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /mp/
+Disallow: /mp0/
+Disallow: /cg/
+Disallow: /0/
+Disallow: /cennik/
+Disallow: /lin_txt/
+Disallow: /monitoring/
+Disallow: /temp/
+Disallow: /txtclock/
+Disallow: /TS/
+Disallow: /pasek 2/
+Disallow: /memo_vsdlkpwfe/
+Disallow: /ntc/
+Disallow: /V2/
+Disallow: /nowy/
+Disallow: /dvb/
+Disallow: /newSite/
+Disallow: /qSite/
+Disallow: /B6/

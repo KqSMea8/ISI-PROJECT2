@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /piast_kobylin
+Disallow: /centrol
+Disallow: /hubertowka
+Disallow: /as-krotoszyn
+Disallow: /sylmar360
+Disallow: /foto_video_kobylin
+Disallow: /masz-rol
+Disallow: /hubertowka
+Disallow: /osk-horyza
+Disallow: /asm
+Disallow: /etransmisje24
+Disallow: /witex

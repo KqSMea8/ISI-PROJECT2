@@ -1,0 +1,10 @@
+# Squirrly SEO Robots
+
+User-agent: *
+Disallow: */trackback/
+Disallow: */xmlrpc.php
+Disallow: /wp-*.php
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Allow: */wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php

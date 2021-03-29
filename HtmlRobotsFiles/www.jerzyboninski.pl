@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--==========================
+META TAGS
+===========================-->
+<!-- META DATA -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="">
+<!-- ==========================
+TITLE
+=========================== -->
+<title>Site Offline</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/assets/img/logo.png">
+
+<!-- CSS -->
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/assets/css/bootstrap.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/assets/css/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/css/jquery.vegas.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/css/custom.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/css/animate.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/css/form-elements.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/css/style.css" />
+<link rel="stylesheet" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/css/media-queries.css" />
+
+<!-- Favicon and touch icons -->
+<link rel="shortcut icon" href="http://jerzyboninski.pl/wp-content/plugins/site-offline/assets/img/logo.png">
+
+<style>
+.head
+{
+color:#000000 !important;
+font-size:80px !important;
+font-family:'Verdana' !important;
+}
+.description
+{
+color:#000000 !important;
+font-family:'Verdana' !important;
+font-size:21px !important;
+}
+.cont
+{
+margin-top:100px;
+}
+.info li
+{
+display:inline-block;
+list-style-type: none;
+padding-left:15px;
+padding-right:15px;
+
+}
+.info
+{
+text-align:center;
+padding-top:50px;
+padding-bottom:20px;
+
+}
+.info li .fa
+{
+display:inline-block;
+margin-right:10px;
+font-size:21px !important;
+color:#000000 !important;
+}
+.info li p
+{
+display:inline-block;
+font-size:16px;
+color:#000000 !important;
+font-family:'Verdana' !important;
+font-size:21px !important;
+}
+.top-content .logo a {
+display:block;
+margin: 0;
+padding: 0;
+margin-bottom:20px;
+}
+body {
+background:#ffffff !important;
+}
+.social-profile a{
+color:#000000 !important;
+}
+.timer{
+color:#000000 !important;
+}
+</style>
+
+
+</head>
+<body>
+<!-- Loader -->
+<!-- Top content -->
+<div class="top-content">
+<div class="inner-bg">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 text">
+<h1 class="wow fadeInLeftBig head">Site Offline</h1>
+<div class="description wow fadeInLeftBig">
+</div>
+<ul class="info scroll-page wow fadeInUp">
+
+</ul>
+
+<div class="scroll-page wow fadeInUp social-profile">
+<a class="fa fa-facebook " href="#"></a>
+<a class="fa fa-twitter" href="#"></a>
+<a class="fa fa-linkedin " href="#"></a>
+<a class="fa fa-instagram " href="#"></a>
+
+</div>
+</div>
+<!-- Contact Us -->
+
+
+</div>
+</div>
+</div>
+</div>
+<!-- Footer -->
+
+
+<!-- Javascript -->
+<script src="http://jerzyboninski.pl/wp-includes/js/jquery/jquery.js"></script>
+
+
+<script type="text/javascript" src="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/js/wow.min.js"></script>
+<script type="text/javascript" src="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/js/retina-1.1.0.min.js"></script>
+<script type="text/javascript" src="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/js/scripts.js"></script>
+<script type="text/javascript" src="http://jerzyboninski.pl/wp-content/plugins/site-offline/output/assets/js/jquery.backstretch.min.js"></script>
+
+
+
+
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.jerzyboninski.pl @ 2019-04-24 21:11:25 by W3 Total Cache
+-->

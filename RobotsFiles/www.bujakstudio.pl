@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /website/wp-admin/
+Allow: /website/wp-admin/admin-ajax.php
+User-agent: *
+Disallow: /website/wp-admin/
+Allow: /website/wp-admin/admin-ajax.php
+

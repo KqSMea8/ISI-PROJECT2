@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://icecat.jp/sitemap/icecat_site_map_index_JP.xml
+Disallow: /product/offer-statistic-rss

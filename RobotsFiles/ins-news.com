@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_statistics/
+Disallow: /admin-files/
+Disallow: /admin-style/
+Disallow: /admin.php
+Disallow: /api*/
+

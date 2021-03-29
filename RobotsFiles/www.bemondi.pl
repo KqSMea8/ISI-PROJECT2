@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /gfx/
+Disallow: /pdf/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+Allow: /gfx/glp/_thumbs/
+Allow: /gfx/glp/sklep_oferta/
+Allow: /gfx/glp/*.css$
+Allow: /gfx/glp/*.js$
+Disallow: /twoje-konto/
+Disallow: /twoje-konto-ustawienia-konta/
+Disallow: /produkty/q,*
+Disallow: /koszyk/
+User-agent: Fasterfox
+Disallow: /

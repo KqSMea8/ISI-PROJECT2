@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /*ag=A
+Disallow: /*agstyle=
+Disallow: /*allgemeine_reisehinweise
+Disallow: /*ag=71818
+Disallow: /*w2/
+Disallow: /*travel_guide
+Disallow: /*ag=0
+Disallow: /*ag=1
+Disallow: /*ag=2
+Disallow: /*ag=3
+Disallow: /*ag=4
+Disallow: /*ag=5
+Disallow: /*ag=6
+Disallow: /*ag=7
+Disallow: /*ag=8
+Disallow: /*ag=9

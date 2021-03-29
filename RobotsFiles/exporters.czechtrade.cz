@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /CMSHelp/
+Disallow: /CMSSiteManager/
+Disallow: /CMSDesk/
+Disallow: /CMSMessages/
+Disallow: /Admin/
+Disallow: /CMSModules/
+sitemap: https://exporters.czechtrade.cz/cs/googlesitemap

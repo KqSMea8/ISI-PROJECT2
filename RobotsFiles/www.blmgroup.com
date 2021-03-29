@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /-/
+Disallow: /it/-/
+Disallow: /en/-/
+Disallow: /fr/-/
+Disallow: /de/-/
+Disallow: /pl/-/
+Disallow: /tr/-/
+Disallow: /ru/-/
+Disallow: /es/-/
+Disallow: /pt/-/
+Disallow: /zh/-/
+Disallow: */c/portal/
+Disallow: *login
+Disallow: /*p_p_id=82
+Disallow: /*p_p_id=101
+Sitemap: http://www.blmgroup.com/sitemap.xml

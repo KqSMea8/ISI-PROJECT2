@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ServiceInterface/
+Disallow: /data/
+Allow: /data/mediadb/
+
+Sitemap: http://www.reitimwinkl.de/portal/frontend/sitemap_de.xml
+Sitemap: http://www.reitimwinkl.de/portal/frontend/sitemap_en.xml
+

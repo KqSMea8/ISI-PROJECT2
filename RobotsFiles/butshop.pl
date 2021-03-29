@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/fav/add/
+
+Disallow: /*/p/comment/add/
+
+Disallow: /*/login
+Disallow: /*/reg
+Disallow: /regulamin.html
+Disallow: /alternatywne-formy-zlozenia-zamowienia.html
+Disallow: /*/passremind
+Disallow: /*/basket
+Disallow: /*/panel
+Disallow: /*/logout
+Disallow: /*/reg/
+Disallow: /*/login/
+Disallow: /*/basket/
+Disallow: /*/searchquery/

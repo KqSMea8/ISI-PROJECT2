@@ -1,0 +1,2 @@
+Sitemap: http://omegat.org/sitemap.xml
+

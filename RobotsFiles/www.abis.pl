@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /koszyk.php
+Disallow: /includes
+Disallow: /customer.php
+Disallow: /friend.php
+Disallow: /print.php
+Disallow: /orderpreview.php
+Sitemap: http://www.abis.pl/sitemap.xml
+Sitemap: http://www.abis.pl/sitemap2.xml

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wyplatomat.pl/
+Disallow: /wygrajwkolorze.pl/
+Disallow: /recypuszek.playprint.pl/
+Disallow: /porywserca/
+Disallow: /loteriapromocyjna.pl/
+Disallow: /loteria-plaza.playprint.pl/
+Disallow: /loteriango/
+Disallow: /loteria-plaza.grzegrzolka.pl/
+Disallow: /konsorcjum/
+Disallow: /koncepcje.playprint.pl/
+Disallow: /fundacja.loteria.org.pl/
+Disallow: /diamentowaloteria.pl/
+Disallow: /demo.playprint.pl/
+Disallow: /delma.playprint.pl/
+Disallow: /dachomat.pl/
+Disallow: /artegowdyche.pl/

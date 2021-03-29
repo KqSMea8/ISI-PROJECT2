@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: /inc/
+Allow: /inc/imgs/
+Allow: /inc/fonts/
+Allow: /inc/css/
+Allow: /inc/js/
+Disallow: /themes/
+Allow: /themes/images/
+Allow: /themes/fonts/
+Allow: /themes/css/
+Allow: /themes/js/
+Disallow: /listek/
+Disallow: /LISTek/
+Disallow: /wsadek/
+Disallow: /WSADek/

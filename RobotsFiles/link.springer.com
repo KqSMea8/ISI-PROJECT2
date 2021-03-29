@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /?$
+Allow: /journal*
+Allow: /article/
+Allow: /book*
+Allow: /chapter/
+Allow: /referencework*
+Allow: /protocol/
+Allow: /content/
+Allow: /conference/
+Allow: /video*
+Allow: /*static/
+Allow: /sitemap*
+Allow: /openurl*
+Allow: /10*
+Allow: /978*
+
+Host: link.springer.com
+Sitemap: https://link.springer.com/sitemap-index.xml

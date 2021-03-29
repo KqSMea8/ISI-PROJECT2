@@ -1,0 +1,43 @@
+User-agent: Mediapartners-Google*
+Disallow:
+User-agent: *
+Disallow: admin.php
+Disallow: /admin/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /themes/
+Disallow: /blocks/
+Disallow: /modules/
+Disallow: /language/
+user-agent: AhrefsBot
+Disallow: /
+User-agent: googlebot
+Disallow: /
+User-agent: googlebot\-image
+disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: crawlbot
+Disallow: /
+User-agent: MegaIndex.ru/2.0
+Disallow: /
+User-agent: SemrushBot/1.1~bl
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: bingbot/2.0
+Dusallow: /
+User-agent: bingbot
+Disallow: /
+User_agent: BLEXBot/1.0
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: Slurp
+Disallow: /
+User-agent: bot[\s_ :,\.\;\/\\-]
+Disallow: /
+User-agent: bot[\s_
+Disallow: /
+User-agent: bot[:,\.\;\/\\-]
+

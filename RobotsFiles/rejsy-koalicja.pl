@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /jacht/galeria/action~posterboard/
+Disallow: /jacht/galeria/action~agenda/
+Disallow: /jacht/galeria/action~oneday/
+Disallow: /jacht/galeria/action~month/
+Disallow: /jacht/galeria/action~week/
+Disallow: /jacht/galeria/action~stream/
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/

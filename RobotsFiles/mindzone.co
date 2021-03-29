@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /mindzone_new_20170131/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

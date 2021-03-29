@@ -1,0 +1,493 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl-PL">
+<head profile="http://gmpg.org/xfn/11">
+<title>Wawrzyniec Podrzucki - Blog</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.blog.podrzucki.eu/wp-content/themes/sandbox/style.css" />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.blog.podrzucki.eu/wp-includes/js/thickbox/thickbox.css?ver=20121105' type='text/css' media='all' />
+<link rel='stylesheet' id='cptchStylesheet-css'  href='http://www.blog.podrzucki.eu/wp-content/plugins/captcha/css/style.css?ver=3.7.29' type='text/css' media='all' />
+<link rel='stylesheet' id='sidebar-login-css'  href='http://www.blog.podrzucki.eu/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://www.blog.podrzucki.eu/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-content/plugins/hide-this-part/js.js?ver=3.7.29'></script>
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-content/plugins/sidebar-login/assets/js/blockui.min.js?ver=2.57'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"http:\/\/www.blog.podrzucki.eu\/wp-admin\/admin-ajax.php","force_ssl_login":"0","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Prosz\u0119 poda\u0107 nazw\u0119 u\u017cytkownika","i18n_password_required":"Prosz\u0119 poda\u0107 has\u0142o","error_class":"sidebar_login_error"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.6.0'></script>
+<script type='text/javascript' src='http://apps.joliprint.com/joliprint/js/popin/joliprint-popin.js.jspz'></script>
+<script type='text/javascript' src='http://apps.joliprint.com/joliprint/js/joliprint.js'></script>
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-content/plugins/joliprint/js/wp_joliprint-min.js?ver=1.3.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blog.podrzucki.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.blog.podrzucki.eu/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 3.7.29" />
+
+
+<!-- Easy Facebook Share Thumbnails 1.9.6 --><!-- Non Post/Page -->
+<meta property="og:title" content="Wawrzyniec Podrzucki - Blog"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.blog.podrzucki.eu"/>
+<meta property="og:site_name" content="Wawrzyniec Podrzucki - Blog"/>
+<meta property="og:description" content="Wawrzyniec Podrzucki - Blog"/>
+<!-- Using 'rounded' for Default Image -->
+<meta property="og:image" content="http://www.blog.podrzucki.eu/wp-content/plugins/easy-facebook-share-thumbnails/thumbnails/53a18f5e0f2fcd4f986542abb5f478c3-rounded.jpg" />
+<link rel="image_src" href="http://www.blog.podrzucki.eu/wp-content/plugins/easy-facebook-share-thumbnails/thumbnails/53a18f5e0f2fcd4f986542abb5f478c3-rounded.jpg"/>
+<!-- Easy Facebook Share Thumbnails -->
+
+<meta property="og:title" content="Wawrzyniec Podrzucki - Blog"/>
+<meta property="og:type" content="blog"/>
+<meta property="og:url" content="http://www.blog.podrzucki.eu"/>
+<meta property="og:image" content="http://www.blog.podrzucki.eu/wp-content/plugins/facebook-likes-you/images/facebook.png"/>
+<meta property="og:site_name" content="Wawrzyniec Podrzucki &#8211; Blog"/>
+<link rel="stylesheet" href="http://www.blog.podrzucki.eu/wp-content/plugins/hide-this-part/style.css" type="text/css" media="screen" />
+<style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style><script type='text/javascript' language='javascript'>
+var joliprint_button_config = {
+'urloptions':'ver=1.3.0'
+,'_ga_tracking':true
+,'button':'joliprint-button-both'
+,'label':'Pobierz PDF'
+,'labelposition':'after'
+};</script>	<link rel="alternate" type="application/rss+xml" href="http://www.blog.podrzucki.eu/?feed=rss2" title="Wawrzyniec Podrzucki - Blog latest posts" />
+<link rel="alternate" type="application/rss+xml" href="http://www.blog.podrzucki.eu/?feed=comments-rss2" title="Wawrzyniec Podrzucki - Blog latest comments" />
+<link rel="pingback" href="http://www.blog.podrzucki.eu/xmlrpc.php" />
+<script type="text/javascript" src="whcookies.js"></script>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12999057-1']);
+_gaq.push(['_setDomainName', 'podrzucki.eu']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+</head>
+
+<body class="wordpress y2019 m04 d24 h20 home blog">
+
+<div id="wrapper" class="hfeed">
+
+<div id="header">
+<div id="menu"><ul><li><a href="http://www.blog.podrzucki.eu">Start</a></li><li><a href="http://www.podrzucki.eu/bio.php">O mnie</a></li><li><a href="http://www.podrzucki.eu/kontakt.php">Kontakt</a></li></ul></div>
+<!-- <div id="menu"><ul><li class="page_item page-item-2"><a href="http://www.blog.podrzucki.eu/?page_id=2">O mnie</a></li></ul></div>
+-->
+<!-- <h1 id="blog-title"><span><a href="http://www.blog.podrzucki.eu/" title="Wawrzyniec Podrzucki - Blog" rel="home">Wawrzyniec Podrzucki &#8211; Blog</a></span></h1>
+<div id="blog-description">Wawrzyniec Podrzucki &#8211; Blog</div> -->
+</div><!--  #header -->
+
+<div id="access">
+<div class="skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+</div><!-- #access -->
+
+<div id="container">
+<div id="content">
+
+<div id="nav-above" class="navigation">
+<div class="nav-previous"><a href="http://www.blog.podrzucki.eu/robots.txt/?paged=2" ><span class="meta-nav">&laquo;</span> Older posts</a></div>
+<div class="nav-next"></div>
+</div>
+
+
+<div id="post-707" class="hentry p1 post publish author-wawrzyniec-podrzucki category-science-w-fiction untagged y2015 m09 d05 h16">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=707" title="Permalink to Rozum za miliard" rel="bookmark">Rozum za miliard</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2015-09-05T15:42:36+0000">Wrzesien 5, 2015 &#8211; 3:42 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">wrz</div>
+<div class="date-day">05</div>
+<div class="date-year">2015</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="Rozum za miliard" data-url="http://www.blog.podrzucki.eu/?p=707"></span><p><em>Ponizszy tekst ukazal sie w czasopismie <a href="http://www.fantastyka.pl">,,Nowa Fantastyka"</a> nr 12/2013.</em></p>
+<p>Cyberpunk od swego poczecia istnieje w scislym, mutualistycznym zwiazku z takimi dziedzinami, jak informatyka, genetyka molekularna, nanotechnologia czy neurobiologia. Scislym, bo cokolwiek sie nowego na tych polach wydarzy, cyberpunk natychmiast to wchlania, trawi i wydala w formie zbeletryzowanej, linearnie probujac przewidywac przyszlosc i prawie zawsze chybiajac. A mutualistycznym, bo jak w przypadku zadnego innego podgatunku SF, fantazja i nauka zdaja sie tu karmic soba nawzajem. Do tego stopnia, ze chwilami nie wiadomo, czy ten lub inny uczony jeszcze stapa po ubitym gruncie <em>Science</em>, czy juz przeszedl do <em>Fiction</em>.</p>
+<p><strong>ZMASOWANY ATAK</strong><br />
+Ot, taka neurobiologia. Namnozylo sie w niej ostatnio roznych mega-przedsiewziec, lecz uwaga medialna skupila sie szczegolnie na dwoch (bo i pieniadze w ich przypadku spore, i nazwiska znane) - <em>The Brain Activity Map</em>, pod auspicjami prezydenta USA, oraz europejski <em>Human Brain Project</em>. Zarowno jednemu, jak i drugiemu dano 10 lat i dziewieciocyfrowy budzet. Bajka! Ale czy te pokazne sumy przeloza sie na rownie imponujace wyniki? <a href="http://www.blog.podrzucki.eu/?p=707#more-707" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=707&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;" rel="category">Science w Fiction</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-698" class="hentry p2 post publish author-wawrzyniec-podrzucki category-fantastyka untagged y2015 m05 d10 h12 alt">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=698" title="Permalink to Poprawiac, czy nie poprawiac, czyli ,,Yggdrasill" w BookRage" rel="bookmark">Poprawiac, czy nie poprawiac, czyli ,,Yggdrasill" w BookRage</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2015-05-10T11:52:51+0000">Maj 10, 2015 &#8211; 11:52 am</abbr></div> -->
+<div class="date">
+<div class="date-month">maj</div>
+<div class="date-day">10</div>
+<div class="date-year">2015</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="Poprawiac, czy nie poprawiac, czyli ,,Yggdrasill" w BookRage" data-url="http://www.blog.podrzucki.eu/?p=698"></span><p align="justify">Kilka dni temu pojawil sie nowy pakiet <a href="http://bookrage.org">BookRage</a>, a w nim miedzy innymi ,,Yggdrasill". Wiem, ze kilka osob na niego czekalo, ale aktualna liczba sprzedanych pakietow jest o wiele wyzsza od tego, czego sie spodziewalem. Nie ukrywam, ze jestem zaskoczony i ciesze sie bardzo z tego, ze jednak wiecej niz kilka osob zainteresowalo sie ta powiescia (niewykluczone, ze przez piekne okladki, za ktore serdecznie dziekuje Ekipie <a href="http://bookrage.org/">BookRage</a>).</p>
+<p align="justify">Musze przyznac sie jednak do czegos, czego pewnie nikt do tej pory nie zauwazyl, a mianowicie do tego, ze pierwsza czesc cyklu to nie jest wersja wydana swego czasu przez Rune. ,,Uspione archiwum" z pakietu <a href="http://bookrage.org">BookRage</a> to wersja po calkiem sporej przerobce.</p>
+<p align="justify">Podobno koncowke ,,Pozegnania z bronia" Hemingway modyfikowal trzydziesci dziewiec razy, a ,,Starego czlowieka i morze" przepisal razy dwiescie (<i>sic!</i>), zanim calosc jako tako przypadla mu do gustu. Nie wiem, ilu bylo, ani ilu jest pisarzy podobnych do Hemingwaya. Przypuszczam, ze tych samokrytycznych i niezadowolonych z koncowego rezultatu swoich tworczych wysilkow znalazloby sie wielu. Ale obsesyjnie perfekcjonistycznych juz zdecydowanie mniej. Bo z pisaniem powiesci jest troche jak z budowa domu -- nie da sie go stawiac wiecznie. <a href="http://www.blog.podrzucki.eu/?p=698#more-698" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=698&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=10" title="Zobacz wszystkie wpisy z kategorii &#8222;Fantastyka&#8221;" rel="category">Fantastyka</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-686" class="hentry p3 post publish author-wawrzyniec-podrzucki category-science-w-fiction untagged y2015 m02 d01 h17">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=686" title="Permalink to Czlowiek na kosmicznym rozdrozu" rel="bookmark">Czlowiek na kosmicznym rozdrozu</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2015-02-01T16:57:56+0000">Luty 1, 2015 &#8211; 4:57 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">lut</div>
+<div class="date-day">01</div>
+<div class="date-year">2015</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="Czlowiek na kosmicznym rozdrozu" data-url="http://www.blog.podrzucki.eu/?p=686"></span><p><em>Ponizszy tekst ukazal sie w czasopismie <a href="http://www.fantastyka.pl">,,Nowa Fantastyka"</a> nr 10/2013.</em></p>
+<p>W ,,Trylogii marsjanskiej" Kima Stanleya Robinsona kolonisci przeksztalcaja obca planete w druga Ziemie. Nie w jej dokladna kopie, bo to niemozliwe, ale w swiat na tyle do starego podobny, ze przecietny nowojorczyk czy warszawiak moglby sie tam z miejsca przeprowadzic i bez wiekszego dyskomfortu zamieszkac. Z drugiej strony mamy ,,Hyperiona" Dana Simmonsa i Intruzow - odlam ludzkosci, ktory wedruje miedzy gwiazdami nie zmieniajac niczego, procz siebie.</p>
+<p>Wspomniane powiesci to przyklady dwoch roznych perspektyw, z ktorych mozna patrzec na ewentualna kosmiczna przyszlosc naszego gatunku - obce swiaty przystosowane do nas vs. my przystosowani do obcych swiatow. Bez wzgledu jednak na opcje, jaka wybierzemy, jedno wydaje sie pewne: bez grzebania w genach - bakteryjnych, roslinnych, zwierzecych, a byc moze i naszych wlasnych - tak czy siak chyba ani rusz. <a href="http://www.blog.podrzucki.eu/?p=686#more-686" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=686&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;" rel="category">Science w Fiction</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-666" class="hentry p4 post publish author-wawrzyniec-podrzucki category-science-w-fiction untagged y2014 m10 d12 h17 alt">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=666" title="Permalink to O powstawaniu (mechanicznych) gatunkow" rel="bookmark">O powstawaniu (mechanicznych) gatunkow</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2014-10-12T16:42:58+0000">Pazdziernik 12, 2014 &#8211; 4:42 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">paz</div>
+<div class="date-day">12</div>
+<div class="date-year">2014</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="O powstawaniu (mechanicznych) gatunkow" data-url="http://www.blog.podrzucki.eu/?p=666"></span><p><em>Ponizszy tekst ukazal sie w czasopismie <a href="http://www.fantastyka.pl">,,Nowa Fantastyka"</a> nr 8/2013.</em></p>
+<p>Biologia to nauka o zyciu. Zyciu opartym na zwiazkach wegla, bo innego jak dotad nie znamy. Wsrod kryteriow, ktore musza zostac spelnione, by cos nazwac zywym, nie ma jednak nic o budulcu. W teorii zatem, a byc moze niedlugo rowniez w praktyce, pole zainteresowan biologow rozszerzy sie, obejmujac, miedzy innymi, maszyny.</p>
+<p><strong>METAL O METAL</strong><br />
+Wez kilkadziesiat garsci srubek roznych rozmiarow, tylez nakretek oraz blaszek z otworami rozmaitych srednic. Wrzuc to wszystko do pojemnika z zamknieciem i wytrzasaj. Jezeli owo wytrzasanie trwalo dostatecznie dlugo, to po otwarciu pudelka zobaczysz rzecz zgola niesamowita - znaczacy odsetek srub solidnie przykreconych pasujacymi mutrami do odpowiednich blach.</p>
+<p>Brzmi jak czary, a to tylko ewolucja. Ten szkolny eksperyment pokazuje w najprostszy z mozliwych sposobow, jak ona dziala, i przypomina, ze jest zjawiskiem uniwersalnym. Gdy tylko zaistnieja dwa podstawowe warunki, tj. odpowiednio duza rozpietosc cech w materiale wyjsciowym oraz jakis mechanizm pozwalajacy ten material segregowac pod wzgledem owych roznych cech - ewolucja rusza z kopyta. A jaki to bedzie material - aminokwasy i cukry, krzemowe tranzystory, algorytmy czy srubki, podrygujace na pozor chaotycznie w skrzynce - jest juz sprawa drugorzedna. <a href="http://www.blog.podrzucki.eu/?p=666#more-666" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=666&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;" rel="category">Science w Fiction</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-634" class="hentry p5 post publish author-wawrzyniec-podrzucki category-science-w-fiction untagged y2014 m05 d31 h14">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=634" title="Permalink to Dzieci doktora Granta" rel="bookmark">Dzieci doktora Granta</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2014-05-31T13:22:00+0000">Maj 31, 2014 &#8211; 1:22 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">maj</div>
+<div class="date-day">31</div>
+<div class="date-year">2014</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="Dzieci doktora Granta" data-url="http://www.blog.podrzucki.eu/?p=634"></span><p><em>Ponizszy tekst ukazal sie w czasopismie <a href="http://www.fantastyka.pl/">,,Nowa Fantastyka"</a> nr 6/2013.</em></p>
+<p>W czerwcu 1993 roku na ekrany kin trafil ,,Park jurajski" Stevena Spielberga. Co po dwudziestu latach od dnia premiery mozna powiedziec o tym filmie? Chocby to, ze sie prawie w ogole nie zestarzal. Nawet teraz, w epoce rozpasanej i wszechobecnej grafiki komputerowej, film nie traci myszka, i juz samo to jest godne podziwu. Malo jest celuloidowych fantazji odpornych na uplyw czasu, a jeszcze mniej takich, ktore swa dlugowiecznosc zawdzieczaja czemus wiecej procz mistrzostwa w operowaniu kamera, swiatlem i programem do renderingu 3D. Inteligentnej fabule, na przyklad, wiecznie zywym pytaniom egzystencjalnym, albo idei, wciaz swiezej, niezmiennie atrakcyjnej i rozpalajacej umysly zarowno ekspertow, jak i przecietnych zjadaczy chleba.</p>
+<p>W ,,Parku jurajskim" idea ta jest deekstynkcja. Dee&#8230; co? Przeciez taki termin nie pada w filmie ani raz! Trudno sie temu dziwic, skoro zostal ukuty calkiem niedawno, niemniej pomysl pozostaje ten sam - wskrzeszanie wymarlych zwierzat (oraz, ewentualnie, roslin). Jednak czy od razu dinozaurow? Michael Crichton - autor powiesci, na podstawie ktorej Spielberg nakrecil swoj film - wybral dinozaury glownie z tego wzgledu, ze Amerykanie maja na ich punkcie bzika i bylo pewne, ze predzej kupia serie bajek o safari z tyranozaurami i velociraptorami, niz opowiesc o zmartwychwstalym wyplawku w akwarium. <a href="http://www.blog.podrzucki.eu/?p=634#more-634" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=634&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;" rel="category">Science w Fiction</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-617" class="hentry p6 post publish author-wawrzyniec-podrzucki category-science-w-fiction untagged y2014 m04 d05 h14 alt">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=617" title="Permalink to Zycie &#8211; zestaw do samodzielnego montazu" rel="bookmark">Zycie &#8211; zestaw do samodzielnego montazu</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2014-04-05T13:22:02+0000">Kwiecien 5, 2014 &#8211; 1:22 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">kwi</div>
+<div class="date-day">05</div>
+<div class="date-year">2014</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="Zycie &#8211; zestaw do samodzielnego montazu" data-url="http://www.blog.podrzucki.eu/?p=617"></span><p><em>Ponizszy tekst ukazal sie w czasopismie</em> <a href="http://www.fantastyka.pl"><em>,,Nowa Fantastyka"</em></a> <em>nr 4/2013.</em></p>
+<p>Oprocz koncepcji od dawna zadomowionych w SF i tematow intensywnie eksploatowanych jest rowniez taki, ktorego fantastyka jeszcze prawie nie tknela, chociaz juz od dobrych paru lat sobie wisi i neci niczym dojrzale jablko. Jest to o tyle interesujace, ze autorzy <em>science fiction</em> wech na wszelkiego rodzaju naukowo-techniczne nowinki maja wyczulony i dawno powinni sie juz w ten slodki miazsz wgryzac. Ale co sie odwlecze, to nie uciecze i mozna byc pewnym, ze za biologie syntetyczna - bo o niej mowa - rowniez sie w koncu wezma.<sup>1)</sup></p>
+<p><strong>ZNAJDZ DZIESIEC SZCZEGOLOW</strong><br />
+Jednym z mozliwych powodow obojetnego stosunku pisarzy SF do biologii syntetycznej jest brak ostrych granic pomiedzy nia a klasyczna biotechnologia. Czym bowiem one sie roznia? Tym, czym majsterkowanie w garazu od pracy w biurze projektowo-konstrukcyjnym. Albo przerobka ,,Malucha" w samochod dostawczy od budowy calkowicie nowego srodka transportu o okreslonych i z gory zadanych parametrach. <a href="http://www.blog.podrzucki.eu/?p=617#more-617" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=617&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;" rel="category">Science w Fiction</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-597" class="hentry p7 post publish author-wawrzyniec-podrzucki category-fantastyka category-ogolne untagged y2014 m03 d06 h20">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=597" title="Permalink to &#8222;Falstart&#8221; &#8211; opowiadanie w Nowej Fantastyce" rel="bookmark">&#8222;Falstart&#8221; &#8211; opowiadanie w Nowej Fantastyce</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2014-03-06T19:47:29+0000">Marzec 6, 2014 &#8211; 7:47 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">mar</div>
+<div class="date-day">06</div>
+<div class="date-year">2014</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="&#8222;Falstart&#8221; &#8211; opowiadanie w Nowej Fantastyce" data-url="http://www.blog.podrzucki.eu/?p=597"></span><p><img class="size-full wp-image-598 alignleft" style="margin-right: 15px; margin-left: 2px; margin-top: 0; margin-bottom: 30px;" alt="nowa-fantastyka_marzec-2014" src="http://www.blog.podrzucki.eu/wp-content/uploads/2014/03/nowa-fantastyka_marzec-2014.jpg" width="180" height="256" />W marcowym numerze <em>Nowej Fantastyki</em> mozna przeczytac moje opowiadanie pt. &#8222;Falstart&#8221;.<br />
+Zachecam do lektury.</p>
+<p><a href="http://www.podrzucki.eu/files/nf-marzec-2014_fragment.pdf">Fragment numeru</a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=597&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=10" title="Zobacz wszystkie wpisy z kategorii &#8222;Fantastyka&#8221;" rel="category">Fantastyka</a>, <a href="http://www.blog.podrzucki.eu/?cat=1" title="Zobacz wszystkie wpisy z kategorii &#8222;Ogolne&#8221;" rel="category">Ogolne</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="post-585" class="hentry p8 post publish author-wawrzyniec-podrzucki category-science-w-fiction untagged y2013 m12 d29 h15 alt">
+<h2 class="entry-title"><a href="http://www.blog.podrzucki.eu/?p=585" title="Permalink to Darwin w wielkim miescie" rel="bookmark">Darwin w wielkim miescie</a></h2>
+<!-- <div class="entry-date"><abbr class="published" title="2013-12-29T14:49:09+0000">Grudzien 29, 2013 &#8211; 2:49 pm</abbr></div> -->
+<div class="date">
+<div class="date-month">gru</div>
+<div class="date-day">29</div>
+<div class="date-year">2013</div>
+</div>
+<div class="entry-content">
+<span class="joliprint_button" data-title="Darwin w wielkim miescie" data-url="http://www.blog.podrzucki.eu/?p=585"></span><p><em>Ponizszy tekst ukazal sie w czasopismie <a href="http://www.fantastyka.pl">,,Nowa Fantastyka"</a> nr 02/2013.</em></p>
+<p>Motyw ewolucji przewija sie w SF od zarania gatunku. Raz jest on eksploatowany silniej, jak w latach 30-tych i 40-tych ubieglego wieku, innym razem slabiej, by po pewnym czasie znow wrocic do lask, tak jak dzieje sie to obecnie. Bywa, ze w tonacji optymistycznej i wznioslej, kiedy indziej zas mrocznej i ponurej. Dzisiejsza fantastyka z ewolucja w tle najwyrazniej znajduje sie w fazie pesymistycznej.</p>
+<p>Dzieje sie tak prawdopodobnie z powodu coraz powszechniej wyrazanego przekonania, ze dobor naturalny w przypadku czlowieka juz nie dziala. Ze w swym ewolucyjnym postepie <em>Homo sapiens</em> osiagnal szczyt i dalej sa juz mozliwe tylko dwie drogi: albo w dol, ku zezwierzeceniu i skretynieniu, albo do gory, ale jedynie ciagnac sie, niczym baron Munchhausen, za harcap kontrolowanej inzynierii genowej i rozmaitych technosztuczek. Nic dziwnego zatem, ze autorzy nie widza sensu w plodzeniu spekulatywnych historii na temat dalekosieznych konsekwencji procesu, ktoremu ludzkosc przestala podlegac. Lepiej skupic kreatywne moce na pisaniu o transhumanistycznych cyborgach, ewentualnie bezmozgich degeneratach w postapokaliptycznej scenerii. <a href="http://www.blog.podrzucki.eu/?p=585#more-585" class="more-link">Wiecej&#8230; <span class="meta-nav">&raquo;</span></a></p>
+<iframe class="fblikes" src="http://www.facebook.com/plugins/like.php?href=http://www.blog.podrzucki.eu/?p=585&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px; margin: 10px 0px 10px 0px;" allowTransparency="true"></iframe>
+</div>
+<div class="entry-meta">
+<span class="author vcard">Dodal: <a class="url fn n" href="http://www.blog.podrzucki.eu/?author=1" title="View all posts by Wawrzyniec Podrzucki">Wawrzyniec Podrzucki</a></span>
+<span class="meta-sep">|</span>
+<span class="cat-links">Kategoria: <a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;" rel="category">Science w Fiction</a></span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><span>Komentowanie nie jest mozliwe</span></span>
+</div>
+</div><!-- .post -->
+
+
+
+<div id="nav-below" class="navigation">
+<!-- <div class="nav-previous"><a href="http://www.blog.podrzucki.eu/robots.txt/?paged=2" ><span class="meta-nav">&laquo;</span> Starsze wpisy</a></div>
+<div class="nav-next"></div> -->
+<div class="navigation"><ol class="wp-paginate"><li><span class="title">Strony:</span></li><li><span class='page current'>1</span></li><li><a href='http://www.blog.podrzucki.eu/robots.txt/?paged=2' title='2' class='page'>2</a></li><li><a href='http://www.blog.podrzucki.eu/robots.txt/?paged=3' title='3' class='page'>3</a></li><li><a href='http://www.blog.podrzucki.eu/robots.txt/?paged=4' title='4' class='page'>4</a></li><li><a href='http://www.blog.podrzucki.eu/robots.txt/?paged=5' title='5' class='page'>5</a></li><li><a href="http://www.blog.podrzucki.eu/robots.txt/?paged=2" class="next">&raquo;</a></li></ol></div>			</div>
+
+</div><!-- #content -->
+</div><!-- #container -->
+
+<div id="primary" class="sidebar">
+<ul class="xoxo">
+
+<li id="search" class="widget widget_search">
+<h3 class="widgettitle"><label for="s">SZUKAJ</label></h3>
+<form id="searchform" class="blog-search" method="get" action="http://www.blog.podrzucki.eu">
+<div>
+<input id="s" name="s" type="text" class="text" value="" size="10" tabindex="1" />
+<input type="submit" class="button" value="OK" tabindex="2" />
+</div>
+</form>
+
+</li>
+
+<li id="categories-3" class="widget widget_categories">
+<h3 class="widgettitle">KATEGORIE</h3>
+<ul>
+<li class="cat-item cat-item-1"><a href="http://www.blog.podrzucki.eu/?cat=1" title="Zobacz wszystkie wpisy z kategorii &#8222;Ogolne&#8221;">Ogolne</a>
+</li>
+<li class="cat-item cat-item-11"><a href="http://www.blog.podrzucki.eu/?cat=11" title="Zobacz wszystkie wpisy z kategorii &#8222;Nauka&#8221;">Nauka</a>
+</li>
+<li class="cat-item cat-item-8"><a href="http://www.blog.podrzucki.eu/?cat=8" title="Zobacz wszystkie wpisy z kategorii &#8222;Wyroby naukopodobne&#8221;">Wyroby naukopodobne</a>
+</li>
+<li class="cat-item cat-item-10"><a href="http://www.blog.podrzucki.eu/?cat=10" title="Zobacz wszystkie wpisy z kategorii &#8222;Fantastyka&#8221;">Fantastyka</a>
+</li>
+<li class="cat-item cat-item-9"><a href="http://www.blog.podrzucki.eu/?cat=9" title="Zobacz wszystkie wpisy z kategorii &#8222;Instytut na peryferiach&#8221;">Instytut na peryferiach</a>
+</li>
+<li class="cat-item cat-item-12"><a href="http://www.blog.podrzucki.eu/?cat=12" title="Zobacz wszystkie wpisy z kategorii &#8222;Science w Fiction&#8221;">Science w Fiction</a>
+</li>
+</ul>
+
+</li>
+
+<li id="text-5" class="widget widget_text">
+<h3 class="widgettitle">ZAPOWIEDZ</h3>
+<div class="textwidget"><div><a href="http://www.blog.podrzucki.eu/?p=263"><img style="border: 1px solid #000000; margin-right: 10px;" align="left" src="wp-content/uploads/2012/05/1980k_th.png" /></a><p>&nbsp;</p></div></div>
+
+</li>
+
+<li id="linkcat-7" class="widget widget_links">
+<h3 class="widgettitle">FANTASTYCZNIE</h3>
+
+<ul class='xoxo blogroll'>
+<li><a href="http://zimniak.art.pl">Andrzej Zimniak</a></li>
+<li><a href="http://nivak.wordpress.com">Czytu&#8230; czytu&#8230; czytam</a></li>
+<li><a href="http://forum.drugiobieg.eu">Drugi Obieg Fantastyki</a></li>
+<li><a href="http://emailemzlasu.blogspot.com/">Emailem z lasu</a></li>
+<li><a href="http://www.gamedeczone.com">Marcin Przybylek &#8211; Gamedeczone</a></li>
+<li><a href="http://mechanicznyczlowiek.blogspot.com">Mechaniczny Czlowiek</a></li>
+<li><a href="http://rafalkosik.com">Rafal Kosik</a></li>
+<li><a href="http://dukaj.pl">Stronice Dukaja</a></li>
+<li><a href="http://waszawina.blogspot.com">Waszawina</a></li>
+<li><a href="http://harksan.wordpress.com">Wszechkozacki Zwiazek Hodowcow Gronkowcow</a></li>
+
+</ul>
+
+</li>
+
+
+<li id="text-4" class="widget widget_text">			<div class="textwidget"><div><a href="http://www.gamedeczone.com"><img style="border: 1px solid #000000; margin-right: 10px;" align="left" src="wp-content/uploads/2013/03/gamedec.jpg" /></a><br /><br /><br /><br /></div></div>
+
+</li>
+
+<li id="linkcat-3" class="widget widget_links">
+<h3 class="widgettitle">PRASOWKA</h3>
+
+<ul class='xoxo blogroll'>
+<li><a href="http://news.discovery.com">Discovery News</a></li>
+<li><a href="http://www.engadget.com">Engadget</a></li>
+<li><a href="http://linuxtoday.com">Linux Today</a></li>
+<li><a href="http://lxer.com">LXer Linux News</a></li>
+<li><a href="http://www.nanowerk.com">NanoWerk</a></li>
+<li><a href="http://www.newscientist.com">New Scientist</a></li>
+<li><a href="http://www.physorg.com/news">PhysOrg.com</a></li>
+<li><a href="http://www.scientificamerican.com">Scientific American</a></li>
+<li><a href="http://www.wired.com">Wired</a></li>
+
+</ul>
+
+</li>
+
+
+<li id="archives-3" class="widget widget_archive">
+<h3 class="widgettitle">ARCHIWUM</h3>
+<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Wybierz miesiac</option> 	<option value='http://www.blog.podrzucki.eu/?m=201509'> Wrzesien 2015 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201505'> Maj 2015 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201502'> Luty 2015 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201410'> Pazdziernik 2014 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201405'> Maj 2014 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201404'> Kwiecien 2014 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201403'> Marzec 2014 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201312'> Grudzien 2013 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201311'> Listopad 2013 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201310'> Pazdziernik 2013 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201307'> Lipiec 2013 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201305'> Maj 2013 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201301'> Styczen 2013 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201207'> Lipiec 2012 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201205'> Maj 2012 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201204'> Kwiecien 2012 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201203'> Marzec 2012 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201201'> Styczen 2012 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201111'> Listopad 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201110'> Pazdziernik 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201109'> Wrzesien 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201106'> Czerwiec 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201105'> Maj 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201104'> Kwiecien 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201103'> Marzec 2011 </option>
+<option value='http://www.blog.podrzucki.eu/?m=201102'> Luty 2011 </option>
+</select>
+
+</li>
+
+<li id="text-7" class="widget widget_text">			<div class="textwidget"><div><a href="http://www.podrzucki.eu/yggdrasill"><img style="border: 1px solid #000000; margin-right: 10px;" align="left" src="wp-content/uploads/2011/02/mosty_wszechzieleni_ic.jpg" /></a><br /></div></div>
+
+</li>
+</ul>
+</div><!-- #primary .sidebar -->
+
+<div id="secondary" class="sidebar">
+<ul class="xoxo">
+<li id="rss-links">
+<h3>RSS</h3>
+<ul>
+<li><a href="http://www.blog.podrzucki.eu/?feed=rss2" title="Wawrzyniec Podrzucki - Blog latest posts" rel="alternate" type="application/rss+xml">Wpisy</a></li>
+<li><a href="http://www.blog.podrzucki.eu/?feed=comments-rss2" title="Wawrzyniec Podrzucki - Blog latest comments" rel="alternate" type="application/rss+xml">Komentarze</a></li>
+</ul>
+</li>
+
+<li id="wp_sidebarlogin-3" class="widget widget_wp_sidebarlogin">
+<h3 class="widgettitle">Login</h3>
+
+<form name="loginform" id="loginform" action="http://www.blog.podrzucki.eu/wp-login.php" method="post">
+
+<p class="login-username">
+<label for="user_login">Uzytkownik</label>
+<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+</p>
+<p class="login-password">
+<label for="user_pass">Haslo</label>
+<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+</p>
+
+<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" checked="checked" /> Zapamietaj mnie</label></p>
+<p class="login-submit">
+<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Zaloguj" />
+<input type="hidden" name="redirect_to" value="http://www.blog.podrzucki.eu/robots.txt/" />
+</p>
+
+</form><ul class="pagenav sidebar_login_links"><li class="lost_password-link"><a href="http://www.blog.podrzucki.eu/wp-login.php?action=lostpassword">Zapomniales haslo?</a></li></ul>
+</li>
+</ul>
+</div><!-- #secondary .sidebar -->
+
+<div id="footer">
+<p>2011-2015 &copy; Wawrzyniec Podrzucki</p>
+<span id="generator-link">Powered by <a href="http://wordpress.org/" title="WordPress" rel="generator">WordPress</a></span>
+<!-- <span class="meta-sep">|</span> -->
+<!-- <span id="theme-link">Based on <a href="http://www.plaintxt.org/themes/sandbox/" title="Sandbox theme for WordPress" rel="designer">Sandbox</a></span> -->
+</div><!-- #footer -->
+
+</div><!-- #wrapper .hfeed -->
+
+<!-- Using Aleph for WordPress: http://wordpress.org/extend/plugins/el-aleph --><!-- begin visitor maps  -->
+<script type="text/javascript">
+//<![CDATA[
+function wo_map_console(url) {
+window.open(url,"wo_map_console","height=650,width=800,toolbar=no,statusbar=no,scrollbars=yes").focus();
+}
+//]]>
+</script>
+<!-- end visitor maps -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Nast\u0119pne \u00bb","prev":"\u00ab Poprzednie","image":"Obrazek","of":"z","close":"Zamknij","noiframes":"Ta funkcja wymaga u\u017cycia ramek inline. Obs\u0142uga iframe'\u00f3w jest w Twojej przegl\u0105darce wy\u0142\u0105czona lub nie s\u0105 one przez ni\u0105 obs\u0142ugiwane.","loadingAnimation":"http:\/\/www.blog.podrzucki.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/www.blog.podrzucki.eu\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.blog.podrzucki.eu/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+
+</body>
+</html>

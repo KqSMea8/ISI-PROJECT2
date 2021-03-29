@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><HTML><FRAMESET ROWS="100%,*" BORDER=0 FRAMEBORDER=0 FRAMESPACING=0><FRAME NAME="top" SRC="http://www.piekarniasarnowska.pl/#!blank/g3a7l" NORESIZE></FRAMESET></HTML>

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /main/?a=td
+Disallow: /main/?a=templates
+Disallow: /secure/
+Disallow: /*?ajax=1
+Disallow: /feat/
+Host: https://www.ucoz.pl

@@ -1,0 +1,22 @@
+User-agent: megaindex
+User-agent: blexbot
+Disallow: /
+
+User-agent: *
+Disallow: /download
+Disallow: /admin
+Disallow: /allegro
+Disallow: /cgi-bin
+Disallow: /errorimg
+Disallow: /tmp
+Disallow: /stat
+Disallow: /account.php
+Disallow: /advanced_search.php
+Disallow: /checkout_shipping.php
+Disallow: /create_account.php
+Disallow: /login.php
+Disallow: /password_forgotten.php
+Disallow: /shopping_cart.php
+Disallow: /product_reviews_write.php
+Disallow: /privacy.php
+Disallow: /advanced_search_result.php

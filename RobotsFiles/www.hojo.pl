@@ -1,0 +1,19 @@
+Sitemap: https://www.hojoclean.pl/sitemap/sitemap-https.xml
+Sitemap: https://www.hojoclean.pl/sitemap/defaultaktualnosci_pl-1.xml
+User-agent: *
+Disallow: /gfx/
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /gfx/hojo/_thumbs/sklep_oferta/
+Allow: /gfx/hojo/_thumbs/pl/defaultaktualnosci/
+Allow: /gfx/hojo/userfiles/_public/loga_hojo/
+Disallow: /pdf/
+Disallow: /addclick/
+Allow: /*.pdf$
+Allow: /*.doc$
+Allow: /*.xls$
+Allow: /*.rtf$
+User-agent: Fasterfox *
+Disallow: /

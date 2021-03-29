@@ -1,0 +1,535 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#">
+<head>
+<base href="https://www.eger.hu/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="hu" />
+<meta name="robots" content="index, follow, all" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /> -->
+<meta name="description" content="" />
+<title></title>
+
+<link rel="shortcut icon" type="image/png" href="https://www.eger.hu/public/images//fav.png" />
+
+<link rel="stylesheet" href="https://www.eger.hu/public/css/style.css?v=213" />
+
+<!--<link rel="stylesheet" type="text/css" href="https://www.eger.hu/public/css/calendar.css" />-->
+
+
+<!--[if gte IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.eger.hu/public/css/ie.css">
+<![endif]-->
+
+<script type="text/javascript">LANG_BASE_URL = 'https://www.eger.hu/hu/'</script>
+<script type="text/javascript" src="https://www.eger.hu/public/js/jquery-ui-1.9.2.custom/js/jquery-1.8.3.js"></script>
+<!--<script type="text/javascript" src="https://www.eger.hu/public/js/jquery-ui-1.9.2.custom/js/jquery-ui-hu.js"></script>-->
+<script type="text/javascript" src="https://www.eger.hu/public/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="https://www.eger.hu/public/js/carouFredSel-6.2.0/jquery.carouFredSel-6.2.0-packed.js"></script>
+<script type="text/javascript" src="https://www.eger.hu/public/js/main.js"></script>
+
+
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '791613727595274']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=791613727595274&amp;ev=PixelInitialized" /></noscript>
+
+
+</head>
+<body>
+<div id="newsletter_div">
+<div class="newsletter_header">
+<div class="newsletter_header_left"></div>
+<div class="newsletter_header_right">
+<h2>Hirlevel feliratkozas</h2>
+</div>
+</div>
+
+<a class="modal_close" href="#"></a>
+<form action="post" id="subscribe">
+<label>Hogyan szolitsuk:</label>
+<input class="text" type="text" name="newsletter_name" id="newsletter_name" />
+
+<label>Email cim:</label>
+<input class="text" type="text" name="newsletter_email" id="newsletter_email" />
+
+
+<div class="checkbox_container">
+<label><input class="checkbox" name="newsletter_cat[]" type="checkbox" value="2" />Hirek</label>
+<label><input class="checkbox" name="newsletter_cat[]" type="checkbox" value="4" />Onkormanyzat</label>
+<label><input class="checkbox" name="newsletter_cat[]" type="checkbox" value="8" />Adougyek</label>
+</div>
+<input type="submit" value="Feliratkozas" class="button" />
+</form>
+<div id="err_message"></div>
+<div id="success_message"></div>
+</div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id))
+return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/hu_HU/sdk.js#xfbml=1&appId=455520044523488&version=v2.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="topwrapper">
+<!--Topmenu-->
+<!--Nameday-->
+<div class="nameday">
+<strong>2019. aprilis 24.</strong>
+
+| Gyorgy	</div>
+<!--END Nameday-->
+
+<!--WeatherWidget-->
+<!--End WeatherWidget-->
+
+<div class="topmenu">
+<ul>
+<li>
+<form action="https://www.eger.hu/search" method="post">
+<input class="inp_text" type="text" name="sparams[search_req]" placeholder="Keresendo szoveg" />
+<input type="submit" class="search" />
+<!--<a class="search" href="https://www.eger.hu/search"></a>-->
+</form>
+</li>
+
+<li clss="social_select">
+<a class="social" href="http://www.facebook.com/pages/Eger-V%C3%A1ros-Hivatalos-Oldala/191133190940518" target=_blank></a>
+<ul class="social_layer">
+<li><a href="http://www.facebook.com/pages/Eger-V%C3%A1ros-Hivatalos-Oldala/191133190940518">Facebook</a></li>
+</ul>
+</li>
+<li><a class="mail tooltip" href="#newsletter_div" rel="leanModal"><span>Hirlevel</span></a></li>
+<li><a class="webcam tooltip" href="http://doboter.eger.hu" target=_blank><span>Webkamera</span></a></li>
+<li><a class="rss tooltip" href="rss/hu" target=_blank><span>RSS</span></a></li>
+<li class="langselect">
+<a class="lang" href="?lang=1">HUN</a>
+<ul class="langselect_layer">
+<li><a href="?lang=1">HUN</a></li>
+<li><a href="?lang=2">ENG</a></li>
+<li><a href="?lang=3">GER</a></li>
+<li><a href="?lang=4">POL</a></li>
+</ul>
+<div class="clear"></div>
+</li>
+<li class="last"><a class="blid" href="?blind=1"></a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<!--END Topmenu-->
+</div>
+
+<div class="wrapper">
+<!--<div class="test_ribbon"><img src="public/images/test_ribbon_1.png" /></div>-->
+<div class="maincont">
+<!--Header-->
+<div class="header page" data-aid="">
+<div id="newsletter_div">
+<div class="newsletter_header">
+<div class="newsletter_header_left"></div>
+<div class="newsletter_header_right">
+<h2>Hirlevel feliratkozas</h2>
+</div>
+</div>
+
+<a class="modal_close" href="#"></a>
+<form action="post" id="subscribe">
+<label>Hogyan szolitsuk:</label>
+<input class="text" type="text" name="newsletter_name" id="newsletter_name" />
+
+<label>Email cim:</label>
+<input class="text" type="text" name="newsletter_email" id="newsletter_email" />
+
+
+<div class="checkbox_container">
+<label><input class="checkbox" name="newsletter_cat[]" type="checkbox" value="2" />Hirek</label>
+<label><input class="checkbox" name="newsletter_cat[]" type="checkbox" value="4" />Onkormanyzat</label>
+<label><input class="checkbox" name="newsletter_cat[]" type="checkbox" value="8" />Adougyek</label>
+</div>
+<input type="submit" value="Feliratkozas" class="button" />
+</form>
+<div id="err_message"></div>
+<div id="success_message"></div>
+</div>
+<!--Header Left-->
+<div class="header_left">
+<a href="https://www.eger.hu/hu/"><img src="public/images/mainlogo_1.png" alt="Eger.hu" class="logo" /></a>
+<a href="https://www.eger.hu/hu/"><img src="public/images/mainlogo_blind.png" alt="Eger.hu" class="logo_blind" /></a>
+<div class="clear"></div>
+
+<!--MainMenu-->
+<div class="navbar">
+<ul>
+<li class="main_nav calendar_blind"><a href="https://www.eger.hu//event">Esemenynaptar</a></li>
+<li class="main_nav">
+<a href="https://www.eger.hu/hu/varos">Varos</a>
+<ul class="sbc2_nav">
+<li><a href="https://www.eger.hu/hu/varos/borkultura-es-gasztronomia">Borkultura es gasztronomia</a></li>
+<li><a href="https://www.eger.hu/hu/varos/kulturalis-partnerek">Kulturalis partnerek</a></li>
+<li><a href="https://www.eger.hu/hu/varos/szinhazak">Szinhazak</a></li>
+<li><a href="https://www.eger.hu/hu/varos/tortenelmi-nevezetessegek">Tortenelmi nevezetessegek</a></li>
+<li><a href="https://www.eger.hu/hu/varos/oktatas-409">Oktatas</a></li>
+<li><a href="https://www.eger.hu/hu/varos/civilek-fiatalok-437">Civilek, fiatalok</a></li>
+<li><a href="https://www.eger.hu/hu/varos/okmanyiroda">Okmanyiroda</a></li>
+<li><a href="https://www.eger.hu/hu/varos/egeszsegugy">Egeszsegugy</a></li>
+<li><a href="https://www.eger.hu/hu/varos/fejlesztesi-projektek">Fejlesztesi projektek</a></li>
+<li><a href="http://varoskartya.eger.hu/">Varoskartya</a></li>
+<li><a href="https://www.eger.hu/hu/varos/kozlekedes">Kozlekedes</a></li>
+<li><a href="https://www.eger.hu/hu/varos/kornyezetvedelem-425">Kornyezetvedelem</a></li>
+<li><a href="https://www.eger.hu/hu/varos/szocialis-es-gyermekjoleti-szolgaltatasok">Szocialis es gyermekjoleti szolgaltatasok</a></li>
+<li><a href="https://www.eger.hu/hu/varos/dobo-teri-webkamera">Dobo teri webkamera</a></li>
+<li><a href="https://www.eger.hu/hu/varos/1956">1956</a></li>
+<li><a href="https://www.eger.hu/hu/varos/egri-ertektar">Egri Ertektar</a></li>
+<li><a href="https://www.eger.hu/hu/varos/ekf2023-eger">EKF2023 Eger</a></li>
+<li><a href="https://www.eger.hu/hu/varos/m25">M25</a></li>
+<li><a href="https://www.eger.hu/hu/varos/kutyabarat-2011">Kutyabarat</a></li>
+<li><a href="https://www.eger.hu/hu/varos/testvervarosok">Testvervarosok</a></li>
+<li><a href="https://www.eger.hu/hu/varos/egri-helyi-kozosseg-clld">Egri Helyi Kozosseg - CLLD</a></li>
+<li><a href="https://www.eger.hu/hu/varos/clld-kulcsprojekt">CLLD - Kulcsprojekt</a></li>
+<li><a href="https://www.eger.hu/hu/varos/clld-ziffer-sandor-galeria-fejlesztese">CLLD - Ziffer Sandor Galeria fejlesztese</a></li>
+<li><a href="https://www.eger.hu/hu/varos/clld-infrastrukturalis-fejlesztesek">CLLD - Infrastrukturalis fejlesztesek</a></li>
+<li><a href="https://www.eger.hu/hu/varos/clld-programok-szervezese">CLLD- Programok szervezese</a></li>
+</ul>
+</li>
+<li class="main_nav">
+<a href="https://www.eger.hu/hu/hirek">Hirek</a>
+<ul class="sbc2_nav">
+<li><a href="https://www.eger.hu/hu/hirek/egri-magazin">Egri Magazin</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/vezeto-hirek">Vezeto hirek</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/tudomany">Tudomany</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/gazdasag">Gazdasag</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/sport">Sport</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/politika">Politika</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/kultura">Kultura</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/onkormanyzat-374">Onkormanyzat</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/oktatas">Oktatas</a></li>
+</ul>
+</li>
+<li class="main_nav">
+<a href="https://www.eger.hu/hu/onkormanyzat">Onkormanyzat</a>
+<ul class="sbc2_nav">
+<li><a href="https://www.eger.hu/hu/onkormanyzat/uvegzseb">Uvegzseb</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozerdeku-adatok">Kozerdeku adatok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozbeszerzes">Kozbeszerzes</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozgyules">Kozgyules</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/bizottsagok-es-jegyzokonyveik">Bizottsagok es jegyzokonyveik</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/bizottsagi-ulesek-489">Bizottsagi ulesek</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/onkormanyzati-tarsasagok-188">Onkormanyzati tarsasagok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/onkormanyzati-tarsulasok-475">Onkormanyzati tarsulasok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/onkormanyzati-alapitvanyok-189">Onkormanyzati alapitvanyok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/koltsegvetesi-szervek">Koltsegvetesi szervek</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozszolgaltatas">Kozszolgaltatas</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/koncepciok">Koncepciok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/nemzetisegek">Nemzetisegek</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/valasztas">Valasztas</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/egyuttmukodo-partnereink">Egyuttmukodo partnereink</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/egri-ifjusagi-zenei-program">Egri Ifjusagi Zenei Program</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/startup-eger-program">Startup Eger Program</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/akadalymentesites">Akadalymentesites</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/eghajlatvedelem">Eghajlatvedelem</a></li>
+</ul>
+</li>
+<li class="main_nav">
+<a href="https://www.eger.hu/hu/adougyek">Adougyek</a>
+<ul class="sbc2_nav">
+<li><a href="https://www.eger.hu/hu/adougyek/hirek-aktualitasok">Hirek, aktualitasok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/iform-nyomtatvanyok-kitoltesi-utmutatoi-ohp-">IFORM NYOMTATVANYOK KITOLTESI UTMUTATOI (OHP)</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/jogszabalyok">Jogszabalyok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/ugyleirasok">Ugyleirasok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/tajekoztatok">Tajekoztatok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/bevallasi-es-bejelentkezesi-nyomtatvanyok">Bevallasi es bejelentkezesi nyomtatvanyok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/szamlaszamok">Szamlaszamok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/adonaptar-469">Adonaptar</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/meltanyossagi-kerelmek">Meltanyossagi kerelmek</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/egyeb-kerelmek">Egyeb kerelmek</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/egyeb-nyomtatvanyok">Egyeb nyomtatvanyok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/iparuzesi-ado-felhasznalasi-javaslat">Iparuzesi ado felhasznalasi javaslat</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/szallashely-ugyintezes/adatszolgaltatasi-urlap">Adatszolgaltatasi urlap</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/elektronikus-ugyintezes-205">Elektronikus ugyintezes</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/elektronikus-ado-rendszer">Elektronikus Ado Rendszer</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/ellenorzesi-eljaras-elektronikus-ugyei-2031">Ellenorzesi eljaras elektronikus ugyei</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/szallashely-ugyintezes/sajtotajekoztato">Sajtotajekoztato</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/szallashely-ugyintezes/kamatszamitasi-tajekoztato">Kamatszamitasi tajekoztato</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/szallashely-ugyintezes">Szallashely ugyintezes</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/hagyateki-ugyintezes">Hagyateki ugyintezes</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/adotartozok-listaja">Adotartozok listaja</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/online-feliratkozas">Online feliratkozas</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/gyakori-kerdesek">Gyakori kerdesek</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/hirdetmenyi-kozles">Hirdetmenyi kozles</a></li>
+<li><a href="#newsletter_div" rel="leanModal" class="taxCasePopup">Hirlevel feliratkozas</a></li>
+</ul>
+</li>
+<li class="main_nav">
+<a href="https://www.eger.hu/hu/varoshaza-fo">Varoshaza</a>
+<ul class="sbc2_nav">
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/vezetes">Vezetes</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/irodak">Irodak</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/hatosagi-ugyintezes">Hatosagi ugyintezes</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/palyazatok-hirdetmenyek-17">Palyazatok, hirdetmenyek</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/foepiteszi-iroda-hirei">Foepiteszi Iroda hirei</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/telepules-szerkezeti-terv">Telepules szerkezeti terv</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/szabalyozasi-tervek">Szabalyozasi tervek</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/alaptevekenyseg">Alaptevekenyseg</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/szervezeti-felepites">Szervezeti felepites</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/adatszolgaltatas">Adatszolgaltatas</a></li>
+<li><a href="https://www.eger.hu/hu/varoshaza-fo/torvenyessegi-ellenorzes">Torvenyessegi ellenorzes</a></li>
+</ul>
+</li>
+
+</ul>
+<div class="clear"></div>
+</div>
+<!--END MainMenu-->
+</div>
+<!--END Header Left-->
+
+<!--END Header Right-->
+<div class="clear"></div>                                    </div>
+<!--END Header-->
+<!--Highlight Box-->
+<!--<div class="highlight_box2">
+<a href="https://www.eger.hu/polgarmesteri-koszonto/gd">
+<span class="description">Udvozlom!</span>
+</a>
+</div>-->
+<!--END Highlight Box-->
+
+<!--MainScroller -->
+<div class="slider_container">
+<div class="main_scroller">
+<div class="ms_wrapper" id="scroller">
+
+Warning: Invalid argument supplied for foreach() in /var/www/portal.eger.hu/protected/view/web/inc/quick_article_scroller_start.php on line 4
+</div>
+</div>
+<div class="ms_slider_next"></div>
+<div class="ms_slider_prew"></div>
+</div>
+<script type="text/javascript">
+$('.ms_wrapper .item').click(function() {
+window.location.href= $(this).attr('data-link');
+});
+
+//	Scrolled by user interaction
+$('#scroller').carouFredSel({
+auto : false,
+circular: false,
+infinite: false,
+items: 6,
+scroll: 1,
+prev: '.ms_slider_prew',
+next: '.ms_slider_next',
+//pagination: "#pager2",
+mousewheel: true,
+swipe: {
+onMouse: true,
+onTouch: true
+}
+});
+</script>
+<!--END MainScroller-->
+
+<div class="clear"></div>
+
+<div class="breadcrumb">
+<!--<a href="#">Onkormanyzat</a>&gt;<a href="#">Kozgyules</a>&gt;<a href="#">Keszulo Rendeletek</a>&gt;-->
+</div>
+
+<!--Content-->
+<div class="content">
+<!--LEFT Content-->
+<div class="content_separator"></div>
+<div class="left">
+<!-- Submenu level 3-->
+
+<!--<div class="banner_big"><a href="http://feszteger.hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/260_200px_feszteger_banner.jpg"></a></div>
+-->
+<!-- <div class="banner_big"><a href="http://operafesztival.hu/index.php/hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/BartokPlusz260x200.jpg"></a></div>-->
+
+<!--<div class="banner_small"><a href="http://www.szepasszonyvolgy.eu/" target=_blank>
+<img src="https://www.eger.hu//public/images/hotel_kodmon2.png"></a></div>-->
+
+<!--<div class="banner_small"><a href="http://minaretvendegszoba.hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/minaretvendegszoba.png"></a></div>-->
+
+<div class="banner_small"><a href="http://egriprogramok.hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/egriprogramok_banner_01.png"></a></div>
+
+<div class="banner_big"><a href="http://www.mediaeger.hu/hulladekgazdalkodas" target=_blank>
+<img src="https://www.eger.hu//public/images/banner2_20141222.png"></a></div>
+
+
+<!--    <div class="banner_small"><a href="http://www.agriatravel.hu" target=_blank>
+<img src="https://www.eger.hu//public/images/agriatravel.png"></a></div> -->
+
+<div class="banner_big"><a href="http://www.egertermal.hu" target=_blank>
+<img src="https://www.eger.hu//public/images/torokfurdo.png"></a></div>
+
+<!--<div class="banner_small"><a href="http://hotelszentistvan.hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/sztistvan.png"></a></div>
+-->
+
+<div class="banner_small"><a href="http://mediaeger.hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/egermedia_logo_eger_hu.png"></a></div>
+
+<div class="banner_small"><a href="http://varosgondozaseger.hu/" target=_blank>
+<img src="https://www.eger.hu//public/images/varosgondozas.png"></a></div>
+
+<div class="banner_big"><a href="http://megujul.eger.hu" target=_blank>
+<img src="https://www.eger.hu//public/images/banner_eger_hu3.png"></a></div>
+
+<!--<div class="banner_big"><a href="http://www.nfu.hu" target=_blank>
+<img src="https://www.eger.hu//public/images/logoz.jpg"></a></div>
+-->
+<div class="clear"></div>
+<!-- END Submenu Level3-->
+</div>
+<!--END Left Content-->
+
+<!-- Main Content -->
+<div class="main">
+
+<h1>404! A kert oldal nem talalhato, vagy nem letezik az adott nyelven!</h1>                    </div>
+<!-- END Main Content-->
+<div class="clear"></div>
+</div>
+<!--END Content-->
+<div class="clear"></div>
+</div>
+
+
+<!-- Footer -->
+<div class="footer">
+<div class="sitemap_container">
+<div class="sitemap_list">
+<div class="placeholder"></div>
+<a href="https://www.eger.hu/hu/varos"><span class="f_title">Varos</span></a>
+<ul>
+<li><a href="https://www.eger.hu/hu/varos/szinhazak">Szinhazak</a></li>
+<li><a href="https://www.eger.hu/hu/varos/kulturalis-partnerek">Kulturalis partnerek</a></li>
+<li><a href="https://www.eger.hu/hu/varos/borkultura-es-gasztronomia">Borkultura es gasztronomia</a></li>
+<li><a href="https://www.eger.hu/hu/varos/tortenelmi-nevezetessegek">Tortenelmi nevezetessegek</a></li>
+<li><a href="https://www.eger.hu/hu/varos/oktatas-409">Oktatas</a></li>
+<li><a href="https://www.eger.hu/hu/varos/civilek-fiatalok-437">Civilek, fiatalok</a></li>
+<li><a href="https://www.eger.hu/hu/varos/okmanyiroda">Okmanyiroda</a></li>
+<li><a href="https://www.eger.hu/hu/varos/egeszsegugy">Egeszsegugy</a></li>
+<li><a href="https://www.eger.hu/hu/varos/fejlesztesi-projektek">Fejlesztesi projektek</a></li>
+<li><a href="http://varoskartya.eger.hu/">Varoskartya</a></li>
+</ul>
+</div>
+<div class="sitemap_list">
+<div class="placeholder"></div>
+<a href="https://www.eger.hu/hu/hirek"><span class="f_title">Hirek</span></a>
+<ul>
+<li><a href="https://www.eger.hu/hu/hirek/egri-magazin">Egri Magazin</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/vezeto-hirek">Vezeto hirek</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/tudomany">Tudomany</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/gazdasag">Gazdasag</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/sport">Sport</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/politika">Politika</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/kultura">Kultura</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/onkormanyzat-374">Onkormanyzat</a></li>
+<li><a href="https://www.eger.hu/hu/hirek/oktatas">Oktatas</a></li>
+</ul>
+</div>
+<div class="sitemap_list">
+<div class="placeholder"></div>
+<a href="https://www.eger.hu/hu/onkormanyzat"><span class="f_title">Onkormanyzat</span></a>
+<ul>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozerdeku-adatok">Kozerdeku adatok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/uvegzseb">Uvegzseb</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozbeszerzes">Kozbeszerzes</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/kozgyules">Kozgyules</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/bizottsagok-es-jegyzokonyveik">Bizottsagok es jegyzokonyveik</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/bizottsagi-ulesek-489">Bizottsagi ulesek</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/onkormanyzati-tarsasagok-188">Onkormanyzati tarsasagok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/onkormanyzati-tarsulasok-475">Onkormanyzati tarsulasok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/onkormanyzati-alapitvanyok-189">Onkormanyzati alapitvanyok</a></li>
+<li><a href="https://www.eger.hu/hu/onkormanyzat/koltsegvetesi-szervek">Koltsegvetesi szervek</a></li>
+</ul>
+</div>
+<div class="sitemap_list">
+<div class="placeholder"></div>
+<a href="https://www.eger.hu/hu/adougyek"><span class="f_title">Adougyek</span></a>
+<ul>
+<li><a href="https://www.eger.hu/hu/adougyek/hirek-aktualitasok">Hirek, aktualitasok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/iform-nyomtatvanyok-kitoltesi-utmutatoi-ohp-">IFORM NYOMTATVANYOK KITOLTESI UTMUTATOI (OHP)</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/jogszabalyok">Jogszabalyok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/ugyleirasok">Ugyleirasok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/tajekoztatok">Tajekoztatok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/bevallasi-es-bejelentkezesi-nyomtatvanyok">Bevallasi es bejelentkezesi nyomtatvanyok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/szamlaszamok">Szamlaszamok</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/adonaptar-469">Adonaptar</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/meltanyossagi-kerelmek">Meltanyossagi kerelmek</a></li>
+<li><a href="https://www.eger.hu/hu/adougyek/egyeb-kerelmek">Egyeb kerelmek</a></li>
+</ul>
+</div>
+
+<div class="sitemap_list">
+<div class="placeholder last"></div>
+<a href="https://www.eger.hu/public/uploads/site/eger_hu-impresszum.pdf" target="_blank"><span class="f_title">Impresszum</span></a>
+<ul>
+<li><a href="https://www.eger.hu/">Eger Megyei Jogu Varos hivatalos honlapja</a></li>
+<!-- <li><a href="mailto:egpolgh@ph.eger.hu">3300 Eger, Dobo ter 2.</a></li>-->
+<li><a href="mailto:egpolgh@ph.eger.hu">Kozerdeku megkereses: egpolgh@ph.eger.hu</a></li>
+<li><a href="mailto:web@ph.eger.hu">Weboldallal kapcsolatos ugyek: web@ph.eger.hu </a></li>
+<li><a href="mailto:eger.hu@mediaeger.hu">Megjelenessel kapcsolatos megkereses: eger.hu@mediaeger.hu</a></li>
+<li><a href="/public/uploads/joginyilatkozat.pdf"  target=_blank>Jogi nyilatkozat</a></li>
+</ul>
+
+<img src="/public/images/AzEvHonlapjaLogo.png" class="awardLogo" alt="Az ev honlapja kulondij" />
+<div class="fogy_div">
+<a href="http://eger.hu/hu/hirek/vezeto-hirek/c/eger-a-fogyasztobarat-telepules" target=_blank>Fogyasztobarat Telepules lett Eger</a>
+</div>
+</div>
+
+<div class="clear"></div>
+</div>
+
+<div class="horline"></div>
+
+<div class="logo_content">
+<img class="footer_logo" src="https://www.eger.hu/public/images/footer_logo.png" />
+<span>Megyei Jogu Varos Polgarmesteri Hivatala, 3300 Eger, Dobo ter 2.</span>
+<!--<span>#COPYRIGHT#</span>-->
+<div class="clear"></div>
+</div>
+
+</div>
+<!-- END Footer -->
+
+</div>
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-3683072-3']);
+_gaq.push(['_setDomainName', 'eger.hu']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+</body>
+</html>
+<!--render : 0.028431s-->

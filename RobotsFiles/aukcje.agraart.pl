@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /live/eo/
+Disallow: /live/smieci/
+Disallow: /live/jar/
+Disallow: /live/OLD/
+Disallow: /live/images/
+Disallow: /include/
+Disallow: /admin/
+Disallow: /konrad/
+Disallow: /zdjecia/
+Disallow: /img/

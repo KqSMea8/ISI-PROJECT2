@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /suggest.php?
+Disallow: /search.asp?
+Disallow: /business/
+Disallow: /Family-Products/Photo-Frame/Digital-photo-frames/
+Disallow: /Electric-Gifts/MP4/Ipod-Accessories/
+Disallow: /Mobile-Phone-Gifts-and-Accessories/Mobila-phone/Nokia/
+Disallow: /Mobile-Phone-Gifts-Accessories/
+Disallow: /Mobile-Phone-Gifts-and-Accessories/Mobila-phone/Samsung/
+Disallow: /Electric-Gifts/Radio/Solar-radios/
+Disallow: /Electric-Gifts/Bluetooth-headset/Alike-original-Bluetooth/
+Disallow: /Electric-Gifts/Bluetooth-headset/Bluetooth-Dongle/
+Disallow: /beauty-products/
+Disallow: /Office-Stationery-Gifts/Calendar/
+Disallow: /Electric-Gifts/Clock/PROJECTIVE-CLOCK/
+Disallow: /Electric-Gifts/Bluetooth-headset/Nokia-Bluetooth-Headset/

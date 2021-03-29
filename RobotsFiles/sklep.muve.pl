@@ -1,0 +1,16 @@
+User-agent: *
+
+Disallow: /profil/
+Disallow: /api/
+Disallow: /koszyk
+Disallow: /koszyk/
+Disallow: /szukaj?
+
+
+Allow: /profil/rejestracja
+Allow: /profil/zaloguj
+Allow: /szukaj
+
+User-agent: AhrefsBot
+disallow: /
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /konto.html
+Disallow: /rejestracja.html
+Disallow: /i12,reklamacje.html
+Disallow: /index.php?d=rejestracja
+Disallow: /index.php?d=login
+Disallow: /index.php?d=szukaj
+Disallow: /koszyk.html
+Disallow: /regulamin.html
+Disallow: /polityka-prywatnosci.html
+Disallow: /formularz-reklamacji.html
+Disallow: /admin

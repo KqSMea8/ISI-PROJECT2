@@ -1,0 +1,17 @@
+User-agent: Mediapartners-Google
+Disallow: /_back/
+Disallow: /_backup/
+Disallow: /cms/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /img_d/
+Disallow: /favicon.ico
+Disallow: /szukaj.php
+Disallow: /szukaj1.php
+Disallow: /dodaj.php
+Disallow: /login.php
+Disallow: /kontakt.php
+Disallow: /konkurs_rejestracja.php
+Disallow: /konkurs_login.php
+Disallow: /?strona=obiekty_lista.php

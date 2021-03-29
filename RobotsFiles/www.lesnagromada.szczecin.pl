@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Disallow: /search/*/feed
+Disallow: /search/*/*
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+#User-agent: ia_archiver-web.archive.org
+#Disallow: /
+
+Sitemap: http://www.lesnagromada.szczecin.pl/sitemap.xml
+

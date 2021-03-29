@@ -1,0 +1,5 @@
+<br />
+<b>Warning</b>:  include(static/404.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in <b>/domains/drzewka-rejman.pl/public_html/index.php</b> on line <b>105</b><br />
+<br />
+<b>Warning</b>:  include() [<a href='function.include'>function.include</a>]: Failed opening 'static/404.html' for inclusion (include_path='/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/app/model/build/classes:/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/app/lib/propel_runtime:.:/usr/local/php/php53/share/pear:/usr/local/share/pear:/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/:/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/app/lang:/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/app/lib:/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/app/utils:/home/rejman/domains/drzewka-rejman.pl/public_html/c_cms/app/lib/smarty_libs') in <b>/domains/drzewka-rejman.pl/public_html/index.php</b> on line <b>105</b><br />
+

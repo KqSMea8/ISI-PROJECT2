@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon"
+href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACZ0lEQVRYhe2UPWhUQRSFvxOWsAQRSeEGK0kdrCSlhVhorTaCSECMiiEGC50R27mFgqYIaArXSsTCHwSxEBERCxGbtQhBxDKEICFICCHkWuRFXzaJu2/drcyt3gzzznfmzuXATv3vpSKHZ4YGuoV63JtR9uW+6pfFRsdKRQyADrszISjnPQjw3EKwABoBXrfVgKCM2IdTVr53Drn1HDAGvGlGs2AHMp7q3u7PYhpnqPKg9mF9I4RQknQA+JZSmq/X6mrFAFvMgMNH4GQeHmMsSToK3Ab2bCVVuAPu2ZtnJrLWvxJcqFRr33PwbuAUsMvdX0hbz3vxDihrgLJv5zFwug5eAi4Du4FJScvbyRU2INZuLXxV8ExiuFKtzeXgZeA8MAPcTSltC4cWhxBYBt0Hv1qpfllY3wwh7AHOufsU8NLMVhoJtTADvihp3OFWPmhCCH2SzgLvzexts3oFDfi8pCvAo75qbSkH75d0xt2fm9nnIopFk/A98K5Sra2u78QYB4BhYMLMporpFTRQqdZ+v2mMsQvoB0bc/aaZfS0KL2ygDn4QOA7cMLPZVnRaMhBj7HL3I8AgYGa2KV47ZiCEUAJOSNrr7nfM7Oe/wAsZyNLtIrAATJrZUoNfmqqmkjDL9WvAEvAwpdQWODTRgRhjD2vROg08SSk1TLe2GYgx9rr7RUkfgdcppdW/nW+rgRBCHzAq6SnwqRPwbQ2EEPZLGgXuAdOdgsMWQ5hFqwHj7t5RONR1IMZ4ALggaczdZ82so/ANBmKMh4BjwPWU0o9OgzcYCCH0AoPuviLpUoyx3ZxV1gJspzbVL+0g4gUHWq69AAAAAElFTkSuQmCC"
+type="image/x-icon" />
+<link rel="icon"
+href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACZ0lEQVRYhe2UPWhUQRSFvxOWsAQRSeEGK0kdrCSlhVhorTaCSECMiiEGC50R27mFgqYIaArXSsTCHwSxEBERCxGbtQhBxDKEICFICCHkWuRFXzaJu2/drcyt3gzzznfmzuXATv3vpSKHZ4YGuoV63JtR9uW+6pfFRsdKRQyADrszISjnPQjw3EKwABoBXrfVgKCM2IdTVr53Drn1HDAGvGlGs2AHMp7q3u7PYhpnqPKg9mF9I4RQknQA+JZSmq/X6mrFAFvMgMNH4GQeHmMsSToK3Ab2bCVVuAPu2ZtnJrLWvxJcqFRr33PwbuAUsMvdX0hbz3vxDihrgLJv5zFwug5eAi4Du4FJScvbyRU2INZuLXxV8ExiuFKtzeXgZeA8MAPcTSltC4cWhxBYBt0Hv1qpfllY3wwh7AHOufsU8NLMVhoJtTADvihp3OFWPmhCCH2SzgLvzexts3oFDfi8pCvAo75qbSkH75d0xt2fm9nnIopFk/A98K5Sra2u78QYB4BhYMLMporpFTRQqdZ+v2mMsQvoB0bc/aaZfS0KL2ygDn4QOA7cMLPZVnRaMhBj7HL3I8AgYGa2KV47ZiCEUAJOSNrr7nfM7Oe/wAsZyNLtIrAATJrZUoNfmqqmkjDL9WvAEvAwpdQWODTRgRhjD2vROg08SSk1TLe2GYgx9rr7RUkfgdcppdW/nW+rgRBCHzAq6SnwqRPwbQ2EEPZLGgXuAdOdgsMWQ5hFqwHj7t5RONR1IMZ4ALggaczdZ82so/ANBmKMh4BjwPWU0o9OgzcYCCH0AoPuviLpUoyx3ZxV1gJspzbVL+0g4gUHWq69AAAAAElFTkSuQmCC"
+type="image/x-icon" />
+
+<meta name="author" content="Stabsoft, Grzegorz Martowski" />
+<meta name="copyright" content="2014 Stabsoft Wroclaw" />
+<meta name="description" content="Projektowanie stron internetowych Wroclaw, szablony stron WWW, podpiecie pod system zarzadzania trescia CMS,
+projekty stron na szablonach Wordpress, projekty stron zgodne z RWD - Responsive Web Design, Webmastering, Webdesign, Webdevelopment,
+strony internetowe firm, prywatne, blogi, portfolia, strony WWW na zamowienie" />
+<meta name="keywords" content="Projektowanie stron WWW, strony internetowe Wroclaw, projekty serwisow WWW Wroclaw, projektowanie stron internetowych
+Wroclaw, projekty stron WWW Wroclaw, strony prywatne, blogi, portfolia, strony WWW dla firm, Stabsoft Wroclaw" />
+<meta name="robots" content="index,follow" />
+<meta name="googlepray" content="Google please rank my site well" />
+<title>Stabsoft - Webdesign, Grzegorz Martowski, projekty stron internetowych, tworzenie stron internetowych, tworzenie serwisow internetowych,
+projektowanie stron, cms, portfolio, blog, serwisy WWW, Wroclaw ul.Swieza 18, strony WWW na zamowienie, zarzadzanie www, szablony, ciecie do
+PSD,
+Wordpress CMS, Wroclaw strony WWW, tworzenie sklepow internetowych, skNlepy internetowe Wroclaw projekty</title>
+<link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&amp;subset=latin-ext" rel="stylesheet">
+</head>
+<body>
+<div id="app"></div>
+<script src="/bundle.js"></script>
+<div id="portal"></div>
+<script type="text/javascript" src="/1.bundle.js"></script><script type="text/javascript" src="/bundle.js"></script></body>
+</html>
+

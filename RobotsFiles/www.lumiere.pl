@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: address_book_process.php
+Disallow: account.php
+Disallow: account_edit.php
+Disallow: account_edit_process.php
+Disallow: account_history.php
+Disallow: account_history_info.php
+Disallow: address_book.php
+Disallow: checkout_process.php
+Disallow: checkout_address.php
+Disallow: checkout_confirmation.php
+Disallow: checkout_payment.php
+Disallow: checkout_success.php
+Disallow: contact_us.php
+Disallow: create_account.php
+Disallow: create_account_guest.php
+Disallow: create_account_process.php
+Disallow: create_account_success.php
+Disallow: info_shopping_cart.php
+Disallow: privacy.php
+Disallow: admin/
+Disallow: export/
+Disallow: download/
+Disallow: includes/
+Disallow: pub/
+Disallow: media/
+Disallow: images/
+Disallow: paletykolorow/
+Disallow: stary/
+User-agent:  CTBOT
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 120
+

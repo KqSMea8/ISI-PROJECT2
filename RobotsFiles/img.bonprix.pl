@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wishlist/*
+Disallow: /formularz-zamowienia/*
+Disallow: /myaccount/*
+Disallow: /moje-konto/*
+Disallow: /koszyk/*
+Disallow: /cart/*
+Disallow: /checkout/*
+Disallow: /newsletter/*
+Disallow: /mstatic/*
+Disallow: /sprite4u/*
+Disallow: /ext/*
+Disallow: /bp/*
+Disallow: /produkt/*
+Disallow: /szukaj/*
+Disallow: /voting_tak_nie
+Disallow: /powrot-do-zakupow
+
+Sitemap: https://www.bonprix.pl/sitemap.xml

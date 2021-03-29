@@ -1,0 +1,12 @@
+# Rule 1
+User-agent: Googlebot
+Disallow: /admin/
+
+# Rule 2
+User-agent: Googlebot
+Disallow: /login/
+
+# Rule 2
+User-agent: *
+Allow: /
+

@@ -1,0 +1,4 @@
+Sitemap: http://czarnow-ski.pl/sitemap.xml
+
+User-agent: *
+Crawl-Delay: 300

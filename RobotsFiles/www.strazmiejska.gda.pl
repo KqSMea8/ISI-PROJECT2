@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /js/
+Disallow: /lib/
+Disallow: /assets/
+Disallow: /translation/
+Disallow: /strazmiejska.gda.pl/blog/2014/11/06/bezpieczenstwo-na-drodze-tematem-viii-olimpiady
+Disallow: /aktualnosci/jasien,a,5554
+Disallow: /aktualnosci/ujescisko-lostowice,a,5574
+Disallow: /aktualnosci/kokoszki,a,5555
+Disallow: /aktualnosci/brzezno,a,5552
+Disallow: /aktualnosci/matarnia,a,5558
+Disallow: /aktualnosci/srodmiescie,a,5573
+Disallow: /aktualnosci/,a,5857
+Disallow: /link/3159/ods-nierz-dasz-rade

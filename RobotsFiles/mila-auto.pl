@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Disallow: /regulamin/
+Disallow: /?lang=en
+Disallow: /regulamin/?lang=en
+Disallow: /cennik/?lang=en
+Disallow: /kontakt/?lang=en
+Disallow: /samochod-zastepczy-z-oc-sprawcy/?lang=en
+Disallow: /firma-mila/?lang=en
+Disallow: /samochod-zastepczy-z-oc/?/feed/
+Disallow: /samochod-zastepczy-z-oc/?lang=en
+Disallow: /samochody/
+Disallow: /kontakt/?/feed/
+Disallow: /lista/bez-kategorii/
+Disallow: /author/admin/?lang=en
+Disallow: /wp-content/
+Disallow: /regulamin/?/feed/
+Disallow: /lista/laweta-autolaweta-katowice/
+Disallow: /samochod-do-slubu-katowice/
+Disallow: /lista/wynajem-wypozyczalnia-busow-katowice/?lang=en
+Disallow: /lista/wypozyczalnia-samochodow-osobowych/?lang=en
+Disallow: /samochod-do-slubu-katowice/?/feed/&lang=en

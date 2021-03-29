@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Updates/
+Disallow: /Process/
+Disallow: /cmsdesk/
+Disallow: /PADFiles/
+Disallow: /PressReleases/
+Disallow: /Tutorials/
+Disallow: /Beta/
+Disallow: /Activation/
+Disallow: /Surveys/
+Disallow: /Support/Survey/

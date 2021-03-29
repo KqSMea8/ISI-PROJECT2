@@ -1,0 +1,39 @@
+# 2019-04-24T09:13:26.373897+00:00
+User-agent: *
+
+Disallow: /widget-gallery.html
+Disallow: /*is_processing_in_mtk/
+Disallow: /*embed_popup/
+Disallow: /login/*/
+Disallow: /complete/*/
+Disallow: /associate/*
+Disallow: /disconnect/*
+Disallow: /*/login/
+Disallow: /*/register/
+Disallow: /*/logout/
+Disallow: /*/password-reset/*
+Disallow: /*/username-password-reset/*
+Disallow: /*/channel*
+
+
+Disallow: /*route/search-results/
+
+
+
+
+
+
+Sitemap: https://www.bikemap.net/sitemap-general.xml
+
+Sitemap: https://www.bikemap.net/sitemap-r-index-en.xml
+
+Sitemap: https://www.bikemap.net/sitemap-r-index-de.xml
+
+Sitemap: https://www.bikemap.net/sitemap-l-index-en.xml
+
+Sitemap: https://www.bikemap.net/sitemap-l-index-de.xml
+
+Sitemap: https://www.bikemap.net/sitemap-o-index-en.xml
+
+Sitemap: https://www.bikemap.net/sitemap-o-index-de.xml
+

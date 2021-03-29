@@ -1,0 +1,5 @@
+# Settings for all Webcrawlers
+User-agent: *
+# Allow everything by default
+Disallow:
+

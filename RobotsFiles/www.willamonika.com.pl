@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/
+Allow: /wp-content/plugins/
+Disallow: /wp-includes/
+#Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+#Disallow: */feed/
+Sitemap: http://www.willamonika.com.pl/sitemap_index.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /fischer/
+Disallow: /mocowania-ramowe-fischer.html
+Disallow: /index.php?id=potwierdzenie
+Disallow: /index_new.php
+Disallow: /kontakt_new.php
+Disallow: /zapytania
+Disallow: /search/
+Disallow: /sklep/

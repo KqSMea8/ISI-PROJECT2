@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /forum/viewtopic.php?p=
+Disallow: /forum/viewtopic.php?=&p=
+Disallow: /forum/viewtopic.php?t=
+Disallow: /forum/viewtopic.php?start=
+Disallow: /forum/*&view=previous
+Disallow: /forum/*&view=next
+Disallow: /forum/*&sid=
+Disallow: /forum/*&p=
+Disallow: /forum/*&sd=a
+Disallow: /forum/*&start=0

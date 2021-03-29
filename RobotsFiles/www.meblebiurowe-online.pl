@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /pl/text/16-Dostawa.php
+Disallow: /pl/text/17-Regulamin.php
+Disallow: /pl/text/21-Instrukcje.php
+Disallow: /sklep-logowanie.php
+Disallow: /sklep-koszyk.php
+Disallow: /pl/text/20-Polityka_Prywatnosci.php
+Disallow: /szukaj.php

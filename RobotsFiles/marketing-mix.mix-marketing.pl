@@ -1,0 +1,21 @@
+# robots.txt
+User-agent: *
+Disallow: /*?
+Disallow: /wp-
+Disallow: /feed/
+Disallow: */feed/
+Disallow: /cgi-bin/
+Disallow: /comments/
+Disallow: */comments/
+Disallow: /trackback/
+Disallow: */trackback/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/plugins/
+Allow: /
+
+Sitemap: http://mix-marketing.pl/sitemapindex.xml

@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /Corona_Skin_1.swf
+Disallow: /css/
+Disallow: /FLVPlayer_Progressive.swf
+Disallow: /images/
+Disallow: /ip.html
+Disallow: /js/
+Disallow: /logo.jpg
+Disallow: /Scripts/
+Disallow: /style.css

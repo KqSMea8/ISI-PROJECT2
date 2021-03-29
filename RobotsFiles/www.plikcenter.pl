@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Allow: /Producent_IT/
+Allow: /Producent_IT/Produkty/
+Disallow: /DOPOBRANIA
+Disallow: /PRYWATNE
+Disallow: /RSS
+Disallow: /SERWIS
+Disallow: /TVHP
+Disallow: /ZADANIA
+Disallow: /_ShareFiles250
+Disallow: /_VatPro
+Disallow: /___aukcje
+Disallow: /_stats
+Disallow: /backup
+Disallow: /baza_diff
+Disallow: /lc
+Disallow: /licencja
+Disallow: /newsletter
+Disallow: /wu
+Disallow: /TVHP
+

@@ -1,0 +1,6 @@
+Sitemap: http://www.parkme.com/sitemap.xml
+User-agent: *
+Disallow: /accounts/
+Disallow: /reservations/
+Disallow: /paypal_reservations/
+

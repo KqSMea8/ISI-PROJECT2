@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /foto/
+Disallow: /foto1/
+Disallow: /a_joomla2/
+Disallow: /statystyka/
+Disallow: /_eng/
+Disallow: /strona/
+Disallow: /twatch/
+Sitemap: http://www.gran-pik.pl/index.php?option=com_sefservicemap&amp;task=xmlmapindex&amp;no_html=1
+

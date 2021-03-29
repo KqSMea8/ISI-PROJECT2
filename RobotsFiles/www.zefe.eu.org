@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /infobiz_admin/
+Disallow: /admin//
+Disallow: /*mod=71*
+Disallow: /*mod=230*
+Disallow: /contact.php/
+Disallow: /infobiz_server.php?mod=71
+
+Allow: /
+
+
+User-agent: msnbot
+Crawl-delay: 3
+
+User-agent: bingbot/2.0
+Crawl-delay: 3
+

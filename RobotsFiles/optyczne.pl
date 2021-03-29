@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /test/
+Disallow: /lib/
+Disallow: /ads/
+Disallow: /sklepl.php*
+Disallow: /sklepp.php*
+Disallow: /sklepl.php$
+Disallow: /sklepp.php$
+Disallow: /sklepl.php
+Disallow: /sklepp.php
+Disallow: /lista.php$
+Disallow: /lista.php
+Disallow: /redirect.php
+
+

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /autosuggest/location/
+Disallow: /autosuggest/
+Disallow: /geolocation/
+Disallow: /search/
+Disallow: /contact/
+Disallow: /social/
+Disallow: /form/
+Disallow: /front/cache/
+Disallow: /infowindow/
+Disallow: /phone_number/
+Disallow: /customer_tracker/
+Disallow: /auth/
+Disallow: /crtr/

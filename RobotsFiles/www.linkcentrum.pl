@@ -1,0 +1,15 @@
+Sitemap: http://www.linkcentrum.pl/files/map_site-0.xml
+User-agent: *
+Disallow: /szukaj/*
+Disallow: /dodaj,strone/
+Disallow: /admin/*
+Disallow: /regulamin/
+Disallow: /rules/
+Disallow: /jak,dodac,strone/
+Disallow: /help/
+Disallow: /kontakt/
+Disallow: /contact/
+Disallow: /?action=premium*
+Disallow: /?action=report*
+Disallow: /?action=tag*
+Disallow: /linkcentrumpp

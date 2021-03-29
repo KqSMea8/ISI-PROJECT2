@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Sitemap: http://superksiegi.pl/sitemap_index.xml
+Disallow: /polityka-prywatnosci
+Disallow: /polityka-prywatnosci/*
+Disallow: /obowiazek-informacyjny
+Disallow: /obowiazek-informacyjny/*
+Disallow: /*.pdf

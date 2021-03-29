@@ -1,0 +1,217 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+
+# URLs with specific query parameters for list-pages
+Disallow: /*?page*
+Disallow: /*?cat*
+Disallow: /*?keys*
+
+######################
+# German site version
+######################
+# Directories
+Disallow: /de/core/
+Disallow: /de/profiles/
+# Files
+Disallow: /de/README.txt
+Disallow: /de/web.config
+# Paths (clean URLs)
+Disallow: /de/admin/
+Disallow: /de/comment/
+Disallow: /de/filter/tips
+Disallow: /de/node/add/
+Disallow: /de/search/
+Disallow: /de/user/register/
+Disallow: /de/user/password/
+Disallow: /de/user/login/
+Disallow: /de/user/logout/
+# Paths (no clean URLs)
+Disallow: /de/index.php/admin/
+Disallow: /de/index.php/comment/
+Disallow: /de/index.php/filter/tips
+Disallow: /de/index.php/node/add/
+Disallow: /de/index.php/search/
+Disallow: /de/index.php/user/password/
+Disallow: /de/index.php/user/register/
+Disallow: /de/index.php/user/login/
+Disallow: /de/index.php/user/logout/
+
+######################
+# English site version
+######################
+# Directories
+Disallow: /en/core/
+Disallow: /en/profiles/
+# Files
+Disallow: /en/README.txt
+Disallow: /en/web.config
+# Paths (clean URLs)
+Disallow: /en/admin/
+Disallow: /en/comment/
+Disallow: /en/filter/tips
+Disallow: /en/node/add/
+Disallow: /en/search/
+Disallow: /en/user/register/
+Disallow: /en/user/password/
+Disallow: /en/user/login/
+Disallow: /en/user/logout/
+# Paths (no clean URLs)
+Disallow: /en/index.php/admin/
+Disallow: /en/index.php/comment/
+Disallow: /en/index.php/filter/tips
+Disallow: /en/index.php/node/add/
+Disallow: /en/index.php/search/
+Disallow: /en/index.php/user/password/
+Disallow: /en/index.php/user/register/
+Disallow: /en/index.php/user/login/
+Disallow: /en/index.php/user/logout/
+
+######################
+# French site version
+######################
+# Directories
+Disallow: /fr/core/
+Disallow: /fr/profiles/
+# Files
+Disallow: /fr/README.txt
+Disallow: /fr/web.config
+# Paths (clean URLs)
+Disallow: /fr/admin/
+Disallow: /fr/comment/
+Disallow: /fr/filter/tips
+Disallow: /fr/node/add/
+Disallow: /fr/search/
+Disallow: /fr/user/register/
+Disallow: /fr/user/password/
+Disallow: /fr/user/login/
+Disallow: /fr/user/logout/
+# Paths (no clean URLs)
+Disallow: /fr/index.php/admin/
+Disallow: /fr/index.php/comment/
+Disallow: /fr/index.php/filter/tips
+Disallow: /fr/index.php/node/add/
+Disallow: /fr/index.php/search/
+Disallow: /fr/index.php/user/password/
+Disallow: /fr/index.php/user/register/
+Disallow: /fr/index.php/user/login/
+Disallow: /fr/index.php/user/logout/
+
+#######################
+# Italian site version
+#######################
+# Directories
+Disallow: /it/core/
+Disallow: /it/profiles/
+# Files
+Disallow: /it/README.txt
+Disallow: /it/web.config
+# Paths (clean URLs)
+Disallow: /it/admin/
+Disallow: /it/comment/
+Disallow: /it/filter/tips
+Disallow: /it/node/add/
+Disallow: /it/search/
+Disallow: /it/user/register/
+Disallow: /it/user/password/
+Disallow: /it/user/login/
+Disallow: /it/user/logout/
+# Paths (no clean URLs)
+Disallow: /it/index.php/admin/
+Disallow: /it/index.php/comment/
+Disallow: /it/index.php/filter/tips
+Disallow: /it/index.php/node/add/
+Disallow: /it/index.php/search/
+Disallow: /it/index.php/user/password/
+Disallow: /it/index.php/user/register/
+Disallow: /it/index.php/user/login/
+Disallow: /it/index.php/user/logout/
+
+#######################
+# Spanish site version
+#######################
+# Directories
+Disallow: /es/core/
+Disallow: /es/profiles/
+# Files
+Disallow: /es/README.txt
+Disallow: /es/web.config
+# Paths (clean URLs)
+Disallow: /es/admin/
+Disallow: /es/comment/
+Disallow: /es/filter/tips
+Disallow: /es/node/add/
+Disallow: /es/search/
+Disallow: /es/user/register/
+Disallow: /es/user/password/
+Disallow: /es/user/login/
+Disallow: /es/user/logout/
+# Paths (no clean URLs)
+Disallow: /es/index.php/admin/
+Disallow: /es/index.php/comment/
+Disallow: /es/index.php/filter/tips
+Disallow: /es/index.php/node/add/
+Disallow: /es/index.php/search/
+Disallow: /es/index.php/user/password/
+Disallow: /es/index.php/user/register/
+Disallow: /es/index.php/user/login/
+Disallow: /es/index.php/user/logout/
+

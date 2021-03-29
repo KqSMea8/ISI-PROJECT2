@@ -1,0 +1,29 @@
+# robots.txt
+
+User-agent: *
+Disallow: /_includes
+Disallow: /_includes/smarty
+Disallow: /_templates
+Disallow: /_templates/default
+Disallow: /_tools
+Disallow: /_config
+Disallow: /js
+Disallow: /uploads
+Disallow: /admin
+Disallow: /search
+User-agent: Slurp
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow: /
+User-agent: Xenu's
+Disallow: /
+User-agent: SurveyBot
+Disallow: /
+User-agent: spbot
+Disallow: /

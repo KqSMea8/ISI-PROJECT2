@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /dev/
+Disallow: /libs/
+Disallow: /func/
+Disallow: /wyszukiwarka/
+Disallow: /groups/

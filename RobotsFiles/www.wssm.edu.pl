@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_application/
+Disallow: /_cache
+Disallow: /cms/
+Disallow: /css/
+Disallow: /dict/
+Disallow: /flash/
+Disallow: /gsmaster/
+Disallow: /js/
+Disallow: /stare/
+Disallow: /tmp/

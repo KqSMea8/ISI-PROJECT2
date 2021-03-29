@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /a,9,eventos-rico
+Disallow: /a,8,eventos-rico
+Disallow: /a,7,lancamentos-rico
+Disallow: /prasy-krawedziowe-prcb?rw=change_site&id=9
+Disallow: /prasy-krawedziowe-prcn?rw=change_site&id=8
+Disallow: /a,7,lancamentos-rico
+Disallow: /a,9,eventos-rico
+Disallow: /a,8,eventos-rico
+Disallow: /hgr-matic?rw=change_site&id=13
+Disallow: /prcb?rw=change_site&id=9
+Disallow: /hgr?rw=change_site&id=12
+Disallow: /prcn?rw=change_site&id=8

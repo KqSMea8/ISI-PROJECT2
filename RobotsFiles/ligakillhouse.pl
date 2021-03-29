@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /terminarz/action~posterboard/
+Disallow: /terminarz/action~agenda/
+Disallow: /terminarz/action~oneday/
+Disallow: /terminarz/action~month/
+Disallow: /terminarz/action~week/
+Disallow: /terminarz/action~stream/

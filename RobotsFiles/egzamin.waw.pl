@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /10293850/
+Disallow: /10293999/
+Disallow: /11293853/
+Disallow: /12345678/
+Disallow: /71839201/
+Disallow: /87654321/
+Disallow: /AT_baza/
+Disallow: /AT_baza_ustny/
+Disallow: /AT_nowa_baza/
+Disallow: /content/
+Disallow: /images/
+Disallow: /img/
+Disallow: /tmp/
+Disallow: /test/

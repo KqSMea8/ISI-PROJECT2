@@ -1,0 +1,12 @@
+user-agent: *
+disallow: /admin/
+disallow: /uploads/
+disallow: /index.php*
+disallow: /?act=*
+disallow: /zarejestruj-sie.htm
+disallow: /ZarejestrujSie.htm
+disallow: /przypomnij-haslo.htm
+disallow: /wyszukiwanie-zaawansowane.htm
+disallow: /pokaz-koszyk.htm
+disallow: /PokazZamowienia.htm
+allow: /

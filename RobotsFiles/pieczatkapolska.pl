@@ -1,0 +1,42 @@
+
+User-agent: *
+Disallow: /404/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /app/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product/gallery/
+Disallow: /catalog/product_compare/
+Disallow: /catalogsearch/
+Disallow: /cgi-bin/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /downloader/
+Disallow: /install/
+Disallow: /pkginfo/
+Disallow: /private/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /var/
+Disallow: /support_kontakt
+Disallow: /magic360/
+Disallow: /magiczoomplus/
+Disallow: /external/
+Disallow: /g3frontend/creator/
+Disallow: /*limit
+Disallow: /*order
+Disallow: /*creator_shape
+Disallow: /creator/
+Disallow: /*price
+Disallow: /*SID
+Disallow: /g3frontend/catalogsearch_advanced/
+Disallow: /catalog/product/gallery/id/
+Disallow: /checkout/
+Disallow: /checkout/cart/
+Disallow: /report/
+# fur bestimmte Aktionen sperren
+
+Allow:	/media/catalog/product/cache/

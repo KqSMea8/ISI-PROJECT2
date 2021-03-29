@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /fv/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /tinymce/
+Sitemap: https://podzielonymjajem.pl/sitemap.xml

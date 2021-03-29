@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /old/
+User-agent: *
+Disallow: /old
+User-agent: *
+Disallow: old/
+User-agent: *
+Disallow: /wp-admin/
+User-agent: *
+Disallow: /wp-login.php/

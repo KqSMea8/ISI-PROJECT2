@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /w/
+Disallow: /wniosek/
+Disallow: /potwierdzenie/
+Disallow: /uzupelnij_dane/
+Disallow: /uzupelnij-dane/
+Disallow: /niestety/
+Disallow: /dziekujemy/
+Disallow: /wniosek-zamkniety/
+Disallow: /api/
+Disallow: /lp/
+Allow: /lp/o_nas/
+Allow: /lp/lp1/

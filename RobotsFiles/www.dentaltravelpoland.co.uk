@@ -1,0 +1,11 @@
+User-agent: BLEXBot
+
+Disallow: /
+
+User-agent: Googlebot
+Allow:
+User-agent: *
+Allow: /
+
+
+Sitemap: http://www.dentaltravelpoland.co.uk/sitemap.xml

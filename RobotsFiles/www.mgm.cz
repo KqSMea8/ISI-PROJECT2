@@ -1,0 +1,10 @@
+Sitemap: http://www.mgm.cz/sitemap.xml
+
+User-agent: *
+Disallow: /admin/
+Disallow: /fotky_import/
+Disallow: /gopay/
+Disallow: /?vytvoreni_uzivatele
+Disallow: /?vytvoreni_uzivatele2
+Disallow: /?user
+Disallow: /?kosik

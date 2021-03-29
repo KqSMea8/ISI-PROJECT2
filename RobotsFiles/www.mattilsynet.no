@@ -1,0 +1,32 @@
+# -------------------------------------------------------------
+# robots.txt for www.mattilsynet.no
+# -------------------------------------------------------------
+#
+
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /pdf/
+Disallow: /sok/
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: /mattilsynet/
+Disallow: /intranett/
+Disallow: /Intranett/
+Disallow: /Intranet/
+Disallow: /incoming/
+Disallow: /bunnfelt/
+Disallow: /konfigurasjon/
+Disallow: /language/bunnfelt_tysk/
+Disallow: /planter_og_dyrking/plantevernmidler/autorisasjonskurs/
+Disallow: /om_mattilsynet/offentlig_journal_og_innsyn/Hovedkontoret/
+Disallow: /om_mattilsynet/offentlig_journal_og_innsyn/Region_Midt/
+Disallow: /om_mattilsynet/offentlig_journal_og_innsyn/Region_Nord/
+Disallow: /om_mattilsynet/offentlig_journal_og_innsyn/Region_Stor-Oslo/
+Disallow: /om_mattilsynet/offentlig_journal_og_innsyn/Region_S_r-Vest/
+Disallow: /om_mattilsynet/offentlig_journal_og_innsyn/Region__st/
+
+

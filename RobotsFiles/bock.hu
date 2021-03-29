@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/css/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+
+Sitemap: https://bock.hu/sitemap.xml
+

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/js/
+Allow: /wp-content/plugins/
+Disallow: /wp-includes/
+Allow: /wp-includes/*.js
+Allow: /wp-includes/*.css
+Disallow: /wp-content/cache/
+Disallow: */trackback/
+Disallow: */feed/
+Sitemap: http://koszulki-reklamowe.biz.pl/sitemap.xml

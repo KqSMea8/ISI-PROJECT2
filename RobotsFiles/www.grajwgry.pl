@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: */search?q
+Disallow: /*/play$
+Disallow: /*/play.html$
+Sitemap: https://poki.com/en/sitemaps/index.xml
+Sitemap: https://poki.com/ru/sitemaps/index.xml
+Sitemap: https://poki.com/id/sitemaps/index.xml
+Sitemap: https://poki.com/ua/sitemaps/index.xml
+Sitemap: https://poki.com/ar/sitemaps/index.xml
+Sitemap: https://poki.com/th/sitemaps/index.xml
+Sitemap: https://poki.com/kr/sitemaps/index.xml

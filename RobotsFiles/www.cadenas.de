@@ -1,0 +1,29 @@
+# Thu, 18 Aug 2011 10:15:50 +0000
+
+Sitemap: http://www.cadenas.de/sitemap_index.xml
+
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /system/
+Disallow: /templates/
+Disallow: /CHANGELOG.txt
+Disallow: /CHANGELOG.md
+Disallow: /siemens-plm-en
+Disallow: /siemens-plm-de
+Disallow: /de/splm
+Disallow: /en/splm
+Disallow: /files/cadenas/Downloads/non_public/
+Disallow: /download/index.asp
+Allow: 	  /partner
+Allow: 	  /partners
+Disallow: /partner/
+Disallow: /catalog_pdf/
+Disallow: /memo-spiel
+Disallow: /memo-game
+
+#YisouSpider
+User-agent: YisouSpider
+Disallow: /
+
+# End robots.txt file

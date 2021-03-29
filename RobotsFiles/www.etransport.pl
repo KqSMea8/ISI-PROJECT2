@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /img/
+Disallow: /reklama/
+Disallow: /inc/
+Disallow: /mojekonto
+

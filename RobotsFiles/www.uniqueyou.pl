@@ -1,0 +1,47 @@
+User-agent: *
+Crawl-delay: 30
+Request-rate: 1/1s
+
+User-agent: *
+Allow: /environment/cache/images/
+Disallow: /application/
+Disallow: /environment/
+Disallow: /libraries/
+
+Disallow: /*/fav/add/
+
+Disallow: /*/p/comment/add/
+Disallow: /*/p/mail/recommend/
+Disallow: /*/p/q/
+Disallow: /*/login/
+Disallow: /*/pl/basket
+Disallow: /*/pl/passremind
+Disallow: /*/pl/reg
+Disallow: /*/pl/s
+Disallow: /*/mobile/pl/i/Kontakt/10
+Disallow: /*/pl/s
+Disallow: /pl/index/2
+Disallow: /pl/index/3
+Disallow: /pl/index/4
+Disallow: /pl/s
+Disallow: /pl/new/1/desc
+Disallow: /en_GB/promotions
+Disallow: /*/reg/
+Disallow: /*/basket/
+Disallow: /*/searchquery/
+Disallow: /pl/reg
+Disallow: /czas-realizacji-zamowienia
+Disallow: /reklamacje-i-zwroty
+Disallow: /koszt-dostawy
+Disallow: /formy-platnosci
+Disallow: /jak-kupowac
+Disallow: /czeste-pytania
+Disallow: /polityka-prywatnosci
+Disallow: /regulamin-zakupow
+Disallow: /login
+Disallow: /Sprzedaz-Hurtowa
+Disallow: /Standardy
+Disallow: /o-nas
+Disallow: /pl/s
+Disallow: /Kalisson
+Disallow: /Bagoraz

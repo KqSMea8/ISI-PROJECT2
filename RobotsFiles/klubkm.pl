@@ -1,0 +1,60 @@
+User-agent: Googlebot
+Disallow: /forum/admincp/
+Disallow: /forum/ajax.php
+Disallow: /forum/attachments/
+Disallow: /forum/clientscript/
+Disallow: /forum/cpstyles/
+Disallow: /forum/images/
+Disallow: /forum/includes/
+Disallow: /forum/install/
+Disallow: /forum/modcp/
+Disallow: /forum/subscriptions/
+Disallow: /forum/customavatars/
+Disallow: /forum/customprofilepics/
+Disallow: /forum/announcement.php
+Disallow: /forum/attachment.php
+Disallow: /forum/calendar.php
+Disallow: /forum/cron.php
+Disallow: /forum/editpost.php
+Disallow: /forum/external.php
+Disallow: /forum/faq.php
+Disallow: /forum/frm_attach
+Disallow: /forum/image.php
+Disallow: /forum/inlinemod.php
+Disallow: /forum/joinrequests.php
+Disallow: /forum/login.php
+Disallow: /forum/member.php?
+Disallow: /forum/memberlist.php
+Disallow: /forum/misc.php
+Disallow: /forum/moderator.php
+Disallow: /forum/newattachment.php
+Disallow: /forum/newreply.php
+Disallow: /forum/newthread.php
+Disallow: /forum/online.php
+Disallow: /forum/payment_gateway.php
+Disallow: /forum/payments.php
+Disallow: /forum/poll.php
+Disallow: /forum/postings.php
+Disallow: /forum/printthread.php
+Disallow: /forum/private.php
+Disallow: /forum/profile.php
+Disallow: /forum/register.php
+Disallow: /forum/report.php
+Disallow: /forum/reputation.php
+Disallow: /forum/search.php
+Disallow: /forum/sendmessage.php
+Disallow: /forum/showgroups.php
+Disallow: /forum/subscription.php
+Disallow: /forum/usercp.php
+Disallow: /forum/threadrate.php
+Disallow: /forum/usercp.php
+Disallow: /forum/usernote.php
+Disallow: /forum/search.php
+# Request-rate: 2/5
+# maximum rate is one page every 5 seconds - moze narazie bez tego
+Visit-time: 0200-0500
+# only visit between 02:00 and 05:00 UTC (GMT)
+# czyli 3.00-6.00 czasu polskiego
+#inne
+User-agent: *
+Disallow: /

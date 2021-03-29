@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /zapowiedzi/action~posterboard/
+Disallow: /zapowiedzi/action~agenda/
+Disallow: /zapowiedzi/action~oneday/
+Disallow: /zapowiedzi/action~month/
+Disallow: /zapowiedzi/action~week/
+Disallow: /zapowiedzi/action~stream/
+Disallow: /zapowiedzi/action~undefined/
+Disallow: /zapowiedzi/action~http:/
+Disallow: /zapowiedzi/action~default/
+Disallow: /*controller=ai1ec_exporter_controller*

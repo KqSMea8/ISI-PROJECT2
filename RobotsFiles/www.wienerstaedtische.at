@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /suche.html
+Disallow: /wartung.html
+Disallow: /donau-filialsuche.html
+Disallow: /donau-aktiv.html
+Disallow: /tests/
+Disallow: /app-interface.html
+Disallow: /*?eID=tx_solr_suggest
+Disallow: /das-neue-intranet
+Disallow: /das-neue-intranet*
+Disallow: /online-abschluesse/
+Allow: /

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /koszyk/
+Disallow: /moje-konto/
+Disallow: /moje-zamowienia/
+Disallow: /zakupy/
+Disallow: /catalog/category/
+Disallow: /catalogsearch/
+Disallow: /wyszukiwanie/
+Disallow: /wyszukiwanie/wyniki
+Disallow: /*mode=old
+
+Noindex: /koszyk/
+Noindex: /moje-konto/
+Noindex: /moje-zamowienia/
+Noindex: /zakupy/
+Noindex: /catalog/category/
+Noindex: /catalogsearch/
+Noindex: /wyszukiwanie/
+Noindex: /wyszukiwanie/wyniki
+Noindex: /*mode=old

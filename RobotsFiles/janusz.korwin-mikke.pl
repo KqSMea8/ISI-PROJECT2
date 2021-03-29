@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /artykuly/drukuj/
+Disallow: /artykuly/polec/
+Disallow: /blog/violation/
+Disallow: /artykuly/violation/
+Disallow: /wideo/violation/
+Disallow: /galeria/violation/
+Disallow: /profile/zaloguj
+Disallow: /profile/rejestracja
+Disallow: /app/webroot/
+Disallow: /files/
+Disallow: /css/
+Disallow: /js/
+Disallow: /download/
+Allow: /

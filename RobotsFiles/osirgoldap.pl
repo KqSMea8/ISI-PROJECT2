@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kalendarz-wydarzen-sportowych/action~posterboard/
+Disallow: /kalendarz-wydarzen-sportowych/action~agenda/
+Disallow: /kalendarz-wydarzen-sportowych/action~oneday/
+Disallow: /kalendarz-wydarzen-sportowych/action~month/
+Disallow: /kalendarz-wydarzen-sportowych/action~week/
+Disallow: /kalendarz-wydarzen-sportowych/action~stream/
+Disallow: /kalendarz-wydarzen-sportowych/action~undefined/
+Disallow: /kalendarz-wydarzen-sportowych/action~http:/
+Disallow: /kalendarz-wydarzen-sportowych/action~default/
+Disallow: /kalendarz-wydarzen-sportowych/action~poster/
+Disallow: /kalendarz-wydarzen-sportowych/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

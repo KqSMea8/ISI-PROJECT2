@@ -1,0 +1,12 @@
+User-Agent: *
+Host: https://loto.by
+Disallow: /*?search_query=*
+Disallow: /*?part_id=*
+Disallow: /*?registration=*
+Disallow: /*?remind=*
+Disallow: /*?theme=*
+Disallow: /*?page=*
+Disallow: /upload/iblock/335/3352977be6bd1eb25779599fe2292b26.xls
+Sitemap: https://loto.by/sitemap.xml
+Sitemap: http://loto.by/sitemap.xml
+

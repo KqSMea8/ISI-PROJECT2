@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: https://dzikiezycie.pl/default/domain/sitemap
+Disallow: /public/js
+Disallow: /public/css
+Disallow: /public/files
+Disallow: /application
+Disallow: /library
+Disallow: /cache
+Disallow: /log

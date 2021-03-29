@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------------
+# ROBOTS EXCLUSION STANDARD
+# ---------------------------------------------------------------------
+# -- www.robotstxt.org
+# -- www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+# -- https://wiki.selfhtml.org/wiki/Grundlagen/Robots.txt
+# ---------------------------------------------------------------------
+
+#######################################################################
+
+# ---------------------------------------------------------------------
+# SEARCH ENGINE RULES
+# ---------------------------------------------------------------------
+
+User-agent: *
+Disallow:
+
+User-Agent: MJ12bot
+Crawl-Delay: 30
+
+# User-agent: Botname
+# Disallow: /dir/
+# Allow: /dir/public/
+# Disallow: /file.txt
+
+# ---------------------------------------------------------------------
+# SITEMAP LINKS
+# ---------------------------------------------------------------------
+
+Sitemap: https://www.lollishome.de/sitemap.xml
+Sitemap: https://www.lollishome.de/blog/sitemap.xml
+
+# ---------------------------------------------------------------------

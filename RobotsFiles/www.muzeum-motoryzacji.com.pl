@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /adm11mm/
+Disallow: /tmp/
+Disallow: /OLD/
+Disallow: /photo/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /sub/
+Disallow: /inc/
+Disallow: /gfx/
+Sitemap: http://www.muzeum-motoryzacji.com.pl/sitemap.xml

@@ -1,0 +1,52 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /class/
+Disallow: /comparisions/
+Disallow: /controller/
+Disallow: /cron/
+Disallow: /del/
+Disallow: /ext/
+Disallow: /inflavo/
+Disallow: /inpost/
+Disallow: /invoices/
+Disallow: /languages/
+Disallow: /lib/
+Disallow: /modules/
+Disallow: /payu/
+Disallow: /payu_checkout/
+Disallow: /postcode/
+Disallow: /sounds/
+Disallow: /tmp/
+Disallow: /dodano-do-koszyka/
+
+Disallow: /*recommend
+Disallow: /*question
+Disallow: /*-p*-store*.html$
+Disallow: /en/*
+Disallow: /pl/*
+Disallow: /*-r59.html$
+Disallow: /kategorie$
+Disallow: /*?promocje=true
+Disallow: /*?nowosci=true
+
+Disallow: /shopcart
+Disallow: /login
+Disallow: /storage
+Disallow: /regulamin-zakupow-r59.html
+Disallow: /reklamacje-i-zwroty-r73.html
+Disallow: /polityka-prywatnosci-r54.html
+Disallow: /jak-robic-zakupy-r78.html
+Disallow: /kupony-rabatowe-r53.html
+Disallow: /czas-realizacji-zamowien-r51.html
+Disallow: /cennik-wysylek-r52.html
+Disallow: /dostepnosc-produktow-r50.html
+Disallow: /jak-dokonac-rejestracji-r49.html
+Disallow: /bezpieczenstwo-dostaw-r60.html
+Disallow: /gratisowe-produkty-r1274.html
+Disallow: /blog/wp-admin
+
+Allow: /
+
+Sitemap: http://www.hairstore.pl/googlemap.xml
+Sitemap: http://www.hairstore.pl/blog/sitemap_index.xml

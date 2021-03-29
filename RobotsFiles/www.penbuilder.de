@@ -1,0 +1,28 @@
+#alle Robots
+User-agent: *
+Disallow: /__app/
+Disallow: /_test/
+Disallow: /cgi-bin/
+Disallow: /application/
+Disallow: /cache/
+Disallow: /data/
+Disallow: /flash/
+Disallow: /templates/
+Disallow: /media/Penbuilder/uploads/
+Disallow: /media/Partner/
+Disallow: /media/tmp/
+Disallow: /tmp/
+
+Allow: /cms/
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+
+Sitemap: https://www.ritter-pen.de/cms/sitemap.xml

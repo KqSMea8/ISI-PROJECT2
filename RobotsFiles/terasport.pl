@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /baner/
+Disallow: /funkcje/
+Disallow: /cms/
+Disallow: /css/
+Disallow: /funkcje/
+Disallow: /grafika/
+Disallow: /js/
+Disallow: /.private/

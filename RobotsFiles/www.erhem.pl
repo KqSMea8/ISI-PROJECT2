@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /panel/
+Disallow: /pages/
+Disallow: /languages/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /adodb/

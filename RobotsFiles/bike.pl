@@ -1,0 +1,3 @@
+#user-agent: szukacz
+#disallow: /
+

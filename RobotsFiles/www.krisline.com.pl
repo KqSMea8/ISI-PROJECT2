@@ -1,0 +1,1 @@
+User-Agent: AhrefsBotDisallow: /mobileUser-agent: rogerbotDisallow: /mobileUser-agent: MJ12botDisallow: /mobileUser-agent:*Disallow: /index1.phpDisallow: /product,products,155.htmlDisallow: /searchDisallow: /news$Disallow: /Wyprzedaze.2Disallow: /Prasa-1Disallow: /site,Disallow: /basketAllow: /

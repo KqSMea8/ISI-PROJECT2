@@ -1,0 +1,36 @@
+User-agent:*
+Allow: /js/*
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+Allow: /bitrix/images/main/smiles/
+Allow: /bitrix/components/
+Disallow: /bitrix
+Disallow: /index.php?
+Disallow: /registration/*
+Disallow: /search/*
+Disallow: /votes/*
+Disallow: /votes/*
+Disallow: /exclusive/*
+Disallow: /forum/user/*
+Disallow: /forum/*
+Disallow: /*SECTION_CODE=
+Disallow: /*ELEMENT_CODE=
+Disallow: /*PAGEN_1=
+Disallow: /*PAGEN_2=
+Disallow: /*?action=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*login=
+Disallow: /*logout=
+Disallow: /*totop
+Disallow: /*set_filter=
+Disallow: /*del_filter=
+Disallow: /*your-key
+Host: https://pl.mmo.one/
+
+Sitemap: https://pl.mmo.one/sitemap.xml

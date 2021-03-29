@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<!--[if lt IE 9]>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!--<![endif]-->
+
+<title>Olsztynska TV</title>
+<meta name="description" content="Filmy z Warmii i Mazur" />	<script type="text/javascript" src="/js/jquery.utils.min.js?1.0"></script>
+<script type="text/javascript" src="/js/iscroll-5.js"></script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+if(document.cookie.indexOf("adod") <= 0) {
+if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} ado.config({mode: "new", xml: false, characterEncoding: true}); ado.preview({enabled: false, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"}); ado.master({id: 'I0Lnm5nrd1zrNlFQrPAtXM00oyOmspKR69jpV0ves3P.l7', server: 'myao.adocean.pl', keys: [] });
+}    //]]>
+</script>
+
+<link href="/s/go/style-2.0.css?v4" media="screen" rel="stylesheet" type="text/css" />
+<link href="/s/go/style-lg-2.0.css?v4" media="screen and (max-width: 1240px)" rel="stylesheet" type="text/css" />
+<link href="/s/go/style-md-2.0.css?v4" media="screen and (max-width: 1000px)" rel="stylesheet" type="text/css" />
+<link href="/s/go/style-sm-2.0.css?v4" media="screen and (max-width: 760px)" rel="stylesheet" type="text/css" />
+<link href="http://olsztynska.tv/najnowsze.rss" rel="alternate" type="application/rss+xml" title="Olsztynska TV - najnowsze artykuly" />	<meta name="apple-itunes-app" content="app-id=820310423" />
+<meta property="fb:pages" content="313739633054" />
+<link href="https://plus.google.com/107865341591048252390" rel="publisher" />
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'B8LrCa7YCA8Mm80aRSnZh4XDTINRIfgAoNaEkMYmUPv.B7';
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://galindia.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-29580647-4']);
+_gaq.push(['_trackPageview']);
+
+_gaq.push(['b._setAccount', 'UA-46029911-1']);
+_gaq.push(['b._setDomainName', 'wm.pl']);
+_gaq.push(['b._trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body class="tv">
+
+<div class="page">
+
+<div id="headline" class="site">
+<p class="links">
+<a href="http://dziennikelblaski.pl/">Informacje z Elblaga</a>
+<a href="http://wm.pl/">WM.pl</a>
+<a href="http://katalog.wm.pl/">Firmy</a>
+<a href="http://praca.wm.pl/">Praca</a>
+<a href="http://dom.wm.pl/">Dom</a>
+<a href="http://moto.wm.pl/">Moto</a>
+<a href="http://przyszloscdladzieci.org/">Fundacja</a>
+<a href="http://www.familie.pl/">Familie.pl</a>
+</p>
+<p><span>sroda, 24 kwietnia 2019</span>. Imieniny Bony, Horacji, Jerzego</p>
+</div>
+
+<div id="header" class="site">
+<a id="logo" href="http://gazetaolsztynska.pl/" title="Olsztynska TV" class="logo">
+<img width="75" src="/i/go/gotv-min.png" alt="GO TV" />        </a>
+
+<div class="social">
+<p>Znajdziesz nas na</p>
+
+<a target="_blank" href="https://www.facebook.com/GazetaOlsztynska/">
+<i class="icon-facebook"></i>
+<small></small>
+</a>
+<a target="_blank" href="http://twitter.com/Olsztynska">
+<i class="icon-twitter"></i>
+<small></small>
+</a>
+<a target="_blank" href="http://www.youtube.com/user/gazetaolsztynska">
+<i class="icon-youtube"></i>
+<small></small>
+</a>
+<a target="_blank" href="https://www.instagram.com/gazetaolsztynska/">
+<i class="icon-instagram"></i>
+<small></small>
+</a>
+<!-- <a target="_blank" href="http://gazetaolsztynska.pl/najnowsze.rss">
+<i class="icon-rss"></i>
+</a> -->
+</div>
+
+<a href="http://sport.wm.pl/plebiscyt" id="prenumerata"><img src="/i/go/plebiscyt.png" alt="Plebiscyt Sportowiec Roku" /></a>
+
+<div class="weather "><p>
+<select name="city" id="city" style="width: 100%;">
+<option value="27">Bartoszyce</option>
+<option value="39">Braniewo</option>
+<option value="10">Dzialdowo</option>
+<option value="5">Elblag</option>
+<option value="6">Elk</option>
+<option value="15">Gizycko</option>
+<option value="28">Goldap</option>
+<option value="29">Ilawa</option>
+<option value="12">Ketrzyn</option>
+<option value="31">Lidzbark Warminski</option>
+<option value="7">Mragowo</option>
+<option value="17">Nidzica</option>
+<option value="8">Nowe Miasto Lubawskie</option>
+<option value="30">Olecko</option>
+<option value="4" selected="selected">Olsztyn</option>
+<option value="9">Ostroda</option>
+<option value="32">Pisz</option>
+<option value="201">Sokolow Podlaski</option>
+<option value="33">Szczytno</option>
+<option value="34">Wegorzewo</option>
+</select></p><ul><li class="day1"><a title="Pogodnie" href="/pogoda/4/Olsztyn" title="Fair"><i class="icon-Symbol2-day"></i></a><p><strong>dzisiaj</strong><span class="temp">19 / 19 &deg;C</span> <span class="wind">wiatr: 26 km/h</span> </p></li><li class="day2"><a title="Czesciowe zachmurzenie" href="/pogoda/4/Olsztyn" title="Partly cloudy"><i class="icon-Symbol3-day"></i></a><p><strong>jutro</strong><span class="temp">11 / 22 &deg;C</span> <span class="wind">wiatr: 17 km/h</span> </p></li></ul></div>
+
+<hr />
+</div>
+
+<div class="menu site" id="main-menu">
+<ul class="navigation">
+<li>
+<a id="menu-32" href="/">Strona glowna</a>
+</li>
+</ul>	</div>
+</div>
+
+
+
+<div id="content" class="site">
+
+<div class="left">
+
+<div style="clear:both;position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;margin-bottom:20px;">
+<iframe id="video" width="960" height="540" style="position:absolute;top:0;left:0;width:100%;height:100%;margin:0;" src="" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div id="videos">
+<ul class="videosTv">
+<li>
+
+<a href="#R_1zuzy4_Qg" rel="//www.youtube.com/embed/R_1zuzy4_Qg?f=videos"><img src="https://i.ytimg.com/vi/R_1zuzy4_Qg/mqdefault.jpg" /></a>
+<p><a href="#R_1zuzy4_Qg" rel="//www.youtube.com/embed/R_1zuzy4_Qg?f=videos">Debata w sprawie olsztynskiego dworca</a></p>
+</li>
+<li>
+
+<a href="#Ik-LwybkAf8" rel="//www.youtube.com/embed/Ik-LwybkAf8?f=videos"><img src="https://i.ytimg.com/vi/Ik-LwybkAf8/mqdefault.jpg" /></a>
+<p><a href="#Ik-LwybkAf8" rel="//www.youtube.com/embed/Ik-LwybkAf8?f=videos">Zyczenia wielkanocne od abp Jozefa Gorzynskiego</a></p>
+</li>
+<li>
+
+<a href="#pw3HQ0zTjjM" rel="//www.youtube.com/embed/pw3HQ0zTjjM?f=videos"><img src="https://i.ytimg.com/vi/pw3HQ0zTjjM/mqdefault.jpg" /></a>
+<p><a href="#pw3HQ0zTjjM" rel="//www.youtube.com/embed/pw3HQ0zTjjM?f=videos">Wspolne malowanie pisanek w Hotelu Krasicki - Lidzbark Warminski</a></p>
+</li>
+<li>
+
+<a href="#1-IRt80zHCA" rel="//www.youtube.com/embed/1-IRt80zHCA?f=videos"><img src="https://i.ytimg.com/vi/1-IRt80zHCA/mqdefault.jpg" /></a>
+<p><a href="#1-IRt80zHCA" rel="//www.youtube.com/embed/1-IRt80zHCA?f=videos">Pracownicy Egger Biskupiec udzielaja sie spolecznie</a></p>
+</li>
+<li>
+
+<a href="#PqhInNvV-5c" rel="//www.youtube.com/embed/PqhInNvV-5c?f=videos"><img src="https://i.ytimg.com/vi/PqhInNvV-5c/mqdefault.jpg" /></a>
+<p><a href="#PqhInNvV-5c" rel="//www.youtube.com/embed/PqhInNvV-5c?f=videos">Bez Gorsetu - spotkanie w Lidzbarku Warminskim</a></p>
+</li>
+<li>
+
+<a href="#3M8Y3ay5msI" rel="//www.youtube.com/embed/3M8Y3ay5msI?f=videos"><img src="https://i.ytimg.com/vi/3M8Y3ay5msI/mqdefault.jpg" /></a>
+<p><a href="#3M8Y3ay5msI" rel="//www.youtube.com/embed/3M8Y3ay5msI?f=videos">III Olsztynskie Targi Pracy</a></p>
+</li>
+<li>
+
+<a href="#itQs259AGtc" rel="//www.youtube.com/embed/itQs259AGtc?f=videos"><img src="https://i.ytimg.com/vi/itQs259AGtc/mqdefault.jpg" /></a>
+<p><a href="#itQs259AGtc" rel="//www.youtube.com/embed/itQs259AGtc?f=videos">Spacer z wykrzyknikiem w Olsztynie</a></p>
+</li>
+<li>
+
+<a href="#g4YX9S7tQvY" rel="//www.youtube.com/embed/g4YX9S7tQvY?f=videos"><img src="https://i.ytimg.com/vi/g4YX9S7tQvY/mqdefault.jpg" /></a>
+<p><a href="#g4YX9S7tQvY" rel="//www.youtube.com/embed/g4YX9S7tQvY?f=videos">Malowanie jajek przed wielkanocnym sniadaniem</a></p>
+</li>
+<li>
+
+<a href="#2bZZAZn5Hgs" rel="//www.youtube.com/embed/2bZZAZn5Hgs?f=videos"><img src="https://i.ytimg.com/vi/2bZZAZn5Hgs/mqdefault.jpg" /></a>
+<p><a href="#2bZZAZn5Hgs" rel="//www.youtube.com/embed/2bZZAZn5Hgs?f=videos">Wolontariat Pracowniczy Michelin ,,Moc Dobra" zabezpiecza drzewa przed bobrami</a></p>
+</li>
+<li>
+
+<a href="#2bZZAZn5Hgs" rel="//www.youtube.com/embed/2bZZAZn5Hgs?f=videos"><img src="https://i.ytimg.com/vi/2bZZAZn5Hgs/mqdefault.jpg" /></a>
+<p><a href="#2bZZAZn5Hgs" rel="//www.youtube.com/embed/2bZZAZn5Hgs?f=videos">Wolontariat Pracowniczy Michelin ,,Moc Dobra" zabezpiecza drzewa przed bobrami</a></p>
+</li>
+<li>
+
+<a href="#UmbhwdKw99U" rel="//www.youtube.com/embed/UmbhwdKw99U?f=videos"><img src="https://i.ytimg.com/vi/UmbhwdKw99U/mqdefault.jpg" /></a>
+<p><a href="#UmbhwdKw99U" rel="//www.youtube.com/embed/UmbhwdKw99U?f=videos">Konferencja poswiecona Boreliozie</a></p>
+</li>
+<li>
+
+<a href="#FxfhpBLfKTM" rel="//www.youtube.com/embed/FxfhpBLfKTM?f=videos"><img src="https://i.ytimg.com/vi/FxfhpBLfKTM/mqdefault.jpg" /></a>
+<p><a href="#FxfhpBLfKTM" rel="//www.youtube.com/embed/FxfhpBLfKTM?f=videos">Wrak na Mierzei Wislanej</a></p>
+</li>
+</ul>
+
+<p class="paginator">
+<a href="?p=CAwQAA" class="next">nastepna strona &raquo;</a> </p>
+</div>
+</div>
+
+<div class="right">
+
+<div class="block">
+<h2>Najpopularniejsze filmy</h2>
+<ul class="videosTvPopular">
+<li>
+<a href="#1AWo_YeEJYo" rel="//www.youtube.com/embed/1AWo_YeEJYo?f=videos"><img src="http://img.youtube.com/vi/1AWo_YeEJYo/default.jpg" /></a>
+<p><a href="#1AWo_YeEJYo" rel="//www.youtube.com/embed/1AWo_YeEJYo?f=videos">Poruszajacy film z pogrzebu 16-letniego Lukasza, ktory zginal w wypadku</a></p>
+</li>
+<li>
+<a href="#hfARDqqdrNM" rel="//www.youtube.com/embed/hfARDqqdrNM?f=videos"><img src="http://img.youtube.com/vi/hfARDqqdrNM/default.jpg" /></a>
+<p><a href="#hfARDqqdrNM" rel="//www.youtube.com/embed/hfARDqqdrNM?f=videos">Akcja policji na ul. Sielskiej w Olsztynie</a></p>
+</li>
+<li>
+<a href="#hwTBWvfud3k" rel="//www.youtube.com/embed/hwTBWvfud3k?f=videos"><img src="http://img.youtube.com/vi/hwTBWvfud3k/default.jpg" /></a>
+<p><a href="#hwTBWvfud3k" rel="//www.youtube.com/embed/hwTBWvfud3k?f=videos">Cysterna nie wyrobila sie na zakrecie - Pisz.mp4</a></p>
+</li>
+<li>
+<a href="#NZbHRx7xMZ8" rel="//www.youtube.com/embed/NZbHRx7xMZ8?f=videos"><img src="http://img.youtube.com/vi/NZbHRx7xMZ8/default.jpg" /></a>
+<p><a href="#NZbHRx7xMZ8" rel="//www.youtube.com/embed/NZbHRx7xMZ8?f=videos">Podnoszenie wykolejonej lokomotywy na tor. Olsztyn Gutkowo</a></p>
+</li>
+<li>
+<a href="#BUaPW5GF5LE" rel="//www.youtube.com/embed/BUaPW5GF5LE?f=videos"><img src="http://img.youtube.com/vi/BUaPW5GF5LE/default.jpg" /></a>
+<p><a href="#BUaPW5GF5LE" rel="//www.youtube.com/embed/BUaPW5GF5LE?f=videos">Doda pedzila na siodemce - FILM: KWP Olsztyn</a></p>
+</li>
+</ul>
+</div>
+
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>
+
+<div class="page">
+
+<div class="menu site bottom">
+<ul class="navigation">
+<li><a href="http://gazetaolsztynska.pl/155199,KARIERA-W-EDYTOR-SP-Z-OO-DOLACZ-DO-NASZEGO-ZESPOLU.html">Praca u nas</a></li>
+<li><a href="/12676,Reklama-w-internecie.html">Reklama</a> </li>
+<li><a href="http://gazetaolsztynska.pl/515043,Polityka-prywatnosci-portali-internetowych-wydawanych-przez-Grupa-WM-Sp-z-o-o.html">Polityka Prywatnosci</a></li>
+<li><a href="/358,Kontakt-Redakcja-Gazety-Olsztynskiej.html">Kontakt</a> </li>
+<li><a href="/Regulaminy/821-1.html">Regulaminy</a> </li>
+<li><a href="http://gazetaolsztynska.pl/patronaty">Patronaty</a> </li>
+</ul>
+</div>
+
+<div id="footer">
+<div class="site">
+<ul>
+<li class="header">Gazeta Olsztynska</li>
+<li><a href="http://przyszloscdladzieci.org/" title="Fundacja Przyszlosc dla dzieci">Fundacja</a></li>
+<li><a href="http://gazetaolsztynska.wm.pl/newsletter/register" title="Newsletter Olsztyn">Newsletter</a></li>
+<li><a href="/12676,Reklama-w-internecie.html" title="Reklama w internecie">Reklama</a></li>
+<li><a href="http://prenumerata.gazetaolsztynska.wm.pl/" title="Prenumerata Gazety Olsztynskiej">Prenumerata</a></li>
+<li><a href="http://kupgazete.pl/" title="Gazeta Olsztynska w PDF">Wydanie PDF</a></li>
+<li><a href="http://drukarnia.gazetaolsztynska.pl/" title="Drukarnia Olsztyn">Drukarnia</a></li>
+<li class="header">Portale</li>
+<li><a href="http://wm.pl/" title="Portal Warmii i Mazur">WM.pl</a></li>
+<li><a href="http://dziennikelblaski.pl/" title="Wiadomosci z Elblaga">Dziennik Elblaski</a></li>
+<li><a href="http://familie.pl/" title="Portal rodzicow">Familie</a></li>
+<li class="header">Ogloszenia</li>
+<li><a href="http://drobniak.pl/" title="Ogloszenia drobne">Drobne</a></li>
+<li><a href="http://praca.wm.pl/" title="Ogloszenia motoryzacyjne">Praca</a></li>
+<li><a href="http://dom.wm.pl/" title="Ogloszenia motoryzacyjne">Dom</a></li>
+<li><a href="http://moto.wm.pl/" title="Ogloszenia motoryzacyjne">Moto</a></li>
+<li><a href="http://katalog.wm.pl/" title="Firmy Olsztyn">Katalog Firm</a></li>
+<li class="header">Zaistniej w sieci</li>
+<li><a href="http://wmarket.pl/" title="Sklepy internetowe Olsztyn">Sklepy internetowe</a></li>
+<li><a href="http://cms.wmarket.pl/" title="Tworzenie stron internetowych Olsztyn">Tworzenie stron www</a></li>
+</ul>
+
+<ul>
+<li class="header">Serwisy powiatowe</li>
+<li><a title="Bartoszyce.wm.pl" href="http://bartoszyce.wm.pl">Bartoszyce</a></li>
+<li><a title="Braniewiak.pl" href="http://braniewo.wm.pl">Braniewo</a></li>
+<li><a title="Dzialdowo.wm.pl" href="http://dzialdowo.wm.pl">Dzialdowo</a></li>
+<li><a title="Elblag.wm.pl" href="http://dziennikelblaski.pl">Elblag</a></li>
+<li><a title="Elk.wm.pl" href="http://elk.wm.pl">Elk</a></li>
+<li><a title="Gizycko.wm.pl" href="http://gizycko.wm.pl">Gizycko</a></li>
+<li><a title="Goldap.wm.pl" href="http://goldap.wm.pl">Goldap</a></li>
+<li><a title="Ilawa.wm.pl" href="http://ilawa.wm.pl">Ilawa</a></li>
+<li><a title="Ketrzyn.wm.pl" href="http://ketrzyn.wm.pl">Ketrzyn</a></li>
+<li><a title="LidzbarkWarminski.wm.pl" href="http://lidzbarkwarminski.wm.pl">Lidzbark Warminski</a></li>
+<li><a title="Lubawa.wm.pl" href="http://lubawa.wm.pl">Lubawa</a></li>
+<li><a title="Morag.wm.pl" href="http://morag.wm.pl">Morag</a></li>
+<li><a title="Mragowo.wm.pl" href="http://mragowo.wm.pl">Mragowo</a></li>
+<li><a title="Nidzica.wm.pl" href="http://nidzica.wm.pl">Nidzica</a></li>
+<li><a title="NoweMiasto.wm.pl" href="http://nowemiasto.wm.pl">Nowe Miasto Lubawskie</a></li>
+<li><a title="Olecko.wm.pl" href="http://olecko.wm.pl">Olecko</a></li>
+<li><a title="Olsztyn.wm.pl" href="http://olsztyn.wm.pl">Olsztyn</a></li>
+<li><a title="Ostroda.wm.pl" href="http://ostroda.wm.pl">Ostroda</a></li>
+<li><a title="Pisz.wm.pl" href="http://pisz.wm.pl">Pisz</a></li>
+<li><a title="Szczytno.wm.pl" href="http://szczytno.wm.pl">Szczytno</a></li>
+<li><a title="Wegorzewo.wm.pl" href="http://wegorzewo.wm.pl">Wegorzewo</a></li>
+</ul>
+
+<ul>
+<li class="header">Serwisy tematyczne</li>
+<!-- <li><a href="http://jedenprocent.wm.pl" title="Organizacje pozytku publicznego w Olsztynie">Podaruj swoj 1%</a></li> -->
+<li><a href="http://biznes.wm.pl" title="Biznes.wm.pl">Biznes i Finanse</a></li><li><a href="http://ekomazury.wm.pl" title="Ekomazury.wm.pl">Ekomazury</a></li><li><a href="http://gry.wm.pl" title="Gry.wm.pl">Gry</a></li><li><a href="http://kto.wm.pl" title="Kto jest kim...">Kto jest kim...</a></li><li><a href="http://kultura.wm.pl" title="Kultura.wm.pl">Kultura</a></li><li><a href="http://orientacja.pl" title="Imprezy, Film, Koncerty, Kultura, Clubbing">Orientacja</a></li><li><a href="http://planetawiedzy.pl" title="Planeta Wiedzy">Planeta Wiedzy</a></li><li><a href="http://rolniczeabc.pl" title="Strona bezplatnego dodatku do Gazety Olsztynskiej">Rolnicze ABC</a></li><li><a href="http://student.wm.pl" title="Portal dla kazdego Studenta - informacje, rekrutacja, studia, uczelnie, juwenalia">Student</a></li><li><a href="http://ukraincy.wm.pl" title="Ukraincy">Ukraincy</a></li><li><a href="http://wiara.wm.pl" title="Wiara.wm.pl">Wiara</a></li><li><a href="http://zdrowie.wm.pl" title="Wszystko o zdrowiu i urodzie. Pielegnacja ciala, odchudzanie, sport, aktywny wypoczynek, fitness, opalanie.">Zdrowie</a></li><li><a href="http://zwierzeta.wm.pl" title="Psy, Koty, Konie, Fretki - Porady, pielegnacja i informacje">Zwierzeta</a></li>                <li class="header">Serwisy turystyczne</li>
+<li><a href="http://mojemazury.pl" title="Noclegi, Atrakcje turystyczne na Mazurach">Moje Mazury</a></li><li><a href="http://mojezulawy.pl" title="Serwis turystyczny Zulaw i Powisla">Moje Zulawy</a></li><li><a href="http://naszawarmia.pl" title="Serwis turystyczny Warmii">Nasza Warmia</a></li><li><a href="http://natura.wm.pl" title="Natura Warmii i Mazur">Natura</a></li><li><a href="http://podroze.wm.pl" title="Podroze.wm.pl">Podroze</a></li><li><a href="http://twojasuwalszczyzna.pl" title="Serwis turystyczny Suwalszczyzny">Twoja Suwalszczyzna</a></li><li><a href="http://ziemiachelminska.pl" title="Serwis turystyczny Ziemi Chelminskiej">Ziemia Chelminska</a></li>            </ul>
+
+<div>Informacje, wydarzenia oraz wiadomosci z Olsztyna i innych miejscowosci z Warmii i Mazur.<br />
+<br />
+GRUPA WM Sp. z o.o.<br />
+ul. Tracka 5, 10-364 Olsztyn<br />
+tel. 89 539 77 00<br />
+<br />
+Redakcja<br />
+tel. 89 539 75 10, 89 539 75 20<br />
+<a href="mailto:internet@gazetaolsztynska.pl">internet@gazetaolsztynska.pl</a><br />
+<br />
+Ogloszenia:<br />
+tel. 89 527 35 70, 89 542 67 47<br />
+<br />
+</div>
+<p>GRUPA WM Sp. z o. o. jest czlonkiem <a target="_blank" href="http://www.iabpolska.pl/">IAB Polska</a></p>
+</div>
+</div>
+
+<div id="copyright">
+<p class="site">
+2001-2019 &copy; Gazeta Olsztynska, Wszelkie prawa zastrzezone, GRUPA WM Sp. z o. o., 10-364 Olsztyn, ul. Tracka 5
+<small>Serwer: www1.</small>
+</p>
+</div>
+
+
+</div>
+
+<script type="text/javascript" src="/js/go/scripts.min.js?blockinfo"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+$(function(){
+
+if(window.location.hash) $('#video').attr('src','//www.youtube.com/embed/' + window.location.hash.substr(1) + '?f=videos');
+else $('#video').attr('src', $('a[rel]:first').attr('rel') );
+
+$('body').delegate('a[rel]','click',function(){
+$('#video').attr('src',$(this).attr('rel') );
+$('html, body').animate({ scrollTop: $('#video').offset().top -20 });
+return false;
+});
+
+$('body').delegate('.paginator a','click',function(){
+$('#videos').load($(this).attr('href'));
+$('html, body').animate({ scrollTop: $('#videos').offset().top - 20 });
+return false;
+});
+
+});    //]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+$(document).ready(function(){
+$('.art-text a').mouseup(function(e){
+if(e.which == 3) return false;
+var url = $(this).attr('href');
+if (e.currentTarget.host != window.location.host) {
+_gaq.push(['_trackEvent', 'Link zewnetrzny', e.currentTarget.host, url, 0]);
+e.preventDefault();
+return false;
+var newtab = (e.metaKey || e.ctrlKey || which == 2) ? true : false;
+if (!newtab) { e.preventDefault(); setTimeout('document.location = "' + url + '"', 100); }
+}
+});
+$('#content').delegate('.eventAB a','click',function(){
+_gaq.push(['_trackEvent', 'Wyjscie z bloku', $(this).parents('.eventAB').find('h2').text(), 'B', 0]);
+});
+});    //]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+$(document).delegate('.weather select', 'change', function() {
+var div = $(this).parents('.weather').css('opacity','0.3');
+$.post('/ajax/weather/city/'+$(this).val(), {header:'',icons:'light',citySelect:'top'}, function(data){
+div.replaceWith(data);
+});
+});
+});    //]]>
+</script>
+
+<script type="text/javascript" src="/js/rodo-wm.js"></script>
+</body>
+</html>

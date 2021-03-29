@@ -1,0 +1,1 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><HTML><FRAMESET ROWS="100%,*" BORDER=0 FRAMEBORDER=0 FRAMESPACING=0><FRAME NAME="top" SRC="https://www.google.pl/maps/place/PPHU+SEZAM+Artur+Sieczkowski/@49.566011,22.0713883,17z/data=!3m1!4b1!4m2!3m1!1s0x473c6b5d89347e23:0x2afa90459d956550" NORESIZE></FRAMESET></HTML>

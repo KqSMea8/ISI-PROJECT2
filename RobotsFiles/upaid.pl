@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /users*/
+Disallow: /o_nas/
+Disallow: /o_masterpass/
+Disallow: /weryfikacja/
+Disallow: /pages*/
+Disallow: /regulamin/
+Disallow: /faq/
+Disallow: /bezpieczenstwo/
+Disallow: /promocje/

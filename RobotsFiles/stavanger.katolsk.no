@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /kalender/action~posterboard/
+Disallow: /kalender/action~agenda/
+Disallow: /kalender/action~oneday/
+Disallow: /kalender/action~month/
+Disallow: /kalender/action~week/
+Disallow: /kalender/action~stream/
+Disallow: /kalender/action~undefined/
+Disallow: /kalender/action~http:/
+Disallow: /kalender/action~default/
+Disallow: /kalender/action~poster/
+Disallow: /kalender/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

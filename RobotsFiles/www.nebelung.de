@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /download-archiv/
+Disallow: /b2b-archiv/
+Disallow: /medienarchiv/
+Disallow: /fachberater-archiv/
+Disallow: /b2v-download-archiv/
+Disallow: /tv/
+Disallow: /presse/
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.nebelung.de/xml-sitemap.xml

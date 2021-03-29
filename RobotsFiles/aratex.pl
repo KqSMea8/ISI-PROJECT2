@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /?p=
+Disallow: /%22http:/
+Disallow: /en/comments/
+Disallow: /en/feed/
+Disallow: /index.php/
+Disallow: /pl/comments/
+Disallow: /pl/feed/
+Disallow: /xmlrpc.php
+Disallow: /nemo/kontakt.html
+Disallow: /nemo/oferta.html

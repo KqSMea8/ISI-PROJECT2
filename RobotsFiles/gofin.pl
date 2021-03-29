@@ -1,0 +1,34 @@
+User-Agent: *
+Disallow: /obpon
+Disallow: /aktualizacja
+Disallow: /ankieta_bilans
+Disallow: /ankietapodziekowanie
+Disallow: /error
+Disallow: /graf
+Disallow: /komunikaty
+Disallow: /mailing2011
+Disallow: /owydawnictwie
+Disallow: /phpmailer
+Disallow: /pliki_mail
+Disallow: /poligrafia
+Disallow: /przerwatechniczna
+Disallow: /reklama
+Disallow: /reklama_new
+Disallow: /reklama_old
+Disallow: /rekrutacja
+Disallow: /s_w_l
+Disallow: /sms
+Disallow: /statystyki
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
+
+User-agent: AHC
+Disallow: /
+
+User-Agent: bingbot
+Crawl-Delay: 10
+

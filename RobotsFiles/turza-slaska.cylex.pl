@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /google/
+Disallow: /reviews/
+Disallow: /webmastertools/
+Disallow: /fir_news/
+Disallow: /webservices/
+Disallow: /Homepage/internet-shops.asp
+Disallow: /webshop/
+Disallow: /correct/
+Disallow: /webservices/
+Disallow: /ContactForm.aspx
+Disallow: /ContactForm2.aspx
+Disallow: /ContactForm.ashx
+Disallow: /uploadHandler.ashx
+Disallow: /userContent.ashx
+Disallow: /korrektur_firmendaten.asp
+Disallow: /s?
+Disallow: /ScriptResource.axd
+Disallow: /combinescriptshandler.axd
+Disallow: /WebResource.axd
+Disallow: /info/cookies_policy.html
+Disallow: /info/privacy_policy.html
+Disallow: /deutsch/html/datenschutzbestimmungen.htm
+
+User-agent: Mediapartners-Google
+Allow: /s?

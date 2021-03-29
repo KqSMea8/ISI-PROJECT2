@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /_layouts/
+Disallow: /cz/_layouts/
+Disallow: /en/_layouts/
+Disallow: /ro/_layouts/
+Disallow: /pl/_layouts/
+Disallow: /sk/_layouts/
+Disallow: /hu/_layouts/
+Disallow: /lt/_layouts/
+Disallow: /lv/_layouts/
+Disallow: /bg/_layouts/
+Disallow: /de/_layouts/
+

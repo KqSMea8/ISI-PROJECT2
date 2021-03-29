@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: *&k_prod=*
+Disallow: *&sort=*
+Disallow: *?podkat*
+Disallow: *&id*
+Disallow: *?do*
+Disallow: *&k_podkat=*
+Disallow: *?producent=*
+Disallow: *&site_no=*
+Disallow: *?promocje=*
+Disallow: *group=&*
+Disallow: *&do_search_2*
+Disallow: *?do_search*
+Sitemap: https://www.sklepikseniora.pl/sitemap.xml

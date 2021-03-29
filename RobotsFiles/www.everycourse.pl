@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /user/
+Disallow: /css/
+Disallow: /js/
+Disallow: /rss
+Disallow: /images/
+Disallow: /view/
+Disallow: /ad/
+Disallow: /adview/
+Disallow: /wcourse
+Disallow: /wkurz
+Disallow: /wkursus
+Disallow: /wkurs
+Disallow: /w%CE%B5%CE%BA%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%B1
+Disallow: /w%CE%B5%CE%BA%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B1-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B1
+Disallow: /wcursos
+Disallow: /wformation
+Disallow: /wk%C3%A9pz%C3%A9s
+Disallow: /wkepzes
+Disallow: /wcorsi
+Disallow: /w%E8%AC%9B%E5%BA%A7
+Disallow: /w%ED%9B%88%EB%A0%A8
+Disallow: /wopleidingen
+Disallow: /wkursy
+Disallow: /wcursuri
+Disallow: /w%D0%BA%D1%83%D1%80%D1%81
+Disallow: /wkurser
+Disallow: /w%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3
+Disallow: /w%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B8%A3
+Disallow: /we%9Fitim
+Disallow: /wdao-tao
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Allow: /

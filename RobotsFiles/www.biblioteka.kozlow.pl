@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /actions/
+Disallow: /admin/
+Disallow: /bazy/
+Disallow: /core/
+Disallow: /database/
+Disallow: /lang/
+Disallow: /libraries/
+Disallow: /stats/

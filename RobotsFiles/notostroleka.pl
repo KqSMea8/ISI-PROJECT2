@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+User-agent: BUbiNG
+Disallow: /
+User-agent: ltx71
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: Barkrowler
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Yeti
+Disallow: /
+User-agent: DeuSu
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: YetiBOT
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /

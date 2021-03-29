@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /stat/
+Disallow: /temp/
+Disallow: /face/
+Disallow: /grafika/
+Disallow: /fotografia-slubna/sm-slider/
+Disallow: /fotografia-slubna/lrg-slider/
+Disallow: /fotografia-slubna/prv/

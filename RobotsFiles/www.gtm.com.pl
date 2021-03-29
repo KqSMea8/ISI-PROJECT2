@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /k/
+Disallow: /highslide/
+Disallow: /docs/
+Disallow: /stat/
+Disallow: /kalkulator/
+Disallow: /pro/
+Disallow: /include/
+Disallow: /12345/
+Disallow: /filip/

@@ -1,0 +1,38 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-agent: msnbot
+User-agent: Bingbot
+User-agent: Bubing
+User-agent: SemrushBot
+User-agent: magpie-crawler
+User-agent: BLEXBot
+User-agent: GarlikCrawler
+User-agent: dotbot
+User-agent: Qwantify
+User-agent: Riddler
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: Scrapy
+User-agent: MauiBot
+User-agent: YisouSpider
+User-agent: ZoominfoBot
+User-agent: istellabot
+User-agent: Seobility
+User-agent: CCBot
+User-agent: The Knowledge AI
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow:/
+
+User-agent: Sogou web spider
+User-agent: Baiduspider
+Disallow:/
+Allow:/zh/
+Allow:/zh-tw/
+Allow:/yue/
+
+User-agent: *
+Disallow: /*?
+
+Sitemap: http://transposh.org/sitemap.xml
+

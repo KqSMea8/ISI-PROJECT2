@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /edycjaWWW/
+Disallow: /benek/
+Disallow: /pol/
+Disallow: /aukcje/
+Disallow: /attum_e-sklep/
+Disallow: /attum_reklama/
+Disallow: /StaraStronaWWW/
+Allow: /
+Disallow: /ra2/
+Disallow: /pol/
+Disallow: /kalGz/
+Disallow: /kal/
+Disallow: /drukarnia.html
+Disallow: /galeria.html
+Disallow: /kontakt.html
+Disallow: /multimedia.html
+Disallow: /oferta.html
+Disallow: /reklama-na-pojazdach.html
+Disallow: /sitodruk.html
+Disallow: /tampodruk.html
+Disallow: /wizytowki.html
+

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /dev.php/
+Disallow: /admin/
+Disallow: /admin.php/
+Disallow: /admin_dev.php/
+Disallow: /admin_nocache.php/
+
+user-agent: AhrefsBot
+user-agent: MJ12bot
+disallow: /
+
